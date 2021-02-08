@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: définition 870
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 870, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+    - original: ICRU Report 60
+      ref: ICRU Report 60
+      relationship:
+        type: identical
+  concept: 914f614a-68d0-5c83-a9b5-f1d63f79b014
+  definition: quotient du nombre dstem:[N] de particules incidentes sur une surface
+    par l’aire dstem:[a] de cette surface
+  examples: []
+  notes:
+  - La valeur numérique de la fluence de particules est la même que celle de l’intégrale
+    du flux de particules par rapport au temps.
+  - Le mot «particule» est habituellement remplacé par le nom d'une particule élémentaire
+    spécifique, par exemple fluence de neutrons. Cette grandeur s'exprime en particules
+    par unité d’aire (m^−2^, cm^−2^).
+  - Cet article était numéroté 393-14-25 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: a76f2780-4c13-5fb7-90ff-6a0c86dc8d3c
+status: Standard

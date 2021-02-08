@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '3.3'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.3
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  concept: 2b50ba80-5e89-55cd-a61b-d018fe7fc2fe
+  definition: average value of the {{maximum force, IEV:523-03-01}} and the {{minimum
+    force, IEV:523-03-02}} in constant {{amplitude, IEV:523-03-11}} loading, or of
+    individual {{cycles, IEV:103-05-08}}
+  examples: []
+  notes:
+  - This definition is a modified version of a definition in ASTM E 1823-05a.
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: e1f33edd-4c54-5c4f-a420-04ab6a2ea752
+status: Standard

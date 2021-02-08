@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9b0f40d2-e8e6-5dc1-86c6-f7948e9d1fb9
+  definition: rigorous comparison of the output of a development phase with its input
+    in order to detect and remove instances of non-conformity before they become faults
+    in the delivered software
+  examples: []
+  notes:
+  - Fagan inspection is a fault removal technique, performed by organised teams, and
+    is an example of verification.
+  - 'The levels at which Fagan inspection is normally carried out are: comparison
+    of design with specification, comparison of detailed design with high-level design,
+    and comparison of source code with detailed design. Test plans are also inspected
+    against design documents.'
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 08fe796b-e89a-540d-930e-28c67aa68d4a
+status: Standard

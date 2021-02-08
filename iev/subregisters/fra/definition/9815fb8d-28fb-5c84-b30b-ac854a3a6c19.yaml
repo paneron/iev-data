@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: f65ed04d-b367-5d1c-9779-55efbf8341d7
+  definition: quotient stem:[G/ T], généralement exprimé en unités logarithmiques,
+    du gain isotrope stem:[G] d'une antenne par la température de bruit stem:[T] de
+    l'ensemble d'un récepteur et de son antenne, rapportée aux bornes de celle-ci,
+    à une fréquence et dans des conditions d'installation et d'emploi spécifiées
+  examples: []
+  notes:
+  - Si la température de bruit est exprimée en kelvins, et le gain en rapport de puissances,
+    la quantité 10 lg stem:[G/T] est exprimée avec une unité de mesure désignée par
+    le symbole dBK.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 9815fb8d-28fb-5c84-b30b-ac854a3a6c19
+status: Standard

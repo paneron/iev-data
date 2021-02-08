@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 815c87af-91b9-5cd7-ae2d-1d5e50763753
+  definition: 'change in radiant energy with time
+
+
+    stem:[Phi_e = ((d Q_e))/((d t))]
+
+
+    where stem:[Q]~e~ is the radiant energy emitted, transferred or received, and
+    stem:[t] is time'
+  examples: []
+  notes:
+  - The corresponding photometric quantity is "luminous flux". The corresponding quantity
+    for photons is "photon flux".
+  - The term "radiant flux" is the preferred term for most radiometric applications,
+    with the notable exception of laser radiometry where the term "radiant power"
+    is more commonly used.
+  - The radiant flux is expressed in watt (W).
+  - This entry was numbered 845-01-24 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: e389b4d4-593e-5ff7-beec-898feafefc26
+status: Standard

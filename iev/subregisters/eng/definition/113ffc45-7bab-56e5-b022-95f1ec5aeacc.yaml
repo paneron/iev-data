@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: fd16e4d1-2e58-5226-a41d-768a194f0eef
+  definition: severity of effect with respect to specified evaluation criteria
+  examples: []
+  notes:
+  - 'The criticality evaluation criteria normally include: the effects of the fault
+    or failure: on the item itself; on the system of which it is a part; and on items
+    beyond the system boundary.'
+  - For criticality analysis, see failure modes, effects and criticality analysis
+    ({{192-11-06, IEV:192-11-06}}).
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 113ffc45-7bab-56e5-b022-95f1ec5aeacc
+status: Standard

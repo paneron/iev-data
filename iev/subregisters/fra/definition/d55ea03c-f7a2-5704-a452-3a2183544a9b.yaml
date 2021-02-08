@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5598f61e-0a27-5b16-8156-6e80d593ce44
+  definition: résistance ohmique à l'intérieur de la {{cellule élémentaire à combustible,
+    IEV:485-08-01}}, mesurée entre les {{collecteurs de courant, IEV:485-06-07}},
+    due à des résistances électroniques et ioniques des différents composants (électrodes,
+    électrolyte, plaques bipolaires et collecteurs de courant)
+  examples: []
+  notes:
+  - Le terme ohmique fait référence au fait que la relation entre la chute de tension
+    et le courant est linéaire et obéit à la {{loi d'Ohm, IEV:131-15-08}}.
+dateAccepted: 2018-11-17
+id: d55ea03c-f7a2-5704-a452-3a2183544a9b
+status: Standard

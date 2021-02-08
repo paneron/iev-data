@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: eedf78d7-8f3f-59ae-97ae-f0d4bd8e7eba
+  definition: transformation de {{données, IEV:171-01-02}} afin de cacher leur contenu
+    sémantique en utilisant la {{cryptographie, IEV:171-08-08}}
+  examples: []
+  notes:
+  - L'opération inverse est appelée {{déchiffrement, IEV:171-08-10}}.
+dateAccepted: 2018-11-17
+id: f54b17ea-a8ae-54ae-bc8a-d3a57798c0e3
+status: Standard

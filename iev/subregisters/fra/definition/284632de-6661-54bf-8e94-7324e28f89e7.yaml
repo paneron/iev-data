@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: fa755177-da89-59b5-bbb7-b47822b9e6ba
+  definition: moyenne géométrique des fréquences de coupure limitant une même bande
+    passante ou une même bande atténuée
+  examples: []
+  notes:
+  - Dans la pratique, la moyenne arithmétique est souvent utilisée comme une bonne
+    approximation à la moyenne géométrique pour les filtres piézoélectriques dont
+    la bande passante ou la bande atténuée est relativement étroite.
+  - Cet article était numéroté 561-03-11 dans l'IEC 60050-561:1991.
+dateAccepted: 2018-11-17
+id: 284632de-6661-54bf-8e94-7324e28f89e7
+status: Standard

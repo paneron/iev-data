@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: '1.22'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.22
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  concept: 5e21954a-4fb3-5cd2-8137-ccc2152a21e4
+  definition: relation d'égalité entre des grandeurs d'un système de grandeurs donné,
+    indépendante des unités de mesure
+  examples: []
+  notes:
+  - "La forme générale d'une équation aux grandeurs est stem:[f](stem:[Q]~1~, stem:[Q]~2~,\
+    \ ... stem:[Qn]) = 0, où stem:[Q]~1~, stem:[Q]~2~, ... stem:[Qn] notent différentes\
+    \ grandeurs. Une forme simple d'une équation aux grandeurs est stem:[Q]~1~ = stem:[ζ]\
+    \ stem:[Q]~2~ stem:[Q]~3~, où stem:[ζ] est un facteur numérique.\n\nExemples:\n\
+    \n\r\n* stem:[T] = (1/2) stem:[mv]^2^, où stem:[T] est l'énergie cinétique et\
+    \ stem:[v] la vitesse d’une particule spécifiée de masse stem:[m];\r\n* stem:[n]\
+    \ = stem:[I]·stem:[t]/stem:[F], où stem:[n] est la quantité de matière d'un composé\
+    \ univalent, stem:[I] est le courant électrique et stem:[t] la durée de l’électrolyse,\
+    \ et stem:[F] est la constante de Faraday.\r\n\r\n"
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 83fde808-d9f6-5ada-b7ac-b00b3cf91f9c
+status: Standard

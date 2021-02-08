@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - link: https://www.iso.org/standard/2210.html
+      original: ISO 140/4
+      ref: ISO 140-4
+      relationship:
+        type: identical
+  concept: 1aaa0a2d-3dbf-5724-8fe6-a9384c961b37
+  definition: isolement acoustique brut entre deux salles, augmenté d'un terme correctif
+    égal à dix fois le logarithme décimal du rapport de la durée de réverbération
+    dans la salle de réception à la durée de réverbération de référence. Il est eхprimé
+    en décibels
+  examples: []
+  notes:
+  - Pour les locaux à usage d'habitation, la damée de réverbération de référence est
+    égale à 0,5 s.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 72ba8bad-b853-5a30-b9b4-ac02a9bd95c1
+status: Standard

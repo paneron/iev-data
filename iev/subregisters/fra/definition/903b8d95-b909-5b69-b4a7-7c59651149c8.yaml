@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 161-08-20
+      link: null
+      original: IEV 161-08-20, modifié
+      ref: IEV
+      relationship:
+        type: modified
+  concept: c42d0961-0db5-5aa0-9495-72448bc3e467
+  definition: disparition de la tension d'alimentation pendant un intervalle de temps
+    dont la durée est comprise entre deux limites spécifiées
+  examples: []
+  notes:
+  - En pratique, on considère qu'il y a coupure brève si la tension d'alimentation
+    tombe à moins de 5 % ou 10 % de la tension nominale, la limite inférieure de la
+    durée étant généralement de quelques dixièmes de seconde, tandis que sa limite
+    supérieure est généralement de l'ordre d'une minute (mais peut, dans certains
+    cas, atteindre trois ou cinq minutes).
+dateAccepted: 2018-11-17
+id: 903b8d95-b909-5b69-b4a7-7c59651149c8
+status: Standard

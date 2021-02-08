@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: b39ed9f4-00a9-5cf6-b436-c52180241fdd
+  definition: highest average wind speed, averaged over stem:[t] sec, that is likely
+    to be experienced within a specified time period (recurrence period) of stem:[T]
+    years
+  examples: []
+  notes:
+  - Recurrence periods of stem:[T] = 50 years and stem:[T] = 1 year and averaging
+    times of stem:[t] = 3 s and stem:[t] = 10 min are used in a number of standards.
+    In popular language the less precise term “survival wind speed” is often used.
+    In practice, however, the wind turbine generator system is designed using the
+    extreme wind speed for design load cases.
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: 2b9add1f-21b9-53b4-b95b-401a6d7cfe4b
+status: Standard

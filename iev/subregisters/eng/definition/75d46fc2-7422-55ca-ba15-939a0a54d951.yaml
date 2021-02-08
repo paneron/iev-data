@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 702-09-37
+      link: null
+      original: 702-09-37 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 713-07-22
+      link: null
+      original: 713-07-22 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: dbad0df6-b7b9-52f9-afca-c633bcd0d265
+  definition: signal converter for effecting a frequency translation of a signal
+  examples: []
+  notes:
+  - A frequency changer comprises an oscillator and a frequency mixer, generally followed
+    by a band-pass filter.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 75d46fc2-7422-55ca-ba15-939a0a54d951
+status: Standard

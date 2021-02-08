@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: c76798fa-916a-551b-84d6-887985d63f66
+  definition: 'complex value where the real part is the refractive index and the imaginary
+    part is related to the spectral absorption index
+
+
+    stem:[hat n ( lambda ) = n ( lambda ) - i kappa ( lambda )]
+
+
+    where where stem:[n](stem:[λ]) is the refractive index at wavelength stem:[λ],
+    stem:[κ](stem:[λ]) is the spectral absorption index and stem:[i = sqrt(- 1)]'
+  examples: []
+  notes:
+  - The complex refractive index has unit one.
+  - This entry was numbered 845-04-103 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 68a2c668-f27a-5048-9184-d63899ad9602
+status: Standard

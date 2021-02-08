@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 86ad680d-defd-52f7-8a93-dd4e0a3819d2
+  definition: 'the dose equivalent to an organ or tissue that will be accumulated
+    over 50 years following the intake of radioactive material into the body
+
+
+    stem:[H_((50)) = int_(t_0)^(t_0 + 50 years) overset(˙)(H) ( t ) d t]
+
+
+    where stem:[overset(˙)(H) ( t )] is the dose equivalent rate at time stem:[t]
+    and stem:[t]~0~ is the time of intake'
+  examples: []
+  notes: []
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 9205cf36-1ffd-5e3c-a147-7498c00dcea1
+status: Standard

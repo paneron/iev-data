@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07ab484b-2547-5e56-8e06-164b7109cc0c
+  definition: 'angle dont la tangente est le rapport de la résistance stem:[R] à la
+    valeur absolue de la réactance stem:[X] d''une impédance
+
+
+    stem:[delta = a r c t a n (R)/((| X |))]'
+  examples: []
+  notes:
+  - L’angle de perte est défini en {{151-15-48, IEV:151-15-48}} comme l’angle dont
+    la tangente est le facteur de dissipation, ou rapport de la puissance active à
+    la valeur absolue de la puissance réactive. D’autres angles de pertes sont définis
+    en électromagnétisme (voir {{121-12-17, IEV:121-12-17}} et {{121-12-35, IEV:121-12-35}}).
+dateAccepted: 2018-11-17
+id: 4dff3ff0-db44-5a69-8eb7-4378d33093fa
+status: Standard

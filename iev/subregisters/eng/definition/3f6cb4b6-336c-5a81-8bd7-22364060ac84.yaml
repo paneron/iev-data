@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: '4.21'
+      original: VIM 4.21
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  concept: 53ac90d8-5250-55b6-94fc-d5b10c5aaa96
+  definition: distance between two successive scale marks measured on the same line
+    as the scale length
+  examples: []
+  notes:
+  - Scale spacing is expressed in units of length, regardless of the units of the
+    measurand, or the units marked on the scale.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 3f6cb4b6-336c-5a81-8bd7-22364060ac84
+status: Standard

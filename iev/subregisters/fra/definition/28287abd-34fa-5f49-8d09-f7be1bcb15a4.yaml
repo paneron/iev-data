@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 775b6a20-9254-5b2d-9959-ce960e90b4fb
+  definition: nombre réel dans l'intervalle de 0 à 1, associé à un événement aléatoire
+    et exprimant quantitativement le caractère plus ou moins probable de la réalisation
+    de cet événement
+  examples: []
+  notes:
+  - La probabilité peut se rapporter à une fréquence relative d'une occurrence dans
+    une longue série ou à un degré de croyance qu'un événement se produira.
+  - Les cas limites d'un événement qui ne se réalisera sûrement pas et d'un événement
+    qui se réalisera sûrement sont associés respectivement aux probabilités 0 et 1.
+dateAccepted: 2018-11-17
+id: 28287abd-34fa-5f49-8d09-f7be1bcb15a4
+status: Standard

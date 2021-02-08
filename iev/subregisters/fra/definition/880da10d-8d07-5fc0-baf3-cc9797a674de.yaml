@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0b539e59-b34a-5753-bc76-f940c810fd68
+  definition: quotient de cinq fois la somme de l'aire des parois délimitée par le
+    plafond et le plan des luminaires par la somme des aires du plafond et du plan
+    des luminaires, utilisé dans le calcul du facteur d'utilisation ou de l'utilance
+  examples: []
+  notes:
+  - 'Le rapport du plafond est donné par la formule
+
+
+    stem:[K_c = ((5 h_c ( a + b )))/((a b))]
+
+
+    où stem:[a] et stem:[b] sont les dimensions des côtés du local et stem:[h]~c~
+    est la distance entre le plafond et le plan des luminaires.'
+  - Voir aussi "<a href="IEV845-29-076">rapport du sol</a>" et "<a href="IEV845-29-072">rapport
+    du local</a>".
+  - L'unité de rapport du plafond est un.
+dateAccepted: 2018-11-17
+id: 880da10d-8d07-5fc0-baf3-cc9797a674de
+status: Standard

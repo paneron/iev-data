@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: b6dc1330-5d66-56c2-a6a5-8fdd5fca8d26
+  definition: a function equal to the ratio of Fourier transforms of corresponding
+    signals at output and input of a linear and time-invariant two port device
+  examples: []
+  notes:
+  - The frequency response of a two-port device equals the ratio of the Laplace transforms
+    of output and input signals for the purely imaginary values of the complex frequency,
+    the variable of Laplace transform. It is then the Fourier transform of the unit
+    pulse response of the two-port device.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 7f094853-eabb-5e49-b164-58f06f1aad45
+status: Standard

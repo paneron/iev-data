@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: a47a1bd3-556c-5188-9aac-b57346e0bdb8
+  definition: 'si l''on désigne par stem:[U] la tension à des bornes de sortie données,
+    produite à la lecture d''un signal de fréquence de référence 1 000 Hz, enregistré
+    à une vélocité stem:[v] cm/s, la sensibilité d''une voie à 1 000 Hz est donné
+    par l''expression:
+
+
+    stem:[(U)/(v) mV // cm * s^(- 1)]
+
+
+    où stem:[U] et stem:[v] sont l''une et l''autre des valeurs efficaces ou des valeurs
+    de crête'
+  examples: []
+  notes: []
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: c2850ee0-9bc7-5131-acb0-2adecd18dd41
+status: Standard

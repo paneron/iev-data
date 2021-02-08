@@ -1,0 +1,32 @@
+data:
+  authoritative_source:
+  - null
+  concept: d6814d4a-51a8-5449-97f2-b5d13dd7cd0c
+  definition: two-terminal-pair network for which the sum of instantaneous powers
+    at the two-terminal pairs is identically equal to zero and for which the ratio
+    of the input voltage and the output voltage has a constant value stem:[K]
+  examples: []
+  notes:
+  - An ideal transformer can be considered as a linear inductive 2-terminal-pair element
+    characterized by a singular inductance matrix.
+  - 'For an ideal transformer, the input voltage stem:[u]~1~, the output voltage stem:[u]~2~,
+    the input current stem:[i]~1~ and the output current stem:[i]~2~ are related by
+    the formula:
+
+
+    stem:[((u_1))/((u_2)) = - ((i_2))/((i_1)) = K]
+
+
+    with the usual reference conventions for associated voltages and currents given
+    for two-port networks in IEC 60375:2003, Clause 7.'
+  - 'Under sinusoidal conditions, the impedance stem:[Z]~1~ seen at the input port
+    is the product of the terminating impedance stem:[Z] at the output port by the
+    square of the constant stem:[K]:
+
+
+    stem:[Z]~1~ = stem:[K]^2^stem:[Z]'
+  - An ideal transformer is a circuit element that neither stores nor dissipates energy.
+    The transformer as a device is defined in IEC 60050-151.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: 2cb87db8-93d1-5fb9-b0b2-ae2c39b4bb78
+status: Standard

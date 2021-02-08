@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 221-01-15
+      link: null
+      original: 221-01-15 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 4589cef7-6eb8-5aca-be46-103834ca1533
+  definition: magnetic material having low coercivities for the magnetic flux density
+    as well as for the magnetic polarization
+  examples: []
+  notes:
+  - A specific value of coercivity defining the boundary between magnetically hard
+    and soft materials cannot easily be stated but it generally lies in the range
+    1 kA/m to 10 kA/m.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: c03bd6de-da26-5de7-9d53-6fdf154e7642
+status: Standard

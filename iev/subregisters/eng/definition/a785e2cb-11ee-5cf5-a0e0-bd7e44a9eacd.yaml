@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 89e42e9a-9317-5598-bc7a-beedfaf2a839
+  definition: any of the stem:[n] scalar quantities stem:[Q_1 , Q_2 , ... , Q_n] in
+    the representation of a vector quantity *stem:[Q]* as the linear combination stem:[Q_1
+    a_1 + Q_2 a_2 + ... + Q_n a_n] of the base vectors stem:[a_1 , a_2 , ... , a_n]
+  examples: []
+  notes:
+  - "Instead of treating each component of a vector quantity as a quantity (i.e. the\
+    \ product of a numerical value and a unit of measurement), the vector quantity\
+    \ *stem:[Q]* may be represented as a vector of numerical values multiplied by\
+    \ the unit:\n\nstem:[Q = { Q_1 } Q e_1 + { Q_2 } Q e_2 + { Q_3 } Q e_3 = ( { Q_1\
+    \ } e_1 + { Q_2 } e_2 + { Q_3 } e_3 ) Q] \nwhere stem:[{ Q_1 } , { Q_2 } , { Q_3\
+    \ }] are numerical values, stem:[Q] is the unit, and stem:[e_1 , e_2 , e_3] are\
+    \ the unit vectors. Similar considerations apply to tensor quantities."
+  - The components of a vector quantity are transformed by a coordinate transformation
+    like the coordinates of a position vector.
+  - The term "coordinate" is generally used when the vector quantity is a position
+    vector. This usage is consistent with the definition of the coordinates of a vector
+    in mathematics ({{IEV 102-03-09, IEV:102-03-09}}).
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: a785e2cb-11ee-5cf5-a0e0-bd7e44a9eacd
+status: Standard

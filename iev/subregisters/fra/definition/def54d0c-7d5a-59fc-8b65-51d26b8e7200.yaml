@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: '3.9'
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.9, modifié – Note 2 à l'article ajoutée. "valeur",
+        “alimentation” et “ tension entre phases”  ont été remplacés par "valeur assignée",
+        "alimentation électrique"  et "tension entre phases" respectivement pour compatibilité
+        avec le VEI.
+      ref: IEC 60664-1:2007
+      relationship:
+        modification: Note 2 à l'article ajoutée. "valeur", “alimentation” et “ tension
+          entre phases”  ont été remplacés par "valeur assignée", "alimentation électrique"  et
+          "tension entre phases" respectivement pour compatibilité avec le VEI.
+        type: modified
+  concept: 88e3cdfa-c92a-584e-85a4-78347d565597
+  definition: '{{valeur assignée, IEV:151-16-08}} de la tension, fixée par le fabricant
+    à un composant, à un dispositif ou à un matériel et à laquelle on se réfère pour
+    le fonctionnement et pour les caractéristiques fonctionnelles'
+  examples: []
+  notes:
+  - Les matériels peuvent avoir plusieurs valeurs ou une plage de tensions assignées.
+  - Dans le cas d’une {{alimentation électrique, IEV:151-13-75}} triphasée, la {{tension
+    entre phases, IEV:195-05-01}} s'applique.
+dateAccepted: 2018-11-17
+id: def54d0c-7d5a-59fc-8b65-51d26b8e7200
+status: Standard

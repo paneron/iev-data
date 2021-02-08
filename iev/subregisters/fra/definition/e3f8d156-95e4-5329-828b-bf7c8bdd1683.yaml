@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 841-01-24
+      link: null
+      original: 841-01-24 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: b6b70b86-716d-55ae-b520-a6e4ae14f533
+  definition: pour un courant électrique alternatif dans un conducteur, phénomène
+    selon lequel la densité de courant est plus grande près de la surface qu'à l'intérieur
+    du conducteur
+  examples: []
+  notes:
+  - L'effet pelliculaire augmente la résistance et diminue l’inductance d'un conducteur
+    en fonction de la fréquence du courant électrique.
+  - L’effet pelliculaire se produit aussi dans le cas plus général de tout courant
+    variable en fonction du temps.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: e3f8d156-95e4-5329-828b-bf7c8bdd1683
+status: Standard

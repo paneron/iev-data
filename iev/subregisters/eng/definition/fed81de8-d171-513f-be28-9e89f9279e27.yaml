@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f2956135-9064-59e3-9ac0-6e7744a846c5
+  definition: between two given nodes in a network, ordered set of branches numbered
+    1, 2 ... such that the branch of rank stem:[i] is connected by one end to the
+    branch of rank stem:[i] − 1 and by the other end to the branch of rank stem:[i]
+    + 1
+  examples: []
+  notes:
+  - The path is said to be closed if the two given nodes are the same.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: fed81de8-d171-513f-be28-9e89f9279e27
+status: Standard

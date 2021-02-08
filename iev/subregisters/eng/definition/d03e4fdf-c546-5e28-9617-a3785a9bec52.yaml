@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2ec28109-44cf-5380-a6e2-276dd7a9ed11
+  definition: quantitative or qualitative method of analysis that involves failure
+    modes and effects analysis together with a consideration of the probability of
+    the failure mode occurrence and the severity of the effects
+  examples: []
+  notes:
+  - The term "fault mode, effects and criticality analysis" in IEC 60050-191:1990
+    (now withdrawn; replaced by IEC 60050-192:2015) is deprecated, since a fault ({{192-04-01,
+    IEV:192-04-01}}) is a state and cannot logically have a mode, whereas a failure
+    mode ({{192-03-17, IEV:192-03-17}}) is a change of state.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: d03e4fdf-c546-5e28-9617-a3785a9bec52
+status: Standard

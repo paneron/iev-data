@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: b0396431-534b-5876-89bc-207a7bfaf15a
+  definition: ratio of recovered heat flow of a {{fuel cell power system, IEV:485-09-01}}
+    to the total enthalpy flow supplied to the fuel cell power system
+  examples: []
+  notes:
+  -  The supplied total (including reaction enthalpy) enthalpy flow of the {{raw fuel,
+    IEV:485-07-01}} should be related to the lower heating value (LHV) for a better
+    comparison with other types of energy conversion system.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: 48b474ce-abc1-5b81-9e97-9e37126482d4
+status: Standard

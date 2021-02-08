@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4278ba28-df90-5b2b-8f16-72624f43dcf4
+  definition: valeur représentative d'un {{signal, IEV:701-01-02}} à un {{instant,
+    IEV:113-01-08}} déterminé, déduite des valeurs de ce signal au voisinage de cet
+    instant
+  examples: []
+  notes:
+  - La valeur représentative d'un signal est idéalement égale à la valeur du signal
+    à un instant déterminé; en pratique elle est égale ou proportionnelle à une moyenne
+    pondérée des valeurs du signal au voisinage de cet instant.
+dateAccepted: 2018-11-17
+id: e75e3641-17ab-5616-aff6-9a4a440182a0
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '2.3'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 2.3
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: 153d2ca7-d6b1-56fc-93a8-dc93c475a445
+  definition: faculté d'utiliser un produit, processus ou service à la place d'un
+    autre pour satisfaire aux mêmes {{exigence, IEV:901-05-05}}s
+  examples: []
+  notes:
+  - L'aspect fonctionnel de l'interchangeabilité est appelé «interchangeabilité fonctionnnelle»
+    et l'aspect dimensionnel «interchangeabilité dimensionnelle».
+dateAccepted: 2018-11-17
+id: 78f45b98-d8b1-5ed7-a5cf-816e255b2fd9
+status: Standard

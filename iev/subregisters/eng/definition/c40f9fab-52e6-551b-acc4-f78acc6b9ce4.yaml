@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8223176c-a673-5b43-a277-0db38460bfcf
+  definition: a line code in which the sequence of digits in the original signal is
+    divided into successive groups of digits, some of which, when encoded, may be
+    represented by one of two combinations of signal elements of equal and opposite
+    disparity, the specific combinations used being chosen such that the digital sum
+    tends to zero whenever possible, and in which the other groups of digits, if any,
+    in the original signal are represented by combinations of signal elements of zero
+    disparity
+  examples: []
+  notes: []
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: c40f9fab-52e6-551b-acc4-f78acc6b9ce4
+status: Standard

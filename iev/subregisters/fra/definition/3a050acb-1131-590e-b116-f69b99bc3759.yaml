@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 739e823d-f07c-5126-b7f4-c59097d99315
+  definition: courant maximal que pourrait fournir un élément ou une batterie dans
+    un circuit extérieur de résistance électrique nulle, ou un circuit extérieur qui
+    abaisse la tension aux bornes de l’élément ou de la batterie approximativement
+    à zéro volt
+  examples: []
+  notes:
+  - Une résistance électrique nulle est hypothétique et en pratique, le courant de
+    court-circuit est le courant de crête circulant à travers un circuit de résistance
+    très faible par rapport à la résistance interne de la batterie.
+dateAccepted: '2004-04-01T00:00:00+00:00'
+id: 3a050acb-1131-590e-b116-f69b99bc3759
+status: Standard

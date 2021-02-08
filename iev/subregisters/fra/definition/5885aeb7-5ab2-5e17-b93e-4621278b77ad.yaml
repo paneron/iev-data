@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3da80f6b-7527-52f0-949f-fe7952407be6
+  definition: créneau temporel de position fixe dans chaque trame, destiné à transmettre
+    le signal de verrouillage de trame
+  examples: []
+  notes:
+  - Le créneau temporel de verrouillage de trame peut être occupé constamment ou périodiquement
+    par le signal de verrouillage de trame; lorsqu'il n'est pas occupé par ce signal,
+    il peut servir à transmettre d'autres informations.
+  - En transmission numérique à multiplexage temporel, le créneau temporel de verrouillage
+    de trame peut comprendre un ou plusieurs créneaux temporels élémentaires.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 5885aeb7-5ab2-5e17-b93e-4621278b77ad
+status: Standard

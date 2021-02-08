@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/6624
+      original: IEC 62236-4:2008, 3.1
+      ref: IEC 62236-4:2008
+      relationship:
+        type: identical
+  concept: 92b2c9d2-e841-5588-88e6-334c7cc64c99
+  definition: particular interface of the specified apparatus with the external environment
+  examples:
+  - AC power port, DC power port, I/O (input/output) port, earth port.
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 4abf023f-32fd-5441-95f1-c4e5e171e934
+status: Standard

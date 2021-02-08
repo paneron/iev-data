@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: d778c6df-853f-5252-822e-13987c7d7313
+  definition: '{{signal, IEV:171-01-03}} in which the value of the characteristic
+    carrying information is only defined at {{discrete, IEV:171-01-05}} successive
+    instants'
+  examples: []
+  notes:
+  - A discretely timed signal is composed of successive elements in time, each element
+    having one or more characteristic quantities carrying information, for example
+    its duration, its position in time, its waveform, its magnitude.
+  - A discretely timed signal can be a {{continuous-value signal, IEV:171-01-09}},
+    as a {{sampled signal, IEV:351-41-26}}, or a {{discrete-value signal, IEV:171-01-11}},
+    and therefore a {{digital signal, IEV:171-01-13}}.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: ce2ca353-1322-5522-8586-5415a8ebb998
+status: Standard

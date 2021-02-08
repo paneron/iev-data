@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9fa3229c-4c56-5fff-b2d8-d08fd1cdb227
+  definition: 'shape of the curve assumed by a perfectly flexible, inextensible cord
+    suspended at its ends, and given by the equation:
+
+
+    stem:[Y = rho ( cosh (X)/(rho) - 1 )]'
+  examples: []
+  notes:
+  - 'In practice, the simple parabola is often used
+
+
+    stem:[Y = (1)/((2 rho)) X^2]
+
+
+    which represents the first two terms of the series expansion of the equation of
+    the catenary.'
+  - The catenary curve represents a cable with constant weight per unit of length
+    of curve, while the parabola represents a wire with a constant weight per horizontal
+    unit of length. The sag calculated by the parabolic equation is smaller than that
+    calculated by the catenary equation. For long spans or for very sloping spans
+    the parabolic approximation can introduce unacceptable errors.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: dc662138-cc22-5917-92e8-6e679d253ec8
+status: Standard

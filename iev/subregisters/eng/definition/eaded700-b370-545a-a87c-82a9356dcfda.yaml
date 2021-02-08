@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3ac571ab-b608-5d26-95a2-a7a1a3907477
+  definition: series of levels of {{digital multiplexing, IEV:704-20-01}} in which
+    each level is characterized by a defined bit rate, and in which each level handles
+    a {{digital signal, IEV:704-01-05}} assembled by multiplexing signals whose bit
+    rate is that of a lower level
+  examples: []
+  notes:
+  - The Standardization Sector of ITU has standardized two digital multiplex hierarchies,
+    the plesiochronous digital hierarchy (PDH) and the synchronous digital hierarchy
+    (SDH).
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: eaded700-b370-545a-a87c-82a9356dcfda
+status: Standard

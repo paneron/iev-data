@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 705-02-19
+      link: null
+      original: MOD 705-02-19
+      ref: IEV
+      relationship:
+        type: modified
+  concept: d7e80367-a6f2-587e-8469-b0c997b2f97b
+  definition: the path which is tangential at each point to the direction of propagation
+    of the radiant energy at this point
+  examples: []
+  notes:
+  - The concept of a ray is the basis of geometric optics.
+  - Several rays may exist between two points.
+  - In an isotropic medium the ray is normal to the wavefront.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 40bdebf2-53df-5427-a5f3-4585ace12093
+status: Standard

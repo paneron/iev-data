@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.2
+      link: https://webstore.iec.ch/publication/6365
+      original: IEC 62047-22:2014, 3.1.2
+      ref: IEC 62047-22:2014
+      relationship:
+        type: identical
+  concept: 69326526-71e8-53cb-ba94-c26fa3288da5
+  definition: engineering strain value at which the electrical {{resistance, IEV:131-12-04}}
+    starts to exceed a predefined limit
+  examples: []
+  notes: []
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: c4ef0627-e13d-5baa-8dfd-8ae58ea662a3
+status: Standard

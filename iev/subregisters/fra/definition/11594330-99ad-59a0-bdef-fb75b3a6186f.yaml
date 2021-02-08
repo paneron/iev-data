@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7e70fcff-3ae1-57f9-be0e-fe3cc42edcdb
+  definition: échantillonnage d'une image dans lequel les points qui correspondent
+    aux instants d'échantillonnage sur les lignes de balayage ne sont pas alignés
+    dans l'image selon des droites perpendiculaires aux lignes de balayage
+  examples: []
+  notes:
+  - En balayage progressif, les points d'une ligne de balayage ne sont pas alignés
+    avec ceux des lignes adjacentes de la même trame ; en balayage entrelacé, ils
+    ne sont pas alignés avec ceux des lignes spatialement adjacentes de la trame précédente.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 11594330-99ad-59a0-bdef-fb75b3a6186f
+status: Standard

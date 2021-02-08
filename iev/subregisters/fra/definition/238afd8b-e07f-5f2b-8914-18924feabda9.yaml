@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: f038ebc4-3a0a-57bc-b0ba-f010e79ffb4a
+  definition: partie de l'axe du temps limitée par deux instants
+  examples: []
+  notes:
+  - 1 Un intervalle de temps comprend tous les instants entre les deux instants limites
+    et, sauf mention contraire, les instants limites eux-mêmes.
+  - 2 Un intervalle de temps peut être spécifié par les dates repérant son instant
+    initial et son instant final, ou par l'une de ces dates et la durée de l'intervalle
+    de temps.
+  - 3 À la place du terme «intervalle de temps», on utilise souvent le mot «temps»,
+    mais celui-ci n'est pas recommandé dans ce sens. L’expression «intervalle de temps»
+    est souvent employée au sens de «durée» ({{113-01-13, IEV:113-01-13}}) mais cet
+    usage est déconseillé afin d'éviter des confusions.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 238afd8b-e07f-5f2b-8914-18924feabda9
+status: Standard

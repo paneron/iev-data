@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3e60d373-1801-5553-8ee7-303057f316f4
+  definition: 'Hermitian matrix *stem:[A]* such that, for any non-zero column matrix
+    *stem:[U]* with complex elements, the 1 × 1 matrix *stem:[U]*^H^*stem:[AU]* has
+    a unique element which is real and positive: (*stem:[U]*^H^*stem:[AU]*)~11~ &gt;
+    0'
+  examples: []
+  notes:
+  - A symmetric matrix *stem:[A]* with real elements is a positive definite matrix
+    if *stem:[U]*^T^*stem:[AU]* &gt; 0 for any non-zero column matrix *stem:[U]* with
+    real elements.
+  - All eigenvalues of a positive definite matrix are positive.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 73644239-5283-585c-a3af-e0a0ffefed05
+status: Standard

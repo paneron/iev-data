@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9d7b587b-1c3a-5a5c-b142-b00318ca7817
+  definition: pour deux tenseurs du deuxième ordre stem:[T = ( T_((i j)) )] et stem:[S
+    = ( S_((k l)) )], tenseur du deuxième ordre dont les coordonnées sont stem:[((
+    T * S ))_((i l)) = underset(m)( sum ) T_((i m)) S_((m l))]
+  examples: []
+  notes:
+  - Le produit intérieur de deux tenseurs est indiqué par un point à mi-hauteur (·)
+    entre les deux symboles représentant les tenseurs.
+dateAccepted: 2018-11-17
+id: 2d60c1ad-c531-5ac1-b56d-deb6a9e9fa10
+status: Standard

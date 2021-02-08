@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7c99eb5f-a502-569a-852e-5d10c690bf4d
+  definition: éclairement lumineux moyenné sur une surface spécifiée
+  examples: []
+  notes:
+  - Lors de l'indication de l'éclairement lumineux moyen, il est nécessaire de définir
+    clairement le type d'éclairement lumineux aux points de la surface; c'est-à-dire
+    horizontal, vertical, sphérique, cylindrique ou semi-cylindrique.
+  - L'éclairement lumineux moyen est exprimé en lux (lx &amp;equals; lm·m^−2^).
+dateAccepted: 2018-11-17
+id: e393e86b-1cae-5ac2-a836-3998cbebcc83
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: b2df66a3-f99b-53c5-a246-b4a361e894cc
+  definition: fonction nulle pour toute valeur négative de la variable indépendante
+    et égale à un pour toute valeur positive
+  examples: []
+  notes:
+  - Voir la Figure 1 ci-dessous pour une représentation graphique de ε(stem:[t]).
+    La valeur ε(0) peut rester indéfinie ou être définie selon le contexte.
+  - ε(stem:[x] − stem:[x]~0~) représente un échelon unité à la valeur stem:[x]~0~
+    de la variable indépendante stem:[x].
+  - La notation H(stem:[x]) est aussi utilisée. La notation ϑ(stem:[t]) est utilisée
+    pour la fonction échelon unité du temps. La notation ϒ(stem:[x]) a aussi été utilisée.
+dateAccepted: 2018-11-17
+id: 0d3ba24a-afe1-5f40-b0bb-9cc26c0def52
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 53fb9725-518d-5554-9b71-161857ac8421
+  definition: 'pour un bipôle linéaire, élémentaire ou non, en régime sinusoïdal,
+    grandeur égale au produit de la puissance apparente stem:[S] et du sinus du déphasage
+    tension-courant stem:[φ]
+
+
+    stem:[Q = S sin phi]'
+  examples: []
+  notes:
+  - La puissance réactive est la partie imaginaire de la puissance complexe stem:[underset(_)(S)],
+    soit stem:[Q = Im underset(_)(S)]. Sa valeur absolue est égale à la puissance
+    non active, soit stem:[| Q | = Q_( ∼ )].
+  - L’unité SI cohérente de puissance réactive est le voltampère, VA. Le nom spécial
+    var et son symbole var sont aussi utilisés. Voir {{131-11-45, IEV:131-11-45}}.
+dateAccepted: 2018-11-17
+id: 409e3a48-1a75-5bfa-8fb7-96c1f0e1c00c
+status: Standard

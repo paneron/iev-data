@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 712-02-31
+      link: null
+      original: 712-02-31
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 3c1fbeb6-0f0a-5ea3-b632-b01cc491c6c9
+  definition: direction contenue dans le faisceau d'une antenne, pour laquelle l'amplitude
+    de la composante du champ considérée est maximale, ou par rapport à laquelle le
+    faisceau peut être considéré comme symétrique
+  examples: []
+  notes:
+  - Pour une antenne multidiagramme, on peut définir un axe de faisceau pour chaque
+    diagramme de rayonnement.
+dateAccepted: '1994-08-01T00:00:00+00:00'
+id: b4163063-7af0-5049-be08-80fb7c288b49
+status: Standard

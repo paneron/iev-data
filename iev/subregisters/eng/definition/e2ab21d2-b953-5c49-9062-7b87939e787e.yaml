@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: c4112f8c-768a-50f2-bb5c-7ba2861ff3e2
+  definition: '{{signal, IEV:171-01-03}} in which the characteristic carrying information
+    is defined at any instant of a time interval'
+  examples: []
+  notes:
+  - A continuous-time signal can be a {{continuous-value signal, IEV:171-01-09}},
+    and therefore an {{analogue signal, IEV:171-01-14}}, or a {{discrete-value signal,
+    IEV:171-01-11}}, as a quantized signal.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: e2ab21d2-b953-5c49-9062-7b87939e787e
+status: Standard

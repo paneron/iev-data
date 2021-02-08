@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.1
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.1
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: fc6a0319-887c-53d1-908f-886e070b478d
+  definition: value that can be used to identify an {{endpoint, IEV:741-01-17}}, which
+    can designate the originating source or destination of data &amp;lsqb;ISO 14641:2018,
+    3.10&amp;rsqb; being transmitted
+  examples: []
+  notes: []
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: fda194b2-aeed-5a2a-8336-ef24371fd732
+status: Standard

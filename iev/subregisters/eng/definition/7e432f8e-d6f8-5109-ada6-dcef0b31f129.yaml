@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: c41eeba3-1de9-5fea-8dab-c0e25bd5f147
+  definition: 'limit, if it exists, of the quotient of the conditional probability
+    that the failure of a non-repairable item occurs within time interval (stem:[t],
+    stem:[t] + Δstem:[t]) by Δstem:[t], when Δstem:[t] tends to zero, given that failure
+    has not occurred within time interval (0, stem:[t])
+
+
+    stem:[lambda ( t ) = underset((Delta t -&gt; 0))((lim)) (1)/((Delta t)) ((F (
+    t + Delta t ) – F ( t )))/((R ( t ))) = ((f ( t )))/((R ( t )))]
+
+
+    where stem:[F](stem:[t]) and stem:[f](stem:[t]) are, respectively, the distribution
+    function and the probability density at the failure instant, and where stem:[R](stem:[t])
+    is the reliability function, related to the reliability stem:[R](stem:[t]~1~,
+    stem:[t]~2~) by stem:[R](stem:[t]) = stem:[R](0, stem:[t]).'
+  examples: []
+  notes:
+  - See IEC 61703, _Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms_, for more detail.
+  - 'Other terms used for instantaneous failure rate are: “hazard function”; “hazard
+    rate”; and “force of mortality” (abbreviation FOM).'
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 7e432f8e-d6f8-5109-ada6-dcef0b31f129
+status: Standard

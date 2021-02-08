@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 72689268-4df6-5639-8ee0-1901ada72a43
+  definition: square matrix *stem:[A]* for which the inverse *stem:[A]*^−1^ is equal
+    to the transpose matrix *stem:[A]*^T^
+  examples: []
+  notes:
+  - 'For an orthogonal matrix with elements stem:[Aij]:
+
+
+    stem:[underset(i)( sum ) A_((i j)) A_((i k)) = delta_((j k))] and stem:[underset(k)(
+    sum ) A_((i k)) A_((j k)) = delta_((i j))]
+
+
+    where δ~stem:[jk]~ and δ~stem:[ij]~ are Kronecker deltas.'
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: a7e3c69c-d09c-5c48-bda7-57f58d8322f9
+status: Standard

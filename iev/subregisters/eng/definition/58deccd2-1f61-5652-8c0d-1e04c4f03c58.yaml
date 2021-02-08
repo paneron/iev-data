@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - - clause: 705-03-09
+      link: null
+      original: 705-03-09 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 7b8f00e3-9909-5836-ad0a-571e43da8d49
+  definition: medium in which a time-varying electric field produces an electric current
+    density the component vector of which in a given direction has a magnitude large
+    compared with that of the component vector of the displacement current density
+    in this direction, in a particular frequency band
+  examples: []
+  notes:
+  - 'Under sinusoidal conditions in an isotropic medium, the medium is conductive
+    if the following relation is satisfied:
+
+
+    stem:[(gamma)/((epsilon_0 omega)) ≫ epsilon^( '' )_r]
+
+
+    where stem:[γ] is the conductivity, stem:[ε]~0~ the electric constant, stem:[ω]
+    the angular frequency and stem:[ε′]~r~ the real relative permittivity. Under static
+    conditions the medium is conducting if the conductivity is not zero.'
+  - An anisotropic medium can be conducting only in certain directions.
+  - The term “conductor” also denotes any element intended to carry electric current.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 58deccd2-1f61-5652-8c0d-1e04c4f03c58
+status: Standard

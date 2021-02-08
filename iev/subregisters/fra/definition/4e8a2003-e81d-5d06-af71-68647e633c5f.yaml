@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4f481392-813c-57e4-a908-58de1f853f1f
+  definition: quotient du flux énergétique spectral atteignant la face de sortie interne
+    de la couche par le flux spectral qui pénètre dans la couche après traversée de
+    la face d'entrée
+  examples: []
+  notes:
+  - Pour une couche donnée, le facteur de transmission interne spectral dépend de
+    la longueur du trajet du rayonnement dans la couche, donc en particulier de l'angle
+    d'incidence.
+  - L'unité de facteur de transmission interne spectral est un.
+  - Cet article était numéroté 845-04-81 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 4e8a2003-e81d-5d06-af71-68647e633c5f
+status: Standard

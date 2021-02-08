@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 195-02-19
+      link: null
+      original: 195-02-19
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 3f30bda6-f690-51bc-9b36-a7ca6e59329e
+  definition: conductor or conductive part intended to be energized in normal operation,
+    including a neutral conductor, but by convention not a PEN conductor or PEM conductor
+    or PEL conductor
+  examples: []
+  notes:
+  - This concept does not necessarily imply a risk of electric shock.
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: 970ba2c5-9cce-57b3-aaa5-3899fab3be4c
+status: Standard

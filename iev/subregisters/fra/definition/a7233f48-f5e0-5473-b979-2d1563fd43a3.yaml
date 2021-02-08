@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 731-01-59
+      link: null
+      original: 731-01-59
+      ref: IEV
+      relationship:
+        type: identical
+  concept: f9297341-ab56-5ae1-ad20-7fd67b6197e0
+  definition: qualifie un dispositif possédant au moins un accès électrique essentiel
+    à son fonctionnement et qui répond à une énergie optique, émet ou modifie un rayonnement
+    optique ou utilise un rayonnement optique pour son fonctionnement interne; se
+    dit aussi de la technique correspondante
+  examples: []
+  notes:
+  - Un dispositif optoélectronique fonctionne comme transducteur électrique-optique
+    ou optique-électrique. Des exemples sont les photodiodes, les diodes électroluminescentes,
+    les lasers semiconducteurs.
+  - En anglais le terme "electro-optic" est souvent employé par erreur à la place
+    du terme "opto electronic".
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: a7233f48-f5e0-5473-b979-2d1563fd43a3
+status: Standard

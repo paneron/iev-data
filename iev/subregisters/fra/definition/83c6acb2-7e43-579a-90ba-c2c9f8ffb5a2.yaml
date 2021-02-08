@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 20e50be8-a761-5852-9c6a-3c6d7a301b7e
+  definition: ensemble des valeurs du signal d'entrée d'un quantificateur situées
+    entre les deux valeurs virtuelles de décision
+  examples: []
+  notes:
+  - La distorsion due à la quantification est considérée par convention comme une
+    distorsion d'écrêtage lorsque les valeurs de la grandeur à quantifier sont en
+    dehors de la plage de fonctionnement.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 83c6acb2-7e43-579a-90ba-c2c9f8ffb5a2
+status: Standard

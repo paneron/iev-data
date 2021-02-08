@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: b6ec8f21-8ac5-5b27-8dac-94a0b1ec56da
+  definition: domain name including all higher level domain names up to the top-level
+    domain name
+  examples: []
+  notes:
+  - “Paris.nisc.sri.com” is a fully qualified domain name for the host at 192.33.33.109;
+    “nisc.sri.com” is the fully qualified domain name for the NISC domain.
+  - A fully qualified domain name must be unique within the Internet.
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 455be847-e5f3-598b-aaae-4394ac5cc6ec
+status: Standard

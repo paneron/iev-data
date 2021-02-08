@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: '3.8'
+      link: https://webstore.iec.ch/publication/18648
+      original: IEC 60974-1:2005, 3.8 MOD
+      ref: IEC 60974-1:2005
+      relationship:
+        type: modified
+  concept: bffa71a2-5a49-55f9-a3f4-e34122e8f2b0
+  definition: an external static characteristic of a welding power source which, in
+    its normal welding range, is such that, as the current increases, the voltage
+    decreases by more than 7 V/100 A
+  examples: []
+  notes: []
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: 26ed7b8e-8584-5a9f-b516-6ac9e9f427ba
+status: Standard

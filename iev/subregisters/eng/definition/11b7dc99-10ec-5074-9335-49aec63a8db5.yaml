@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: f65ed04d-b367-5d1c-9779-55efbf8341d7
+  definition: the ratio stem:[G/T], usually expressed in logarithmic units, of the
+    absolute gain stem:[G] of an antenna to the antenna-receiver noise temperature
+    stem:[T] referred to the antenna terminals at a specified frequency and in specified
+    conditions of installation and operation
+  examples: []
+  notes:
+  - If the noise temperature is expressed in kelvins and the gain as a power ratio,
+    the quantity 10 lg stem:[G/T] is expressed in a unit designated by the symbol
+    dBK.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 11b7dc99-10ec-5074-9335-49aec63a8db5
+status: Standard

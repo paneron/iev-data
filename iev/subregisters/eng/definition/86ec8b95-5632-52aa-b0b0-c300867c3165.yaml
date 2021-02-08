@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/7002
+      original: IEC 62427:2007, 3.1, modified
+      ref: IEC 62427:2007
+      relationship:
+        type: modified
+  concept: 8265d25b-d03d-589d-8199-cf7a596a5b57
+  definition: body responsible for the evaluation of the compatibility case and the
+    issue of a certificate of acceptance
+  examples: []
+  notes:
+  - The authority is assigned by national law.
+  - The use of the term "accepting body" with this meaning is particular to the current
+    practice in the railway domain.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 86ec8b95-5632-52aa-b0b0-c300867c3165
+status: Standard

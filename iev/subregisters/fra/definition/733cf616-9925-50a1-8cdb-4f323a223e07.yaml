@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: 151-11-27
+      link: https://webstore.iec.ch/publication/176
+      original: IEC 60050-151:2001, 151-11-27, modifié pour adapter au contexte de
+        la sûreté de fonctionnement
+      ref: IEC 60050-151:2001
+      relationship:
+        modification: pour adapter au contexte de la sûreté de fonctionnement
+        type: modified
+  concept: 536484b4-8950-5d40-ac02-3ad36d156c8b
+  definition: ensemble d’entités reliées entre elles qui satisfont collectivement
+    à une exigence
+  examples: []
+  notes:
+  - Un système est considéré comme ayant une frontière définie, réelle ou abstraite.
+  - Des ressources externes (provenant d’au-delà de la frontière) peuvent être nécessaires
+    au fonctionnement du système.
+  - La structure d’un système peut être hiérarchique, par exemple, système, sous-système,
+    composant, etc.
+  - Il convient d’exprimer ou de sous-entendre les conditions d’utilisation et de
+    maintenance dans l’exigence.
+dateAccepted: 2018-11-17
+id: 733cf616-9925-50a1-8cdb-4f323a223e07
+status: Standard

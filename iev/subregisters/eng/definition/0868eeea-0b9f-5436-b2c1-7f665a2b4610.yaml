@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 572f6918-ec0b-5d25-b2fb-86f628e0f3bd
+  definition: the extreme value of the active power that can be delivered at a given
+    frequency by a source directly connected to a load when the complex reflection
+    factor at the interface is widely varied
+  examples: []
+  notes:
+  - The extreme value of power is obtained with matching of the load to the source.
+  - By convention the exchangeable power assumes the sign of the real part of the
+    source impedance. If this real part is positive the extreme value is a maximum
+    and the exchangeable power is identical to the available power.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 0868eeea-0b9f-5436-b2c1-7f665a2b4610
+status: Standard

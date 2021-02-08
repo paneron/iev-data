@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: f32b1d92-b408-591f-94ae-d0c77e8f6669
+  definition: minimum distance in air to be maintained between any part of the body
+    of a worker, including any object (except {{tools, IEV:651-21-14}} appropriate
+    for {{live working, IEV:651-21-01}}) being handled directly, and any part(s) at
+    different electric potential(s)
+  examples: []
+  notes:
+  - The minimum approach distance is the sum of the {{electrical distance, IEV:651-21-12}}
+    appropriate for the maximum nominal voltage and of the selected {{ergonomic distance,
+    IEV:651-21-13}}.
+  - 'This entry was numbered 651-01-20 in IEC 60050-651:1999. It has been modified
+    as follows: The preferred term has been changed.'
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: 949f959a-9d18-5a1b-b16c-a4b445d73920
+status: Standard

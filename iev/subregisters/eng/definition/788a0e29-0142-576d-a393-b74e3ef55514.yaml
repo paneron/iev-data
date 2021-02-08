@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 80707764-26d3-5e1e-89a9-59ff2817431c
+  definition: logarithm of the ratio of a given time-mean-square standard-frequency-weighted
+    sound pressure for a stated time period, to the square of the reference sound
+    pressure of 20 μPa. Time-average sound level in decibels is ten times the logarithm
+    to the base ten of that ratio
+  examples: []
+  notes:
+  - If a frequency weighting is not specified, the A-frequency weighting is understood.
+  - In principle, exponential time weighting is not involved.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 788a0e29-0142-576d-a393-b74e3ef55514
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: f038ebc4-3a0a-57bc-b0ba-f010e79ffb4a
+  definition: part of the time axis limited by two instants
+  examples: []
+  notes:
+  - 1 A time interval comprises all instants between the two limiting instants and,
+    unless otherwise stated, the limiting instants themselves.
+  - 2 A time interval can be specified by the dates marking the initial instant and
+    final instant or by one of these dates and the duration of the time interval.
+  - 3 For the term “time interval”, the word “time” is often used, but is not recommended
+    in this sense. The expression “time interval” is often used in the sense of “duration”
+    ({{113-01-13, IEV:113-01-13}}) but this usage is deprecated to avoid confusion.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: e1548fd7-7e6f-5d7f-8ea3-1ca36037d955
+status: Standard

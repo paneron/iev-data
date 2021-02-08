@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.2.6
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.6
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: 8cf50efa-5e74-540c-a749-7dd960be2df6
+  definition: '{{entity, IEV:741-01-18}} of an {{IoT system, IEV:741-02-07}} that
+    connects one or more proximity {{networks, IEV:741-01-25}} and the {{IoT devices,
+    IEV:741-02-04}} on those networks to each other and to one or more access networks'
+  examples: []
+  notes: []
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: 21b4cb41-3bec-54f5-8824-bd0e1f0dd1ec
+status: Standard

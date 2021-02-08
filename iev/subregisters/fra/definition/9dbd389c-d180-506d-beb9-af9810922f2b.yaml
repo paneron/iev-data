@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: b8b139a1-8d00-5725-bc39-e393e016d1af
+  definition: 'aptitude à tolérer un {{événement plausible, IEV:692-01-08}} sans {{perte
+    de charge, IEV:692-01-16}}, surcharge d’éléments de réseau ou écart par rapport
+    aux tolérances de tension et de fréquence spécifiées
+
+
+    image::/assets/images/parts/692/692-fig1-fr.png[Figure 1 - Relation entre la fiabilité
+    de l’alimentation, l’adéquation de réseau et la sécurité de réseau]'
+  examples: []
+  notes:
+  - Cette notion s’applique généralement aux {{réseaux de production-transport, IEV:692-01-04}}.
+  - En Amérique du Nord, la sécurité est généralement définie en considérant seulement
+    l'apparition d'instabilité, d'écroulement de tension ou de {{déclenchements en
+    cascade, IEV:692-03-08}}.
+  - Voir également le terme connexe "tolérance aux pannes" ({{IEV 192-10-09, IEV:192-10-09}}).
+  - Cet article portait le numéro 191-21-03 dans l’IEC 60050-191:1990.
+dateAccepted: 2018-11-17
+id: 9dbd389c-d180-506d-beb9-af9810922f2b
+status: Standard

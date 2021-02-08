@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 08266ac5-45f5-58ba-8d4f-fbd30f099f25
+  definition: technique for connecting two networks via a third network while totally
+    isolating the connected traffic from other traffic in the third network
+  examples: []
+  notes:
+  - '– See Figure 2.
+
+
+    image::/assets/images/parts/732/732-01-30_F2.gif[]'
+  - 'The tunnel connects networks A and B through network X with no intermediate access.
+
+
+    *Figure 2 – Tunnelling*'
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 8b9d1bc4-e801-5ae5-b51b-c128a778aa1d
+status: Standard

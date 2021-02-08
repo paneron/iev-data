@@ -1,0 +1,38 @@
+data:
+  authoritative_source:
+  - - clause: 2.1.1
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.1.1, modifié – Le terme préféré "dispositif microélectromécanique"
+        a été remplacé par "système microélectromécanique", conformément à l'usage
+        actuel. La Note 1 à l'article a été révisée pour plus de clarté, et la deuxième
+        phrase a été transférée à la Note 2 à l'article.
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: Le terme préféré "dispositif microélectromécanique" a été remplacé
+          par "système microélectromécanique", conformément à l'usage actuel. La Note
+          1 à l'article a été révisée pour plus de clarté, et la deuxième phrase a
+          été transférée à la Note 2 à l'article.
+        type: modified
+  concept: 36a19865-4a1e-560e-ac4e-f0ac1d3084e6
+  definition: '{{système, IEV:151-11-27}} constitué d’un ou plusieurs {{composants,
+    IEV:151-11-21}} microminiaturisés intégrés, tels que des {{capteurs, IEV:151-13-48}},
+    des {{actionneurs, IEV:151-13-49}}, des {{transducteurs, IEV:151-13-34}}, des
+    résonateurs, des {{oscillateurs, IEV:151-13-51}}, des composants mécaniques, ou
+    des {{circuits électriques, IEV:131-11-07}}'
+  examples: []
+  notes:
+  - Dans la définition, “microminiaturisé” est employé pour désigner une dimension
+    inférieure à quelques millimètres.
+  - L'étendue des technologies associées aux MEMS est extrêmement vaste et inclut
+    des technologies fondamentales (telles que la conception, les matériaux, le traitement,
+    les éléments fonctionnels, les commandes systèmes, l'alimentation énergétique,
+    les {{collages, IEV:523-06-01}} et les assemblages, les circuits électriques et
+    l'appréciation), des sciences fondamentales (telles que les microsciences et microtechniques)
+    ainsi que la thermodynamique à l'échelle microscopique et la {{microtribologie,
+    IEV:523-02-02}}.
+  - '"MEMS" est l’acronyme de l’anglais   "micro-electromechanical systems", qui était
+    utilisé pour un dispositif microélectromécanique. Les formes singulier et pluriel
+    du terme "MEMS" sont identiques.'
+dateAccepted: 2018-11-17
+id: 059d1e0b-5fc8-523b-8dc0-1e1d3e9c4f48
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: ef43bde3-1f15-5601-93c3-d937ec935a4d
+  definition: durée entre l'instant où la {{grandeur caractéristique, IEV:447-07-01}}
+    d'un {{relais de mesure, IEV:447-01-02}} ou d'un {{équipement de protection, IEV:447-01-49}}
+    à l'{{état de travail, IEV:447-02-01}} est modifiée au-delà de sa {{valeur de
+    dégagement, IEV:447-02-18}}, dans des conditions spécifiées, et l'instant où un
+    {{circuit de sortie de repos, IEV:447-04-09}} spécifié se ferme pour la première
+    fois
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: e151fd7a-a09a-5653-b284-bec7aa34dcc6
+status: Standard

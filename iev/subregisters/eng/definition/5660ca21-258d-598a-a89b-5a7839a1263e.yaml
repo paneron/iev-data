@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: f5ec6466-5e52-5db5-b532-ca09e3bde7aa
+  definition: protection in which the residual current from a set of three-phase current
+    transformers is balanced against the residual output from a similar set of current
+    transformers or, more usually, from a single current transformer located on the
+    earthing connection, if any, of a neutral point
+  examples: []
+  notes:
+  - This term is also used when the neutral of the protected plant is unearthed i.e.
+    neither a second set of three-phase current transformers nor a current transformer
+    in the neutral connection is needed to restrict the protected section.
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: 5660ca21-258d-598a-a89b-5a7839a1263e
+status: Standard

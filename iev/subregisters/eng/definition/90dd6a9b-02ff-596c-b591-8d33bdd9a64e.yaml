@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 702-07-29
+      link: null
+      original: 702-07-29 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 99bdc5b2-3efe-530d-a05c-472e2394ce02
+  definition: transfer function for which the complex quantities are the Fourier transforms
+    of the time-varying quantities
+  examples: []
+  notes:
+  - The frequency response is the Fourier transform of the impulse response.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 90dd6a9b-02ff-596c-b591-8d33bdd9a64e
+status: Standard

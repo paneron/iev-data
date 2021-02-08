@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: a5e10ad3-f44e-5d9f-9c31-2588f2bcb87b
+  definition: 'for a linear time-invariant system with a sinusoidal input variable
+    in steady state of the output variable the ratio of the amplitude of the output
+    variable to the amplitude of the corresponding input variable at a given angular
+    frequency
+
+
+    SEE: Figure 10.'
+  examples: []
+  notes:
+  - The gain is the modulus (absolute value) of the frequency response at a given
+    angular frequency.
+  - In practical use the gain at angular frequencies other than zero is often called
+    "dynamic gain" as opposed to the "static gain" at angular frequency zero.
+  - A common definition of “gain” in the meaning “amplification, benefit” has been
+    given in IEC 60050-702:1992, 702-02-11.
+  - This entry was numbered 351-24-34 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: d9398862-98f7-5e03-b01e-4f934192deb4
+status: Standard

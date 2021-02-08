@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: a181bf0f-c92d-59b7-a8ec-3b810f3fab6c
+  definition: linear time-invariant transfer element created by the additive combination
+    of a proportional element, an integral element and a derivative element
+  examples: []
+  notes:
+  - "The transfer function of an ideal proportional plus integral plus derivative\
+    \ element is given by\n\nstem:[((V ( s )))/((U ( s ))) = K_Ρ * ( 1 + (1)/((T_i\
+    \ * s)) + T_d * s )]\n\nwhere<table>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>is\
+    \ the proportional action coefficient;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~d~\n\
+    </td>\n<td>is the rate time;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~i~\n</td>\n<td>is\
+    \ the reset time;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is the complex variable\
+    \ of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n\
+    <td>is the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n\
+    <td>is the output transform.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-30 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: db2936f3-2284-5a03-80ef-f6f91135aaf4
+status: Standard

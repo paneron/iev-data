@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.67
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.67
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  concept: c415a6cf-f19e-5380-b210-7bb6cc51495b
+  definition: adresse réseau dynamique utilisée pour l’adressage de dispositifs de
+    communication dans d’autres réseaux de rame
+  examples: []
+  notes:
+  - L'adresse réseau de train peut être modifiée après chaque inauguration.
+dateAccepted: 2018-11-17
+id: db2365ab-a8e6-5a82-952d-a9d8c9ca5603
+status: Standard

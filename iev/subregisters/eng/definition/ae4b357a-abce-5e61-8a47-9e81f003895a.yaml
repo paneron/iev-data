@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6ec8d8b1-343f-5ea0-a638-2d985b04e852
+  definition: '. function stem:[f ( t )] which is a measure of the similarity of two
+    deterministic functions stem:[f_1 ( t )] and stem:[f_2 ( t )], defined by
+
+
+    stem:[f ( t ) = int_( - oo)^( + oo) f_1 ( tau ) f_2 ( t + tau ) d tau]
+
+    .  function stem:[f ( t )] which is a measure of the similarity of two stationary
+    random functions stem:[f_1 ( t )] and stem:[f_2 ( t )], defined by
+
+
+    stem:[f ( t ) = underset((T -&gt; oo))((lim)) (1)/((2 T)) int_( - T)^( + T) f_1
+    ( tau ) f_2 ( t + tau ) d tau]'
+  examples: []
+  notes:
+  - 'The Fourier transform of stem:[f ( t )] is equal to the product of the conjugate
+    of the Fourier transform of stem:[f_1 ( t )] and the Fourier transform of stem:[f_2
+    ( t )]:
+
+
+    stem:[F ( omega ) = F_1^( ** ) ( omega ) F_2 ( omega )]'
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: ae4b357a-abce-5e61-8a47-9e81f003895a
+status: Standard

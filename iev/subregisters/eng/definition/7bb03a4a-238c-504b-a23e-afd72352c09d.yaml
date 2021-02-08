@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 28bd0df7-7ec7-5067-b9b0-ebe6dc1eee33
+  definition: 'the quotient of dstem:[D] by dstem:[t], where dstem:[D] is the increment
+    of absorbed dose in time interval dstem:[D]
+
+
+    stem:[overset(˙)(D) = ((d D))/((d t))]'
+  examples: []
+  notes:
+  - "The SI unit of absorbed dose rate is joule per kilogram and second, whose special\
+    \ name is gray per second. The earlier special unit of absorbed dose rate, still\
+    \ in temporary\r\nuse, was the rad per second.\n\n1 Gy • s = 100 rad • s^−1^ =\
+    \ 1 J kg ^−1^ • s^−1^"
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 7bb03a4a-238c-504b-a23e-afd72352c09d
+status: Standard

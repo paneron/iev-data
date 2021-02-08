@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: '3.6'
+      original: IEC Guide 109:2012, 3.6
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  concept: bfd5cb64-6aac-502d-88ca-ed33a2e6e9fc
+  definition: substance that has, according to defined classification criteria, the
+    potential for adversely impacting human health and/or the {{environment, IEV:901-07-01}}
+  examples: []
+  notes:
+  - The criteria for determining whether a substance is classified as hazardous are
+    defined by law or {{regulation, IEV:901-02-10}}.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 0596c0cf-634e-5aa9-8757-4cb0896abe61
+status: Standard

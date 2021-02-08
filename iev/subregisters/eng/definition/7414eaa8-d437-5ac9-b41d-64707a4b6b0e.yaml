@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - null
+  concept: fe5efa5a-4d51-5f17-b8d5-977fd1d1e460
+  definition: 'a unidirectional pulse defined as a function of time stem:[t] by the
+    expressions:
+
+
+    stem:[y] = k sin^2^ (stem:[π t]/2stem:[T]) for 0 ≤ stem:[t] ≤ 2stem:[T]
+
+
+    stem:[y] = 0 for stem:[t] &lt;0 and stem:[t] &gt; 2stem:[T]
+
+
+    where:
+
+
+    stem:[y] is the instantaneous value of the characteristic quantity,
+
+
+    k is the peak value of the pulse,
+
+
+    2stem:[T] is the duration of the pulse, stem:[T] being the length of time during
+    which the characteristic quantity is greater than k/2'
+  examples: []
+  notes: []
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 7414eaa8-d437-5ac9-b41d-64707a4b6b0e
+status: Standard

@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: bba00af2-8a1e-55fb-a153-4379f68835ff
+  definition: quotient de la somme des aires du plan de travail et du plan des luminaires
+    par la somme de l'aire des parois délimitée par le plan de travail et le plan
+    des luminaires, utilisé dans le calcul du facteur d'utilisation ou de l'utilance
+  examples: []
+  notes:
+  - 'L''indice du local est exprimé par la formule
+
+
+    stem:[K = ((a b))/((h ( a + b )))]
+
+
+    où stem:[a] et stem:[b] sont les dimensions des côtés du local et stem:[h] la
+    distance entre le plan de travail et le plan des luminaires.'
+  - Voir aussi "<a href="IEV845-29-073">indice du plafond</a>" et "<a href="IEV845-29-075">indice
+    du sol</a>".
+  - L'unité d'indice du local est un.
+  - Cet article était numéroté 845-09-55 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 108d3a86-4ec5-5337-a34a-437de519c194
+status: Standard

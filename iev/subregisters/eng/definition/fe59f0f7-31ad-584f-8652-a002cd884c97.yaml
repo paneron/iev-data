@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9d7bf854-a3a6-59d4-9ad7-af14dec39071
+  definition: least upper bound, if it exists, of the lengths of any polygonal lines
+    determined by successive points of the curve between the two points corresponding
+    to the limiting values of the parameter interval
+  examples: []
+  notes:
+  - For a curve from A to B defined by the position vector stem:[r = f ( u )] as a
+    function of the parameter stem:[u] in the given interval &amp;lsqb;stem:[a], stem:[b]&amp;rsqb;
+    where stem:[a &lt;= b], the length of the curve is the line integral stem:[int_A^B
+    | d r | = int_a^b | ((d f))/((d u)) | d u].
+  - In the usual geometrical space, the length of a curve is a quantity of the dimension
+    length.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: fe59f0f7-31ad-584f-8652-a002cd884c97
+status: Standard

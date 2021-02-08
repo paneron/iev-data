@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 24edeb4f-9b22-5429-897a-81bd60c4c489
+  definition: rapport du rayon terrestre équivalent au rayon réel de la Terre
+  examples: []
+  notes:
+  - 'Le facteur multiplicatif stem:[k] du rayon terrestre est lié au gradient vertical
+    dstem:[n]/dstem:[h] de l''indice de réfraction et au rayon réel stem:[a] de la
+    Terre par la relation:
+
+
+    stem:[k = (1)/((1 + a ((d n))/((d h))))]'
+  - Pour une atmosphère ayant un gradient normal du coïndice, la valeur de stem:[k]
+    est prise égale à 4/3, ce qui correspond à un rayon terrestre équivalent voisin
+    de 8 500 km.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 40c7d590-d3e8-5816-886a-d76f0fe0f3df
+status: Standard

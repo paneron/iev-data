@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 629b2d4a-54a7-5c40-800c-e4fadd67361f
+  definition: the time duration from the input signal from the peripheral equipment
+    to the telecontrol equipment at the sending station, to the output signal from
+    the telecontrol equipment to its peripheral equipment at the receiving station
+  examples: []
+  notes:
+  - The telecontrol transfer time includes time delay for signal conversion, coding,
+    etc., in the telecontrol transmitter, signal delay on the transmission channel
+    and time delay for reconversion, decoding, checking, etc., in the telecontrol
+    receiver. However it does not include the response time of peripheral input and
+    output devices, such as interposing relays, signal lamps, transducers, indicating
+    instruments, etc.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: a041723c-e9c0-5f66-acc9-09a4343f801d
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 3.2.1
+      link: https://webstore.iec.ch/publication/611
+      original: IEC 60077-4:2003, 3.2.1
+      ref: IEC 60077-4:2003
+      relationship:
+        type: identical
+  concept: cac0940e-978f-50ec-821f-587523164859
+  definition: dispositif qui libère les organes de retenue et qui permet l’ouverture
+    ou la fermeture du disjoncteur
+  examples: []
+  notes:
+  - Un disjoncteur peut être activé par plusieurs déclencheurs chacun d’eux fonctionnant
+    dans des conditions spécifiées.
+  - Ces déclencheurs peuvent être électriquement ou mécaniquement raccordés à un appareil
+    de connexion.
+dateAccepted: 2018-11-17
+id: e1912512-8d12-5c3f-8543-e78046263a1f
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2bbec8d0-e223-5d68-8144-5de8f8c8d062
+  definition: the non-selective part of a multi-zone busbar protection, generally
+    supervising current flow at the terminals of the complete station
+  examples: []
+  notes:
+  - Tripping from the busbar protection is conditional on the operation of both the
+    check and a discriminating zone.
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: 8a9aa7a2-eadd-5dbb-9016-2f349399475f
+status: Standard

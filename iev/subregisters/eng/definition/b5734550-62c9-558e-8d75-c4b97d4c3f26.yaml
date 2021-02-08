@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: ce156e96-9c4b-54b7-81e9-755bf03e8649
+  definition: the integral of the traffic intensity over a given time interval
+  examples: []
+  notes:
+  - Traffic volume of a given pool of resources is equal to the sum of the holding
+    times of the individual resources.
+  - 'A unit for traffic volume is the erlang-hour (symbol: Eh).'
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: b5734550-62c9-558e-8d75-c4b97d4c3f26
+status: Standard

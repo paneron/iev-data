@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2f8c8593-69b3-5439-aa5d-d104b0ea026b
+  definition: ". pour une fonction déterministe, fonction de corrélation de cette\
+    \ fonction et d'une version retardée de celle-ci \n.  pour une fonction aléatoire\
+    \ stationnaire, espérance mathématique du produit de la fonction par une version\
+    \ retardée de celle-ci:\n\nstem:[C ( t ) = E f ( tau ) f ( t + tau )]"
+  examples: []
+  notes:
+  - La fonction d'autocorrélation d'une fonction déterministe ou d'une fonction aléatoire
+    stationnaire est la transformée de Fourier inverse de sa densité spectrale de
+    puissance.
+  - 'Lorsqu''une fonction aléatoire stationnaire peut être considérée comme ergodique,
+    sa fonction d''autocorrélation peut être calculée à partir d''une réalisation
+    particulière:
+
+
+    stem:[C ( t ) = underset((T -&gt; oo))((lim)) (1)/((2 T)) int_( - T)^( + T) f
+    ( tau ) f ( t + tau ) d tau]'
+dateAccepted: 2018-11-17
+id: 7cb48717-d691-5841-a0af-29a3fd237e1b
+status: Standard

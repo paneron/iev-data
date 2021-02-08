@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - null
+  concept: dda6bb7f-c955-545b-8215-08117051f095
+  definition: 'quotient de la moyenne des luminances lumineuses mesurées sous des
+    angles de 20° et 70° (0,35 rad et 1,22 rad), par la luminance mesurée sous un
+    angle de 5° (0,09 rad) par rapport à la perpendiculaire, la surface prise en considération
+    étant éclairée en incidence normale
+
+
+    stem:[sigma = ((L ( 20 ° ) + L ( 70 ° )))/((2 L ( 5 ° )))]'
+  examples: []
+  notes:
+  - Le facteur de diffusion sert à fournir une indication sur la répartition spatiale
+    du flux diffusé. Il est égal à 1 pour chaque diffuseur isotrope, quelle que soit
+    la valeur du facteur de réflexion ou de transmission diffuse.
+  - Cette façon de définir le facteur de diffusion ne peut être appliquée qu'aux matériaux
+    dont l'indicatrice de diffusion ne diffère guère de celle des verres opales usuels.
+  - Pour caractériser l'indicatrice de diffusion, il est recommandé d'utiliser le
+    facteur de diffusion stem:[σ], pour des matériaux fortement diffusants, et l'angle
+    de demi-valeur, stem:[γ], pour les matériaux faiblement diffusants.
+  - L'unité de facteur de diffusion est un.
+  - Cet article était numéroté 845-04-89 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 92594295-6f87-55e0-942b-ebd7c720689a
+status: Standard

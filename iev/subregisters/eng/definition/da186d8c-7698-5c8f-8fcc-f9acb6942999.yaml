@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.13
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.13, modified
+      ref: IEC 62290-1:2014
+      relationship:
+        type: modified
+  concept: 7e6bc9ad-3fa1-5d3d-95ec-cffd1b836855
+  definition: capability of system components to be procured from any number of suppliers
+    and replaced without any substantial change in functionality or performance
+  examples: []
+  notes:
+  - Interchangeability also allows the system to be adapted to technology evolutions
+    without significant modification to its architecture.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: da186d8c-7698-5c8f-8fcc-f9acb6942999
+status: Standard

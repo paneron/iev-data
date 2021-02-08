@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - - original: UIT-R Rec. 686 MOD
+      ref: ITU-R Recommendation 686
+      relationship:
+        type: modified
+  concept: 233a827d-c8c7-5397-b76a-65a3f14a9dae
+  definition: une des échelles de temps fondées sur la rotation de la Terre
+  examples: []
+  notes:
+  - 'Dans les applications où l''on ne peut tolérer des erreurs de quelques centièmes
+    de seconde, il est nécessaire de spécifier la forme du temps universel qui doit
+    être utilisée:
+
+
+    – UT0 est le temps solaire moyen du méridien origine, qu''on obtient par l''observation
+    astronomique directe;
+
+
+    – UT1 est UT0 corrigé des effets des petits mouvements de la Terre par rapport
+    à son axe de rotation dans un système de référence stellaire (variation polaire);
+
+
+    – UT2 est UT1 corrigé des effets d''une petite fluctuation saisonnière de la vitesse
+    de rotation de la Terre dans un système de référence stellaire.'
+  - Le temps solaire moyen de Greenwich (GMT) peut être considéré comme équivalent
+    du temps universel, mais en diffère de 12 heures.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: c0b6e071-4e1f-5f26-8da5-207d2f55a894
+status: Standard

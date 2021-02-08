@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - - clause: 2.4.5
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.4.5, modifié – La définition a été réécrite.
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: La définition a été réécrite.
+        type: modified
+  concept: e1f4d6fb-562a-557c-b15e-bf3535c607c9
+  definition: '{{actionneur, IEV:151-13-49}} qui utilise un alliage qui change de
+    forme lorsqu''il est chauffé et qui reprend sa forme originale lors de son refroidissement'
+  examples: []
+  notes:
+  - Les actionneurs en alliage à mémoire de forme sont compacts, légers, et produisent
+    de grandes forces. Ils peuvent être entraînés de manière répétée en un {{cycle,
+    IEV:103-05-08}} thermique et peuvent être commandés arbitrairement en commutant
+    le courant électrique par l’intermédiaire de l’actionneur à proprement parler.
+    Récemment, des tentatives ont été faites pour utiliser les alliages afin de créer
+    un système d’asservissement qui comporte un mécanisme de rétroaction approprié
+    et un système de refroidissement, destinés à des applications où une réponse rapide
+    n’est pas nécessaire. Peuvent être cités à titre d’exemples d’application en préparation
+    les {{micropinces, IEV:523-04-15}}  pour la manipulation de cellules, les {{microvannes,
+    IEV:523-04-17}} pour la régulation de très petits débits et les endoscopes actifs
+    à usage médical.
+dateAccepted: 2018-11-17
+id: 6ebc855d-3181-532b-ac58-7d40170aa39b
+status: Standard

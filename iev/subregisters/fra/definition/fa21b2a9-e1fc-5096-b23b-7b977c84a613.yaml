@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7b0a6a0c-1636-58c3-b2ae-eb40ce49c997
+  definition: forme de conception logicielle tolérante aux pannes dans laquelle plusieurs
+    modules différents sont appelés en séquence pour effectuer une tâche donnée jusqu’à
+    ce que l’un d’eux réussisse
+  examples: []
+  notes:
+  - Chacun des modules est capable de réaliser la tâche donnée, mais d’une manière
+    différente. Le succès est établi par un résultat satisfaisant à un essai d’acceptation
+    réalisé par un arbitre. Un module de la séquence n’est appelé que si tous les
+    modules précédents échouent.
+  - Si un module tombe en panne, une reprise sur erreur par régression est réalisée
+    avant d’appeler le module suivant.
+  - La récupération par bloc est un exemple de redondance passive.
+dateAccepted: 2018-11-17
+id: fa21b2a9-e1fc-5096-b23b-7b977c84a613
+status: Standard

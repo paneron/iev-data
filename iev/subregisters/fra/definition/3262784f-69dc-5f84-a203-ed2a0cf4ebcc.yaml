@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5d96dcae-1ee8-5caf-bddb-60043a5a0eb1
+  definition: rapport, généralement exprimé en décibels, de la puissance disponible
+    d'une source donnée à la puissance active fournie à une charge d'impédance spécifiée
+    après insertion d'un biporte donné entre la source et la charge
+  examples: []
+  notes:
+  - Si le rapport qui détermine l'affaiblissement transductique est inférieur à l'unité,
+    sa valeur en décibels est négative et on peut utiliser son inverse ou sa valeur
+    en décibels changée de signe, appelés gain transductique.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 3262784f-69dc-5f84-a203-ed2a0cf4ebcc
+status: Standard

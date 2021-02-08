@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 221-02-36
+      link: null
+      original: 221-02-36 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: b215ff28-e212-5d62-a716-50e52b7f3dc5
+  definition: champ magnétique coercitif dans une substance lorsqu’on ramène à une
+    valeur nulle, soit l'induction magnétique, soit la polarisation magnétique et
+    l'aimantation, à partir de la valeur à la saturation magnétique, par variation
+    monotone du champ magnétique appliqué
+  examples: []
+  notes:
+  - 'La grandeur qui est ramenée à zéro doit être précisée et le symbole correspondant
+    utilisé : stem:[HcB], stem:[HcJ] ou stem:[HcM]  respectivement pour la coercitivité
+    relative à l’induction magnétique, à la polarisation magnétique ou à l''aimantation,
+    avec  stem:[HcJ] = stem:[HcM].'
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: c8e3ca7a-b609-5a9f-ad1c-730805a0b738
+status: Standard

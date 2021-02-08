@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 881-14-14
+      link: https://webstore.iec.ch/publication/272
+      original: CEI 60050-881:1983, 881-14-14, modifiée
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: définition 382
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 382, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 11d18b05-9bd6-5e86-b5f9-45beb79a1cf6
+  definition: somme sur tous les tissus exposés des produits de l'équivalent de dose
+    dans un tissu par le facteur de pondération tissulaire de ce tissu
+  examples: []
+  notes:
+  - Cet article était numéroté 393-14-94 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: 66973f74-815a-5233-b340-6045a45d7859
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 86047603-58a0-5a8b-9e93-0c77767c5f3f
+  definition: itinéraire, reliant un commutateur d'origine au commutateur de destination
+    d'un courant de trafic donné, généralement soumis à des contraintes telles qu'un
+    nombre maximal de noeuds intermédiaires ou un ordre de choix imposé
+  examples: []
+  notes:
+  - L'optimisation du réseau n'est possible que lorsqu'il existe plus d'un acheminement
+    préférentiel entre un noeud d'origine et un noeud de destination.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: c009f8e7-907d-5571-84f3-ccbc2cbe2b35
+status: Standard

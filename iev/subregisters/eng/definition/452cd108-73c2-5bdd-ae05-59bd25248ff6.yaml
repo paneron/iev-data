@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 45e3d80b-01de-5f69-ad5b-8a35d20ea094
+  definition: ratio of the power delivered to the load impedance before insertion
+    of the filter to the power delivered to the load impedance after insertion of
+    the filter
+  examples: []
+  notes:
+  - The insertion attenuation is generally expressed in decibels.
+  - 'An example of the frequency responses of a filter is shown in Figure 11. In this
+    figure, various insertion attenuation levels are shown.
+
+
+    image::/assets/images/parts/561/561-fig11-en.png[]
+
+
+    *Figure 11 – Frequency response of insertion attenuation of a filter*'
+  - This entry was numbered 561-03-21 in IEC 60050-561:1991.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 452cd108-73c2-5bdd-ae05-59bd25248ff6
+status: Standard

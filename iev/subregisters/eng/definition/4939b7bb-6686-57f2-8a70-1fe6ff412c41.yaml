@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f2d7687b-7b13-5771-ab86-710354e19af5
+  definition: voltage across the specified output terminals of the instrument when
+    the load impedance is equal to the rated source impedance, the carrier wave not
+    being modulated
+  examples: []
+  notes:
+  - The value of the voltage is expressed as an r.m.s. value for sinewaves and as
+    a peak-to-valley value for waveforms which are intentionally non-sinusoidal.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 4939b7bb-6686-57f2-8a70-1fe6ff412c41
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: b4028814-6fc0-5b4e-b007-3c462bd706e0
+  definition: éclairement énergétique effectif avec pondération spectrale de l'éclairement
+    énergétique de même nature, stem:[Eλ], par la fonction de pondération spectrale
+    du danger lié aux ultraviolets stem:[S]~UV~(stem:[λ])
+  examples: []
+  notes:
+  - 'La plage de longueurs d''onde pour l''éclairement énergétique avec danger lié
+    aux ultraviolets est spécifiée dans les recommandations de l''ICNIRP comme suit:
+    stem:[λ] = 180 nm à stem:[λ] = 400 nm.'
+  - L'éclairement énergétique avec danger lié aux ultraviolets est exprimé en watt
+    par mètre carré (W·m^−2^).
+dateAccepted: 2018-11-17
+id: e75ef2cb-4e27-5a3b-90d9-acee53e195c4
+status: Standard

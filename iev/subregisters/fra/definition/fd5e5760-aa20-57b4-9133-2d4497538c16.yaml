@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.14
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.14
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: b15206c4-1731-5879-95aa-2416ac7e4884
+  definition: <a href="IEV741-02-501">élément de calcul</a> ou {{élément de données,
+    IEV:171-02-01}}
+  examples: []
+  notes:
+  - Une entité numérique peut exister en tant que {{service informatique en nuage,
+    IEV:741-01-08}} ou en tant que {{service, IEV:741-01-28}} dans un <a href="IEV741-01-501">centre
+    de données</a>, ou en tant qu'élément d'un {{réseau, IEV:741-01-25}} ou encore
+    en tant que {{passerelle IdO, IEV:741-02-06}}.
+dateAccepted: 2018-11-17
+id: fd5e5760-aa20-57b4-9133-2d4497538c16
+status: Standard

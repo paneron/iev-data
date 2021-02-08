@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 151-13-02
+      link: null
+      original: 151-13-02
+      ref: IEV
+      relationship:
+        type: identical
+  concept: dd753fe5-3601-5559-8bc9-b7eb6321f157
+  definition: electrode capable of emitting positive charge carriers to and/or receiving
+    negative charge carriers from the medium of lower conductivity
+  examples: []
+  notes:
+  - The direction of electric current is from the external circuit, through the anode,
+    to the medium of lower conductivity.
+  - In some cases (e.g. electrochemical cells), the term "anode" is applied to one
+    or another electrode, depending on the electric operating condition of the device.
+    In other cases (e.g. electronic tubes and semiconductor devices), the term "anode"
+    is assigned to a specific electrode.
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: d437cd86-6a37-5971-b463-2f0d7c8c4d9c
+status: Standard

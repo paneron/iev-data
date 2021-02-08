@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: '4.2'
+      original: VIM 4.2
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  concept: fa4ff6b7-4e7e-5479-ba90-8e521e81c130
+  definition: device intended to reproduce or supply, in a permanent manner during
+    its use, one or more known values of a given quantity
+  examples: []
+  notes:
+  - 'Example: standard electric resistor.'
+  - The quantity concerned may be called the supplied quantity.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 4b46adab-752c-5fd2-810b-21902dbde91c
+status: Standard

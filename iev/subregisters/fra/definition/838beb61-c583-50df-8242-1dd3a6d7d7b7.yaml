@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.2.8
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.8
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: 7a7b1d3c-a670-5878-913d-7dd48a191c51
+  definition: utilisateur d'un {{système IdO, IEV:741-02-07}}
+  examples: []
+  notes:
+  - Un utilisateur IdO peut être un {{utilisateur humain, IEV:741-01-20}} ou un utilisateur
+    numérique.
+dateAccepted: 2018-11-17
+id: 838beb61-c583-50df-8242-1dd3a6d7d7b7
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07f21f21-3db7-5a9d-8168-76b8675bfc59
+  definition: limite, si elle existe, du quotient de la probabilité conditionnelle
+    d’achèvement de la réparation dans l’intervalle de temps (stem:[t], stem:[t] +
+    Δstem:[t]) par Δstem:[t], lorsque Δstem:[t] tend vers zéro, en supposant que la
+    réparation a commencé à stem:[t] = 0 et ne s’est pas terminée avant le temps stem:[t]
+  examples: []
+  notes:
+  - Le taux de réparation est lié au temps de réparation ({{192-07-19, IEV:192-07-19}})
+    et à ses constituants.
+  - L’unité de mesure du taux de réparation est l’unité de temps à la puissance −
+    1.
+dateAccepted: 2018-11-17
+id: 133ada2c-ff97-53c6-8a56-d26a2f9fb81d
+status: Standard

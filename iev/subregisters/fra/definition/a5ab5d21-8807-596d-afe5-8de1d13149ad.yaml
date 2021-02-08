@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2de9deed-1958-5d52-9e90-6c8fba5cf3d4
+  definition: 'grandeur en relation avec l''aspect plus ou moins lumineux d''une étoile,
+    et définie par la formule
+
+
+    stem:[m] = stem:[m]~o~ − 2,5 log~10~(stem:[E]~pb~/stem:[E]~o~)
+
+
+    où stem:[E]~pb~ est l''éclat apparent de l''étoile prise en considération, stem:[m]~o~
+    et stem:[E]~o~ sont des constantes dont la valeur résulte des magnitudes attribuées
+    à certaines étoiles de référence'
+  examples: []
+  notes:
+  - Outre la magnitude apparente (visuelle) définie ici, d'autres magnitudes apparentes
+    (photographiques, bolométriques, etc.) sont définies par la même formule, mais
+    stem:[E]~pb~ et stem:[E]~o~ sont alors les réponses d'un récepteur ayant une sensibilité
+    spectrale spécifiée.
+  - L'unité de magnitude apparente est un.
+  - Cet article était numéroté 845-01-60 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: a5ab5d21-8807-596d-afe5-8de1d13149ad
+status: Standard

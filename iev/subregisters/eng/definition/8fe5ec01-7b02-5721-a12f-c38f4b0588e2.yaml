@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7d0dce00-4112-5b7f-a020-040d0f8cf0e0
+  definition: 'of a material saturated by a magnetostatic field, the complex permeability
+    when it is subjected to an electromagnetic wave having a circularly polarized
+    stem:[vec H] field component in the plane perpendicular to the magnetostatic field
+    strength:
+
+
+    stem:[μ]~+~ = stem:[μ]~r~ + stem:[κ]~r~
+
+
+    stem:[μ]~−~ = stem:[μ]~r~ − stem:[κ]~r~
+
+
+    where stem:[μ]~r~ and stem:[κ]~r~ are components of Polder''s tensor permeability'
+  examples: []
+  notes:
+  - The subscript of stem:[µ] corresponds to the sign in the mathematical expression;
+    stem:[μ]~+~ is applicable where the stem:[vec H] field rotates counterclockwise
+    as a function of time when seen in the direction of the applied magnetostatic
+    field; stem:[μ]~−~ is applicable to the reverse rotation.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 8fe5ec01-7b02-5721-a12f-c38f4b0588e2
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 572f6918-ec0b-5d25-b2fb-86f628e0f3bd
+  definition: valeur stationnaire de la puissance active que peut fournir à une fréquence
+    donnée une source donnée à une charge connectée directement lorsque l'on fait
+    varier sans limitation le facteur de réflexion complexe à l'accès commun à la
+    source et à la charge
+  examples: []
+  notes:
+  - La valeur stationnaire de la puissance est obtenue lorsqu'il y a adaptation en
+    puissance de la charge à la source.
+  - Par convention, la puissance échangeable a le signe de la partie réelle de l'impédance
+    de la source. Si cette partie réelle est positive, la valeur stationnaire est
+    un maximum et la puissance échangeable se confond avec la puissance disponible.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 8583314a-8b4c-5bf0-91ac-d6ddf465c823
+status: Standard

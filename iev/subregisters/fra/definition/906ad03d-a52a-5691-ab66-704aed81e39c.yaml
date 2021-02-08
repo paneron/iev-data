@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 567958d0-71e1-5fa7-ab63-7391b01ae4e8
+  definition: matrice carrée dont les éléments sont les facteurs de transmission complexes
+    et les facteurs de réflexion complexes aux accès d'un dispositif à accès multiples
+  examples: []
+  notes:
+  - La matrice de répartition est le tableau des coefficients des équations linéaires
+    qui donnent les amplitudes complexes normalisées de l'onde transmise et de l'onde
+    réfléchie à chaque accès 1, 2, i, ... stem:[n] considéré comme accès de sortie
+    en fonction des amplitudes complexes normalisées des ondes incidentes aux accès
+    1, 2, j, ... stem:[n] considérés comme accès d'entrée.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 906ad03d-a52a-5691-ab66-704aed81e39c
+status: Standard

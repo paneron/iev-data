@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0f3466d8-3e2d-5e89-9fa1-6edf88e1acf7
+  definition: number of {{supply interruptions, IEV:692-07-01}} experienced by the
+    individual customers affected at least once during a time interval, divided by
+    the product of the number of affected customers and the duration of that time
+    interval
+  examples: []
+  notes:
+  - 'If stem:[N]~NS~ is the number of customers affected and the supply of customer
+    stem:[j] is interrupted stem:[n]~stem:[j]~ times during a time interval of duration
+    stem:[T], then the interruption frequency per customer interrupted is given by
+
+
+    stem:[f_((CI)) = ((sum_j n_j))/((N_(NS) T))]
+
+
+    When determining stem:[N]~NS~, each customer affected must be counted only once,
+    regardless of the number of interruptions experienced during that time interval.'
+  - Usually, only {{sustained interruptions, IEV:692-07-02}} are considered.
+  - The term "customer" represents the end user and not some intermediate distribution
+    system or company.
+  - Interruption frequency per customer interrupted can be used to describe past performance
+    or to estimate expected future performance.
+  - This entry was numbered 191-27-02 in IEC 60050-191:1990.
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: 18374972-2d49-5699-ae66-78ddcb2ab397
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 74c6c319-7611-5c10-be6d-5f8b16deaae0
+  definition: somme de toutes les {{durées de coupure équivalentes à la pointe, IEV:692-11-03}}
+    dans un {{réseau de production-transport, IEV:692-01-04}} pendant une année
+  examples: []
+  notes:
+  - Si l’{{énergie non fournie, IEV:692-09-06}} est exprimée en mégawatts minutes
+    et la puissance de pointe annuelle en mégawatts, alors l’indice annuel d’insuffisance
+    en énergie fournit la durée de coupure équivalente à la pointe cumulée sur un
+    an, et est exprimé en minutes par an.
+  - Cet article portait le numéro 191-30-05 dans l’IEC 60050-191:1990.
+dateAccepted: 2018-11-17
+id: e30a74f3-9076-5af0-bd74-1f350eef5c08
+status: Standard

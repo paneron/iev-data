@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 25a13434-0572-5e2e-9936-43a362a473a1
+  definition: '{{spectrum, IEV:103-09-03}} having non-zero values only for certain
+    {{discrete values, IEV:101-12-06}} of {{frequency, IEV:103-06-02}} or, by extension,
+    in the vicinity of these values'
+  examples:
+  - The sequence of coefficients of the {{Fourier series, IEV:103-07-18}} representing
+    a {{periodic signal, IEV:101-12-02}} or noise.
+  notes: []
+dateAccepted: '2018-09-01T00:00:00+00:00'
+id: 25c6fde2-cbd1-533b-bd36-e2a739c031e0
+status: Standard

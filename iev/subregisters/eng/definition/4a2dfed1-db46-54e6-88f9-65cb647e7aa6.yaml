@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: c5ccc59b-01cf-5f71-84c4-35e1d35f899a
+  definition: unwanted {{oscillation, IEV:103-05-04}} produced in equipment at a {{frequency,
+    IEV:103-06-02}} independent both of the operating frequencies and of frequencies
+    related to the generation of desired oscillations
+  examples: []
+  notes:
+  - A parasitic oscillation of a {{radio transmitter, IEV:713-08-01}} can produce
+    a {{spurious emission, IEV:713-09-05}}.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 4a2dfed1-db46-54e6-88f9-65cb647e7aa6
+status: Standard

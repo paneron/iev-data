@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - original: ITU-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  concept: 40e71dd2-032a-58cd-bb3f-838c097a5eda
+  definition: in a set of radio channels arranged in the ascending order of their
+    centre frequencies, refers to a change of the position in the spectrum of a radio-frequency
+    channel, in relation to its normal position, by a specific value which is generally
+    small compared to the channel spacing
+  examples: []
+  notes:
+  - A channel may be offset as a means of avoiding or minimizing interference.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ddcd728e-49e1-585a-9295-d9312e1fdd7a
+status: Standard

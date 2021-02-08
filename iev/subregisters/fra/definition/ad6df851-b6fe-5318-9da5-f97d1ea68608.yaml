@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07ee800c-55e7-54a0-b9f1-ad47a86418c2
+  definition: valeur numérique de la température exprimée en degrés Celsius, pour
+    laquelle la durée estimée jusqu’en fin de vie du matériau isolant est la même
+    que la durée estimée jusqu’en fin de vie du matériau de contrôle obtenue pour
+    une température égale à son endurance thermique évaluée
+  examples: []
+  notes:
+  - La valeur numérique de la température d’endurance thermique évaluée est égale
+    à l’indice d’endurance thermique évaluée.
+  - Le matériau de contrôle est un matériau à l'endurance thermique connue, de préférence
+    déduite de l’expérience en service, utilisé comme référence pour des essais comparatifs
+    avec un matériau candidat
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: ad6df851-b6fe-5318-9da5-f97d1ea68608
+status: Standard

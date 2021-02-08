@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 55c1aadb-d111-5721-b767-11e0c96729b6
+  definition: tenseur du troisième ordre défini par la forme trilinéaire égale au
+    produit de la forme bilinéaire qui définit un tenseur du deuxième ordre sur un
+    espace euclidien donné et de la forme linéaire identifiée à un vecteur du même
+    espace
+  examples: []
+  notes:
+  - 'Les coordonnées du produit tensoriel d''un tenseur stem:[T] et d''un vecteur
+    *stem:[U]* sont: stem:[(( T ox U ))_((i j k)) = T_((i j)) U_k].'
+  - Le produit tensoriel d'un tenseur et d'un vecteur est noté stem:[T ox U].
+dateAccepted: 2018-11-17
+id: 7f36dc8a-21f1-57b3-8364-a45588a58086
+status: Standard

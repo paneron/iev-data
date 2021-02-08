@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: '3.2'
+      original: ≠ VIM 3.2
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: 38fc3918-d076-5f91-9a25-bbc4a74b00d9
+  definition: value given by a measuring instrument
+  examples: []
+  notes:
+  - The indicated value is not necessarily the value of the measurand.
+  - For a material measure, the indication is its nominal or stated value.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 2fa7f05a-82be-572c-8093-cb58b1b90c28
+status: Standard

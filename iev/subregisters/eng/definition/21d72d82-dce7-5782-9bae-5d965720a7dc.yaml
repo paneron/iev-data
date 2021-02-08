@@ -1,0 +1,36 @@
+data:
+  authoritative_source:
+  - null
+  concept: c83de064-abf2-5a84-ba6e-56d627f43591
+  definition: 'law relating the apparent contrast, stem:[Cd], of an object against
+    a sky background, at a given distance of observation, stem:[d], to the inherent
+    contrast, stem:[C]~0~, and to the atmospheric transmissivity, stem:[T], which
+    is assumed to be uniform
+
+
+    stem:[C_d = C_0 T^(d // d_0)]
+
+
+    where stem:[d]~0~ is the length specified for the definition of stem:[T]'
+  examples: []
+  notes:
+  - 'The formula is sometimes written
+
+
+    stem:[C_d = C_0 T^(delta)]
+
+
+    where the exponent, stem:[δ], in stem:[Tδ] is the numerical value of stem:[d]
+    measured with stem:[d]~0~ as "unit".'
+  - 'Taking into account the relationship between atmospheric transmissivity, stem:[T],
+    and meteorological optical range, stem:[v], given in Note 2 to entry of "<a href="IEV845-31-018">meteorological
+    optical range</a>", Koschmieder''s law can be also written as
+
+
+    stem:[C_d = C_0 ( 0,05^(d // v) )]'
+  - The contrast is taken to be the quotient of the difference between the luminance
+    of the object and the luminance of the background, and the luminance of the background.
+  - This entry was numbered 845-11-22 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 21d72d82-dce7-5782-9bae-5d965720a7dc
+status: Standard

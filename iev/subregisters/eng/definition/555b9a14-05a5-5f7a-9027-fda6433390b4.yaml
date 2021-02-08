@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: c1330a2b-5fe3-5c8a-a95f-0c16bda766af
+  definition: a form of source coding combining differential pulse code modulation
+    and other coding techniques
+  examples: []
+  notes:
+  - A typical example is given by the combination of DPCM and PCM where the code words
+    for the quantized difference between the actual sample value and the predicted
+    value alternate in a prescribed succession with code words for the quantized signal
+    value of the actual sample.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 555b9a14-05a5-5f7a-9027-fda6433390b4
+status: Standard

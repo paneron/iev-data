@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 72689268-4df6-5639-8ee0-1901ada72a43
+  definition: matrice carrée régulière *stem:[A]* dont l’inverse *stem:[A]*^−1^ est
+    égale à la transposée *stem:[A]*^T^
+  examples: []
+  notes:
+  - 'Pour une matrice orthogonale d''éléments stem:[Aij]:
+
+
+    stem:[underset(i)( sum ) A_((i j)) A_((i k)) = delta_((j k))] et stem:[underset(k)(
+    sum ) A_((i k)) A_((j k)) = delta_((i j))]
+
+
+    où δ~stem:[jk]~ et δ~stem:[ij]~ sont des symboles de Kronecker.'
+dateAccepted: 2018-11-17
+id: 899533c3-bda0-5421-b2f2-13f6b808fed2
+status: Standard

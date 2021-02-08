@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 87b60fcc-4613-5e06-b051-e96d2e126cad
+  definition: bande de fréquences occupée par un {{signal, IEV:701-01-02}}, ou par
+    un ensemble de signaux multiplexés, en des points spécifiés à l'entrée et à la
+    sortie d'un {{système de transmission, IEV:704-04-19}}
+  examples: []
+  notes:
+  - Dans une radiocommunication, la bande de base est la bande de fréquences occupée
+    par le signal qui module l'{{émetteur radioélectrique, IEV:713-08-01}}.
+  - Dans une transmission comportant une {{modulation multiple, IEV:702-06-07}}, on
+    considère généralement comme bande de base la bande de fréquences occupée par
+    le signal appliqué au premier étage de modulation et non la bande de fréquences
+    occupée par un modulat intermédiaire.
+dateAccepted: 2018-11-17
+id: fa8b268e-8366-5e58-aea2-f0e49d79e4e8
+status: Standard

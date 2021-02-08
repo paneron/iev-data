@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 702-04-17
+      link: null
+      original: 702-04-17
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 3b01c4c2-acc8-5574-ad30-92f2f071900d
+  definition: qualifying two time-varying phenomena, time-scales, or signals characterized
+    by corresponding significant instants which are separated by time intervals of
+    a constant desired duration
+  examples: []
+  notes:
+  - In practice, any variations of the time intervals are constrained within specified
+    limits.
+  - Two phenomena, time-scales, or signals may be synchronous without being isochronous.
+  - For periodic phenomena, time-scales or signals, the corresponding significant
+    instants occur at the same average rate.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 1dfdd811-c50b-56b0-9689-026f6a0d4f08
+status: Standard

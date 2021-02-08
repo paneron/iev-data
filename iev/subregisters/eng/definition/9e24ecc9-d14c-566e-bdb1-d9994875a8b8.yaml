@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: b537d52b-0896-5679-9edb-5c207a715f7f
+  definition: product of <a href="IEV845-21-035">spectral luminous efficiency</a>
+    and maximum luminous efficacy for a specified photometric condition
+  examples: []
+  notes:
+  - The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+    If it is not specified, photopic vision is assumed and the symbol stem:[K](stem:[λ])
+    is used. For other photometric conditions, the respective symbol for identification
+    shall be used.
+  - 'Spectral luminous efficacy for photopic vision is expressed by
+
+
+    stem:[K](stem:[λ]) = stem:[K]~m~ stem:[V](stem:[λ])
+
+
+    where stem:[K]~m~ is maximum luminous efficacy, stem:[V](stem:[λ]) is spectral
+    luminous efficiency and stem:[λ] is wavelength.'
+  - The spectral luminous efficacy is expressed in lumen per watt (lm·W^−1^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 9e24ecc9-d14c-566e-bdb1-d9994875a8b8
+status: Standard

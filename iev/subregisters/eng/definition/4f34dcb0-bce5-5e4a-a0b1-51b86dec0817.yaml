@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 099b97cc-c198-5706-b762-d1942114a9b1
+  definition: computational reference white point used by a colour appearance model
+  examples: []
+  notes:
+  - A white point used by a colour appearance model is an adopted white point.
+  - The adopted white point can or cannot be the <a href="IEV845-23-081">adapted white</a>
+    point, and one of the most common applications of an adopted white point is to
+    achieve an optimally reproduced device white. For example, an adopted white point
+    corresponding to a given medium can be used in place of an adapted white point
+    in order that no colorants are used to create a white.
+  - The concept of adopted white point applies to both colour appearance models and
+    reproduction models.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 4f34dcb0-bce5-5e4a-a0b1-51b86dec0817
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - original: UIT-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  concept: 204cda69-1a64-5756-9f30-704af6095071
+  definition: méthode de transmission de données consistant à transmettre les données
+    dans la bande de base d'un faisceau hertzien analogique, au-dessus de la bande
+    de fréquences occupée par un multiplex à répartition en fréquence
+  examples: []
+  notes:
+  - En général, la transmission s'effectue par modulation d'une sous-porteuse.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: e11b8ee6-5918-5eae-8cd6-a162eb45be62
+status: Standard

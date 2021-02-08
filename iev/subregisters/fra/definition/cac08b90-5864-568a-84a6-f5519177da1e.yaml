@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5d7f83bd-2deb-581c-8540-8e62269cbc64
+  definition: protection destinée à fonctionner lorsqu'un défaut n'est pas éliminé,
+    ou qu'une situation anormale n'est pas détectée, dans le délai imparti, à cause
+    d'une défaillance ou d'une inaptitude à fonctionner d'une autre protection, ou
+    du non-déclenchement du ou des disjoncteurs appropriés, par suite d'une défaillance
+  examples: []
+  notes:
+  - Aux Etats-Unis d'Amérique, le terme anglais "backup protection" désigne une forme
+    de protection qui fonctionne indépendamment des dispositifs spécifiés du système
+    de protection principal. La protection de secours peut fonctionner en même temps
+    que la protection principale ou peut être destinée à ne fonctionner que si le
+    système de protection principal est défaillant ou est temporairement hors service.
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: cac08b90-5864-568a-84a6-f5519177da1e
+status: Standard

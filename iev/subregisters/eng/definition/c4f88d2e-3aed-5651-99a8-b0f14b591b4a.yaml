@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - - clause: '3.6'
+      original: ≈ VIM 3.6
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  concept: 9114fc14-33c9-537f-8f17-ec3c1fe336d5
+  definition: 'closeness of agreement between the results of successive measurements
+    of the same measurand, carried out under the same conditions of measurement, i.e.:
+
+
+    – by the same measurement procedure,
+
+
+    – by the same observer,
+
+
+    – with the same measuring instruments, used under the same conditions,
+
+
+    – in the same laboratory,
+
+
+    – at relatively short intervals of time.'
+  examples: []
+  notes:
+  - The concept of "measurement procedure" is defined in VIM 2.5.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: c4f88d2e-3aed-5651-99a8-b0f14b591b4a
+status: Standard

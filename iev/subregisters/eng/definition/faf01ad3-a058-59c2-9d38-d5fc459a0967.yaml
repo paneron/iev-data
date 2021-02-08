@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: 3.7.16
+      link: https://webstore.iec.ch/publication/5585
+      original: IEC 61558-1:2005, 3.7.16 MOD
+      ref: IEC 61558-1:2005
+      relationship:
+        type: modified
+  concept: 57c4a8e9-94aa-569f-8f4d-edb27fc71d93
+  definition: AC voltage the r.m.s. value of which does not exceed 50 V or ripple-free
+    DC voltage the value of which does not exceed 120 V, between conductors, or between
+    any conductor and reference earth, in an electric circuit which  has galvanic
+    separation from the supplying electric power system by such means as a separate-winding  transformer
+  examples: []
+  notes:
+  - Maximum voltage lower than 50 V AC or 120 V ripple-free DC may be specified in
+    particular requirements, especially when direct contact with live parts is allowed.
+  - The voltage limit should not be exceeded at any load between full load and no-load
+    when the source is a safety isolating transformer.
+  - Ripple-free qualifies conventionally an r.m.s. ripple voltage not more than 10
+    % of the DC component; the maximum peak value does not exceed 140 V for a nominal
+    120 V ripple-free DC system and 70 V for a nominal 60 V ripple-free DC system.
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: faf01ad3-a058-59c2-9d38-d5fc459a0967
+status: Standard

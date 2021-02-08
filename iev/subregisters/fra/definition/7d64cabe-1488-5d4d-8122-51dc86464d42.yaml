@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2e72bd9e-4d17-545c-a165-ade01d31992c
+  definition: durée pendant laquelle un rayonnement optique peut être considéré comme
+    cohérent
+  examples: []
+  notes:
+  - La durée de cohérence est égale au quotient de la longueur de cohérence par la
+    vitesse de phase dans le milieu.
+  - La durée de cohérence d'une raie spectrale de largeur Δstem:[λ] et de longueur
+    d'onde centrale stem:[λ]~0~ est approximativement égale à stem:[λ]~0~^2^/stem:[c]~0~.Δstem:[λ]
+    où stem:[c]~0~ est la vitesse de la lumière dans le vide.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 7d64cabe-1488-5d4d-8122-51dc86464d42
+status: Standard

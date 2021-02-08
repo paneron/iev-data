@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.24
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.24
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  concept: ef519c8f-1958-56fa-89e6-ee1543a82bff
+  definition: method of error detection based on appending to the transmitted useful
+    data a checksum or a cyclic redundancy check (CRC) calculated on the useful data
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: bccc9bcf-5488-59dd-925a-6dbb7ef4ba9f
+status: Standard

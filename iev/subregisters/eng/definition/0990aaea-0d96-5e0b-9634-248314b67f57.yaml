@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 00318ef7-958e-533d-ab4c-34534704ae15
+  definition: '{{radio wave, IEV:701-02-12}} or {{signal, IEV:701-01-02}} produced
+    by a {{radio transmitter, IEV:713-08-01}} for the purpose of {{radiocommunication,
+    IEV:701-01-31}}'
+  examples: []
+  notes:
+  - In radiocommunication, the term “emission” should not be used in the more general
+    sense of radio-frequency emission, i.e. the electromagnetic energy that emanates
+    from a source in the form of radio waves. For example, that part of the energy
+    from a {{local oscillator, IEV:713-10-06}} transferred to external space is a
+    radio-frequency {{radiation, IEV:702-02-06}} and not an emission.
+  - The term “emission” is also used for the production of any waves or particles
+    (see {{IEV 702-02-03, IEV:702-02-03}}), for a process in radiocommunication (see
+    {{IEV 702-02-05, IEV:702-02-05}}), as a synonym for a programme ({{IEV 723-01-02,
+    IEV:723-01-02}}) in broadcasting and for {{transmission, IEV:723-01-03}} in broadcasting,
+    and for a release into the environment (see {{IEV 904-01-11, IEV:904-01-11}}).
+  - In French, the term “{{émission, IEV:702-02-04}}” is also used for the concept
+    represented by the English term “{{sending, IEV:702-02-04}}” of a signal.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 0990aaea-0d96-5e0b-9634-248314b67f57
+status: Standard

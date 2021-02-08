@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: ef17bc86-b590-5110-9cb5-e7551eef694c
+  definition: 'function, zero for all negative values of the independent variable
+    time and equal to one for all its positive values, described by
+
+
+    stem:[epsilon ( t ) = int_((- oo))^t delta ( tau ) d tau = { [[0, , ,for, ,t,,0,
+    ],[1, , ,for, ,t,&gt;,0]]], where δ(stem:[t]) is the unit impulse
+
+
+    SEE: Figure 4b), IEC 60050-103:2009, 103-03-01, and IEC 60027-6.'
+  examples: []
+  notes:
+  - The value ε(0) of the unit-step function ε(stem:[t]) may remain undefined or may
+    be defined according to the context.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 34e79f9b-eea6-579c-b44c-e90251e5ca2f
+status: Standard

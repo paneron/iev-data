@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3dc3e02b-ab4a-5098-b0c0-a8ca35de6a1a
+  definition: 'quotient dstem:[N]/stem:[N] par stem:[ρ] dstem:[l] où dstem:[N]/stem:[N]
+    est la fraction des particules indirectement ionisantes qui subissent des interactions
+    lorsqu''elles traversent une distance dstem:[l] dans un milieu de masse spécifique
+    stem:[ρ]
+
+
+    stem:[(mu)/(rho) = (1)/((rho N)) ((d N))/((d l))]'
+  examples: []
+  notes:
+  - Le coefficient d'atténuation total massique stem:[(mu)/(rho)] pour les rayons
+    X et gamma peut s'exprimer par la somme de plusieurs parties dont chacune est
+    attribuable à un phénomène particulier; stem:[(tau)/(rho)] pour l'effet photoélectrique;
+    stem:[((sigma_c))/(rho)] pour l'effet Compton; stem:[((sigma_((coh))))/(rho)]
+    pour la diffusion cohérente et stem:[(kappa)/(rho)] pour la formation de paires.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 61c1444d-3988-5120-9199-2fdc8205223c
+status: Standard

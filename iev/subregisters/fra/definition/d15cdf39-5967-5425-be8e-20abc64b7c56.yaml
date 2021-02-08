@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '9.9'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 9.9
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: 634d97f9-c0e0-5f9d-9d37-74bc2df87afa
+  definition: nouvelle impression d'un {{document normatif, IEV:901-02-01}} où sont
+    incorporées les modifications apportées à l'édition précédente
+  examples: []
+  notes:
+  - Même si les seuls changements apportés au texte d'un document normatif portent
+    sur des points consignés dans des feuilles de {{correction, IEV:901-04-06}} ou
+    d'{{amendement, IEV:901-04-07}}, le nouveau texte obtenu constitue une nouvelle
+    édition.
+dateAccepted: 2018-11-17
+id: d15cdf39-5967-5425-be8e-20abc64b7c56
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 441-11-10
+      link: null
+      original: 441-11-10 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-03-02
+      link: null
+      original: 826-03-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: af8f8f52-e0a4-5cf7-ac99-5cc49bc6b131
+  definition: partie conductrice d'un matériel, susceptible d'être touchée, et qui
+    n'est pas normalement sous tension, mais peut le devenir lorsque l'isolation principale
+    est défaillante
+  examples: []
+  notes: []
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 0fbbd7f4-24bd-5119-b276-8b7a74a3a573
+status: Standard

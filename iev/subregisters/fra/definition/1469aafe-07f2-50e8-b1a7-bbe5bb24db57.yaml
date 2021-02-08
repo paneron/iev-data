@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: '5.4'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 5.4
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: 2c711f79-8930-5042-b9f5-d984d7fe5aaf
+  definition: '{{norme, IEV:901-02-02}} qui spécifie les {{exigence, IEV:901-05-05}}s
+    auxquelles doit satisfaire un produit ou un groupe de produits pour assurer son/leur
+    {{aptitude à l''emploi, IEV:901-01-12}}'
+  examples: []
+  notes:
+  - Une norme de produit peut comporter, outre les exigences d'aptitude à l'emploi,
+    soit directement, soit par référence, des éléments relatifs à la terminologie,
+    à l'{{échantillonnage, IEV:902-03-01}}, à l'{{essai, IEV:902-03-02}}, à l'emballage,
+    à l'étiquetage et parfois des exigences de procédé.
+  - Une norme de produit peut être complète ou non, selon qu'elle spécifie les exigences
+    nécessaires en totalité ou en partie. En l'occurrence, on peut établir une distinction
+    entre les normes telles que les normes dimensionnelles, les normes relatives aux
+    matériaux ou les normes techniques de livraison.
+dateAccepted: 2018-11-17
+id: 1469aafe-07f2-50e8-b1a7-bbe5bb24db57
+status: Standard

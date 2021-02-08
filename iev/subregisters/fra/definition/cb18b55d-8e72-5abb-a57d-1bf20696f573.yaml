@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: fe658a94-d20d-5ddb-aea7-c618618cf4d9
+  definition: quotient de l'éclairement lumineux en un point d'un plan donné, dû à
+    la lumière reçue directement et indirectement d'un ciel dont la distribution des
+    luminances est réputée ou connue, par l'éclairement lumineux sur un plan horizontal
+    provenant d'un hémisphère sans obstruction de ce ciel, la contribution de la lumière
+    solaire directe à ces deux éclairements lumineux étant exclue
+  examples: []
+  notes:
+  - Les influences des vitrages, des salissures, etc. sont incluses.
+  - Pour le calcul de l'<a href="IEV845-29-001">éclairage</a>, la contribution de
+    la lumière solaire directe doit être prise en considération séparément.
+  - L'unité de facteur de lumière du jour est un.
+  - Cet article était numéroté 845-09-97 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: cb18b55d-8e72-5abb-a57d-1bf20696f573
+status: Standard

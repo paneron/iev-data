@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3da80f6b-7527-52f0-949f-fe7952407be6
+  definition: a time-slot, occupying the same relative position in every frame, used
+    to transmit the frame alignment signal
+  examples: []
+  notes:
+  - The frame alignment time-slot may be used permanently or periodically for transmitting
+    the frame alignment signal; when it is not occupied by this signal, it may be
+    used for the transmission of other information.
+  - In digital TDM systems, the frame alignment time-slot consists of one or more
+    digit time-slots.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 317c7058-033b-53ba-b964-8a7a9b3f2b51
+status: Standard

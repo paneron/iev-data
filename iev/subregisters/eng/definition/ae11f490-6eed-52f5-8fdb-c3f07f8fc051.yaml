@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7d79b6ae-921b-56d1-9977-3b86ab2b5868
+  definition: the ratio, generally expressed in decibels, of the power of the carrier
+    of a wanted signal to the power of an interfering signal, evaluated in specified
+    conditions, these powers being considered at the input of the receiver
+  examples: []
+  notes:
+  - If several interference signals are present, the sum of their powers should be
+    considered.
+  - 'The specified conditions comprise among others:
+
+
+    – the nature and characteristics of the interfering signal,
+
+
+    – the receiver and antenna characteristics such as the bandwidth.'
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ae11f490-6eed-52f5-8fdb-c3f07f8fc051
+status: Standard

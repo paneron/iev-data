@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3708584d-71f4-55a2-9c18-e3f484d3579e
+  definition: the transmission loss that would occur if the antennas were replaced
+    by isotropic antennas with the same polarization as the real antennas, the propagation
+    path being retained, but the effects of obstacles close to the antennas being
+    disregarded
+  examples: []
+  notes:
+  - The basic transmission loss is equal to the ratio of the equivalent isotropically
+    radiated power of the transmitter system and the power available from an isotropic
+    receiving antenna.
+  - The effect of the local ground close to the antenna is included in computing the
+    antenna gain, but not in the basic transmission loss.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: cb7f0a5f-7900-5382-a622-f88e81e69340
+status: Standard

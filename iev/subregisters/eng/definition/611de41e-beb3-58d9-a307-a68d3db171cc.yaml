@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9da43c46-975b-5c47-bf72-d03800f91e9a
+  definition: quotient of the radiance per unit emission bandpass, dstem:[λ], at a
+    specified emission wavelength, stem:[λ], due to photoluminescence from the specimen
+    when irradiated at a specified excitation wavelength, stem:[μ], and the radiance
+    of the perfect reflecting diffuser identically irradiated and viewed
+  examples: []
+  notes:
+  - Spectral quantities with a subscript stem:[λ] in their designation indicate differential
+    spectral radiometric quantities.
+  - When integrated or summed over the spectral bandpass of the instrument, this quantity
+    becomes the bandpass-weighted bispectral luminescent radiance factor, stem:[β]~L,~stem:[λ](stem:[μ])Δstem:[λ].
+  - The complete tabular form of bispectral luminescent radiance factor and reflected
+    radiance factor data is the Donaldson matrix representation of bispectral radiance
+    factor, stem:[D](stem:[μ], stem:[λ]). The excitation wavelengths, stem:[μ], are
+    tabulated in the vertical direction, the emission wavelengths, stem:[λ], in the
+    horizontal direction, the reflected radiance factors, stem:[β]~R~(stem:[λ]), appear
+    on the diagonal where the excitation and emission (detection) wavelengths are
+    equal, and the array of bandpass-weighted bispectral luminescent radiance factor
+    data, stem:[β]~L~stem:[,λ](stem:[μ])Δstem:[λ], appear on the off-diagonals.
+  - The bispectral luminescent radiance factor is expressed in nanometre to the power
+    minus one (nm^−1^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 611de41e-beb3-58d9-a307-a68d3db171cc
+status: Standard

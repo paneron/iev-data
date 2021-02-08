@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - null
+  concept: 291f95f7-ea86-5749-ae58-43c9c9add04a
+  definition: 'a criterion which characterizes the degree of roughness of a surface,
+    for a given grazing angle of an electromagnetic wave according to the value of
+    the quantity:
+
+
+    stem:[((h sin theta))/(lambda)]
+
+
+    where
+
+
+    stem:[h] is the average height of the surface irregularities,
+
+
+    stem:[θ] is the grazing angle relative to the average surface,
+
+
+    stem:[λ] is the wavelength'
+  examples: []
+  notes:
+  - 'In practice, roughness is negligible and the surface is considered specular if:
+
+
+    stem:[((h sin theta))/(lambda) (1)/((1 0 0))]'
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 83c54297-585b-5e14-bf3d-9f7627e3a762
+status: Standard

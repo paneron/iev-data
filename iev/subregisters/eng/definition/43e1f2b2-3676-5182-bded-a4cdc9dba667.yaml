@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 723-05-21
+      link: null
+      original: 723-05-21
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 8093ccc3-c98d-5d6e-a395-04a3d602cc6b
+  definition: a process of systematically changing the bit sequence of a digital signal,
+    usually as part of the channel coding, in order to reduce the influence of error
+    bursts that may occur during transmission
+  examples: []
+  notes:
+  - In French, the term "entrelacement" is also used with the meaning of interlace
+    in relation to scanning
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 43e1f2b2-3676-5182-bded-a4cdc9dba667
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: c85fab34-f12e-5123-850b-a1f3263ed984
+  definition: rapport, généralement exprimé en décibels, de la puissance apparente
+    en un point d'une voie de transmission après insertion d'un biporte donné immédiatement
+    en amont de ce point, à la puissance en ce point avant l'insertion de ce biporte
+  examples: []
+  notes:
+  - Si le rapport qui détermine le gain d'insertion est inférieur à l'unité, sa valeur
+    en décibels est négative, et on peut utiliser son inverse ou sa valeur en décibels
+    changée de signe appelée "affaiblissement d'insertion".
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: b0240976-0b46-5a77-b572-28d838c39413
+status: Standard

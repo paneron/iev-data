@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 32991f7d-cebb-54a2-9e48-5f7937cb7ca1
+  definition: command which is issued as soon as the associated step is activated
+    and which ends as soon as a specified time interval has elapsed or when the associated
+    step is deactivated before the specified time interval has elapsed
+  examples: []
+  notes:
+  - The time limited command is identified in IEC 60848, _GRAFCET specification language
+    for sequential function charts_, by the conventional letter “L”.
+  - This entry was numbered 351-29-35 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 1eb52b2b-98bb-58d5-b5a3-718fc8cc8164
+status: Standard

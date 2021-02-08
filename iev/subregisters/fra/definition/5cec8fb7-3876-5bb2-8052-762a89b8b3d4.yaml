@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4e9d74cb-39ea-5f32-a3d0-ef9677cd7bf2
+  definition: recherche dans le code source d’éléments susceptibles d’indiquer la
+    présence de pannes logicielles
+  examples: []
+  notes:
+  - En général, une analyse statique révèle des sections de code impossible à atteindre,
+    des variables non utilisées, mal utilisées, définies deux fois ou non initialisées
+    et des chemins d’exécution imprévus.
+  - En principe, une analyse statique utilise des outils de génie logiciel assisté
+    par ordinateur (GLAO).
+dateAccepted: 2018-11-17
+id: 5cec8fb7-3876-5bb2-8052-762a89b8b3d4
+status: Standard

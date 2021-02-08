@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: c4cb5930-d402-5155-a0a6-33318d16564d
+  definition: ". 0,5-fractile of a probability distribution \n\n.  for stem:[n] real\
+    \ values not necessarily different from each other, real number such that the\
+    \ number of values less than it is equal to the number of values greater than\
+    \ it"
+  examples: []
+  notes:
+  - If stem:[n] is odd, the median is the value of rank stem:[( n + 1 ) // 2] when
+    the values are arranged in increasing order. If stem:[n] is even, the median may
+    be any number between the values of rank stem:[n // 2] and stem:[( n // 2 + 1
+    )], usually the arithmetic mean of these two values.
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 23a7fa7b-30a9-53d1-8941-25567ae05d4d
+status: Standard

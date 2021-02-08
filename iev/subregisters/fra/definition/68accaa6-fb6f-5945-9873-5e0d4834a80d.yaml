@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: '2.4'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 2.4
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  concept: cefe46ff-498e-538e-9f11-055bc10995ed
+  definition: phénomène servant de base à un mesurage
+  examples: []
+  notes:
+  - "Le phénomène peut être de nature physique, chimique ou biologique.\r\nExemples:\n\
+    \n• Effet thermoélectrique appliqué à la mesure de température.\n\n• Absorption\
+    \ d'énergie appliquée à la mesure d'une concentration en quantité de matière.\n\
+    \n• Effet Hall appliqué à la mesure d’induction magnétique."
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 68accaa6-fb6f-5945-9873-5e0d4834a80d
+status: Standard

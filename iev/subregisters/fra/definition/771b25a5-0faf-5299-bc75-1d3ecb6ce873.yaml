@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 16.01.03
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.01.03
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  concept: 5fc4d1f0-abc2-59f8-a90a-ead9767ee380
+  definition: connaissance qui réduit ou supprime l'incertitude concernant la réalisation
+    d'un événement particulier appartenant à un ensemble déterminé d'événements possibles
+  examples: []
+  notes:
+  - En théorie de l'information, le mot "événement" a le sens qu'il prend dans le
+    calcul des probabilités. Un événement peut être, par exemple:* la présence d'un
+    élément donné d'un ensemble; * l'existence d'un caractère particulier, ou d'un
+    mot particulier, dans un message déterminé ou dans une position déterminée d'un
+    message;* n'importe lequel des résultats possibles d'une expérience.
+dateAccepted: 2018-11-17
+id: 771b25a5-0faf-5299-bc75-1d3ecb6ce873
+status: Standard

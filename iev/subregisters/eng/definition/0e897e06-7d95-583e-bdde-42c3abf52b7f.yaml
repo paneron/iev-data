@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4a8b24be-b962-55ce-a123-0655158ad6c6
+  definition: matrix having only one column
+  examples: []
+  notes:
+  - A column matrix with stem:[m] rows is of type stem:[m] × 1.
+  - A column matrix is generally used to represent the components of a vector.
+  - A column matrix is used in circuit theory to represent the set of voltages or
+    currents at ports of a network.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 0e897e06-7d95-583e-bdde-42c3abf52b7f
+status: Standard

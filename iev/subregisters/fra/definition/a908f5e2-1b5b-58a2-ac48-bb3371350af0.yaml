@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: 881-14-05
+      link: https://webstore.iec.ch/publication/272
+      original: CEI 60050-881:1983, 881-14-05, modifiée
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: définition 1129
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1129, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 61affe5d-911a-5974-b541-da51c82de7d9
+  definition: 'unité SI d''équivalent de dose
+
+
+    1 Sv = 1 J·kg^–1^'
+  examples: []
+  notes:
+  - Le sievert a remplacé le rem (1 Sv = 100 rem).
+  - Cet article était numéroté 393-14-73 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: a908f5e2-1b5b-58a2-ac48-bb3371350af0
+status: Standard

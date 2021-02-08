@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: e087ce9f-f5f5-58e8-92b5-09214b4d91af
+  definition: 'filter having at least four SAW resonators connected in series to form
+    a mesh, where two non-adjacent junction points are used as input terminals, while
+    the remaining two junction points are used as output terminals (bridge circuit)
+
+
+    <simg>
+
+
+    *Figure 13 – Configuration of a lattice filter*</simg>'
+  examples: []
+  notes:
+  - A lattice filter can be used for balanced circuits.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 1a9f3cae-951d-5d69-ac0a-6dee9422bfac
+status: Standard

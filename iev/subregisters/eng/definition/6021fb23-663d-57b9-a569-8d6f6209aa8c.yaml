@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07cd8188-fe99-59db-b33b-96ce13912089
+  definition: date on a timescale consisting of the origin of a calendar and a succession
+    of calendar days
+  examples: []
+  notes:
+  - 1 In the standardized calendar, each calendar day extends from one midnight to
+    the next midnight for the standard time at a given location. Consecutive calendar
+    days are usually grouped together in various time intervals, i.e. calendar weeks,
+    calendar months, calendar years.
+  - 2 In the standardized calendar, a calendar date is expressed by a triple of numbers
+    consisting of the number of the year relative to a conventional origin, the number
+    of the month within this year and the number of the day within this month. The
+    standardized representation (see ISO 8601) is in the order year-month-day, as
+    in the example 1998-11-15.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 6021fb23-663d-57b9-a569-8d6f6209aa8c
+status: Standard

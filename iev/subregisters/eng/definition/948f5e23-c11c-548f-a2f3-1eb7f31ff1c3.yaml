@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 55d9d334-4595-55ef-9a9e-f46fc96a1c16
+  definition: at a given point of a given oriented curve, differential of the abscissa
+    of the point
+  examples: []
+  notes:
+  - For a curve defined by the position vector *stem:[r]* as a function of a parameter
+    stem:[u], the scalar line element is given by stem:[| ((d r))/((d u)) | d u].
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 948f5e23-c11c-548f-a2f3-1eb7f31ff1c3
+status: Standard

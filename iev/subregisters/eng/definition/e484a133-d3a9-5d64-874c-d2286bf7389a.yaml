@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8beda592-7e41-505c-b000-d8627c528832
+  definition: style of mapping colour values from one image description to another
+  examples: []
+  notes:
+  - Within an ICC profile, a rendering intent identifies the subset of the profile
+    to use for mapping colour values in a particular case.
+  - See also "<a href="IEV845-32-048">ICC file format</a>".
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: e484a133-d3a9-5d64-874c-d2286bf7389a
+status: Standard

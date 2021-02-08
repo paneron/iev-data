@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: c71ef638-1ef2-5e16-bffe-3aaff0df1e25
+  definition: rapport, exprimé en décibels, du niveau de sortie de référence au niveau
+    de sortie pondéré dû au bruit après effacement total (sans effacement ni polarisation
+    par l'appareil)
+  examples: []
+  notes:
+  - La pondération utilisée devrait toujours être précisée, dans le cas contraire,
+    la pondération fréquentielle "A" sera sous-entendue.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 6da50554-2193-5265-9a5a-d043710444f9
+status: Standard

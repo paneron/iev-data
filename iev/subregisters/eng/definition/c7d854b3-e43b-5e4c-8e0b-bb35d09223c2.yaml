@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: e6ab13ce-0466-5047-8f07-719680487966
+  definition: output stage which may be enabled or disabled by the application of
+    an input control signal
+  examples: []
+  notes:
+  - In the disabled mode the output impedance of the gate is set to a high level permitting
+    the application of test signals to the following stages.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: c7d854b3-e43b-5e4c-8e0b-bb35d09223c2
+status: Standard

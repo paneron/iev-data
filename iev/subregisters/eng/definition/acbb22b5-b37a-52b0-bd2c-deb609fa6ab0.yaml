@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 444-06-05
+      link: https://webstore.iec.ch/publication/208
+      original: IEC 60050-444:2002, 444-06-05, modified – "a relay" has been replaced
+        by "a measuring relay or protection equipment".
+      ref: IEC 60050-444:2002
+      relationship:
+        modification: '"a relay" has been replaced by "a measuring relay or protection
+          equipment".'
+        type: modified
+  concept: 562dc1f8-85ce-517f-a7e5-1959837cef7f
+  definition: '{{interval, IEV:103-01-12}} of an {{influence quantity, IEV:447-06-01}}
+    within which a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    suffers only reversible changes of its characteristics'
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: acbb22b5-b37a-52b0-bd2c-deb609fa6ab0
+status: Standard

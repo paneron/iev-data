@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: e146f6dd-b949-59b9-8926-2754244adc98
+  definition: 'for a given vector space, set of elements called points, for which
+    an element stem:[U_((AB))] of the vector space is associated to any ordered pair
+    of points A and B with the following properties:
+
+
+
+
+    * for any two points A and B, stem:[U_((BA)) = - U_((AB))],
+
+
+    * for any three points A, B and C, stem:[U_((AB)) + U_((BC)) = U_((AC))],
+
+
+    * for a given point O and a given vector *stem:[r]*, there is a unique point P
+    such that stem:[U_((OP)) = r]'
+  examples: []
+  notes:
+  - A point space and the associated vector space have the same dimension. The point
+    space derived from the three-dimensional Euclidean vector space is a model of
+    the usual geometrical three-dimensional space.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 539c95d4-ee77-5d43-8310-21ff9a3b65fc
+status: Standard

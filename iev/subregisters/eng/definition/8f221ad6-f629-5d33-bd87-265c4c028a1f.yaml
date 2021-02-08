@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '3.6'
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.6
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  concept: eb497f76-8f05-5ce5-91a4-bddec7209adb
+  definition: maximum peak value of periodic excursions of the voltage waveform resulting
+    from distortions of an AC voltage or from AC components superimposed on a DC voltage
+  examples: []
+  notes:
+  - Random overvoltages, for example due to occasional switching, are not considered
+    to be recurring peak voltages.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 8f221ad6-f629-5d33-bd87-265c4c028a1f
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: definition 380
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 380, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 72806303-bd63-53f5-a2f1-439b64284c1f
+  definition: weighted average of {{atomic numbers, IEV:113-05-33}} of the constituents
+    of a material
+  examples: []
+  notes:
+  - The weighting may be different depending upon the interaction of interest, e.g.,
+    regarding the photoelectric effect or production of bremsstrahlung.
+  - This entry was numbered 393-14-04 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 364627e6-3c88-5d25-a2c9-0830000d04fc
+status: Standard

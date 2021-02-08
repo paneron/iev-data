@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3f871547-c150-55c0-8f95-a5b5f244a1d2
+  definition: 'identité résultant de l''application du théorème de la divergence au
+    champ vectoriel stem:[f_1 grad f_2 - f_2 grad f_1], où stem:[f]~1~ et stem:[f]~2~
+    sont deux champs scalaires donnés en tout point d''un domaine tridimensionnel
+    V délimité par une surface fermée S
+
+
+    stem:[underset(V)( ∭ ) ( f_1 Delta f_2 - f_2 Delta f_1 ) d V = underset(S)( ∯
+    ) ( f_1 grad f_2 - f_2 grad f_1 ) * e_n d A]
+
+
+    où dstem:[V] est l’élément de volume, *stem:[e]*~n~dstem:[A] est l’élément vectoriel
+    de surface et Δ est l''opérateur laplacien'
+  examples: []
+  notes:
+  - La formule de Green est symétrique par rapport à stem:[f]~1~ et stem:[f]~2~.
+dateAccepted: 2018-11-17
+id: e42741e6-1eb0-552a-ae72-36cfffd33ee1
+status: Standard

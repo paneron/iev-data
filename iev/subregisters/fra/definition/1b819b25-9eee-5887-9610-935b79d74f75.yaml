@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 29311ffc-55ea-5073-bc10-8beda74d5b58
+  definition: valeur en dessous de laquelle il n'est pas admis que la luminance moyenne
+    d'une surface spécifiée chute
+  examples: []
+  notes:
+  - La luminance moyenne conservée est la luminance moyenne de la surface spécifiée
+    au moment auquel il convient d'effectuer la maintenance.
+  - La luminance moyenne maintenue est exprimée en candela par mètre carré (cd·m^−2^).
+dateAccepted: 2018-11-17
+id: 1b819b25-9eee-5887-9610-935b79d74f75
+status: Standard

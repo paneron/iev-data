@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: d61b674a-175f-5d5a-8fdf-ffceefe45708
+  definition: '{{opération booléenne dyadique, IEV:171-03-08}} dont le résultat a
+    la valeur booléenne 1 si et seulement si les {{opérandes, IEV:171-03-04}} ont
+    la même valeur booléenne'
+  examples: []
+  notes:
+  - L’équivalence logique des variables stem:[a] et stem:[b] est notée stem:[a] ≡
+    stem:[b] (U+2261); d’autres notations sont aussi utilisées, comme stem:[a] ↔ stem:[b]
+    (U+2194) et stem:[a] ⇔ stem:[b] (U+21D4).
+dateAccepted: 2018-11-17
+id: a02a2881-253b-5d4e-a184-870ef4ef55e7
+status: Standard

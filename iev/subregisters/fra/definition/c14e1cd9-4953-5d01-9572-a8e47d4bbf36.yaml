@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 046e9f8d-91e7-5209-a164-35912c7a7040
+  definition: antenne à faisceau modelé telle que, pour une partie de sa fonction
+    caractéristique de rayonnement dans un plan, l'intensité de rayonnement est inversement
+    proportionnelle au carré du sinus de l'angle de la direction considérée avec une
+    direction spécifiée du plan
+  examples: []
+  notes:
+  - Lorsqu'une telle antenne est employée comme antenne de radar, le plan considéré
+    est vertical et l'angle est déterminé par rapport à l'horizontale, d'où il résulte
+    que l'intensité des échos provenant d'objectifs équivalents à altitude constante
+    est indépendante de la distance.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: c14e1cd9-4953-5d01-9572-a8e47d4bbf36
+status: Standard

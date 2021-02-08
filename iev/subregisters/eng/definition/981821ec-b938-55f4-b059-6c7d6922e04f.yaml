@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 387987ec-6db8-55d6-a10e-454889fb5060
+  definition: for a linear two-terminal-pair network or stem:[n]-terminal-pair network,
+    quotient of the phasor representing the electric current at an input port by the
+    phasor representing the voltage at an output port, when all other ports are connected
+    to specified terminating immittances
+  examples: []
+  notes:
+  - The input is usually connected to an ideal current source.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 981821ec-b938-55f4-b059-6c7d6922e04f
+status: Standard

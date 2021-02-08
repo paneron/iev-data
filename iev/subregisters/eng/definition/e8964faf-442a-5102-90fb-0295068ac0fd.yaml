@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 855267e6-bcb0-5505-887a-df64df88a963
+  definition: "functional unit that generates the value of its output variable by\
+    \ squaring the value of its input variable and multiplying the square by a constant\
+    \ weighting factor according to the formula\n\nstem:[v ( t ) = K * u^2 ( t )]\n\
+    \nwhere<table>\r\n<tr>\n<td>stem:[t]</td>\n<td>is the time;</td>\n</tr>\r\n<tr>\n\
+    <td>\nstem:[u](stem:[t])</td>\n<td>is the input variable;</td>\n</tr>\r\n<tr>\n\
+    <td>stem:[K]</td>\n<td>is the weighting factor;</td>\n</tr>\r\n<tr>\n<td>\nstem:[v](stem:[t])</td>\n\
+    <td>is the output variable.</td>\n</tr>\r\n</table>"
+  examples: []
+  notes:
+  - This entry was numbered 351-32-21 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: e8964faf-442a-5102-90fb-0295068ac0fd
+status: Standard

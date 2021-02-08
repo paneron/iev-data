@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '1.19'
+      original: VIM 1.19
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  concept: 4b0a4c54-8e27-557e-8381-5bdd7fa8078f
+  definition: value consistent with the definition of a given particular quantity
+  examples: []
+  notes:
+  - This term is used in the "true value" approach.
+  - This is a value that would be obtained by a perfect measurement.
+  - True values are by nature indeterminate.
+  - The indefinite article "a", rather than the definite article "the", is used in
+    conjunction with "true value" because there can be many values consistent with
+    the definition of a given particular quantity.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 54fccf4c-eb0d-519f-969d-b689e6a8839e
+status: Standard

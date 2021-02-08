@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3f726967-5fd4-56a7-9de5-e2fe62fb427f
+  definition: avis envoyé automatiquement par le réseau à tout poste demandeur pour
+    l'informer d'un nouveau numéro attribué au poste demandé, suivi soit d'un renvoi
+    d'appel, soit de la libération du demandeur
+  examples: []
+  notes:
+  - il est également possible de prévoir pour ce cas, un signal de service suivi de
+    la libération.
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: ef36af3a-e3e3-584f-a8de-dd7e2c32e3bb
+status: Standard

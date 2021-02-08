@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: a8a9319c-2c48-5fbb-8f80-e90c62acb367
+  definition: electrical signal which can be applied and removed during the time delay
+    to pause the time delay
+  examples: []
+  notes:
+  - The time relay output remains in the same operate or release condition during
+    the pause.
+  - The pause signal is provided by a separate device designed to close or open an
+    electrical circuit.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: 52ddc7b4-737e-5437-8772-95b99e76f4ef
+status: Standard

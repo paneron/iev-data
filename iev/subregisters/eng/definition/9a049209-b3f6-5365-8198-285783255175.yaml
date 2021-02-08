@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.10
+      original: IEC TS 80004-9:2017, 3.1.10, modified – Note 1 to entry has been revised
+        to refer to the term "nanomaterial".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: Note 1 to entry has been revised to refer to the term "nanomaterial".
+        type: modified
+  concept: e519b6ee-4a6e-53c8-881e-c37f2b9667d5
+  definition: '{{device, IEV:511-01-01}} where the material elements or assembly of
+    such elements are in the {{nanoscale, IEV:511-01-03}}'
+  examples: []
+  notes:
+  - The material element is a {{nanomaterial, IEV:511-01-04}}.
+dateAccepted: '2018-04-01T00:00:00+00:00'
+id: 9a049209-b3f6-5365-8198-285783255175
+status: Standard

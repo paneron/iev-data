@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: b6615428-5c2c-57ac-8155-98370910ce3c
+  definition: mean value of photon irradiance on the outer curved surface of a very
+    small (real or imaginary) cylinder that is oriented vertically at a point in space
+  examples: []
+  notes:
+  - 'Photon cylindrical irradiance is sometimes also defined as the arithmetic mean
+    of the vertical photon irradiance, stem:[E]~p,v~, at a point
+
+
+    stem:[E_((p ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((p ,v)) d phi]
+
+
+    where stem:[E]~p,v~ is the vertical photon irradiance for an area element with
+    its normal in the direction stem:[φ], and stem:[φ] is the angle in the plane perpendicular
+    to the axis of the cylinder.'
+  - The corresponding radiometric quantity is "cylindrical irradiance". The corresponding
+    photometric quantity is "cylindrical illuminance".
+  - The photon cylindrical irradiance is expressed in second to the power minus one
+    per square metre (s^−1^·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 9438ed26-2d0a-50bf-8f40-54457e8d1887
+status: Standard

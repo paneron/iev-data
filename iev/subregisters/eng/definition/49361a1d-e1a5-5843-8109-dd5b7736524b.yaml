@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - null
+  concept: 13ed2fe7-6182-50b6-aa66-a1bf31e85f80
+  definition: 'quotient of the temperature coefficient of permeability by the permeability
+    at temperature stem:[Θ]
+
+
+    stem:[alpha_F = ((alpha_(mu)))/((mu_(Theta))) = ((mu_(Theta) - mu_((ref))))/((mu_(Theta)
+    mu_((ref)) ( Theta - Theta_((ref)) )))]
+
+
+    or
+
+
+    stem:[alpha_F = ((alpha_(mu)))/((mu_(ref))) = ((mu_(Theta) - mu_((ref))))/((mu_(ref)^2
+    ( Theta - Theta_((ref)) )))]
+
+
+    when stem:[µ]~stem:[Θ]~ and stem:[µ]~ref~ differ insignificantly'
+  examples: []
+  notes:
+  - 'The temperature factor of permeability is a material property which enables to
+    calculate the temperature coefficient of effective permeability stem:[α]~stem:[µ]e~
+    by multiplying stem:[α]~F~ by stem:[µ]~e~:
+
+
+    stem:[alpha_((mu e)) = alpha_F * mu_((e^( * )))]'
+dateAccepted: '2007-04-01T00:00:00+00:00'
+id: 49361a1d-e1a5-5843-8109-dd5b7736524b
+status: Standard

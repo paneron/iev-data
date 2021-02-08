@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - - clause: 13-40
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-40, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: ae46df57-7a90-5e4f-891b-8473d70f68e3
+  definition: 'quotient de la {{transinformation moyenne par caractère, IEV:171-07-30}}
+    stem:[T]^′^ par la durée moyenne d''une paire de caractères à la source et au
+    collecteur
+
+
+    stem:[T]^*^ &amp;equals; stem:[T]^′^/stem:[t](stem:[X],stem:[Y])
+
+
+    où stem:[X] &amp;equals; {stem:[x]~1~, …, stem:[x]~stem:[n]~} est l''ensemble
+    d''événements stem:[xi] (stem:[i] &amp;equals; 1, …, stem:[n]), stem:[Y] &amp;equals;
+    {stem:[y]~1~, …, stem:[y]~stem:[m]~} est l''ensemble d''événements stem:[yj] (stem:[j]
+    &amp;equals; 1, …, stem:[m]) et où stem:[t ( X , Y ) = sum_((i = 1))^n sum_((j
+    = 1))^m p ( x_i , y_j ) * t ( x_i , y_j )] est l''espérance mathématique de la
+    durée stem:[t](stem:[xi],stem:[yj]) d''une paire de caractères (stem:[xi],stem:[yj])
+    ayant une probabilité de réalisation simultanée stem:[p](stem:[xi],stem:[yj])'
+  examples: []
+  notes:
+  - Le débit moyen de transinformation peut être exprimé à l'aide d'une unité telle
+    que le shannon par caractère et seconde.
+dateAccepted: 2018-11-17
+id: e29ee84b-622a-5d56-88fe-cf74cb50c775
+status: Standard

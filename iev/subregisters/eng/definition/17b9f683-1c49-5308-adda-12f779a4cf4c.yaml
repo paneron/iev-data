@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - null
+  concept: b82b3a2d-6f89-5893-a1b8-04cae0290ac4
+  definition: 'scalar constant stem:[μ]~0~ linking the electromagnetic quantities
+    and the mechanical quantities, obtained from the relation
+
+
+    stem:[(F)/(l) = ((mu_0))/((2 pi)) * ((| I_1 I_2 |))/(d)]
+
+
+    where stem:[F/l] is the magnitude of the lineic force between two straight parallel
+    conductors of infinite length and negligible circular cross-section, placed at
+    a distance stem:[d] apart in vacuum and carrying electric currents stem:[I]~1~
+    and stem:[I]~2~'
+  examples: []
+  notes:
+  - 'In vacuum, the product of the magnetic constant and the magnetic field strength
+    stem:[*H*] is equal to the magnetic flux density stem:[*B*]:
+
+
+    stem:[*B*] = stem:[μ]~0~stem:[*H*]'
+  - 'The magnetic constant is related to the electric constant stem:[ε]~0~ and to
+    the speed of light in vacuum stem:[c]~0~ by the relation
+
+
+    stem:[μ]~0~stem:[ε]~0~stem:[c]~0~^2^ = 1'
+  - 'The value of the magnetic constant is exactly equal to
+
+
+    4π × 10^−7^ m kg s^−2^ A^−2^ = 1,256 637 061 4... μH/m'
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 17b9f683-1c49-5308-adda-12f779a4cf4c
+status: Standard

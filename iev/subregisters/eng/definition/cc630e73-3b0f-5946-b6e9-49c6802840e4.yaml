@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5c23017c-9495-5e4a-901a-a9c6a22778cb
+  definition: 'time integral of spherical illuminance, stem:[E]~v,o~, at a given point
+    over a given duration, Δstem:[t]
+
+
+    stem:[H_((v,o)) = underset((Delta t))( int ) E_(v,o) d t]'
+  examples: []
+  notes:
+  - The luminous spherical exposure is expressed in lux second (lx·s = lm·s·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: cc630e73-3b0f-5946-b6e9-49c6802840e4
+status: Standard

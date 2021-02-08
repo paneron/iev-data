@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2f4299f0-134e-5817-a11c-182db7e043f4
+  definition: '{{dyadic Boolean operation, IEV:171-03-08}} whose result has the Boolean
+    value 0 if and only if the first {{operand, IEV:171-03-04}} has the Boolean value
+    0 and the second has the Boolean value 1'
+  examples: []
+  notes:
+  - Implication is noted stem:[a -&gt; b].
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 7f9c6a7a-b639-5b3b-85e4-09aae30bfc30
+status: Standard

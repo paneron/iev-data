@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: cff6d9ef-a642-5fc7-8893-4d12ba543480
+  definition: 'under periodic conditions, mean value, taken over one period stem:[T],
+    of the instantaneous power stem:[p]
+
+
+    stem:[P = (1)/(T) int_0^T p d t]'
+  examples: []
+  notes:
+  - Under sinusoidal conditions, the active power is the real part of the complex
+    power stem:[underset(_)(S)], thus stem:[underset(_)(P) = Re underset(_)(S)].
+  - The coherent SI unit for active power is watt, W.
+dateAccepted: '2013-08-01T00:00:00+00:00'
+id: 69f5dcd1-0bf7-5d4e-b579-12844cd5cbf1
+status: Standard

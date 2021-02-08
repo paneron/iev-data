@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7f6dea62-77e1-577e-a147-708ea2e604a4
+  definition: axial vector quantity describing the rotation around an axis, with magnitude
+    stem:[omega = | d phi // d t |], where stem:[d phi] is the plane angle change
+    during the infinitesimal time interval with duration dstem:[t], and with direction
+    along the axis for which the rotation is clockwise
+  examples: []
+  notes:
+  - 1 In an inertial frame, the angular velocity does not depend on the chosen coordinate
+    system provided that the orientation of space is kept (either right-handed or
+    left-handed).
+  - 2 The coherent SI unit of angular velocity is radian per second, rad/s.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 535dcd65-c615-5b14-bb8e-871cbe207dfb
+status: Standard

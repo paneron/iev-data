@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - - clause: 13-9
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-9, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: 530ac782-413a-5c03-96d2-3de11631fd1d
+  definition: nombre d’{{éléments de données, IEV:171-02-01}} de nature spécifiée
+    qui sont ou peuvent être contenus dans une mémoire donnée ou qui sont ou peuvent
+    être transférés pendant un intervalle de temps donné
+  examples: []
+  notes:
+  - Les éléments de données spécifiés sont par exemple des {{éléments binaires, IEV:171-02-10}},
+    des {{octets, IEV:171-02-12}}, des {{mots, IEV:171-02-27}} formés d’un nombre
+    déterminé de bits, des {{blocs, IEV:721-03-11}}.
+  - Pour les {{mémoires, IEV:171-04-14}}, on utilise, dans le même sens, les termes
+    "capacité de mémoire" ou "taille de mémoire" (voir {{IEV 171-04-16, IEV:171-04-16}}).
+    Pour les {{registres, IEV:171-04-19}}, on utilise, dans le même sens, le terme
+    "longueur de registre".
+dateAccepted: 2018-11-17
+id: b942f51f-4e82-5a18-98e3-30b2bc80308e
+status: Standard

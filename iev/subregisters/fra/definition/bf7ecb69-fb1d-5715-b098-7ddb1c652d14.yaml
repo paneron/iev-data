@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9e76c82f-3296-5c97-8350-7473e82fc903
+  definition: rapidité globale de transmission d'éléments de signal sur une liaison,
+    expriméе en éléments binaires par seconde
+  examples: []
+  notes:
+  - 'Le débit binaire s''exprime par la formule
+
+
+    stem:[sum_((i = 1))^((i = m)) (1)/((T_i)) (log)_2 n_i]
+
+
+    où stem:[m] est le nombre de voies de transmission en parallèle, stem:[T]~stem:[i]~
+    est la plus courte durée théorique d''un élément de signal pour la voie stem:[i],
+    exprimée en secondes, et stem:[n]~stem:[i]~ est la valence de la voie stem:[i].'
+  - Le symbole de l'unité de débit binaire est bit/s.
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: bf7ecb69-fb1d-5715-b098-7ddb1c652d14
+status: Standard

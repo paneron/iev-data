@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: '2.6'
+      link: https://www.iso.org/standard/52195.html
+      original: ISO TS 80004-4:2011, 2.6, modified – In note 2 to entry "external"
+        has been added after "larger".
+      ref: ISO/TS 80004-4:2011
+      relationship:
+        modification: In note 2 to entry "external" has been added after "larger".
+        type: modified
+  concept: 2d36e932-224a-5ad8-af44-c21b85741862
+  definition: '{{nano-object, IEV:511-01-07}} with one external dimension in the {{nanoscale,
+    IEV:511-01-03}} and the two other external dimensions significantly larger'
+  examples: []
+  notes:
+  - The smallest external dimension is the thickness of the nanoplate.
+  - The two significantly larger external dimensions are considered to differ from
+    the nanoscale dimension by more than three times.
+  - The larger external dimensions are not necessarily in the nanoscale.
+dateAccepted: '2018-04-01T00:00:00+00:00'
+id: 9224dbbc-19ba-580c-8e0f-ee98575d8d55
+status: Standard

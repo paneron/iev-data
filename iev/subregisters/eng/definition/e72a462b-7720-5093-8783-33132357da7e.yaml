@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: '1.17'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.17 MOD
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: modified
+  concept: d246625e-8d7f-5c68-80e8-bff27f0df688
+  definition: unit of measurement obtained by multiplying a given unit of measurement
+    by a number greater than one
+  examples: []
+  notes:
+  - The kilometre (km) is a decimal multiple of the metre (m). The hour (h) is a non-decimal
+    integer multiple of the second (s). The light year is a non-integer multiple of
+    the metre (in the VIM, only integer multiples are considered).
+  - Multiples of a unit are often named by adding a unit prefix to the name of the
+    unit.
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: e72a462b-7720-5093-8783-33132357da7e
+status: Standard

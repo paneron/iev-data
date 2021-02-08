@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.3
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.3, modifié
+      ref: IEC 62290-1:2014
+      relationship:
+        type: modified
+  concept: e8b1aee8-8476-5752-89cb-f781732df1b7
+  definition: ordre utilisé pour exécuter une fonction dans un système
+  examples: []
+  notes:
+  - 'Une commande peut venir: * d’un opérateur du système, * d’un système externe,
+    * de l’intérieur du système lui-même.Une commande peut être envoyée:* à un système
+    externe, * à l’intérieur du système lui-même.'
+dateAccepted: 2018-11-17
+id: a2ed585b-6252-5991-9a7c-d5040928f16c
+status: Standard

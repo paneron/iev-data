@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 151-01-07
+      link: null
+      original: 151-01-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-04-01
+      link: null
+      original: 826-04-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: eafb59de-9be2-591c-ba7a-090ae8fc4882
+  definition: part of the Earth considered as conductive, the electric potential of
+    which is conventionally taken as zero, being outside the zone of influence of
+    any earthing arrangement
+  examples: []
+  notes:
+  - The concept "Earth" means the planet and all its physical matter.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 9cccc5cd-6803-50b3-9e8f-0430c8e28369
+status: Standard

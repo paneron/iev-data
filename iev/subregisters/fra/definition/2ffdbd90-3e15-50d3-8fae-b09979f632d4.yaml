@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 826-03-01
+      link: null
+      original: 826-03-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: a674c640-5a6b-5c2a-83eb-ed7f76d4f7b0
+  definition: conducteur ou partie conductrice destiné à être sous tension en service
+    normal, ainsi que le conducteur neutre mais, par convention, pas le conducteur
+    combiné de protection et de neutre (PEN)
+  examples: []
+  notes:
+  - Cette notion n'implique pas nécessairement un risque de choc électrique.
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: 2ffdbd90-3e15-50d3-8fae-b09979f632d4
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1968372f-b403-5286-9f1e-7944c6e438b5
+  definition: type de régulation, capable de maintenir les propriétés du système dans
+    une zone prescrite même si les propriétés du système commandé ou les propriétés
+    du régulateur diffèrent de celles supposées pour la conception du système de régulation
+    mais ne dépassent pas un montant prédéterminé.
+  examples: []
+  notes:
+  - Les propriétés du système de régulation peuvent être sa stabilité, le coefficient
+    d’amortissement de sa fonction de transfert, le dépassement de la réponse unitaire
+    à un échelon.
+  - Les propriétés du système commandé ou du régulateur, par exemple, peuvent varier
+    car les perturbations, retards ou temps morts n’ont pas été considérés, les paramètres
+    sont influencés par les conditions de fonctionnement variables, le régulateur
+    a été mis en œuvre de manière non idéale.
+  - La marge de phase ou la marge de gain peut être utilisée pour décrire la robustesse
+    d’une boucle d’asservissement.
+  - Cet article était numéroté 351-26-39 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 48112067-003c-5ef8-b3b6-2f485d25d7d2
+status: Standard

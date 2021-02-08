@@ -1,0 +1,35 @@
+data:
+  authoritative_source:
+  - null
+  concept: d80835bc-19c0-5611-88fd-5e24e0e8f69b
+  definition: 'quotient of the average radiant flux density or luminous flux density,
+    stem:[Φ]~2~/stem:[A]~2~ (or stem:[Φ]~1~/stem:[A]~1~), received over surface S~2~
+    (or S~1~) from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance,
+    stem:[M]~1~ (or stem:[M]~2~), of surface S~1~ (or S~2~)
+
+
+    stem:[f_((21)) = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))]
+
+
+    or
+
+
+    stem:[f_((12)) = ((Phi_1))/((A_1 M_2)) = (g)/((A_1))]
+
+
+    with
+
+
+    stem:[A_2 f_((21)) = g = A_1 f_((12))]
+
+
+    where stem:[Φ]~2~ (or stem:[Φ]~1~) is the radiant flux or luminous flux received
+    over surface S~2~ (or S~1~) from surface S~1~ (or S~2~), stem:[A]~2~ (or stem:[A]~1~)
+    is the area of surface S~2~ (or S~1~) and stem:[g] is the mutual exchange coefficient'
+  examples: []
+  notes:
+  - The form factor has unit one.
+  - This entry was numbered 845-09-73 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 0f84be8c-d7fa-535b-bd99-a54168498737
+status: Standard

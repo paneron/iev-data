@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: da3bb123-4c45-5696-a6d9-e3a7748a9e54
+  definition: fonction qui attribue un scalaire, un vecteur ou un tenseur, ou un ensemble
+    de tels éléments liés entre eux, à chaque point d'un domaine déterminé de l'espace
+    euclidien à trois dimensions
+  examples: []
+  notes:
+  - Un champ peut représenter un phénomène physique, comme par exemple un champ de
+    pression acoustique, un champ de pesanteur, le champ magnétique terrestre, un
+    champ électromagnétique.
+  - Un champ peut dépendre du temps.
+  - En anglais, le terme «field» a aussi en mathématiques le sens de «corps» (voir
+    {{IEV 102-02-18, IEV:102-02-18}}, Note 2).
+dateAccepted: 2018-11-17
+id: 97808b1f-f8f8-5f48-bc78-4327338e417a
+status: Standard

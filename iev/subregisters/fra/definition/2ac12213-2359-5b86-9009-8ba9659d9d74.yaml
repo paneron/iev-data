@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8bf93a3d-a673-5b77-b75d-c008ebeada43
+  definition: perméabilité relative obtenue à partir des valeurs de crête de l'induction
+    magnétique et du champ magnétique appliqué, pour des amplitudes données de l'une
+    ou de l'autre grandeur, lorsque le champ varie périodiquement en fonction du temps
+    avec une valeur moyenne nulle, la substance étant initialement dans un état magnétique
+    neutre spécifié
+  examples: []
+  notes:
+  - 'Deux perméabilités d''amplitude sont d''usage courant, à savoir:
+
+
+    i) celle pour laquelle les valeurs de crête sont celles des grandeurs réelles,
+
+
+    ii) celle pour laquelle les valeurs de crête sont celles des composantes fondamentales
+    ; dans ce cas il faut préciser laquelle des grandeurs, s''il y en a une, est sinusoïdale.'
+  - stem:[hat B] et stem:[hat H] peuvent être des valeurs statiques pourvu que la
+    substance soit dans une condition magnétique cyclique.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 2ac12213-2359-5b86-9009-8ba9659d9d74
+status: Standard

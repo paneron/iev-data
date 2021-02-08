@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4e9d74cb-39ea-5f32-a3d0-ef9677cd7bf2
+  definition: examination of source code for features that may indicate the presence
+    of software faults
+  examples: []
+  notes:
+  - Static analysis typically reveals unreachable sections of code, unused, misused,
+    doubly-defined or uninitialized variables, and unintended execution paths.
+  - Static analysis normally employs computer aided software engineering tools.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: fe1d243f-2c86-5dcd-ac5f-9e776cb44fdb
+status: Standard

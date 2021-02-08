@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: '3.8'
+      original: IEC Guide 104:2010, 3.8
+      ref: IEC Guide 104:2010
+      relationship:
+        type: identical
+  concept: d5c468cb-a709-50e2-8441-a003b5d5b751
+  definition: condition in which there is a fault of a single protection (but not
+    a {{reinforced protection, IEV:903-02-08}}) or of a single component or a device
+  examples: []
+  notes:
+  - If a single fault condition results in one or more other fault conditions, all
+    are considered as one single fault condition.
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: dd8cfe83-79ac-5c37-ac8f-cfd0fc4a014d
+status: Standard

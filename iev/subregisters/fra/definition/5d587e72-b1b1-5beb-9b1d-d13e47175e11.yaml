@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 750e64f1-7020-5a29-8a53-ba57833e90be
+  definition: 'pour un bipôle inductif de bornes A et B, dérivée du flux totalisé
+    stem:[Ψ] entre les bornes par rapport au courant électrique stem:[i] dans le bipôle:
+
+
+    stem:[L_d = ((d Psi))/((d i))]
+
+
+    où le signe du flux totalisé est déterminé en prenant la tension électrique, dans
+    l''intégrale qui le définit, comme la différence des potentiels électriques en
+    A et B et où le courant est pris positif si le sens du courant est de A vers B
+    et négatif dans le cas contraire'
+  examples: []
+  notes:
+  - Pour une inductance idéale, l'inductance différentielle stem:[L]~d~  est égale
+    à son inductance stem:[L].
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: 5d587e72-b1b1-5beb-9b1d-d13e47175e11
+status: Standard

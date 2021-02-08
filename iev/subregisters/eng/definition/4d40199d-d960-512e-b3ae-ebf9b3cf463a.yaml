@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: c9f9564b-43c0-5c5e-8e32-3ffa94af1305
+  definition: '{{multiplexing, IEV:701-03-09}} in which several independent {{signals,
+    IEV:701-01-02}} are allotted separate wavelengths for {{transmission, IEV:701-01-03}}
+    over a common optical {{transmission medium, IEV:704-02-01}}'
+  examples: []
+  notes:
+  - Wavelength division multiplexing is a form of {{frequency division multiplexing,
+    IEV:704-08-05}}. The use of the distinct term "wavelength division multiplexing"
+    allows this concept to be distinguished from that in which frequency division
+    multiplexing is used in assembling the {{baseband, IEV:702-01-06}} signal that
+    has to be carried over the optical link at one {{wavelength, IEV:103-10-10}}.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 4d40199d-d960-512e-b3ae-ebf9b3cf463a
+status: Standard

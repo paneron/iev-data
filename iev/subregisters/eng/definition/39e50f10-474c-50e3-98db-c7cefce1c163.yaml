@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0ef1b2e8-b53e-5252-a205-1699695e2fa0
+  definition: 'scalar quantity equal to the line integral of the magnetic field strength
+    stem:[*H*] along a specified path linking two points a and b:
+
+
+    stem:[V_((m ,ab)) = int_((r_a))^((r_b)) H * d r]
+
+
+    where stem:[*r*]~a~ and stem:[*r*]~b~ are the position vectors for a and b, respectively,
+    and dstem:[*r*]  is the vector line element'
+  examples: []
+  notes: []
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 39e50f10-474c-50e3-98db-c7cefce1c163
+status: Standard

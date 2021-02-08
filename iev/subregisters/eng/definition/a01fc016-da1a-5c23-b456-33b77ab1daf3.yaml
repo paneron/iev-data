@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.3.2.4
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.2.4
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  concept: f687e6a5-35cc-5611-9fc7-aa0039f242d5
+  definition: '{{enclosure, IEV:195-02-35}} intended as protection against mechanically-caused
+    injury'
+  examples: []
+  notes:
+  - Some standards use the term "safeguard" instead of "protection".
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: a01fc016-da1a-5c23-b456-33b77ab1daf3
+status: Standard

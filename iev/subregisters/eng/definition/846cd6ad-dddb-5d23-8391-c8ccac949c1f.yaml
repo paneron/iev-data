@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.3.3.6
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.3.6
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  concept: 945ea184-3661-5b63-9d73-41c59972a81d
+  definition: equipment that is intended for connection to the mains via an industrial
+    plug and socket-outlet or via an industrial appliance coupler, or both
+  examples: []
+  notes:
+  - For industrial plug and socket-outlets, see IEC 60309-1 or a national equivalent.
+    For industrial appliance couplers, see IEC 60320-1.
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: 846cd6ad-dddb-5d23-8391-c8ccac949c1f
+status: Standard

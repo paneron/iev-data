@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 151-13-03
+      link: null
+      original: 151-13-03
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 42ab41fd-4abb-5115-8519-bd1f2f72c761
+  definition: electrode capable of emitting negative charge carriers to and/or receiving
+    positive charge carriers from the medium of lower conductivity
+  examples: []
+  notes:
+  - The direction of electric current is from the medium of lower conductivity, through
+    the cathode, to the external circuit.
+  - In some cases (e.g. electrochemical cells), the term "cathode" is applied to one
+    or another electrode, depending on the electric operating condition of the device.
+    In other cases (e.g. electronic tubes and semiconductor devices), the term "cathode"
+    is assigned to a specific electrode.
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: df89bac6-72dd-5203-b1ea-da0745f56448
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7d571cc7-e354-5020-bcd3-a8565d681944
+  definition: fonction égale à une constante pour toute valeur négative de la variable
+    indépendante et égale à cette constante augmentée d'une unité pour toute valeur
+    positive
+  examples: []
+  notes:
+  - stem:[c + epsilon ( x )], où stem:[c] est une constante et stem:[epsilon ( x )]
+    est la fonction échelon unité, représente un échelon unité généralisé.
+dateAccepted: 2018-11-17
+id: 64da6bc2-ef5a-536d-bc65-0916019f2bc5
+status: Standard

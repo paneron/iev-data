@@ -1,0 +1,32 @@
+data:
+  authoritative_source:
+  - null
+  concept: f52bcac8-1362-5d90-ba0f-0b333d82c4ce
+  definition: 'quantity representing the quantities in a finite set or in an interval,
+
+
+
+    . for stem:[n] quantities stem:[x_1 , x_2 , ... x_n], by the positive square root
+    of the mean value of their squares:
+
+
+    stem:[X_q = ( (1)/(n) ( x_1^2 + x_2^2 + ... + x_n^2 ) )^(1 // 2)]
+
+
+    .  for a quantity stem:[x] depending on a variable stem:[t], by the positive square
+    root of the mean value of the square of the quantity taken over a given interval
+    stem:[( t_0 , t_0 + T )] of the variable:
+
+
+    stem:[X_q = ( (1)/(T) int_( t_0)^( t_0 + T) ( x ( t ) )^2 d t )^(1 // 2)]'
+  examples: []
+  notes:
+  - The root-mean-square value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.
+  - The root-mean-square value of a quantity is denoted by adding the subscript q
+    to the symbol of the quantity.
+  - The abbreviation RMS was formerly denoted as r.m.s. or rms, but these notations
+    are now deprecated.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 5759dd90-e1bd-5cd3-bfdc-f6320db7023a
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 73125993-1582-5496-a39c-57de69aab94f
+  definition: '{{transmission channel, IEV:701-02-01}} associated with the {{forward
+    channel, IEV:721-11-06}} permitting the dispatch of acknowledge and other function
+    control signals in the direction opposite to that of the forward channel'
+  examples: []
+  notes:
+  - In the case of simultaneous transfer of information in both directions, the backward
+    channel is at any instant in the direction opposite to that of the transfer of
+    user's information.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 76540644-e5ca-5102-8cc3-b14e295d69c3
+status: Standard

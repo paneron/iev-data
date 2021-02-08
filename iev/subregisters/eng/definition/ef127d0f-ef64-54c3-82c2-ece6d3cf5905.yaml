@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: 725-12-01
+      link: null
+      original: 725-12-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '58'
+      original: ITU RR 58 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  concept: 9fcb6664-026f-5cba-ba79-fa6cc135a283
+  definition: one or more radio transmitters or receivers, or a combination of transmitters
+    and receivers, including associated equipment, at one given location for carrying
+    on a radiocommunication service or for radio astronomy purposes
+  examples: []
+  notes:
+  - Each radio station shall be designated by the service in which it operates permanently
+    or temporarily.
+  - The given location may be fixed or mobile, on land, at sea, in the air, or in
+    space.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ef127d0f-ef64-54c3-82c2-ece6d3cf5905
+status: Standard

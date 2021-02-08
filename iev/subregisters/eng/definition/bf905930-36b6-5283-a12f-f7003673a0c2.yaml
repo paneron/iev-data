@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 151-11-28
+      link: https://webstore.iec.ch/publication/176
+      original: IEC 60050-151:2001, 151-11-28, modified – The definition has been
+        made more specific to live working activities.
+      ref: IEC 60050-151:2001
+      relationship:
+        modification: The definition has been made more specific to live working activities.
+        type: modified
+  concept: 7bdf49aa-f7fd-5e9f-b80d-91394072e3e3
+  definition: combination of activities including work activities necessary to permit
+    an {{electrical installation, IEV:651-26-01}} to function
+  examples: []
+  notes:
+  - The operation includes such matters as switching, controlling, monitoring and
+    maintenance as well as both {{electrical work, IEV:651-26-04}} and non-electrical
+    work.
+  - 'This entry was numbered 651-01-05 in IEC 60050-651:1999. It has been modified
+    as follows: the reference to IEC 60050-151 has been added.'
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: bf905930-36b6-5283-a12f-f7003673a0c2
+status: Standard

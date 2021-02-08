@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - - clause: 13-35
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-35, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: 60667c28-d887-54e5-8db8-8df5a43baef6
+  definition: 'excès de la {{quantité d''information, IEV:171-07-14}} stem:[I](stem:[x])
+    apportée par la réalisation d''un événement stem:[x] sur la quantité d''information
+    conditionnelle stem:[I ( x | y )] liée à cette réalisation lorsque l''on connaît
+    la réalisation d''un autre événement stem:[y]
+
+
+    stem:[T ( x , y ) = I ( x ) - I ( x | y )]'
+  examples: []
+  notes:
+  - Les deux événements sont en particulier un message émis par la source de messages
+    d'un canal et un message reçu par le collecteur de messages du canal.
+  - 'La transinformation peut aussi être exprimée par: stem:[T ( x , y ) = I ( x )
+    + I ( y ) - I ( x , y )] où stem:[I](stem:[y]) est la quantité d''information
+    de l''événement stem:[y]. Il en résulte qu''elle est symétrique en stem:[x] et
+    stem:[y]: stem:[T ( x , y ) = T ( y , x )].'
+dateAccepted: 2018-11-17
+id: 6a0fcb49-5323-52e8-bb24-5ff33e2ff076
+status: Standard

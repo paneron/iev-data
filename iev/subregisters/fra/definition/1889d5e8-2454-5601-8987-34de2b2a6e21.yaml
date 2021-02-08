@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 734de8ec-f348-5b68-b2ad-e712ba37a861
+  definition: '1. ensemble, obtenu par multiplexage en fréquence, d''un nombre spécifié
+    de groupes primaires, normalement cinq, occupant des bandes de fréquences contiguës
+
+
+    2. bande de fréquences de largeur normalisée à 240 kHz et occupant l''une d''un
+    certain nombre de positions spectrales spécifiées dans une transmission multiplex
+    à courants porteurs'
+  examples: []
+  notes:
+  - Un groupe secondaire est normalement un ensemble de 60 voies téléphoniques à courant
+    porteur.
+  - Un signal ne provenant pas d'un assemblage de groupes primaires, mais ayant des
+    caractéristiques spécifiées, peut occuper tout ou partie d'un groupe secondaire.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 1889d5e8-2454-5601-8987-34de2b2a6e21
+status: Standard

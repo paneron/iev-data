@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - null
+  concept: b3ba3467-1417-531e-8b2b-d5bb23c97feb
+  definition: en régime sinusoïdal et en notation complexe, rapport d'une grandeur
+    de champ telle qu'un courant réfléchi ou une composante d'une onde réfléchie à
+    la grandeur de champ correspondante du courant incident ou de l'onde incidente
+    en un point proche d'une surface séparant deux milieux de propagation, ou proche
+    d'un accès d'un réseau électrique ou d'une discontinuité d'une ligne de transmission
+  examples: []
+  notes:
+  - 1 – Quand la grandeur du champ est une composante d'une onde électromagnétique
+    plane, le signe du facteur de réflexion est différent pour une composante du champ
+    électrique et la composante correspondante du champ magnétique.
+  - 2 – Quand la grandeur de champ se rapporte à un accès d'un réseau électrique,
+    ou à une discontinuité d'une ligne de transmission, on peut définir un facteur
+    de réflexion en tension dont le signe est opposé à celui du facteur de réflexion
+    du courant.
+  - '3 – Si on peut définir des impédances, le facteur de réflexion complexe <u>stem:[r]</u>
+    du courant est égal à:
+
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - underset(_)(Z)^( '' )))/((underset(_)(Z)
+    + underset(_)(Z)^( '' )))]
+
+
+    où stem:[Z] est l''impédance caractéristique de la ligne avant la discontinuité
+    ou l''impédance de la source, et stem:[Z]′ l''impédance après la discontinuité
+    ou l''impédance de la charge vue de l''accès commun à la source et à la charge.'
+  - 4 – Dans le cas d'un guide d'ondes le facteur de réflexion dépend du mode électromagnétique
+    considéré.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 39780832-8922-53b3-9feb-2f7f5fe1e699
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.34
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.34
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  concept: 01ae904f-3bb4-5212-8402-a25329a479ef
+  definition: set of all possible message failure modes which can lead to potentially
+    dangerous situations, or to reduction in system availability
+  examples: []
+  notes:
+  - There can be a number of causes of each type of error.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 752fb600-a763-561d-b02e-fee206abce34
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 11.3.2
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 11.3.2, modified – The parenthetical expression
+        following the term has been transferred to the term attribute "specific use".
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: The parenthetical expression following the term has been transferred
+          to the term attribute "specific use".
+        type: modified
+  concept: 78b28adc-e2e6-5deb-9883-12bc86e52524
+  definition: '{{reference to standards, IEV:901-06-14}} that states that one way
+    to meet the relevant {{requirement, IEV:901-05-05}}s of a {{technical regulation,
+    IEV:901-02-11}} is to comply with the {{standard, IEV:901-02-02}}(s) referred
+    to'
+  examples: []
+  notes:
+  - An indicative reference to standards is a form of {{deemed-to-satisfy provision,
+    IEV:901-05-08}}.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 39c1cd29-96e7-5359-8870-15bf48668bda
+status: Standard

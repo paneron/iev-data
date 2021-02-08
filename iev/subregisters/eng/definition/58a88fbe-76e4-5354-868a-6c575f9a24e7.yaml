@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 61c6f673-8745-5b85-b325-36b66fef75ad
+  definition: 'for two tensors of the second-order stem:[T = ( T_((i j)) )] and stem:[S
+    = ( S_((k l)) )], scalar defined by stem:[T : S = underset((m n))( sum ) T_((m
+    n)) S_((n m))]'
+  examples: []
+  notes:
+  - The scalar product of two tensors is denoted by a colon (:) between the two symbols
+    of the tensors.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 58a88fbe-76e4-5354-868a-6c575f9a24e7
+status: Standard

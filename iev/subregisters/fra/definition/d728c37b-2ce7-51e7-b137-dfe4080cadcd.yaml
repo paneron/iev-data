@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: e4f744b4-b68d-54a6-8d93-33af5936506e
+  definition: les deux positions de part et d'autre d'un noeud, le long d'une ligne
+    de mesure fendue, dans lesquelles la puissance extraite par la sonde de couplage
+    est le double de celle extraite à ce noeud
+  examples: []
+  notes:
+  - Afin de mesurer avec plus de précision un rapport d'onde stationnaire très élevé,
+    le point milieu entre ces deux points est utilisé pour déterminer la position
+    exacte du minimum, et le rapport d'onde stationnaire est déduit de la distance
+    entre ces deux points.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: d728c37b-2ce7-51e7-b137-dfe4080cadcd
+status: Standard

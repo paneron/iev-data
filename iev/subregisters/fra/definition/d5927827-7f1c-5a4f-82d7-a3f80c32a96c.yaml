@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3a99ab2f-4a23-5cfa-a6f7-084a9c15e7fd
+  definition: pour un faisceau de circuits ou un indicatif de destination donnés et
+    pendant un intervalle de temps spécifié, rapport du nombre des tentatives de prises
+    qui aboutissent à un signal de réponse, au nombre total des tentatives de prise
+  examples: []
+  notes:
+  - En certains points du réseau ce rapport peut se montrer inférieur au taux de prises
+    avec réponse vu la possibilité de tentatives de prises infructueuses.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: d5927827-7f1c-5a4f-82d7-a3f80c32a96c
+status: Standard

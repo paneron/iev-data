@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 805f1d3c-3075-5abe-a4a6-3b338e8a3590
+  definition: "duration stem:[t]~SU~ between the application of the supply voltage\
+    \ to the oscillator and the time when the RF output signal of desired frequency\
+    \ controlled by the quartz resonator fulfils the following specified conditions:\n\
+    \n. for quasi-sinusoidal waveforms, the signal envelope is 90 % of the steady-state\
+    \ peak-to-peak amplitude; \n\n. for pulse waveforms, the output pulse sequence\
+    \ is periodical near the steady-state frequency while its low level stem:[V]~LO~\
+    \ remains below stem:[V]~OL~ and its high level stem:[V]~HI~ exceeds stem:[V]~OH~\
+    \ permanently, where stem:[V]~OH~ and stem:[V]~OL~ are defined by the applicable\
+    \ logic family"
+  examples: []
+  notes: []
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: b6b470cb-275f-555c-aef2-26d7d80731c0
+status: Standard

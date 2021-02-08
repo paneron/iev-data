@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - null
+  concept: 38ddd916-f0c3-5f43-87e9-b6f7ff717c47
+  definition: quotient de la somme des durées de toutes les {{interruptions de fourniture,
+    IEV:692-07-01}} d'énergie électrique à des clients individuels pendant un intervalle
+    de temps, par le produit de la durée de cet intervalle de temps et du nombre de
+    clients affectés
+  examples: []
+  notes:
+  - 'Si sur un intervalle de temps de durée stem:[T], stem:[t]~stem:[ij]~ est la durée
+    de la stem:[i]ème interruption subie par le client stem:[j], et stem:[N]~NS~ le
+    nombre de clients affectés, alors, l’indisponibilité par client coupé est donnée
+    par
+
+
+    stem:[U_((CI)) = ((sum_i sum_j t_((i j))))/((N_(NS) T))]'
+  - Seules les {{interruptions longues, IEV:692-07-02}} sont prises en compte.
+  - Le terme "client" désigne l’utilisateur final et non un réseau ou une compagnie
+    de distribution intermédiaire.
+  - L’indisponibilité par client coupé peut être utilisée pour décrire des performances
+    réalisées, ou pour estimer les performances futures attendues.
+  - Cet article portait le numéro 191-27-04 dans l’IEC 60050-191:1990.
+dateAccepted: 2018-11-17
+id: 81f80284-80fe-5908-9417-3a44cc75d952
+status: Standard

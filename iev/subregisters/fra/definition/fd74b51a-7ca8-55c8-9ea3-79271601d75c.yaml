@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3c6bd36e-a0bc-5f38-83da-f90f80811daf
+  definition: rapport, généralement exprimé en décibels, de la partie de l'intensité
+    de rayonnement totale d'une antenne dans une direction donnée qui correspond à
+    une polarisation donnée, à l'intensité de rayonnement qui serait obtenue si la
+    totalité de la puissance fournie à l'antenne était rayonnée également dans toutes
+    les directions de l'espace
+  examples: []
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle dans laquelle l'intensité
+    de rayonnement de l'antenne est maximale.
+  - Le gain isotrope d'une antenne est la somme des gains isotropes partiels, exprimés
+    en rapports de puissances, correspondant à deux polarisations orthogonales.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: fd74b51a-7ca8-55c8-9ea3-79271601d75c
+status: Standard

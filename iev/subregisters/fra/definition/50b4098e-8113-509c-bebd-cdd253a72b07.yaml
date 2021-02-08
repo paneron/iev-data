@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - link: https://webstore.iec.ch/publication/3795
+      original: CEI 60880:2006
+      ref: IEC 60880:2006
+      relationship:
+        type: identical
+  concept: 080ebfec-96ab-5bb3-8e89-85e754985510
+  definition: intervalle de temps qui débute avec la phase de spécification d'un produit
+    et s'achève lorsque le produit n'est plus utilisable
+  examples: []
+  notes:
+  - Le cycle de vie du logiciel comprend une phase de spécification, une phase de
+    conception, une phase de réalisation, une phase d’essai, une phase d'installation
+    et de validation, et une phase d'exploitation et de maintenance.
+  - Cet article était numéroté 394-33-15 dans la CEI 60050-394:2007.
+dateAccepted: 2018-11-17
+id: 50b4098e-8113-509c-bebd-cdd253a72b07
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3df61ba9-11eb-5df3-9e27-1d86726d4845
+  definition: '{{instruction, IEV:171-05-08}} in a {{source language, IEV:171-05-18}}
+    that is to be replaced by a defined sequence of instructions in the same source
+    language'
+  examples: []
+  notes:
+  - A macroinstruction can also specify values for parameters in the instructions
+    that are to replace it.
+  - Not all source languages support macroinstructions.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: de7f24c6-52c3-5f5d-a888-db634d55ee45
+status: Standard

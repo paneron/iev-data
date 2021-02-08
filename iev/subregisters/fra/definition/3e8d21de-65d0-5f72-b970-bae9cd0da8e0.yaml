@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f2cdad51-211e-555b-a3bd-df2b0304ad3b
+  definition: aptitude d’un système à calculateur de processus à reprendre les tâches
+    après une défaillance ou une panne
+  examples: []
+  notes:
+  - L’exigence pour que ceci soit réalisé est que l’état de la tâche doit toujours
+    être stocké juste avant la panne ou le défaut. Le redémarrage peut suivre automatiquement.
+  - Cet article était numéroté 351-30-09 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 3e8d21de-65d0-5f72-b970-bae9cd0da8e0
+status: Standard

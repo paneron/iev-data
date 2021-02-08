@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 84d144a5-a6b4-57c2-bf52-99ed902f5ac3
+  definition: rapports des coefficients de la forme linéaire qui représente un mode
+    dégénéré en fonction des modes de propagation indépendants dans un guide d'ondes
+  examples: []
+  notes:
+  - S'il y a exactement stem:[n] modes de propagation indépendants, la polarisation
+    d'un mode dégénéré donné est déterminée entièrement par stem:[n] —1 rapports de
+    polarisation au plus.
+  - Dans un guide d'ondes de section droite, carrée ou circulaire, il y a deux modes
+    de propagation indépendants, et la polarisation d'un mode dégénéré donné est déterminée
+    par un seul rapport de polarisation.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 0f451624-736d-5495-ac01-1e1c8f65ca08
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3e6535c5-0ed4-5721-8974-1ea3be0b9aa5
+  definition: 'for a real function stem:[f](stem:[n]) of an integer variable stem:[n],
+    function stem:[F](stem:[z]) of a complex variable stem:[z] given by the transformation
+
+
+    stem:[F ( z ) = sum_((n = 0))^(oo) f ( n ) z^(- n)]'
+  examples: []
+  notes:
+  - The Z-transform of the function stem:[f] is also denoted Zstem:[f] or ℨstem:[f].
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 89cd2adc-5c3a-5a3e-92ff-67bffe169db5
+status: Standard

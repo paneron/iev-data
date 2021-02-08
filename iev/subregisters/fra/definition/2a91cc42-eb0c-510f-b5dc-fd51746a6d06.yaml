@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: '139'
+      original: RR 139
+      ref: ITU RR
+      relationship:
+        type: identical
+  concept: efc64f9d-f1d7-56d3-a142-2645f68fc13b
+  definition: rayonnement sur une ou des fréquences situées en dehors de la largeur
+    de bande nécessaire et dont le niveau peut être réduit sans affecter la transmission
+    de l'information correspondante; ces émissions comprennent les rayonnements harmoniques,
+    les rayonnements parasites, les produits d'intermodulation et de conversion de
+    fréquence, à l'exclusion des émissions hors bande
+  examples: []
+  notes:
+  - La largeur de bande nécessaire est définie dans le Règlement des Radiocommunications
+    146.
+  - Le mot anglais "emission" est employé avec le sens défini en 161-01-09.
+dateAccepted: '1990-08-01T00:00:00+00:00'
+id: 2a91cc42-eb0c-510f-b5dc-fd51746a6d06
+status: Standard

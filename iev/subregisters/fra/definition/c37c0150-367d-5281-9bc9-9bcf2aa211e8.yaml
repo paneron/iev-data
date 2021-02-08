@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: e8b4492a-6a70-5d6a-84bb-fb6b62c669ae
+  definition: grandeur vectorielle égale à l'intégrale de la force *stem:[F]* par
+    rapport au temps stem:[t], soit stem:[I = int_(t_1)^(t_2) F d t] étendue à l’intervalle
+    de temps &amp;lsqb;stem:[t]~1~, stem:[t]~2~&amp;rsqb;
+  examples: []
+  notes:
+  - 1 Pour un intervalle de temps &amp;lsqb;stem:[t]~1~, stem:[t]~2~&amp;rsqb;, l'impulsion
+    est égale à la variation de la quantité de mouvement *stem:[p]*, soit *stem:[I]*
+    = *stem:[p]*(stem:[t]~2~) − *stem:[p]*(stem:[t]~1~) = Δ *stem:[p]*.
+  - 2 En français, le terme «impulsion» a aussi un autre sens correspondant à l'anglais
+    «pulse».
+  - 3 L'unité SI cohérente d’impulsion est le newton seconde, N⋅s.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: c37c0150-367d-5281-9bc9-9bcf2aa211e8
+status: Standard

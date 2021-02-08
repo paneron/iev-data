@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9d7ffad1-e022-5aef-a622-fd58edceb855
+  definition: radiant spherical exposure weighted with a stated photobiological action
+    spectrum
+  examples: []
+  notes:
+  - This definition is based on the assumption that an action spectrum is adopted
+    for the photobiological effect considered, and that its maximum value is 1.
+  - It is essential to specify which action spectrum is used, as the unit is the same
+    for any action spectrum.
+  - The photobiological fluence is expressed in joule per square metre (J·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 523fa363-8631-5db7-81e5-447d1a39e363
+status: Standard

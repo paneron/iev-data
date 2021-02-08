@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 450e1c6e-7f91-596f-8a1c-92014eec9086
+  definition: fréquence la plus élevée qui permet, à un moment donné, d'obtenir un
+    circuit radioélectrique de qualité acceptable par propagation des signaux via
+    l'ionosphère entre des stations terminales données situées au-dessous de l'ionosphère,
+    dans des conditions d'exploitation spécifiées
+  examples: []
+  notes:
+  - La qualité acceptable peut par exemple être exprimée par le taux d'erreur maximal
+    ou le rapport signal/bruit nécessaire.
+  - Les conditions d'exploitation spécifiées peuvent comprendre des facteurs tels
+    que les types d'antennes, la puissance d'émission, la classe d'émission, le débit
+    d'information nécessaire.
+  - Le sigle MUF provient du terme anglais "Maximum Usable Frequency" (fréquence maximale
+    utilisable).
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 12cd4134-3868-534f-815b-41382c370039
+status: Standard

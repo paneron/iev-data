@@ -1,0 +1,38 @@
+data:
+  authoritative_source:
+  - - clause: 111-13-06
+      link: https://webstore.iec.ch/publication/12421
+      original: CEI 60050-111:1996,111-13-06, modifiée – Le texte de la définition
+        est légèrement différent et des notes à l'article ont été ajoutées pour l'adapter
+        à l'usage dans la technologie de commande.
+      ref: IEC 60050-111:1996
+      relationship:
+        modification: Le texte de la définition est légèrement différent et des notes
+          à l'article ont été ajoutées pour l'adapter à l'usage dans la technologie
+          de commande.
+        type: modified
+  concept: b42d2c47-4750-5063-a612-1affe2b28e7d
+  definition: pour une grandeur croissante ou décroissante exponentiellement vers
+    une valeur constante, durée de l’intervalle de temps à la fin duquel la valeur
+    absolue de la différence entre la valeur constante et la valeur de la grandeur
+    variable a diminué de e^−1^ fois la valeur absolue de la différence au début de
+    l’intervalle, où e est la base des logarithmes népériens
+  examples: []
+  notes:
+  - La constante de temps est la grandeur variable stem:[τ] apparaissant dans la fonction
+    stem:[F ( t ) = a + b * e^(- (t)/(tau))] décrivant une grandeur variable en fonction
+    du temps.
+  - 'La constante de temps est également l’inverse du coefficient d’amortissement
+    stem:[δ] (CEI 60027-6, _Symboles littéraux à utiliser en électrotechnique – Partie
+    6: Technologie de commande et de régulation_) d’une oscillation amortie.'
+  - Dans les technologies de commande, la constante de temps est le plus souvent déduite
+    de la réponse à un échelon d’un élément de retard de premier ordre, comme étant
+    la durée de l’intervalle de temps nécessaire pour atteindre 63,2 % [c.-à-d. (1
+    – e^–1^) fois] de la valeur en régime établi de la réponse à un échelon.
+  - La constante est la grandeur variable stem:[τ] apparaissant dans l’expression
+    stem:[F ( t ) = a + b * e^(- (t)/(tau)) * f ( t )] d’une oscillation amortie exponentiellement,
+    où stem:[f](stem:[t]) est une fonction sinusoïdale.
+  - Cet article était numéroté 351-24-24 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: a25e427d-2ffe-53ce-a735-d9779673adc5
+status: Standard

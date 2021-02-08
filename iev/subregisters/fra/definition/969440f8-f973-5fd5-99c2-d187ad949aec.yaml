@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.5
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.5
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: 18a78206-aea6-52b5-892c-f4ace78b9722
+  definition: propriété qui rend accessible et utilisable à la demande par une {{entité,
+    IEV:741-01-18}} autorisée
+  examples: []
+  notes:
+  - Les {{systèmes IdO, IEV:741-02-07}} peuvent intégrer à la fois des {{utilisateurs
+    humains, IEV:741-01-20}} et des composants de service en tant qu'"entités autorisées".
+dateAccepted: 2018-11-17
+id: 969440f8-f973-5fd5-99c2-d187ad949aec
+status: Standard

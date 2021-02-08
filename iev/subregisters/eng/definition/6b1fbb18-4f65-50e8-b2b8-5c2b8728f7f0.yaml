@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '2.7'
+      link: https://www.iso.org/standard/68058.html
+      original: ISO TS 80004-1:2015, 2.7, modified – Note 1 to entry has been revised.
+      ref: ISO/TS 80004-1:2015
+      relationship:
+        modification: Note 1 to entry has been revised.
+        type: modified
+  concept: 3cf7330f-7f4b-5c49-89c6-bbe5a70d51b3
+  definition: material having internal {{nanostructure, IEV:511-01-08}} or surface
+    nanostructure
+  examples: []
+  notes:
+  - This definition does not exclude the possibility of a {{nano-object, IEV:511-01-07}}
+    having internal structure or surface structure. A material having external dimension(s)
+    in the {{nanoscale, IEV:511-01-03}} is a nano-object.
+dateAccepted: '2018-04-01T00:00:00+00:00'
+id: 6b1fbb18-4f65-50e8-b2b8-5c2b8728f7f0
+status: Standard

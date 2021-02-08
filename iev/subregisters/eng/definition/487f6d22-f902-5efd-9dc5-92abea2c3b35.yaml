@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 195-01-17
+      link: null
+      original: 195-01-17
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 7c7c325b-448f-5f6a-85aa-048882d5ec14
+  definition: impedance at a given frequency between a specified point in a system
+    or in an installation or in equipment and reference earth
+  examples: []
+  notes:
+  - Reference earth is defined in IEC 60050-195. In practice, a reference point can
+    be substituted to earth, for example the chassis.
+  - The common mode rejection ratio of an instrument is dependent on the impedances
+    between the input terminals and earth. Each of these impedances is called a common
+    mode impedance.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 487f6d22-f902-5efd-9dc5-92abea2c3b35
+status: Standard

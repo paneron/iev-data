@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 695bc0a0-c25a-5705-8cc5-42b9b7549fa5
+  definition: a controllable valve device which latches when it is turned on, that
+    means it remains in the on state when the trigger signal has ended
+  examples: []
+  notes:
+  - Most latching valve devices can be turned off only by suppressing the current
+    through the conducting path by external means.
+  - A gate turn-off (GTO) thyristor is a latching valve device which can be turned
+    off by a control signal.
+  - A latching valve device may be reverse blocking or non-reverse blocking.
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: fd1f9a74-619d-54d9-a136-c80a4d36fbfb
+status: Standard

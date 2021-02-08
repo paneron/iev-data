@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 02473f00-5f5c-5c5f-97cf-dbf8484ea999
+  definition: the ratio, generally expressed in decibels, of the partial gain of an
+    antenna, in a given direction and for a specified linear polarization, to the
+    maximum absolute gain of a half-wave dipole isolated in space and oriented in
+    a direction parallel to the electric flux density vector characterizing the specified
+    polarization in the given direction
+  examples: []
+  notes:
+  - If no direction is specified, the direction of maximum radiation intensity from
+    the given antenna is implied.
+  - When the gain relative to a half-wave dipole is expressed in decibels, the notation
+    dBd is recommended by the International Telecommunication Union as a unit symbol.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: aeb9a277-4251-5aee-ae74-24f8e0a99806
+status: Standard

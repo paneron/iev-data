@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7069b830-3517-50eb-a160-87a66e4b4527
+  definition: 'fonction qui exprime la probabilité stem:[P](stem:[E]) pour qu''une
+    particule satisfaisant à la statistique de Fermi occupe un niveau d''énergie autorisé
+    stem:[E]
+
+
+    stem:[P ( E ) = (1)/((1 + exp ( ((E - E_F))/((k T)) )))]
+
+
+    où
+
+
+    stem:[k] est la constante de Boltzmann
+
+
+    stem:[T] est la température thermodynamique
+
+
+    stem:[E]~F~ est le niveau de Fermi
+
+
+    et où ce niveau est quantifié et peut contenir 0, 1 ou 2 électrons.'
+  examples: []
+  notes: []
+dateAccepted: '2002-05-01T00:00:00+00:00'
+id: c8309566-9dd2-579b-8817-007de93095af
+status: Standard

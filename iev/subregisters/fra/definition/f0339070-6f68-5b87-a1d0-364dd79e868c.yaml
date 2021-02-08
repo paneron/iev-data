@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - - clause: 2.4.2
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.4.2
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  concept: 18aaf412-8ef6-5ed8-86fb-25e5679d36a4
+  definition: '{{actionneur, IEV:151-13-49}} produit par micro-usinage'
+  examples: []
+  notes:
+  - Pour une {{micromachine, IEV:523-01-03}} réalisant des travaux mécaniques, le
+    micro-actionneur est indispensable en tant que {{composant, IEV:151-11-21}} de
+    base. Peuvent être cités à titre d’exemples principaux l’actionneur électrostatique
+    préparé par procédé silicium, l’{{actionneur piézoélectrique, IEV:523-04-10}}
+    qui utilise des matériaux fonctionnels comme le plomb-zirconium-titane (PZT),
+    l’actionneur caoutchouc pneumatique, et ainsi de suite. De nombreux autres actionneurs
+    fondés sur divers principes de conversion énergétique ont été étudiés et développés.
+    Cependant, tous ces actionneurs voient leur rendement de conversion énergétique
+    se détériorer lorsque leur taille est réduite. Par conséquent, les mécanismes
+    de mouvements d’organismes tels que la déformation de molécules de protéines,
+    le mouvement flagellaire de bactéries et la contraction musculaire sont utilisés
+    pour développer de nouveaux actionneurs spéciaux pour les micromachines.
+  - Les actionneurs microélectrostatiques sont actionnés par un champ microélectrostatique,
+    les micro-actionneurs magnétiques sont entraînés par un champ micromagnétique,
+    et les micro-actionneurs piézoélectriques dépendent d'un champ de microcontrainte
+    pour amener le déplacement et la puissance.
+dateAccepted: 2018-11-17
+id: f0339070-6f68-5b87-a1d0-364dd79e868c
+status: Standard

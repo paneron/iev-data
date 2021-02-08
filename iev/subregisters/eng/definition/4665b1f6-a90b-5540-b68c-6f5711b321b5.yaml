@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: b19eb1a9-016f-52b8-9aaf-40c7d1a79fd8
+  definition: any real or complex number for which the product by itself is equal
+    to a given real or complex number
+  examples: []
+  notes:
+  - Every non-zero real or complex number has two square roots, each being the negative
+    of the other. For a non-negative real number stem:[a], the non-negative square
+    root is denoted by stem:[a^(1 // 2)] or stem:[sqrt(a)]. For a negative real number
+    stem:[a], the number stem:[- a] is positive and the two square roots are imaginary
+    numbers, conjugate of each others, denoted by stem:[j sqrt(- a)] and stem:[- j
+    sqrt(- a)]. For a complex number stem:[c = | c | e^(j phi)], the two square roots
+    are stem:[sqrt(| c |) e^(j phi // 2)] and stem:[sqrt(| c |) e^(j ( (phi)/(2) +
+    pi ))].
+  - The concept of square root may be applied to scalar quantities.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 4665b1f6-a90b-5540-b68c-6f5711b321b5
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: '3.8'
+      link: https://webstore.iec.ch/publication/7248
+      original: IEC 62606:2013, 3.8
+      ref: IEC 62606:2013
+      relationship:
+        type: identical
+  concept: a75f0792-60a8-5cd3-836b-9dbe2c916ea6
+  definition: arc fault where the arc current is flowing between active conductors
+    in parallel with the load of the circuit
+  examples: []
+  notes: []
+dateAccepted: '2019-05-01T00:00:00+00:00'
+id: 3623a2c2-60e9-50de-b992-efbb2dd31e15
+status: Standard

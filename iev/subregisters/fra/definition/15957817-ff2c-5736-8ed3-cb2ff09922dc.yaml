@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7d79b6ae-921b-56d1-9977-3b86ab2b5868
+  definition: rapport, généralement exprimé en décibels, de la puissance de la porteuse
+    d'un signal utile à la puissance d'un signal brouilleur, évalué dans des conditions
+    déterminées, ces puissances étant considérées à l'entrée du récepteur
+  examples: []
+  notes:
+  - En présence de plusieurs signaux brouilleurs indépendants, on doit considérer
+    la somme de leurs puissances.
+  - 'Les conditions déterminées comprennent entre autres:
+
+
+    – la nature et les caractéristiques du signal brouilleur,
+
+
+    – les caractéristiques du récepteur et de l''antenne, en particulier la largeur
+    de bande.'
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 15957817-ff2c-5736-8ed3-cb2ff09922dc
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: f884796b-203b-5028-91b0-577cafb99c78
+  definition: 'force *stem:[F]*  exerted on a particle having electric charge stem:[Q]  and
+    velocity *stem:[v]* , given by the relation
+
+
+    *stem:[F]* = stem:[Q](*stem:[E]* + *stem:[v]* x *stem:[B]*)
+
+
+    where *stem:[E]*  is the electric field strength and *stem:[B]*  the magnetic
+    flux density'
+  examples: []
+  notes:
+  - The component vector stem:[Q] *stem:[E]*  is the Coulomb force.
+  - The component vector stem:[Q] *stem:[v]* × *stem:[B]*  is the Lorentz force.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: c194bcd9-96c6-5038-b3fe-b37c1d2a81b9
+status: Standard

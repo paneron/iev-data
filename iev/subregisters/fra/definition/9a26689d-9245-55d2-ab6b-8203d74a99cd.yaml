@@ -1,0 +1,35 @@
+data:
+  authoritative_source:
+  - - clause: '3.17'
+      original: 'IEC Guide 116:2010, 3.17, modifiée – La définition a été révisée
+        pour être plus large: l''expression "d''un équipement basse tension" a été
+        remplacée par "d''un produit, procédé ou service". La Figure 1 a été ajoutée.
+        Dans la Note à l''article, "Voir A.2," a été remplacé par "Voir Guide CEI
+        116:2010, A.2,".'
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: 'La définition a été révisée pour être plus large: l''expression
+          "d''un équipement basse tension" a été remplacée par "d''un produit, procédé
+          ou service". La Figure 1 a été ajoutée. Dans la Note à l''article, "Voir
+          A.2," a été remplacé par "Voir Guide CEI 116:2010, A.2,".'
+        type: related
+  concept: 6a5c5a00-805c-5fd2-b5ed-e9cd61ecbfde
+  definition: 'application de la “méthodologie en 3 étapes” (voir Figure 1) pour réduire
+    le {{risque résiduel, IEV:903-01-11}} d''un produit, procédé ou service en-dessous
+    du niveau de {{risque tolérable, IEV:903-01-12}}
+
+
+    <simg acos-guide116_2010_f1_fr>
+
+
+    NOTE Parfois il est possible que le risque tolérable soit déjà atteint par l’application
+    de l’étape 1 ou des étapes 1 et 2.
+
+
+    *Figure 1 – Principe d''intégration de sécurité*</simg>'
+  examples: []
+  notes:
+  - Voir Guide CEI 116:2010, A.2, pour plus d'informations.
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: 9a26689d-9245-55d2-ab6b-8203d74a99cd
+status: Standard

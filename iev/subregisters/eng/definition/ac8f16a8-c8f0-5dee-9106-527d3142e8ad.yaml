@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 20ea1cf1-27dd-551a-9163-fe4024328fb6
+  definition: the voltage, at a specified point in a channel or telephone set, which
+    is equal to the square root of the sum of the squares of the effective voltages
+    of the spectral components of a disturbance induced in the channel or set, each
+    voltage being weighted to take account of the corresponding frequency
+  examples: []
+  notes:
+  - For telephony, the conventional weighting is given in the CCITT Recommendation
+    0.41 from the Fascicle IV-4 of the Blue Book, 1989.
+dateAccepted: '1992-11-01T00:00:00+00:00'
+id: ac8f16a8-c8f0-5dee-9106-527d3142e8ad
+status: Standard

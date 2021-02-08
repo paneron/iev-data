@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: a2771174-cd47-5e14-acff-372a3c8b36bf
+  definition: 'scalar quantity equal to the line integral of a vector quantity along
+    a path C from point a to point b in which charge carriers can be displaced:
+
+
+    stem:[U_i = int_((r_a ( C )))^((r_b)) ( - ((del A))/((del t)) + v xx B ) * d r]
+
+
+    where *stem:[A]* and *stem:[B]* are respectively a magnetic vector potential and
+    the magnetic flux density at a point of the path, stem:[v] is the velocity with
+    which that point is moving, *stem:[r]* is position vector, and stem:[t] is time'
+  examples: []
+  notes:
+  - The induced voltage is equal to the time derivative of the linked flux corresponding
+    to the path, with the positive or negative signs according to the convention in
+    IEC 60375.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: edb38550-3efa-5ce0-9dec-d5a2bab594d9
+status: Standard

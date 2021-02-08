@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: '3.1'
+      original: ≠ VIM 3.1
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: 0ce6b202-9c50-5f36-aa5e-561cc74c201e
+  definition: set of values attributed to a measurand
+  examples: []
+  notes:
+  - This term is used in the "uncertainty" approach.
+  - The central value of the whole can be selected as value of the measurand and a
+    parameter caracterising the dispersion as uncertainty.
+  - The result of a measurement is related to the indication given by the instrument
+    and to the values of correction obtained by calibration and by the use of a model.
+  - The set of values can be considered as representing the measurand provided that
+    it is compatible with all other measurements of the same measurand.
+  - The set, and hence the uncertainty, can only be given with a stated level of confidence.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: f68a6e52-88a9-52aa-88f1-54d60c1fe21e
+status: Standard

@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: cb3b47f3-8f89-5e52-85d8-c0b8ee265d68
+  definition: somme des absorptions de Sabine dues, d'une part, aux objets se trouvant
+    dans la salle et aux parois de la salle, d'autre part, à la dissipation de l'énergie
+    dans le milieu interne de la salle
+  examples: []
+  notes:
+  - 'Si stem:[A]~stem:[i]~ est l''absorption de Sabine correspondant à la surface,
+    à l''objet, ou au milieu d''ordre stem:[i], l''absorption de la salle est donnée
+    par: stem:[A] = Σ stem:[A]~stem:[i]~.'
+  - 'L''absorption de Sabine due à la dissipation dans le milieu, pour une salle de
+    volume stem:[V], est donnée par:
+
+
+    stem:[A_m = (4)/((1 0 l o g_((10)) e)) alpha V = 0,921 alpha V]
+
+
+    où:
+
+
+    stem:[α] est le coefficient d''atténuation du milieu, exprimé en décibels par
+    unité de longueur.'
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 81e10b22-4dde-5ef2-b132-ae88394bf3e8
+status: Standard

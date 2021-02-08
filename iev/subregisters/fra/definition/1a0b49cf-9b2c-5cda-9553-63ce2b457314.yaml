@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2716e15f-ae2d-55ee-8ea1-dd117d1a546c
+  definition: polarisation d'une onde plane incidente de direction de propagation
+    spécifiée et de puissance surfacique spécifiée, qui produit la puissance maximale
+    aux bornes de l'antenne, pour cette direction
+  examples: []
+  notes:
+  - Si aucune direction n'est spécifiée, on considère que la direction est celle qui
+    correspond à la plus élevée des puissances maximales reçues de toutes les directions.
+  - La polarisation à la réception d'une antenne peut être déterminée à partir de
+    la polarisation de l'antenne employée à l'émission puisque, dans le même plan
+    de polarisation, les ellipses de polarisation ont des axes dans le même rapport,
+    le même sens de polarisation et la même orientation dans l'espace.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 1a0b49cf-9b2c-5cda-9553-63ce2b457314
+status: Standard

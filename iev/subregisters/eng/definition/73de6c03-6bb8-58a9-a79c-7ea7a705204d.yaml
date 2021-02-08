@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - null
+  concept: 15b95fd7-4b02-5204-95c5-d220267ce902
+  definition: additive {{scalar quantity, IEV:102-02-19}}, attributed to any {{particle,
+    IEV:113-05-01}} and, generally, any system of particles, to characterize its {{electromagnetic
+    interactions, IEV:881-03-26}}
+  examples: []
+  notes:
+  - Electric charge is always an integral multiple of the {{elementary electric charge,
+    IEV:113-05-16}}, except for quarks. The result can be positive, negative, or zero.
+    Owing to additivity, electric charge for any system of particles is exactly equal
+    to the sum of their charges.
+  - Electric charge is subject to a conservation law. It is invariant under Lorentz
+    transformation, and thus not dependent on the choice of a reference frame.
+  - Electric charges obey {{Coulomb's law, IEV:121-11-02}}.
+  - The electric current through a surface is the time derivative of the electric
+    charge transferred through that surface.
+  - A charged capacitor is not an electrically charged body carrying a positive or
+    negative electric charge. For this reason, the electric charge is defined in circuit
+    theory as the time integral of the electric current at a terminal (see {{IEV 131-12-11,
+    IEV:131-12-11}}).
+  - The term "quantity of electricity" is deprecated for this concept. In the IEV
+    it is used only in relation to electrolytic devices, such as secondary cells and
+    batteries (see, for example, {{IEV 482-03-14, IEV:482-03-14}}).
+  - 'The coherent SI unit of electric charge is coulomb, C. The unit ampere hour is
+    used for electrolytic devices, such as storage batteries: 1 A·h = 3,6 kC.'
+  - To denote the charge of a point object, symbol stem:[q] is often used.
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: 73de6c03-6bb8-58a9-a79c-7ea7a705204d
+status: Standard

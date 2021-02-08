@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: c2fdd9be-2c7f-545c-aa9b-65f109258f31
+  definition: valeur moyenne de l'éclairement photonique sur la surface courbe extérieure
+    d'une très petite sphère (réelle ou fictive) en un point dans l'espace
+  examples: []
+  notes:
+  - 'L''éclairement sphérique énergétique photonique peut être exprimé par
+
+
+    stem:[E_((p ,o)) = underset((4 pi))( int ) L_p d omega]
+
+
+    où stem:[Ω] est l''angle solide et stem:[L]~p~ est la luminance photonique.'
+  - L'éclairement sphérique énergétique photonique est exprimé en seconde à la puissance
+    moins un par mètre carré (s^−1·^m^−2^).
+dateAccepted: 2018-11-17
+id: 9a9e445d-261b-5864-af9d-a0a8ad1cfdac
+status: Standard

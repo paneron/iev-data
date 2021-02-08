@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '4.7'
+      original: ≈ VIM 4.7
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  concept: 49ffb25a-602f-5411-ba5e-3ab3e634f2ff
+  definition: appareil de mesure qui enregistre sur un support d'enregistrement des
+    informations correspondant aux valeurs du mesurande
+  examples: []
+  notes:
+  - Certains appareils enregistreurs peuvent comporter un dispositif indicateur.
+  - Certains appareils enregistreurs peuvent enregistrer les informations correspondant
+    à plusieurs mesurandes.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 3a0ed919-60cf-58d7-9ce1-f68bf042d804
+status: Standard

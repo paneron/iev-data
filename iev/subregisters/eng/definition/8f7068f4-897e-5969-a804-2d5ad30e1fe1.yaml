@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 22c54424-5333-5637-93a7-8c359254cc8d
+  definition: any of the call attempts subsequent to a first call attempt related
+    to a given call intent
+  examples: []
+  notes:
+  - Repeated call attempts may be automatic even if the first is manual.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 8f7068f4-897e-5969-a804-2d5ad30e1fe1
+status: Standard

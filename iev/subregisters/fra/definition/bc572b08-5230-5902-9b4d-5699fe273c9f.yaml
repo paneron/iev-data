@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: fc76008c-dd49-5c26-b3ab-42e198488621
+  definition: indice décrivant les caractéristiques d’élévation des filtres à coupure
+    progressive OAS de communication
+  examples: []
+  notes:
+  - Le taux d’affaiblissement est le rapport de la bande de transition sur la fréquence
+    de coupure idéale, qui est égale à la moitié de la fréquence d’échantillonnage,
+    dans le cas des caractéristiques de fréquence d’affaiblissement du cosinus.
+dateAccepted: 2018-11-17
+id: bc572b08-5230-5902-9b4d-5699fe273c9f
+status: Standard

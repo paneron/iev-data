@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 50752464-c4a2-525a-8d51-d9a54fd773ca
+  definition: "pour un réseau contenant stem:[n] noeuds et stem:[b] branches, dont\
+    \ chacune est munie d'un sens de référence, matrice de format stem:[n] × stem:[b]\
+    \ dont l'élément stem:[a]~stem:[ij]~ est égal à\r\n<ul style=\"list-style: none;\"\
+    >\r\n* 0 si la branche stem:[j] n'est pas incidente au noeud stem:[i]\r\n* 1 si\
+    \ la branche stem:[j] est orientée à partir du noeud stem:[i]\r\n* −1 si la branche\
+    \ stem:[j] est orientée vers le noeud stem:[i]"
+  examples: []
+  notes:
+  - '– La figure ci-dessous représente un réseau et la matrice d''incidence branche-noeud
+    correspondante.
+
+
+    image::/assets/images/parts/131/131-13-21.gif[]'
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 564590b1-8f6c-5bd7-89de-57439499a1ae
+status: Standard

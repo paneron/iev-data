@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1793c100-ba44-5ffc-8954-374af7dea538
+  definition: electrical power consumed by the device in standby mode
+  examples: []
+  notes:
+  - Standby power is typically expressed in milliwatt (mW).
+  - For emergency lighting luminaires, standby power does not include the charging
+    power.
+  - The device can be a luminaire, control gear, etc.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 308c20cf-a007-5848-ad90-aff457b8cc3b
+status: Standard

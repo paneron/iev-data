@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8c4e78b0-1cc2-5580-a3f3-c1d65dabc9ce
+  definition: 'en tout point d''un domaine déterminé de l''espace, scalaire stem:[φ]
+    dont l''opposé du gradient est le vecteur *stem:[U]* d''un champ donné
+
+
+    *stem:[U]* = −*grad* stem:[φ]'
+  examples: []
+  notes:
+  - Le champ vectoriel *stem:[U]* est un {{champ conservatif, IEV:102-05-34}} et on
+    dit qu’il dérive du potentiel scalaire stem:[φ].
+  - Le potentiel scalaire n'est pas unique puisqu'un scalaire constant quelconque
+    peut être ajouté à un potentiel scalaire donné sans changer son gradient.
+  - Des exemples de potentiel sont le {{potentiel électrique, IEV:121-11-25}} et le
+    potentiel en mécanique (voir {{IEV 113-03-19, IEV:113-03-19}}).
+  - Le terme «potentiel scalaire» n'est employé à la place du terme «potentiel» que
+    pour le distinguer du terme «potentiel vecteur».
+dateAccepted: 2018-11-17
+id: 09113cbd-b361-59df-bff3-0f700c65af7f
+status: Standard

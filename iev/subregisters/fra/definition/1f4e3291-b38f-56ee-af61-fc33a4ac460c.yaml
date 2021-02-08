@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 65d7b730-44fe-5777-94c9-f4b3a3aabff1
+  definition: durée au cours du réenclenchement automatique pendant laquelle la ligne
+    d'énergie ou la phase n'est connectée à aucune source de tension du réseau
+  examples: []
+  notes:
+  - 'Pour les lignes d''énergie en réseau radial, la durée de pause est égale à la
+    durée d''ouverture avant réenclenchement.
+
+
+    Voir figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-fr.gif[]'
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: 1f4e3291-b38f-56ee-af61-fc33a4ac460c
+status: Standard

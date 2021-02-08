@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '3.14'
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.14
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  concept: 21dea490-a160-5fea-bf82-62a626284659
+  definition: champ électrique dont le gradient de tension est essentiellement constant
+    entre les électrodes, tel que celui existant entre deux sphères dont le rayon
+    de chacune est plus grand que la distance qui les sépare
+  examples: []
+  notes:
+  - Une condition de champ homogène est intitulée cas B dans l'IEC 60664-1.
+dateAccepted: 2018-11-17
+id: 8fdd1cd6-7343-5853-be7d-ff4c56b93d8a
+status: Standard

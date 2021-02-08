@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - original: voir fig. 1
+      ref: voir fig. 1
+      relationship:
+        type: related
+  concept: 0fd35f31-8055-54d3-867c-97080459fd60
+  definition: distance verticale entre deux plans horizontaux, l'un passant par le
+    point d'accrochage du conducteur sur le pylône le plus élevé, et l'autre tangent
+    à la courbe du même conducteur en son point le plus bas
+  examples: []
+  notes:
+  - 'Ce point bas peut être imaginaire.
+
+
+    image::/assets/images/parts/466/466-fig1.gif[]'
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 5fa20c37-eb3e-5b91-aabb-bc57e22f6c2c
+status: Standard

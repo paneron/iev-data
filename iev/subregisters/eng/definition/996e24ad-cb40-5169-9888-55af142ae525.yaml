@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3705e304-95da-557f-af99-5b661e920306
+  definition: load voltage of a welding power source corresponding to the conventional
+    welding condition
+  examples: []
+  notes:
+  - The values for stem:[U]~2~ are given as r.m.s. values for AC and arithmetic mean
+    values for DC.
+  - The conventional load voltage has a specified linear relationship to the conventional
+    welding current. This relationship varies in accordance with the process.
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: 996e24ad-cb40-5169-9888-55af142ae525
+status: Standard

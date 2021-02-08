@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5f43edb0-bfc7-5d1d-b45b-7ccd5521fdc0
+  definition: 'quotient du flux réfléchi dans les directions délimitées par un cône
+    donné ayant son sommet en un élément de surface, stem:[Φ]~n~, par le flux réfléchi
+    dans les mêmes directions par un diffuseur parfait par réflexion irradié ou éclairé
+    dans les mêmes conditions, stem:[Φ]~d~
+
+
+    stem:[R = ((Phi_n))/((Phi_d))]'
+  examples: []
+  notes:
+  - La définition s'applique à un élément de surface, pour la partie du rayonnement
+    réfléchi contenu dans un cône donné ayant son sommet en l'élément de surface,
+    et pour un rayonnement incident de composition, polarisation et répartition géométrique
+    spectrales données.
+  - Le facteur moyen de luminance est également défini spectralement et est appelé
+    facteur moyen de luminance spectrale, stem:[R](stem:[λ]).
+  - Le diffuseur (de Lambert) isotrope idéal avec un facteur de réflexion ou de transmission
+    égal à 1 est appelé "diffuseur parfait".
+  - Pour des surfaces à réflexion régulière qui sont irradiées ou éclairées par un
+    faisceau ayant un angle solide petit, le facteur moyen de luminance peut être
+    beaucoup plus grand que 1 si l'image réfléchie de la source se trouve à l'intérieur
+    du cône.
+  - Si l'angle solide du cône tend vers 2π sr, le facteur moyen de luminance tend
+    vers le facteur de réflexion pour les mêmes conditions d'irradiation.
+  - Si l'angle solide du cône tend vers 0 sr, le facteur moyen de luminance tend vers
+    le facteur de réflexion ou le facteur de luminance pour les mêmes conditions d'irradiation.
+  - L'unité de facteur moyen de luminance est un.
+  - Cet article était numéroté 845-04-64 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: d6110251-ee86-51a9-b8c8-95cd90eb8470
+status: Standard

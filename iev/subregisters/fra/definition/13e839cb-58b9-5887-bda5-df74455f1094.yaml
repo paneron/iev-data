@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: 394-10-01
+      link: null
+      original: 394-10-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 521-02-01
+      link: null
+      original: 521-02-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: e7a8b888-854e-54ce-b4a9-b1e4e7c7f8d0
+  definition: substance dont la conductivité due aux porteurs de charges des deux
+    signes est normalement comprise entre celle des conducteurs et celle des isolants,
+    et dont les nombres volumiques des porteurs de charge peuvent être modifiés par
+    des excitations extérieures
+  examples: []
+  notes:
+  - Le terme "semiconducteur" s'applique généralement au cas où les porteurs de charge
+    sont des électrons ou des trous.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 13e839cb-58b9-5887-bda5-df74455f1094
+status: Standard

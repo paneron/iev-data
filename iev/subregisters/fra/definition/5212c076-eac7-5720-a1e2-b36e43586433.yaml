@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - - clause: 2.8.8
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.8.8
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  concept: b1ddc2f7-2754-517e-83c4-79eb20e5a24b
+  definition: '{{dispositif, IEV:151-11-20}} prévu pour un procédé de réaction chimique,
+    à l’échelle micrométrique'
+  examples: []
+  notes:
+  - Un microréacteur, dont la forme est comparable à une enceinte et qui est à l’échelle
+    micrométrique, peut être l'une des unités de traitement d'un procédé chimique.
+    La caractéristique des microréacteurs est que les gradients de température, de
+    pression et de concentration augmentent à mesure que l’échelle diminue, ce qui
+    augmente la conductivité thermique, ainsi que le transport et la diffusion de
+    masse. Par exemple, lorsque la taille est réduite à 1/100, le temps de diffusion
+    moléculaire descend à 1/10 000. Parmi les autres avantages potentiels d’un microréacteur
+    figurent une meilleure commande des conditions de réaction, une sécurité améliorée
+    et une meilleure portabilité. La meilleure commande des conditions de réaction
+    résulte de la commandabilité précise de la température, due au rapport surface/volume
+    élevé du réacteur. Les procédés de fabrication, les matériaux et les formes du
+    microréacteur varient selon les applications.
+dateAccepted: 2018-11-17
+id: 5212c076-eac7-5720-a1e2-b36e43586433
+status: Standard

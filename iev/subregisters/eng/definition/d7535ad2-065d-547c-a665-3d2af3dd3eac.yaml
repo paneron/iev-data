@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0ec0d051-0720-5fdc-b17c-7fc70029e9b4
+  definition: qualifying a time-varying phenomenon, a {{timescale, IEV:702-04-11}}
+    or a {{signal, IEV:101-12-02}}, the consecutive {{significant instants, IEV:721-02-29}}
+    of which are separated by {{time intervals, IEV:113-01-10}} that all have the
+    same rated {{duration, IEV:113-01-13}} or have rated durations equal to integral
+    multiples of a unit duration
+  examples: []
+  notes:
+  - In practice, variations of the time intervals are constrained between specified
+    limits.
+dateAccepted: '2018-09-01T00:00:00+00:00'
+id: d7535ad2-065d-547c-a665-3d2af3dd3eac
+status: Standard

@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 192-02-21
+      link: https://webstore.iec.ch/publication/21886
+      original: IEC 60050-192:2015, 192-02-21, modifié – Les mots "durée de" ajoutés
+        au début de la définition, la figure supprimée, et Note 2 à l'article ajoutée
+      ref: IEC 60050-192:2015
+      relationship:
+        modification: Les mots "durée de" ajoutés au début de la définition, la figure
+          supprimée, et Note 2 à l'article ajoutée
+        type: modified
+  concept: 7fd0fc4d-1220-51b3-9069-ffb67bdb8322
+  definition: durée de l’intervalle de temps pendant lequel une entité est dans un
+    état d’indisponibilité
+  examples: []
+  notes:
+  - Le temps d’indisponibilité exclut le temps d’incapacité dû au manque de ressources
+    externes, mais inclut le temps de maintenance.
+  - Cet article portait le numéro 603-05-18 dans l’IEC 60050-603:1986.
+dateAccepted: 2018-11-17
+id: 06075926-a815-52ed-864e-cd5f3300c341
+status: Standard

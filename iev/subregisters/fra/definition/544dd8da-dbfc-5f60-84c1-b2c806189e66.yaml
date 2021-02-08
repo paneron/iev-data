@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: d5655c89-439b-5d9d-8df4-cfe47dccbfe5
+  definition: rapport de l'amplitude maximale a l'amplitude minimale adjacente, le
+    long de l'axe d'une ligne de transmission ou d'un guide d'ondes, d'une composante
+    particulière du champ électromagnétique d'une onde stationnaire
+  examples: []
+  notes:
+  - Ce rapport est égal à (1 + stem:[r]) / (1 — stem:[r]) où stem:[r] est le module
+    du facteur de réflexion complexe.
+  - On emploie parfois, comme rapport d'onde stationnaire, l'inverse du rapport ci-dessus,
+    mais cet usage doit être évité.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 544dd8da-dbfc-5f60-84c1-b2c806189e66
+status: Standard

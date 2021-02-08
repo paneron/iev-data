@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07ab484b-2547-5e56-8e06-164b7109cc0c
+  definition: 'angle the tangent of which is the ratio of the resistance stem:[R]
+    to the absolute value of the reactance stem:[X] of an impedance
+
+
+    stem:[delta = a r c t a n (R)/((| X |))]'
+  examples: []
+  notes:
+  - The loss angle is defined in {{151-15-48, IEV:151-15-48}} as the angle the tangent
+    of which is the dissipation factor, or ratio of active power to the absolute value
+    of reactive power. Other loss angles are defined in electromagnetism (see {{121-12-17,
+    IEV:121-12-17}} and {{121-12-35, IEV:121-12-35}}).
+dateAccepted: '2013-08-01T00:00:00+00:00'
+id: 08b6bc30-28dd-5c27-b7ff-d54b938fbc9d
+status: Standard

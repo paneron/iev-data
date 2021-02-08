@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 36ed4cc7-07fb-5b9a-ba43-7c629f67c2ad
+  definition: system for determining the <a href="IEV845-23-038">tristimulus values</a>
+    of any spectral power distribution using the set of reference colour stimuli &amp;lsqb;X~10~&amp;rsqb;,
+    &amp;lsqb;Y~10~&amp;rsqb;, &amp;lsqb;Z~10~&amp;rsqb; and the three CIE colour-matching
+    functions stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10))
+    ( lambda )] adopted by the CIE in 1964
+  examples: []
+  notes:
+  - The CIE 1964 standard colorimetric system is applicable to centrally viewed fields
+    of angular subtense greater than about 4° (0,07 rad).
+  - When the CIE 1964 standard colorimetric system is used, all symbols that represent
+    colorimetric measures are distinguished by use of the subscript 10.
+  - See also CIE 15, stem:[Colorimetry].
+  - This entry was numbered 845-03-29 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 904ab709-4f1d-52c2-95d0-645413b7b19c
+status: Standard

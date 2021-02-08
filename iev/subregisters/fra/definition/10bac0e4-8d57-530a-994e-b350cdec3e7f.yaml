@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: '1.26'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.26
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  concept: 832c431c-225d-572a-837c-eb331fc7c3bd
+  definition: grandeur, définie par une procédure de mesure adoptée par convention,
+    qui peut être classée avec d'autres grandeurs de même nature selon l'ordre croissant
+    ou décroissant de leurs expressions quantitatives, mais pour laquelle aucune relation
+    algébrique entre ces grandeurs n’existe
+  examples: []
+  notes:
+  - Les grandeurs ordinales ne peuvent prendre part qu'à des relations empiriques
+    et n'ont ni unités de mesure, ni dimensions. Les différences et les rapports de
+    grandeurs ordinales n’ont pas de signification.
+  - Les grandeurs ordinales sont classées selon des échelles ordinales.
+  - 'Exemples: dureté C de Rockwell, indice d''octane pour les carburants, magnitude
+    d''un séisme sur l''échelle de Richter, niveau subjectif de douleur abdominale
+    sur une échelle de zéro à cinq.'
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 10bac0e4-8d57-530a-994e-b350cdec3e7f
+status: Standard

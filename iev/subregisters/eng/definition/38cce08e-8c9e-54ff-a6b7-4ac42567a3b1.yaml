@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: b548ccec-8536-5ad5-8a1e-43da48942a31
+  definition: '{{time interval, IEV:113-01-10}} that is cyclic and that can be recognized
+    and defined uniquely'
+  examples: []
+  notes:
+  - In the case of a {{time division multiplex transmission, IEV:721-06-02}}, separate
+    time-slots are allocated to each {{signal, IEV:101-12-02}}.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 38cce08e-8c9e-54ff-a6b7-4ac42567a3b1
+status: Standard

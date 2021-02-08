@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5b852b63-5b84-5d4e-b264-3a537ff8fb4c
+  definition: unintentional and generally undesired change in the form of a signal
+    occurring in a two-port network or {{transmission medium, IEV:704-02-01}}
+  examples: []
+  notes:
+  - In {{optical fibres, IEV:151-12-35}} there are several {{attenuation, IEV:702-02-10}}
+    and {{dispersion, IEV:731-03-74}} mechanisms that can give rise to a distorted
+    received signal.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: cc72e99e-6c8c-599c-9c98-4d63c3c01b95
+status: Standard

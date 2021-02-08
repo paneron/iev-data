@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: c85ada17-5f1c-5ff3-8186-6b9170683a55
+  definition: method of error control using a cyclic code mainly for the purpose of
+    error detection
+  examples: []
+  notes:
+  - The bits of a data block to be protected are used as coefficients of a polynomial,
+    which is modulo-2-divided by a prescribed generator polynomial; the coefficients
+    of the remainder left after division are appended to the data block as a block
+    check sequence.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 7f1e7087-498f-528e-b745-bf9fb37d8a23
+status: Standard

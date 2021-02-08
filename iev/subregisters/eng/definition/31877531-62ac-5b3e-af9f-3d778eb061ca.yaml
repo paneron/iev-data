@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2cb80deb-5483-5abf-84fd-50a5ae2ed0b4
+  definition: degree of colour mismatch, calculated in the form of a colour difference,
+    caused by substituting a test illuminant (observer) of different relative spectral
+    composition (responsivity) for the reference illuminant (observer)
+  examples: []
+  notes:
+  - The colour difference is evaluated using a CIE colour difference formula and it
+    shall be clearly stated which formula has been used.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 31877531-62ac-5b3e-af9f-3d778eb061ca
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: c85ada17-5f1c-5ff3-8186-6b9170683a55
+  definition: méthode de protection contre les erreurs utilisant un code cyclique,
+    principalement en vue de la détection d'erreurs
+  examples: []
+  notes:
+  - Les éléments binaires du bloc à protéger sont pris comme coefficients d'un polynôme
+    que l'on divise modulo 2 par un polynôme générateur spécifié ; les coefficients
+    du reste de cette division sont ajoutés au bloc initial sous forme d'un bloc de
+    contrôle.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 151aaf90-eabf-50ed-a4fa-c4ec4587e41f
+status: Standard

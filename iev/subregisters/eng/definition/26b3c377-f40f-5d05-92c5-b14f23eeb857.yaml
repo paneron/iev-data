@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: c2fdd9be-2c7f-545c-aa9b-65f109258f31
+  definition: mean value of photon irradiance on the outer curved surface of a very
+    small (real or imaginary) sphere at a point in space
+  examples: []
+  notes:
+  - 'The photon spherical irradiance can be expressed by
+
+
+    stem:[E_((p ,o)) = underset((4 pi))( int ) L_p d omega]
+
+
+    where stem:[Ω] is solid angle and stem:[L]~p~ is photon radiance.'
+  - The photon spherical irradiance is expressed in second to the power minus one
+    per square metre (s^−1^·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 26b3c377-f40f-5d05-92c5-b14f23eeb857
+status: Standard

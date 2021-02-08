@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.17
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.17
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  concept: 7898882b-fd2a-5de5-857f-7a55f8e4d68e
+  definition: case when two entities exchange and compare their time stamps
+  examples: []
+  notes:
+  - In this case, the time stamps in the entities are independent of each other.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 0a4934d0-d485-5072-981d-42234bc5aafe
+status: Standard

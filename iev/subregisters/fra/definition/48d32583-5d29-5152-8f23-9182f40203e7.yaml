@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: fa932e04-ce6b-54d7-847f-173f843fdf4d
+  definition: écart relatif de la vitesse réelle (de défilement ou de rotation) par
+    rapport à la vitesse nominale (de défilement ou de rotation)
+  examples: []
+  notes:
+  - 'L''écart est exprimé en pourcentage, affecté du signe (+) ou du signe (-) selon
+    que la vitesse réelle est supérieure ou inférieure à la vitesse nominale. Il est
+    donné par l''expression:
+
+
+    stem:[((vitesse moyenne réelle - vitesse nominale))/((vitesse nominale)) xx 100
+    %]'
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 48d32583-5d29-5152-8f23-9182f40203e7
+status: Standard

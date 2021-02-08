@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 01de4c50-d275-503f-a3ce-653747061872
+  definition: pour une onde incidente de direction donnée, grandeur qui caractérise
+    la puissance rétrodiffusée par un hydrométéore existant dans l'atmosphère
+  examples: []
+  notes:
+  - 'Pour une précipitation pluvieuse homogène, le coefficient de réflectivité radar
+    est donné par l''expression:
+
+
+    stem:[Z = ((sum N_i D_i^6))/(V)]
+
+
+    où stem:[N]~stem:[i]~ est le nombre de particules de diamètres stem:[D]~stem:[i]~
+    dans le volume stem:[V]. Le coefficient stem:[Z] s''exprime généralement en mm^6^/m^3^.'
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 1501431f-edbd-5ced-bf35-2960ca176b3e
+status: Standard

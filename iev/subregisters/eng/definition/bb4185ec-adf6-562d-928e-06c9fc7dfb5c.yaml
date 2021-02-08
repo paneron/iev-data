@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - null
+  concept: 38b3148c-1502-5aa3-b42f-b9b9fee4a806
+  definition: ratio of the available {{power spectral density, IEV:702-04-50}} of
+    the {{noise, IEV:702-08-03}} appearing at a given {{frequency, IEV:103-06-02}}
+    at the output of a given linear two-port device, to the spectral density which
+    would be present at the output if the only source of noise were the {{thermal
+    noise, IEV:702-08-45}} due to a {{one-port, IEV:702-09-08}} device connected to
+    the input and which is assumed to have at all frequencies a {{spot noise temperature,
+    IEV:702-08-54}} equal to the reference {{thermodynamic temperature, IEV:113-04-14}}
+    fixed by convention at around 290 K
+  examples: []
+  notes:
+  - 'The spot noise factor stem:[F](stem:[f]) of a linear two-port device is related
+    to the equivalent spot noise temperature stem:[T](stem:[f]) as follows:
+
+
+    stem:[F ( f ) = 1 + ((T ( f )))/((T_0))]
+
+
+    where stem:[T]~0~ is the thermodynamic reference temperature.'
+  - In English, the term “noise factor” is generally employed when the ratio is expressed
+    arithmetically, and “noise figure” is employed when the ratio is expressed in
+    {{decibels, IEV:702-07-02}}.
+dateAccepted: '2018-09-01T00:00:00+00:00'
+id: bb4185ec-adf6-562d-928e-06c9fc7dfb5c
+status: Standard

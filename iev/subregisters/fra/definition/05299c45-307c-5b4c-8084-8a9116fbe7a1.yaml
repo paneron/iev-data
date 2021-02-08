@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 85b42290-592e-5737-a44f-0de30568d87d
+  definition: compteur de trafic affecté à un groupe de lignes pour enregistrer le
+    nombre de tentatives d'appel qui n'ont pas trouvé de sorties libres
+  examples: []
+  notes:
+  - Dans certains systèmes de commutation, chacun de ces appels déclenche un enregistrement
+    individuel tandis que dans d'autres systèmes, deux ou plusieurs demandes simultanées
+    de sortie non satisfaites sont enregistrées comme un seul cas de débordement.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 05299c45-307c-5b4c-8084-8a9116fbe7a1
+status: Standard

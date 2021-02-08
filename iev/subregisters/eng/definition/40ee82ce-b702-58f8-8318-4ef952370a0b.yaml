@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: ed3deaae-8c69-53ac-8203-26ed7d7640f3
+  definition: 'density of exiting photon flux with respect to area at a point on a
+    real or imaginary surface
+
+
+    stem:[M_p = ((d Phi_p))/((d A))]
+
+
+    where stem:[Φ]~p~ is photon flux and stem:[A] is the area from which the photon
+    flux leaves'
+  examples: []
+  notes:
+  - The corresponding radiometric quantity is "radiant exitance". The corresponding
+    photometric quantity is "luminous exitance".
+  - The photon exitance is expressed in second to the power minus one per square metre
+    (s^−1^·m^−2^).
+  - This entry was numbered 845-01-49 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 40ee82ce-b702-58f8-8318-4ef952370a0b
+status: Standard

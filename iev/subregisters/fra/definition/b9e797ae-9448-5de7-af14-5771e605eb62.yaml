@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 702-07-29
+      link: null
+      original: 702-07-29 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 99bdc5b2-3efe-530d-a05c-472e2394ce02
+  definition: fonction de transfert pour laquelle les grandeurs complexes sont les
+    transformées de Fourier des grandeurs fonctions du temps
+  examples: []
+  notes:
+  - La réponse en fréquence est la transformée de Fourier de la réponse impulsionnelle.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: b9e797ae-9448-5de7-af14-5771e605eb62
+status: Standard

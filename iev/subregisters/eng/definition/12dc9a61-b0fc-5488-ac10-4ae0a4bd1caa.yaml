@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 221-01-07
+      link: null
+      original: 221-01-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: c4cd4162-3263-5461-9644-008729053949
+  definition: for a substance within a domain, vector quantity equal to the volume
+    integral of the magnetic polarization
+  examples: []
+  notes:
+  - 'The magnetic dipole moment is related to the magnetic area moment stem:[*m*]
+    by the expression
+
+
+    stem:[*j*] = stem:[μ]~0~ stem:[*m*]
+
+
+    where stem:[μ]~0~ is the magnetic constant.'
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 12dc9a61-b0fc-5488-ac10-4ae0a4bd1caa
+status: Standard

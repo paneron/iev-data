@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '3.31'
+      original: IEC 60664-2-1:2011, 3.31, modifié – "valeur" a été remplacé par "valeur
+        assignée" dans la définition.
+      ref: IEC 60664-2-1:2011
+      relationship:
+        modification: '"valeur" a été remplacé par "valeur assignée" dans la définition.'
+        type: modified
+  concept: 081be94e-6efe-5bfc-962b-1efa5008d8a0
+  definition: '{{valeur assignée, IEV:151-16-08}} de la tension de tenue efficace
+    fixée par le fabricant aux matériels ou à une partie d''entre eux, caractérisant
+    la capacité de tenue spécifiée (à long terme) de son isolation'
+  examples: []
+  notes:
+  - La tension assignée d'isolement n'est pas nécessairement égale à la tension assignée
+    des matériels qui est principalement liée aux caractéristiques fonctionnelles.
+dateAccepted: 2018-11-17
+id: b0a4e9d4-56ae-5027-ad10-8dcdcee58ee7
+status: Standard

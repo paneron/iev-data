@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4bc642e3-1d2d-570e-9aa8-dc1118976e3a
+  definition: for two vectors *stem:[U]* and *stem:[V]* in an stem:[n]-dimensional
+    Euclidean space, tensor of the second order defined by the bilinear form stem:[f
+    ( X , Y ) = ( U * X ) ( V * Y )], where *stem:[X]* and *stem:[Y]* are any vectors
+    in the same space
+  examples: []
+  notes:
+  - The bilinear form can be represented by stem:[f ( X , Y ) = ( underset(i)( sum
+    ) U_i X_i ) ( underset(j)( sum ) V_j Y_j ) = underset((i j))( sum ) U_i V_j X_i
+    Y_j] in terms of the coordinates of the vectors. The dyadic product is then the
+    tensor with components stem:[T_((i j)) = U_i V_j].
+  - The dyadic product of two vectors is denoted by stem:[U ox V] or stem:[U V].
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 6fda4549-9165-5af2-88b4-07bf988ae738
+status: Standard

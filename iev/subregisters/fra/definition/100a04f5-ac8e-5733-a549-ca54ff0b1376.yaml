@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: d4caec99-399b-5c2f-a3d7-5f38ccb57b3d
+  definition: groupe d'éléments numériques dans lequel le nombre d'éléments corrects
+    consécutifs séparant deux éléments numériques erronés successifs est toujours
+    inférieur à un nombre spécifié; le dernier élément binaire erroné d'un groupe
+    et le premier élément binaire erroné du groupe suivant sont séparés par un nombre
+    d'éléments corrects au moins égal au nombre spécifié
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 100a04f5-ac8e-5733-a549-ca54ff0b1376
+status: Standard

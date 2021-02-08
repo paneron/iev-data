@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 801-22-07
+      link: null
+      original: 801-22-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: f72ca8e3-f585-5d4a-be23-900a918a2ddb
+  definition: logarithme du rapport de la valeur efficace d'une pression acoustique
+    donnée à la valeur de la pression acoustique prise comme référence.
+  examples: []
+  notes:
+  - Exprimé en décibels, le niveau de pression acoustique est égal à 20 fois le logarithme
+    décimal de ce rapport
+  - Pour les aérogénérateurs, la pression acoustique de référence est prise égale
+    à 20 µPa.
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: 6c1d38a9-063a-5655-914d-c6cb4811a454
+status: Standard

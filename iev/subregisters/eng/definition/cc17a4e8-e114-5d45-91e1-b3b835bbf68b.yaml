@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 13-10
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-10
+      ref: IEC 80000-13:2008
+      relationship:
+        type: identical
+  concept: 4e84c8d6-6fd5-5c78-9595-37b31830556d
+  definition: 'binary logarithm of the number stem:[n] of possible states of a {{storage
+    device, IEV:171-04-14}}
+
+
+    stem:[M]~e~ = lb stem:[n]'
+  examples: []
+  notes:
+  - The minimum storage capacity of a bit-organized storage device that could contain
+    the amount of data in the given storage device is equal to the smallest integer
+    greater than or equal of the equivalent binary storage capacity.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: cc17a4e8-e114-5d45-91e1-b3b835bbf68b
+status: Standard

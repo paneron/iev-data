@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.3.13
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.13
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  concept: 0f15e206-4edd-55b5-9dd8-ba03e0af9d1c
+  definition: dispositif de coupure différentiel pour lequel les fonctions de détection,
+    de mesure ou de coupure dépendent de la tension d'alimentation
+  examples: []
+  notes:
+  - Il est entendu que, pour la détection, l'évaluation ou l'interruption, la ligne
+    d'alimentation est celle traversant le dispositif différentiel résiduel.
+dateAccepted: 2018-11-17
+id: 2d1f1545-fe9d-5769-a349-2f29c97e949c
+status: Standard

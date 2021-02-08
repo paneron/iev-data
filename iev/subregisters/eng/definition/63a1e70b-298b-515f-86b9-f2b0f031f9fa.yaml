@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: edbe1e26-1351-5d09-b93e-b4fd9dabf2c8
+  definition: a channel that provides the frequency band required for the transmission
+    of telephone quality speech, and that operates at the original audio frequencies
+  examples: []
+  notes:
+  - A voice-frequency channel normally has a standardized frequency 300-3 400 Hz.
+  - Signals, other than speech signals, having appropriate specified characteristics
+    may occupy the whole or a part of a voice-frequency channel.
+  - The use of this term to denote a wider band channel, such as one suitable for
+    high quality sound signals, is deprecated.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 63a1e70b-298b-515f-86b9-f2b0f031f9fa
+status: Standard

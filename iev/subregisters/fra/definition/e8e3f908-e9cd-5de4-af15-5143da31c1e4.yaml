@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7f1d8d10-d3d7-56f6-847d-e9a97e15a0b8
+  definition: 'grandeur scalaire égale au flux de la densité de courant électrique  stem:[*J*]
+    à travers une surface orientée donnée S:
+
+
+    stem:[I = underset(S)( int ) J * e_n d A]
+
+
+    où stem:[*e*]~n~dstem:[A] est l''élément vectoriel de surface'
+  examples: []
+  notes:
+  - Le courant électrique à travers une surface est égal à la limite du quotient de
+    la charge électrique traversant cette surface pendant un intervalle de temps par
+    la durée de cet intervalle lorsque cette durée tend vers zéro.
+  - Pour des porteurs de charge confinés sur une surface, le courant électrique est
+    défini à travers une courbe de cette surface (voir la note au terme "densité linéique
+    de courant").
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: e8e3f908-e9cd-5de4-af15-5143da31c1e4
+status: Standard

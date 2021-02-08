@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 25c81eba-440d-55e7-bc97-4216f183ab9a
+  definition: ensemble des chiffres et éventuellement d'autres caractères qui, en
+    un point du réseau de télécommunication déterminent l'extrémité demandée ou sont
+    nécessaires pour l'acheminement
+  examples: []
+  notes:
+  - Les chiffres constituant l'adresse émise par le demandeur peuvent être modifiés
+    par la traduction ou par l'absorption de chiffres à mesure que la chaîne de connexion
+    est établie progressivement à travers le réseau, mais les chiffres nouveaux ou
+    restants en chaque point constituent l'adresse en ce point.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 7d5302e3-5ef5-5431-a752-1e5f94a47809
+status: Standard

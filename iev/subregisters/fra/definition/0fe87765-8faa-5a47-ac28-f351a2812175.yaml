@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.16
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.16
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: 2993e3b9-6283-59e7-8c83-e82f297d2d3d
+  definition: '{{service, IEV:741-01-28}} mis en œuvre pour trouver des ressources,
+    des {{entités, IEV:741-01-18}} ou des services à partir de la spécification d''une
+    cible choisie'
+  examples: []
+  notes:
+  - Un service d'investigation informatique peut être utilisé par un {{utilisateur
+    humain, IEV:741-01-20}} ou un {{utilisateur numérique, IEV:741-01-15}}.
+dateAccepted: 2018-11-17
+id: 0fe87765-8faa-5a47-ac28-f351a2812175
+status: Standard

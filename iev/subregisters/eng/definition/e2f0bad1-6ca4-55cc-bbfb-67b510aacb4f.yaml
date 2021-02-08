@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1fbf787b-6f0e-55ec-8b41-324ab67d0240
+  definition: for a non-ideal differential amplifier, ratio of the gain with respect
+    to a difference signal at the inputs to the gain with respect to a common-mode
+    signal
+  examples: []
+  notes:
+  - A large common-mode rejection ratio is generally sought after for instrumentation
+    in electrobiology, where unwanted common-mode signals are often present.
+dateAccepted: '1998-02-01T00:00:00+00:00'
+id: e2f0bad1-6ca4-55cc-bbfb-67b510aacb4f
+status: Standard

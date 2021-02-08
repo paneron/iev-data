@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7b407087-933f-5bc2-9c6d-e3e3c723d2ab
+  definition: difference between the measured counting (count) rate and the true count
+    rate
+  examples: []
+  notes:
+  - This is the reduction of the counting rate due to the resolving time or losses
+    caused by phenomena such as pile-up or dead-time.
+  - The design of digital radiation detector software allows compensation for some
+    counting losses.
+  - This entry was numbered 394-39-13 in IEC 60050-394:2007.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: d325ea1c-a46d-50fe-9608-601a192b0277
+status: Standard

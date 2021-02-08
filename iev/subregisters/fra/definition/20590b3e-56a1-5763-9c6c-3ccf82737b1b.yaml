@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8a808621-101f-51fd-a8cb-1fb9bcfad957
+  definition: énergie due à la position dans un champ de forces, égale à l'opposé
+    de la circulation d'une force conservative *stem:[F]* le long d'un arc de courbe
+    C, soit stem:[V = - int_C F * d r], où d*stem:[r]* est l'élément vectoriel d'arc
+  examples: []
+  notes:
+  - 1 Une force est conservative quand le champ *stem:[F]*(*stem:[r]*) est statique
+    et irrotationnel, c'est-à-dire que *rot* *stem:[F]* = *0*, dans un domaine simplement
+    connexe.
+  - 2 La force *stem:[F]* est le gradient de l’énergie potentielle stem:[V], soit
+    *stem:[F]* = *grad* stem:[V]. Voir aussi «potentiel» (113-03-19).
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 20590b3e-56a1-5763-9c6c-3ccf82737b1b
+status: Standard

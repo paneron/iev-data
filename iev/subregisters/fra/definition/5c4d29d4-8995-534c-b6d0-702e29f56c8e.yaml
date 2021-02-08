@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1cf5de3f-bea7-571d-aa87-93f4d435eaaf
+  definition: valeur de courant d’un connecteur, utilisé pour des spécifications,
+    que le connecteur peut transporter de façon continue (sans interruption) et simultanément
+    à travers tous ses contacts, câblés avec le conducteur spécifié le plus grand,
+    avec une température ambiante à proximitè du connecteur est maintenue à 40 °C
+  examples: []
+  notes:
+  - Si d’autre températures ambiantes sont utilisées pour la définition du courant
+    assigné, il convient que la spécification indique la température ambiante sur
+    laquelle se basent les caractéristiques assignées, en citant en référence, le
+    cas échéant, le taux de réduction défini dans la CEI 60512, essai 5b.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: 5c4d29d4-8995-534c-b6d0-702e29f56c8e
+status: Standard

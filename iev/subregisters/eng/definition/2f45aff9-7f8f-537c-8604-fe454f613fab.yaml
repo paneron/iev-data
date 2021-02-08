@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '2.14'
+      link: https://www.iso.org/standard/57385.html
+      original: ISO/IEC Guide 71:2014, 2.14, modified – The note has been revised
+        to use the term rather than the definition and to take into consideration
+        the definition of accessibility in IEV 871-01-01
+      ref: ISO/IEC Guide 71:2014
+      relationship:
+        modification: The note has been revised to use the term rather than the definition
+          and to take into consideration the definition of accessibility in IEV 871-01-01
+        type: modified
+  concept: 397b3f95-9092-5389-be99-d08e58e1c29d
+  definition: different ways of manipulation and control
+  examples: []
+  notes:
+  - Multiple means of operation can improve {{accessibility, IEV:871-01-01}}.
+dateAccepted: '2018-05-01T00:00:00+00:00'
+id: 2f45aff9-7f8f-537c-8604-fe454f613fab
+status: Standard

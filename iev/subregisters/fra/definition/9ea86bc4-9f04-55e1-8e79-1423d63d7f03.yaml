@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: 124f310a-df0a-5c82-b31e-298903ef3c13
+  definition: système de marques ordonnées qui peuvent être attribuées aux instants
+    sur l'axe du temps, l'un des instants étant choisi comme origine
+  examples: []
+  notes:
+  - '1 On peut choisir comme échelle de temps:  * une échelle continue, par exemple
+    le temps atomique international (TAI) (voir 713-05-18), * une échelle continue
+    comportant des discontinuités, par exemple le temps universel coordonné (UTC)
+    (voir 713-05-20) à cause des secondes intercalaires, le temps légal à cause des
+    heures d''été et d''hiver,  * une suite d''échelons, par exemple les calendriers
+    usuels, où l’axe du temps est décomposé en une suite d’intervalles de temps consécutifs
+    et où la même marque est attribuée à tous les instants de chaque intervalle de
+    temps,  * une échelle discrète, par exemple dans les techniques numériques. '
+  - 2 Pour les applications physiques et techniques, on préfère une échelle de temps
+    dont les marques sont quantitatives, fondée sur le choix d'un instant initial
+    et d'une unité de mesure.
+  - 3 Les échelles de temps habituelles utilisent une combinaison de diverses unités
+    de mesure, telles que la seconde, la minute et l'heure, ou divers intervalles
+    de temps tels que jour, mois et année du calendrier.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 9ea86bc4-9f04-55e1-8e79-1423d63d7f03
+status: Standard

@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: '11.1'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 11.1, modified – The parenthetical expression
+        following the term has been transferred to the term attribute "specific use".
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: The parenthetical expression following the term has been transferred
+          to the term attribute "specific use".
+        type: modified
+  concept: bb08832c-c296-537b-8f6e-1f4d43649680
+  definition: reference to one or more {{standard, IEV:901-02-02}}s in place of detailed
+    {{provision, IEV:901-05-01}}s within a {{regulation, IEV:901-02-10}}
+  examples: []
+  notes:
+  - A reference to standards is either dated, undated or general, and at the same
+    time either exclusive or indicative.
+  - A reference to standards may be linked to a more general legal provision referring
+    to the {{state of the art, IEV:901-01-04}} or {{acknowledged rules of technology,
+    IEV:901-01-05}}. Such a provision may also stand alone.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 03f430b8-7836-5a2e-afc9-8e47e1389b6d
+status: Standard

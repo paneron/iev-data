@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - original: AIEA 2
+      ref: IAEA 2
+      relationship:
+        type: identical
+    - original: AIEA 3, modifiée
+      ref: IAEA 3
+      relationship:
+        type: modified
+  concept: 7463cafc-1be6-5dac-99fa-c438540d86d3
+  definition: existence de plusieurs éléments identiques ou différents, de telle sorte
+    que chacun d'entre eux peut effectuer la fonction indépendamment de l'état de
+    fonctionnement de tout autre
+  examples: []
+  notes:
+  - Cet article était numéroté 393-18-60 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: add32136-e32e-52cf-9e0b-562e8a58f5db
+status: Standard

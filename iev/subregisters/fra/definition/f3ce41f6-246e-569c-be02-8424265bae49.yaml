@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: d0c816a4-e793-537a-93d0-403768e58eda
+  definition: état d'un ensemble de ressources dans lequel une tentative de prise
+    ne peut aboutir pas à une prise immédiate
+  examples: []
+  notes:
+  - Un encombrement n'entraîne pas nécessairement le non-aboutissement d'une tentative
+    d'appel si la communication peut s'établir après un certain temps ou en utilisant
+    d'autres ressources.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: f3ce41f6-246e-569c-be02-8424265bae49
+status: Standard

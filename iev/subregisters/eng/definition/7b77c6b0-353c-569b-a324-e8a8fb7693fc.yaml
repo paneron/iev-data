@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 195-06-09
+      link: null
+      original: 195-06-09
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 826-12-17
+      link: null
+      original: 826-12-17
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 2fc5b4a0-f6ed-5d7a-8ae6-efc70d3665fa
+  definition: insulation of hazardous-live-parts which provides a degree of protection
+    against electric shock equivalent to double insulation
+  examples: []
+  notes:
+  - Reinforced insulation may comprise several layers which cannot be tested singly
+    as basic insulation or supplementary insulation.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: 7b77c6b0-353c-569b-a324-e8a8fb7693fc
+status: Standard

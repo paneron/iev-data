@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '3.1125'
+      link: https://www.iso.org/standard/50518.html
+      original: ISO/IEC/IEEE 24765:2010,  <i>Systems and software engineering – Vocabulary</i>,
+        3.1125, modified by addition of Note 1
+      ref: ISO/IEC/IEEE 24765:2010
+      relationship:
+        modification: by addition of Note 1
+        type: modified
+  concept: 83c7e44f-cd93-55a6-81ad-5bcdf0d40a2a
+  definition: condition in which one fault prevents the detection of another
+  examples: []
+  notes:
+  - Fault masking may conceal a progressive loss of redundancy.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: a4fad871-7fff-58b1-843c-93d149784f62
+status: Standard

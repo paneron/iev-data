@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - - clause: 13-39
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-39, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  concept: c04654ba-f08f-5d86-b624-a17ad0190145
+  definition: 'mean per {{character, IEV:702-05-10}} of the {{mean transinformation
+    content, IEV:171-07-27}} for all possible messages from a {{stationary message
+    source, IEV:171-07-09}}
+
+
+    stem:[T^( '' ) = underset((m -&gt; oo))((lim)) ((T_m))/(m)]
+
+
+    where stem:[Tm] is the mean transinformation content for all pairs of corresponding
+    input and output sequences of stem:[m] characters each'
+  examples: []
+  notes:
+  - The character mean transinformation content can be expressed in a unit such as
+    the shannon per character.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: a37e59fa-d9e4-5e5d-bb1f-14fd7b593f13
+status: Standard

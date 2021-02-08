@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4d8d4b9d-0623-563b-a6bf-15609bb497e1
+  definition: a radio link from an earth station at a given location to a space station,
+    or vice versa, conveying information for a space radiocommunication service other
+    than the fixed-satellite service
+  examples: []
+  notes:
+  - The given location may be at a specified fixed point, or at any fixed point within
+    specified areas.
+  - 'Examples of feeder links:
+
+
+    - an up-link for a broadcasting satellite;
+
+
+    - the part of a forward link to a space station or a return link from a space
+    station which is between the earth station and a data relay satellite;
+
+
+    - an up-link and down-link between a coast earth station and a satellite in the
+    maritime mobile-satellite service.
+
+
+    image::/assets/images/parts/725/725-12en.gif[]'
+dateAccepted: '1994-08-01T00:00:00+00:00'
+id: 16ac31a4-e8c5-5a71-bcb8-d39766211bdb
+status: Standard

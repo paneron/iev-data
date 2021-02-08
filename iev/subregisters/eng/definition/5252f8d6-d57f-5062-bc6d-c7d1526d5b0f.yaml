@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: ea8e8909-4d4e-58b7-aa35-911b655a77aa
+  definition: 'vector Δ*stem:[U]* associated at each point of a given space region
+    with a vector *stem:[U]*, equal to the gradient of the divergence of the vector
+    field minus the rotation of the rotation of this vector field
+
+
+    Δ*stem:[U]* = *grad* div *stem:[U]* − *rot rot stem:[U]*'
+  examples: []
+  notes:
+  - 'In orthonormal Cartesian coordinates, the three components of the Laplacian of
+    a vector field are:
+
+
+    stem:[((del^2 U_x))/((del x^2)) + ((del^2 U_x))/((del y^2)) + ((del^2 U_x))/((del
+    z^2)) , ((del^2 U_y))/((del x^2)) + ((del^2 U_y))/((del y^2)) + ((del^2 U_y))/((del
+    z^2)) , ((del^2 U_z))/((del x^2)) + ((del^2 U_z))/((del y^2)) + ((del^2 U_z))/((del
+    z^2))].'
+  - The Laplacian of the vector field *stem:[U]* is denoted by Δ*stem:[U]* or ∇^2^*stem:[U]*,
+    where Δ is the Laplacian operator.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 5252f8d6-d57f-5062-bc6d-c7d1526d5b0f
+status: Standard

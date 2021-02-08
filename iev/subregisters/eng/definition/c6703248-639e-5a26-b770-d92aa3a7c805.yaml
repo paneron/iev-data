@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 394ba7f0-2dd8-598d-a5e8-5bab5dba8987
+  definition: 'deformation of an unclamped wafer, defined as the maximum difference
+    between a point on the front surface and a reference plane
+
+
+    image::/assets/images/parts/561/561-fig27-en.png[]
+
+
+    *Figure 27 – Schematic diagram of warp*'
+  examples: []
+  notes:
+  - The reference plane is defined by three points as described in {{561-07-27, IEV:561-07-27}},
+    Note 1 to entry, item 2. Warp is a bulk property of a wafer and not of the exposed
+    surface alone.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: c6703248-639e-5a26-b770-d92aa3a7c805
+status: Standard

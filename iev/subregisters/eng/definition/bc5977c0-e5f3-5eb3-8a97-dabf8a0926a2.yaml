@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6b82e625-a5d1-5f26-a6cd-327225c20d47
+  definition: '1. an assembly, obtained by frequency division multiplexing, of a specified
+    number of mastergroups, normally 3, in adjacent positions in a frequency band
+    of specified width with guard bands between adjacent mastergroups
+
+
+    2. a frequency band of standardized width, 3 872 kHz, in a multichannel carrier
+    system and occupying one of a number of specified positions in the spectrum'
+  examples: []
+  notes:
+  - A supermastergroup is normally an assembly of 900 FDM telephone channels.
+  - Signals, other than those derived from an assembly of mastergroups but having
+    specified characteristics, may occupy the whole or a part of a frequency band
+    normally assigned to a supermastergroup.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: bc5977c0-e5f3-5eb3-8a97-dabf8a0926a2
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 669fa3be-fe7b-5751-9559-e8c8e42e8df9
+  definition: filtre consistant en des TID entrée et sortie sur un substrat piézoélectrique
+  examples: []
+  notes:
+  - 'La réponse impulsionnelle d’un filtre transversal est donnée par la convolution
+    de la réponse impulsionnelle du premier TID avec la réponse impulsionnelle complexe
+    conjuguée du deuxième TID. La réponse fréquencielle est donnée par la transformée
+    de Fourier de la réponse impulsionnelle. Un exemple simple de filtre transversal
+    est présenté à la Figure 16.
+
+
+    image::/assets/images/parts/561/561-fig16-fr.png[]
+
+
+    *Figure 16 – Filtre transversal*'
+dateAccepted: 2018-11-17
+id: dd6d726f-edc9-5f14-ae4f-a4d0e69123f1
+status: Standard

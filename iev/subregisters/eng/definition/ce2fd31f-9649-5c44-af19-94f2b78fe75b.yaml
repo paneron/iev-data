@@ -1,0 +1,36 @@
+data:
+  authoritative_source:
+  - null
+  concept: 74941bb1-05ce-5f60-a7b7-00236defa5b1
+  definition: 'density of exiting luminous flux with respect to area at a point on
+    a real or imaginary surface
+
+
+    stem:[M_v = ((d Phi_v))/((d A))]
+
+
+    where stem:[Φ]~v~ is luminous flux and stem:[A] is the area from which the luminous
+    flux leaves'
+  examples: []
+  notes:
+  - 'Luminous exitance can be derived from the spectral radiant exitance distribution
+    by
+
+
+    stem:[M_v = K_m int_0^(oo) M_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+
+    where stem:[K]~m~ is maximum luminous efficacy, stem:[M]~e,~stem:[λ](stem:[λ])
+    is the spectral radiant exitance at wavelength stem:[λ] and stem:[V](stem:[λ])
+    is <a href="IEV845-21-035">spectral luminous efficiency</a>.
+
+
+    Integral limits can be confined depending on the spectral <a href="IEV845-25-061">responsivity</a>
+    of the detectors used as a sensor.'
+  - The corresponding radiometric quantity is "radiant exitance". The corresponding
+    quantity for photons is "photon exitance".
+  - The luminous exitance is expressed in lumen per square metre (lm·m^−2^).
+  - This entry was numbered 845-01-48 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: ce2fd31f-9649-5c44-af19-94f2b78fe75b
+status: Standard

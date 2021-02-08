@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - - clause: 466-01-02
+      link: null
+      original: 466-01-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 601-03-04
+      link: null
+      original: 601-03-04 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: b452d5ae-a7b2-5f98-8568-5fad89e74168
+  definition: '{{ligne électrique, IEV:151-12-27}} comportant un ou plusieurs conducteurs
+    ou un câble maintenus au-dessus du sol par des supports appropriés'
+  examples: []
+  notes:
+  - Une ligne aérienne peut être formée d’un seul conducteur lorsque le circuit est
+    fermé par la Terre.
+  - Une ligne aérienne peut être constituée de conducteurs nus, généralement maintenus
+    au moyen d’isolateurs, ou de conducteurs avec isolation.
+  - Le concept de ligne aérienne inclut généralement les supports.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 1471b689-3c1d-5971-ba45-dd642083f05d
+status: Standard

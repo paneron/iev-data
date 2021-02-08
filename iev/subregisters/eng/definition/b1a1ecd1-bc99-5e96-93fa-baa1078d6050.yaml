@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0768b685-6e77-51c7-9db6-241be10bf64f
+  definition: a primary digital group of PCM channels, usually 30, assembled by PCM
+    multiplex equipment which uses the CCITT quantizing law A; the composite digital
+    signal has a frame consisting of 32 octet time-slots and operates at a digit rate
+    of 2 048 kbit/s
+  examples: []
+  notes:
+  - This term should be used only when all the available channels are used as PCM
+    channels.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: b1a1ecd1-bc99-5e96-93fa-baa1078d6050
+status: Standard

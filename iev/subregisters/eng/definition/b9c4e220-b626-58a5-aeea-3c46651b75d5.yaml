@@ -1,0 +1,38 @@
+data:
+  authoritative_source:
+  - - clause: 2.3.1
+      original: SI Brochure, 9th edition, 2019, 2.3.1, modified – The definition in
+        the SI Brochure has been revised to comply with the IEV rules. Notes 1 to
+        4 to entry have been added.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: The definition in the SI Brochure has been revised to comply
+          with the IEV rules. Notes 1 to 4 to entry have been added.
+        type: modified
+  concept: 2a7e3a45-7821-5305-8688-be3525ef9dfd
+  definition: '{{SI, IEV:112-02-02}} {{unit, IEV:112-01-14}} of {{electric current,
+    IEV:121-11-13}}, equal to the electric current corresponding to the flow of (1/1,602 176 634) × 10^19^
+    {{elementary electric charges, IEV:113-05-16}} per {{second, IEV:112-02-04}}'
+  examples: []
+  notes:
+  - 'The definition in the SI Brochure is: "The ampere, symbol A, is the SI unit of
+    electric current. It is defined by taking the fixed numerical value of the elementary
+    charge stem:[e] to be 1,602 176 634 × 10^−19^ when expressed in the unit C, which
+    is equal to A s, where the second is defined in terms of Δstem:[ν]~Cs~."'
+  - 'The definition of the ampere in IEV 112-02-07:2010-01 was: "SI unit of electric
+    current, equal to the direct current which, if maintained constant in two straight
+    parallel conductors of infinite length, of circular cross-section with negligible
+    area, and placed 1 metre apart in vacuum, would produce between these conductors
+    a force per length equal to 2 × 10^−7^ N/m".
+
+
+    Note 3  to entry: The new definition of the ampere fixes the value of the elementary
+    charge stem:[e] instead of that of the magnetic constant, stem:[μ]~0~. As a consequence,
+    the value of stem:[μ]~0~ has to be determined experimentally.'
+  - 'The ampere is one of the seven SI {{base units, IEV:112-01-18}}: {{second, IEV:112-02-04}}
+    (s), {{metre, IEV:112-02-05}} (m), {{kilogram, IEV:112-02-06}} (kg), ampere (A),
+    {{kelvin, IEV:112-02-08}} (K), {{mole, IEV:112-02-09}} (mol) and {{candela, IEV:112-02-10}}
+    (cd).'
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: b9c4e220-b626-58a5-aeea-3c46651b75d5
+status: Standard

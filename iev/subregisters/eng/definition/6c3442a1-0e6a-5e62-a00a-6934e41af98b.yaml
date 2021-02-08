@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: b255788d-a257-5358-9b90-98b3492fd9e7
+  definition: coefficient of heat transfer when heat exchange takes place between
+    a body at thermodynamic temperature stem:[T]~s~ and its surroundings that are
+    at a reference temperature stem:[T]~r~, thus stem:[h = (phi)/((| T_s - T_r |))],
+    where stem:[φ] is density of heat flow rate
+  examples: []
+  notes:
+  - The coherent SI unit of surface coefficient of heat transfer is watt per square
+    metre kelvin, W/m^2^∙K.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 6c3442a1-0e6a-5e62-a00a-6934e41af98b
+status: Standard

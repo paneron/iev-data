@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 09e89ea0-a342-5d5e-b2f1-83f24a9f8253
+  definition: description graphique avec représentation symbolique des systèmes de
+    commande séquentiels
+  examples: []
+  notes:
+  - La représentation symbolique des étapes, commandes, transitions et liaisons orientées
+    est basée sur des variables booléennes d'entrée et de sortie ainsi que sur des
+    variables internes d'état et sur des éléments binaires de retard.
+  - Les éléments, règles et structures de base des diagrammes fonctionnels sont données
+    dans la norme CEI 60848, _Langage de spécification GRAFCET pour diagrammes fonctionnels
+    en séquence_. Les termes 351-53-09 à 351-53-16 ci-dessous sont à utiliser dans
+    ce contexte.
+  - Cet article était numéroté 351-29-22 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: abeff211-f56a-5690-b64f-09ebcb2df903
+status: Standard

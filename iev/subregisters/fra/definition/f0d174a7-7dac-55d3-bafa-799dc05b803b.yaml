@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3bd84cae-b0ad-5751-b2de-daaed138053a
+  definition: 'ensemble des compteurs fabriqués par un même constructeur et ayant:
+
+
+    a) des qualités métrologiques similaires;
+
+
+    b) l’uniformité constructive des constituants déterminant ces qualités;
+
+
+    c) un même rapport entre courant maximal et courant de référence'
+  examples: []
+  notes:
+  - Le type peut comporter différentes valeurs de courant de référence et de tension
+    de référence.
+  - Les compteurs sont désignés par le constructeur, par une ou plusieurs associations
+    soit de lettres, soit de chiffres. A chaque type correspond une seule désignation.
+  - Le type est représenté par le ou les compteurs échantillons destinés aux essais
+    de type et dont les caractéristiques (courant de référence et tension de référence)
+    sont choisies parmi celles figurant dans les tableaux proposés par le constructeur.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: f0d174a7-7dac-55d3-bafa-799dc05b803b
+status: Standard

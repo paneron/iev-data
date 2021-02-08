@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0bcc8579-603b-5150-a4cb-8dcc5410d725
+  definition: durée pendant laquelle un verrouillage de trame est effectivement perdu
+  examples: []
+  notes:
+  - La durée de perte du verrouillage de trame comprend la durée nécessaire à la reconnaissance
+    de la perte du verrouillage de trame et le temps de reprise du verrouillage de
+    trame.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 3cf7800c-85d0-53ef-8680-a35646f3572f
+status: Standard

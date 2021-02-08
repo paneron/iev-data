@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: a322cee6-83db-5509-8948-b02a7872bbdf
+  definition: '{{protection contre les erreurs, IEV:702-07-40}} destinée à déceler
+    la présence d''éléments erronés dans un message reçu'
+  examples: []
+  notes:
+  - La détection d'erreurs utilise en général un  {{code détecteur d'erreurs, IEV:702-05-19}}
+    approprié.
+dateAccepted: 2018-11-17
+id: b06d8557-f531-5eca-92f3-571d0e4336b2
+status: Standard

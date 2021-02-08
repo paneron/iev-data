@@ -1,0 +1,41 @@
+data:
+  authoritative_source:
+  - null
+  concept: f732d16b-c93f-56a2-9382-e4d4f215f49a
+  definition: 'pour un élément à action proportionnelle et par dérivation avec retard
+    additionnel du premier ordre, rapport du gain maximal résultant d''une action
+    proportionnelle et par dérivation, avec un retard du premier ordre, au gain dû
+    à la seule action proportionnelle
+
+
+    VOIR: Figure 18.'
+  examples: []
+  notes:
+  - "La fonction de transfert d’un élément PD avec un retard du premier ordre est\n\
+    \nstem:[((V ( s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + T_1 * s))]\n\net\
+    \ utilisant le gain d'action par dérivation stem:[a] = stem:[T]~d~/T~1~, la fonction\
+    \ de transfert peut être écrite\n\nstem:[((V ( s )))/((U ( s ))) = K_Ρ * ((1 +\
+    \ T_d * s))/((1 + ((T_d * s))/(a)))]\n\noù<table>\r\n<tr>\n<td>\nstem:[K]~P~\n\
+    </td>\n<td>est le coefficient d’action proportionnelle;</td>\n</tr>\r\n<tr>\n\
+    <td>\nstem:[T]~d~\n</td>\n<td>est le temps de dosage de dérivation;</td>\n</tr>\r\
+    \n<tr>\n<td>\nstem:[T]~1~\n</td>\n<td>est la constante de temps;</td>\n</tr>\r\
+    \n<tr>\n<td>stem:[a]</td>\n<td>est le gain d’action par dérivation, 1 &lt; stem:[a]\
+    \ &lt; ∞;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>est la variable complexe\
+    \ de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n\
+    <td>est la transformée de la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n\
+    <td>est la transformée de la variable de sortie.</td>\n</tr>\r\n</table>"
+  - 'Cet article était numéroté 351-28-29 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig18.png[]
+
+
+    *Figure 18 – Step response of a proportional plus derivative element with additional
+    first order delay*
+
+
+    *Figure 18 – Réponse à un échelon d''un élément à action proportionnelle et par
+    dérivation avec retard additionnel du premier ordre*'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: ebc66e9e-a3ca-5584-bbdb-72d441316df4
+status: Standard

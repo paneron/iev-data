@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - null
+  concept: 80fce802-17fc-5f05-aed9-bcaf786cdad8
+  definition: longueur d'un trajet dans l'atmosphère nécessaire pour réduire de 95
+    % le flux lumineux d'un faisceau collimaté, émanant d'une source de température
+    de couleur 2 700 K
+  examples: []
+  notes:
+  - La valeur de la réduction de telle sorte que la portée optique météorologique
+    conduise à une mesure approximative de la notion couramment employée de visibilité
+    météorologique.
+  - 'La portée optique météorologique stem:[v] est reliée à la transmissivité atmosphérique
+    stem:[T,] réputée uniforme par les formules
+
+
+    stem:[v = d_0 ((log 0,05))/((log T))] ou stem:[T = 0,05^(d_0 // v)]
+
+
+    où stem:[d]~0~ est la longueur spécifiée dans la définition de la transmissivité
+    atmosphérique.
+
+
+    Ces formules sont parfois écrites sous la forme
+
+
+    stem:[v = ((log 0,05))/((log T))] ou stem:[T = 0,05^(1 // v)]
+
+
+    avec stem:[d]~0~ définie comme unité.'
+  - Cet article était numéroté 845-11-20 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: ae6c87fb-7def-508c-9706-6deae677bf38
+status: Standard

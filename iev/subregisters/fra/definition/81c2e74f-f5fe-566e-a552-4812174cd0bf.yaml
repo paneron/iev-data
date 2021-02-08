@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: définition 1026
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1026, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 0c06f3d5-c39d-581b-adfa-dc4a4218858c
+  definition: temps nécessaire pour que le flux de neutrons dans un réacteur nucléaire
+    varie d’un facteur e égal à 2,718..., lorsque le flux de neutrons augmente ou
+    diminue de façon exponentielle
+  examples: []
+  notes:
+  - Le temps de doublement est le temps pendant lequel la puissance physique est multipliée
+    par deux, les autres paramètres pris en compte étant inchangés.
+  - Cet article était numéroté 393-15-19 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: 81c2e74f-f5fe-566e-a552-4812174cd0bf
+status: Standard

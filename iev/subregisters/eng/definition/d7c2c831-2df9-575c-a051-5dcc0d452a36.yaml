@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6c483cb2-2b21-532c-ab73-7892858fe328
+  definition: physical unit used for driving mechanically actuated final controlling
+    elements
+  examples: []
+  notes:
+  - Examples of actuating drives are electric, hydraulic or pneumatic actuating drives,
+    diaphragm systems or piston actuators.
+  - No actuating drive is required for a final controlling element if the manipulated
+    variable at the controller output is capable of directly influencing the mass
+    flow or energy flow, i.e. without any mechanical intermediate variable quantity.
+  - This entry was numbered 351-32-24 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: d7c2c831-2df9-575c-a051-5dcc0d452a36
+status: Standard

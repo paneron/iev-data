@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3c931aa7-2317-56f3-b153-866ad6fcd374
+  definition: resistance expressed in ohms between two electrodes in contact with
+    the surface to be measured
+  examples: []
+  notes:
+  - 'One common configuration (e.g. in IEC 60079-0, _Explosive atmospheres – Part
+    0: Equipment – General requirements_) uses parallel electrodes, 100 mm long and
+    10 mm apart.'
+  - The surface resistance is dependent upon the electrode configuration. The surface
+    resistance measured with the example electrode configuration is ten times lower
+    than the surface resistivity.
+  - Conductive rubber strip electrodes are preferred over silver paint electrodes.
+dateAccepted: '2020-03-01T00:00:00+00:00'
+id: f087e714-343f-5cf1-bea2-595967da88c6
+status: Standard

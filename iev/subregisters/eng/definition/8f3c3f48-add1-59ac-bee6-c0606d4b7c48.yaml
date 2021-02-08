@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f1b7f5a1-2d62-54a3-8a6d-dff62ba01f11
+  definition: command which is issued as soon as the associated step is activated
+    and is terminated when explicitly reset by a subsequent step
+  examples: []
+  notes:
+  - The stored command is identified in IEC 60848, _GRAFCET specification language
+    for sequential function charts_, by the conventional letter “S”.
+  - This entry was numbered 351-29-32 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 8f3c3f48-add1-59ac-bee6-c0606d4b7c48
+status: Standard

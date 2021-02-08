@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 086f0d51-f7a4-5dc8-9408-4f5b5eef5aa5
+  definition: qualifies the ratio of a quantity to a reference quantity other than
+    a unit of measurement
+  examples: []
+  notes:
+  - Any relative quantity is of dimension one.
+  - 'Examples: relative permittivity, relative permeability, relative density, relative
+    resistances and relative reactances in the theory of electric machines.'
+  - 'The symbol of a relative quantity is generally deduced from the symbol of the
+    original quantity by adding the subscript r. Examples: stem:[ε]~r~, stem:[µ]~r~.'
+  - The qualifier "per unit" (p.u.) is sometimes used but is not recommended.
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: e8a07e45-014b-5e2e-aa09-45dadeb9e1bf
+status: Standard

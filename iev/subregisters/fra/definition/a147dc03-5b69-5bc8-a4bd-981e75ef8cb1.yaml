@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: '3.6'
+      link: https://www.iso.org/standard/53940.html
+      original: ISO/IEC Guide 51:2014, 3.6, modifié – La Note 1 à l’article a été
+        ajoutée.
+      ref: ISO/IEC Guide 51:2014
+      relationship:
+        modification: La Note 1 à l’article a été ajoutée.
+        type: modified
+  concept: 310ecfbd-e4bb-588c-92cc-04047041abda
+  definition: utilisation conforme aux informations fournies avec un produit ou un
+    système ou, en l’absence de telles informations, conforme aux profils d’utilisation
+    généralement entendus
+  examples: []
+  notes:
+  - Il convient de ne pas confondre utilisation prévue et {{utilisation normale, IEV:871-04-22}}.
+    Alors que les deux termes intègrent la notion d’utilisation prévue par le fabricant,
+    l’utilisation prévue cible le but, tandis que l’utilisation normale comprend non
+    seulement le but, mais également le transport et le stockage.
+dateAccepted: 2018-11-17
+id: a147dc03-5b69-5bc8-a4bd-981e75ef8cb1
+status: Standard

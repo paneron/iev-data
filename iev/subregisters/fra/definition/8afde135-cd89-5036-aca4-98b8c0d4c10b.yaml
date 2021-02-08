@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6f49107b-bc19-5554-9b71-ad97f8ae888d
+  definition: grandeur sans dimension caractérisant un transfert de chaleur, définie
+    par stem:[N u = ((K l))/(lambda)], où stem:[K] est le coefficient de transmission
+    thermique, stem:[l] est une longueur caractérisant la configuration et stem:[λ]
+    est la conductivité thermique
+  examples: []
+  notes:
+  - 1 Le nombre de Nusselt est souvent calculé par des formules empiriques en fonction
+    d'autres nombres caractéristiques (nombre de Reynolds stem:[Re], nombre de Prandtl
+    stem:[Pr], nombre de Péclet stem:[Pe], nombre de Grashof stem:[Gr]), et utilisé
+    ensuite pour déterminer le coefficient de transmission thermique stem:[K].
+  - 2 On utilise le nom «nombre de Biot», symbole stem:[Bi], lorsqu’on réserve le
+    nombre de Nusselt aux échanges de chaleur par convection.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 8afde135-cd89-5036-aca4-98b8c0d4c10b
+status: Standard

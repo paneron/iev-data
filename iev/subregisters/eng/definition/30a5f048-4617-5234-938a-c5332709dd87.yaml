@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f2cdad51-211e-555b-a3bd-df2b0304ad3b
+  definition: capability of a process computer system to resume tasks after a fault
+    or a breakdown
+  examples: []
+  notes:
+  - A requirement for this is that the state of the task is always stored immediately
+    before a fault or a breakdown while the restart can follow on automatically.
+  - This entry was numbered 351-30-09 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 30a5f048-4617-5234-938a-c5332709dd87
+status: Standard

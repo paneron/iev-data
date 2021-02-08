@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: d6710504-6086-5be7-a10f-de01fbff250a
+  definition: '{{address, IEV:171-05-35}} that designates the storage location of
+    another address'
+  examples: []
+  notes:
+  - The designated storage location can contain the address of the desired operand
+    or another indirect address; this chain of addresses eventually leads to the operand.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 1664dc52-d287-566f-873b-e77965b4b86b
+status: Standard

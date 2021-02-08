@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - null
+  concept: 38b3148c-1502-5aa3-b42f-b9b9fee4a806
+  definition: rapport de la {{densité spectrale de puissance, IEV:702-04-50}} disponible
+    du {{bruit, IEV:702-08-03}} apparaissant, à une {{fréquence, IEV:103-06-02}} donnée
+    à la sortie d'un biporte linéaire, à la densité spectrale que l'on aurait à cette
+    sortie si la seule source de bruit était le {{bruit thermique, IEV:702-08-45}}
+    dû au dispositif {{monoporte, IEV:702-09-08}} connecté à l'entrée dont la {{température
+    de bruit, IEV:702-08-54}} est supposée égale, à toute fréquence, à la {{température
+    thermodynamique, IEV:113-04-14}} de référence fixée conventionnellement au voisinage
+    de 290 K
+  examples: []
+  notes:
+  - 'Le facteur de bruit stem:[F](stem:[f]) d''un biporte linéaire est relié à sa
+    température équivalente de bruit stem:[T](stem:[f]) par la relation:
+
+
+    stem:[F ( f ) = 1 + ((T ( f )))/((T_0))]
+
+
+    où stem:[T]~0~ est la température thermodynamique de référence.'
+  - En anglais, on emploie généralement "noise factor" lorsque le facteur de bruit
+    est exprimé sous forme arithmétique et "noise figure" lorsqu'il est exprimé en
+    {{décibels, IEV:702-07-02}}.
+dateAccepted: 2018-11-17
+id: 0ed6cb78-318c-5454-8da5-624634799e7c
+status: Standard

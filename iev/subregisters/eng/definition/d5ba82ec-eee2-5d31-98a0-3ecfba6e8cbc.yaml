@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1968372f-b403-5286-9f1e-7944c6e438b5
+  definition: closed-loop control, able to keep system properties within a prescribed
+    area even if the properties of the controlled system or the properties of the
+    controller deviate from those assumed for the design of the control system by
+    not more than a predetermined amount.
+  examples: []
+  notes:
+  - Properties of the control system may be its stability, the damping ratio of its
+    transfer function, or the overshoot of its unit-step response.
+  - Properties of the controlled system or the controller e.g. can deviate because
+    disturbances, delays or dead times have not been taken into consideration, parameters
+    are influenced by variable operating conditions, or the controller has been implemented
+    in a non-ideal way.
+  - Phase margin or gain margin may be used to describe the robustness of a control
+    loop.
+  - This entry was numbered 351-26-39 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: d5ba82ec-eee2-5d31-98a0-3ecfba6e8cbc
+status: Standard

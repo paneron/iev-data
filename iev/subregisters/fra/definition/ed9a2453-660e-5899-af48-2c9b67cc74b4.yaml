@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 725-13-01
+      link: null
+      original: 725-13-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 8aef5a6e-0eaf-512e-881b-eeb96244997e
+  definition: zone de la surface de la Terre, associée à une station spatiale, à l'intérieur
+    de laquelle, dans des conditions techniques déterminées, une radiocommunication
+    de nature déterminée peut être établie avec une ou plusieurs stations terriennes,
+    qu'il s'agisse d'émission, de réception ou des deux à la fois
+  examples: []
+  notes:
+  - Plusieurs zones de couverture distinctes peuvent être associées à une même station,
+    par exemple pour un satellite à plusieurs faisceaux d'antenne.
+  - La zone de couverture en l'absence de brouillage est limitée par un contour de
+    puissance surfacique spécifiée.
+  - La notion de "zone de couverture" ne s'applique de façon simple qu'à une station
+    spatiale embarquée sur un satellite géostationnaire.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ed9a2453-660e-5899-af48-2c9b67cc74b4
+status: Standard

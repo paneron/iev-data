@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - original: ITU-R Rec. 662 MOD
+      ref: ITU-R Recommendation 662
+      relationship:
+        type: modified
+  concept: 0530bd87-cfb7-5a08-a49c-daff93d8b589
+  definition: communication provided by links between one specified fixed point and
+    any number of points located anywhere in a given area
+  examples: []
+  notes:
+  - When point-to-area communication involves unidirectional links from a single fixed
+    point to a number of points, this type of communication is commonly referred to
+    as broadcasting.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 48847f9e-48c3-5927-9c17-126b8ceb9d3b
+status: Standard

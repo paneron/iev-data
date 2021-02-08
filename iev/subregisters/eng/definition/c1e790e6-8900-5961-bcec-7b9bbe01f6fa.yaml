@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: 702-04-07
+      link: https://webstore.iec.ch/publication/239
+      original: IEC 60050-702:1992, 702-04-07, modified – The definition has been
+        changed to describe an action rather than a process.
+      ref: IEC 60050-702:1992
+      relationship:
+        modification: The definition has been changed to describe an action rather
+          than a process.
+        type: modified
+  concept: 98deedb6-9d0b-53c3-b4ee-22d7abf79775
+  definition: 'divide a range of values that a variable quantity may assume into a
+    finite number of predetermined adjacent intervals, not necessarily equal, in which
+    any value within a given interval is represented by a single predetermined value
+    within this interval, called "quantized value"
+
+
+    Note 1 to entry: To quantize means to convert a continuous-value variable into
+    a discrete-value variable.'
+  examples: []
+  notes: []
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: c1e790e6-8900-5961-bcec-7b9bbe01f6fa
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9c5f3cb0-a0d5-5a44-8deb-661b5b13652d
+  definition: for a two-terminal element or a two-terminal circuit supplied by a periodic
+    voltage, difference between the electric current and the active current
+  examples: []
+  notes:
+  - The non-active current is orthogonal to the voltage, i.e. the integral of the
+    product of the two quantities over a period is zero.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 68e4b917-a902-5e95-9934-22768c121e1f
+status: Standard

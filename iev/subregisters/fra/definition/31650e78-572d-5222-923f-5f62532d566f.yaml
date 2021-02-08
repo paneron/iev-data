@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.37
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.37
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  concept: 028b0909-9d01-565b-811c-5e5352082dc7
+  definition: échange de données au niveau de la couche application, consistant en
+    un message d'appel et un message de réponse (ce dernier est inexistant dans le
+    cas du protocole de distribution)
+  examples: []
+  notes:
+  - Une conversation commence par la première trame connect request (demande de connexion)
+    et cesse quand le dernier acquittement pour le message de réponse a été reçu,
+    ou quand il n'est plus attendu.
+dateAccepted: 2018-11-17
+id: 31650e78-572d-5222-923f-5f62532d566f
+status: Standard

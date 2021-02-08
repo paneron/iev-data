@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 046e9f8d-91e7-5209-a164-35912c7a7040
+  definition: a shaped-beam antenna for which part of its radiation pattern in one
+    plane is such that the radiation intensity is proportional to the square of the
+    cosecant of the angle measured from a specified direction in the plane
+  examples: []
+  notes:
+  - In radar applications, the plane is vertical and the angle is measured from the
+    horizontal so that objects with the same back-scattering cross-section at the
+    same altitude give equal response regardless of distance.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 2fbf3b58-1f3a-59ac-b31c-5a151e3f6fac
+status: Standard

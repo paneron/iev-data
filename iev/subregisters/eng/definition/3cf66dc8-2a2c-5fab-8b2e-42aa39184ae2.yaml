@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - - clause: 2.6.3
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.6.3
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  concept: e87a7b48-cc40-541d-8dfd-63d25095a80b
+  definition: technique of {{bonding, IEV:523-06-01}} a glass {{substrate, IEV:521-05-28}},
+    which contains movable ions, and a substrate of silicon, metal, and so on, where
+    the substrates are softened by heat, and bonded by the electrostatic attraction
+    of a {{double layer, IEV:114-02-19}} produced by applying a high voltage across
+    the substrates with the glass side as cathode
+  examples: []
+  notes:
+  - High-precision bonding is achieved owing to the bonding process in the substrates'
+    solid state. The bonding strength largely depends on the flatness of the surfaces,
+    although this is not as critical as for silicon fusion bonding. Bonding silicon
+    {{wafers, IEV:521-05-29}} with materials such as borosilicate or tempered glass
+    enables structures with internal cavities, such as capacitive pressure {{sensors,
+    IEV:151-13-48}} and {{micropumps, IEV:523-04-16}}, to be fabricated. When bonding
+    two silicon wafers or a silicon wafer and a metal wafer, a thin glass film is
+    formed on the contacting surface of the wafers, or the surface of the silicon
+    wafer is oxidized. The problem with the use of thin films is that, at high bonding
+    temperatures, the dielectric breakdown voltage of the films is lowered to the
+    point that sufficient voltage cannot be applied. To reduce the process temperature
+    to room temperature, attempts are being made to form a glass film with a low melting
+    point by {{sputtering, IEV:521-03-17}}. This resolves problems such as the strain
+    and deformation caused by thermal stress, and introduces benefits such as improvement
+    in precision and widening the choice of materials.
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: 3cf66dc8-2a2c-5fab-8b2e-42aa39184ae2
+status: Standard

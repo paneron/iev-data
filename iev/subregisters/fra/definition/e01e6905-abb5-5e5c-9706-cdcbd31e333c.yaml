@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: bf1224bc-1235-568e-8693-fbd63022b574
+  definition: champ scalaire stem:[U] dont l’opposé du gradient est un champ de force
+    *stem:[F]*, soit *stem:[F]* = −*grad* stem:[U]
+  examples: []
+  notes:
+  - 1 Le potentiel n'est pas unique puisqu'un champ scalaire constant quelconque peut
+    être ajouté à un potentiel donné sans changer son gradient. Voir aussi la CEI
+    60050-102:2007, {{102-05-24, IEV:102-05-24}}.
+  - 2 L'unité SI cohérente de potentiel est le newton mètre, N⋅m.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: e01e6905-abb5-5e5c-9706-cdcbd31e333c
+status: Standard

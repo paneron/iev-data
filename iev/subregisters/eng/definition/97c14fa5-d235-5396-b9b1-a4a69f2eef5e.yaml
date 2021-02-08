@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 114-01-02
+      link: https://webstore.iec.ch/publication/166
+      original: IEC 60050-114:2014, 114-01-02, modified – The adverb "ionically" has
+        been added to "conductive", and the notes to entry have been replaced by a
+        note specific to the field of fuel cell technologies
+      ref: IEC 60050-114:2014
+      relationship:
+        modification: The adverb "ionically" has been added to "conductive", and the
+          notes to entry have been replaced by a note specific to the field of fuel
+          cell technologies
+        type: modified
+  concept: a5ced1ac-04fe-56c0-9549-5fccb294ff15
+  definition: liquid or solid substance containing mobile ions that render it ionically
+    conductive
+  examples: []
+  notes:
+  - The electrolyte is the main distinctive feature of the different {{fuel cell,
+    IEV:485-08-01}} technologies (e.g. a liquid, polymer, molten salt, solid oxide)
+    and determines the useful operating temperature range.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: 97c14fa5-d235-5396-b9b1-a4a69f2eef5e
+status: Standard

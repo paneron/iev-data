@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 441-17-01
+      link: null
+      original: 441-17-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 04b64fb6-3ed2-5e9f-a69c-e7265471084c
+  definition: courant qui circulerait dans le circuit, si chaque voie principale de
+    courant du dispositif de coupure et du dispositif éventuel de protection contre
+    les surintensités était remplacée par un conducteur d'impédance négligeable
+  examples: []
+  notes:
+  - Le courant présumé peut être qualifié de la même façon qu'un courant réel, par
+    exemple courant de coupure présumé, courant de crête présumé, courant différentiel
+    présumé, etc.
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: 0fe8beba-633f-5904-9f86-f939b82dee25
+status: Standard

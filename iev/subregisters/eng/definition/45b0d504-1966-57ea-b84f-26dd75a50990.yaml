@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - null
+  concept: 626dfbce-3185-5591-8b37-e139c39c9ed8
+  definition: 'of a charged particle in a medium; the quotient of dstem:[E] by dstem:[l]
+    where dstem:[l] is the distance traversed by a particle and dstem:[E] is the energy
+    loss due to collisions with energy transfer less than a specified value stem:[Δ]
+    usually expressed in electron volts
+
+
+    stem:[L_(Delta) = (( ((d E))/((d l)) ))_(Delta)]'
+  examples: []
+  notes:
+  - 'Although the definition specifies an energy cutoff and not a range cutoff the
+    energy losses are sometimes called "energy locally imparted".
+
+
+    Examples: stem:[L]~100~ means linear energy transfer for collisions with energy
+    transfers less than 100 eV; stem:[L]~∞~ means linear energy transfer when all
+    possible energy transfers are included.
+
+
+    stem:[L]~∞~ = stem:[S]~col~'
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 45b0d504-1966-57ea-b84f-26dd75a50990
+status: Standard

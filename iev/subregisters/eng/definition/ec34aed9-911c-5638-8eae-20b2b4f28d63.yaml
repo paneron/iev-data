@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: a322cee6-83db-5509-8948-b02a7872bbdf
+  definition: '{{error control, IEV:702-07-40}} with a view to determining the presence
+    of erroneous elements in a message'
+  examples: []
+  notes:
+  - Error detection generally uses an appropriate {{error detecting code, IEV:702-05-19}}.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: ec34aed9-911c-5638-8eae-20b2b4f28d63
+status: Standard

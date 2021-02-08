@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 48c562d7-655b-5df5-9bff-6311e03b6cf3
+  definition: 'transition from an {{up state, IEV:192-02-01}} to a {{disabled state,
+    IEV:192-02-18}}
+
+
+    image::/assets/images/parts/692/692-fig5-en.png[Figure 5 - Outage occurrence relationships]'
+  examples: []
+  notes:
+  - The up state could be the {{operating state, IEV:192-02-04}}, the {{standby state,
+    IEV:192-02-10}}, or the {{idle state, IEV:192-02-14}}.
+  - The outage occurrence comprises one or more simultaneous or sequential transitions
+    resulting in the outage of one or more items.
+  - The outage occurrence is a {{failure, IEV:192-03-01}} if the resulting outage
+    is a {{fault, IEV:692-01-06}}.
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: 3c13f85f-0576-57bf-a319-a43f75f2686b
+status: Standard

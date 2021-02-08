@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4af99231-903d-56b8-8140-b492f7989899
+  definition: the velocity vector at a point, in a propagation medium, of a signal
+    which may be ideally represented by two superimposed sinusoidal waves of equal
+    amplitude and slightly different frequencies approaching a common limiting value
+  examples: []
+  notes:
+  - 'In the most general case the reciprocal of the magnitude stem:[| vec v_g |] of
+    the group velocity vector is equal to the derivative of the reciprocal of the
+    wavelength stem:[λ] with respect to the frequency stem:[f]:
+
+
+    stem:[(1)/((| vec v_g |)) = ((d ( lambda^(- 1) )))/((d f))]'
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: b998b4d6-62ff-57c7-93f7-88fd9f4d1111
+status: Standard

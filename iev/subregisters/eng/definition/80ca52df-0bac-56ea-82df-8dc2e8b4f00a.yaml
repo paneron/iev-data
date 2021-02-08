@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 34aa5be8-d372-562b-935c-854cd9cd0eef
+  definition: value of the reciprocal of modulus of the reflection coefficient
+  examples: []
+  notes:
+  - The return attenuation is expressed in decibels.
+  - 'Quantitatively, it is equal to: stem:[20 log | ((Z_a + Z_b))/((Z_a - Z_b)) |
+    dB].'
+  - This entry was numbered 561-03-24 in IEC 60050-561:1991.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 80ca52df-0bac-56ea-82df-8dc2e8b4f00a
+status: Standard

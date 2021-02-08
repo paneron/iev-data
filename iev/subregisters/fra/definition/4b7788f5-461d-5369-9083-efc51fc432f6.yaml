@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 08266ac5-45f5-58ba-8d4f-fbd30f099f25
+  definition: technique permettant de relier deux réseaux par l’intermédiaire d’un
+    troisième réseau, tout en isolant totalement le trafic de cette liaison de tout
+    autre trafic dans le troisième réseau
+  examples: []
+  notes:
+  - '– Voir Figure 2.
+
+
+    image::/assets/images/parts/732/732-01-30_F2.gif[]'
+  - 'Le tunnel relie les réseaux A et B à travers le réseau X, sans accès intermédiaire.
+
+
+    *Figure 2 – Tunnellisation*'
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 4b7788f5-461d-5369-9083-efc51fc432f6
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6f82077f-0e97-5fc2-a0b3-87468a2f414f
+  definition: petite onde localisée, représentée par une fonction ayant une valeur
+    moyenne nulle et une durée pratiquement finie
+  examples: []
+  notes:
+  - 'À partir d''une ondelette mère stem:[psi ( t )], des ondelettes filles sont obtenues
+    par décalage et changement d''échelle (dilatation et compression): stem:[psi_((a
+    , b)) ( t ) = (1)/((sqrt(a))) psi ( ((t - b))/(a) )], où stem:[a] est un paramètre
+    d''échelle et stem:[b] un paramètre de position.'
+  - "Exemples (voir les Figures 3 et 4):\n\n\n\n* ondelette de Haar: stem:[psi ( t\
+    \ ) = - 1] pour −1/2 &lt; stem:[t] &lt; 0, stem:[psi ( t ) = 1] pour 0 &lt; stem:[t]\
+    \ &lt; 1/2, stem:[psi ( t ) = 0] ailleurs; \n\n* ondelette de Morlet: stem:[psi\
+    \ ( t ) = e^(- t^2 // 2) e^(- j omega t)] (exemple d'amortissement exponentiel;\
+    \ Figure 4 représente la partie réelle). \n"
+dateAccepted: 2018-11-17
+id: edeeed10-3824-5806-b7d2-7298f1448d93
+status: Standard

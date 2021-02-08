@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: '3.5'
+      link: https://webstore.iec.ch/publication/6357
+      original: IEC 62047-12:2011, 3.5
+      ref: IEC 62047-12:2011
+      relationship:
+        type: identical
+  concept: 3db45a34-4cc0-504f-9a4d-9f5100057f42
+  definition: '{{failure strength, IEV:523-03-13}} in a quasi-static test or a resonant
+    vibration test at rapid {{amplitude, IEV:523-03-11}} growth'
+  examples: []
+  notes: []
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: 634c3396-3956-5791-bc61-3d7440b2fdaf
+status: Standard

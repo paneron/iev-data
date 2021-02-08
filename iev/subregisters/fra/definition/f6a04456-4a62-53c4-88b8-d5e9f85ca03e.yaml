@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: dd02b30f-9545-55a4-b623-99004a35589a
+  definition: portion d'un secteur, utilisée soit pour la détection et la correction
+    d'erreurs, soit comme zone de données utilisateur
+  examples: []
+  notes:
+  - Dans le système interactif à disque compact, ce sont les 288 derniers octets d'un
+    secteur qui forment la zone de données auxiliaires.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: f6a04456-4a62-53c4-88b8-d5e9f85ca03e
+status: Standard

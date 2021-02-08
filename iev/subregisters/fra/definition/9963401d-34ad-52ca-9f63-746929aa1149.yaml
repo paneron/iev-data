@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - - clause: 13-28
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-28, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: aa5fca9b-ba16-503e-9b18-d8922399828d
+  definition: 'excès de la {{quantité de décision, IEV:171-07-10}} stem:[H]~0~ sur
+    l''{{entropie, IEV:171-07-15}} stem:[H]
+
+
+    stem:[R] &amp;equals; stem:[H]~0~ − stem:[H]'
+  examples:
+  - 'Soit stem:[{ a , b , c }] un jeu de trois événements dont les probabilités de
+    réalisation sont stem:[p ( a ) = 0,5], stem:[p ( b ) = 0,25] et stem:[p ( c )
+    = 0,25]. La redondance de ce jeu est: stem:[R = 1,585 Sh - 1,50 Sh = 0,085 Sh].'
+  notes:
+  - En pratique, l'usage de codes convenables permet de représenter des messages avec
+    un nombre réduit de caractères; la redondance peut être considérée comme une mesure
+    de la diminution de la longueur moyenne des messages ainsi réalisée au moyen d'un
+    codage approprié.
+dateAccepted: 2018-11-17
+id: 9963401d-34ad-52ca-9f63-746929aa1149
+status: Standard

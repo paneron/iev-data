@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: e697ff6d-b303-5a01-9ca6-97f4757dad5d
+  definition: square matrix of order stem:[n] with elements stem:[A]~stem:[ij]~, for
+    which the stem:[n] vectors *stem:[V]*~stem:[i]~ with coordinates being the elements
+    of row stem:[i], i.e. stem:[A]~stem:[i]1~, stem:[A]~stem:[i]2~, …, stem:[A]~stem:[in]~,
+    are linearly dependent
+  examples: []
+  notes:
+  - It is equivalent to consider the stem:[n] vectors associated with the columns.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: c48b0a22-3e5a-511d-afd7-f2c1c643e29c
+status: Standard

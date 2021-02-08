@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - original: ITU-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  concept: dc4d85cb-75c7-5b55-be74-09471df280fa
+  definition: means of radiocommunication between two specified points, which uses
+    tropospheric propagation by means of directional antennas and which can include
+    one or more relay stations, with radio characteristics identical to those of the
+    end stations
+  examples: []
+  notes:
+  - The term “tropospheric propagation” denotes any propagation within the troposphere
+    and by extension beneath the ionosphere when not influenced by the ionosphere.
+  - Radio-relay systems operate at frequencies above 30 MHz and, in the most cases,
+    above 1 GHz, i.e. in microwaves.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 89a4ffc4-59d9-5385-a786-141d2a589d41
+status: Standard

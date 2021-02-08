@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07bd599a-462c-5534-8c00-a5b190037cfe
+  definition: '{{signal, IEV:171-01-03}} that is both a {{discrete-value signal, IEV:171-01-11}}
+    and a {{discretely timed signal, IEV:171-01-12}}'
+  examples: []
+  notes:
+  - The characteristic carrying information is generally coded as symbols of a character
+    set and the symbols can be interpreted as numbers.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 1cc9a446-88df-5aab-b502-296f11e42e63
+status: Standard

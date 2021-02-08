@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9bc61e05-f102-5b5c-8899-b8a3bc78265b
+  definition: inability to perform as required, due to an internal state
+  examples: []
+  notes:
+  - A fault of an item results from a failure, either of the item itself, or from
+    a deficiency in an earlier stage of the life cycle, such as specification, design,
+    manufacture or maintenance. See latent fault ({{192-04-08, IEV:192-04-08}}).
+  - Qualifiers, such as specification, design, manufacture, maintenance or misuse,
+    may be used to indicate the cause of a fault.
+  - The type of fault may be associated with the type of associated failure, e.g.
+    wear-out fault and wear-out failure.
+  - The adjective “faulty” designates an item having one or more faults.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 0da70146-588e-5f90-a9a5-c57b0bcc7cda
+status: Standard

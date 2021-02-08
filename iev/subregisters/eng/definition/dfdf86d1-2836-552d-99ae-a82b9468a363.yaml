@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: definition 403
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 403, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 560d3926-d89d-50e8-8c24-ad1ba9063ec0
+  definition: 'quotient of the radiant energy dstem:[R] incident on a sphere of cross-sectional
+    area dstem:[a]
+
+
+    stem:[Ψ] = dstem:[R]/dstem:[a]'
+  examples: []
+  notes:
+  - It is the time-integral of the energy flux.
+  - This quantity is expressed in joules per square metre (J/m^2^).
+  - This entry was numbered 393-14-28 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: dfdf86d1-2836-552d-99ae-a82b9468a363
+status: Standard

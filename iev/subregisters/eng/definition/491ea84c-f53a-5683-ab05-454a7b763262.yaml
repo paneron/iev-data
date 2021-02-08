@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: '3.13'
+      original: IEC Guide 116:2010, 3.13, modified – Note 1 to entry has been added.
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: Note 1 to entry has been added.
+        type: modified
+  concept: 7e90e32f-7f9e-58c3-810e-0d551ba981b4
+  definition: combination of the probability of occurrence of {{harm, IEV:903-01-01}}
+    and the severity of that harm
+  examples: []
+  notes:
+  - 'In French, the term “risque” also denotes the potential source of harm, in English
+    “hazard” (see {{903-01-02, IEV:903-01-02}}).
+
+
+    [ISO/IEC Guide 51:1999, definition 3.2]'
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: 491ea84c-f53a-5683-ab05-454a7b763262
+status: Standard

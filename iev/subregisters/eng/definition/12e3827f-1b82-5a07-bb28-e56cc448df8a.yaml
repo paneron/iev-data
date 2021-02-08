@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 351-56-10
+      link: null
+      original: IEV 351-56-10, modified – The definition has been reworded, "functional
+        unit for the transfer" has been replaced by "communication channel for the
+        standardized transfer"; "via a common transmission path" and Notes 1, 2 and
+        3 to entry have been omitted
+      ref: IEV
+      relationship:
+        modification: The definition has been reworded, "functional unit for the transfer"
+          has been replaced by "communication channel for the standardized transfer";
+          "via a common transmission path" and Notes 1, 2 and 3 to entry have been
+          omitted
+        type: modified
+  concept: b2be1de5-a27c-5fc2-9082-00a29b4c8f74
+  definition: communication channel for the standardized transfer of data between
+    several participants (functional units for data processing), wherein participants
+    are not involved in the transfer of data between other participants
+  examples: []
+  notes: []
+dateAccepted: '2018-05-01T00:00:00+00:00'
+id: 12e3827f-1b82-5a07-bb28-e56cc448df8a
+status: Standard

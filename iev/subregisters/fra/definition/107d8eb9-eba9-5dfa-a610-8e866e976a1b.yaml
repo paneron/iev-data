@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2dec5f50-bfaa-59c3-a36b-66be6f50cd2e
+  definition: "{{modulation, IEV:701-03-08}} par un {{signal temporel discret, IEV:702-04-04}}\
+    \ dans laquelle il existe une relation préétablie entre les instants qui caractérisent\
+    \ la phase de la {{porteuse, IEV:702-06-03}} avant modulation et les {{instants\
+    \ significatifs, IEV:721-02-29}} du {{modulat, IEV:702-06-05}}\n\nEXEMPLE\tModulation\
+    \ où les instants significatifs du modulat coïncident avec les passages par zéro\
+    \ de la porteuse."
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 107d8eb9-eba9-5dfa-a610-8e866e976a1b
+status: Standard

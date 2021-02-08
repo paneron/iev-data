@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 656a09e3-5972-549b-85d0-62246e2687d7
+  definition: signal d’entrée qui peut être appliqué pendant une temporisation pour
+    annuler le délai et replacer le relais dans l’état de repos
+  examples: []
+  notes:
+  - "Le signal de réarmement est conçu pour l’ouverture ou la fermeture d’un circuit\
+    \ électrique.\r\n<note le signal de r est une entr distincte du commande.></note>"
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: 492c70f4-8b0d-5418-ba38-4aa218a2f8ff
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: b005f6d8-724d-5a9c-b7a5-2ddb4fc23d76
+  definition: partie d'une droite comprise entre deux points de la droite
+  examples: []
+  notes:
+  - Si stem:[r_A] et stem:[r_B] sont les rayons vecteurs de deux points A et B, le
+    segment de droite AB est l'ensemble des points P de rayons vecteurs stem:[r_P
+    = u r_A + ( 1 - u ) r_B] où stem:[0 &lt;= u &lt;= 1].
+dateAccepted: 2018-11-17
+id: 46b74296-d374-5551-8210-1c3c8a20f081
+status: Standard

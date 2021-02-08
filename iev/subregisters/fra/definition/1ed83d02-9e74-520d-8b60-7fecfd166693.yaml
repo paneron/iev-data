@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: '8.2'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 8.2
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: 2e6e07ac-162f-5fe7-9039-7278497b8348
+  definition: information figurant dans un {{document normatif, IEV:901-02-01}} mais
+    n'ayant pas d'effet sur sa substance
+  examples: []
+  notes:
+  - Dans le cas d'une {{norme, IEV:901-02-02}}, les éléments complémentaires peuvent
+    comprendre notamment des détails concernant la publication, un avant-propos et
+    des notes.
+dateAccepted: 2018-11-17
+id: 1ed83d02-9e74-520d-8b60-7fecfd166693
+status: Standard

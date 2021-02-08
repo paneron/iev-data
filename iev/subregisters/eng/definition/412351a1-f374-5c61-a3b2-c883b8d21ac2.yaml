@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: definition 1
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 952a0039-4648-56e0-880f-2261273a9692
+  definition: 'quotient of stem:[d bar epsilon] by dstem:[m], where stem:[d bar epsilon]
+    is the mean energy imparted by ionizing radiation to matter of mass dstem:[m]
+
+
+    stem:[D = d bar epsilon // d m]'
+  examples: []
+  notes:
+  - This quantity is expressed in gray (Gy) (1 Gy = 1 J kg^−1^) (formerly expressed
+    in rad (rad)).
+  - This entry was numbered 393-14-64 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 412351a1-f374-5c61-a3b2-c883b8d21ac2
+status: Standard

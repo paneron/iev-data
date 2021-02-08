@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9d7b587b-1c3a-5a5c-b142-b00318ca7817
+  definition: for two second-order tensors stem:[T = ( T_((i j)) )] and stem:[S =
+    ( S_((k l)) )], tensor of the second order the components of which are given by
+    stem:[(( T * S ))_((i l)) = underset(m)( sum ) T_((i m)) S_((m l))]
+  examples: []
+  notes:
+  - The inner product is denoted by a half-high dot (·) between the two symbols representing
+    the tensors.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: df751105-3f11-5fe4-aa41-cbee0a8e96db
+status: Standard

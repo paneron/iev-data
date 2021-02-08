@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: f6d181c7-39c3-5982-a0d9-1a39317cdce4
+  definition: ratio of the number of erroneous received elements of a message to the
+    total number of elements transmitted during a given {{time interval, IEV:113-01-10}}
+  examples:
+  - '{{bit error ratio, IEV:704-18-04}}, {{digit error ratio, IEV:721-08-11}}, {{block
+    error ratio, IEV:721-08-13}}'
+  notes:
+  - The elements can be, for example, {{digits, IEV:702-05-02}}, {{code words, IEV:702-05-17}}
+    or {{blocks, IEV:721-03-11}}.
+dateAccepted: '2018-09-01T00:00:00+00:00'
+id: f032aabb-2d7d-54b8-86e0-48ef1c975b11
+status: Standard

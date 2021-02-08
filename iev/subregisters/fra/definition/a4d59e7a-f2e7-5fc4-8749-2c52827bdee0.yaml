@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: 42e59d19-27b2-5829-aa6d-687e142fb899
+  definition: principe général selon lequel, en l'absence de pertes, le flux énergétique
+    ou le flux lumineux élémentaire, dstem:[Φ], entre deux aires élémentaires dstem:[A]
+    et dstem:[A]′ définissant un faisceau élémentaire est proportionnel aux aires
+    projetées élémentaires dstem:[A] cos stem:[θ] et dstem:[A]′ cos stem:[θ] ′ dans
+    la direction du faisceau et inversement proportionnel à la distance au carré,
+    stem:[l], entre les aires
+  examples: []
+  notes:
+  - 'La loi fondamentale de la radiométrie et de la photométrie est exprimée par
+
+
+    stem:[d Phi = L * ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2))]
+
+
+    où le facteur de proportionnalité pour cette condition géométrique est égal à
+    la radiance ou à la luminance, respectivement, dans le faisceau élémentaire.'
+  - La loi fondamentale de la radiométrie et de la photométrie est basée sur l'étendue
+    géométrique.
+dateAccepted: 2018-11-17
+id: a4d59e7a-f2e7-5fc4-8749-2c52827bdee0
+status: Standard

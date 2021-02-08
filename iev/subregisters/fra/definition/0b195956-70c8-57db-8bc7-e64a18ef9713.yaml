@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 67f8fe93-e0d4-515f-b147-f97738a067b0
+  definition: 'notation symbolique exprimée formellement comme un vecteur, utilisée
+    pour représenter des opérateurs différentiels scalaires ou vectoriels s''appliquant
+    en tout point d''un domaine déterminé de l''espace à des scalaires ou à des vecteurs,
+    et qui, en coordonnées cartésiennes orthonormées, est représentée par
+
+
+    stem:[grad = e_x ( del )/((del x)) + e_y ( del )/((del y)) + e_z ( del )/((del
+    z))]
+
+
+    où stem:[e_x , e_y , e_z] sont les vecteurs unités des axes stem:[x], stem:[y],
+    stem:[z]'
+  examples: []
+  notes:
+  - Il est recommandé d'imprimer le symbole *∇* en gras.
+dateAccepted: 2018-11-17
+id: 0b195956-70c8-57db-8bc7-e64a18ef9713
+status: Standard

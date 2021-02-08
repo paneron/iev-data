@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.15
+      original: IEC TR 62907:2014, 3.1.15, modifié – Traduit à partir de l'anglais
+        (l'IEC TR 62907 est monolingue). Le terme préféré "cas d'utilisation AAD"
+        a été ajouté; dans le synonyme anglais, le mot "ambient" a été remplacé par
+        "active"; dans la définition anglaise, "hypothetically possible" a été remplacé
+        par "typical" et "where AAL concepts, products and services may improve the
+        quality of life" a été remplacé par "in which active assisted living can be
+        realized"; la note a été modifiée à des fins de clarté.
+      ref: IEC/TR 62907:2014
+      relationship:
+        modification: Traduit à partir de l'anglais (l'IEC TR 62907 est monolingue).
+          Le terme préféré "cas d'utilisation AAD" a été ajouté; dans le synonyme
+          anglais, le mot "ambient" a été remplacé par "active"; dans la définition
+          anglaise, "hypothetically possible" a été remplacé par "typical" et "where
+          AAL concepts, products and services may improve the quality of life" a été
+          remplacé par "in which active assisted living can be realized"; la note
+          a été modifiée à des fins de clarté.
+        type: modified
+  concept: 179b1c53-116e-5c52-b253-c99a47f61518
+  definition: description d’une situation ou d’une série d’événements typique dans
+    laquelle l’assistance à l’autonomie à domicile peut être réalisée
+  examples: []
+  notes:
+  - L’objectif d’un cas d’utilisation AAD est de décrire un scénario problématique
+    de manière à mettre en évidence la dimension temporelle, spatiale et technique
+    des approches AAD des solutions.
+dateAccepted: 2018-11-17
+id: b4117df8-e8c8-5c28-8ccb-02c28322b302
+status: Standard

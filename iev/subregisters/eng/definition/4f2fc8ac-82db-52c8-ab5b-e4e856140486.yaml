@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 20323dc6-c2ed-502e-bccc-06fc2d0d0572
+  definition: the ratio, generally expressed in decibels, of the apparent power that
+    a specified source would deliver to a load with zero reflection factor at its
+    interface with the source, to the apparent power delivered to a specified load
+    after insertion of a given two port device between the source and the load
+  examples: []
+  notes:
+  - If the ratio defining the composite loss is less than one, its decibel value is
+    negative and its converse or its opposite value in decibels called composite gain
+    may be used.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 4f2fc8ac-82db-52c8-ab5b-e4e856140486
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: d5c4bf75-f2f1-52fa-a78d-92d7f38331b9
+  definition: 'rapport de la profondeur de pénétration stem:[λ] à la longueur de cohérence
+    stem:[ξ]
+
+
+    stem:[kappa_((GL)) = lambda // xi]'
+  examples: []
+  notes:
+  - Pour un supraconducteur de type II, stem:[kappa_((GL)) &gt; 1 // sqrt(2)]; stem:[kappa_((GL))
+    = H_((c2)) // ( sqrt(2) H_c )], où stem:[H_(c2)] est le champ magnétique critique
+    supérieur et stem:[H_c] le champ magnétique critique.
+  - Pour un supraconducteur de type I, stem:[kappa_((GL)) 1 // sqrt(2)].
+dateAccepted: 2018-11-17
+id: 2f0c455f-0059-5a5a-99cf-f8363f8369a8
+status: Standard

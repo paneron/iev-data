@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: aae1a4a5-b294-50d6-8b56-ea19b37814ac
+  definition: 'relais temporisé dans lequel la sortie passe à l''état de travail lorsque
+    l''alimentation et le signal de commande sont appliqués et que la temporisation
+    réglée est écoulée; la sortie passe à l’état de repos lorsque le signal de commande
+    est retiré et que la temporisation réglée est écoulée (voir Figure 4)
+
+
+    image::/assets/images/parts/445/445-01-05fr.gif[]'
+  examples: []
+  notes:
+  - – Il convient que les effets de manœuvres ou réamorçages subséquents sur le comportement
+    du relais soient spécifiés par le fabricant.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: df4f9a15-6325-5ff2-a3d4-9ba628126e94
+status: Standard

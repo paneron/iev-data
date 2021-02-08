@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7d0dce00-4112-5b7f-a020-040d0f8cf0e0
+  definition: 'perméabilité complexe d''une substance saturée par un champ magnétique
+    statique lorsqu''elle est soumise à une onde électromagnétique dont le vecteur
+    stem:[vec H] est polarisé circulairement dans le plan perpendiculaire au champ
+    magnétostatique:
+
+
+    stem:[μ]~+~ = stem:[μ]~r~ + stem:[κ]~r~
+
+
+    stem:[μ]~−~ = stem:[μ]~r~ − stem:[κ]~r~
+
+
+    où stem:[μ]~r~ et stem:[κ]~r~ sont les composantes de la perméabilité tensorielle
+    de Polder'
+  examples: []
+  notes:
+  - L'indice de stem:[μ] correspond au signe apparaissant dans l'expression mathématique;
+    stem:[μ]~+~ et stem:[μ]~−~ correspondent respectivement au cas où le vecteur stem:[vec
+    H] tourne en fonction du temps dans le sens inverse des aiguilles d'une montre
+    et au cas où il tourne dans l'autre sens lorsqu'il est vu dans la direction du
+    champ magnétostatique appliqué.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: d94f7dad-ad63-5038-b7c1-ac9f95eac244
+status: Standard

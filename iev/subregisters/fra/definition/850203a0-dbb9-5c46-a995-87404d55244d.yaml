@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1407ef0d-8614-59b1-93d3-70857d7b44fd
+  definition: tenseur du quatrième ordre défini par la forme quadrilinéaire égale
+    au produit des formes bilinéaires qui définissent deux tenseurs du deuxième ordre
+    sur le même espace euclidien
+  examples: []
+  notes:
+  - 'Les coordonnées du produit tensoriel des tenseurs stem:[T] et stem:[S] sont:
+    stem:[(( T ox S ))_((i j k l)) = T_((i j)) S_((k l))].'
+  - Le produit tensoriel de deux tenseurs est noté stem:[T ox S].
+dateAccepted: 2018-11-17
+id: 850203a0-dbb9-5c46-a995-87404d55244d
+status: Standard

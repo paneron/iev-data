@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 28575be9-90a8-53c6-86df-7bd90666a047
+  definition: coordinates expressing the quotients of each of a set of three <a href="IEV845-23-038">tristimulus
+    values</a> and their sum
+  examples: []
+  notes:
+  - As the sum of the three chromaticity coordinates is equal to 1, two of them are
+    sufficient to define a chromaticity.
+  - In the CIE standard colorimetric systems, the chromaticity coordinates are represented
+    by the symbols stem:[x], stem:[y], stem:[z] or stem:[x]~10~, stem:[y]~10~, stem:[z]~10~.
+  - The chromaticity coordinates have unit one.
+  - This entry was numbered 845-03-33 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 599982fb-4673-57f2-9ff7-d3a41ce45f55
+status: Standard

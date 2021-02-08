@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 450e1c6e-7f91-596f-8a1c-92014eec9086
+  definition: the highest frequency that would permit acceptable performance of a
+    radio circuit by signal propagation via the ionosphere between given terminals
+    below the ionosphere at a given time, under specified working conditions
+  examples: []
+  notes:
+  - Acceptable performance may for example be quoted in terms of maximum error ratio
+    or required signal/noise ratio.
+  - Specified working conditions may include such factors as antenna types, transmitter
+    power, class of emission and required information rate.
+  - The acronym MUF stands for "Maximum Usable Frequency".
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: ffdcafb7-aa57-518b-87bd-122afcf81113
+status: Standard

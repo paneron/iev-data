@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 62e91f11-37e3-5184-8abb-1d3f574df78d
+  definition: espérance mathématique du temps de fonctionnement avant défaillance
+  examples: []
+  notes:
+  - Dans le cas des entités non réparables avec une distribution exponentielle des
+    temps de fonctionnement avant défaillance (c’est-à-dire avec un taux de défaillance
+    constant), la durée moyenne de fonctionnement avant défaillance est numériquement
+    égale à l’inverse du taux de défaillance. Cela est également vrai pour les entités
+    réparables si, après rétablissement, elles peuvent être considérées comme aussi
+    bonnes que neuves.
+  - Voir aussi temps de fonctionnement avant défaillance ({{192-05-01, IEV:192-05-01}}).
+dateAccepted: 2018-11-17
+id: f2cb52e1-15a7-528a-ace7-d7c9261312f6
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 195-04-14
+      link: null
+      original: 195-04-14
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 5425ac17-b5d0-5e2d-9c12-3d509790b85e
+  definition: occurrence d'un chemin conducteur accidentel entre un conducteur sous
+    tension et la terre
+  examples: []
+  notes:
+  - Le chemin conducteur peut passer par une isolation défectueuse, par des structures
+    (par exemple supports de ligne, échafaudages, grues, échelles) ou encore par la
+    végétation (par exemple arbres, buissons) et peut présenter une impédance non
+    négligeable.
+  - Un chemin conducteur entre un conducteur qui n’est pas mis à la terre, pour des
+    raisons fonctionnelles, et la Terre est aussi considérée comme un défaut à la
+    terre.
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: 72cae9eb-e352-50ce-9f9f-8154b0231f8f
+status: Standard

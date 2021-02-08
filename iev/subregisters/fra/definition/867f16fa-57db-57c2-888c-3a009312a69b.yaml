@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: f9f9bf06-4057-579a-b95b-3f36f2a81ee3
+  definition: distorsion linéaire qui apparaît lorsque la caractéristique phase-fréquence
+    d'une voie de transmission ou d'un biporte n'a pas la forme idéale dans la bande
+    des fréquences utiles
+  examples: []
+  notes:
+  - La forme idéale de la caractéristique phase-fréquence est une droite dont l'ordonnée
+    sur l'axe des phases pour la fréquence zéro est nulle ou multiple de π radians.
+  - La distorsion phase-fréquence diffère de la distorsion du temps de propagation
+    de groupe par l'addition d'un angle de phase constant à toutes les composantes
+    spectrales significatives du signal. Si l'ordonnée pour la fréquence zéro est
+    multiple de π, cette addition ne modifie pas le signal, ou le change simplement
+    de signe.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 867f16fa-57db-57c2-888c-3a009312a69b
+status: Standard

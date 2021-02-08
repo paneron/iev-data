@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: '9.9'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 9.9
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: 634d97f9-c0e0-5f9d-9d37-74bc2df87afa
+  definition: new impression of a {{normative document, IEV:901-02-01}} that includes
+    changes to the previous edition
+  examples: []
+  notes:
+  - Even if only the content of existing {{correction, IEV:901-04-06}} or {{amendment,
+    IEV:901-04-07}} sheets is incorporated into the text of a normative document,
+    the new text constitutes a new edition.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: f61b9361-92c4-5e15-aca8-80a40d464506
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: '3.3'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.3
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  concept: 2b50ba80-5e89-55cd-a61b-d018fe7fc2fe
+  definition: 'valeur moyenne de la {{force maximale, IEV:523-03-01}} et de la {{force
+    minimale, IEV:523-03-02}} en charge d’{{amplitude, IEV:523-03-11}} constante,
+    ou des {{cycles, IEV:103-05-08}} individuels
+
+
+    Note à l''article: Cette définition est une version modifiée d''une définition
+    dans ASTM E 1823-05a.'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 4c32b9d6-dcc5-5474-891b-29a02b23c2ad
+status: Standard

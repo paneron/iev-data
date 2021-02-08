@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 307c1276-7b5f-5dea-a09f-f1ebb7b3e00b
+  definition: 'intégrale du carré du courant pour un intervalle de temps donné:
+
+
+    stem:[I^2 t = int_((t_0))^((t_1)) i^2 d t]'
+  examples: []
+  notes:
+  - L'stem:[I]^2^stem:[t] de préarc est l'intégrale stem:[I]^2^stem:[t] pour la durée
+    de préarc du fusible.
+  - L'stem:[I]^2^stem:[t] de fonctionnement est l'intégrale stem:[I]^2^stem:[t] pour
+    la durée de fonctionnement du fusible.
+  - L'énergie en joules libérée dans une portion ayant une résistance de un ohm d'un
+    circuit protégé par un fusible est égale à la valeur de stem:[I]^2^stem:[t] de
+    fonctionnement exprimée en stem:[A]^2^ • stem:[s].
+dateAccepted: '2000-07-01T00:00:00+00:00'
+id: 3f549b84-cf75-54d7-84a5-296ed679b0ae
+status: Standard

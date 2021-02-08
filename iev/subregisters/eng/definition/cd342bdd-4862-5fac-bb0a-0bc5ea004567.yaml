@@ -1,0 +1,37 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0b5a7d70-2f9b-57e5-bb54-db78514650eb
+  definition: 'quantity representing the quantities in a finite set or in an interval,
+
+
+
+    . for stem:[n] quantities stem:[x_1 , x_2 , ... x_n], by the reciprocal of the
+    mean value of their reciprocals:
+
+
+    stem:[(1)/((X_h)) = (1)/(n) ( (1)/((x_1)) + (1)/((x_2)) + ... + (1)/((x_n)) )]
+    if none of the stem:[n] quantities is equal to zero;
+
+
+    stem:[X_h = 0] if at least one quantity is equal to zero;
+
+
+    .  for a quantity stem:[x] depending on a variable stem:[t], by the quantity stem:[X_h]
+    defined by the reciprocal of the mean value of the reciprocal of the given quantity:
+
+
+    stem:[(1)/((X_h)) = (1)/(T) int_( 0)^( T) (1)/((x ( t ))) d t] if the value of
+    the integral is finite;
+
+
+    stem:[X_h = 0] in other cases'
+  examples: []
+  notes:
+  - The harmonic mean value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.
+  - The harmonic mean value of a quantity is denoted by adding the subscript h to
+    the symbol of the quantity.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: cd342bdd-4862-5fac-bb0a-0bc5ea004567
+status: Standard

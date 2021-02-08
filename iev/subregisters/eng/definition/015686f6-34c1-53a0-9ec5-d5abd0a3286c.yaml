@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7fa5e55b-fecb-516d-90c4-d1dc78b80b5c
+  definition: failures of multiple items, which would otherwise be considered independent
+    of one another, resulting from a single cause
+  examples: []
+  notes:
+  - Common cause failures can also be "common mode failures" ({{IEV 192-03-19, IEV:192-03-19}}).
+  - The potential for common cause failures reduces the effectiveness of system redundancy.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 015686f6-34c1-53a0-9ec5-d5abd0a3286c
+status: Standard

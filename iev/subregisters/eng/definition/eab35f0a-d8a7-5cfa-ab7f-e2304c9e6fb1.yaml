@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 3.4.3
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.3
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  concept: 7e7b0a2a-fe2f-5561-bf8c-90f8404c7b49
+  definition: maximum value of single-phase overcurrent which, in the absence of a
+    residual current, can flow through a residual current device (whatever the number
+    of poles) without causing it to operate
+  examples: []
+  notes:
+  - In the case of overcurrent in the main circuit, in the absence of residual current,
+    operation of the detecting device can occur as a consequence of asymmetry existing
+    in the detecting device itself.
+dateAccepted: '2019-05-01T00:00:00+00:00'
+id: eab35f0a-d8a7-5cfa-ab7f-e2304c9e6fb1
+status: Standard

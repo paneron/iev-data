@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0907c5dc-2dbd-589a-ac49-704885f48520
+  definition: part of a {{processor, IEV:171-04-01}} that retrieves {{instructions,
+    IEV:171-05-08}} from the {{main storage, IEV:171-04-21}}, {{interprets, IEV:171-05-28}}
+    each instruction, and applies signals to the {{arithmetic and logic unit, IEV:171-04-03}}
+    and other parts of the processor in accordance with this interpretation
+  examples: []
+  notes: []
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 0db72f0d-9997-5e55-ba62-398b28560b65
+status: Standard

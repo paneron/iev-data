@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 121-13-25
+      link: https://webstore.iec.ch/publication/169
+      original: IEC 60050-121:1998, 121-13-25
+      ref: IEC 60050-121:1998
+      relationship:
+        type: identical
+  concept: 0009aed0-4582-5ae7-b126-9c2beeaf21f9
+  definition: macroscopic quantum effect in which a direct current of Cooper pairs
+    flows by tunnelling through a Josephson junction without power dissipation
+  examples: []
+  notes:
+  - The maximum value of the dissipationless direct current is strongly dependent
+    on the applied magnetic flux density.
+dateAccepted: '2015-11-01T00:00:00+00:00'
+id: 212d684e-be5c-5dda-ab39-6f3eda6f7ae4
+status: Standard

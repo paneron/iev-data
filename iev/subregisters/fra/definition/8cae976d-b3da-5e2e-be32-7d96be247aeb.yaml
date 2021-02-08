@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 69610f18-dc06-5cff-9ad6-32247f5c8213
+  definition: durée cumulée des intervalles de temps pendant lesquels un {{système
+    à pile à combustible, IEV:485-09-01}} génère de la puissance électrique
+  examples: []
+  notes:
+  - Le temps de génération inclut à la fois le temps que le système de puissance fournit
+    de l'électricité au réseau et le temps que la puissance générée est consommée
+    par la {{charge parasite, IEV:485-09-08}} uniquement.
+dateAccepted: 2018-11-17
+id: 8cae976d-b3da-5e2e-be32-7d96be247aeb
+status: Standard

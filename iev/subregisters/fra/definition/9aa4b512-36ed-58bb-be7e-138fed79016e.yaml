@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: '2.16'
+      link: https://www.iso.org/standard/57385.html
+      original: ISO/IEC Guide 71:2014, 2.16, modifié – "individus" remplacé par "personnes"
+        pour des raisons de cohérence interne du présent document
+      ref: ISO/IEC Guide 71:2014
+      relationship:
+        modification: '"individus" remplacé par "personnes" pour des raisons de cohérence
+          interne du présent document'
+        type: modified
+  concept: ecc86ae6-8b0a-5009-a3ea-91189bf8655b
+  definition: équipement, système, matériel informatique, logiciel ou service utilisé
+    pour augmenter, maintenir ou améliorer les capacités des personnes
+  examples: []
+  notes:
+  - '"technologie d’aide" est un terme général plus large que "{{produits d’assistance,
+    IEV:871-04-04}}".'
+  - La technologie d’aide peut inclure les services d’aide et les services professionnels
+    nécessaires à l’évaluation, la recommandation et la mise à disposition.
+dateAccepted: 2018-11-17
+id: 9aa4b512-36ed-58bb-be7e-138fed79016e
+status: Standard

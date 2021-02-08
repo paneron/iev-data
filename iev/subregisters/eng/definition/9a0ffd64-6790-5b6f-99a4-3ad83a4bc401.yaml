@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0b539e59-b34a-5753-bc76-f940c810fd68
+  definition: quotient of five times the sum of the area of the walls bounded by the
+    ceiling and the plane of the luminaires and the sum of the areas of the ceiling
+    and the plane of the luminaires, used in the calculation of the utilization factor
+    or utilance
+  examples: []
+  notes:
+  - 'The ceiling cavity ratio is given by the formula
+
+
+    stem:[K_c = ((5 h_c ( a + b )))/((a b))]
+
+
+    where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h]~c~
+    is the distance from the ceiling to the plane of the luminaires.'
+  - See also "<a href="IEV845-29-076">floor cavity ratio</a>" and "<a href="IEV845-29-072">room
+    cavity ratio</a>".
+  - The ceiling cavity ratio has unit one.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 9a0ffd64-6790-5b6f-99a4-3ad83a4bc401
+status: Standard

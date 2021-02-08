@@ -1,0 +1,66 @@
+data:
+  authoritative_source:
+  - null
+  concept: 95fff103-2abd-5efb-9f4d-de35c5229fe6
+  definition: circuit combinatoire qui effectue une opération booléenne en une ou
+    deux étapes
+  examples: []
+  notes:
+  - 'Exemples d''opérateurs logiques binaires élémentaires:
+
+
+    <table>
+
+    <tr>
+
+    <td>Opérateur NON</td>
+
+    <td>complémentation;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>Opérateur ET</td>
+
+    <td>produit logique;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>Opérateur OU</td>
+
+    <td>somme logique;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>Opérateur ET-NON</td>
+
+    <td>produit logique complémenté;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>Opérateur NI</td>
+
+    <td>somme logique complémentée;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>Opérateur XOR</td>
+
+    <td>somme logique exclusive.</td>
+
+    </tr>
+
+    </table>'
+  - Cet article était numéroté 351-29-13 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 828362e6-489b-5e25-8736-3c6611d9cfe5
+status: Standard

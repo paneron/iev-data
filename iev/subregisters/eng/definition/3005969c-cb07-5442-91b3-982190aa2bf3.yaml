@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: '3.4'
+      original: IEC Guide 109:2012, 3.4
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  concept: 890e9cce-72c1-5fcc-9452-bf3e15ac985d
+  definition: element of an {{organization, IEV:901-03-02}}'s activities or products
+    that can interact with the {{environment, IEV:904-01-01}}
+  examples: []
+  notes:
+  - A significant environmental aspect has or can have a significant {{environmental
+    impact, IEV:904-01-03}}.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 3005969c-cb07-5442-91b3-982190aa2bf3
+status: Standard

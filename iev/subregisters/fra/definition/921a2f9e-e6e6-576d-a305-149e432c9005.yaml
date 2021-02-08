@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 21569b57-58ab-5754-9a0f-f8c2a5ae3b8e
+  definition: état caractérisé par l’aptitude à fonctionner tel que requis
+  examples: []
+  notes:
+  - L’absence de ressources externes nécessaires peut empêcher le fonctionnement,
+    mais n’a aucun impact sur l’état de disponibilité. Voir état d’incapacité externe
+    ({{192-02-23, IEV:192-02-23}}).
+  - L’état de disponibilité est lié à la disponibilité de l’entité.
+  - Une entité peut être considérée comme étant en état de disponibilité pour certaines
+    fonctions et en même temps en état d’indisponibilité pour d’autres fonctions.
+  - L’adjectif «disponible» qualifie une entité dans un état de disponibilité.
+dateAccepted: 2018-11-17
+id: 921a2f9e-e6e6-576d-a305-149e432c9005
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 656a09e3-5972-549b-85d0-62246e2687d7
+  definition: input signal which can be applied during the time delay to cancel the
+    time delay and return the time relay to the release condition
+  examples: []
+  notes:
+  - The reset signal is designed to close or open an electrical circuit.
+  - The reset signal is a separate input from the control signal.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: bba73589-98be-5ca7-8bb3-0fd69b55fe40
+status: Standard

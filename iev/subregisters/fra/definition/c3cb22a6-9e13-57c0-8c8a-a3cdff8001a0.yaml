@@ -1,0 +1,37 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6abb7961-43b0-5473-a728-e47e9377a26a
+  definition: 'coefficient établi par détermination de la relation entre l’absorption
+    de deux longueurs d’onde: l’une avec absorption minimale en raison des impuretés
+    OH, l’autre avec absorption élevée en raison de la présence d’impuretés OH dans
+    le réseau cristallin
+
+
+    stem:[alpha = (1)/(t) (log)_((10)) ((T_1))/((T_2))]
+
+
+    où
+
+
+    stem:[α ]est le coefficient d’absorption dans l’infrarouge;
+
+
+    stem:[t] est l’épaisseur de l’échantillon de coupe Y, en centimètres;
+
+
+    stem:[T]~1~ est le pourcentage de transmission à un nombre d’onde de 3 800 cm^–1^
+    ou 3 979 cm^–1^;
+
+
+    stem:[T]~2~ est le pourcentage de transmission à un nombre d’onde de 3 410 cm^–1^,
+    3 500 cm^–1^ ou 3 585 cm^–1^'
+  examples: []
+  notes:
+  - Les impuretés OH sont à l’origine d’une perte mécanique dans les résonateurs et
+    leur présence est corrélée à celle d’autres impuretés induisant une perte. La
+    valeur stem:[α] est une mesure de la concentration OH et est corrélée aux pertes
+    mécaniques prévues dues aux impuretés du matériau.
+dateAccepted: 2018-11-17
+id: c3cb22a6-9e13-57c0-8c8a-a3cdff8001a0
+status: Standard

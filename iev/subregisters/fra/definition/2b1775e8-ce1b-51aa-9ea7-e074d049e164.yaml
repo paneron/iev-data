@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: '3.1'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 3.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: b36adfa9-e976-58d7-94f8-2f41043d2fa9
+  definition: document qui donne des règles, des lignes directrices ou des caractéristiques
+    pour des activités ou leurs résultats
+  examples: []
+  notes:
+  - L'expression «document normatif» est un terme générique qui recouvre les documents
+    tels que les {{norme, IEV:901-02-02}}s, les {{spécifications techniques, IEV:901-02-08}},
+    les {{codes de bonne pratique, IEV:901-02-09}} et les {{règlements, IEV:901-02-10}}.
+  - On considère comme «document» tout support d'information avec l'information qu'il
+    porte.
+  - Les termes relatifs aux différents types de documents normatifs sont définis comme
+    comprenant le document et son contenu considérés comme un tout.
+dateAccepted: 2018-11-17
+id: 2b1775e8-ce1b-51aa-9ea7-e074d049e164
+status: Standard

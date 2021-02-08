@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 533af488-519b-5162-8bf3-cee9096809ff
+  definition: '1. ensemble, obtenu par multiplexage en fréquence, d''un nombre spécifié
+    de groupes secondaires, normalement cinq, occupant des bandes de fréquences contiguës,
+    avec des bandes de garde entre eux
+
+
+    2. bande de fréquences de largeur normalisée à 1 232 kHz et occupant l''une d''un
+    certain nombre de positions spectrales spécifiées dans une transmission multiplex
+    à courants porteurs'
+  examples: []
+  notes:
+  - Un groupe tertiaire est normalement un ensemble de 300 voies téléphoniques à courant
+    porteur.
+  - Aux Etats-Unis, le terme "mastergroup" désigne un ensemble de 10 groupes secondaires,
+    soit normalement 600 voies téléphoniques à courant porteur, occupant une largeur
+    de bande de 2 520 kHz.
+  - Un signal ne provenant pas d'un assemblage de groupes secondaires, mais ayant
+    des caractéristiques spécifiées, peut occuper tout ou partie d'un groupe tertiaire.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 4a113447-5cb4-56ea-97a2-06c7e9c7495a
+status: Standard

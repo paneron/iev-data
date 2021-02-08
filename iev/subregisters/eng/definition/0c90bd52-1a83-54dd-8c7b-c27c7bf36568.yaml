@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: a5f2d80f-064e-54b6-905d-21fbaf493204
+  definition: time difference between the end time, stem:[t]~e~, and the start time,
+    stem:[t]~s~, of an <a href="IEV845-21-002">optical radiation</a> exposure
+  examples: []
+  notes:
+  - For a single pulse, the exposure duration is the duration between the half-peak
+    power point of the leading edge and the corresponding point on the trailing edge.
+    For a train of pulses (or subsections of a train of pulses), the exposure duration
+    is the duration between the first half-peak power point of the leading pulse and
+    the last half-peak power point of the trailing pulse.
+  - The exposure duration is expressed in seconds (s).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 0c90bd52-1a83-54dd-8c7b-c27c7bf36568
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8322174a-334f-57b1-90e2-ed1218ce26dc
+  definition: non-orthogonal sampling where the sampling instants of one scanning
+    line lie centrally between the sampling instants of the temporally adjacent lines
+    of the same field
+  examples: []
+  notes:
+  - In the case of interlaced scanning, line-quincunx sampling is associated with
+    field-quincunx sampling.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 1de8cb88-98ce-5de5-9335-f1d734ed70aa
+status: Standard

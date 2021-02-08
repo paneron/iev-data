@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: '2.2'
+      original: SI Brochure, 9th edition, 2019, 2.2, modified – The definition in
+        the SI Brochure has been revised to comply with the IEV rules.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: The definition in the SI Brochure has been revised to comply
+          with the IEV rules.
+        type: modified
+  concept: 7c9cf729-cf93-5e3b-80a6-52b9433a3ad8
+  definition: '{{fundamental physical constant, IEV:112-03-09}} governing, among others,
+    quantum effects and the relation between the {{frequency, IEV:103-06-02}} stem:[f]
+    of {{electromagnetic radiation, IEV:731-01-01}} and the {{energy, IEV:113-03-45}}
+    stem:[E] = stem:[hf] of the corresponding {{photons, IEV:113-05-14}}, the value
+    of which is set to 6,626 070 15 × 10^−34^ {{J, IEV:113-03-46}} {{s, IEV:112-02-04}}'
+  examples: []
+  notes:
+  - The Planck constant is used in the {{SI, IEV:112-02-02}} to define the {{kilogram,
+    IEV:112-02-06}}.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 1132235c-0c0d-561b-9f1d-09c7f5890b95
+status: Standard

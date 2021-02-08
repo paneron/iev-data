@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: dd1f8b8b-f764-5905-88b2-080007af453d
+  definition: 'quotient of the spectral responsivity, stem:[s](stem:[λ]), of the detector
+    at wavelength, stem:[λ], and a specified reference value, stem:[s]~m~
+
+
+    stem:[s_r ( lambda ) = ((s ( lambda )))/((s_m))]'
+  examples: []
+  notes:
+  - The specified reference value, stem:[s]~m~, can be an average value, a maximum
+    value or an arbitrarily chosen value of stem:[s](stem:[λ]).
+  - The relative spectral responsivity has unit one.
+  - This entry was numbered 845-05-57 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 8d078567-643d-539a-80ab-27d1dbfae578
+status: Standard

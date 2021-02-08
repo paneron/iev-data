@@ -1,0 +1,36 @@
+data:
+  authoritative_source:
+  - - clause: '3.9'
+      original: IEC Guide 117:2010, 3.9, modified – The term and definition have been
+        specified in the singular. The text "(in some standards, accessible surfaces
+        or accessible parts)" has been deleted and the synonym "accessible surface"
+        has been specified in the appropriate field.
+      ref: IEC Guide 117:2010
+      relationship:
+        modification: The term and definition have been specified in the singular.
+          The text "(in some standards, accessible surfaces or accessible parts)"
+          has been deleted and the synonym "accessible surface" has been specified
+          in the appropriate field.
+        type: modified
+  concept: c7c044f0-2818-520b-b8fc-60f50fa755ef
+  definition: "surface defined as touchable (or accessible) in the end-product standard,\
+    \ taking into account the intended installation of the equipment and surfaces\
+    \ within {{arm’s reach, IEV:903-03-03}}, other than:\r\n\r\n* {{hot functional\
+    \ surfaces, IEV:903-03-01}};\r\n* {{adjacent surfaces, IEV:903-03-02}}; and\r\n\
+    * handles or control knobs, including keypads, keyboards and the like, that a\
+    \ user needs to touch to operate or adjust the equipment"
+  examples: []
+  notes:
+  - 'See Figure 1 for examples of the types of surfaces that may be encountered.
+
+
+    image::/assets/images/parts/903/ACOS-Guide117_2010_F1_en.jpg[]
+
+
+    Figure 1 – Identification of the touchable parts of equipment (cross-hatched area)'
+  - The equipment has to be installed according to the manufacturer’s instructions.
+    This means that an oven intended for building-in should be installed according
+    to the manufacturer’s instructions before identification of the touchable surfaces.
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: 9433d361-727b-58be-a348-57685e3006d6
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 22aa65b4-18f6-5bf1-897b-482b0837e7b6
+  definition: one of the coordinates that is used to describe the position within
+    a system, where stem:[i] = 1, 2, …, stem:[N], and stem:[N] is the degree of freedom
+    or lowest number of coordinates necessary to fully define the position
+  examples: []
+  notes:
+  - The unit depends on the type of representation of the system. In mechanics, the
+    generalized coordinates may be length or angle.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 47a0e064-4575-595a-ae33-3043a77a3057
+status: Standard

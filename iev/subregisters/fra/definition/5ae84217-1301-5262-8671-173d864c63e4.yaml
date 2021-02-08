@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: f021f8ed-13e8-5c10-b131-42c60236d4ca
+  definition: l'un des éléments d'un ensemble fini de {{nombres entiers, IEV:102-02-02}}
+    employé pour représenter des {{informations, IEV:701-01-01}}
+  examples: []
+  notes:
+  - Un élément numérique peut être représenté par un {{élément de signal, IEV:702-05-01}}.
+  - Dans les appareils utilisés pour la {{transmission numérique, IEV:704-01-08}},
+    un élément numérique peut être représenté par un état physique spécifié, par exemple,
+    l'état magnétique binaire d'un noyau de ferrite.
+  - Le terme anglais "digit" se traduit en français par "chiffre" lorsqu'il est utilisé
+    en numération décimale pour désigner 1, 2, ..., 9, 0 (voir {{IEV 714-07-06, IEV:714-07-06}}).
+dateAccepted: 2018-11-17
+id: 5ae84217-1301-5262-8671-173d864c63e4
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 58b26790-c452-5f03-89d3-d993cfd0399c
+  definition: fonction qui représente la sensibilité spectrale relative de l'œil humain
+    aux dangers de la lumière bleue, sur la base de l'efficacité spectrale relative
+    d'un <a href="IEV845-21-002">rayonnement optique</a> à provoquer une lésion photochimique
+    rétinienne (par exemple, maculopathie photique)
+  examples: []
+  notes:
+  - 'La plage de longueurs d''onde pour la fonction de pondération spectrale du danger
+    de la lumière bleue est spécifiée dans les recommandations de l''ICNIRP comme
+    suit: stem:[λ] = 300 nm à, stem:[λ] = 700 nm.'
+  - L'unité de fonction de pondération spectrale du danger de la lumière bleue est
+    un.
+dateAccepted: 2018-11-17
+id: 1ecf1092-48e1-5435-9270-f70eb0835d49
+status: Standard

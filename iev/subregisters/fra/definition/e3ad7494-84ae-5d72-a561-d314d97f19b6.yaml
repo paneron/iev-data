@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 3.2.4
+      original: IEC TS 80004-9:2017, 3.2.4
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  concept: bde9132f-c098-510d-bed6-ba7e8b103dab
+  definition: branche de l'{{électronique organique, IEV:511-02-03}} qui permet de
+    fabriquer des {{dispositifs, IEV:511-01-01}} électroniques de grande surface (≫
+    1 mm^2^)
+  examples: []
+  notes:
+  - Les dispositifs électroniques peuvent aussi contenir des parties qui sont fabriquées
+    avec des matériaux inorganiques.
+  - Les méthodes de fabrication incluent les processus sous vide ainsi que différentes
+    méthodes d'impression.
+dateAccepted: 2018-11-17
+id: e3ad7494-84ae-5d72-a561-d314d97f19b6
+status: Standard

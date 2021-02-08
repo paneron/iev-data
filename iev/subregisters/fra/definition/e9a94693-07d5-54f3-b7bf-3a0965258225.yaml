@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7d1229d2-3012-5025-a97a-66fbe15bac02
+  definition: distorsion d'un signal qui résulte d'un écrêtage par le quantificateur
+    dans une modulation par impulsions et codage différentiel
+  examples: []
+  notes:
+  - La distorsion de dépassement de pente est due à l'incapacité du quantificateur
+    à suivre correctement de grandes différences entre les échantillons successifs
+    appliqués à l'entrée.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: e9a94693-07d5-54f3-b7bf-3a0965258225
+status: Standard

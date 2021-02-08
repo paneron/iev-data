@@ -1,0 +1,35 @@
+data:
+  authoritative_source:
+  - null
+  concept: be7fb88a-4378-5449-982e-ba5cae506c61
+  definition: 'grandeur représentant les grandeurs d’un ensemble fini ou d’un intervalle,
+
+
+
+    . pour stem:[n] grandeurs positives stem:[x_1 , x_2 , ... x_n], par la racine
+    stem:[n]-ième positive de leur produitstem:[:]
+
+
+    stem:[X_g = ( x_1 * x_2 * ... * x_n )^(1 // n)]
+
+
+    .  pour une grandeur stem:[x] fonction de la variable stem:[t], par la grandeur
+    stem:[X_g] déterminée à partir des valeurs de la grandeur stem:[x](stem:[t]) par
+    l''expression
+
+
+    stem:[log ((X_g))/((x_((ref)))) = (1)/(T) int_( 0)^( T) log ((x ( t )))/((x_((ref))))
+    d t]
+
+
+    où stem:[x_((ref))] est une valeur de référence'
+  examples: []
+  notes:
+  - La valeur moyenne géométrique d'une grandeur périodique est généralement prise
+    sur un intervalle d'intégration dont l’étendue est le produit de la période par
+    un entier naturel.
+  - La valeur moyenne géométrique d'une grandeur est notée en ajoutant l'indice g
+    au symbole de la grandeur.
+dateAccepted: 2018-11-17
+id: 4c6088ac-a415-5ed5-8ed9-8639393d4a14
+status: Standard

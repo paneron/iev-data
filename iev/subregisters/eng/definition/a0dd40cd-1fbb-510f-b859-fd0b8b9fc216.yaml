@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 172016c1-a2b3-5245-9016-36979e6cec14
+  definition: quantitative expression marking an instant within a calendar day by
+    the duration elapsed after midnight in the local standard time
+  examples: []
+  notes:
+  - 1 Usually, clock time is represented by the number of hours elapsed after midnight,
+    the number of minutes elapsed after the last full hour, and, if necessary, the
+    number of seconds elapsed after the last full minute, possibly with decimal parts
+    of a second. Examples of the standardized representation are 09:01; 09:01:12;
+    09:01:12,23. The combination of calendar date and clock time is denoted by inserting
+    T; an example is 1998-11-15T09:01:12. (See ISO 8601).
+  - 2 The duration used in the definition is modified for special situations (daylight
+    saving time, leap second).
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: a0dd40cd-1fbb-510f-b859-fd0b8b9fc216
+status: Standard

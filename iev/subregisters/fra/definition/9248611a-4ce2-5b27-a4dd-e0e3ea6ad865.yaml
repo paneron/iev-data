@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: fd269e8d-7990-5484-a016-1075705bc539
+  definition: phénomène par lequel l’intervalle de temps entre la première impulsion
+    et la suivante est trop court pour permettre à l’amplificateur de répondre correctement
+    à l’impulsion suivante
+  examples: []
+  notes:
+  - Le phénomène d’empilement engendrera une dégradation de la résolution, et peut
+    provoquer une erreur non négligeable.
+  - Les systèmes modernes peuvent détecter et rejeter automatiquement les fractions
+    significatives des impulsions accumulées.
+  - Cet article était numéroté 394-39-14 dans la CEI 60050-394:2007.
+dateAccepted: 2018-11-17
+id: 9248611a-4ce2-5b27-a4dd-e0e3ea6ad865
+status: Standard

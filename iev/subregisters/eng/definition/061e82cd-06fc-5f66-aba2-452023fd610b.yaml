@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 86ffbfa8-7e62-5f49-b59b-07248b1da1e2
+  definition: the addition of a constant number of signal elements at regular intervals
+    to a digital signal to increase the digit rate from its original value to a predetermined
+    higher value
+  examples: []
+  notes:
+  - The added signal elements are not normally used to transmit information.
+  - The ratio of the digit rates need not be an integer but must be a rational number,
+    e.g. 64/62.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 061e82cd-06fc-5f66-aba2-452023fd610b
+status: Standard

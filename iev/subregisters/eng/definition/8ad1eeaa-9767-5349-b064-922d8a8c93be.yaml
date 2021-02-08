@@ -1,0 +1,39 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1915e19f-e932-52cd-8557-cdd7743e3810
+  definition: quotient of luminous flux and the corresponding radiant flux for a specified
+    photometric condition
+  examples: []
+  notes:
+  - The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+    If it is not specified, photopic vision is assumed and the symbol stem:[K] is
+    used. For other photometric conditions, the respective symbol for identification
+    shall be used.
+  - 'Luminous efficacy of radiation for photopic vision is expressed by
+
+
+    stem:[K = ((Phi_v))/(Phi_e)]
+
+
+    where stem:[Φ]~v~ is luminous flux and stem:[Φ]~e~ is radiant flux.'
+  - 'The value of the luminous efficacy of radiation for photopic vision for <a href="IEV845-21-014">monochromatic
+    radiation</a> of {{frequency, IEV:103-06-02}} stem:[ν]~cd~ = 540 × 10^12^ Hz is
+    defined as 683 lm·W^−1^ and denoted as stem:[K]~cd~. The corresponding wavelength,
+    stem:[lambda_((cd)) \ = n^(- 1) * c_((0)) * nu_(cd)^(- 1)] (where stem:[n] is
+    refractive index and stem:[c]~0~ is the {{speed of light in vacuum, IEV:113-01-34}})
+    in standard air, i.e. dry air at 15 °C and 101 325 Pa, containing 0,045 % of carbon
+    dioxide by volume (see P.E. Ciddor: _Refractive index of air: new equations for
+    the visible and near infrared, Appl. Opt. Vol 35, No. 9_, 1996, pp. 1566-1573),
+    is accepted to be 555,017 nm (rounded from 555,017 069 nm). This is very close
+    to 555 nm, the wavelength where stem:[V](stem:[λ]) reaches its maximum. For photometric
+    measurements made in air under real environmental conditions, the influence of
+    the variation of the refractive index on stem:[λ]~cd~ with respect to standard
+    air is typically in the range of a few picometres and can be neglected in most
+    cases.'
+  - See also "<a href="IEV845-21-091">spectral luminous efficacy</a>".
+  - The luminous efficacy of radiation is expressed in lumen per watt (lm·W^−1^).
+  - This entry was numbered 845-01-56 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 8ad1eeaa-9767-5349-b064-922d8a8c93be
+status: Standard

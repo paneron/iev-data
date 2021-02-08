@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2a4f65dc-9c67-595f-ad4e-c93022b50406
+  definition: continuous linear functional which assigns a real or complex number
+    to any function of a real or complex variable belonging to the class of infinitely
+    differentiable functions vanishing outside a bounded interval or domain
+  examples: []
+  notes:
+  - 'A function stem:[D](stem:[x]) can be considered as a distribution stem:[D] assigning
+    to a function stem:[f](stem:[x]) the value
+
+
+    stem:[D ( f ) = int_((- oo))^((+ oo)) D ( x ) f ( x ) d x] if this integral exists.'
+  - 'The derivative of a distribution stem:[D] is another distribution stem:[D]′ defined
+    for any function stem:[f](stem:[x]) by
+
+
+    stem:[D^( '' ) ( f ) = - D ( d f // d x )].'
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: eed6c4be-72a8-5a7b-959a-0997a51be695
+status: Standard

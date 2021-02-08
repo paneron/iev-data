@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 682ceb88-2326-5290-bfdb-a246a01f9c59
+  definition: for a network containing stem:[n] nodes and in which a reference direction
+    is chosen for each branch, square matrix of order stem:[n] where the element stem:[a]~stem:[ij]~
+    denotes the number of branches directed from node stem:[i] to node stem:[j]
+  examples: []
+  notes:
+  - The figure below gives a network and the corresponding adjacency matrix.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: a4cf8e4b-c165-5a42-acdb-08966baf1529
+status: Standard

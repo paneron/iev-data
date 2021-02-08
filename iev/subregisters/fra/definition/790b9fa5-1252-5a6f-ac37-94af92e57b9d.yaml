@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 13-30
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-30, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: 30dcf18a-9e21-542b-be13-7604c7325ef0
+  definition: 'logarithme de l''inverse de la probabilité de réalisation simultanée
+    stem:[p](stem:[x],stem:[y]) d’un couple de deux événements stem:[x] et stem:[y]
+
+
+    stem:[I ( x , y ) = log (1)/((p ( x , y )))]'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 790b9fa5-1252-5a6f-ac37-94af92e57b9d
+status: Standard

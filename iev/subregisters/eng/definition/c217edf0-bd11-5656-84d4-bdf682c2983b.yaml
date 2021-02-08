@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '8.2'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 8.2
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: 2e6e07ac-162f-5fe7-9039-7278497b8348
+  definition: information that is included in a {{normative document, IEV:901-02-01}}
+    but has no effect on its substance
+  examples: []
+  notes:
+  - In the case of a {{standard, IEV:901-02-02}}, additional elements may include,
+    for example, details of publication, foreword and notes.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: c217edf0-bd11-5656-84d4-bdf682c2983b
+status: Standard

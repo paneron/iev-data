@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: b3de189b-b070-533c-a746-456c00bd6bb0
+  definition: 'duration of maintenance, including active maintenance time, and technical
+    and logistic delays incurred, for a given maintenance action
+
+
+    image::/assets/images/parts/192/60050-192-F2en.png[Figure 2 - Maintenance times]'
+  examples: []
+  notes:
+  - In some cases, maintenance may be designed to be carried out while the item is
+    functioning.
+  - Maintenance time excludes fault detection time ({{192-07-11, IEV:192-07-11}})
+    and administrative delay ({{192-07-12, IEV:192-07-12}}).
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: f272149e-d726-5a04-84e7-e354b421486a
+status: Standard

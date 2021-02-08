@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1cd71d14-0173-505e-a9bf-d3e76ca7a8bb
+  definition: probability that a given maintenance action, performed under stated
+    conditions and using specified procedures and resources, can be completed within
+    the time interval (stem:[t]~1~, stem:[t]~2~) given that the action started at
+    stem:[t] = 0
+  examples: []
+  notes:
+  - When stem:[t]~1~ = 0 and stem:[t]~2~ = stem:[t], then stem:[M](0, stem:[t]) is
+    denoted simply as stem:[M](stem:[t]) and termed the maintainability function.
+  - See also maintainability &lt;of an item&gt; ({{192-01-27, IEV:192-01-27}}).
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 2e088445-092e-5cc5-b540-806154bd1968
+status: Standard

@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3e8d916f-cd0d-510e-9042-dab239b0cb3d
+  definition: pour une grandeur fonction du temps, racine carrée positive de la valeur
+    moyenne du carré de la grandeur prise sur un intervalle de temps donné
+  examples: []
+  notes:
+  - La valeur efficace d'une grandeur périodique est généralement prise sur un intervalle
+    d'intégration dont l’étendue est le produit de la période par un entier naturel.
+  - Pour une grandeur sinusoïdale stem:[a ( t ) = hat A cos ( omega t + vartheta_0
+    )], la valeur efficace est stem:[A_((eff)) = hat A // sqrt(2)].
+  - La valeur efficace d'une grandeur peut être notée en ajoutant l'indice eff au
+    symbole de la grandeur.
+  - En électrotechnique, les valeurs efficaces d'un courant électrique stem:[i ( t
+    )] et d’une tension électrique stem:[u ( t )] sont généralement notées respectivement
+    stem:[I] et stem:[U].
+  - L’abréviation anglaise RMS était anciennement écrite r.m.s. ou rms, mais ces notations
+    sont maintenant déconseillées.
+dateAccepted: 2018-11-17
+id: a64942a1-fc15-5897-b190-e6545368d954
+status: Standard

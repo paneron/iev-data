@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: '3.2'
+      link: https://webstore.iec.ch/publication/7077
+      original: IEC 62474:2012, definition 3.2, modified – in the Note 1 to entry,
+        “Such substances and substance groups” replaced by "Declarable substances
+        and declarable substance groups”
+      ref: IEC 62474:2012
+      relationship:
+        modification: in the Note 1 to entry, “Such substances and substance groups”
+          replaced by "Declarable substances and declarable substance groups”
+        type: modified
+  concept: 3094ffbd-d589-5522-8984-3d7e11bbb1be
+  definition: '{{substance, IEV:904-02-01}} and {{substance group, IEV:904-02-04}}
+    that meet the criteria stated in IEC 62474 and are specified in the IEC 62474
+    database'
+  examples: []
+  notes:
+  - Declarable substances and declarable substance groups are listed in the IEC 62474
+    database with either a mandatory or an optional reporting requirement above the
+    specified threshold in the IEC 62474 database.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 327e011a-f4e6-5829-be95-0d46db6eedbb
+status: Standard

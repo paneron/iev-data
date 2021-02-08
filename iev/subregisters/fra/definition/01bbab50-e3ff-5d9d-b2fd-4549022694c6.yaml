@@ -1,0 +1,35 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5286718d-0b77-52fd-9715-900c4eae7390
+  definition: "élément d'un vecteur *stem:[x]*(stem:[t]) dans un système d'équations\
+    \ différentielles\n\n<table>\r\n<tr>\n<td>stem:[overset(˙)(x) ( t ) = f x ( t\
+    \ ) , u ( t )]</td>\n<td>équation d'état</td>\n</tr>\r\n<tr>\n<td>stem:[v ( t\
+    \ ) = g x ( t ) , u ( t )]</td>\n<td>équation de sortie,</td>\n</tr>\r\n</table>\n\
+    \net pour les systèmes linéaires\n\n<table>\r\n<tr>\n<td>stem:[overset(˙)(x) (\
+    \ t ) = A * x ( t ) + B * u ( t )]</td>\n<td>équation d'état</td>\n</tr>\r\n<tr>\n\
+    <td>stem:[v ( t ) = C * x ( t ) + D * u ( t )]</td>\n<td>équation de sortie,</td>\n\
+    </tr>\r\n</table>\n\nà partir desquelles la course des éléments du vecteur de\
+    \ sortie *stem:[v]*(stem:[t]) peut être calculée, avec des valeurs initiales connues\
+    \ des éléments du vecteur stem:[x](stem:[t]) à tout instant stem:[t]~0~ (souvent\
+    \ avec stem:[t]~0~ = 0), avec une course connue des éléments du vecteur d’entrée\
+    \ *stem:[u]*(stem:[t]), et en partant de stem:[t]~0~\n\nVOIR: Figure 3."
+  examples: []
+  notes:
+  - "En cas de variables à temps discret, les équations sont les suivantes:\n\n<table>\r\
+    \n<tr>\n<td>*stem:[x]*~stem:[i]+1~ = *stem:[f]* (*stem:[x]*~stem:[i]~, *stem:[u]*~stem:[i]~)</td>\n\
+    <td>équation d'état</td>\n</tr>\r\n<tr>\n<td>*stem:[v]*~stem:[i]~ = *stem:[g]*\
+    \ (*stem:[x]*~stem:[i]~, *stem:[u]*~stem:[i]~)</td>\n<td>équation de sortie,</td>\n\
+    </tr>\r\n</table>\n\net pour les systèmes linéaires\n\n<table>\r\n<tr>\n<td>*stem:[x]*~stem:[i]+1~\
+    \ = *stem:[Φ]*·*stem:[x]*~stem:[i]~ + *stem:[H]*·*stem:[u]*~stem:[i]~</td>\n<td>équation\
+    \ d'état</td>\n</tr>\r\n<tr>\n<td>*stem:[v]*~stem:[i]~ = *stem:[C]*·*stem:[x]*~stem:[i]~\
+    \ + *stem:[D]*·*stem:[u]*~stem:[i]~</td>\n<td>équation de sortie.</td>\n</tr>\r\
+    \n</table>"
+  - 'Cet article était numéroté 351-21-08 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig3.png[Figure 3 - Linear transfer system
+    with state variables; Système de transfert linéaire avec variables d''état]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 01bbab50-e3ff-5d9d-b2fd-4549022694c6
+status: Standard

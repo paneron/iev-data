@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3c6bd36e-a0bc-5f38-83da-f90f80811daf
+  definition: the ratio, generally expressed in decibels, of that part of the radiation
+    intensity in a given direction, corresponding to a given polarization, to the
+    radiation intensity that would be obtained if the power accepted by the antenna
+    were radiated equally in all directions
+  examples: []
+  notes:
+  - If no direction is specified, the direction of maximum radiation intensity from
+    the given antenna is implied.
+  - The absolute gain of an antenna is the sum of the partial gains, expressed as
+    power ratios, for any two orthogonal polarizations.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 5b634269-18aa-5ba9-b5fd-d8ce8f6ceaa5
+status: Standard

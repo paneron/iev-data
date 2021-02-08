@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: ef43bde3-1f15-5601-93c3-d937ec935a4d
+  definition: duration between the instant when the {{characteristic quantity, IEV:447-07-01}}
+    of a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    in {{operate condition, IEV:447-02-01}} is changed beyond its {{disengage value,
+    IEV:447-02-18}}, under specified conditions, and the instant when a specified
+    {{output break circuit, IEV:447-04-09}} first closes
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: 0bc99e4f-3434-5a63-a2dd-24921792be7d
+status: Standard

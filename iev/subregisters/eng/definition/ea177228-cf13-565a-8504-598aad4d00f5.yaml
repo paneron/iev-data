@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: '4.30'
+      original: ≠ VIM 4.30
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: c4bf9006-e4e6-5c49-a899-4b679df41851
+  definition: set of operations carried out on a measuring an instrument in order
+    that it provides given indications corresponding to given values of the measurand
+  examples: []
+  notes:
+  - When the instrument is made to give a null indication corresponding to a null
+    value of the measurand, the set of operations is called zero adjustment.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: ea177228-cf13-565a-8504-598aad4d00f5
+status: Standard

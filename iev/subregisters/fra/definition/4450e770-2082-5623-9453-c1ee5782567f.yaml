@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 96d4747d-c043-5b51-b222-87222876789d
+  definition: en un point donné d'une surface donnée, aire d'un élément de cette surface
+    contenant le point et contenu dans une sphère de rayon infinitésimal
+  examples: []
+  notes:
+  - 'Pour une surface définie par *stem:[r]* = *stem:[f]*(stem:[u], stem:[v]), où
+    stem:[( u , v ) in U sube R^2], l''élément scalaire de surface est
+
+
+    stem:[| ((del f))/((del u)) xx ((del f))/((del v)) | * d u d v].'
+  - 'Pour une surface définie par l''équation stem:[z] = stem:[f](stem:[x], stem:[y]),
+    l''élément scalaire de surface est
+
+
+    stem:[sqrt(1 + ( ((del f))/((del x)) )^2 + ( ((del f))/((del y)) )^2) d x d y].'
+dateAccepted: 2018-11-17
+id: 4450e770-2082-5623-9453-c1ee5782567f
+status: Standard

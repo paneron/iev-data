@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6de3d966-2d58-50d6-b225-737958ff58e4
+  definition: 'grandeur scalaire égale au flux de la densité de courant total *stem:[J]*~t~
+    à travers une surface orientée donnée S:
+
+
+    stem:[I_t = underset(S)( int ) J_t * e_n d A]
+
+
+    où *stem:[e]*~n~dstem:[A]  est l''élément vectoriel de surface'
+  examples: []
+  notes:
+  - 'Le courant électrique total *stem:[I]*~t~ est donné par
+
+
+    *stem:[I]*~t~ = *stem:[I]* + *stem:[I]*~stem:[D]~
+
+
+    où *stem:[I]* est le courant électrique et *stem:[I]*~stem:[D]~ le courant de
+    déplacement.'
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 7d0928b0-f011-5621-ad65-72af39e57b1e
+status: Standard

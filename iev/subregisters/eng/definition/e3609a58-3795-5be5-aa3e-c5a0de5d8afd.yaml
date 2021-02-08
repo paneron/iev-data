@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 55c1aadb-d111-5721-b767-11e0c96729b6
+  definition: tensor of the third order defined by the trilinear form equal to the
+    product of the bilinear form defining a tensor of the second order on a given
+    Euclidean space and the linear form identified with a vector in the same space
+  examples: []
+  notes:
+  - 'The components of the tensor product of the tensor stem:[T] and the vector *stem:[U]*
+    are: stem:[(( T ox U ))_((i j k)) = T_((i j)) U_k].'
+  - The tensor product of a tensor and a vector is denoted by stem:[T ox U].
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: e3609a58-3795-5be5-aa3e-c5a0de5d8afd
+status: Standard

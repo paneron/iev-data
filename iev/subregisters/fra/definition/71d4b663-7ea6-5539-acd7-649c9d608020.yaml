@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8af177bf-d5de-54fe-b4cd-3e93cf99823a
+  definition: logarithme du rapport de la valeur d'une grandeur donnée à la valeur
+    d'une grandeur de même espèce prise comme référence. La base du logarithme, la
+    valeur de référence et la nature du niveau doivent être spécifiées
+  examples: []
+  notes:
+  - La nature du niveau est spécifiée en utilisant une expression composée telle que
+    niveau de puissance acoustique, ou niveau de pression acoustique.
+  - La valeur de référence demeure inchangée quelle que soit la valeur choisie pour
+    la grandeur donnée qu'elle soit efficace, de crête ou autre.
+  - La base du logarithme est précisée par l'emploi d'une unité de niveau associée
+    à cette base.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 71d4b663-7ea6-5539-acd7-649c9d608020
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6bd97a98-7753-54f3-a166-995af52053ab
+  definition: '{{opération booléenne, IEV:171-03-05}} dont le résultat a la valeur
+    booléenne 1 si et seulement si tous les {{opérandes, IEV:171-03-04}} ont la valeur
+    booléenne 1'
+  examples: []
+  notes:
+  - La conjonction des variables a et b est notée stem:[a ^^ b] (U+2227) (stem:[a]
+    et stem:[b]).
+dateAccepted: 2018-11-17
+id: 7b2d5512-de64-53b4-96ae-6fe550d7c0b2
+status: Standard

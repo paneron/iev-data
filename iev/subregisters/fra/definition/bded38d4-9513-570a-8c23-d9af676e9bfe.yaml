@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: 3.2.6
+      original: IEC TS 80004-9:2017, 3.2.6, modifié – Dans la Note 1 à l'article,
+        ajout d'"organique", et suppression de "type particulier de" et de "qui agissent
+        comme une paire donneur/accepteur", et remplacement de "dispositif photovoltaïque
+        nanotechnologique" par "dispositif nanotechnologique photovoltaïque".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: Dans la Note 1 à l'article, ajout d'"organique", et suppression
+          de "type particulier de" et de "qui agissent comme une paire donneur/accepteur",
+          et remplacement de "dispositif photovoltaïque nanotechnologique" par "dispositif
+          nanotechnologique photovoltaïque".
+        type: modified
+  concept: 9ee464f9-0570-5d3c-86f9-b77a58e08ddf
+  definition: '{{dispositif, IEV:511-01-01}} dans lequel la conversion de la lumière
+    en énergie électrique est obtenue par des matériaux organiques'
+  examples: []
+  notes:
+  - Un dispositif photovoltaïque organique est un {{dispositif nanotechnologique,
+    IEV:511-01-16}} photovoltaïque qui utilise des molécules organiques ou des polymères
+    de petite dimension.
+dateAccepted: 2018-11-17
+id: bded38d4-9513-570a-8c23-d9af676e9bfe
+status: Standard

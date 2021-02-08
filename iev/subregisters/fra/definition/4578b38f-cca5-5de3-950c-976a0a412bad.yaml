@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: e821fd7c-342a-5c1f-a722-0e0a0ebc3b36
+  definition: moyenne de l’intensité instantanée de défaillance sur un intervalle
+    de temps donné (stem:[t]~1~, stem:[t]~2~)
+  examples: []
+  notes:
+  - 'L’intensité moyenne de défaillance est déduite de l’intensité instantanée de
+    défaillance stem:[z](stem:[t]) par la formule:
+
+
+    stem:[bar z ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) z ( t ) d t]'
+dateAccepted: 2018-11-17
+id: 4578b38f-cca5-5de3-950c-976a0a412bad
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 725-12-27
+      link: null
+      original: 725-12-27 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '107'
+      original: UIT RR 107 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  concept: 4114e17d-9b65-53ee-b968-acff9c9f494c
+  definition: liaison par satellite entre une station émettrice et une station réceptrice
+    par l'intermédiaire d'un seul satellite
+  examples: []
+  notes:
+  - Lorsqu'une liaison par satellite est établie entre deux stations terriennes, elle
+    comprend une liaison montante et une liaison descendante.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 9f4fa856-570c-5ddf-b3e6-3e062f9f677f
+status: Standard

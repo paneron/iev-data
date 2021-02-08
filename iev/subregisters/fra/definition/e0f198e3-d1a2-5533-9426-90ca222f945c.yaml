@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: ca2304b4-213c-5702-a99a-a8ba5dd951d5
+  definition: pour une surface plane S et un axe spécifié dans le plan de la surface,
+    grandeur scalaire additive égale à l’intégrale stem:[I_a = int_S R^2 d A], où
+    stem:[R] est la distance entre un élément de surface d'aire dstem:[A] et l'axe
+  examples: []
+  notes:
+  - 1 Le moment quadratique axial d'une aire plane est parfois appelé incorrectement
+    «moment d'inertie», mais ne doit pas être confondu avec la grandeur «moment d'inertie».
+  - 2 L'unité SI cohérente de moment quadratique axial d'une aire plane est le mètre
+    à la puissance quatre, m^4^.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: e0f198e3-d1a2-5533-9426-90ca222f945c
+status: Standard

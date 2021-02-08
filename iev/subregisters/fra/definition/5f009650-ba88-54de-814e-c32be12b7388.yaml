@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '144'
+      original: UIT RR 144 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  concept: 28b02d62-9f12-54ac-bd75-5145b9b78bb5
+  definition: fréquence ayant une position fixe et bien déterminée par rapport à la
+    fréquence assignée
+  examples: []
+  notes:
+  - Le décalage de cette fréquence par rapport à la fréquence assignée est, en valeur
+    absolue et en signe, le même que celui de la fréquence caractéristique par rapport
+    au centre de la bande occupée par l'émission.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 5f009650-ba88-54de-814e-c32be12b7388
+status: Standard

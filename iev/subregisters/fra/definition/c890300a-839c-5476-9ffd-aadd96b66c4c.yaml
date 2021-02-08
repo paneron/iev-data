@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 725-14-30
+      link: null
+      original: 725-14-30 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 198208b7-17e1-548c-a011-dabc2c2fd261
+  definition: modulation dans laquelle la valeur moyenne de la densité spectrale de
+    puissance du signal émis est répartie d'une manière aléatoire ou quasi aléatoire
+    sur une largeur de bande beaucoup plus grande que celle strictement nécessaire
+    à la transmission des informations
+  examples: []
+  notes:
+  - La modulation à spectre étalé permet l'accès multiple à une voie de transmission
+    et accroît l'immunité au bruit et au brouillage radioélectriques.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: c890300a-839c-5476-9ffd-aadd96b66c4c
+status: Standard

@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4aa7e2e9-1ab5-56a2-8876-069d02194f46
+  definition: 'stem:[p_c = ((L_d))/((L_n + L_d))]
+
+
+    where stem:[L]~d~ and stem:[L]~n~ are the respective luminances of the monochromatic
+    stimulus and of the specified achromatic stimulus that match the colour stimulus
+    considered in an additive mixture'
+  examples: []
+  notes:
+  - In the case of purple stimuli, the monochromatic stimulus is replaced by a stimulus
+    whose chromaticity is represented by a point on the purple boundary.
+  - In the CIE 1931 standard colorimetric system, colorimetric purity, stem:[p]~c~,
+    is related to excitation purity, stem:[p]~e~, by the equation stem:[p]~c~ = stem:[p]~e~stem:[y]~d~/stem:[y]
+    where stem:[y]~d~ and stem:[y] are the stem:[y] chromaticity coordinates respectively,
+    of the monochromatic stimulus and the colour stimulus considered.
+  - In the CIE 1964 standard colorimetric system, a measure, stem:[p]~c,10~, is defined
+    by the relation given in Note 2 to entry, but using stem:[p]~e,10~, stem:[y]~d,10~
+    and stem:[y]~10~ instead of stem:[p]~e~, stem:[y]~d~, and stem:[y] respectively.
+  - This entry was numbered 845-03-47 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 882bdae0-1f46-5cb6-95b9-0e46ec48086d
+status: Standard

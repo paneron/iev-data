@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.58
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.58, modified
+      ref: IEC 61375-1:2012
+      relationship:
+        type: modified
+  concept: 28c54772-9ad7-5cdf-bf27-b8aa6760dc04
+  definition: MAC bridge as defined in IEEE 802.1D
+  examples: []
+  notes:
+  - MAC means "Medium Access Control", a sub-layer within the Link Layer ruling which
+    device is entitled to send on the bus.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 7f583b82-87f8-591c-b2dd-32c7431f99bd
+status: Standard

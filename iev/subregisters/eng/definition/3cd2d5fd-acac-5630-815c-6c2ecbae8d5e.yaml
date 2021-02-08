@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: a5c47215-956b-50b9-931d-af1c0623fe58
+  definition: logarithm of the ratio of a given sound pressure to the reference sound
+    pressure of 20 μPa, the sound pressure being obtained with a standard frequency
+    weighting and with a standard exponential time weighting. Sound level in decibels
+    is twenty times the logarithm to the base ten of that ratio
+  examples: []
+  notes:
+  - 'Standard frequency weightings A, В and C and standard exponential time weightings
+    fast (F), slow (S) and impulse (I) are given in IEC 651 (1979): Sound level meters.'
+  - Time and frequency weightings employed should be specified, but if not stated
+    explicitly, fast (F) exponential time weighting and A-frequency weighting are
+    understood.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 3cd2d5fd-acac-5630-815c-6c2ecbae8d5e
+status: Standard

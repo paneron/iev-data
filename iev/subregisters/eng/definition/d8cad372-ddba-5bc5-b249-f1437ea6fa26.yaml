@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 457c10d7-1b6a-5667-84f8-f3cfed96cc00
+  definition: effective dose with the spectral radiant exposure spectrally weighted
+    with a stated photobiological action spectrum
+  examples: []
+  notes:
+  - This definition is based on the assumption that an action spectrum is adopted
+    for the photobiological effect considered, and that its maximum value is 1.
+  - It is essential to specify which action spectrum is used, as the unit is the same
+    for any action spectrum.
+  - The photobiological dose is expressed in joule per square metre (J·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: d8cad372-ddba-5bc5-b249-f1437ea6fa26
+status: Standard

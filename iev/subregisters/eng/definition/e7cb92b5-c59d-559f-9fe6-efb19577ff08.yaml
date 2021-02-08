@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: 38ddd916-f0c3-5f43-87e9-b6f7ff717c47
+  definition: sum of durations of all {{supply interruptions, IEV:692-07-01}} to individual
+    customers during a time interval, divided by the product of the number of customers
+    affected and the duration of that time interval
+  examples: []
+  notes:
+  - 'If stem:[t]~stem:[ij]~ is the duration of the stem:[i]th interruption of supply
+    to customer stem:[j] during a time interval of duration stem:[T], and stem:[N]~NS~
+    the number of customers affected, then the service unavailability per customer
+    interrupted is given by
+
+
+    stem:[U_((CI)) = ((sum_i sum_j t_((i j))))/((N_(NS) T))]'
+  - Only {{sustained interruptions, IEV:692-07-02}} are considered.
+  - The term "customer" represents the end user and not some intermediate distribution
+    system or company.
+  - Service unavailability per customer interrupted can be used to describe past performance
+    or to estimate expected future performance.
+  - This entry was numbered 191-27-04 in IEC 60050-191:1990.
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: e7cb92b5-c59d-559f-9fe6-efb19577ff08
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: a56cf7a9-0cb9-5185-832e-70db44c9a0e3
+  definition: 'the tensor permeability of a material saturated by a static magnetic
+    field that is collinear with the time-varying field, with the direction of the
+    static field defining the z-axis:
+
+
+    stem:[( [[ underset(_)(mu)_((()_r)),- j (underset(_)(kappa))_r,0],[(underset(_)(underset(_)(mu)))_p
+    = j underset(_)(kappa)_r,(underset(_)(mu))_((()_r)),0],[ 0,0,1]] )]
+
+
+    where stem:[μ]~r~ and stem:[κ]~r~ are complex permeabilities'
+  examples: []
+  notes: []
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 8abd5b1b-d478-5905-902c-f86ae379cd32
+status: Standard

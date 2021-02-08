@@ -1,0 +1,33 @@
+data:
+  authoritative_source:
+  - - clause: '3.12'
+      original: IEC Guide 116:2010, 3.12, modified – The text "(see also Figure 1)"
+        has been replaced by Figure 1. In the Note to entry, "This IEC Guide" has
+        been replaced by "IEC Guide 116".
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: The text "(see also Figure 1)" has been replaced by Figure 1.
+          In the Note to entry, "This IEC Guide" has been replaced by "IEC Guide 116".
+        type: modified
+  concept: c87f5e1e-02f2-5664-a93a-be7e6b66d547
+  definition: '{{risk, IEV:903-01-07}} remaining after {{protective measures, IEV:903-01-17}}
+    have been taken
+
+
+    <simg acos-guide116_2010_f1_en>
+
+
+    NOTE Sometimes it is possible that tolerable risk is already achieved by applying
+    step 1 or steps 1 and 2.
+
+
+    *Figure 1 – Principle of safety integration*</simg>'
+  examples: []
+  notes:
+  - "IEC Guide 116 distinguishes:\r\n\r\n* the residual risk after protective measures\
+    \ have been taken by the designer;\r\n* the residual risk remaining after all\
+    \ protective measures have been implemented by the user.\r\n\n\n[ISO/IEC Guide\
+    \ 51:1999, definition 3.9, modified]"
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: cb90e39f-ccb4-58d1-a173-e65a25ce5c06
+status: Standard

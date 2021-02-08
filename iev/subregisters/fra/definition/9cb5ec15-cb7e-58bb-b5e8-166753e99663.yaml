@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8217d02c-fd29-565c-9bff-85a369bb3ee2
+  definition: amplificateur donnant un signal de sortie pratiquement nul pour toutes
+    les impulsions d'entrée inférieures à un seuil
+  examples: []
+  notes:
+  - L’amplificateur possède un gain incrémental constant pour toutes les impulsions
+    d'entrée qui ont une amplitude supérieure au seuil jusqu'à un maximum spécifié.
+  - Cet article était numéroté 394-23-16 dans la CEI 60050-394:2007.
+dateAccepted: 2018-11-17
+id: 9cb5ec15-cb7e-58bb-b5e8-166753e99663
+status: Standard

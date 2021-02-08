@@ -1,0 +1,42 @@
+data:
+  authoritative_source:
+  - null
+  concept: 911f0bf9-2cca-55b7-af87-d0082593d8b1
+  definition: 'vecteur axial stem:[U xx V], orthogonal à deux vecteurs donnés *stem:[U]*
+    et *stem:[V]*, tel que les trois vecteurs *stem:[U]*, *stem:[V]* et stem:[U xx
+    V] forment un trièdre direct ou un trièdre rétrograde selon l''orientation de
+    l''espace, avec une norme égale au produit des normes des vecteurs donnés et du
+    sinus de leur angle stem:[vartheta]
+
+
+    stem:[| U xx V | = | U | * | V | * sin vartheta]'
+  examples: []
+  notes:
+  - Dans l'espace euclidien à trois dimensions d'orientation donnée, le produit vectoriel
+    de deux vecteurs *stem:[U]* et *stem:[V]* est l'unique vecteur axial stem:[U xx
+    V] tel que, pour tout vecteur *stem:[W]* du même espace, le produit mixte (*stem:[U]*,*stem:[V]*,*stem:[W]*)
+    soit égal au produit scalaire stem:[( U xx V ) * W].
+  - 'Pour deux vecteurs stem:[U = U_x e_x + U_y e_y + U_z e_z] et stem:[V = V_x e_x
+    + V_y e_y + V_z e_z], où stem:[e_x , e_y , e_z] est une base orthonormée, le produit
+    vectoriel est exprimé par stem:[U xx V = ( U_y V_z - U_z V_y ) e_x + ( U_z V_x
+    - U_x V_z ) e_y + ( U_x V_y - U_y V_x ) e_z].
+
+
+    On peut aussi exprimer le produit vectoriel sous la forme stem:[U xx V = | [[e_x,e_y,e_z],[U_x,U_y,U_z],[V_x,V_y,V_z]]
+    |] en utilisant une somme semblable à celle utilisée pour obtenir le déterminant
+    d''une matrice. Le produit vectoriel est donc le vecteur axial associé au tenseur
+    antisymétrique stem:[U ox V - V ox U] (voir {{IEV 102-03-43, IEV:102-03-43}}).'
+  - Pour deux vecteurs complexes *stem:[U]* et *stem:[V]*, on peut selon l'application
+    utiliser soit le produit vectoriel stem:[U xx V], soit l'un des produits stem:[U^(
+    * ) xx V] ou stem:[U xx V^( * )].
+  - On peut définir de la même manière, pour un couple constitué d'un vecteur polaire
+    et d'un vecteur axial un produit vectoriel qui est un vecteur polaire, et pour
+    un couple de deux vecteurs axiaux un produit vectoriel qui est un vecteur axial.
+  - Dans l'espace usuel à trois dimensions, le produit vectoriel de deux grandeurs
+    vectorielles est le produit vectoriel des vecteurs unitaires associés multiplié
+    par le produit des grandeurs scalaires.
+  - Le produit vectoriel est indiqué par une croix (×) entre les deux symboles représentant
+    les vecteurs. L'emploi du symbole ∧ est déconseillé.
+dateAccepted: 2018-11-17
+id: b4707c51-6589-5498-9dc2-4d83b99518ff
+status: Standard

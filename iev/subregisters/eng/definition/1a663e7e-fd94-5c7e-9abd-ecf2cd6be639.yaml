@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0a653c20-1e96-54ef-8fa0-90597a04d355
+  definition: operation defined on the set of square matrices of a given order, which
+    associates to any ordered pair (*stem:[A]*, *stem:[B]*) of matrices their product
+    *stem:[AB]*
+  examples: []
+  notes:
+  - The multiplication of square matrices is associative, (*stem:[AB]*)*stem:[C]*
+    = *stem:[A]*(*stem:[BC]*), but not commutative, generally *stem:[AB]* ≠ *stem:[BA]*.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 1a663e7e-fd94-5c7e-9abd-ecf2cd6be639
+status: Standard

@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - - clause: 702-08-61
+      link: null
+      original: 702-08-61 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: b3d69ef5-d81a-5fe9-8f6f-671db4f24528
+  definition: rapport, généralement exprimé en décibels, de la puissance d'un signal
+    utile, en un point spécifié d'une voie de transmission, le plus souvent à la sortie
+    du récepteur, à la puissance du bruit associé au même point, évalué dans des conditions
+    déterminées
+  examples: []
+  notes:
+  - En pratique, le signal ne pouvant pas être généralement séparé du bruit, on mesure
+    le rapport (signal + bruit) sur bruit.
+  - 'Les conditions déterminées comprennent, entre autres:
+
+
+    – la nature et les caractéristiques du signal utile,
+
+
+    – la nature et les caractéristiques du bruit,
+
+
+    – les caractéristiques du récepteur et de l''antenne, en particulier la largeur
+    de bande.'
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ea9bfe3d-4057-5a5f-8809-fdc172530456
+status: Standard

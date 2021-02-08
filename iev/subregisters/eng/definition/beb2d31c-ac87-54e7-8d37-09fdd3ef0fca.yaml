@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 482-01-05
+      link: https://webstore.iec.ch/publication/215
+      original: IEC 60050-482:2004, 482-01-05, modified – Definition adapted for the
+        context of fuel cell technologies and note to entry added
+      ref: IEC 60050-482:2004
+      relationship:
+        modification: Definition adapted for the context of fuel cell technologies
+          and note to entry added
+        type: modified
+  concept: ea79526e-525a-56ba-8832-bf4520e0b174
+  definition: electrochemical device that converts the chemical energy of a fuel and
+    an oxidant to electric energy (DC power), heat and reaction products
+  examples: []
+  notes:
+  - The fuel and oxidant are typically stored outside of the fuel cell and transferred
+    into the fuel cell as they are consumed.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: beb2d31c-ac87-54e7-8d37-09fdd3ef0fca
+status: Standard

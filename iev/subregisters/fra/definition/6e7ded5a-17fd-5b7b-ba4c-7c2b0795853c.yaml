@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 3.3.5.5
+      link: https://webstore.iec.ch/publication/6932
+      original: IEC 62368-1:2014, 3.3.5.5
+      ref: IEC 62368-1:2014
+      relationship:
+        type: identical
+  concept: 48e66e52-b6c1-58f0-acd3-04416b1cf7d1
+  definition: '{{matériau isolant solide, IEV:212-11-02}}, ou combinaison de matériaux
+    isolants solides, placé entre deux parties conductrices ou entre une partie conductrice
+    et une partie du corps'
+  examples:
+  - Dans le cas d’une carte imprimée à revêtement, l’isolation solide est constituée
+    de la carte elle-même ainsi que du revêtement. Dans les autres cas, l’isolation
+    solide est constituée du matériau d’encapsulation.
+  notes: []
+dateAccepted: '2015-07-01T00:00:00+00:00'
+id: 6e7ded5a-17fd-5b7b-ba4c-7c2b0795853c
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 25a13434-0572-5e2e-9936-43a362a473a1
+  definition: '{{spectre, IEV:103-09-03}} n''ayant des valeurs non nulles que pour
+    certaines {{valeurs discrètes, IEV:101-12-06}} de la {{fréquence, IEV:103-06-02}},
+    ou, par extension, au voisinage de ces valeurs'
+  examples:
+  - La suite discrète des coefficients de la {{série de Fourier, IEV:103-07-18}} qui
+    représente un {{signal, IEV:101-12-02}} ou un bruit périodique.
+  notes: []
+dateAccepted: 2018-11-17
+id: 96b5d5ff-1376-5ea2-af92-0ae29d86fe5c
+status: Standard

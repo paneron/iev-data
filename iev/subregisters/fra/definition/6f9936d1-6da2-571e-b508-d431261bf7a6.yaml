@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 545fb75b-7883-5734-9538-7dfe46c4aaba
+  definition: orientation de l’élément de cristal par rapport aux axes cristallographiques
+    du cristal
+  examples: []
+  notes:
+  - Il peut s’avérer nécessaire de spécifier la coupe de crystal (et donc la forme
+    générale des performances fréquence/température) d’une unité de cristal utilisée
+    dans un oscillateur. Le choix de la coupe de cristal implique l’utilisation de
+    certains attributs de l’oscillateur qui ne peuvent pas autrement apparaître dans
+    la spécification détaillée.
+dateAccepted: 2018-11-17
+id: 6f9936d1-6da2-571e-b508-d431261bf7a6
+status: Standard

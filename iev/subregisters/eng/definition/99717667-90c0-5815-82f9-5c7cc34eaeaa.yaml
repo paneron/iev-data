@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7964a5af-4c2b-5076-986f-f6e939db06fb
+  definition: point, line or surface in a standing wave where some specified characteristic
+    of the wave field has essentially zero amplitude
+  examples: []
+  notes:
+  - In practice, this amplitude is generally not zero but simply a minimum. The node
+    is then said to be partial.
+  - The appropriate modifier should be used before the word "node" to signify the
+    type that is intended; e.g. displacement node, particle velocity node, sound pressure
+    node.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 99717667-90c0-5815-82f9-5c7cc34eaeaa
+status: Standard

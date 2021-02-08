@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4a95dfb4-6b3c-5440-9c73-cf5ce38bbed6
+  definition: dans l'espace euclidien à trois dimensions, vecteur normal à une surface
+    donnée en un point donné, dont la norme est l'élément scalaire de surface au point
+    donné
+  examples: []
+  notes:
+  - Lorsque l'orientation de l'espace est définie par un trièdre direct, la direction
+    de l'élément vectoriel de surface définit l'orientation de la surface en ce point
+    comme étant dans le sens inverse des aiguilles d'une montre pour un observateur
+    regardant dans la direction opposée de celle du vecteur.
+  - 'Pour une surface définie par *stem:[r]* = *stem:[f]*(stem:[u], stem:[v]), où
+    stem:[( u , v ) in U sube R^2], l''élément vectoriel de surface est
+
+
+    stem:[((del f))/((del u)) xx ((del f))/((del v)) * d u d v].'
+  - Un élément vectoriel de surface est désigné de préférence par stem:[e_n d A] ou
+    parfois par stem:[n d A], où stem:[e_n = n] est un vecteur unité normal à la surface
+    et où dstem:[A] est un élément scalaire de surface.
+dateAccepted: 2018-11-17
+id: db986f38-e54a-5e56-93bc-61d999c7db5d
+status: Standard

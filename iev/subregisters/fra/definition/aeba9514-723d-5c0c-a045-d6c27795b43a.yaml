@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: '3.4'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 3.4, modifiée – Note 3 à l'article a été supprimé.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: Note 3 à l'article a été supprimé.
+        type: modified
+  concept: bd5146a7-7e8f-5f80-93a9-f8c16eb5c9f8
+  definition: document qui spécifie les {{exigence, IEV:901-05-05}}s techniques que
+    doit satisfaire un produit, un processus ou un service
+  examples: []
+  notes:
+  - Il convient qu'une spécification technique indique, le cas échéant, le(s) mode(s)
+    opératoire(s) permettant de déterminer si les exigences données sont satisfaites.
+  - Une spécification technique peut être une {{norme, IEV:901-02-02}}, une partie
+    de norme ou être indépendante d'une norme.
+dateAccepted: 2018-11-17
+id: aeba9514-723d-5c0c-a045-d6c27795b43a
+status: Standard

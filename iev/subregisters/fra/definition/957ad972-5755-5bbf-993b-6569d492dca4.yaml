@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: e721b9cf-7a55-5763-81f4-573340ff8389
+  definition: distance maximale entre un point de la surface de la plaquette (à l’intérieur
+    de la zone de qualité fixe) et le plan focal
+  examples: []
+  notes:
+  - Si ce point est au-dessus de la référence, l’écart de plan focal est positif.
+    Si ce point est au-dessous de la référence, l’écart de plan focal est negatif.
+dateAccepted: 2018-11-17
+id: 957ad972-5755-5bbf-993b-6569d492dca4
+status: Standard

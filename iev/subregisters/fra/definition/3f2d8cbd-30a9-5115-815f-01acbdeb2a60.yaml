@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 30687a42-c1a8-50d9-ae7a-ba11fd407211
+  definition: interaction, dans un dispositif ou dans un milieu de transmission {{non
+    linéaire, IEV:131-11-19}}, entre les {{composantes spectrales, IEV:702-04-41}}
+    d'un ou plusieurs signaux {{d'entrée, IEV:151-15-13}}, faisant apparaître à la
+    sortie de nouvelles composantes spectrales dont les fréquences sont des combinaisons
+    linéaires à coefficients entiers des fréquences des composantes spectrales à l'entrée
+  examples: []
+  notes:
+  - L'intermodulation peut se produire avec un seul signal d'entrée non sinusoïdal
+    ou avec plusieurs signaux, sinusoïdaux ou non, appliqués à la même entrée ou à
+    des entrées différentes.
+dateAccepted: 2018-11-17
+id: 3f2d8cbd-30a9-5115-815f-01acbdeb2a60
+status: Standard

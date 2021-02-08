@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '7.1'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 7.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: 71b0787a-94c6-5ff0-8c26-66a9e24c41cc
+  definition: expression in the content of a {{normative document, IEV:901-02-01}},
+    that takes the form of a {{statement, IEV:901-05-02}}, an {{instruction, IEV:901-05-03}},
+    a {{recommendation, IEV:901-05-04}} or a {{requirement, IEV:901-05-05}}
+  examples: []
+  notes:
+  - These types of provision are distinguished by the form of wording they employ;
+    e.g. instructions are expressed in the imperative mood, recommendations by the
+    use of the auxiliary “should” and requirements by the use of the auxiliary “shall”.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 71d0f1d4-b4ea-55d2-a9a9-cb50860534c4
+status: Standard

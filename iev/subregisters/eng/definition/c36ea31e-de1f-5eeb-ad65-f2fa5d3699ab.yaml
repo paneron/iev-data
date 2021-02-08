@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: ac03a3d1-03c8-54be-b360-3da1f1cf54dd
+  definition: 'for a sinusoidal quantity stem:[a ( t ) = hat A cos ( omega t + vartheta_0
+    )], complex quantity
+
+
+    stem:[underset(_)(a) ( t ) = hat A cos ( omega t + vartheta_0 ) + j s i n ( omega
+    t + vartheta_0 ) = hat A exp j ( omega t + vartheta_0 ) = hat A exp ( j omega
+    t ) exp ( j vartheta_0 )]
+
+
+    where j is the imaginary unit, stem:[hat A] is complex amplitude, stem:[omega]
+    is angular frequency, and stem:[vartheta_0] is initial phase'
+  examples: []
+  notes:
+  - The instantaneous value of the quantity is the real part of its complex representation.
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: c36ea31e-de1f-5eeb-ad65-f2fa5d3699ab
+status: Standard

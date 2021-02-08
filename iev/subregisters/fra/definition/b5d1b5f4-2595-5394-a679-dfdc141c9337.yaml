@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: cfdf44e8-4ceb-5d04-b117-092085877243
+  definition: signal de synchronisation reçu par un noeud de synchronisation sur une
+    liaison de synchronisation en provenance d'un noeud éloigné déterminé, où ce signal
+    a été formé, en tant que signal de synchronisation local, à partir de la relation
+    de phase entre la trame temporelle cyclique issue de sa propre horloge et la trame
+    temporelle cyclique d'un signal numérique provenant du noeud auquel le signal
+    de synchronisation est envoyé
+  examples: []
+  notes: []
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: b5d1b5f4-2595-5394-a679-dfdc141c9337
+status: Standard

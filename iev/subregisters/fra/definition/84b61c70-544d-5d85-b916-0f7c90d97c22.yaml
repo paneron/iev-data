@@ -1,0 +1,38 @@
+data:
+  authoritative_source:
+  - null
+  concept: 45610fb1-2de0-5c65-b158-4ff0781eb477
+  definition: mode d'une fibre optique tel que l'amplitude de chaque composante des
+    vecteurs du champ électromagnétique décroît de façon monotone en dehors du coeur
+    en fonction de la distance à l'axe et qui ne perd pas d'énergie par rayonnement
+  examples: []
+  notes:
+  - 'Dans une fibre optique dont l’indice de réfraction stem:[n] décroît radialement
+    dans le coeur, sauf éventuellement dans un creux central, un mode lié est caractérisé
+    par un déphasage  linéique longitudinal stem:[β] tel que :
+
+
+    stem:[n](stem:[a])stem:[k] ≤ stem:[β] ≤ stem:[n](0)stem:[k]
+
+
+    où :
+
+
+    stem:[β] est la partie imaginaire (coefficient de phase) du coefficient de propagation
+    axiale,
+
+
+    stem:[n](stem:[a]) est le rayon du coeur,
+
+
+    stem:[n](0) est l''indice sur l''axe,
+
+
+    stem:[k] est le nombre d''onde angulaire dans le vide, égale au quotient de 2π
+    par la longueur d''onde stem:[λ] dans le vide.'
+  - Les modes liés correspondent aux rayons guidés de l'optique géométrique.
+  - Dans une fibre optique multimodale, l'énergie des modes liés se propage principalement
+    dans le coeur.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 84b61c70-544d-5d85-b916-0f7c90d97c22
+status: Standard

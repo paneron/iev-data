@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '3.2'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/CEI Guide 2 (3.2)
+      ref: ISO/IEC Guide 2
+      relationship:
+        type: identical
+  concept: 30281b68-1f2a-58dc-bc94-f98f684c2d44
+  definition: valeur d’une grandeur spécifiée dans une norme
+  examples: []
+  notes:
+  - Une norme est un document, établi par consensus et approuvé par un organisme reconnu,
+    qui fournit, pour des usages communs et répétés, des règles, des lignes directrices
+    ou des caractéristiques, pour des activités ou leurs résultats, garantissant un
+    niveau d'ordre optimal dans un contexte donné. La CEI et l’ISO sont des organismes
+    internationaux reconnus.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: eb902018-4383-52de-ae03-b2a0307f0195
+status: Standard

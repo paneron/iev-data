@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 96d4747d-c043-5b51-b222-87222876789d
+  definition: at a given point of a given surface, area of a surface element containing
+    the point and contained in a sphere of infinitesimal radius
+  examples: []
+  notes:
+  - 'For a surface defined by *stem:[r]* = *stem:[f]*(stem:[u], stem:[v]) where stem:[(
+    u , v ) in U sube R^2], the scalar surface element is given by
+
+
+    stem:[| ((del f))/((del u)) xx ((del f))/((del v)) | * d u d v].'
+  - 'For a surface defined by the equation stem:[z] = stem:[f](stem:[x], stem:[y]),
+    the scalar surface element is given by
+
+
+    stem:[sqrt(1 + ( ((del f))/((del x)) )^2 + ( ((del f))/((del y)) )^2) d x d y].'
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 214e064c-4f24-58f9-85f4-0cb7b8cd25b2
+status: Standard

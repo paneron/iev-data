@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: 353a4044-9546-55c6-ab48-6ea6068ebc5f
+  definition: standardized character string used for locating and accessing an Internet
+    resource
+  examples: []
+  notes:
+  - "1\tThe general form of an URL (see RFC 1738) is as follows:\n\n&lt;scheme&gt;://&lt;user&gt;:&lt;password&gt;@&lt;host&gt;:&lt;port&gt;/&lt;url-path&gt;\n\
+    \nIn some cases, certain parts may be omitted.\n\n&lt;scheme&gt; is the access\
+    \ protocol, e.g. http, ftp, or news.\n\n&lt;user&gt;, &lt;password&gt; and &lt;port&gt;\
+    \ are optional, and the separators “:” (colon) and “@” are omitted when unnecessary.\n\
+    \n&lt;host&gt; is an IP address or a fully qualified host name, and is omitted\
+    \ for local Internet resources.\n\n&lt;port&gt; is an address for protocols on\
+    \ the TCP layer and has a default which depends on the protocol.\n\n&lt;url-path&gt;\
+    \ indicates the access to a resource inside the host. If it is omitted, a default\
+    \ resource is accessed.\n\nExamples of URLs identifying a Web site, a file, or\
+    \ a service:\n\n“http://www.iec.ch” is the URL of the site of the  International\
+    \ Electrotechnical Commission. In this URL, “ch” is the top-level domain name.\
+    \ It should be noted that besides &lt;scheme&gt; this URL contains only the part\
+    \ &lt;host&gt;.\n\n“http://www.iec.ch/about/mission-e.htm” is the URL of a page\
+    \ giving in English the IEC mission and objectives.  This file is accessible by\
+    \ the HTTP protocol.\n\n“news:comp.os.unix” is the URL of a forum whose name is\
+    \ “comp.os.unix” and “news:XYZ123@news.iso.org” might be the URL of an article,\
+    \ the identifier of which is “XYZ123”, stored on the host “news.iso.org”."
+  - "2\tURL is an acronym of the full term \"uniform resource locator\"."
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 78715a3b-0358-5ef4-9f18-0493995f77db
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: c27c18a0-00f9-5b8c-9ef2-29387c294264
+  definition: partie imaginaire stem:[g](stem:[t]) d'un {{signal analytique, IEV:702-04-52}}
+  examples: []
+  notes:
+  - 'La dénomination du "signal en quadrature" est justifiée par le fait que sin stem:[ωt]
+    et cos stem:[ωt] sont au signe près les transformées de Hilbert l''un de l''autre
+    et que par conséquent le signal analytique représentant le signal réel cos stem:[ωt]
+    est:
+
+
+    e^jstem:[ωt]^'
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: ec88a64b-6c1c-52fd-8dad-44cc117b29b7
+status: Standard

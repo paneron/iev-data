@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 13-10
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-10
+      ref: IEC 80000-13:2008
+      relationship:
+        type: identical
+  concept: 4e84c8d6-6fd5-5c78-9595-37b31830556d
+  definition: 'logarithme binaire du nombre stem:[n] d’états possible d’une {{mémoire,
+    IEV:171-04-14}}
+
+
+    stem:[M]~e~ = lb stem:[n]'
+  examples: []
+  notes:
+  - La capacité minimale d’une mémoire organisée en bits qui pourrait contenir la
+    même quantité de données qu’une mémoire donnée est égale au plus petit entier
+    supérieur ou égal à la capacité binaire équivalente.
+dateAccepted: 2018-11-17
+id: d7ce70bd-3dbe-5669-949a-6ba8a20f7c5c
+status: Standard

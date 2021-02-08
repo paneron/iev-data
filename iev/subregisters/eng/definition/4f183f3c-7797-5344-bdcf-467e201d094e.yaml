@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 195-06-02
+      link: null
+      original: 195-06-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 71db1580-29db-5e64-933f-df118d887f13
+  definition: protection against electric shock under {{single fault conditions, IEV:903-01-15}}
+  examples: []
+  notes:
+  - For low-voltage installations, systems and equipment, fault protection generally
+    corresponds to protection against indirect contact, mainly with regard to failure
+    of basic insulation.
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: 4f183f3c-7797-5344-bdcf-467e201d094e
+status: Standard

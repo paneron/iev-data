@@ -1,0 +1,32 @@
+data:
+  authoritative_source:
+  - null
+  concept: b33d2874-efcf-5edd-969a-e4a0c208d4e2
+  definition: 'estimation non biaisée de la définition préférée dans le domaine temporel
+    de la caractéristique de stabilité à court terme de la fréquence de sortie de
+    l’oscillateur donnée par
+
+
+    stem:[sigma_y ^2 ( tau ) tilde= (1)/((M – 1)) sum_((k = 1))^((M – 1)) ((( Y_((k
+    + 1)) – Y_k )^2))/(2)]
+
+
+    où
+
+
+    stem:[Y]~stem:[k]~ sont les fluctuations de fréquence relative moyennes obtenues
+    de manière séquentielle, sans temps mort systématique entre les mesures;
+
+
+    stem:[τ] est la durée d’échantillon sur laquelle la moyenne des mesures est calculée;
+
+
+    stem:[M] est le nombre de mesures'
+  examples: []
+  notes:
+  - Le niveau de confiance de l’estimation augmente au fur et à mesure de l’augmentation
+    de stem:[M.]
+  - Cet article était numéroté 561-04-18 dans l'IEC 60050-561:1991.
+dateAccepted: 2018-11-17
+id: 6ad9830c-3e5f-59b5-8d38-6c9689eb5351
+status: Standard

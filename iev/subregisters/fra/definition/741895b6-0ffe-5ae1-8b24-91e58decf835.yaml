@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  concept: f413e5f8-0cd1-57dd-9861-3452b483c49a
+  definition: dans un ensemble de canaux radioélectriques ordonnés suivant leurs fréquences
+    centrales croissantes, canal dont le rang est immédiatement supérieur ou inférieur
+    à celui d'un canal donné
+  examples: []
+  notes:
+  - Le canal adjacent de rang supérieur au canal donné est appelé "canal adjacent
+    supérieur", celui de rang inférieur "canal adjacent inférieur".
+  - Deux canaux adjacents peuvent avoir une partie commune; on parle alors de recouvrement
+    en fréquence ou de canaux partiellement superposés.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 741895b6-0ffe-5ae1-8b24-91e58decf835
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 801-22-14
+      link: null
+      original: 801-22-14
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 253a210c-1392-5a09-9b2a-74ef4ec883c8
+  definition: logarithme du rapport d'une pression acoustique donnée, mesurée avec
+    une pondération fréquentielle normalisée, et avec une pondération temporelle exponentielle
+    normalisée, à la pression acoustique de référence de 20 µPa.
+  examples: []
+  notes:
+  - Exprimé en décibels, ce niveau est égal à vingt fois le logarithme décimal de
+    ce rapport.
+  - 'Les caractéristiques normalisées de pondération fréquentielle A et B utilisées
+    dans la CEI 61400-11 sont données dans la CEI 60651 (1979): Sonomètres.'
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: 306ac283-5ee6-5ad3-bc41-a978ba45bad9
+status: Standard

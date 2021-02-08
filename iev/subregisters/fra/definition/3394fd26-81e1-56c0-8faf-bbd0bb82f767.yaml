@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 35bbb655-dfb5-5133-9958-bbd056d4541d
+  definition: rapport des probabilités de dépassement d'une même valeur d'une grandeur
+    aléatoire caractéristique de la transmission avec et sans réception en diversité
+  examples: []
+  notes:
+  - La grandeur caractéristique peut être, par exemple, la puissance reçue, l'affaiblissement
+    de transmission, la puissance de bruit ou le taux d'erreurs.
+  - L'ordre des deux probabilités est choisi de façon à obtenir un rapport supérieur
+    à l'unité.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 3394fd26-81e1-56c0-8faf-bbd0bb82f767
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9b09a4aa-fba2-534c-999c-7784277b2a36
+  definition: stimuli de couleurs-objet correspondant à des objets qui possèdent pour
+    chaque chromaticité les facteurs de luminance les plus élevés possible lorsqu'aucun
+    de leurs facteurs de luminance spectraux n'est supérieur à 1 pour aucune longueur
+    d'onde
+  examples: []
+  notes:
+  - En général, les stimuli de couleur optimaux correspondent à des objets dont les
+    facteurs de luminance spectraux n'ont que les valeurs 1 ou 0, avec deux transitions
+    au plus entre ces valeurs.
+  - Les facteurs de luminance et les coordonnées trichromatiques des stimuli de couleur
+    optimaux délimitent un solide des couleurs correspondant aux objets non fluorescents.
+  - Pour un facteur de luminance donné, les stimuli de couleur optimaux définissent
+    la pureté maximale possible pour les objets non fluorescents.
+  - Voir aussi "<a href="IEV845-22-042">couleur-objet</a>", "<a href="IEV845-23-002">stimulus
+    de couleur</a>".
+  - Cet article était numéroté 845-03-40 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: a49dfabb-ebe5-57c7-8e38-34e4c649c72b
+status: Standard

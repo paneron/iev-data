@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - original: ITU-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  concept: 8539fdba-5ceb-5e7d-9d2f-8cccd107b904
+  definition: frequency band such that, below the lower and above the upper limits,
+    the mean powers emitted are each equal to a specified percentage stem:[β]/2 of
+    the total mean power of a given emission
+  examples: []
+  notes:
+  - Unless otherwise specified for the appropriate class of emission, the value of
+    stem:[β]/2 should be taken as 0,5%.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: f51506d5-f608-5e9c-b766-1e1fcbe2b7c6
+status: Standard

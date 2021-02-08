@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 28575be9-90a8-53c6-86df-7bd90666a047
+  definition: coordonnées exprimant les quotients de chaque composante trichromatique
+    d'un ensemble de trois <a href="IEV845-23-038">composantes trichromatiques</a>
+    par leur somme
+  examples: []
+  notes:
+  - La somme des trois coordonnées trichromatiques étant égale à 1, deux suffisent
+    pour définir une chromaticité.
+  - Dans les systèmes de référence colorimétriques CIE, les coordonnées trichromatiques
+    sont représentées par les symboles stem:[x], stem:[y], stem:[z] ou stem:[x]~10~,
+    stem:[y]~10~, stem:[z]~10~.
+  - L'unité de coordonnées trichromatiques est un.
+  - Cet article était numéroté 845-03-33 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: fe0486fc-d45e-5fd5-b0b7-86342c9ea9ce
+status: Standard

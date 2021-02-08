@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3221cdc6-4f5f-59fe-8a9c-072c009e6f14
+  definition: frequency-domain measure of the short-term frequency stability of an
+    oscillator
+  examples: []
+  notes:
+  - 'This phase noise is normally expressed as the power spectral density of the phase
+    fluctuations, stem:[S_(varphi) ( f )], where the phase fluctuation function is
+    stem:[varphi ( t ) = 2 pi F t - 2 pi F_0 t]. The spectral density of phase fluctuation
+    can be directly related to the spectral density of frequency fluctuation by the
+    following formula:
+
+
+    stem:[S_(varphi) ( f ) = ( ((F_0))/(f) ) S_y ( f ) rad^2 //Hz]
+
+
+    In the preceding formulae:
+
+
+    stem:[F] is the oscillator frequency;
+
+
+    stem:[F]~0~ is the average oscillator frequency;
+
+
+    stem:[f] is the Fourier frequency.'
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 6aac6f5c-1779-5695-b93c-1693b1381788
+status: Standard

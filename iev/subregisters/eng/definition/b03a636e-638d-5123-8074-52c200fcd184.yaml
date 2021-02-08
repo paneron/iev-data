@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 7.5.1
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 7.5.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: a64c5acd-4d57-5e6b-b952-a1e460a7c8c8
+  definition: '{{requirement, IEV:901-05-05}} of a {{normative document, IEV:901-02-01}}
+    that must necessarily be fulfilled in order to comply with that document'
+  examples: []
+  notes:
+  - The term “mandatory requirement” should be used to mean only a requirement made
+    compulsory by law or {{regulation, IEV:901-02-10}}.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: b03a636e-638d-5123-8074-52c200fcd184
+status: Standard

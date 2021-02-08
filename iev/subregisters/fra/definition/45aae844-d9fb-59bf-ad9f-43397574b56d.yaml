@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8e3e4834-134f-54e9-b5ad-58861909b764
+  definition: 'unité de {{rapidité de modulation, IEV:721-03-26}} en {{télégraphie,
+    IEV:701-01-07}} et en {{communication de données, IEV:701-01-12}} ou de {{rapidité
+    de modulation, IEV:704-17-03}} en {{transmission numérique, IEV:704-01-08}}, égale
+    à une seconde à la puissance moins un
+
+
+    1 Bd := 1 s^−1^'
+  examples: []
+  notes:
+  - Par exemple, si la durée de l'intervalle unitaire est de 20 ms, la rapidité de
+    modulation est de 50 Bd.
+  - Le terme "rapidité de modulation" est employé en français dans tous les cas, avec
+    en transmission numérique le synonyme "débit en ligne", alors qu'en anglais on
+    emploie "modulation rate" ou "line digit rate" selon le domaine d'application.
+dateAccepted: 2018-11-17
+id: 45aae844-d9fb-59bf-ad9f-43397574b56d
+status: Standard

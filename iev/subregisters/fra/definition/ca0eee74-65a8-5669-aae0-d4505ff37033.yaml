@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 585bbf5c-0cc7-59e0-b5c1-7600995c3896
+  definition: fonctionnement d'une base de temps déclenchée dans lequel le début de
+    chaque balayage coïncide avec un point prédéterminé de la grandeur représentée,
+    produisant ainsi une image stable lorsque cette grandeur est périodique
+  examples: []
+  notes:
+  - Dans le cas du balayage déclenché, le signal de déclenchement interne peut être
+    produit pour toute valeur prédéterminée de la grandeur représentée, soit sur la
+    pente positive, soit sur la pente négative.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: ca0eee74-65a8-5669-aae0-d4505ff37033
+status: Standard

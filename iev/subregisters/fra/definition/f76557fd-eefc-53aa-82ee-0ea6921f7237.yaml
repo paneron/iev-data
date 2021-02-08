@@ -1,0 +1,35 @@
+data:
+  authoritative_source:
+  - null
+  concept: a7dd73d0-f288-522b-8f72-4d2d962c91f0
+  definition: 'intervalle de temps nécessaire pour que le front avant d’une forme
+    d’onde passe d’un niveau défini à un autre
+
+
+    image::/assets/images/parts/561/561-fig17-fr.png[]
+
+
+    *Figure 17 – Caractéristiques d’une forme d’onde de sortie*'
+  examples: []
+  notes:
+  - 'Ces niveaux peuvent être les deux niveaux logiques stem:[V]~OL~ et stem:[V]~OH~,
+    ou 10 % à 90 % de son amplitude maximale (stem:[V]~HI~ – stem:[V]~LO~) ou d’un
+    autre rapport défini dans la spécification détaillée
+
+
+    où
+
+
+    stem:[V]~OL~  est la tension de sortie de niveau inférieur
+
+
+    stem:[V]~OH~  est la tension de sortie de niveau supérieur
+
+
+    stem:[V]~HI~  est la tension plane supérieure de la forme d’onde d’impulsion
+
+
+    stem:[V]~LO~  est la tension plane inférieure de la forme d’onde d’impulsion.'
+dateAccepted: 2018-11-17
+id: f76557fd-eefc-53aa-82ee-0ea6921f7237
+status: Standard

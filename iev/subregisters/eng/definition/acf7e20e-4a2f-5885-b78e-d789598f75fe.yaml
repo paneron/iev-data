@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '5.5'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 5.5
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  concept: 5cd8e239-326a-57e2-986c-ae6e27aad1a2
+  definition: third-party {{attestation, IEV:902-04-02}} related to {{product, IEV:902-02-03}}s,
+    processes, systems or persons
+  examples: []
+  notes:
+  - Certification of a management system is sometimes also called registration.
+  - Certification is applicable to all objects of conformity assessment except for
+    {{conformity assessment bodies, IEV:902-01-05}} themselves, to which {{accreditation,
+    IEV:902-04-06}} is applicable.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: acf7e20e-4a2f-5885-b78e-d789598f75fe
+status: Standard

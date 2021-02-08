@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9f744d90-cd02-5db6-a0bd-da2ebb6720b4
+  definition: "différence entre deux stimuli de couleurs, définie par la distance\
+    \ euclidienne entre leurs points représentatifs dans l'espace chromatique L* u*\
+    \ v* CIE 1976 et calculée par l'équation:\r\n<ul style=\"list-style-type:none;\"\
+    >* stem:[Delta E_(uv)^* = ( Delta L_()^* )^2 + ( Delta u_()^* )^2 + ( Delta v_()^*\
+    \ )^2^(1 // 2)]"
+  examples: []
+  notes:
+  - Voir aussi CIE 15, stem:[Colorimetry].
+  - 'Voir aussi ISO/CIE 11664-5, _Colorimetry – Part 5: CIE 1976 L*u*v* Colour Space
+    and u'', v'' Uniform Chromaticity Scale Diagram_.'
+  - Cet article était numéroté 845-03-55 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 845b2aa9-6cc1-59c3-8395-f168fe855819
+status: Standard

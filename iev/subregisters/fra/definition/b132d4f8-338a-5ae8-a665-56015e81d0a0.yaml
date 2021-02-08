@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 127be570-46e5-5183-9d4c-4f0f92470477
+  definition: séquence de fonctionnement qui se produit au moment de la transition
+    d'un {{système à pile à combustible, IEV:485-09-01}}, d'un {{mode opérationnel,
+    IEV:485-21-02}} à un {{état passif, IEV:485-21-03}}, un {{état de pré-génération,
+    IEV:485-21-04}} ou un {{état froid, IEV:485-21-01}}
+  examples: []
+  notes:
+  - Des procédures différentes peuvent caractériser les {{arrêts programmés, IEV:485-19-02}}
+    et les {{arrêts d'urgence, IEV:485-19-02}}.
+dateAccepted: 2018-11-17
+id: b132d4f8-338a-5ae8-a665-56015e81d0a0
+status: Standard

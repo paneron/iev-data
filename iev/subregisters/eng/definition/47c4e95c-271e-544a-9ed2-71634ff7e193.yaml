@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 831e2cfb-b3d1-5deb-939e-759a52be376c
+  definition: 'for a real or complex function stem:[f](stem:[t]) of the real variable
+    stem:[t], complex function stem:[F ( omega )] of the real variable stem:[ω], given
+    by the integral transformation
+
+
+    stem:[F ( omega ) = int_( - oo)^( + oo) f ( t ) e^(- j omega t) d t]
+
+
+    where j is the imaginary unit'
+  examples: []
+  notes:
+  - If stem:[t] is time, the variable stem:[ω] represents angular frequency.
+  - The Fourier transform of the function stem:[f] is also denoted Fstem:[f] or ℱstem:[f].
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 47c4e95c-271e-544a-9ed2-71634ff7e193
+status: Standard

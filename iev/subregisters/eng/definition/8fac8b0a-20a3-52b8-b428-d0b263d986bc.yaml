@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: deb9419a-c844-52df-b21d-f666819032b6
+  definition: 'ratio of the absolute value of the mutual permeance stem:[Λij] related
+    to two circuit elements stem:[i] and stem:[j] to the geometric average of their
+    self-permeances stem:[Λii] and stem:[Λjj]
+
+
+    stem:[k_((i j)) = ((| Lambda_(( i j)) |))/((sqrt(Lambda_(( i i)) Lambda_((j j)))))]'
+  examples: []
+  notes:
+  - 'The inductive coupling factor can also be expressed as
+
+
+    stem:[k_((i j)) = ((| L_(( i j)) |))/((sqrt(L_(( i i)) L_((j j)))))]
+
+
+    where stem:[Lii] and stem:[Ljj] are the self-inductances of the elements and stem:[Lij]
+    their mutual inductance.'
+dateAccepted: '2013-08-01T00:00:00+00:00'
+id: 8fac8b0a-20a3-52b8-b428-d0b263d986bc
+status: Standard

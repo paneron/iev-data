@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: fac71e4a-7b36-55f4-917c-06111aba8470
+  definition: fonction associée à une protection à portée étendue et à autorisation
+    au moyen de laquelle les éléments de détection de défaut à l'extrémité de la section
+    peuvent fonctionner parce que le niveau du défaut est élevé mais où l'alimentation
+    de l'extrémité de la section éloignée est trop faible pour permettre le fonctionnement
+    des éléments principaux de détection de défaut, de telle sorte que le signal éloigné
+    n'est pas envoyé. La réception du signal à l'extrémité à faible alimentation,
+    sous réserve que les conditions locales appropriées soient remplies, entraîne
+    une retransmission du signal reçu vers l'extrémité à forte alimentation afin de
+    permettre le déclenchement à cette extrémité de la section
+  examples: []
+  notes: []
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: a7a65829-d85b-51ca-9979-e683cd16ab4a
+status: Standard

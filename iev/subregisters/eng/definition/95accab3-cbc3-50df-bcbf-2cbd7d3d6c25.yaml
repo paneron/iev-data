@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: bc2e42f4-7904-5f2b-bc68-ddf9e1494f76
+  definition: for a given circuit group or destination code and during a specified
+    time interval, the ratio of the number of seizures that result in an answer signal
+    to the total number of seizures
+  examples: []
+  notes:
+  - At some points of the network this ratio may be lower than completion ratio due
+    to automatic reattempts.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 95accab3-cbc3-50df-bcbf-2cbd7d3d6c25
+status: Standard

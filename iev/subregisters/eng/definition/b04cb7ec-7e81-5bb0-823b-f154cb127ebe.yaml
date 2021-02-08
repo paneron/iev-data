@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - original: ITU-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  concept: 204cda69-1a64-5756-9f30-704af6095071
+  definition: method of data transmission consisting of transmitting data within the
+    baseband of an analogue radio system above the frequency band occupied by a frequency
+    division multiplex signal
+  examples: []
+  notes:
+  - Transmission is generally carried out by modulating a sub-carrier.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: b04cb7ec-7e81-5bb0-823b-f154cb127ebe
+status: Standard

@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 195-02-09
+      link: null
+      original: 195-02-09
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 826-13-22
+      link: null
+      original: 826-13-22
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 648d5243-132a-53ab-80ba-b23dce2695e3
+  definition: conductor provided for purposes of safety, for example protection against
+    electric shock
+  examples: []
+  notes:
+  - In an electrical installation, the conductor identified PE is normally also considered
+    as protective earthing conductor.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: a394d885-c4e1-5f20-93e8-3e92876d6bac
+status: Standard

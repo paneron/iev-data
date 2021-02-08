@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: af5ead8c-2cc1-5022-bce0-7e64feaaea50
+  definition: 'variations à court terme des passages à zéro du signal de sortie de
+    l’oscillateur par rapport à leur position idéale dans le temps
+
+
+    image::/assets/images/parts/561/561-fig20-fr.png[]
+
+
+    *Légende*
+
+
+    stem:[T]~ref~ est la période d’un signal de référence idéal
+
+
+    *Figure 20 – Signal d’horloge avec gigue de phase*'
+  examples: []
+  notes:
+  - La variation de phase Δstem:[φ] avec les composantes de fréquence est supérieure
+    ou égale à 10 Hz. Les variations inférieures à 10 Hz sont appelées «dérapages».
+dateAccepted: 2018-11-17
+id: a9f061a4-0cac-5697-9170-42be542374e0
+status: Standard

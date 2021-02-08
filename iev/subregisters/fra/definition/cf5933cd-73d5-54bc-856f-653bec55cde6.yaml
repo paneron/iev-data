@@ -1,0 +1,36 @@
+data:
+  authoritative_source:
+  - - clause: 881-12-43
+      link: https://webstore.iec.ch/publication/272
+      original: CEI 60050-881:1983, 881-12-43, modifiée
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: définition 405
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 405, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 77c8ea9d-528e-580d-adc9-e30abf1b3031
+  definition: "énergie transmise à un volume de matière par un rayonnement ionisant\
+    \ telle que:\n\nstem:[ε] = stem:[R]~1~ – stem:[R]~2~ + ∑ stem:[Q]\n\noù \n\n*\
+    \  stem:[R]~1~ est la quantité d’énergie rayonnante entrant dans le volume, c'est-à-dire\
+    \ la somme des énergies, à l’exclusion des énergies au repos, de toutes les particules\
+    \ directement et indirectement ionisantes qui entrent dans le volume; *  stem:[R]~2~\
+    \ est la quantité d’énergie rayonnante sortant du volume, c'est-à-dire la somme\
+    \ des énergies, à l’exclusion des énergies au repos, de toutes les particules\
+    \ directement et indirectement ionisantes qui sortent du volume; et *  ∑stem:[Q]\
+    \ est la somme de toutes les variations d’énergie correspondant à la masse au\
+    \ repos des noyaux atomiques et particules élémentaires dans toutes les transformations\
+    \ nucléaires qui se produisent dans le volume; on utilise le signe positif lorsque\
+    \ la variation correspond à une diminution et le signe négatif lorsque la variation\
+    \ correspond à un accroissement"
+  examples: []
+  notes:
+  - L’énergie communiquée est une grandeur stochastique, identique à la dose intégrale
+    absorbée dans ce volume et s'exprime en joules (J).
+  - Cet article était numéroté 393-14-60 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: cf5933cd-73d5-54bc-856f-653bec55cde6
+status: Standard

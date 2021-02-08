@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: '3.7'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.7 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+    - clause: 4.2.9
+      link: https://webstore.iec.ch/publication/28114
+      original: adapted from 4.2.9 of IEC 61828 and 3.6 of IEC 61102
+      ref: IEC 61828
+      relationship:
+        type: identical
+  concept: c39a8645-43a5-5142-b8f3-d660a0ebce82
+  definition: area in a specified plane perpendicular to the beam axis, consisting
+    of all points at which the pulse-pressure-squared integral is greater than a specified
+    fraction of the maximum value of the pulse-pressure-squared integral in that plane
+  examples: []
+  notes:
+  - Some commonly specified levels are 0,25 and 0,01 for the −6 dB and −20 dB beam
+    areas, respectively.
+dateAccepted: '2011-01-01T00:00:00+00:00'
+id: 01525e80-d410-50e9-b38c-a2ff40b4434a
+status: Standard

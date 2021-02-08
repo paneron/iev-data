@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 31d3811b-a809-5fac-93c1-8ed7b06c67d7
+  definition: time response of a linear time-invariant system, which initially is
+    in steady state stem:[U]~0~, stem:[V]~0~, produced by application of an impulse
+    function Δstem:[u]~δ~(stem:[t]) = stem:[K]~δ~·δ(stem:[t]) to one of the input
+    variables, where Δstem:[v]~δ~(stem:[t]) = stem:[v](stem:[t]) – stem:[V]~0~ and
+    Δstem:[u]~δ~(stem:[t]) = stem:[u](stem:[t]) – stem:[U]~0~
+  examples: []
+  notes: []
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 71aa6e6e-f8c4-58b7-a7ce-dd4cb00d5987
+status: Standard

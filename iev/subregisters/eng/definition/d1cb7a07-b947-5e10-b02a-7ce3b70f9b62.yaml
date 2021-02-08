@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.20
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.20
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  concept: 422e3c84-8634-5b4e-bf2d-fa5433f05a5f
+  definition: abnormal condition that could lead to an error in a system
+  examples: []
+  notes:
+  - A fault can be random or systematic.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: d1cb7a07-b947-5e10-b02a-7ce3b70f9b62
+status: Standard

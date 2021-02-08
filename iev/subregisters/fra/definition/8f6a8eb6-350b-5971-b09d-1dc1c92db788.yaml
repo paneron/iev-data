@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: 54198a4d-30bb-5911-8fed-f4f585e0b9c3
+  definition: détecteur de rayonnement qui permet la détection d'un événement ionisant
+    individuel
+  examples: []
+  notes:
+  - 'On distingue trois modes de fonctionnement:
+
+
+    *  Mode ionisation: correspondant à l’étendue de la tension de polarisation où
+    la multiplication dans le gaz n’a pas lieu. L’amplitude de l’impulsion est une
+    mesure directe du nombre total d’ions produits dans le volume sensible du détecteur
+    par un événement ionisant. Il s’agit d’une chambre d’ionisation de mesure de courant,
+    NON d’un type d’impulsion. *  Mode proportionnel: correspondant à l’étendue de
+    la tension de polarisation où le facteur de multiplication du gaz est indépendant
+    de l’ionisation primaire. L’amplitude de l’impulsion est proportionnelle au nombre
+    total d’ions produits dans le volume sensible du détecteur par un événement ionisant.
+    *  Mode Geiger-Muller: correspondant à l’étendue de la tension de polarisation
+    où chaque événement ionisant produit une impulsion de sortie ayant une amplitude
+    qui est indépendante du nombre d’ions produits dans le volume sensible du détecteur
+    par un événement ionisant. '
+  - Cet article était numéroté 394-25-03 dans la CEI 60050-394:2007.
+dateAccepted: 2018-11-17
+id: 8f6a8eb6-350b-5971-b09d-1dc1c92db788
+status: Standard

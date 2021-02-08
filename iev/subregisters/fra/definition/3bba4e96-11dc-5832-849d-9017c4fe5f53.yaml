@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: '3.1'
+      original: IEC Guide 117:2010, 3.1
+      ref: IEC Guide 117:2010
+      relationship:
+        type: identical
+  concept: 95cf13f2-a490-5d93-baca-1fdf4fbc3191
+  definition: surface adjacente à une {{surface fonctionnelle chaude, IEV:903-03-01}}
+  examples: []
+  notes:
+  - La surface adjacente et la surface fonctionnelle chaude sont constituées de la
+    même pièce de matériau, ou sont en contact thermique direct, et présentent des
+    propriétés thermiques analogues. La surface adjacente n'est pas chauffée volontairement
+    au cours de l'utilisation du produit. Toutefois, dans la mesure où elle est adjacente
+    à la surface fonctionnelle chaude et qu'elle peut devenir chaude par conduction,
+    sa température sera comprise entre celle de la surface fonctionnelle chaude et
+    celle d'une {{surface pouvant être touchée, IEV:903-03-04}}.
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: 3bba4e96-11dc-5832-849d-9017c4fe5f53
+status: Standard

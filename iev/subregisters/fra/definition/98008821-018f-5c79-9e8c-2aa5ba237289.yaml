@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  concept: 379b1422-dabc-5073-b547-3a303fa301b8
+  definition: zone associée à une station d'émission de Terre pour un service de radiocommunication
+    donné, à l'intérieur de laquelle doit se trouver une station de réception pour
+    qu'une radiocommunication de nature déterminée puisse être établie dans des conditions
+    techniques déterminées
+  examples: []
+  notes:
+  - Plusieurs zones de couverture distinctes peuvent être associées à une même station.
+  - 'Les conditions techniques comprennent entre autres: la fréquence, les caractéristiques
+    des équipements d''émission et de réception utilisés, les conditions de leur installation,
+    la qualité de transmission voulue en particulier les rapports de protection, et
+    les conditions d''exploitation.'
+  - 'Suivant le cas, on peut distinguer:
+
+
+    – la zone de couverture en l''absence de brouillage, c''est-à-dire celle limitée
+    uniquement par les bruits artificiels ou naturels;
+
+
+    – la zone de couverture nominale résultant d''un plan de fréquences, en tenant
+    compte des émetteurs prévus dans ce plan;
+
+
+    – la zone de couverture réelle, déterminée en tenant compte des bruits et brouillages
+    existant en pratique.'
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 98008821-018f-5c79-9e8c-2aa5ba237289
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3dc3e02b-ab4a-5098-b0c0-a8ca35de6a1a
+  definition: 'of a material for indirectly ionizing particles, the quotient dstem:[N]/stem:[N]
+    by stem:[ρ] dstem:[l],where dstem:[N]/stem:[N] is the fraction of particles that
+    experience interactions in traversing a distance dstem:[l] in a medium of density
+    stem:[ρ]
+
+
+    stem:[(mu)/(rho) = (1)/((rho N)) ((d N))/((d l))]'
+  examples: []
+  notes:
+  - The mass attenuation coefficient stem:[(mu)/(rho)] for X-radiation and gamma-radiation
+    may be expressed as the sum of several parts, each attributed to a particular
+    phenomenon; stem:[(tau)/(rho)] for the photoelectric effect; stem:[((sigma_c))/(rho)]
+    for the Compton effect; stem:[((sigma_((coh))))/(rho)] for coherent scattering;
+    and stem:[(kappa)/(rho)] for pair production.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 26361d45-00ac-5edd-9c29-729fa2e271b4
+status: Standard

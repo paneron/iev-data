@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 35203465-c814-5839-8d86-0605dd713c64
+  definition: three terminal input circuit where the nominal values of the impedances
+    between the common terminal and each of the other two terminals are equal
+  examples: []
+  notes:
+  - The common terminals of the input and the output need not necessarily both be
+    accessible, nor need they be at the same potential.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: fd85a029-5fc2-5d8d-8df4-2df6020b368c
+status: Standard

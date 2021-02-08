@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - - clause: '1.2'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC Guide 99:2007, 1.2, modified – Note 3 has been modified.
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        modification: Note 3 has been modified.
+        type: modified
+  concept: 5e93ac64-08cb-5ce0-944e-1846d69edd43
+  definition: aspect common to mutually comparable {{quantities, IEV:112-01-01}}
+  examples: []
+  notes:
+  - "The division of the concept of quantity into several kinds of quantity is to\
+    \ some extent arbitrary.\r\nExamples:\n\n• The quantities diameter, circumference,\
+    \ and wavelength, are generally considered to be quantities of the same kind,\
+    \ namely of the kind of quantity called length.\n\n• The quantities heat, kinetic\
+    \ energy, and potential energy, are generally considered to be quantities of the\
+    \ same kind, namely of the kind of quantity called energy."
+  - 'Quantities of the same kind within a given system of quantities have the same
+    {{dimension of a quantity, IEV:112-01-11}}. However, quantities of the same dimension
+    are not necessarily of the same kind.
+
+
+    Examples: The quantities moment of force and energy are not of the same kind,
+    although they have the same dimension. Similarly for heat capacity and entropy,
+    as well as for relative permeability and mass fraction.'
+  - The term "kind" is mainly used in expressions such as "quantities of the same
+    kind." Two quantities of the same kind are mutually comparable, so that they can
+    be placed in order of magnitude. Length and mass are quantities of different kinds
+    because they are not mutually comparable.
+dateAccepted: '2019-01-01T00:00:00+00:00'
+id: 6ec0167b-de93-5f8c-a83c-9fff9a97eddb
+status: Standard

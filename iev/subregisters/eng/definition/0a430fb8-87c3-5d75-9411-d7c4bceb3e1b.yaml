@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3685adc4-4720-5661-ac4c-6c96d8fd9d30
+  definition: expected number of hours or days in the year when the corresponding
+    hourly or daily peak load is not met, due to a generation capacity shortfall
+  examples: []
+  notes:
+  - Generation capacity generally includes imports over interconnections with other
+    {{bulk electric systems, IEV:692-01-04}}.
+  - This entry was numbered 191-29-02 in IEC 60050-191:1990.
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: 0a430fb8-87c3-5d75-9411-d7c4bceb3e1b
+status: Standard

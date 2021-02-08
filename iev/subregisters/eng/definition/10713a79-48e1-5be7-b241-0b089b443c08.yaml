@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 578d209c-bd9b-5d1d-a7f4-be9d8118fd62
+  definition: digital encoding of a colour space, including the specification of a
+    digital encoding method, and an encoding range
+  examples: []
+  notes:
+  - 'Multiple colour space encodings can be defined based on a single colour space
+    where the different colour space encodings have different digital encoding methods
+    and/or encoding ranges. (For example, 8-bit sRGB in accordance with IEC 61966-2-1,
+    _Multimedia systems and equipment – Colour measurement and management – Part 2-1:
+    Colour management – Default RGB colour space – sRGB_ and 16-bit scRGB in accordance
+    with IEC 61966-2-2, _Multimedia systems and equipment – Colour measurement and
+    management – Part 2-2: Colour management – Extended RGB colour space – scRGB_
+    are different colour space encodings based on a particular RGB colour space.)'
+  - A colour space encoding is defined with a number of colour channels, each channel
+    corresponding to one dimension of the colour space. Encoded colour channel data
+    values indicate a position along the corresponding dimension in the geometric
+    colour space representation.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 10713a79-48e1-5be7-b241-0b089b443c08
+status: Standard

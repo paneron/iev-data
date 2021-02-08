@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '4.18'
+      original: ≈ VIM 4.18
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  concept: 97ecc56e-b9fa-588a-bf6d-c48f2012625a
+  definition: longueur de la ligne (courbe ou droite) qui passe par les milieux de
+    tous les traits les plus petits de la graduation, comprise entre le premier et
+    le dernier trait de l'échelle
+  examples: []
+  notes:
+  - La longueur d’échelle est exprimée en unité de longueur, quelle que soit l’unité
+    du mesurande ou l’unité marquée sur l’échelle.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 8e5cdd47-e4f1-5fc8-8e07-9a9e3dae4f17
+status: Standard

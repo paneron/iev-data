@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5689c77f-bbc9-5e8a-8471-c205bd10303e
+  definition: quotient of five times the sum of the area of the walls bounded by the
+    floor and the working plane and the sum of the areas of the floor and the working
+    plane, used in the calculation of the utilization factor or utilance
+  examples: []
+  notes:
+  - 'The floor cavity ratio is given by the formula
+
+
+    stem:[K_f = ((5 h_f ( a + b )))/((a b))]
+
+
+    where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h]~f~
+    is the distance from the floor to the utilization plane.'
+  - See also "<a href="IEV845-29-074">ceiling cavity ratio</a>" and "<a href="IEV845-29-072">room
+    cavity ratio</a>".
+  - The floor cavity ratio has unit one.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 6cfd862e-53ad-57d3-9679-1694da60f3fd
+status: Standard

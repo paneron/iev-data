@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '139'
+      original: RR 139
+      ref: ITU RR
+      relationship:
+        type: identical
+  concept: efc64f9d-f1d7-56d3-a142-2645f68fc13b
+  definition: emission on a frequency or frequencies which are outside the necessary
+    bandwidth and the level of which may be reduced without affecting the corresponding
+    transmission of information. Spurious emissions include harmonic emissions, parasitic
+    emissions, intermodulation products and frequency conversion products, but exclude
+    out-of-band emissions
+  examples: []
+  notes:
+  - Necessary bandwidth is defined in Radio Regulation 146.
+  - The English word "emission" used here has the sense defined in 161-01-09.
+dateAccepted: '1990-08-01T00:00:00+00:00'
+id: 5ff28467-1b18-53e0-a598-434eda7d24a0
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 388b87be-b42a-5899-aa67-b58e211f433e
+  definition: quantity obtained by subtracting from an alternating quantity its fundamental
+    component or its reference fundamental component
+  examples: []
+  notes:
+  - The total distortion content includes harmonic components and interharmonic components
+    if any.
+  - The total distortion content depends on the choice of the fundamental component.
+    If it is not clear from the context which one is subtracted an indication should
+    be given.
+  - The total distortion content is a time function.
+  - An alternating quantity is a periodic quantity with zero DC component.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 680b3a07-bc12-5ea1-81aa-65745fb29b29
+status: Standard

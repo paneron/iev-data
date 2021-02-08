@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 548a1e44-f9a3-5cda-8ac6-5e6c38acc711
+  definition: moyenne de la disponibilité instantanée sur un intervalle de temps donné
+    (stem:[t]~1~, stem:[t]~2~)
+  examples: []
+  notes:
+  - 'La disponibilité moyenne est liée à la disponibilité instantanée stem:[A](stem:[t])
+    par la formule:
+
+
+    stem:[bar A ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) A ( t ) d t]'
+dateAccepted: 2018-11-17
+id: 6c12562b-9df8-5ec3-82ae-6aa1ebc106fc
+status: Standard

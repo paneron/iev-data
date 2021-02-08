@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - - clause: '6.8'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 6.8, modifiée – La note du titre de l'Article
+        6 du Guide ISO/CEI 2:2004 a été rajouté à l'entrée.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: La note du titre de l'Article 6 du Guide ISO/CEI 2:2004 a été
+          rajouté à l'entrée.
+        type: modified
+  concept: 16b14fb1-2642-5c8d-874e-3ec28ae409d4
+  definition: '{{norme, IEV:901-02-02}} alignée sur une autre norme, de sorte que
+    les produits, processus, services, {{essais, IEV:902-03-02}} et informations fournis
+    selon la première norme sont conformes aux {{exigence, IEV:901-05-05}}s de la
+    seconde, mais non inversement'
+  examples: []
+  notes:
+  - Une norme alignée unilatéralement n'est ni harmonisée avec, ni équivalente à la
+    norme sur laquelle elle est alignée.
+  - Les {{règlements techniques, IEV:901-02-11}} peuvent être harmonisés comme des
+    normes. Les termes et définitions correspondants sont obtenus en remplaçant «normes»
+    par «règlements techniques» dans les définitions {{IEV 901-06-01, IEV:901-06-01}}
+    à {{IEV 901-06-09, IEV:901-06-09}}, et «organismes à activités normatives» par
+    «autorités» dans la définition {{IEV 901-06-01, IEV:901-06-01}}.
+dateAccepted: 2018-11-17
+id: 5881b540-e6a1-5a63-a767-04750431b579
+status: Standard

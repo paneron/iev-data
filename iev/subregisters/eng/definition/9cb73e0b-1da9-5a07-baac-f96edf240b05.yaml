@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: definition 79
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 79
+      ref: ISO 921:1997
+      relationship:
+        type: identical
+  concept: 9db8c8cc-f579-5758-a0ec-f5c39fe975a8
+  definition: 'SI unit of {{activity, IEV:395-01-05}}
+
+
+    1 Bq = 1 s^−1^'
+  examples: []
+  notes:
+  - One becquerel is equal to one nuclear transition or one disintegration per second.
+  - This entry was numbered 393-14-13 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 9cb73e0b-1da9-5a07-baac-f96edf240b05
+status: Standard

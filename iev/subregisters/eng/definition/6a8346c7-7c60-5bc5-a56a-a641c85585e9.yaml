@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: c23bf9da-31e7-5b47-927f-89b62504f689
+  definition: the width of the rectangular pass-band of an ideal linear two port device
+    of constant gain in this pass band equal to the maximum gain of a real linear
+    two-port device and such that, if the same source of white noise were connected
+    to the inputs of the two devices supposed to be both free from internal noise,
+    the same noise power would be available at the two outputs
+  examples: []
+  notes:
+  - 'If the available power gain of the real two-port device is a function of frequency
+    stem:[G](stem:[f]) having a maximum value stem:[G]~M~, the noise bandwidth of
+    the two-port device is given by:
+
+
+    stem:[f = (1)/((G_M)) int_0^(oo) G ( f ) d f]'
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 6a8346c7-7c60-5bc5-a56a-a641c85585e9
+status: Standard

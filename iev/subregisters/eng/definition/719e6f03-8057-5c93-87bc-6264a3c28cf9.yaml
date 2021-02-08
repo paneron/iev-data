@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3a99ab2f-4a23-5cfa-a6f7-084a9c15e7fd
+  definition: for a given circuit group or destination code and during a specified
+    time interval, the ratio of the number of bids that result in an answer signal
+    to the total number of bids
+  examples: []
+  notes:
+  - At some points of the network this ratio may be lower than the answer seizure
+    ratio due to unsuccessful bids.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 719e6f03-8057-5c93-87bc-6264a3c28cf9
+status: Standard

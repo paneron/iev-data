@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: '3.11'
+      link: https://webstore.iec.ch/publication/6486
+      original: définition 3.11 de la CEI 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  concept: bb160911-bea5-562b-823d-843808bba664
+  definition: distance la plus importante entre deux points d’un axe spécifié perpendiculaire
+    à l’axe d'alignement du faisceau, où l’intégrale de pression d'impulsion au carré
+    est inférieure à sa valeur maximale sur l’axe spécifié par une quantité donnée
+  examples: []
+  notes:
+  - Les largeurs de faisceau communément utilisées sont spécifiées à des niveaux –6
+    dB, –12 dB et –20 dB en dessous de la valeur maximale. Le calcul de décibel implique
+    l’utilisation de 10 fois le logarithme (en base 10) des rapports des intégrales.
+dateAccepted: '2011-01-01T00:00:00+00:00'
+id: a0b70a2f-220d-58fb-a890-d8a30b6daa7f
+status: Standard

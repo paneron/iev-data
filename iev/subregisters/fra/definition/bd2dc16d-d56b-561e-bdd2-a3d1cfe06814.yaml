@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - null
+  concept: 05820346-da00-576a-b6f7-8dbde1324851
+  definition: fréquence d’une perturbation électromagnétique qui suscite une réponse
+    non désirée d’un équipement donné
+  examples: []
+  notes:
+  - 'Dans le cas d''un récepteur réglé sur une fréquence stem:[f]~0~, les formules
+    suivantes donnent de nombreuses fréquences parasites possibles stem:[f]~s~:
+
+
+    stem:[f_s = (1)/(m) ( n f_L +- f_I )]
+
+
+    ou
+
+
+    stem:[f_s = ((f_0))/(h)]
+
+
+    où
+
+
+    stem:[f]~L~ est la fréquence de l''oscillateur local,
+
+
+    stem:[f]~I~ est la fréquence intermédiaire,
+
+
+    stem:[m], stem:[n], et stem:[h] sont des entiers.'
+dateAccepted: 2018-11-17
+id: bd2dc16d-d56b-561e-bdd2-a3d1cfe06814
+status: Standard

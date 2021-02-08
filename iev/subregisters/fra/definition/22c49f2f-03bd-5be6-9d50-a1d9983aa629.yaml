@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 450298ab-4ddf-5c7b-acc7-cc305abf2fa7
+  definition: niveau de perturbation électromagnétique utilisé comme niveau de référence
+    pour assurer la coordination de l'établissement des limites d'émission et d'immunité
+  examples: []
+  notes:
+  - Par convention, le niveau de compatibilité est choisi de telle sorte qu'il n'ait
+    qu'une faible probabilité d'être dépassé par le niveau réel de perturbation. Cela
+    étant, la compatibilité électromagnétique n'est assurée que si les niveaux d'émission
+    et d'immunité sont maîtrisés de telle sorte qu'en chaque endroit le niveau de
+    perturbation résultant de l'ensemble des émissions soit plus faible que le niveau
+    d'immunité de chaque dispositif, appareil ou système situé en ce même endroit.
+  - Le niveau de compatibilité peut dépendre du phénomène, du temps ou de l'endroit.
+dateAccepted: '1990-08-01T00:00:00+00:00'
+id: 22c49f2f-03bd-5be6-9d50-a1d9983aa629
+status: Standard

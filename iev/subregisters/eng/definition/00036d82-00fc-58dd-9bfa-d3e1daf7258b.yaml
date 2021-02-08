@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8a161177-f99e-56bf-8218-5b3cd64dd60d
+  definition: linear time-invariant transfer element created by the additive combination
+    of a proportional element and an integral element
+  examples: []
+  notes:
+  - "The transfer function of an ideal PI element is given by\n\nstem:[((V ( s )))/((U\
+    \ ( s ))) = K_Ρ * ( 1 + (1)/((T_i * s)) )]\n\nwhere<table>\r\n<tr>\n<td>\nstem:[T]~i~\n\
+    </td>\n<td>is the reset time;</td>\n</tr>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n\
+    <td>is the proportional action coefficient;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n\
+    <td>is the complex variable of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\n\
+    stem:[U](stem:[s])</td>\n<td>is the input transform;</td>\n</tr>\r\n<tr>\n<td>\n\
+    stem:[V](stem:[s])</td>\n<td>is the output transform.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-22 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 00036d82-00fc-58dd-9bfa-d3e1daf7258b
+status: Standard

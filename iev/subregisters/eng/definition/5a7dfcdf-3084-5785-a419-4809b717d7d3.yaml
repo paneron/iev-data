@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2cf7fc89-324e-57a3-8e7c-d50bc17728ca
+  definition: measure of frequency stability in the frequency domain
+  examples: []
+  notes:
+  - The spectral purity is usually represented as the signal side noise power spectrum
+    expressed in decibels relative to total signal power, per hertz bandwidth. This
+    spectral purity includes non-deterministic noise power, harmonic distortion components
+    and spurious frequency interferences.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 5a7dfcdf-3084-5785-a419-4809b717d7d3
+status: Standard

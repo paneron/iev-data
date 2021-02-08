@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 37a1bc75-e804-583e-a0a6-7dd1759ca933
+  definition: process by which the spatial distribution of a beam of radiation is
+    changed when it is deviated in many directions by a surface or by a medium, without
+    change in {{frequency, IEV:103-06-02}} of its monochromatic components
+  examples: []
+  notes:
+  - A distinction is made between <a href="IEV845-24-050">selective scattering</a>
+    and <a href="IEV845-24-051">non-selective scattering</a> according to whether
+    or not the scattering properties vary with the wavelength of the incident radiation.
+  - The frequency is unchanged only if there is no Doppler effect due to the motion
+    of the materials from which the radiation is returned.
+  - This entry was numbered 845-04-44 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: b977ff35-7a4d-5ae0-80c1-6c883a77b18e
+status: Standard

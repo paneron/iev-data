@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: ce103703-fa30-588c-8267-5e2826e212f2
+  definition: dispositif à quatre accès destiné à répartir une énergie incidente sur
+    l'un quelconque des accès de façon égale vers deux des autres accès, de telle
+    sorte que, idéalement, aucune énergie ne soit transmise vers le quatrième accès
+  examples: []
+  notes:
+  - La répartition idéale des énergies n'est généralement réalisée que si chaque accès
+    est fermé sur l'impédance convenable, le coupleur différentiel étant alors dit
+    "équilibré".
+  - Un coupleur différentiel peut être utilisé pour combiner deux signaux incidents
+    sur deux accès, de façon à alimenter ainsi un seul accès de sortie.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 3003ec32-a821-51fb-97ec-94b554356967
+status: Standard

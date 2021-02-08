@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: a75507a0-a6fb-5019-a60d-6367dda8d560
+  definition: lowest voltage at which partial discharges are initiated in the test
+    arrangement when the voltage applied to the test object is gradually increased
+    from a lower value at which no such discharges are observed
+  examples: []
+  notes:
+  - With sinusoidal applied voltage, the partial discharge inception voltage is defined
+    as the r.m.s. value of the voltage. With impulse voltages, the partial discharge
+    inception voltage is defined as the peak-to-peak voltage.
+dateAccepted: '2007-11-01T00:00:00+00:00'
+id: 90003e36-b26c-5b65-bf16-6d221290260b
+status: Standard

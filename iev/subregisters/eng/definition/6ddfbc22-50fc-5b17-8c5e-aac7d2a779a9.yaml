@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 32568746-8c9b-565f-9de1-6c9956271671
+  definition: attribute of a colour image encoding indicating the kind of image condition
+    inherent in colour image data values prepared and represented in that encoding
+  examples: []
+  notes:
+  - Colour image data are referred to a particular image condition through image capture,
+    digitization, colour rendering and colour re-rendering processes.
+  - Typical image states are scene-referred, original-referred, output-referred and
+    picture-referred.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 6ddfbc22-50fc-5b17-8c5e-aac7d2a779a9
+status: Standard

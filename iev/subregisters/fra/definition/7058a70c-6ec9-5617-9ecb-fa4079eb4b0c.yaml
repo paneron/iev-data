@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 712-02-56
+      link: null
+      original: 712-02-56
+      ref: IEV
+      relationship:
+        type: identical
+  concept: ed323b6b-642f-5651-ba47-72a5a1812c3b
+  definition: quotient, généralement exprimé en unités logarithmiques, du gain isotrope
+    stem:[G] d'une antenne par la température du bruit stem:[T] de l'ensemble d'un
+    récepteur et de son antenne, rapportée aux bornes de celle-ci, à une fréquence
+    et dans des conditions d'installation et d'emploi spécifiées
+  examples: []
+  notes:
+  - Si la température de bruit est exprimée en kelvins et le gain en rapport de puissance,
+    la quantité 10 log stem:[G]/stem:[T] est exprimée avec une unité de mesure désignée
+    par le symbole dB (K^­1^), et parfois incorrectement par dBK.
+dateAccepted: '1994-08-01T00:00:00+00:00'
+id: 7058a70c-6ec9-5617-9ecb-fa4079eb4b0c
+status: Standard

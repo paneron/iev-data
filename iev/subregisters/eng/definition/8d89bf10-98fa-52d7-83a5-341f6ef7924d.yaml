@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 725-12-28
+      link: null
+      original: 725-12-28
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: '108'
+      original: ITU RR 108 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  concept: 38a2813a-a1d6-5ff3-be08-45178a86dfbd
+  definition: connection by satellite between a transmitting station and a receiving
+    station through two or more satellites without any intermediate Earth station
+  examples: []
+  notes:
+  - A multi-satellite link between Earth stations comprises one up-link, one or more
+    inter-satellite links and one down-link.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 8d89bf10-98fa-52d7-83a5-341f6ef7924d
+status: Standard

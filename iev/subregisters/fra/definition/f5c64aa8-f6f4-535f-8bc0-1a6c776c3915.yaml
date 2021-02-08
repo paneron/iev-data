@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: 93098850-5dfd-54cf-82da-a0ec132b31d1
+  definition: 'quotient du coefficient d''intensité lumineuse stem:[R] d''une surface
+    plane rétroréfléchissante par son aire stem:[A]
+
+
+    stem:[R_A = (R)/(A) = ((I // E_( _|_ )))/(A)]
+
+
+    où stem:[I] est l''intensité lumineuse du rétroréflecteur dans la direction d''observation,
+    et stem:[E_( _|_ )] est l''éclairement du rétroréflecteur dans un plan perpendiculaire
+    à la direction de la lumière incidente'
+  examples: []
+  notes:
+  - Le coefficient de rétroréflexion est particulièrement utile pour décrire les matériaux
+    en feuilles.
+  - Anciennement, le symbole stem:[R]′ était utilisé pour cette grandeur.
+  - Le coefficient de rétroréflexion est exprimé en candela par lux par mètre carré
+    (cd·lx^−1^·m^−2^).
+  - Cet article était numéroté 845-04-97 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: f5c64aa8-f6f4-535f-8bc0-1a6c776c3915
+status: Standard

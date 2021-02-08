@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3a4e0c4c-502e-59be-86ac-fb20a04946bc
+  definition: "unité fonctionnelle avec deux entrées ou plus et une seule sortie,\
+    \ dont la variable de sortie a pour valeur la somme algébrique des valeurs des\
+    \ variables d'entrée multipliées par des facteurs de pondération constants\n\n\
+    stem:[v ( t ) = K_1 * u_1 ( t ) + K_2 * u_2 ( t ) + ...]\n\noù<table>\r\n<tr>\n\
+    <td>stem:[t]</td>\n<td>est le temps;</td>\n</tr>\r\n<tr>\n<td>\nstem:[K]~1~, stem:[K]~2~\n\
+    </td>\n<td>sont les facteurs de pondération;</td>\n</tr>\r\n<tr>\n<td>\nstem:[u]~1~,\
+    \ stem:[u]~2~\n</td>\n<td>sont les variables d’entrée;</td>\n</tr>\r\n<tr>\n<td>stem:[v]</td>\n\
+    <td>est le résultat de sommation.</td>\n</tr>\r\n</table>"
+  examples: []
+  notes:
+  - Cet article était numéroté 351-32-16 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: ec36c8db-fee8-575c-92c2-339f57212f75
+status: Standard

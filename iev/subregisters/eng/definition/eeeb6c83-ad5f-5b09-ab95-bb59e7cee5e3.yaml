@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 195-05-14
+      link: null
+      original: IEV 195-05-14
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 26e68f01-4b22-5ccf-b267-9bc25efabc18
+  definition: at a given location of a three-phase system, and for a given system
+    configuration, ratio of the highest rms value of line-to-earth power frequency
+    voltage on a healthy line conductor during an earth fault affecting one or more
+    line conductors at any point on the system, to the rms value of line-to-earth
+    power frequency voltage which would be obtained at the given location in the absence
+    of any such earth fault
+  examples: []
+  notes: []
+dateAccepted: '2016-02-01T00:00:00+00:00'
+id: eeeb6c83-ad5f-5b09-ab95-bb59e7cee5e3
+status: Standard

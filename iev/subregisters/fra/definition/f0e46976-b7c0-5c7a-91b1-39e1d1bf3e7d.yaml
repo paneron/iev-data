@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: définition 3
+      link: https://www.iso.org/standard/37456.html
+      original: ISO 14040:2006, définition 3.2, modifié – Les termes "intrants" et
+        "sortants" ont été remplacés par "éléments entrants" et "éléments sortants"
+        respectivement  pour compatibilité avec l'IEV.
+      ref: ISO 14040:2006
+      relationship:
+        modification: Les termes "intrants" et "sortants" ont été remplacés par "éléments
+          entrants" et "éléments sortants" respectivement  pour compatibilité avec
+          l'IEV.
+        type: modified
+  concept: 44c2d305-3e77-5a66-8ae7-932a4c246e1b
+  definition: compilation et évaluation des {{éléments entrants, IEV:901-07-05}},
+    des {{éléments sortants, IEV:901-07-06}} et des {{impacts environnementaux, IEV:904-01-03}}
+    potentiels d'un système de produits au cours de son cycle de vie
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: f0e46976-b7c0-5c7a-91b1-39e1d1bf3e7d
+status: Standard

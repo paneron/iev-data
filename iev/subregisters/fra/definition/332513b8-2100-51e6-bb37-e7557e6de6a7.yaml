@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5d91ee78-3948-5192-9c2f-f36ebfcd4bbd
+  definition: 'quotient représenté par la réponse impulsionnelle Δstem:[v]~δ~(stem:[t])
+    divisé par la zone impulsionnelle stem:[K]~δ~ de la fonction impulsion, le quotient
+    étant décrit par
+
+
+    stem:[g ( t ) = (1)/((K_(delta))) * Delta v_(delta) ( t )]'
+  examples: []
+  notes:
+  - 'La réponse impulsionnelle unité stem:[g](stem:[t]) d’un système contient toutes
+    les propriétés du système et est utilisée pour calculer la réponse Δstem:[v](stem:[t])
+    du système à une variable d’entrée Δstem:[u](stem:[t]) par l’intégrale de convolution
+
+
+    stem:[Delta v ( t ) = int_((- oo))^(oo) g ( tau ) * Delta u ( t - tau ) d tau].'
+  - 'La réponse en fréquence du système stem:[G ( j * omega )] peut être calculée
+    par la transformation de Fourier de stem:[g](stem:[t]):
+
+
+    stem:[G ( j * omega ) = ℱ { g ( t ) }].'
+  - La réponse impulsionnelle unité d’un système peut mathématiquement être considérée
+    comme le résultat de l’application d’une impulsion unitaire à une variable d’entrée.
+  - Cet article était numéroté 351-24-19 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 332513b8-2100-51e6-bb37-e7557e6de6a7
+status: Standard

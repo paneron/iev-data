@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 444-05-04
+      link: https://webstore.iec.ch/publication/208
+      original: IEC 60050-444:2002, 444-05-04, modified – "time interval" replaced
+        by "duration".
+      ref: IEC 60050-444:2002
+      relationship:
+        modification: '"time interval" replaced by "duration".'
+        type: modified
+  concept: f482d715-27b3-5c6f-9d31-dc1d7036d752
+  definition: for a contact that is closing/opening its circuit, duration between
+    the instant when the {{contact circuit, IEV:447-04-05}} first closes/opens and
+    the instant when the circuit is finally closed/opened
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: 65448877-17e8-5689-8a9f-f41e2919c831
+status: Standard

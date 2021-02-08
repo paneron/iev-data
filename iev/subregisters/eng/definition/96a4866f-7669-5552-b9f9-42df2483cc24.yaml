@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - - clause: '5.24'
+      original: ≠ VIM 5.24
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: 21271dd9-2186-5070-9aaf-9db0ee3c7dc3
+  definition: error of a measuring instrument when used under reference conditions
+  examples: []
+  notes:
+  - This term is used in the "true value" approach.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 96a4866f-7669-5552-b9f9-42df2483cc24
+status: Standard

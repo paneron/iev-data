@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: '1.14'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.14
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  concept: a73b6513-7603-5e52-83d9-ed0aab985543
+  definition: system of units, based on a given system of quantities, in which the
+    unit of measurement for each derived quantity is a coherent derived unit
+  examples: []
+  notes:
+  - A system of units can be coherent only with respect to a system of quantities
+    and the adopted base units.
+  - For a coherent system of units, numerical value equations have the same form,
+    including numerical factors, as the corresponding quantity equations.
+  - An example of coherent system of units is the set of coherent SI units with the
+    relations between them.
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 36a10352-c073-5a1d-8623-72c7f94d3a75
+status: Standard

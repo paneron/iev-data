@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8911de4f-84dc-5407-a99d-a4ba97853fa0
+  definition: fonction d'une variable réelle ayant la valeur –1 pour toute valeur
+    négative de la variable, +1 pour toute valeur positive et 0 lorsque la variable
+    est nulle
+  examples: []
+  notes:
+  - 'Le signum peut être généralisé à des variables complexes: stem:[sgn underset(_)(z)
+    = ((underset(_)(z)))/((| underset(_)(z) |))] pour stem:[z != 0] et stem:[sgn 0
+    = 0].'
+dateAccepted: 2018-11-17
+id: 0fa7c845-47c8-582c-93df-dcf4afd5705b
+status: Standard

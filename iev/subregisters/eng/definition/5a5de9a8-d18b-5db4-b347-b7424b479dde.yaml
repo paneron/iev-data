@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: cb3b47f3-8f89-5e52-85d8-c0b8ee265d68
+  definition: sum of Sabine absorptions due to objects and surfaces in a room, and
+    due to dissipation of energy in the medium within the room
+  examples: []
+  notes:
+  - With stem:[A]~stem:[i]~ as the Sabine absorption of the stem:[i]-th surface or
+    object or medium in a room, room absorption is stem:[A] = Σ stem:[A]~stem:[i]~.
+  - 'Sabine absorption due to dissipation in the medium, in a room of volume stem:[V],
+    is:
+
+
+    stem:[A_m = (4)/((1 0 l o g_((10)) e)) alpha V = 0,921 alpha V]
+
+
+    where:
+
+
+    stem:[α] is the attenuation coefficient of the medium in decibels per unit length.'
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 5a5de9a8-d18b-5db4-b347-b7424b479dde
+status: Standard

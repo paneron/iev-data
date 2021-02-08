@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: ac2fd4af-cb37-586e-a433-a40881390322
+  definition: numerical value which has to be substituted for the actual gap length
+    for computing the gap loss
+  examples: []
+  notes:
+  - The effective gap length is equal to the longest recorded wavelength at which
+    the head output is zero.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: eae36b0c-594e-540b-877f-335ee5894c98
+status: Standard

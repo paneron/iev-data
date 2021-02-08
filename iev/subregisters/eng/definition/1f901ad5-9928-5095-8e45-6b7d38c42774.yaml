@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2d6ff61e-b94d-5d0c-ace1-806a7100502e
+  definition: amount of {{catalyst, IEV:485-01-01}} incorporated in the {{fuel cell,
+    IEV:485-08-01}} per unit {{active area, IEV:485-02-08}}, specified either per
+    {{anode, IEV:485-02-04}} or {{cathode, IEV:485-02-05}} separately, or specified
+    as combined anode and cathode loading
+  examples: []
+  notes:
+  - The catalyst loading is expressed in g/m^2^.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: 1f901ad5-9928-5095-8e45-6b7d38c42774
+status: Standard

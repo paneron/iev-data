@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 05c5e62c-a2f1-5d3d-b9e1-3d16416c1ed4
+  definition: méthode de codage de source utilisant la différence entre un échantillon
+    de signal et sa valeur prédite
+  examples: []
+  notes:
+  - Lorsque les échantillons successifs du signal sont fortement corrélés, un codage
+    différentiel réduit le débit binaire car il faut moins d’intervalles de quantification
+    pour quantifier les différences que pour quantifier les valeurs réelles avec la
+    même précision.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 59e655d0-972d-56d1-9a69-d1f4c839b4e2
+status: Standard

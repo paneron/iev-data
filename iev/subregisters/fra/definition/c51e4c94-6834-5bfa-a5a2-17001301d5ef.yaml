@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: d797d91d-9a9c-5258-8766-670de3877333
+  definition: durée de fonctionnement cumulée depuis la première utilisation jusqu’à
+    une défaillance
+  examples: []
+  notes:
+  - Le temps de fonctionnement avant la première défaillance est un cas particulier
+    du temps de fonctionnement avant défaillance ({{192-05-01, IEV:192-05-01}}).
+  - Pour les entités non réparables, le temps de fonctionnement avant la première
+    défaillance est le temps de fonctionnement avant défaillance ({{192-05-01, IEV:192-05-01}}).
+dateAccepted: 2018-11-17
+id: c51e4c94-6834-5bfa-a5a2-17001301d5ef
+status: Standard

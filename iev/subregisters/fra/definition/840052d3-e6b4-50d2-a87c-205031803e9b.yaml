@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2d702001-4165-5a26-bfea-3b887832e2f2
+  definition: 'système de commutation comportant une chaîne d’action fermée, contenant
+    au moins un élément de mémoire binaire, de sorte qu’en commençant par une commande
+    de démarrage, une variable réglante constante influe sur le système commandé pour
+    réduire la valeur absolue de la différence (stem:[w]−stem:[x]) jusqu’à ce que
+    la valeur de la variable commandée stem:[x] atteigne la valeur de la variable
+    de référence stem:[w] pour la première fois
+
+
+    VOIR: Figure 12.'
+  examples: []
+  notes:
+  - Un circuit de réarmement a une action ouverte, bien que la structure ait une chaîne
+    d'action fermée (voir Figure 12).
+  - 'Cet article était numéroté 351-26-56 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 12 – Reset circuit with open action*
+
+
+    *Figure 12 – Circuit de réarmement avec action ouvert*</simg>'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 840052d3-e6b4-50d2-a87c-205031803e9b
+status: Standard

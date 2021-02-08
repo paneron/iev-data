@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 305dbb61-8afd-5aae-b914-6cdf21c2fe63
+  definition: '{{code, IEV:101-12-04}} selon lequel on utilise un plus grand nombre
+    de caractères, de symboles ou d''éléments de signal qu''il n''est strictement
+    nécessaire pour représenter des {{informations, IEV:701-01-01}}'
+  examples:
+  - '{{Code détecteur d''erreurs, IEV:702-05-19}}; {{code correcteur d''erreurs, IEV:702-05-20}}.'
+  notes:
+  - En télégraphique, un code à cinq moments utilisant tous les caractères de l'{{alphabet
+    télégraphique international N° 2, IEV:721-09-10}} n'est pas redondant. Un code
+    à sept moments tel que l'{{alphabet télégraphique international N° 3, IEV:721-09-11}}
+    n'utilisant que les signaux composés avec quatre éléments d'{{état A, IEV:721-03-19}}
+    et trois éléments d'{{état Z, IEV:721-03-20}} est redondant.
+dateAccepted: 2018-11-17
+id: 23035a47-444c-559e-b32f-61b7e1f7e3ab
+status: Standard

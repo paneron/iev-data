@@ -1,0 +1,48 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9994da20-8606-56fb-96e1-ce87ee950061
+  definition: 'relation algébrique donnant le nombre de particules dstem:[N] d''un
+    système quantifié en équilibre, dont les composantes de vitesse sont comprises
+    dans des intervalles (stem:[u], stem:[u] + dstem:[u]), (stem:[v], stem:[v] + dstem:[v]),
+    (stem:[w], stem:[w] + dstem:[w]):
+
+
+    stem:[d N = 2 N * ((m^3))/((h^3)) * ((d u * d v * d w))/((1 + exp ( ((E - E_M))/((k
+    T)) )))]
+
+
+    où
+
+
+    stem:[N] désigne le nombre total de particules
+
+
+    stem:[m] la masse d''une particule
+
+
+    stem:[T] la température thermodynamique
+
+
+    stem:[k] la constante de Boltzmann
+
+
+    stem:[h] la constante de Planck
+
+
+    stem:[E] l''énergie cinétique d''une particule,
+
+
+    stem:[E = (m)/(2) ( u^2 + v^2 + w^2 )]
+
+
+    stem:[E]~M~ la fonction de travail interne
+
+
+    dstem:[N]/stem:[N] représente la probabilité pour qu''une particule ait ses composantes
+    de vitesse comprises dans les intervalles considérés.'
+  examples: []
+  notes: []
+dateAccepted: '2002-05-01T00:00:00+00:00'
+id: 54eeda50-fa4e-5225-a764-ca61b4306544
+status: Standard

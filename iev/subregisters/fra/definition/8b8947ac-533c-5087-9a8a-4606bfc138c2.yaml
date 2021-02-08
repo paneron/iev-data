@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '5.18'
+      original: ≈ VIM 5.18
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  concept: 57d7aae3-4398-5015-9418-dce47e267935
+  definition: qualité qui caractérise l'aptitude d'un appareil de mesure à donner
+    une valeur indiquée proche d’une valeur vraie du mesurande
+  examples: []
+  notes:
+  - Ce terme est utilisé dans l’approche "valeur vraie".
+  - L’exactitude est d'autant meilleure que la valeur indiquée est plus proche de
+    la valeur vraie correspondante.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 8b8947ac-533c-5087-9a8a-4606bfc138c2
+status: Standard

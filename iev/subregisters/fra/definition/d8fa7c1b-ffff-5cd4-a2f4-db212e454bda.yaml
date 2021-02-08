@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 7.5.1
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 7.5.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: a64c5acd-4d57-5e6b-b952-a1e460a7c8c8
+  definition: '{{exigence, IEV:901-05-05}} d''un {{document normatif, IEV:901-02-01}}
+    qui doit nécessairement être satisfaite comme condition du respect de ce document'
+  examples: []
+  notes:
+  - Il convient de n'employer l'expression «exigence obligatoire» que lorsqu'il s'agit
+    d'une exigence rendue obligatoire par une loi ou un {{règlement, IEV:901-02-10}}.
+dateAccepted: 2018-11-17
+id: d8fa7c1b-ffff-5cd4-a2f4-db212e454bda
+status: Standard

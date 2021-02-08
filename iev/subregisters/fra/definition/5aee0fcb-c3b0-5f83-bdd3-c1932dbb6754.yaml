@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.10
+      original: IEC TS 80004-9:2017, 3.1.10, modifié – Note 1 à l'article a été revisée
+        pour référencer le terme "nanomatériau".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: Note 1 à l'article a été revisée pour référencer le terme "nanomatériau".
+        type: modified
+  concept: e519b6ee-4a6e-53c8-881e-c37f2b9667d5
+  definition: '{{dispositif, IEV:511-01-01}} dont les éléments matériels ou l''assemblage
+    de tels éléments sont à l''{{échelle nanométrique, IEV:511-01-03}}'
+  examples: []
+  notes:
+  - L'élément matériel est un {{nanomatériau, IEV:511-01-04}}.
+dateAccepted: 2018-11-17
+id: 5aee0fcb-c3b0-5f83-bdd3-c1932dbb6754
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3407773f-0aa5-5282-8608-674ca897c93b
+  definition: in a set where an addition is defined, unique element stem:[n], if it
+    exists, such that stem:[a] + stem:[n] = stem:[a] for any element stem:[a]
+  examples: []
+  notes:
+  - For numbers, the neutral element for addition is the number zero, denoted by 0.
+    For vectors, the neutral element is the zero vector, denoted by *0* or stem:[vec
+    0]. For matrices, the neutral element is the {{zero matrix, IEV:102-06-07}}. For
+    scalar quantities of a given kind, the neutral element is a quantity of the same
+    kind, whose numerical value is zero.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 40c505cc-ebb2-5d75-9545-2cca74f3d6c1
+status: Standard

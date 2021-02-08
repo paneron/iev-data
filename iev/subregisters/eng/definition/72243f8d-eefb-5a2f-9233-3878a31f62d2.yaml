@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: c4df5ad1-6e47-5bc5-8683-3587c4603da8
+  definition: scalar quantity equal to the tangential component dstem:[F]~t~ of a
+    force acting on a surface element divided by the area dstem:[A] of the element,
+    thus stem:[τ] = dstem:[F]~t~ / dstem:[A]
+  examples: []
+  notes:
+  - 1 In anisotropic media, shear stress may depend on the orientation of the surface
+    and may be described by tensor.
+  - 2 The coherent SI unit of shear stress is pascal, Pa.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 72243f8d-eefb-5a2f-9233-3878a31f62d2
+status: Standard

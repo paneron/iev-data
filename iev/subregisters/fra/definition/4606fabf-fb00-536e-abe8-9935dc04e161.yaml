@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: 881-14-03
+      link: https://webstore.iec.ch/publication/272
+      original: CEI 60050-881:1983, 881-14-03, modifiée
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: définition 950
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 950, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 41f56542-eec4-5874-9b7a-08aa9dd1c957
+  definition: facteur entrant dans le calcul de l’équivalent de dose et ayant pour
+    objet la pondération de la dose absorbée pour tenir compte des différences d’efficacité
+    biologique des différents rayonnements.
+  examples: []
+  notes:
+  - La variation de stem:[Q] en fonction du transfert d’énergie linéique est spécifiée
+    par la Commission Internationale de radioprotection.
+  - Cet article était numéroté 393-14-77 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: 4606fabf-fb00-536e-abe8-9935dc04e161
+status: Standard

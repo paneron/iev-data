@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4f7e7719-8997-55ef-9590-d15843a2f1a1
+  definition: for a uniform transmission line, load impedance for which the input
+    impedance is equal to the load impedance
+  examples: []
+  notes:
+  - For a symmetrical two-port network, this term may be applied to denote the common
+    value assumed by the two image impedances and the two iterative impedances.
+  - Another definition is given in IEC 60050-726 and the term has another meaning
+    for free space in IEC 60050-705.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 15b76891-e47f-5dfa-a12d-fcd16be43aa8
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: c33c3f97-b4b4-50d0-91ec-d4628d3efa02
+  definition: system for determining the <a href="IEV845-23-038">tristimulus values</a>
+    of any spectral power distribution using the set of reference colour stimuli &amp;lsqb;X&amp;rsqb;,
+    &amp;lsqb;Y&amp;rsqb;, &amp;lsqb;Z&amp;rsqb; and the three CIE colour-matching
+    functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )] adopted
+    by the CIE in 1931
+  examples: []
+  notes:
+  - stem:[bar y ( lambda )] is identical to stem:[V](stem:[λ]) and hence the tristimulus
+    values stem:[Y] are proportional to values of luminance.
+  - The CIE 1931 standard colorimetric system is applicable to centrally viewed fields
+    of angular subtense between about 1° and about 4° (0,017 rad and 0,07 rad).
+  - The CIE 1931 standard colorimetric system can be derived from the CIE 1931 RGB
+    colorimetric system using a transformation based on a set of three linear equations.
+    The CIE 1931 RGB system is based on three real monochromatic reference stimuli.
+  - See also CIE 15, stem:[Colorimetry].
+  - This entry was numbered 845-03-28 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 475fed3d-74c5-500c-aee9-3a8014dc27c4
+status: Standard

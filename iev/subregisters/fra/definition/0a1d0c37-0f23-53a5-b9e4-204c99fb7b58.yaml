@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 845-01-34
+      link: null
+      original: MOD 845-01-34
+      ref: IEV
+      relationship:
+        type: modified
+  concept: aae87ea3-fde0-5c7a-be51-29008b228129
+  definition: dans une direction donnée et en un point d'une surface réelle ou fictive,
+    quotient de la puissance rayonnante transmise par un faisceau élémentaire passant
+    par le point donné et se propageant dans un élément d'angle solide contenant la
+    direction donnée, par le produit de la valeur de cet élément d'angle solide, de
+    l'aire d'une section du faisceau au point donné et du cosinus de l'angle entre
+    la normale à cette section et la direction du faisceau
+  examples: []
+  notes:
+  - La surface considérée peut être la surface d'une source, une surface recevant
+    le faisceau, ou une surface fictive interceptant le faisceau.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 0a1d0c37-0f23-53a5-b9e4-204c99fb7b58
+status: Standard

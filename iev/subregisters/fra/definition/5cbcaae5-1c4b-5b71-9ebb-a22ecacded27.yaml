@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8f48cc8e-58b1-5913-811a-fa8c782ce194
+  definition: 'moyenne du taux instantané de défaillance sur un intervalle de temps
+    donné (stem:[t]~1~, stem:[t]~2~)
+
+
+    stem:[bar lambda ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) lambda (
+    t ) d t]'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 5cbcaae5-1c4b-5b71-9ebb-a22ecacded27
+status: Standard

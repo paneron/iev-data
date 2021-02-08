@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9bc61e05-f102-5b5c-8899-b8a3bc78265b
+  definition: inaptitude à fonctionner tel que requis, due à un état interne
+  examples: []
+  notes:
+  - La panne d’une entité est due soit à une défaillance de l’entité elle-même, soit
+    à une imperfection lors d’une étape précédente du cycle de vie, telle que la spécification,
+    la conception, la fabrication ou la maintenance. Voir panne latente ({{192-04-08,
+    IEV:192-04-08}}).
+  - La cause d’une panne peut être indiquée par un complément, par exemple, panne
+    due à la spécification, à la conception, à la fabrication, à la maintenance, à
+    un mauvais emploi ou une fausse manoeuvre.
+  - Le type de panne peut être associé au type de la défaillance correspondante, par
+    exemple, panne par usure et défaillance par usure.
+  - Le terme «en panne» qualifie une entité faisant l’objet d’une ou plusieurs pannes.
+dateAccepted: 2018-11-17
+id: 09ce1d68-870c-52c3-b1c3-a14c35e53ed6
+status: Standard

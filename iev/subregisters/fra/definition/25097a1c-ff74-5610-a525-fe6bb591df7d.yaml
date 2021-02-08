@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 729b80a2-9565-5c8c-ac8e-423baed8c983
+  definition: représentation d'une grandeur intégrale sinusoïdale par une grandeur
+    complexe dont l'argument est égal à la phase à l'origine et le module est égal
+    à la valeur efficace ({{103-02-03, IEV:103-02-03}})
+  examples: []
+  notes:
+  - 'Pour une grandeur stem:[a ( t ) = A sqrt(2) cos ( omega t + vartheta_0 )]
+
+
+    le phaseur est stem:[A exp j vartheta_0]. On utilise souvent le phaseur de courant
+    électrique stem:[underset(_)(I)] et le phaseur de tension électrique stem:[underset(_)(U)].'
+  - La représentation semblable où le module est égal à l'amplitude est parfois aussi
+    appelée «phaseur». Voir {{103-07-14, IEV:103-07-14}}.
+  - Un phaseur peut aussi être représenté graphiquement.
+dateAccepted: 2018-11-17
+id: 25097a1c-ff74-5610-a525-fe6bb591df7d
+status: Standard

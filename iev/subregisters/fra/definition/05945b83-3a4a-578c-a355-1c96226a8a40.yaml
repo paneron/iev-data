@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - - clause: '4.9'
+      original: ≠ VIM 4.9
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: 7871d8cc-ac74-5c8d-b4c3-2e4fb181f3cc
+  definition: appareil de mesure destiné à fournir l'intégrale d'une grandeur d'entrée
+    en fonction d'une autre grandeur, généralement le temps
+  examples: []
+  notes: []
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 05945b83-3a4a-578c-a355-1c96226a8a40
+status: Standard

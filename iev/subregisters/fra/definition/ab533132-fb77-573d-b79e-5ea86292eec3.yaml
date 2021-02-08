@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8076c014-0b81-520c-84dc-2b275ceef67f
+  definition: "unité fonctionnelle avec deux entrées ou plus et une seule sortie,\
+    \ dont la variable de sortie a pour valeur le produit des valeurs des variables\
+    \ d'entrée multipliées par des facteurs de pondération\n\nstem:[v ( t ) = K_0\
+    \ * K_1 * u_1 ( t ) * K_2 * u_2 ( t ) * K_3 * u_3 ( t ) * ...]\n\noù<table>\r\n\
+    <tr>\n<td>stem:[t]</td>\n<td>est le temps;</td>\n</tr>\r\n<tr>\n<td>\nstem:[K]~0~,\
+    \ stem:[K]~1~ ...</td>\n<td>sont les facteurs de pondération;</td>\n</tr>\r\n\
+    <tr>\n<td>\nstem:[u]~1~, stem:[u]~2~ ...</td>\n<td>sont les variables d’entrée;</td>\n\
+    </tr>\r\n<tr>\n<td>stem:[v]</td>\n<td>est le résultat de multiplication.</td>\n\
+    </tr>\r\n</table>"
+  examples: []
+  notes:
+  - Cet article était numéroté 351-32-17 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: ab533132-fb77-573d-b79e-5ea86292eec3
+status: Standard

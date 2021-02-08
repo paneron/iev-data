@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5643cd47-6fcc-5c4c-8217-638e85930eaf
+  definition: '{{polarization, IEV:705-01-13}} of a specific field vector of a particular
+    mode within a set of {{degenerate modes, IEV:726-03-17}} in a {{waveguide, IEV:151-12-34}}'
+  examples: []
+  notes:
+  - The main application of the concept "degenerate mode polarization" is in relation
+    to waveguides having circular or square cross-sections, where there are two independent
+    modes of propagation. In these particular cases, the polarization of the mode
+    may be taken as that of the {{electric field strength, IEV:121-11-18}} vector
+    on an axis of symmetry of the waveguide.
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: b06cad69-7329-5a19-8a59-2d3e2e08ba39
+status: Standard

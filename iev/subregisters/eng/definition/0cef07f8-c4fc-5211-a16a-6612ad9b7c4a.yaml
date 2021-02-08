@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.7
+      original: IEC 62102:2005, 3.1.7
+      ref: IEC 62102:2005
+      relationship:
+        type: identical
+  concept: 889ae81d-b47c-5bec-9bda-3749586a87d8
+  definition: circuit that is in the equipment and to which the accessible area of
+    contact is limited and that is so designed and protected that, under normal operating
+    conditions and single fault conditions, the voltages do not exceed specified limit
+    values
+  examples: []
+  notes:
+  - TNV circuits are classified as TNV-0, TNV-1, TNV-2 and TNV-3 circuits.
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: 0cef07f8-c4fc-5211-a16a-6612ad9b7c4a
+status: Standard

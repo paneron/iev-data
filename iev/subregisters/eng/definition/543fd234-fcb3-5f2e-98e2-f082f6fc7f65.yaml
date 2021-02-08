@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 05d5d67b-4e7b-5681-be4f-b660ee28747a
+  definition: at a point in a medium, velocity of the envelope of a packet of superimposed
+    sinusoidal waves of equal amplitude and slightly different frequencies tending
+    to a common limiting frequency
+  examples: []
+  notes:
+  - The magnitude of the group velocity vector is equal to the derivative of the frequency
+    with respect to the wavenumber.
+  - If both group velocities and other velocities are involved, then stem:[c] should
+    be used for the former and stem:[v] (vee) for the latter.
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 543fd234-fcb3-5f2e-98e2-f082f6fc7f65
+status: Standard

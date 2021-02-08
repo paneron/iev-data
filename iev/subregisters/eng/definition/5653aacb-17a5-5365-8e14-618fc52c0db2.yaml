@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 70ee920e-875e-5a54-b816-e1dcd54ad551
+  definition: ratio expressed in decibels, of a wanted signal voltage to the noise
+    voltage at the output of a tape recorder
+  examples: []
+  notes:
+  - The signal output voltage is expressed with respect to a given amount of harmonic
+    distortion, obtained by recording a specified frequency signal on a specified
+    recording medium.
+  - The noise voltage is measured, weighted or unweighted in the absence of a wanted
+    signal.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 5653aacb-17a5-5365-8e14-618fc52c0db2
+status: Standard

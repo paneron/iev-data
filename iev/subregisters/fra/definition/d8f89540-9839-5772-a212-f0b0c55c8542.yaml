@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f3433731-f4cf-5672-929d-29f7fe724bcd
+  definition: '{{opération booléenne, IEV:171-03-05}} dont le résultat a la valeur
+    booléenne 1 si et seulement si tous les {{opérandes, IEV:171-03-04}} ont la même
+    valeur booléenne'
+  examples: []
+  notes:
+  - Une opération d'identité portant sur deux opérandes est une {{équivalence logique,
+    IEV:171-03-15}}.
+dateAccepted: 2018-11-17
+id: d8f89540-9839-5772-a212-f0b0c55c8542
+status: Standard

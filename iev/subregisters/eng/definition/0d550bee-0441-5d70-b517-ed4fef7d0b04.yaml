@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: '3.1'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 3.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  concept: b36adfa9-e976-58d7-94f8-2f41043d2fa9
+  definition: document that provides rules, guidelines or characteristics for activities
+    or their results
+  examples: []
+  notes:
+  - The term “normative document” is a generic term that covers such documents as
+    {{standard, IEV:901-02-02}}s, {{technical specification, IEV:901-02-08}}s, {{codes
+    of practice, IEV:901-02-09}} and {{regulation, IEV:901-02-10}}s.
+  - A “document” is to be understood as any medium with information recorded on or
+    in it.
+  - The terms for different kinds of normative documents are defined considering the
+    document and its content as a single entity.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 0d550bee-0441-5d70-b517-ed4fef7d0b04
+status: Standard

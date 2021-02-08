@@ -1,0 +1,33 @@
+data:
+  authoritative_source:
+  - null
+  concept: fbcf8115-b43c-574d-8965-1949b16791e2
+  definition: niveau de la limite du rapport d'une grandeur spécifiée répartie dans
+    une bande de fréquences à la largeur de cette bande, quand la largeur de la bande
+    tend vers zéro
+  examples: []
+  notes:
+  - 'La grandeur considérée doit êtrе précisée; exemple: niveau de densité spectrale
+    du carré de la pression acoustique.'
+  - 'Puisque les filtres utilisés ont des largeurs de bande finies, le niveau de densité
+    spectrale stem:[L]~ps~ du carré de la pression acoustique est pratiquement obtenues
+    pour la fréquence médiane de cette bande par la formule:
+
+
+    stem:[L_((ps)) = 10 (log)_((10)) ((( p^2 // B )))/((( p_0^2 // B_0 ))) dB]
+
+
+    stem:[p] et stem:[p]~0~ étant respectivement la valeur de la grandeur de champ
+    considérée et la valeur de référence de cette grandeur; stem:[B] et stem:[B]~0~
+    étant respectivement la largeur de bande effective du filtre et la bande de référence
+    de 1 Hz.
+
+
+    Lorsque stem:[L]~p~ est le niveau de pression acoustique mesuré dans la bande
+    correspondant au filtre, la relation ci-dessus se réduit à
+
+
+    stem:[L_((ps)) = L_p - (log)_((10)) ( B // B_0 ) dB]'
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: f467f6d1-6758-533e-b519-3fce80884fdd
+status: Standard

@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7e47d86b-611a-503f-8d22-e196865408d0
+  definition: 'relation entre l''<a href="IEV845-21-080">exitance énergétique</a>,
+    stem:[M]~e~, d''un radiateur de Planck et sa température, stem:[T], donnée par
+
+
+    stem:[M]~e~ = stem:[σ] stem:[T]^4^
+
+
+    où stem:[σ] est la constante de Stefan-Boltzmann et stem:[T] est la température
+    thermodynamique'
+  examples: []
+  notes:
+  - La constante de Stefan-Boltzmann peut être calculée par stem:[sigma = ((2 pi^5
+    k^4))/((15 h^3 c_0^2))] où stem:[h] est la constante de Planck, stem:[c]~0~ est
+    la {{vitesse de la lumière dans le vide, IEV:113-01-34}}, et stem:[k] est la constante
+    de Boltzmann.
+  - Pour la valeur de la constante de Stefan-Boltzmann, stem:[σ,] voir CODATA.
+  - Cet article était numéroté 845-04-07 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: ac70fd19-1e12-56d1-a2f6-765b85b7299c
+status: Standard

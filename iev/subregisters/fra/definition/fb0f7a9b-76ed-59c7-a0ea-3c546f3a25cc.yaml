@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f2956135-9064-59e3-9ac0-6e7744a846c5
+  definition: entre deux noeuds donnés d'un réseau, ensemble ordonné de branches numérotées
+    1, 2 ... tel que la branche de rang stem:[i] est connectée par une de ses extrémités
+    à la branche de rang stem:[i] − 1 et par l'autre à la branche de rang stem:[i]
+    + 1
+  examples: []
+  notes:
+  - Le chemin est dit fermé lorsque les deux noeuds coïncident.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: fb0f7a9b-76ed-59c7-a0ea-3c546f3a25cc
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: c9f9564b-43c0-5c5e-8e32-3ffa94af1305
+  definition: '{{multiplexage, IEV:701-03-09}} selon lequel des longueurs d''ondes
+    distinctes sont attribuées à plusieurs {{signaux, IEV:701-01-02}} indépendants
+    en vue de leur {{transmission, IEV:701-01-03}} sur un support de transmission
+    (voir {{IEV 704-02-01, IEV:704-02-01}}) optique commun'
+  examples: []
+  notes:
+  - Le multiplexage en longueur d'onde est une forme de {{multiplexage en fréquence,
+    IEV:704-08-05}}. L'emploi du terme distinct "multiplexage en longueur d'onde"
+    permet de distinguer ce concept de celui dans lequel le multiplexage en fréquence
+    est employé pour assembler le signal en {{bande de base, IEV:702-01-06}} destiné
+    à être acheminé sur le support optique à une certaine {{longueur d'onde, IEV:103-10-10}}.
+dateAccepted: 2018-11-17
+id: 0ee573ba-cc6b-5d64-a3ac-d16620009ae9
+status: Standard

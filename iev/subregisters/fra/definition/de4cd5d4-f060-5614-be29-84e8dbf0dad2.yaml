@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7d0e647e-d5b5-5afd-888a-592424b6887f
+  definition: nombre complexe déduit d'un nombre complexe donné en remplaçant la partie
+    imaginaire par son opposée
+  examples: []
+  notes:
+  - Le conjugué du nombre complexe stem:[c = a + j b = | c | e^(j phi)] est stem:[c
+    * = a - j b = | c | e^(- j phi)]. En mathématiques, le conjugué de stem:[c] est
+    souvent noté stem:[bar c].
+  - Le concept de conjugué peut s'appliquer aux grandeurs scalaires, vectorielles
+    ou tensorielles complexes et aux matrices d'éléments complexes.
+dateAccepted: 2018-11-17
+id: de4cd5d4-f060-5614-be29-84e8dbf0dad2
+status: Standard

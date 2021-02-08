@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: ad566f18-aa20-5c0f-9d38-36e382c02aea
+  definition: 'espérance mathématique de la {{quantité d''information conjointe, IEV:171-07-20}}
+    des événements d''un ensemble exhaustif d''événements s''excluant mutuellement
+
+
+    stem:[H ( X , Y ) = sum_((i = 1))^n sum_((j = 1))^m p ( x_i , y_j ) * I ( x_i
+    , y_j )]
+
+
+    où stem:[X = { x_1 , ... , x_n }] est l''ensemble d''événements stem:[x_i ( i
+    = 1, ... , n )], stem:[Y = { y_1 , ... , y_m }] est l''ensemble d''événements
+    stem:[y_j ( j = 1, ... , m )], stem:[I ( x_i , y_j )] est la quantité d''information
+    conjointe de stem:[x_i] et stem:[y_j], and stem:[p ( x_i , y_j )] est la probabilité
+    de réalisation simultanée des deux événements'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: ee6a4cb0-4e6f-50a7-aede-430a98fb7c38
+status: Standard

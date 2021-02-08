@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1665298c-2a74-5cae-93bd-1057e1f38af0
+  definition: voie de transmission ayant une largeur de bande normalisée qui permet
+    la transmission d'un signal téléphonique de qualité courante en transmission multiplex
+    à courants porteurs et qui occupe l'une d'un certain nombre de positions spécifiées
+    dans le spectre des fréquences
+  examples: []
+  notes:
+  - Une voie téléphonique à courant porteur a normalement une largeur de bande normalisée
+    de 4 kHz, qui permet de transmettre un signal occupant la bande de base 300-3
+    400 Hz et la signalisation hors-bande associée, tout en ménageant les bandes de
+    garde nécessaires.
+  - Un signal autre qu'un signal vocal audiofréquence, mais ayant des caractéristiques
+    spécifiées, peut occuper tout ou partie d'une voie téléphonique à courant porteur.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 24b6824a-7d3a-56ba-bc8c-b4826e2ed876
+status: Standard

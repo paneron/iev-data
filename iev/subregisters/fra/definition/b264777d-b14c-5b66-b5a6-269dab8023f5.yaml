@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: c41dd0b2-62a5-5bfd-97e7-dd3a20db89b6
+  definition: répartition en fonction de la fréquence de l'énergie d'un signal ou
+    d'un bruit à spectre continu et d'énergie totale finie
+  examples: []
+  notes:
+  - L'énergie totale d'un signal ou d'un bruit est par convention l'intégrale en fonction
+    du temps du carré de sa valeur instantanée. Cette intégrale est proportionnelle
+    à une énergie physique si la grandeur caractéristique est une grandeur de champ.
+  - La densité spectrale d'énergie d'un signal certain existe si la fonction du temps
+    qui le représente est de carré sommable. Elle est égale au carré du module de
+    la transformée de Fourier du signal et aussi à la transformée de Fourier de la
+    fonction d'autocorrélation du signal.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: b264777d-b14c-5b66-b5a6-269dab8023f5
+status: Standard

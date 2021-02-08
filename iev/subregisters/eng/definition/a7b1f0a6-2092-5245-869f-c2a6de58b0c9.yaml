@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: bf1224bc-1235-568e-8693-fbd63022b574
+  definition: scalar field stem:[U] the negative of the gradient of which is a force
+    field *stem:[F]*, thus *stem:[F]* = −*grad* stem:[U]
+  examples: []
+  notes:
+  - 1 The potential is not unique since any constant scalar field can be added to
+    a given potential without changing its gradient. See also IEC 60050-102:2007,
+    {{102-05-24, IEV:102-05-24}}.
+  - 2 The coherent SI unit of potential is newton metre, N⋅m.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: a7b1f0a6-2092-5245-869f-c2a6de58b0c9
+status: Standard

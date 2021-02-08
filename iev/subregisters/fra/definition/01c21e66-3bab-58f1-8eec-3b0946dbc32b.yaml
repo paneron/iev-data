@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 213737be-97fc-5447-9666-5bb1001475aa
+  definition: propriété d'une fonction stem:[f ( t )] pour une valeur stem:[t]~0~
+    de son argument, caractérisée par l'existence d'un nombre positif stem:[ε] tel
+    que stem:[f ( t_0 ) &gt; f ( t )] pour tout stem:[t] tel que stem:[0 | t - t_0
+    | epsilon]
+  examples: []
+  notes:
+  - Si la condition stem:[f ( t_0 ) &gt; f ( t )] est remplacée par stem:[f ( t_0
+    ) &gt;= f ( t )], la propriété peut exister dans un intervalle de valeurs de l'argument.
+dateAccepted: 2018-11-17
+id: 01c21e66-3bab-58f1-8eec-3b0946dbc32b
+status: Standard

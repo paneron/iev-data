@@ -1,0 +1,79 @@
+data:
+  authoritative_source:
+  - - clause: '1.7'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC Guide 99:2007, 1.7, modifié – Ajout d'une utilisation spécifique
+        du terme privilégié, ajout de renvois dans la définition et la note 4, transfert
+        des exemples 1 et 2 dans la Note 5 à l'article et ajout d'un nouvel exemple,
+        transfert de l'exemple 3 dans une nouvelle Note 6 à l'article
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        modification: Ajout d'une utilisation spécifique du terme privilégié, ajout
+          de renvois dans la définition et la note 4, transfert des exemples 1 et
+          2 dans la Note 5 à l'article et ajout d'un nouvel exemple, transfert de
+          l'exemple 3 dans une nouvelle Note 6 à l'article
+        type: modified
+  concept: 2e994fa0-835a-5da2-be87-c58067d6da77
+  definition: expression de la dépendance d’une grandeur par rapport aux {{grandeurs
+    de base, IEV:112-01-08}} d'un système de grandeurs sous la forme d'un produit
+    de puissances de facteurs correspondant aux grandeurs de base, en omettant tout
+    facteur numérique
+  examples: []
+  notes:
+  - Une puissance d'un facteur est le facteur muni d'un exposant. Chaque facteur exprime
+    la dimension d'une grandeur de base.
+  - Par convention, la représentation symbolique de la dimension d'une grandeur de
+    base est une lettre majuscule unique en caractère romain (droit) sans empattement.
+    Par convention, la représentation symbolique de la dimension d'une grandeur dérivée
+    est le produit de puissances des dimensions des grandeurs de base conformément
+    à la définition de la grandeur dérivée. La dimension de la grandeur stem:[Q] est
+    notée dim stem:[Q].
+  - Pour établir la dimension d'une grandeur, on ne tient pas compte du caractère
+    scalaire, vectoriel ou tensoriel.
+  - "Dans un système de grandeurs donné, \r\n\r\n* les grandeurs de même nature (voir\
+    \ {{IEV 112-01-04, IEV:112-01-04}}) ont la même dimension, \r\n* des grandeurs\
+    \ de dimensions différentes sont toujours de nature différente, \r\n* des grandeurs\
+    \ ayant la même dimension ne sont pas nécessairement de même nature. Par exemple,\
+    \ dans le {{Système international de grandeurs, IEV:112-02-01}} (ISQ), la pression\
+    \ et l'énergie volumique ont la même dimension L^–1^MT^–2^. Voir aussi la note\
+    \ 5.\r\n"
+  - "Dans le Système international de grandeurs (ISQ), les symboles représentant les\
+    \ dimensions des grandeurs de base sont:\n\n<table cellpadding=\"2\" border=\"\
+    solid\">\r\n<tbody>\r\n<tr>\r\n<td width=\"198\">\n\nGrandeur de base\r\n</td>\r\
+    \n<td width=\"159\">\n\nSymbole de la dimension\r\n</td>\r\n</tr>\r\n<tr>\r\n\
+    <td width=\"198\">\n\nlongueur\r\n</td>\r\n<td width=\"159\">\n\n`L`\r\n</td>\r\
+    \n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nmasse\r\n</td>\r\n<td width=\"159\">\n\
+    \n`M`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\ntemps\r\n</td>\r\n<td\
+    \ width=\"159\">\n\n`T`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\ncourant\
+    \ électrique\r\n</td>\r\n<td width=\"159\">\n\n`I`\r\n</td>\r\n</tr>\r\n<tr>\r\
+    \n<td width=\"198\">\n\ntempérature thermodynamique\r\n</td>\r\n<td width=\"159\"\
+    >\n\n`Θ`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nquantité de matière\r\
+    \n</td>\r\n<td width=\"159\">\n\n`N`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"\
+    198\">\n\nintensité lumineuse\r\n</td>\r\n<td width=\"159\">\n\n`J`\r\n</td>\r\
+    \n</tr>\r\n</tbody>\r\n</table>\n\nLa dimension d'une grandeur stem:[Q] est donc\
+    \ notée dim stem:[Q] = `L`stem:[α]`M`stem:[β]`T`stem:[γ]`I`stem:[δ]`Θ`stem:[ε]`N`stem:[ζ]`J`stem:[η],\
+    \ où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou\
+    \ nuls. Les facteurs d’exposant zéro sont généralement omis. Lorsque tous les\
+    \ exposants sont nuls, le symbole `1`, imprimé sans empattement, est utilisé pour\
+    \ représenter la dimension. Des exemples sont:\r\n\r\n* La dimension de la force\
+    \ est dim stem:[F] = LMT^–2^.\r\n* La concentration en masse d’un constituant\
+    \ donné et la masse volumique ont la même dimension ML^–3^.\r\n* Le courant électrique\
+    \ et le potentiel magnétique scalaire ont la même dimension I^1^ = I, bien que\
+    \ ces grandeurs ne soient pas de même nature.\r\n"
+  - 'Un exposant peut être fractionnaire.
+
+
+    En un lieu où l’accélération locale de la pesanteur est stem:[g], la période stem:[T]
+    d’un pendule de longueur stem:[l] est:
+
+
+    stem:[T = 2 pi sqrt((1)/(g))] ou stem:[T = C ( g ) sqrt(l)] où
+
+
+    stem:[C ( g ) = ((2 pi))/((sqrt(g)))]
+
+
+    Par consequent dim stem:[C](stem:[g]) = `T`· `L`^−1/2^.'
+dateAccepted: 2018-11-17
+id: 347b4145-53f6-5b77-aa07-b3a4b908dec3
+status: Standard

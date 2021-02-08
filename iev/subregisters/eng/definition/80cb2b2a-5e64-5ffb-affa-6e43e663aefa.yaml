@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 68ec1fbf-dd05-54ca-ba7e-c5e83f223e59
+  definition: representation of the planned output power as a function of time within
+    a specified time interval
+  examples: []
+  notes:
+  - Typically, the generating unit schedule is approximated by a given set of  values
+    ,e.g., output-power values averaged over sequential time intervals each of which
+    has a duration of a quarter of an hour.
+dateAccepted: '2009-03-01T00:00:00+00:00'
+id: 80cb2b2a-5e64-5ffb-affa-6e43e663aefa
+status: Standard

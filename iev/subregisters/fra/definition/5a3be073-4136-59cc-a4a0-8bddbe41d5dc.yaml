@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.83
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.83
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  concept: f9780820-b553-5c17-8881-1985abf7e7eb
+  definition: ordonnancement des données pour leur stockage et leur transmission dans
+    lequel la part de poids faible d'une donnée représentée sur plusieurs octets est
+    stockée à l'adresse la plus faible et transmise en premier
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 5a3be073-4136-59cc-a4a0-8bddbe41d5dc
+status: Standard

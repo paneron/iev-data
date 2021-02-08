@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 564e39b2-80fd-58cd-9e11-00359718a4ff
+  definition: 'time integral of cylindrical illuminance, stem:[E]~v,c~, at a given
+    point for a given direction, over a given duration, Δstem:[t]
+
+
+    stem:[H_((v,c)) = underset((Delta t))( int ) E_(v,c) d t]'
+  examples: []
+  notes:
+  - The luminous cylindrical exposure is expressed in lux second (lx·s = lm·s·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 32dd7198-dbf7-5970-a349-ade4267606e7
+status: Standard

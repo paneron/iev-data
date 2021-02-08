@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 42e59d19-27b2-5829-aa6d-687e142fb899
+  definition: general principle that, in the absence of losses, the elementary radiant
+    flux or luminous flux, dstem:[Φ], between two elementary areas dstem:[A] and dstem:[A]′
+    defining an elementary beam is proportional to the elementary projected areas
+    dstem:[A] cos stem:[θ] and dstem:[A]′ cos stem:[θ] ′ in the direction of the beam
+    and inversely proportional to the squared distance, stem:[l], between the areas
+  examples: []
+  notes:
+  - 'The basic law of radiometry and photometry is expressed by
+
+
+    stem:[d Phi = L * ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2))]
+
+
+    where the proportionality factor for this geometrical condition is equal to the
+    radiance or luminance, respectively, within the elementary beam.'
+  - The basic law of radiometry and photometry is based on the geometric extent.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 9f9312ad-5000-57a4-b541-bf0598a4f51d
+status: Standard

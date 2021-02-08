@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: '5.24'
+      original: ≠ VIM 5.24
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: 21271dd9-2186-5070-9aaf-9db0ee3c7dc3
+  definition: erreur d'un appareil de mesure lorsqu'on l'utilise dans les conditions
+    de référence
+  examples: []
+  notes:
+  - Ce terme est utilisé dans l’approche "valeur vraie".
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 514fa74a-3d3c-5a04-b804-c0d0d397c918
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: a6371215-1ecf-5d73-a5a4-0c7169763745
+  definition: for each station of a radio link using ionospheric reflection, the point
+    in a layer whose projection on the surface of the Earth is at a specified distance
+    from the station on the great circle arc joining it to the second station when
+    the length of this arc is greater than twice the specified distance. When this
+    length is less than twice the specified distance, the control points are coincident
+    at a point vertically above the mid-point of the great circle arc
+  examples: []
+  notes:
+  - For reflection from the E and F2 layers, the specified distance is generally chosen
+    as 1000 km and 2000 km respectively.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 24e0bdf7-3521-533c-956e-4e7fad5f00f5
+status: Standard

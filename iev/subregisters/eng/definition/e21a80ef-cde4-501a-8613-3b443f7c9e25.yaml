@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 3.7.3
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.7.3, modified – “fault” replaced by "the appearance
+        of a short-circuit" for conformity with the IEV.
+      ref: IEC 60664-1:2007
+      relationship:
+        modification: “fault” replaced by "the appearance of a short-circuit" for
+          conformity with the IEV.
+        type: modified
+  concept: 6ca819b7-b3fd-53a5-bcf5-d00de62bea4e
+  definition: transient overvoltage at any point of the system due to a specific switching
+    operation or the appearance of a {{short-circuit, IEV:195-04-11}}
+  examples: []
+  notes: []
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: e21a80ef-cde4-501a-8613-3b443f7c9e25
+status: Standard

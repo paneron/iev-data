@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 17226bd1-f642-50f8-a83f-3a264667c864
+  definition: objet réel ou virtuel qui forme la plus petite image rétinienne possible
+    (compte tenu de la plage d'ajustement de l'œil humain) pour une position d'évaluation
+    donnée du danger pour la rétine
+  examples: []
+  notes:
+  - Par hypothèse, la plage d'ajustement de l'œil varie de 100 mm à l'infini. La position
+    de la source apparente pour une position d'observation donnée dans le faisceau
+    est la position à laquelle l'œil s'adapte pour produire la condition d'éclairement
+    énergétique rétinien la plus dangereuse.
+  - Cette définition permet de déterminer, pour une position d'évaluation donnée,
+    la position du point d'origine apparent du rayonnement laser dans la plage de
+    longueurs d'onde comprise entre 380 nm et 1 400 nm. Dans la limite de la divergence
+    de fuite, c'est-à-dire dans le cas d'un faisceau bien collimaté, la position de
+    la source apparente tend vers l'infini.
+dateAccepted: 2018-11-17
+id: d70d2ea7-1f31-5103-a52f-17e049bced89
+status: Standard

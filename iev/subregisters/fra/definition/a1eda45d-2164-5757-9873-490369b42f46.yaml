@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: 96cb9262-15e1-578d-b5ca-64cf32a762a7
+  definition: 'énergie communiquée par un rayonnement ionisant à un volume donné de
+    matière, égale à:
+
+
+    stem:[epsilon = sum epsilon_((in)) - sum epsilon_((ex)) + sum Q]
+
+
+    où Σstem:[ε]~in~ est la somme des énergies, à l''exclusion des énergies au repos,
+    de toutes les particules directement et indirectement ionisantes ayant pénétré
+    dans le volume; Σstem:[ε]~ex~ est la somme des énergies, à l''exclusion des énergies
+    au repos, de toutes les particules directement ou indirectement ionisantes ayant
+    quitté le volume; Σstem:[Q] est la somme de toutes les énergies  développées dans
+    les réactions nucléaires, transformations et interactions entre particules élémentaires
+    qui ont eu lieu dans ce volume'
+  examples: []
+  notes:
+  - stem:[ε] est une grandeur aléatoire.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: a1eda45d-2164-5757-9873-490369b42f46
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 076439bd-c6a1-50a6-a9c1-dc1b15ecc93a
+  definition: grandeur relative à la différence de luminance entre deux surfaces
+  examples: []
+  notes:
+  - "Les définitions communément admises comprennent:\n\n<ul style=\"list-style-type:none;\"\
+    >\n\n* stem:[C] = (stem:[L]~1~ − stem:[L]~2~)/stem:[L]~1~ avec stem:[L]~1~ &gt;\
+    \ stem:[L]~2~ (contraste positif), \n\n* stem:[C] = (stem:[L]~1~ − stem:[L]~2~)/stem:[L]~1~\
+    \ avec stem:[L]~1~ &lt; stem:[L]~2~ (contraste négatif), \n\n* stem:[C] = (stem:[L]~1~\
+    \ − stem:[L]~2~)/(stem:[L]~1~ + stem:[L]~2~) avec stem:[L]~1~ &gt; stem:[L]~2~,\
+    \ \n\n\n\noù stem:[C] est le contraste de luminance et stem:[L]~1~ et stem:[L]~2~\
+    \ sont les luminances des deux surfaces."
+  - Bien que le contraste de luminance soit destiné à être associé au contraste de
+    clarté, il est possible qu'il ne le soit pas directement car le contraste de clarté
+    dépend d'autres facteurs tels que séparation angulaire, gradient de luminance,
+    et toute différence de taille entre les deux surfaces.
+dateAccepted: 2018-11-17
+id: 6c5b1f5a-a93d-59ac-ac09-ed428597acb1
+status: Standard

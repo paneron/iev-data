@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0bcc8579-603b-5150-a4cb-8dcc5410d725
+  definition: the time during which frame alignment is effectively lost
+  examples: []
+  notes:
+  - The out-of-frame-alignment time includes both the time taken to detect loss of
+    frame alignment and the frame alignment recovery time.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: ada18221-ed90-55e4-a0ae-f989d275c1b0
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: d23286b2-a3c3-56ef-8180-113042c98751
+  definition: '{{processor, IEV:171-04-01}} capable of executing instructions in which
+    the {{operands, IEV:171-03-04}} can be arrays of data and not only single data
+    elements'
+  examples: []
+  notes:
+  - In a special case where the array processor works on single elements, such elements
+    are called "scalars".
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: fa0271dd-343d-58ba-b27f-5bb52a2c68d2
+status: Standard

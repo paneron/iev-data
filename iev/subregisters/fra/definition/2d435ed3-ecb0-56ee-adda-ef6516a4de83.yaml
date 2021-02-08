@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: ac8a4e3f-f162-5b79-8d9b-3b2ea4c3f74d
+  definition: quotient de cinq fois la somme de l'aire des parois délimitée par le
+    plan de travail et le plan des luminaires par la somme des aires du plan de travail
+    et du plan des luminaires, utilisé dans le calcul du facteur d'utilisation ou
+    de l'utilance
+  examples: []
+  notes:
+  - 'Le rapport du local est exprimé par la formule
+
+
+    stem:[K = ((5 h ( a + b )))/((a b))]
+
+
+    où stem:[a] et stem:[b] sont les dimensions des côtés du local et stem:[h] la
+    distance entre le plan de travail et le plan des luminaires.'
+  - Voir aussi "<a href="IEV845-29-074">rapport du plafond</a>" et "<a href="IEV845-29-076">rapport
+    du sol</a>".
+  - L'unité de rapport du local est un.
+dateAccepted: 2018-11-17
+id: 2d435ed3-ecb0-56ee-adda-ef6516a4de83
+status: Standard

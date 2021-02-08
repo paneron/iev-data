@@ -1,0 +1,50 @@
+data:
+  authoritative_source:
+  - - clause: '1.19'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC Guide 99:2007, 1.19, modifié – Combinaison de l'EXEMPLE 1
+        à l’EXEMPLE 10 dans une nouvelle Note 1 à l'article, et suppression de la
+        NOTE 1.
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        modification: Combinaison de l'EXEMPLE 1 à l’EXEMPLE 10 dans une nouvelle
+          Note 1 à l'article, et suppression de la NOTE 1.
+        type: modified
+  concept: 04287938-1dcc-58d1-940c-fbc5f08744c1
+  definition: ensemble d'un nombre et d'une référence constituant l'expression quantitative
+    d'une {{grandeur, IEV:112-01-01}}
+  examples: []
+  notes:
+  - "Selon le type de référence, la valeur d'une grandeur est soit:\r\n. le produit\
+    \ d'un nombre et d'une {{unité de mesure, IEV:112-01-14}} (l'unité un est généralement\
+    \ omise pour les grandeurs sans dimension, comme dans les exemples f et g):\n\n\
+    a) Longueur d'une tige donnée: 5,34 m  ou  534 cm\n\nb) Masse d'un corps donné:\
+    \ 0,152 kg  ou  152 g\n\nc) Courbure d'un arc donné: 112 m^–1^ (cent douze mètres\
+    \ à la puissance moins un)\n\nd) Température Celsius d'un spécimen donné: –5 °C\n\
+    \ne) Impédance électrique d'un élément de circuit donné à une fréquence donnée,\
+    \ où j est l'unité imaginaire: (7,5 + 3,2 j) Ω\n\nf) Indice de réfraction d'un\
+    \ spécimen donné de verre: 1,32\n\ng) Fraction massique de cadmium dans un spécimen\
+    \ donné de cuivre: 3 µg/kg  ou  3 × 10^–9^\n\nh) Molalité de Pb^+2^ dans un spécimen\
+    \ donné d'eau: 1,76 mmol/kg\r\n. un nombre et la référence à une procédure de\
+    \ mesure:\n\nDureté C d’un spécimen donné: 43,5 HCR\r\n. un nombre et un matériau\
+    \ de référence:\n\nConcentration arbitraire en quantité de matière de lutropine\
+    \ dans un spécimen donné de plasma sanguin humain en utilisant l'étalon international\
+    \ 80/552 de l'OMS: 5,0 UI/l, où \"UI\" signifie \"unité internationale de l'OMS\"\
+    \n\nDans le premier cas, la valeur d'une grandeur stem:[Q] est généralement notée\
+    \ {stem:[Q]}[[stem:[Q]]] où {stem:[Q]} est la valeur numérique et [[stem:[Q]]]\
+    \ est l'unité de mesure."
+  - Le nombre peut être complexe (voir l’exemple e dans la Note 1 à l'article).
+  - La valeur d'une grandeur peut être représentée de plus d'une façon (voir les exemples
+    a, b et g dans la Note 1 à l'article).
+  - 'Dans le cas de grandeurs vectorielles ou tensorielles, chaque composante a une
+    valeur et de même pour la norme d''une grandeur vectorielle. Exemple:
+
+
+    force agissant sur une particule donnée, par exemple en composantes cartésiennes
+
+
+    (stem:[F]~stem:[x]~; stem:[F]~stem:[y]~; stem:[F]~stem:[z]~) = (–31,5; 43,2; 17,0)
+    N'
+dateAccepted: 2018-11-17
+id: c32d2fa5-59e3-5653-866b-b14a0ba13fc0
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: b39ed9f4-00a9-5cf6-b436-c52180241fdd
+  definition: vitesse moyenne du vent la plus élevée, moyennée sur stem:[t] sec, susceptible
+    d'être rencontrée dans une période (temps de répétition) de stem:[T] ans
+  examples: []
+  notes:
+  - Des temps de répétition de stem:[T] = 50 ans et de stem:[T] = 1 an et des temps
+    de moyennage de stem:[t] = 3 et stem:[t] = 10 min sont utilisés dans nombre de
+    normes. En langage courant on utilise souvent le terme moins précis de "vitesse
+    de survie". En pratique cependant l'aérogénérateur est conçu en utilisant la vitesse
+    de vent extrême pour les hypothèses de charge à la conception.
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: 297d1822-ad00-5e8b-b868-79e25a19415a
+status: Standard

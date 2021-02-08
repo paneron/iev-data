@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 52ae5029-cd63-55dd-acef-f52d07fa944c
+  definition: a property of a device which causes more than one error to occur in
+    its output signal when a single digital error is present in its input signal
+  examples: []
+  notes:
+  - Line decoders and descramblers are examples of devices which may cause error multiplication.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 8bb30a53-98f3-501d-9f71-da8da03d34d0
+status: Standard

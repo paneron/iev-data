@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4176b573-d41a-5615-becb-544464e1f119
+  definition: 'a tariff in which the kilowatthour rate applicable to all the kilowatthours
+    consumed varies according to the level of consumption during the period specified
+    in the tariff
+
+
+    Example:
+
+
+    all the kilowatthours at a kWh rate stem:[p]~1~ if the monthly consumption does
+    not exceed 100 kWh,
+
+
+    all the kilowatthours at a kWh rate stem:[p]~2~ if the monthly consumption is
+    between 101 and 200 kWh,
+
+
+    all the kilowatthours at a kWh rate stem:[p]~3~ if the monthly consumption exceeds
+    200 kWh.'
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 6a3e3089-cbd6-53f8-9622-a0f37ddfbc2d
+status: Standard

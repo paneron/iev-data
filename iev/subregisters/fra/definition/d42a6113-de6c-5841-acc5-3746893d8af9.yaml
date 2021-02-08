@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 702-09-05
+      link: null
+      original: 702-09-05 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 9cef84fa-b6b7-5b99-b9cf-2912229ce7da
+  definition: circuit électrique ou ensemble de circuits électriques interconnectés
+    ou comportant entre eux des couplages capacitifs ou inductifs intentionnels
+  examples: []
+  notes:
+  - Un réseau électrique peut faire partie d'un réseau électrique plus grand.
+  - Dans la CEI 60050-131, le terme "réseau électrique" a un sens approprié à la théorie
+    des circuits.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: d42a6113-de6c-5841-acc5-3746893d8af9
+status: Standard

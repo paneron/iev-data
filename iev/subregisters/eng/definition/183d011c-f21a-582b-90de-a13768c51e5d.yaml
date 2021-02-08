@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5022e9bd-b057-5443-852d-c29a24865c75
+  definition: implement a safe structure
+  examples: []
+  notes:
+  - This means to implement functionality which prevents the transition of the system
+    to an unsafe operating state or limits the possible impact of an unsafe operation.
+  - The term "safeguard" also represents the concept defined in 351-43-17.
+  - This entry was numbered 351-22-13 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 183d011c-f21a-582b-90de-a13768c51e5d
+status: Standard

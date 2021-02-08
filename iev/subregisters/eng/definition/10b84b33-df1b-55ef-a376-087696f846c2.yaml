@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - - clause: '2.1'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 2.1, modified – The references to other terms
+        within ISO/IEC 17000 have been replaced by hyperlinks to entries in the IEV.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: The references to other terms within ISO/IEC 17000 have been
+          replaced by hyperlinks to entries in the IEV.
+        type: modified
+  concept: 8e469d28-5020-5225-b7c0-18727c24272f
+  definition: demonstration that {{specified requirement, IEV:902-02-01}}s relating
+    to a {{product, IEV:902-02-03}}, process, system, person or body are fulfilled
+  examples: []
+  notes:
+  - The subject field of conformity assessment includes activities defined elsewhere
+    in ISO/IEC 17000, such as {{testing, IEV:902-03-02}}, {{inspection, IEV:902-03-03}}
+    and {{certification, IEV:902-04-05}}, as well as the {{accreditation, IEV:902-04-06}}
+    of {{conformity assessment bodies, IEV:902-01-05}}.
+  - The expression “object of conformity assessment” or “object” is used in ISO/IEC
+    17000 to encompass any particular material, product, installation, process, system,
+    person or body to which conformity assessment is applied. A service is covered
+    by the definition of a product (see Note 1 to {{IEV 902-02-03, IEV:902-02-03}}).
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 10b84b33-df1b-55ef-a376-087696f846c2
+status: Standard

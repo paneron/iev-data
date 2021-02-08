@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 702-02-18
+      link: null
+      original: MOD 702-02-18
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 149c57f0-1f8d-5d0b-a738-371476e29a36
+  definition: quotient de la norme du vecteur vitesse de phase d'une onde sinusoïdale
+    dans une direction donnée par la fréquence de l'onde
+  examples: []
+  notes:
+  - Dans la direction de propagation, la longueur d'onde a sa valeur minimale; si
+    aucune direction n'est spécifiée, la longueur d'onde est celle dans la direction
+    de propagation.
+  - La longueur d'onde dans une direction quelconque est le quotient de 2stem:[π]
+    par la norme de la projection sur cette direction de la partie réelle du vecteur
+    d'onde.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 6c848254-db5b-5581-a4ec-ef6d4a0f37f0
+status: Standard

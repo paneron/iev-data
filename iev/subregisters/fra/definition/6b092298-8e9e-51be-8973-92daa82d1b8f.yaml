@@ -1,0 +1,36 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2e4964ed-955d-5fb8-962f-c519f85a0b26
+  definition: 'loi donnant la <a href="IEV845-21-029">répartition spectrale</a> de
+    la luminance énergétique d''un <a href="IEV845-24-004">radiateur de Planck</a>
+    en fonction de la longueur d''onde et de la température
+
+
+    stem:[L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda))
+    = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)]
+
+
+    où stem:[L]~e,~stem:[λ] est la luminance spectrale, stem:[λ] est la longueur d''onde
+    dans le vide, stem:[T] est la température thermodynamique, stem:[c_1 \ = 2 \ pi
+    \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] est la constante de Planck,
+    stem:[c]~0~ est la {{vitesse de la lumière dans le vide, IEV:113-01-34}}, et stem:[k]
+    est la constante de Boltzmann'
+  examples: []
+  notes:
+  - La formule s'écrit parfois avec stem:[((c_1))/((pi omega_0))] au lieu de stem:[((c_1))/(pi)],
+    où stem:[Ω]~0~ est l'angle solide de 1 sr.
+  - Pour un récepteur dans un milieu d'indice de réfraction stem:[n], la luminance
+    énergétique mesurée est stem:[n]^2^stem:[L]~e,~stem:[λ](stem:[λ], stem:[T]).
+  - La loi de Planck peut aussi être exprimée pour donner la répartition spectrale
+    de l'exitance énergétique, stem:[M]~e,~stem:[λ](stem:[λ], stem:[T]); dans la formule,
+    le premier facteur est alors stem:[c]~1~ au lieu de stem:[((c_1))/(pi)].
+  - Les deux grandeurs (luminance et exitance énergétiques) s'appliquent au <a href="IEV845-21-021">rayonnement
+    non polarisé</a> tel qu'il est émis.
+  - Pour les valeurs actualisées de la constante de Planck, stem:[h], la {{vitesse
+    de la lumière dans le vide, IEV:113-01-34}}, stem:[c]~0~, et la constante de Boltzmann,
+    stem:[k], voir CODATA.
+  - Cet article était numéroté 845-04-05 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 6b092298-8e9e-51be-8973-92daa82d1b8f
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: daca4f73-7236-556d-8d7b-1152b6d58ec7
+  definition: rapport de la valeur efficace de la composante alternative d'une grandeur
+    {{ondulée, IEV:103-06-07}} à la valeur absolue de la composante continue
+  examples: []
+  notes:
+  - Pour une grandeur ondulée stem:[x] de composante continue stem:[bar X] et de composante
+    alternative stem:[x_( ∼ )], le taux d'ondulation efficace est stem:[r = ((X_(
+    ∼ ) ()_((eff))))/((| bar X |))].
+dateAccepted: 2018-11-17
+id: 74563693-5170-5af0-af4a-2aede4a17d79
+status: Standard

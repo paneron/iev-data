@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: e5053cf9-a94e-567d-949c-2eb4c4ce90f7
+  definition: 'for a gamma or X-ray emitting nuclide, the quotient of stem:[l^2 ((
+    ((d X))/((d t)) ))_(delta)] by stem:[A], where (dstem:[Х]/dstem:[t])~stem:[δ]~
+    is the exposure rate due to photons of energy greater than stem:[δ] at a distance
+    stem:[I] from a point source of this nuclide having an activity stem:[A]
+
+
+    stem:[Gamma_(delta) = ((l^2))/(A) (( ((d X))/((d t)) ))_(delta)]
+
+
+    A special unit of exposure rate constant is Rm^2^h^−1^Ci^−1^.'
+  examples: []
+  notes:
+  - It is assumed that the attenuation in the source and along stem:[I] is negligible.
+    In the case of radium, the value of stem:[Γ] is determined for a filter thickness
+    of 0,5 mm platinum. Moreover, stem:[Γ] is related not to the activity but to the
+    mass of ^226^Ra; a special unit is then Rm^2^h^−1^g^−1^.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 4ce3fbe3-8517-5b8a-8e3d-3b17c390b259
+status: Standard

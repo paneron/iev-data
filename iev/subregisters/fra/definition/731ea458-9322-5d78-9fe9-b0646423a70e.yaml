@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - - clause: 702-04-16
+      link: null
+      original: 702-04-16 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 704-13-18
+      link: null
+      original: 704-13-18 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: e1cf5af9-6210-5e27-878b-0a43bcc80407
+  definition: état de grandeurs ou de phénomènes qui sont synchrones
+  examples: []
+  notes:
+  - Le concept de "synchrone" est défini dans la CEI 60050-101.
+  - Des grandeurs périodiques sont en synchronisme lorsqu'elles ont la même fréquence.
+  - Pour le synchronisme de certains systèmes, des conditions supplémentaires sont
+    nécessaires.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 731ea458-9322-5d78-9fe9-b0646423a70e
+status: Standard

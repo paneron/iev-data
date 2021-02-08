@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: eae2ef7c-ce1f-5dd8-b0f7-1e329aee29d1
+  definition: space around {{energized, IEV:651-21-08}} parts where reduction of {{electrical
+    risk, IEV:651-26-06}} is managed by restricting access to {{skilled persons, IEV:651-26-11}}
+    only, by maintaining the appropriate air distances to parts at a different electric
+    potential and by using {{tools, IEV:651-21-14}} for {{live working, IEV:651-21-01}}
+  examples: []
+  notes:
+  - The distance from the energized parts to the outer boundary of a live working
+    zone is greater or equal to the sum of the {{electrical distance, IEV:651-21-12}}
+    appropriate for the maximum nominal voltage and of the selected {{ergonomic distance,
+    IEV:651-21-13}}.
+  - The live working zone and the specific precautions that apply are generally defined
+    by national or company regulations.
+  - This entry was numbered 651-01-06 in IEC 60050-651:1999. It has been modified
+    to ensure clarification of the concept of live working.
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: d1138562-30a0-5d32-b2d7-654f5d9768a7
+status: Standard

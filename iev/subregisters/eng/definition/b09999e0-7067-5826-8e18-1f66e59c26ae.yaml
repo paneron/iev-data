@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - null
+  concept: e8ae6a86-ceea-5327-a303-13c37ac5ce91
+  definition: 'macroscopic quantum effect in which, when a voltage stem:[U] is applied
+    across a Josephson junction, an alternating current of Cooper pairs flows by tunnelling
+    through the junction, generating the emission of electromagnetic radiation having
+    a frequency stem:[f] proportional to the applied voltage:
+
+
+    stem:[f] = stem:[K]~j~stem:[U]
+
+
+    where stem:[K]~j~ = 2stem:[e]/stem:[h] is the Josephson constant, with stem:[e]
+    being the elementary electric charge and stem:[h] the Planck constant'
+  examples: []
+  notes:
+  - The alternating-current Josephson effect also manifests itself conversely so that,
+    when a Josephson junction is irradiated by electromagnetic radiation of frequency
+    stem:[f], the voltage across it can assume quantized values equal to stem:[nf]/stem:[K]~j~,
+    where stem:[n] is a positive integer.
+  - The value of the Josephson constant is 483 597,891(12) × 10^9^ Hz V^-1^ (CODATA,
+    2006).
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: b09999e0-7067-5826-8e18-1f66e59c26ae
+status: Standard

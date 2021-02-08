@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 418acad3-ac93-50aa-9326-01c9d743520f
+  definition: 'valeur maximale du courant effectif d''alimentation, calculée à partir
+    du courant d''alimentation assigné (stem:[I]~1~), du facteur de marche (X) correspondant
+    et du courant d''alimentation à vide (stem:[I]~0~), par la formule:
+
+
+    stem:[I_((1 e f f)) = sqrt(I_1^2 xx X + I_0^2 xx ( 1 - X ))]'
+  examples: []
+  notes: []
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: 4b46ecb7-0991-5335-a8f8-49780c1748a1
+status: Standard

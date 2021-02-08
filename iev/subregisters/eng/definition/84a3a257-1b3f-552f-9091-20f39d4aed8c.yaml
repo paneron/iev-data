@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - - clause: '3.3'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 3.3, modified – The references to other terms
+        within ISO/IEC 17000 have been replaced by hyperlinks to entries in the IEV.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: The references to other terms within ISO/IEC 17000 have been
+          replaced by hyperlinks to entries in the IEV.
+        type: modified
+  concept: c15f83a9-30b6-55fa-8711-3c78a69a79a1
+  definition: 'result of a process
+
+
+    [ISO 9000:2000, 3.4.2]'
+  examples: []
+  notes:
+  - 'Four generic product categories are noted in ISO 9000:2000: services (e.g. transport);
+    software (e.g. computer program, dictionary); hardware (e.g. engine, mechanical
+    part); processed materials (e.g. lubricant). Many products comprise elements belonging
+    to different generic product categories. Whether the product is then called service,
+    software, hardware or processed material depends on the dominant element.'
+  - The statement of conformity described in Note 1 to {{902-04-02, IEV:902-04-02}}
+    can be regarded as a product of {{attestation, IEV:902-04-02}}.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 84a3a257-1b3f-552f-9091-20f39d4aed8c
+status: Standard

@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 725-13-01
+      link: null
+      original: 725-13-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 8aef5a6e-0eaf-512e-881b-eeb96244997e
+  definition: area on the Earth's surface, associated with a space station, within
+    which, under specified technical conditions, it is feasible for radiocommunication
+    of a specified nature to be established with one or more Earth stations which
+    are transmitting, receiving or both transmitting and receiving
+  examples: []
+  notes:
+  - Several coverage areas may be associated with the same space station, for example
+    a satellite with several antennas beams.
+  - In the absence of interference, the coverage area will be bounded by a contour
+    of pre-determined power flux density.
+  - The concept of “coverage area”, as defined here, applies in a simple way only
+    to space stations on board satellites which are geostationary.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 4db8e793-ff69-5e74-b3d6-3f145c3e52d4
+status: Standard

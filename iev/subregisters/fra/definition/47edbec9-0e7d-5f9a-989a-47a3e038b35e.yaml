@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2ec28109-44cf-5380-a6e2-276dd7a9ed11
+  definition: méthode quantitative ou qualitative d’analyse qui comprend une analyse
+    des modes de défaillance et de leurs effets, complétée en considérant la probabilité
+    d’apparition des modes de défaillance et la gravité de leurs effets
+  examples: []
+  notes:
+  - Le terme «analyse des modes de panne, de leurs effets et de leur criticité» de
+    l’IEC 60050-191:1990 (supprimée; remplacée par l'IEC 60050-192:2015) est déconseillé,
+    parce qu’une panne ({{192-04-01, IEV:192-04-01}}) est un état et ne peut pas logiquement
+    comporter un mode, alors qu’un mode de défaillance ({{192-03-17, IEV:192-03-17}})
+    est un changement d’état.
+dateAccepted: 2018-11-17
+id: 47edbec9-0e7d-5f9a-989a-47a3e038b35e
+status: Standard

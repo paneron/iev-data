@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: '3.2'
+      link: https://www.iso.org/standard/32893.html
+      original: ISO/CEI Guide 51:1999, 3.2, modifiée – Utilisation de mots plus appropriés
+        pour apporter une meilleure clarification de la définition adaptée aux travaux
+        sous tension.
+      ref: ISO/IEC Guide 51:1999
+      relationship:
+        modification: Utilisation de mots plus appropriés pour apporter une meilleure
+          clarification de la définition adaptée aux travaux sous tension.
+        type: modified
+  concept: 8de71d1f-9260-5fc8-9337-da573b7b5fdd
+  definition: combinaison de la probabilité d’occurrence d'un phénomène électrique
+    et de la gravité du dommage en présence d'énergie électrique dans une {{installation
+    électrique, IEV:651-26-01}}
+  examples: []
+  notes:
+  - Cet article était numéroté 651-01-31 dans la CEI 60050-651:1999. Il a été modifié
+    de façon à être plus précis pour l’application aux {{travaux sous tension, IEV:651-21-01}}.
+dateAccepted: 2018-11-17
+id: c128ed9b-61cf-5ae8-9f02-b4465b7edb85
+status: Standard

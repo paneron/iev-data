@@ -1,0 +1,36 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9e4f1d30-0369-5566-a984-41dc99d78865
+  definition: set of real numbers such that, for any pair (stem:[x], stem:[y]) of
+    elements of the set, any real number stem:[z] between stem:[x] and stem:[y] belongs
+    to the set
+  examples: []
+  notes:
+  - 'There are several kinds of intervals:
+
+
+
+
+    * closed interval from stem:[a] to stem:[b]: stem:[a , b = { x in R | a &lt;=
+    x &lt;= b }]
+
+
+    * open interval from stem:[a] to stem:[b]: stem:[a , b = { x in R | a x b }]
+
+
+    * half-open intervals: stem:[a , b = { x in R | a x &lt;= b }] and stem:[a , b
+    = { x in R | a &lt;= x b }]
+
+
+    * closed unbounded interval up to stem:[b] or onward from stem:[a]: stem:[- oo
+    , b = { x in R | x &lt;= b }] and stem:[a , + oo = { x in R | a &lt;= x }]
+
+
+    * open unbounded interval up to stem:[b] or onward from stem:[a]: stem:[- oo ,
+    b = { x in R | x b }] and stem:[a , + oo = { x in R | a x }]
+
+    '
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: a3f1fddd-c6a2-59d1-a95b-776fd7ed1be2
+status: Standard

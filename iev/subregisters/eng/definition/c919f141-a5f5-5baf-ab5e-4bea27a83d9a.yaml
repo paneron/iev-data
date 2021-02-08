@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5d7911b4-7d86-570c-b5a8-51fdb190befe
+  definition: the minimum value of the field strength from a transmitter permitting
+    reception of required quality at a given point, for specified installation and
+    operating conditions, in the presence of noise and interference, either as actually
+    existing or determined by agreement or in accordance with frequency plans
+  examples: []
+  notes:
+  - If either noise or interference is subject to fluctuations, the percentage of
+    the time during which the required quality is to be met must be specified.
+  - 'The specified conditions include:
+
+
+    - the transmission mode, the type of service and the frequency band used;
+
+
+    - the characteristics of the reception installation: antenna gain, receiver pass-band,
+    site;
+
+
+    - the operating conditions at the receiver, especially the geographical area,
+    the time of day, and the season of the year.'
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: c919f141-a5f5-5baf-ab5e-4bea27a83d9a
+status: Standard

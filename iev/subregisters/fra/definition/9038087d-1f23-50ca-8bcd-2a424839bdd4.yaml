@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07a060a4-913b-556a-97e6-6ea748fc828c
+  definition: pour un circuit magnétique construit avec différents matériaux ou avec
+    des matériaux non homogènes, perméabilité d'une substance homogène fictive qui,
+    si on l'utilisait pour construire un circuit de dimensions identiques, fournirait
+    la même réluctance
+  examples: []
+  notes:
+  - 'Lorsque les différents matériaux sont disposés en série sur le parcours du champ
+    magnétique et que la perméabilité peut être supposée constante sur toute la surface
+    d''une section droite quelconque, la formule suivante est applicable:
+
+
+    stem:[(1)/((mu_e)) sum (l)/(A) = sum (l)/((mu_r A))]
+
+
+    où stem:[l] est la longueur, mesurée le long du parcours du champ magnétique,
+    de chaque élément du noyau de section droite constante stem:[A] et de perméabilité
+    homogène stem:[µ]~r~.'
+  - La perméabilité effective est particulièrement utilisée pour les noyaux comportant
+    un entrefer et son usage est habituellement restreint au cas où le flux de fuite
+    est relativement faible.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 9038087d-1f23-50ca-8bcd-2a424839bdd4
+status: Standard

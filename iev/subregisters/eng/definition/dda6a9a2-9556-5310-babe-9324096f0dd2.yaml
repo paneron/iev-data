@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 2.8.6
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.8.6
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  concept: eb909c14-bbca-5432-aa22-c071a9addeab
+  definition: system for a chemical, biochemical or biotechnological process that
+    is installed on a microchip
+  examples: []
+  notes:
+  - A lab-on-a-chip is a chip including systems for metering, measuring, and mixing
+    microscopic liquid samples with reagents, moving the mixtures to an integrated
+    temperature-controlled reaction chamber, and separating and determining the results
+    with an on-board detector. A lab-on-a-chip can be used both for analysis and for
+    synthesis.
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: dda6a9a2-9556-5310-babe-9324096f0dd2
+status: Standard

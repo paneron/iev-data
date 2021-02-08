@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.13
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.13
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: edec1cd2-222f-5b49-bee3-625ce5b2a58f
+  definition: stockage permanent d'<a href="IEV741-01-500">informations</a> {{numériques,
+    IEV:171-01-07}}
+  examples: []
+  notes:
+  - L'accès à un dépôt de données peut être réservé à une {{entité, IEV:741-01-18}}
+    unique ou être partagé par plusieurs entités par l'intermédiaire d'un {{réseau,
+    IEV:741-01-25}} ou d'une autre connexion.
+dateAccepted: 2018-11-17
+id: ca8aa259-a1bd-5ff2-a313-5b0a1d0b7e48
+status: Standard

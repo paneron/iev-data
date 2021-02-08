@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - - clause: 3.8.5
+      link: https://www.iso.org/standard/42180.html
+      original: ISO 9000:2005, 3.8.5, modified – Notes 3, 4 and 5 have been added
+      ref: ISO 9000:2005
+      relationship:
+        modification: Notes 3, 4 and 5 have been added
+        type: modified
+  concept: 6d8e8ceb-1ae7-57ac-9b35-04d473721155
+  definition: confirmation, through the provision of objective evidence, that the
+    requirements for a specific intended use or application have been fulfilled
+  examples: []
+  notes:
+  - The term “validated” is used to designate the corresponding status.
+  - The use conditions for validation can be real or simulated.
+  - In design and development, validation concerns the process of examining an item
+    to determine conformity with user needs.
+  - Validation is normally performed during the final stage of development, under
+    defined operating conditions, although it may also be performed in earlier stages.
+  - Multiple validations may be carried out if there are different intended uses.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 269d05a3-123c-5a75-98da-c1e85bd742bb
+status: Standard

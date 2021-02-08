@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 07de7724-eef9-5114-bb8d-933cb3db3be0
+  definition: signal numérique produit par l'application d'un code en ligne redondant
+    donné à un signal original donné
+  examples: []
+  notes:
+  - Pour un signal numérique stem:[n]-aire redondant, le contenu binaire équivalent
+    moyen par élément de signal, exprimé en bits, est inférieur au logarithme binaire
+    lb stem:[n].
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: ac657a0d-ae3a-5433-beec-eb0e0266e543
+status: Standard

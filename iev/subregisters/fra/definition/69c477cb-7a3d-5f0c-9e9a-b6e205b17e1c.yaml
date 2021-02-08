@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: 161-01-14
+      link: null
+      original: 161-01-14 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  concept: 20ca668b-d049-5732-8c2d-8524f75c48b8
+  definition: trouble apporté à la réception d'un signal utile par une perturbation
+    radioélectrique
+  examples: []
+  notes:
+  - En anglais, les mots "interference" et "disturbance" sont souvent utilisés indifféremment;
+    l'expression "radio-frequency interference" est employée aussi communément pour
+    désigner une perturbation radioélectrique ou un signal non désiré.
+  - Différents niveaux de brouillage sont définis dans le Règlement des radiocommunications
+    de l'UIT à des fins administratives, à savoir le brouillage admissible, le brouillage
+    accepté et le brouillage préjudiciable.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 69c477cb-7a3d-5f0c-9e9a-b6e205b17e1c
+status: Standard

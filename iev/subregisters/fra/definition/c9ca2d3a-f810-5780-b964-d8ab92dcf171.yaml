@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 414566ae-fef4-5f3d-abe2-3c9c2a172848
+  definition: 'pour une réaction chimique donnée stem:[α]A + stem:[β]B + … ↔ stem:[σ]S
+    + stem:[τ]T + …, grandeur donnée par
+
+
+    stem:[r = (1)/(alpha) ((d c ( A )))/((d t)) = (1)/(beta) ((d c ( B )))/((d t))
+    = (1)/(sigma) ((d c ( S )))/((d t)) = (1)/(tau) ((d c ( T )))/((d t))]
+
+
+    où A, B,... désignent les réactifs, S, T,... désignent les produits, −stem:[α],
+    −stem:[β], …, stem:[σ], stem:[τ], … sont les nombres stœchiométriques correspondants,
+    et stem:[c](A), stem:[c](B), …, stem:[c](S), stem:[c](T), … sont respectivement
+    les concentrations en quantité de matière de A, B, ... S, T, ...'
+  examples: []
+  notes:
+  - L’unité SI cohérente de vitesse de réaction est la mole par mètre cube seconde,
+    mol m^−3^ s^−1^.
+dateAccepted: 2018-11-17
+id: c9ca2d3a-f810-5780-b964-d8ab92dcf171
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8c977c7b-7b43-55c7-b864-db449d410805
+  definition: grandeur électrique qui, appliquée au circuit d'entrée d'un relais élémentaire
+    dans des conditions spécifiées, lui permet d'accomplir sa fonction
+  examples: []
+  notes:
+  - Pour les relais élémentaires, la grandeur d'alimentation est en général une tension.
+    En conséquence, on utilise la tension d'entrée comme grandeur d'alimentation dans
+    les définitions données ci-dessous. Lorsqu'un relais est alimenté par un courant,
+    les termes et définitions respectifs sont à utiliser avec le terme "courant" au
+    lieu du terme "tension".
+dateAccepted: '2002-01-01T00:00:00+00:00'
+id: 12314e0e-e7c6-510b-aa0b-598af6183cbe
+status: Standard

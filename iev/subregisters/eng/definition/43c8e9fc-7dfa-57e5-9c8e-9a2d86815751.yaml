@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: ec396dcd-6bc2-52fd-a4b2-4cc25f21002e
+  definition: 'a method of justification in which the digit time-slots used to convey
+    a digital signal have a digit rate that is always lower than the digit rate of
+    the original signal, and in which at each justification instant, depending on
+    the prevailing conditions, either:
+
+
+    a) one digit of the original signal is transmitted in the justifiable digit time-slot,
+    or
+
+
+    b) two digits of the original signal are transmitted, one in the justifiable digit
+    time-slot with the other digit being removed and then transmitted by another means,
+
+
+    with these alternative justification states being indicated by unique signals
+    formed from justification service digits'
+  examples: []
+  notes: []
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 43c8e9fc-7dfa-57e5-9c8e-9a2d86815751
+status: Standard

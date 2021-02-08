@@ -1,0 +1,40 @@
+data:
+  authoritative_source:
+  - null
+  concept: 61e3bb6d-2265-5231-af68-29d50c7be629
+  definition: 'a tariff in which there is an increase in the rates when the demand
+    used by the consumer exceeds a limit fixed by agreement
+
+
+    Example:
+
+
+    kWh rate stem:[p]~1~ within a demand limit of 10 kW,
+
+
+    kWh rate stem:[p]~2~ for each kilowatthour consumed while the demand is above
+    10 kW,
+
+
+    or:
+
+
+    kWh rate stem:[p]~1~ within the demand limit of 10 kW,
+
+
+    kWh rate stem:[p]~2~ for all kilowatthours consumed if the demand has exceeded
+    10 kW,
+
+
+    or also:
+
+
+    demand rate stem:[p]~1~ per kW of subscribed demand,
+
+
+    demand rate stem:[p]~2~ per kW used in excess of the demand subscribed.'
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 8c4b8cee-ad4d-55cd-b6c7-444979053d0e
+status: Standard

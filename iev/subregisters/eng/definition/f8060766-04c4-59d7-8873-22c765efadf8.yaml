@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 077deef1-5386-5db5-a40d-b8238293180f
+  definition: mode of operation in which stabilized power supplies are interconnected
+    and in which the slave supplies have their outputs always maintained equal or
+    proportional to the output of the "master" supply
+  examples: []
+  notes:
+  - A configuration in which the slave has a polarity opposite to that of the "master"
+    with respect to the common output terminal, is called "complementary tracking".
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: f8060766-04c4-59d7-8873-22c765efadf8
+status: Standard

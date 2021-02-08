@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: f8a62109-aed5-5452-b565-13326704b46e
+  definition: débit de l’énergie acoustique par unité d’aire dans le sens de la propagation
+  examples: []
+  notes:
+  - 'A proprement parler, l’intensité acoustique est une grandeur vectorielle qui
+    varie avec la position. Sa composante dans une quelconque direction est le débit
+    de l’énergie acoustique dans cette direction par unité d’aire perpendiculaire
+    à cette direction. Dans la plupart des cas pratiques, toutefois, il suffit de
+    considérer une seule composante particulière du vecteur d''intensité, à savoir
+    celle qui est dans le sens de propagation. Cette signification du terme "intensité"
+    est comprise dans la définition ci-dessus et dans les définitions énumérées ci-dessous
+    : 802-01-10, 802-01-14, 802-01-15, 802-01-16, 802-01-17, 802-01-18, 802-01-23,
+    et 802-01-24.'
+  - Dans le domaine des ultrasons, l’expression débit de l’énergie acoustique est
+    plus fréquemment usitée que puissance acoustique à travers un élément de surface.
+dateAccepted: '2011-01-01T00:00:00+00:00'
+id: 8533f9c6-7a13-5c88-8d98-47f143cfce73
+status: Standard

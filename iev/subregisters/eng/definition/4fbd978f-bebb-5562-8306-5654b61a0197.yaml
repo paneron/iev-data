@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.5
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.5
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: 18a78206-aea6-52b5-892c-f4ace78b9722
+  definition: property of being accessible and usable upon demand by an authorized
+    {{entity, IEV:741-01-18}}
+  examples: []
+  notes:
+  - '{{IoT systems, IEV:741-02-07}} can include both {{human users, IEV:741-01-20}}
+    and service components as "authorized entities".'
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: 4fbd978f-bebb-5562-8306-5654b61a0197
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: d96713b1-96df-5e4f-9c7f-43e765b15019
+  definition: signal type constitué par une impulsion en sinus carré, dont la durée
+    à mi-hauteur est Т, où T est voisin de la demi-période correspondant à la fréquence
+    limite nominale de la bande vidéo du système de télévision considéré
+  examples: []
+  notes:
+  - On utilise aussi des impulsions dont la durée à mi-hauteur est 2T, ... nТ.
+  - Pour les systèmes de télévision à 625 lignes, Test normalisé à 0,1 μs.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 98b313f0-ba0e-54d8-ad78-23d246c39853
+status: Standard

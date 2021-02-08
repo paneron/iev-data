@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.12
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.12
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: 33d6a6e8-141f-58fe-9b89-ed0e75194ffb
+  definition: propriété qui assure qu'une <a href="IEV741-01-500">information</a>
+    n'est pas mise à la disposition ou portée à la connaissance des particuliers,
+    des {{entités, IEV:741-01-18}} ou des processus qui ne disposent pas d'une autorisation
+    appropriée
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: bd579cf9-d00a-52ec-9899-1f696ad858ac
+status: Standard

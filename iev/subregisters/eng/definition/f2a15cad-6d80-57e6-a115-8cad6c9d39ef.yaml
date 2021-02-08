@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 221-05-02
+      link: null
+      original: 221-05-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 906b8c79-eeeb-5a40-ac6b-f843bd86d30c
+  definition: magneto-optic effect in which the electric flux density vector of a
+    linearly polarized electromagnetic wave is rotated about the direction of propagation
+    as it passes through a gyromagnetic medium subjected to a magnetostatic field
+    having a component of magnetic field strength along the direction of propagation
+  examples: []
+  notes:
+  - The Faraday effect is due to a birefringence where the refractive index is different
+    for two waves circularly polarized in opposite senses. The angle of rotation is
+    proportional to the magnitude of the magnetic field strength and to the distance
+    travelled in the medium. The coefficient of proportionality is called the Verdet
+    constant.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: f2a15cad-6d80-57e6-a115-8cad6c9d39ef
+status: Standard

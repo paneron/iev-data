@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1bc710d1-4aa3-5456-b6ef-0bd3ac21a570
+  definition: '{{distortion, IEV:702-07-43}} of a {{signal, IEV:101-12-02}} resulting
+    from the {{quantization, IEV:702-04-07}} of an original signal'
+  examples: []
+  notes:
+  - The terms "quantizing distortion" and "quantizing noise" are usually restricted
+    to the effect occurring within the {{working range, IEV:704-24-10}} of the quantizer.
+  - The term “quantizing noise” originated because the distortion usually has the
+    appearance of a {{random noise, IEV:161-02-14}} superimposed on the signal carrying
+    {{information, IEV:101-12-01}}.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 257cb11b-9fd9-5273-ae4e-884413dc4123
+status: Standard

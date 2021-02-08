@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.50
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.50
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  concept: 25dbe35b-4ead-52a3-9196-5578bedc7ff1
+  definition: connection at the physical layer between bus segments, providing an
+    extension of the bus beyond the limits permitted by passive means
+  examples: []
+  notes:
+  - The connected segments operate at the same speed and with the same protocol. The
+    delay introduced by a repeater is in the order of one bit duration.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 672d7fc8-cfc4-5c04-b350-7f61f6522b80
+status: Standard

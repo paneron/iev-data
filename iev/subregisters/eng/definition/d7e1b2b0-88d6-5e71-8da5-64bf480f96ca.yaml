@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 208f4fae-853c-5bfe-b43c-48147e688ff7
+  definition: the velocity vector, at a point in a propagation medium, of a signal
+    which may be ideally represented by two superimposed sinusoidal waves of equal
+    amplitude and slightly different frequencies approaching a common frequency limit
+  examples: []
+  notes:
+  - In the most general case, the magnitude of the group velocity vector equals the
+    derivative of the frequency with respect to the reciprocal of the wavelength,
+    and the components of the group velocity along the coordinate axes equal the partial
+    derivatives of the angular frequency with respect to the components of the real
+    part stem:[vec K^( ' )] of the wave vector stem:[vec underset(_)(K)].
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: d7e1b2b0-88d6-5e71-8da5-64bf480f96ca
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2e412535-8b1a-532f-adcd-bc257245841b
+  definition: distance la plus courte ou somme des distances les plus courtes le long
+    de la surface d’un isolateur entre deux parties conductrices qui supportent normalement
+    la tension de service entre elles
+  examples: []
+  notes:
+  - La surface du ciment ou de toute autre matière de scellement non isolante n’est
+    pas considérée comme faisant partie de la ligne de fuite.
+  - Si un revêtement à haute résistance est appliqué sur certaines parties isolantes
+    d’un isolateur, ces parties sont considérées comme surfaces isolantes effectives
+    et la distance mesurée à la surface de ces parties est incluse dans la ligne de
+    fuite.
+dateAccepted: '2007-05-01T00:00:00+00:00'
+id: 3fc330e4-7703-5667-a703-eb9f67391545
+status: Standard

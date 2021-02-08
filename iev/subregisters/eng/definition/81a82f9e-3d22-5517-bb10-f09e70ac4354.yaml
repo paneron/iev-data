@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 725-12-04
+      link: null
+      original: 725-12-04 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '59'
+      original: ITU RR 59 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  concept: de655e8d-af99-5503-b066-6b90f90385aa
+  definition: radio station effecting terrestrial radiocommunication
+  examples: []
+  notes:
+  - In French, the terms “station de Terre”, “station terrienne” and “station terrestre”
+    derive from the same root, but refer to different concepts.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 81a82f9e-3d22-5517-bb10-f09e70ac4354
+status: Standard

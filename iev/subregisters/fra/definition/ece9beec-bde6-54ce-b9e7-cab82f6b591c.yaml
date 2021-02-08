@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - null
+  concept: f9fe574d-5589-595c-9dae-e7e9e7fd9874
+  definition: 'pour une réponse unitaire à un échelon, durée de l''intervalle de temps
+    compris entre les points d''intersection de la tangente au point d''inflexion
+    avec l''axe horizontal correspondant à la valeur initiale et avec la parallèle
+    à cet axe passant par la valeur de régime établi final
+
+
+    VOIR: Figure 6.'
+  examples: []
+  notes:
+  - Cette définition ne s'applique qu'aux systèmes ne présentant pas de dépassement
+    dans la réponse unitaire à un échelon.
+  - 'Cet article était numéroté 351-24-27 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig6.png[Figure 6 - Determination of equivalent
+    time constant and equivalent dead time from a step reponse; Détermination de la
+    constante de temps équivalente et du temps mort équivalent à partir d’une réponse
+    à un échelon]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: ece9beec-bde6-54ce-b9e7-cab82f6b591c
+status: Standard

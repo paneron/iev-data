@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: d660e254-6176-500d-99c6-02e50a378c45
+  definition: time interval starting at midnight and ending at the next midnight
+  examples: []
+  notes:
+  - 1 The ending midnight of a calendar day coincides with the starting midnight of
+    the next day.
+  - 2 The duration of a calendar day is 24 h, except for special situations (daylight
+    saving time, leap second).
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 83d17ec3-c708-58f8-aaee-11d216c51f0b
+status: Standard

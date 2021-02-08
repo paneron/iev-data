@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - null
+  concept: 342d9101-ebdc-5bb7-a158-b247e376697b
+  definition: 'densité du flux photonique par rapport à un angle solide dans une direction
+    spécifiée
+
+
+    stem:[I_p = ((d Phi_p))/((d omega))]
+
+
+    où stem:[Φ]~p~ est le flux photonique émis dans la direction donnée, et stem:[Ω]
+    est l''angle solide contenant cette direction'
+  examples: []
+  notes:
+  - 'La répartition des intensités photoniques en fonction de la direction d''émission,
+    par exemple, donnée par les angles polaires (stem:[ϑ], stem:[φ]), permet de déterminer
+    le flux photonique stem:[Φ]~v~, dans un certain angle solide, stem:[Ω], d''une
+    source:
+
+
+    stem:[Phi_p = underset(omega)( ∬ ) I_p ( vartheta , phi ) sin vartheta \ d phi
+    \ d vartheta].'
+  - La grandeur radiométrique correspondante est l'"intensité énergétique". La grandeur
+    photométrique correspondante est l'"intensité lumineuse".
+  - L'intensité photonique est exprimée en seconde à la puissance moins un multipliée
+    par le stéradian à la puissance moins un (s^−1^·sr^−1^).
+  - Cet article était numéroté 845-01-32 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: b81db94a-54c9-558f-9db8-c46bdae591c4
+status: Standard

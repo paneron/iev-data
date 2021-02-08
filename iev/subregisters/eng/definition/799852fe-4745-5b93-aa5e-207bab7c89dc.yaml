@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 191-21-01
+      link: null
+      original: 191-21-01
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 135b0b16-da30-5a06-8fdc-fe1071e25632
+  definition: ability of an electric power system to supply the aggregate electric
+    power and energy required by the customers, under steady-state conditions, with
+    system component ratings not exceeded, bus voltages and system frequency maintained
+    within tolerances, taking into account planned and unplanned system component
+    outages
+  examples: []
+  notes:
+  - This ability may be measured by one or several appropriate indices.
+dateAccepted: '2009-03-01T00:00:00+00:00'
+id: 799852fe-4745-5b93-aa5e-207bab7c89dc
+status: Standard

@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - null
+  concept: a849e9b7-3ee4-5c8b-8904-a0cf27d1ce73
+  definition: "function stem:[f] that attributes a scalar stem:[f ( U , V )] to any\
+    \ pair of vectors *stem:[U]* and *stem:[V]* in a given vector space, with the\
+    \ following properties:\n\n\n\n* stem:[f ( alpha U , V ) = alpha f ( U , V )]\
+    \ and stem:[f ( U , beta V ) = beta f ( U , V )] where stem:[α] and stem:[β] are\
+    \ scalars, \n\n* stem:[f ( U + V , W ) = f ( U , W ) + f ( V , W )] and stem:[f\
+    \ ( W , U + V ) = f ( W , U ) + f ( W , V )] for any vector *stem:[W]* existing\
+    \ in the same vector space"
+  examples: []
+  notes:
+  - A bilinear form over an stem:[n]-dimensional vector space can be represented by
+    a square matrix stem:[( k_((i j)) )] and the scalar is stem:[f ( U , V ) = underset((i
+    j))( sum ) k_((i j)) U_i V_j].
+  - The bilinear forms over a given stem:[n]-dimensional vector space constitute an
+    stem:[n^2]-dimensional vector space.
+  - The concept of bilinear form extends to "linear form" in the case of one vector
+    and to "multilinear form" (or stem:[m]-linear form) in the case of an ordered
+    set of stem:[m] vectors.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: d28367c8-5474-5da7-b03d-c1b7c1940099
+status: Standard

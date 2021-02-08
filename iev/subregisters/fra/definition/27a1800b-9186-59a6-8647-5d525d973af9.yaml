@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 926a54fe-0604-5251-af95-c545712bce53
+  definition: diagramme donnant les courbes du gain logarithmique de la réponse en
+    fréquence en boucle fermée stem:[((G_0))/((1 + G_0))], tracées en coordonnées
+    rectangulaires et de la différence de phase de la réponse en fréquence en boucle
+    ouverte stem:[G]~0~
+  examples: []
+  notes:
+  - stem:[((G_0))/((1 + G_0))] est la réponse en fréquence en boucle fermée pour des
+    variations de la variable de référence, dans le cas où la variable de commande
+    stem:[x] serait utilisée directement comme variable de réaction stem:[r]. La fonction
+    de transfert de l'élément de mesurage est supposée être de un.
+  - Cet article était numéroté 351-25-09 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 27a1800b-9186-59a6-8647-5d525d973af9
+status: Standard

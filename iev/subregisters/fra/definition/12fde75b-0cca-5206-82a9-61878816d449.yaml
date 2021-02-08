@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: '5.4'
+      original: ≠ VIM 5.4
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: f50951c8-20fb-5694-bcec-5058b3ddb02a
+  definition: plage définie par deux valeurs du mesurande, ou grandeur à fournir,
+    dans laquelle les limites d’incertitude de l’appareil de mesure sont spécifiées
+  examples: []
+  notes:
+  - Un appareil de mesure peut avoir plusieurs étendues de mesure.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 12fde75b-0cca-5206-82a9-61878816d449
+status: Standard

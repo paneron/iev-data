@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: c71ef638-1ef2-5e16-bffe-3aaff0df1e25
+  definition: the ratio, expressed in decibels, of the reference output level to the
+    specified weighted noise output level after bulk erasure (without machine erase
+    and bias)
+  examples: []
+  notes:
+  - The frequency weighting employed should always be specified, but if no weighting
+    is stated, the "A" frequency weigthting should be understood.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: b356a4f0-3930-5d22-91bc-5772c8758636
+status: Standard

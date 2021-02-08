@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7f352595-f4e5-5cdd-9186-8df6b37925f4
+  definition: rapport de la valeur efficace du résidu total de distorsion à la valeur
+    efficace de la composante fondamentale ou de la composante fondamentale de référence
+    d'une grandeur alternative
+  examples: []
+  notes:
+  - Le rapport total de distorsion dépend du choix de la composante fondamentale.
+    En cas d'ambiguïté dans le contexte on indique de quelle composante il s'agit.
+  - Le rapport total de distorsion peut faire l'objet d'une approximation à un certain
+    rang. Les conditions de l'approximation sont alors indiquées.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 31f31ab4-8dfa-5a48-ad2f-75298693a645
+status: Standard

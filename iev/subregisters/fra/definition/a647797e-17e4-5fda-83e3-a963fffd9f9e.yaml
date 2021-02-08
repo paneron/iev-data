@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: a67da07b-3f9b-5b35-8ef8-3d211d8dc0cb
+  definition: 'flux magnétique virtuel à travers une surface limitée par un contour
+    C
+
+
+    stem:[Phi_C = Phi + mu_0 lambda^2 underset(C)( int ) J * d l]
+
+
+    où stem:[Φ] est le flux magnétique à travers la surface, stem:[λ] la profondeur
+    de pénétration, *stem:[J]* la densité de courant supraconducteur, stem:[μ]~0~
+    la constante magnétique et d*stem:[l]* un élément vectoriel d''arc'
+  examples: []
+  notes:
+  - Le fluxoïde dans un supraconducteur est un multiple du quantum de flux stem:[Φ]~0~.
+  - Le fluxoïde est parfois utilisé à la place du fluxon qui est loin de la surface
+    d’un supraconducteur.
+dateAccepted: 2018-11-17
+id: a647797e-17e4-5fda-83e3-a963fffd9f9e
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 616a30df-30ea-5e5e-9c05-f6a944425a59
+  definition: pour tout vecteur *stem:[U]*, scalaire positif ou nul, noté généralement
+    stem:[| U |], égal à la racine carrée non négative du produit scalaire, ou du
+    produit hermitien dans le cas d'un vecteur complexe, du vecteur par lui-même
+  examples: []
+  notes:
+  - "La norme d'un vecteur *stem:[U]* a les propriétés suivantes:\n\n\n* stem:[U =\
+    \ 0] si et seulement si stem:[| U | = 0],\n\n* stem:[| alpha U | = | alpha | *\
+    \ | U |] où stem:[α] est un scalaire, \n\n* stem:[| U + V | &lt;= | U | + | V\
+    \ |] où *stem:[V]* est un autre vecteur quelconque. \n"
+  - Pour un vecteur *stem:[U]* dans l'espace vectoriel euclidien ou hermitien à trois
+    dimensions muni d'une base orthonormée, la norme est donnée par stem:[| U | =
+    sqrt(| U_1 |^2 + | U_2 |^2 + | U_3 |^2)].
+  - Les termes «norme euclidienne» et «norme hermitienne» peuvent être employés dans
+    les cas réel et complexe, respectivement.
+  - La norme d'un vecteur *stem:[U]* est notée stem:[| U |] ou stem:[U]; stem:[‖ U
+    ‖] est aussi utilisé.
+dateAccepted: 2018-11-17
+id: 98d74f5f-a3e8-5fb9-b6a6-88ef3ebad497
+status: Standard

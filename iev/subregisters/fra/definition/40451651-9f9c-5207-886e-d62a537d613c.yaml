@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: '1.5'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 1.5, modifié – Les guillemets entourant le synonyme
+        ont été supprimés.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: Les guillemets entourant le synonyme ont été supprimés.
+        type: modified
+  concept: 157ec47f-4167-5e28-b3ab-73af3c3479e5
+  definition: '{{disposition, IEV:901-05-01}} technique reconnue par une majorité
+    d''experts représentatifs comme reflétant l''{{état de la technique, IEV:901-01-04}}'
+  examples: []
+  notes:
+  - Si un {{document normatif, IEV:901-02-01}} sur un sujet technique est préparé
+    avec la coopération des parties intéressées par le biais de consultations et de
+    procédures de réalisation d'un {{consensus, IEV:901-01-11}}, il est censé constituer
+    une règle technique reconnue au moment de son approbation.
+dateAccepted: 2018-11-17
+id: 40451651-9f9c-5207-886e-d62a537d613c
+status: Standard

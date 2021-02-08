@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4c16f324-af32-5c97-8980-5e01565a40cf
+  definition: 'valeur moyenne du nombre relatif international de taches solaires pour
+    le mois de rang n, obtenue par la formule suivante:
+
+
+    stem:[R_((12)) = (1)/((12)) [ ((R_((n - 6)) + R_((n + 6))))/(2) + underset(k)(
+    sum ) R_k ]]
+
+
+    pour stem:[k] = stem:[n] − 5, stem:[n] − 4, ..., stem:[n], ..., stem:[n] + 5
+
+
+    où stem:[R]~stem:[k]~ est le nombre relatif international de taches solaires moyen
+    pour le mois de rang stem:[k]'
+  examples: []
+  notes: []
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: e64d4875-5c31-5c37-8c3b-027fe4b6774e
+status: Standard

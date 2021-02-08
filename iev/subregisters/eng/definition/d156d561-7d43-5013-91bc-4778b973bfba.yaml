@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 563d8606-84c7-52e0-8250-a629621b8a17
+  definition: '{{body, IEV:901-03-01}}, consisting of a responsible organization and
+    third parties, that is available as a contact providing continuous assistance
+    for persons using {{smart assistive systems, IEV:871-04-30}} or other AAL services
+    and which coordinates the service of {{AAL technical assistants, IEV:871-02-03}}'
+  examples: []
+  notes:
+  - See also {{telemedical care centre, IEV:871-06-09}}, which evaluates incoming
+    vital signs and metabolic data and initiates measures, whereas the teleservice
+    centre does not deal with the supervision of vital signs and metabolic data or
+    other telemedical services. See also AAL technical assistant.
+  - The operating hours of a teleservice centre can vary.
+dateAccepted: '2018-05-01T00:00:00+00:00'
+id: d156d561-7d43-5013-91bc-4778b973bfba
+status: Standard

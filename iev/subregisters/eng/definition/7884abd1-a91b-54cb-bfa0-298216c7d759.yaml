@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: e91c0967-8cd4-5115-a11f-6fa408c6d034
+  definition: 'one of the following two quotients:
+
+
+    a) for transduction of an electric signal into an acoustic signal, quotient of
+    the resulting sound pressure in the blocked acoustical system by the excitation
+    voltage in the electrical system;
+
+
+    b) for transduction of an acoustic signal into an electric signal, quotient of
+    the resulting short-circuit current in the electrical system by the excitation
+    volume velocity in the acoustical system'
+  examples: []
+  notes:
+  - These definitions are best applied to a reciprocal electroacoustic transducer
+    with transformer coupling, for example an electrostatic or piezoelectric transducer,
+    in which case the two quotients have equal magnitude.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 7884abd1-a91b-54cb-bfa0-298216c7d759
+status: Standard

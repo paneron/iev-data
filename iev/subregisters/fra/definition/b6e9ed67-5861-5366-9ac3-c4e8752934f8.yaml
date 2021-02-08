@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - null
+  concept: 06101687-da4b-5bab-b575-22c385219333
+  definition: 'détectivité, stem:[D], normée en tenant compte de deux paramètres importants
+    du système de détection, à savoir l''aire sensible, stem:[A], du récepteur et
+    la largeur de bande de mesure, Δstem:[f]
+
+
+    stem:[D * = D ( A Delta f )^(1 // 2) = Phi_m^(- 1) ( A Delta f )^(1 // 2)]
+
+
+    où stem:[Φ]~m~ est le flux énergétique équivalent au bruit'
+  examples: []
+  notes:
+  - La notion "détectivité normée" n'est valable que si la sensibilité et le bruit
+    de sortie du récepteur sont indépendants de la {{fréquence, IEV:103-06-02}} dans
+    la plage de fréquences prise en considération et si l'excitation équivalente au
+    bruit varie comme la racine carrée de l'aire du récepteur, ce qui n'est pas toujours
+    le cas.
+  - La détectivité normée est exprimée en mètre hertz à la puissance un demi par watt
+    (m·Hz^1/2^·W^−1^).
+  - Cet article était numéroté 845-05-66 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: b6e9ed67-5861-5366-9ac3-c4e8752934f8
+status: Standard

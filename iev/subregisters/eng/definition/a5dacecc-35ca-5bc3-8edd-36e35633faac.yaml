@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 195-06-06
+      link: null
+      original: 195-06-06
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 826-12-14
+      link: null
+      original: 826-12-14
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 6c94aff4-a9d9-56ee-a77f-14ec653c1e18
+  definition: insulation of hazardous-live-parts which provides basic protection
+  examples: []
+  notes:
+  - This concept does not apply to insulation used exclusively for functional purposes.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: a5dacecc-35ca-5bc3-8edd-36e35633faac
+status: Standard

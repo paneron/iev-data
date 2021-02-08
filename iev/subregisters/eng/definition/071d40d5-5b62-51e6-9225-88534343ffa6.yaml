@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.132
+      link: https://webstore.iec.ch/publication/5402
+      original: IEC 61375-3-1:2012, 3.1.132
+      ref: IEC 61375-3-1:2012
+      relationship:
+        type: identical
+  concept: d06a9410-d356-5bf9-a3bf-038e72146725
+  definition: device address on the MVB and the node address on the wire train bus
+    which identify communicating devices on the same bus
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 071d40d5-5b62-51e6-9225-88534343ffa6
+status: Standard

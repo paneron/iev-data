@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: f3821144-dd7c-5af0-b42f-24a49a6ff351
+  definition: 'pour un quadripôle linéaire passif fermé sur ses impédances images,
+    demi-logarithme népérien du rapport du produit des phaseurs <u>stem:[U]</u>~1~
+    et <u>stem:[I]</u>~1~ représentant la tension et le courant à l''entrée au produit
+    des phaseurs <u>stem:[U]</u>~2~ et <u>stem:[I]</u>~2~ représentant la tension
+    et le courant à la sortie :
+
+
+    stem:[(1)/(2) ln (((underset(_)(U))_1 (underset(_)(I))_1))/(((underset(_)(U))_2
+    (underset(_)(I))_2))]'
+  examples: []
+  notes:
+  - La partie imaginaire du logarithme doit être convenablement choisie.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: e6448858-73bc-5bff-bb7d-aad109c90e89
+status: Standard

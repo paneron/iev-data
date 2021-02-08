@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: b8f84459-0e45-5ead-bbf3-c3e3f24fe2c2
+  definition: element of a function chart allowing the transit from a preceding step
+    to the following step where the transition depends on a transition condition
+  examples: []
+  notes:
+  - A transition is enabled if all the immediately preceding steps, connected to this
+    transition by directed links, are active.
+  - A transition becomes effective, if its transition condition becomes true and the
+    transition is cleared by this; the transition activates the following and deactivates
+    the preceding step (see Figure 23).
+  - One single transition can link one or several preceding steps to one or several
+    following steps.
+  - This entry was numbered 351-29-24 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 92544104-1c51-5e79-a105-9ac207748516
+status: Standard

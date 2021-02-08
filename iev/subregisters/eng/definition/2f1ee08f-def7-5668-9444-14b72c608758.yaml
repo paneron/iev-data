@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 01c4b73a-10e0-5cad-9c73-c52c2f416682
+  definition: functional unit that is capable of performing management operations
+    on managed objects and of emitting notifications on behalf of managed objects
+  examples: []
+  notes:
+  - A network agent resides on the computer system containing the managed objects,
+    and communicates with a network manager.
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 2f1ee08f-def7-5668-9444-14b72c608758
+status: Standard

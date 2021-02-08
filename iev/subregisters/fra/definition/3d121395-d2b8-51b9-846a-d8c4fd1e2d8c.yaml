@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 603-04-46
+      link: https://webstore.iec.ch/publication/227
+      original: IEC 60050-603:1986, 603-04-46, modifié – Définition modifiée et notes
+        à l'article ajoutées
+      ref: IEC 60050-603:1986
+      relationship:
+        modification: Définition modifiée et notes à l'article ajoutées
+        type: modified
+  concept: 546ce6a5-f400-5288-8a34-4513581b3e61
+  definition: partie d’un {{réseau d’énergie électrique, IEV:692-01-02}} qui est déconnectée
+    électriquement du reste du {{réseau d’énergie électrique, IEV:692-01-02}} interconnecté,
+    mais reste sous tension à partir de sources locales d’énergie électrique
+  examples: []
+  notes:
+  - Un réseau séparé peut résulter de l’action de protections automatiques ou d’une
+    action délibérée.
+  - Un réseau séparé peut être stable ou instable.
+dateAccepted: 2018-11-17
+id: 3d121395-d2b8-51b9-846a-d8c4fd1e2d8c
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8345e39d-d458-50ff-9f01-3a7d9c2f4a36
+  definition: image state associated with image data that represents the colour space
+    coordinates of the elements of a <a href="IEV845-32-045">hardcopy</a> or <a href="IEV845-32-046">softcopy</a>,
+    encompassing both original-referred image data and output-referred image data
+  examples: []
+  notes:
+  - When the phrase "picture-referred" is used as a qualifier to an object, it implies
+    that the object is in a picture-referred image state. For example, picture-referred
+    image data are image data in a picture-referred image state.
+  - Picture-referred image data will generally be colour rendered for a specific real
+    or virtual imaging medium and viewing condition.
+  - Picture-referred image data can include image data that do not originate from
+    an original scene, such as text, line art, vector graphics and other forms of
+    original artwork.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: ed8b9149-3b9a-59d1-81e5-54f81c1d83b7
+status: Standard

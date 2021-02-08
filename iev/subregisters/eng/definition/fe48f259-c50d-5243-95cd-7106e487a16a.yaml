@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: definition 1101
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1101, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 48e1a926-9cc8-5b75-bf74-15fad04b42de
+  definition: neutron or photon detector that produces an electrical signal through
+    neutron and photon activation
+  examples: []
+  notes:
+  - The signal results from the emission of electrons from neutron capture and absorption
+    of gamma rays.
+  - In a nuclear reactor, a set of collectrons which are carefully arranged in the
+    reactor core to measure the neutron flux and thus determine the (axial and radial)
+    power distribution and monitor changes over time.
+  - This entry was numbered 394-24-04 in IEC 60050-394:2007.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: fe48f259-c50d-5243-95cd-7106e487a16a
+status: Standard

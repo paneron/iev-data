@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3908cab9-a2cb-55a5-8fac-504d867272d3
+  definition: pertaining to a {{transmission link, IEV:701-02-06}} where the transfer
+    of users' information is possible simultaneously in both directions between two
+    points
+  examples: []
+  notes:
+  - The channel capacity and the transmission rate of the associated {{transmission
+    channels, IEV:701-02-01}} between the two points are not necessarily the same
+    in the two directions.
+  - The term "bidirectional" should not be used to describe the direction of call
+    set-ups (which is described by the term "{{both-way, IEV:701-03-21}}").
+  - In French, the terms "bilatéral" and "bidirectionnel" should not be confused with
+    the term "{{duplex, IEV:701-03-17}}".
+dateAccepted: '2016-12-01T00:00:00+00:00'
+id: 7eecfa59-c60d-5887-b583-38e5e04c83d0
+status: Standard

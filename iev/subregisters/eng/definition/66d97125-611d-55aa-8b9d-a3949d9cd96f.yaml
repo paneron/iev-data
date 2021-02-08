@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5675d7b5-76ed-5a40-830d-bb56e1ded788
+  definition: creepage distance of an insulator divided by the r.m.s. value of the
+    highest operating voltage across the insulator.
+  examples: []
+  notes:
+  - This definition differs from that of specific creepage distance where the line-to-line
+    value of the highest voltage for the equipment is used (for AC systems usually
+    stem:[U]~m~/√3). For line-to-earth insulation, this definition will result in
+    a value that is √3 times that given by the definition of specific creepage distance
+    in IEC 60815 (1986).
+  - For ‘stem:[U]~m~’ see IEV 604-03-01.
+  - It is generally expressed in mm/kV
+dateAccepted: '2007-05-01T00:00:00+00:00'
+id: 66d97125-611d-55aa-8b9d-a3949d9cd96f
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: a77ab81b-3e4d-5b22-b3d6-6537b781610a
+  definition: 'complex square matrix the elements of which have the property: stem:[A_((i
+    j)) = A_(j i)^( * )]'
+  examples: []
+  notes:
+  - A Hermitian matrix *stem:[A]* is equal to its Hermitian conjugate matrix *stem:[A]*^H^.
+  - All eigenvalues of a Hermitian matrix are real.
+  - Any symmetric matrix with real elements is a Hermitian matrix.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 088e118b-156f-5862-a164-cd6278a24519
+status: Standard

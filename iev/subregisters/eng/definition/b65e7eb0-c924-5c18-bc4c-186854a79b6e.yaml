@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4278ba28-df90-5b2b-8f16-72624f43dcf4
+  definition: representative value of a {{signal, IEV:701-01-02}} at a chosen {{instant,
+    IEV:113-01-08}} obtained from the values of that signal near this instant
+  examples: []
+  notes:
+  - Ideally, the representative value of a signal is equal to the value of the signal
+    at a chosen instant; in practice it is equal or proportional to a weighted average
+    of the varying value of the signal near this instant.
+dateAccepted: '2018-09-01T00:00:00+00:00'
+id: b65e7eb0-c924-5c18-bc4c-186854a79b6e
+status: Standard

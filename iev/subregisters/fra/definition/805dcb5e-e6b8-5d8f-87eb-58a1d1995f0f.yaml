@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 28252d9c-d71a-50b2-bae3-027d5925e64d
+  definition: 'quotient du logarithme naturel (népérien) de l''inverse du facteur
+    de transmission interne spectral stem:[τ]~i~(stem:[λ]), d''une couche du milieu
+    par la longueur, stem:[l], du trajet d''un faisceau de rayonnement traversant
+    cette couche
+
+
+    stem:[a_n ( lambda ) = - ((ln tau_i ( lambda )))/(l) = ((log tau_i ( lambda )))/(l)
+    ln(10) = ((A_n ( lambda )))/(l)]
+
+
+    où stem:[A]~n~(stem:[λ]) est l''absorbance spectrale népérienne.'
+  examples: []
+  notes:
+  - Le coefficient d'absorption spectral népérien est exprimé en mètre à la puissance
+    moins un (m^−1^).
+  - Cet article était numéroté 845-04-85 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 805dcb5e-e6b8-5d8f-87eb-58a1d1995f0f
+status: Standard

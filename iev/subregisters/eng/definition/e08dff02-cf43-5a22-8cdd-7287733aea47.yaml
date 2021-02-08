@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 85b42290-592e-5737-a44f-0de30568d87d
+  definition: a traffic meter associated with a group of circuits to records the incidence
+    of calls which fail to find free outlets
+  examples: []
+  notes:
+  - In some systems, every such call is individually registered, whereas in other
+    systems, two or more overlapping unsuccessful calls are registered merely as a
+    single overflow event.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: e08dff02-cf43-5a22-8cdd-7287733aea47
+status: Standard

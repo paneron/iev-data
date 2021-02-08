@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 441-17-01
+      link: null
+      original: 441-17-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: 04b64fb6-3ed2-5e9f-a69c-e7265471084c
+  definition: the current that would flow in the circuit, if each main current path
+    of the switching device and of the overcurrent protective device, if any, were
+    replaced by a conductor of negligible impedance
+  examples: []
+  notes:
+  - 'The prospective current can be qualified in the same manner as an actual current,
+    for example: prospective breaking current, prospective peak current, prospective
+    residual current, etc.'
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: b4d14084-e2ca-5e15-ac0a-2df9283b35a3
+status: Standard

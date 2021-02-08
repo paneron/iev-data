@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3917521f-4836-57ca-8f06-bb62f6c955a6
+  definition: for a quantity having a continuous spectrum and a finite mean power,
+    limit, at any frequency, of the quotient of the power within a frequency band
+    containing that frequency by the bandwidth when the bandwidth tends to zero
+  examples: []
+  notes:
+  - The instantaneous power of a quantity is by convention equal to the square of
+    its instantaneous value. This square is proportional to a physical power if the
+    considered quantity is a field quantity.
+  - The power spectral density is the Fourier transform of the autocorrelation function.
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 32bfdbd7-b905-592d-b768-906838f3c2b3
+status: Standard

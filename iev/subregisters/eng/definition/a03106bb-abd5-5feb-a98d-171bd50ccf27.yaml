@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 25c81eba-440d-55e7-bc97-4216f183ab9a
+  definition: the totality of digits and possibly other characters at a point in the
+    network which locate the called party, or those digits which are necessary for
+    forward routing
+  examples: []
+  notes:
+  - The digits comprising the address information sent by the calling party may be
+    changed by translation and/or digit absorption as a connection is progressively
+    set up through the network, but the new and/or remaining digits at each point
+    constitute the address information at this point.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: a03106bb-abd5-5feb-a98d-171bd50ccf27
+status: Standard

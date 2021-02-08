@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0dcdc4d2-a694-5c02-bf60-147d4a45470b
+  definition: fonction dont l'argument est un ensemble ordonné de stem:[n] nombres
+    ou grandeurs scalaires
+  examples: []
+  notes:
+  - La valeur d'une fonction stem:[f] de stem:[n] variables stem:[x_1 , x_2 , ...
+    , x_n] est notée stem:[f ( x_1 , x_2 , ... , x_n )].
+  - Dans de nombreuses applications en électrotechnique, on utilise des fonctions
+    d'une seule variable. Cette variable est souvent la durée et la fonction est alors
+    appelée «fonction du temps» et notée stem:[f](stem:[t]). Mais les variables peuvent
+    aussi être des variables spatiales (par exemple des coordonnées), la fréquence,
+    etc.
+dateAccepted: 2018-11-17
+id: c9eddd0e-eb3e-5bb1-826c-6b98d345d256
+status: Standard

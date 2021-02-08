@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: d3730657-49da-5214-8e8f-d3056dea8577
+  definition: 'chacun des éléments d''un ensemble de vecteurs linéairement indépendants
+    dont la somme est égale à un vecteur donné
+
+
+    EXEMPLE
+
+
+
+
+    * pour un vecteur donné stem:[U = U_1 a_1 + U_2 a_2 + ... + U_n a_n], où stem:[U_1
+    , U_2 , ... , U_n] sont les coordonnées de *stem:[U]* et stem:[a_1 , a_2 , ...
+    , a_n] sont les vecteurs de base, chacun des vecteurs stem:[U_1 a_1 , U_2 a_2
+    , ... , U_n a_n],
+
+
+    * les projections d''un vecteur normalement et tangentiellement à une surface
+    (composante normale et composante tangentielle).'
+  examples: []
+  notes:
+  - En anglais, le terme "component vector" peut être employé si le terme "component"
+    est employé au sens de "coordonnée" (voir la Note 2 à l’article dans {{IEV 102-03-09,
+    IEV:102-03-09}}).
+dateAccepted: 2018-11-17
+id: 4753af78-fa3f-59a1-8fd9-9ec079c61d60
+status: Standard

@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: e200bb9f-6271-5ef7-ba67-b840d6629146
+  definition: the wave impedance for a travelling wave in a specific medium
+  examples: []
+  notes:
+  - 'The characteristic impedance of a homogeneous isotropic medium is given by:
+
+
+    stem:[Z_i = sqrt(((mu_0 (underset(_)(mu))_r))/((epsilon_0 (underset(_)(epsilon))_r)))]
+
+
+    where
+
+
+    stem:[μ]~0~ is the magnetic constant,
+
+
+    stem:[μ]~r~ is the relative complex permeability,
+
+
+    stem:[ε]~0~ is the electric constant,
+
+
+    stem:[ε]~r~ is the relative complex permittivity.'
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: b3bdcfab-1982-542f-a540-873da6928518
+status: Standard

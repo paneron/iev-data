@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: a2cb8592-39e2-5159-8112-9059e16f44c3
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^60^ d’une unité de mesure'
+  examples:
+  - Un exbibit = 1 Eibit = (1 024)^6^ bit.
+  notes:
+  - Le préfixe exbi a pour origine exabinaire, (2^10^)^6^, dérivé du préfixe SI exa,
+    (10^3^)^6^.
+dateAccepted: 2018-11-17
+id: f40eaebd-9f36-5b6f-9194-709d9dfd846e
+status: Standard

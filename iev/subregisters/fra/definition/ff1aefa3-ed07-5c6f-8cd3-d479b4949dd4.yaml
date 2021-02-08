@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: 006a878c-79a7-551e-9645-147177f59afe
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^10^ d’une unité de mesure'
+  examples:
+  - Un kibibit = 1 Kibit = 1 024 bit; un kilooctet = 1 Kio = 1 024 o.
+  notes:
+  - Le préfixe kibi a pour origine kilobinaire, (2^10^)^1^, dérivé du préfixe SI kilo,
+    (10^3^)^1^.
+dateAccepted: 2018-11-17
+id: ff1aefa3-ed07-5c6f-8cd3-d479b4949dd4
+status: Standard

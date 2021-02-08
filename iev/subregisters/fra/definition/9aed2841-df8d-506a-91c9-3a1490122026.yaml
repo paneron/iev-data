@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - - clause: 3.2.26
+      link: https://webstore.iec.ch/publication/7229
+      original: IEC 62589:2010, 3.2.26
+      ref: IEC 62589:2010
+      relationship:
+        type: identical
+  concept: a50d4df5-8453-5756-9779-3af3a334daf9
+  definition: représentation conventionnelle de la demande de courant à un groupe
+    convertisseur
+  examples: []
+  notes:
+  - Le cycle de charge est exprimé par unité de courants assignés.
+  - Le cycle de charge représente la variation répétitive des charges dans le temps
+    et, par conséquent, les surcharges et les sous-charges susceptibles d'être supportées
+    par le groupe convertisseur, de même que, pour les transformateurs, la durée et
+    les intervalles présumés.
+dateAccepted: 2018-11-17
+id: 9aed2841-df8d-506a-91c9-3a1490122026
+status: Standard

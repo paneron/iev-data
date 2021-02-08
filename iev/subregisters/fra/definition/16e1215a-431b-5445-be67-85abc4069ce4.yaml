@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 916b122d-1144-5411-b040-efe8d37f8d08
+  definition: fonctionnement du matériel conforme électriquement et mécaniquement
+    à la spécification de conception et utilisé dans les limites spécifiées par le
+    constructeur
+  examples: []
+  notes:
+  - Les limites spécifiées par le constructeur peuvent inclure des conditions de fonctionnement
+    continu, par exemple le fonctionnement dans un cycle de service.
+  - La variation de la tension d'alimentation dans des limites établies et toute autre
+    tolérance fonctionnelle fait partie des conditions normales de fonctionnement.
+  - 'Pour les machines électriques, le fonctionnement normal est spécifié en fonction
+    du service type (S1…S10 selon l''IEC 60034-1, _Machines électriques tournantes
+    – Partie 1: Caractéristiques assignées et caractéristiques de fonctionnement_).'
+dateAccepted: 2018-11-17
+id: 16e1215a-431b-5445-be67-85abc4069ce4
+status: Standard

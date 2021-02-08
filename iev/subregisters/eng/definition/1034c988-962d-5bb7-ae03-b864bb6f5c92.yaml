@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 81e89639-6933-5327-8604-ca907965fb94
+  definition: noise weighted by a filter the amplitude/frequency characteristic of
+    which corresponds to the sensitivity of the human ear at different frequencies
+  examples: []
+  notes:
+  - The weighting law is given in the definition of the psophometer in CCITT Recommendation
+    0.41 for commercial telephony and in CCIR Recommendation 468 for sound programme
+    channels.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 1034c988-962d-5bb7-ae03-b864bb6f5c92
+status: Standard

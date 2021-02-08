@@ -1,0 +1,45 @@
+data:
+  authoritative_source:
+  - - clause: 13-36
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-36, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  concept: 3d9195ad-2ecd-51a1-9b55-90f6eb91b292
+  definition: 'mean value of the {{transinformation content, IEV:171-07-26}} stem:[T](stem:[xi],stem:[xj])
+    of two events stem:[xi] and stem:[yj], each in one of two finite sets of mutually
+    exclusive and jointly exhaustive events
+
+
+    stem:[T ( X , Y ) = sum_((i = 1))^n sum_((j = 1))^m p ( x_i , y_j ) * T ( x_i
+    , y_j )]
+
+
+    where
+
+
+    stem:[X] &amp;equals; {stem:[x]~1~, …, stem:[x]~stem:[n]~} is the set of events
+    stem:[xi] (stem:[i] &amp;equals; 1, …, stem:[n]), stem:[Y] &amp;equals; {stem:[y]~1~,
+    …, stem:[y]~stem:[m]~} is the set of events stem:[yj] (stem:[j] &amp;equals; 1,
+    …, stem:[m]) and stem:[p](stem:[xi],stem:[yj]) the joint probability that both
+    events occur'
+  examples: []
+  notes:
+  - 'The mean transinformation content is symmetric in stem:[X] and stem:[Y]. It is
+    also equal to the difference between the {{entropy, IEV:171-07-15}} of one of
+    the two sets of events and the {{conditional entropy, IEV:171-07-23}} of this
+    set relative to the other: stem:[T ( X | Y ) = H ( X ) - H ( X | Y ) = H ( Y )
+    - H ( Y | X ) = T ( X | Y )].'
+  - The mean transinformation content is a quantitative measure of information transmitted
+    through a channel, when stem:[X] is a specific set of messages at the message
+    source and stem:[Y] is a specific set of messages at the message sink. It is equal
+    to the difference between the entropy at the message source and the {{equivocation,
+    IEV:171-07-24}}, or the difference between the entropy at the message sink and
+    the {{irrelevance, IEV:171-07-25}}.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: d2f373b7-1335-5e2c-b5e7-60d67b7ecd6c
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - - clause: 221-02-45
+      link: null
+      original: 221-02-45 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  concept: b77d9428-5246-56db-a874-1730dc5fb57d
+  definition: paroi de domaine pour laquelle la composante du moment magnétique normale
+    au plan de la paroi est sensiblement constante dans la paroi et de part et d'autre
+    de celle-ci
+  examples: []
+  notes:
+  - Les parois de Bloch ne se forment normalement que dans les matériaux massifs et
+    les couches épaisses; pour des couches plus minces, au-dessous d'une épaisseur
+    critique, la formation de parois de Néel est énergétiquement plus favorisée.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: cb243ad8-3aed-50a1-a23a-b891b5382dc3
+status: Standard

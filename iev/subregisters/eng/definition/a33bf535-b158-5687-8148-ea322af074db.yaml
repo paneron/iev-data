@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: definition 1026
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1026, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 0c06f3d5-c39d-581b-adfa-dc4a4218858c
+  definition: time required for the neutron flux in a nuclear reactor to change by
+    a factor e equal to 2,718..., when the neutron flux is rising or falling exponentially
+  examples: []
+  notes:
+  - Doubling time is the time for the physical power to be multiplied by two, with
+    the other parameters assumed unchanged.
+  - This entry was numbered 393-15-19 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: a33bf535-b158-5687-8148-ea322af074db
+status: Standard

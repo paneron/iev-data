@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - - clause: 13-19
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-19, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  concept: 6810a8dd-6e62-5438-addb-5694f401c8a1
+  definition: 'produit de la {{puissance en porteuse, IEV:713-09-20}} stem:[P]~c~
+    par la {{période d’éléments binaires, IEV:171-06-06}} stem:[T]~b~
+
+
+    stem:[E]~b~ = stem:[P]~c~·stem:[T]~b~'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 44f39da2-5c45-5c3d-9949-5eb3b0e1eac5
+status: Standard

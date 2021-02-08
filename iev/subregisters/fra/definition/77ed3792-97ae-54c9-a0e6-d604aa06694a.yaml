@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: 702-02-14
+      link: null
+      original: 702-02-14
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 65be63c4-5828-58b5-95a4-96a12920ae9e
+  definition: partie réelle de l'exposant linéique de propagation
+  examples: []
+  notes:
+  - L'affaiblissement linéique d'un guide d'ondes optique est la limite du quotient
+    de l'affaiblissement entre deux points sur l'axe du guide, par la distance des
+    deux points, lorsque cette distance tend vers zéro.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 77ed3792-97ae-54c9-a0e6-d604aa06694a
+status: Standard

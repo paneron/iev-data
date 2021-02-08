@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 05d417ee-103a-5fb5-8220-4cf1a6536d23
+  definition: the ratio, generally expressed in decibels, of the partial gain of a
+    given antenna in a specified direction to the maximum absolute gain of a reference
+    antenna having the polarization corresponding to that of the partial gain of the
+    given antenna
+  examples: []
+  notes:
+  - When the reference antenna has in the same direction, the same polarization as
+    that of the given antenna, the relative gain is the ratio of the absolute gains.
+  - If no direction is specified, the direction of maximum radiation intensity from
+    the given antenna is implied.
+  - A lossless half-wave dipole, elementary electric dipole or very short vertical
+    monopole are frequently used as reference antennas.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 794eb8b8-1368-5f1d-a1b2-bcccb051040c
+status: Standard

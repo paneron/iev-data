@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7e011186-7032-5e52-833f-f780a436058e
+  definition: 'ratio, under specified conditions, given by the relation:
+
+
+    stem:[R] = stem:[v] / stem:[v]~c~
+
+
+    where stem:[v] is the value measured by the equipment or assembly under test and
+    stem:[v]~c~ is the conventionally true value of this quantity'
+  examples: []
+  notes:
+  - The input signal to a measuring system may be called the stimulus; the output
+    signal may be called the response.
+  - Response can have several definitions. As an example the definition of the response
+    of a radiation measuring assembly is given.
+  - This entry was numbered 394-40-21 in IEC 60050-394:2007.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: af3662af-23b6-52ca-a76c-5cf0f6ede667
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5598f61e-0a27-5b16-8156-6e80d593ce44
+  definition: ohmic resistance inside a {{fuel cell, IEV:485-08-01}}, measured between
+    the {{current collectors, IEV:485-06-07}}, caused by the electronic and ionic
+    resistances of the different components (electrodes, electrolyte, bipolar plates
+    and current collectors)
+  examples: []
+  notes:
+  - The term ohmic refers to the fact that the relation between voltage drop and current
+    is linear and obeys {{Ohm's law, IEV:131-15-08}}.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: f0cac4ef-5c3c-5223-914d-4c388556e370
+status: Standard

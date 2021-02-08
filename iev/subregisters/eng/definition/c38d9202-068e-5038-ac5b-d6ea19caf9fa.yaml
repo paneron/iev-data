@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: a921cb51-7e12-5652-a23f-4082e14027cd
+  definition: electrical apparatus that contains both energy-limited and non-energy-limited
+    circuits and is constructed so that the non-energy-limited circuits cannot adversely
+    affect the energy-limited circuits
+  examples: []
+  notes:
+  - 'Associated energy-limited apparatus is:
+
+
+    <ol type="a">. additionally protected by an alternative method of protection included
+    in IEC 60079-15,_Explosive atmospheres – Part 15: Equipment protection by Type
+    of Protection "n"_, for use in the appropriate explosive gas atmosphere &amp;lsqb;nC
+    or nR&amp;rsqb;; or. additionally protected by an alternative Type of Protection
+    listed in IEC 600790, _Explosive atmospheres – Part 0: Equipment – General requirements_,
+    for use in the appropriate explosive gas atmosphere; or. not protected by a Type
+    of Protection suitable for use in the appropriate explosive atmosphere and therefore
+    is not to be used within an explosive atmosphere, for example, a recorder that
+    is not of itself in an explosive gas atmosphere but is connected to a thermocouple
+    situated within an explosive gas atmosphere where only the recorder input circuit
+    is energy-limited &amp;lsqb;Ex nL&amp;rsqb;'
+  - 'Associated energy-limited apparatus "&amp;lsqb;nL&amp;rsqb;" has been replaced
+    by "&amp;lsqb;ic&amp;rsqb;" in IEC 60079-11, _Explosive atmospheres – Part 11:
+    Equipment protection by intrinsic safety "i"_.'
+dateAccepted: '2020-03-01T00:00:00+00:00'
+id: c38d9202-068e-5038-ac5b-d6ea19caf9fa
+status: Standard

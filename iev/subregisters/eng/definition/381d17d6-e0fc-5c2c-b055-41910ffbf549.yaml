@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 68dc41d6-fbda-5b75-9450-3a2dfd1afe58
+  definition: simultaneous colour television system using, in baseband, a composite
+    colour signal comprising a luminance signal and two chrominance components which
+    are transmitted as quadrature amplitude modulation of a subcarrier, and in which,
+    on each line, the polarity of one of the chrominance signals is inverted
+  examples: []
+  notes:
+  - In most actual applications of PAL the scanning system uses 625 lines and 50 fields/second.
+    The colour signal is transmitted using vestigial sideband amplitude modulation,
+    and the sound is transmitted as frequency modulation of a separate radio-frequency
+    carrier.
+  - PAL is derived from "Phase Alternation Line".
+  - There are different versions of PAL, defined in CCIR Report 624.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 381d17d6-e0fc-5c2c-b055-41910ffbf549
+status: Standard

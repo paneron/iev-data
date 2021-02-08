@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - - clause: 11.3.2
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 11.3.2, modifiée – L'expression entre parenthèses
+        après le terme a été transformée en attribut du terme «utilisation spécifique».
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: L'expression entre parenthèses après le terme a été transformée
+          en attribut du terme «utilisation spécifique».
+        type: modified
+  concept: 78b28adc-e2e6-5deb-9883-12bc86e52524
+  definition: '{{référence aux normes, IEV:901-06-14}} selon laquelle l''un des moyens
+    de satisfaire aux {{exigence, IEV:901-05-05}}s concernées d''un {{règlement technique,
+    IEV:901-02-11}} est de se conformer à la/aux {{norme, IEV:901-02-02}}(s) citée(s)
+    en référence'
+  examples: []
+  notes:
+  - Une référence indicative aux normes est une forme de «{{disposition réputée satisfaire
+    à, IEV:901-05-08}}».
+dateAccepted: 2018-11-17
+id: d15fd133-ff51-5d32-9407-5724b130d3d4
+status: Standard

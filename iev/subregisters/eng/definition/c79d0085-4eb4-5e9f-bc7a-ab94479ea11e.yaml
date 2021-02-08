@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: f3821144-dd7c-5af0-b42f-24a49a6ff351
+  definition: 'for a linear passive two-terminal-pair network terminated with its
+    image impedances, half the natural logarithm of the product of the phasors <u>stem:[U]</u>~1~
+    and <u>stem:[I]</u>~1~ representing the voltage and the electric current at the
+    input divided by the product of the phasors <u>stem:[U]</u>~2~ and <u>stem:[I]</u>~2~
+    representing the voltage and the current at the output:
+
+
+    stem:[(1)/(2) ln (((underset(_)(U))_1 (underset(_)(I))_1))/(((underset(_)(U))_2
+    (underset(_)(I))_2))]'
+  examples: []
+  notes:
+  - The imaginary part of the logarithm must be appropriately chosen.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: c79d0085-4eb4-5e9f-bc7a-ab94479ea11e
+status: Standard

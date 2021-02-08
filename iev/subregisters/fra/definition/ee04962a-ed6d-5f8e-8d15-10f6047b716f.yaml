@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: f1b7f5a1-2d62-54a3-8a6d-dff62ba01f11
+  definition: ordre qui est émis dès que l'étape correspondante est activée et qui
+    cesse lorsqu'il est explicitement désactivé par une étape subséquente
+  examples: []
+  notes:
+  - L'ordre mémorisé est identifié dans la CEI 60848, _Langage de spécification GRAFCET
+    pour diagrammes fonctionnels en séquence_, par la lettre conventionnelle "S".
+  - Cet article était numéroté 351-29-32 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: ee04962a-ed6d-5f8e-8d15-10f6047b716f
+status: Standard

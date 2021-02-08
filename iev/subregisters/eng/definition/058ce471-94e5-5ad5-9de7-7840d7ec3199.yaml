@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 25a2027c-3ac4-5da0-bb9f-c4a8bf86f65f
+  definition: a command whereby two successive actions are required to effect a change
+    of state of an operational equipment; the first or "select command" energizes
+    part of the control circuit which in turn causes confirmatory return information
+    to be transmitted back; the second or "execute command" causing the full energization
+    of the control circuit at the receiving station is transmitted only after receipt
+    of this return information
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 058ce471-94e5-5ad5-9de7-7840d7ec3199
+status: Standard

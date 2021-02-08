@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 67e3803f-d0b0-5084-89d7-b91c75e6afe3
+  definition: 'symbolic representation of the actions in a system by functional blocks,
+    summing points and branching points linked by action lines
+
+
+    SEE: Figures 1 and 2.'
+  examples: []
+  notes:
+  - The action lines do not necessarily represent physical connections, like electrical
+    wires.
+  - Functional blocks, action lines, summing points, and branching points are elements
+    of the functional diagram.
+  - 'This entry was numbered 351-23-01 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 63519edf-370b-516a-ae78-567596ed5edf
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: '6.11'
+      original: ≠ VIM 6.11
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  concept: 491dfd1b-3db7-5192-aa97-1cdda9b4d563
+  definition: ensemble des opérations établissant, en référence à des étalons, la
+    relation qui existe, dans les conditions spécifiées, entre une indication et un
+    résultat de mesure
+  examples: []
+  notes:
+  - Cette définition est conçue dans l’approche "incertitude".
+  - La relation entre les indications et les résultats de mesures peut être donnée,
+    en principe, dans un diagramme d’étalonnage.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: fc8640fa-b26d-53f4-a7ab-17386c9df23d
+status: Standard

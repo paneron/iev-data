@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 182784cc-2c55-5588-83c2-ad3844491746
+  definition: a paired-disparity code employing a ternary digital signal to convey
+    binary digits, in which the binary 1 states are represented by signal elements
+    that are normally of alternate positive and negative polarity but equal in amplitude,
+    and in which binary 0 states are represented by signal elements having zero amplitude
+  examples: []
+  notes:
+  - In telegraphy and data communication, the binary 1 state is known as the Z state
+    (or "mark") and the binary 0 state is known as the A state (or "space").
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 8e71243b-4838-5195-b7b1-1df2081c89bc
+status: Standard

@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - - clause: Annexe 1
+      original: Brochure sur le SI, 9<sup>e</sup> édition, 2019, Annexe 1, modifié
+        – La définition de la Brochure sur le SI a été révisée à des fins de mise
+        en conformité avec les règles de l’IEV. Le synonyme "nombre de Loschmidt"
+        et le symbole "<i>L</i>" ont été ajoutés dans la Note 2 à l’article.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: La définition de la Brochure sur le SI a été révisée à des fins
+          de mise en conformité avec les règles de l’IEV. Le synonyme "nombre de Loschmidt"
+          et le symbole "<i>L</i>" ont été ajoutés dans la Note 2 à l’article.
+        type: modified
+  concept: 1d7345da-90e9-502b-817a-e840f262064c
+  definition: nombre conventionnel égal à la valeur numérique  6,022 140 76 × 10^23^
+    de la {{constante d’Avogadro, IEV:113-02-08}} exprimée en inverse de la {{mole,
+    IEV:112-02-09}}
+  examples: []
+  notes:
+  - Le nombre d’Avogadro est choisi de telle manière que la masse molaire du carbone
+    12 soit de 0,012 kg/mol avec une incertitude relative de 4,5 × 10^−10^.
+  - Le synonyme "nombre de Loschmidt" est parfois utilisé, exprimé par le symbole
+    "stem:[L]".
+dateAccepted: 2018-11-17
+id: 880e9e7e-4027-56c3-8bc8-b6a9527ff6b8
+status: Standard

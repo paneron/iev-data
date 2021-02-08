@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: ae2907d2-3919-5a32-a0bb-878124ffbd32
+  definition: the time that elapses between a valid frame alignment signal being available
+    at the receive terminal equipment and frame alignment being established
+  examples: []
+  notes:
+  - The frame alignment recovery time includes the time required for replicated verification
+    of the validity of the frame alignment signal.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 27cafac1-ffcc-5a1c-a3dc-dece37dccc8a
+status: Standard

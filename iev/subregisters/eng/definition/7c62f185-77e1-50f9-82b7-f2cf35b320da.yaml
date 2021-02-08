@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3d31b872-535e-5587-99bf-609df3895193
+  definition: for a given array antenna, the radiation pattern function which would
+    be obtained if all the elements of the array would be radiated isotropically
+  examples: []
+  notes:
+  - If the radiation pattern function of all the radiating elements of the array are
+    identical and if these elements are congruent by translation, then the product
+    of the array factor and the element radiation pattern function gives the radiation
+    pattern of the entire array antenna.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 7c62f185-77e1-50f9-82b7-f2cf35b320da
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: ef416fba-1485-5f6f-9129-df29fcd3ba53
+  definition: élément d’une alarme, d’un message ou d’une chaîne d’action structurés
+    prédéfinis, ou message et chaîne d’action
+  examples: []
+  notes:
+  - Les niveaux d’escalade sont destinés à s’assurer du déclenchement ou de la réalisation
+    d’une action appropriée au contexte. Une action du niveau d’escalade choisi qui
+    ne produit pas le résultat souhaité entraîne le déclenchement d’une action au
+    niveau d’escalade supérieur suivant.
+dateAccepted: 2018-11-17
+id: 73c2dd4f-8626-510a-a662-c906e53c5014
+status: Standard

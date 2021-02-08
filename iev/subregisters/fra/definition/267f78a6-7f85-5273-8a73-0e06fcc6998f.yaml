@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6b82e625-a5d1-5f26-a6cd-327225c20d47
+  definition: '1. ensemble, obtenu par multiplexage en fréquence, d''un nombre spécifié
+    de groupes tertiaires, normalement trois, occupant des bandes de fréquences contiguës,
+    avec des bandes de garde entre eux
+
+
+    2. bande de fréquences de largeur normalisée à 3 872 kHz et occupant l''une d''un
+    certain nombre de positions spectrales spécifiées dans une transmission multiplex
+    à courants porteurs'
+  examples: []
+  notes:
+  - Un groupe quaternaire est normalement un ensemble de 900 voies téléphoniques à
+    courant porteur.
+  - Un signal ne provenant pas d'un assemblage de groupes tertiaires, mais ayant des
+    caractéristiques spécifiées, peut occuper tout ou partie d'un groupe quaternaire.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 267f78a6-7f85-5273-8a73-0e06fcc6998f
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - - original: UIT-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  concept: 4f46337a-5508-509a-a342-3a34dd4183a5
+  definition: faisceau hertzien dans lequel il n'existe pas de trajet radioélectrique
+    direct entre deux stations adjacentes sauf éventuellement pendant une très petite
+    fraction du temps
+  examples: []
+  notes:
+  - Les faisceaux hertziens transhorizon utilisent divers phénomènes de propagation
+    tels que la diffraction, la diffusion ou la réflexion sur des couches troposphériques.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 93bef307-befc-5869-b1f7-1fca8bde1a23
+status: Standard

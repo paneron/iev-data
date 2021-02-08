@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - null
+  concept: 08d66041-edea-5945-87db-cf3f1ca878cf
+  definition: grandeur vectorielle égale au produit de la masse stem:[m] d'un corps
+    par la vitesse *stem:[v]* de son centre de masse, soit *stem:[p]* = stem:[mv]
+  examples: []
+  notes:
+  - 1 Pour un corps continu dans un domaine D, la quantité de mouvement est égale
+    à l'intégrale stem:[p = int_D rho v d V = int_D v d m], où stem:[ρ] est la masse
+    volumique dans un domaine de volume dstem:[V] et de masse dstem:[m] quasi-infinitésimaux,
+    et de vitesse *stem:[v]*. Pour un système de corps, elle est égale à la somme
+    de leurs quantités de mouvement.
+  - 2 Si la somme des forces extérieures est nulle, la quantité de mouvement obéit
+    à une loi de conservation.
+  - 3 Si l’on applique la théorie de la relativité, stem:[m] est la masse relativiste.
+  - 4 L'unité SI cohérente de quantité de mouvement est le kilogramme mètre par seconde,
+    kg·m·s^−1^.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 2aa6283e-3fcc-55ae-8341-3af722549cf1
+status: Standard

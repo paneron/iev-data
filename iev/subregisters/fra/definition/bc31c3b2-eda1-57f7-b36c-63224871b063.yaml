@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - null
+  concept: bce6ae76-f580-5652-8068-b226cf9582b9
+  definition: 'quotient du flux énergétique pondéré par le danger de la lumière bleue,
+    stem:[Φ]~B~, par le flux lumineux, stem:[Φ]~v~
+
+
+    stem:[K_((B ,v)) = ((Phi_B))/((Phi_v)) = ((int Phi_((e , lambda)) ( lambda ) *
+    B ( lambda ) * d lambda))/((K_m * int Phi_((e , lambda)) ( lambda ) * V ( lambda
+    ) * d lambda))]
+
+
+    où stem:[λ] est la longueur d''onde, stem:[Φ]~e,stem:[λ]~(stem:[λ]) est le flux
+    énergétique spectral, stem:[B](stem:[λ]) est la fonction de pondération spectrale
+    du danger de la lumière bleue, stem:[V](stem:[λ]) est la fonction d''<a href="IEV845-21-035">efficacité
+    lumineuse relative spectrale</a> de la CIE pour la vision photopique, et stem:[K]~m~
+    est l''efficacité lumineuse maximale (≈ 683 lm·W^−1^)'
+  examples: []
+  notes:
+  - Le terme "rayonnement lumineux" fait référence à un <a href="IEV845-21-002">rayonnement
+    optique</a> pondéré par la fonction d'efficacité lumineuse relative spectrale
+    de la CIE pour la vision photopique, stem:[V](stem:[λ]).
+  - L'emploi de ce terme est raisonnable uniquement si des éléments constitutifs du
+    rayonnement optique se situent dans le domaine visible et ainsi stem:[Φ]~v~ ≠
+    0.
+  - L'efficacité d'un rayonnement lumineux avec danger de la lumière bleue est exprimée
+    en watt par lumen (W·lm^−1^), éventuellement avec un préfixe de mesure.
+dateAccepted: 2018-11-17
+id: bc31c3b2-eda1-57f7-b36c-63224871b063
+status: Standard

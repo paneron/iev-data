@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8ea80d6b-eefc-5cda-8a9c-b828a8f19d6c
+  definition: 'pour un bipôle capacitif de bornes A et B, quotient de la charge électrique
+    stem:[q] en A par la tension électrique ({{131-11-56, IEV:131-11-56}}) stem:[u]~AB~
+    entre les bornes
+
+
+    stem:[C = (q)/((u_((AB))))]
+
+
+    où le signe de la charge électrique est déterminé en prenant, dans l’intégrale
+    par rapport au temps qui définit cette charge, le courant électrique positif si
+    le sens du courant est de A vers B et négatif si son sens est de B vers A'
+  examples: []
+  notes:
+  - Une capacité ne peut pas être négative.
+  - L’unité SI cohérente de capacité est le farad, F.
+dateAccepted: 2018-11-17
+id: f8686945-5860-579f-bf8f-c08108e8efe4
+status: Standard

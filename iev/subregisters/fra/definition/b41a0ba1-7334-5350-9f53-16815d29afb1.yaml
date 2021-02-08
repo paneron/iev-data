@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '5.6'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 5.6
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  concept: 58ac5b5c-1fdc-5052-9f3e-c78a67b420c1
+  definition: '{{attestation, IEV:902-04-02}} délivrée par une tierce partie, ayant
+    rapport à un {{organisme d''évaluation de la conformité, IEV:902-01-05}}, constituant
+    une reconnaissance formelle de la compétence de ce dernier à réaliser des activités
+    spécifiques d''évaluation de la conformité'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: b41a0ba1-7334-5350-9f53-16815d29afb1
+status: Standard

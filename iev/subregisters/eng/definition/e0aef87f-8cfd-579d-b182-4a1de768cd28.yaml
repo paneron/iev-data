@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 672401ed-7adb-5d78-be02-ad80adc5d800
+  definition: time base running periodically, even in the absence of a signal
+  examples: []
+  notes:
+  - A free-running time base can be synchronized or not. The synchronization can be
+    internal or external.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: e0aef87f-8cfd-579d-b182-4a1de768cd28
+status: Standard

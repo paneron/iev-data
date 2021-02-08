@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 555286c0-5477-5b3e-a06e-a5415bf73df8
+  definition: additive axial vector quantity equal to the integral of moment of force
+    *stem:[M]* with respect to time stem:[t] over a time interval &amp;lsqb;stem:[t]~1~,
+    stem:[t]~2~&amp;rsqb;, thus stem:[H = int_(t_1)^(t_2) M d t]
+  examples: []
+  notes:
+  - 1 For a time interval &amp;lsqb;stem:[t]~1~, stem:[t]~2~&amp;rsqb;, angular impulse
+    is equal to the variation of angular momentum *stem:[L]*, thus *stem:[H]* = *stem:[L]*(stem:[t]~2~) − *stem:[L]*(stem:[t]~1~) = Δ*stem:[L]*.
+  - 2 The coherent SI unit of angular impulse is newton metre second, N·m·s.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: cccd016b-edc3-5298-a947-efbee2589d1a
+status: Standard

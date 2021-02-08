@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - clause: 702-06-64
+      link: null
+      original: 702-06-64
+      ref: IEV
+      relationship:
+        type: identical
+  concept: 1bd7a688-1d22-514a-8964-104211974f70
+  definition: transfert dans le spectre des fréquences de l'ensemble des composantes
+    spectrales d'un signal de façon que les différences des fréquences des composantes
+    de tout couple de composantes soient conservées, ainsi que leurs amplitudes relatives
+    et leurs phases relatives
+  examples: []
+  notes:
+  - Une transposition en fréquence peut être accompagnée d'une inversion de fréquence.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 3e2fdb09-72db-5216-a56c-e2dec7ec8dc6
+status: Standard

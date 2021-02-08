@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: f021f8ed-13e8-5c10-b131-42c60236d4ca
+  definition: member of a finite set of {{integers, IEV:102-02-02}} used to represent
+    {{information, IEV:701-01-01}}
+  examples: []
+  notes:
+  - A digit can be represented by a {{signal element, IEV:702-05-01}}.
+  - In apparatus used in {{digital transmission, IEV:704-01-08}}, a digit can be represented
+    by a specified physical condition, e.g. a binary magnetic condition of a ferrite
+    core.
+  - The English term “digit” is translated in French by "chiffre" when used in decimal
+    numeration system to represent 1, 2, ..., 9, 0 (see {{IEV 714-07-06, IEV:714-07-06}})
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 88d72a30-bcfe-51e2-ba9e-a9dc8330ed46
+status: Standard

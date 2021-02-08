@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - null
+  concept: ea9c06a5-6587-528f-99c5-e5368e593a04
+  definition: 'relais temporisé dans lequel la sortie passe périodiquement de l''état
+    de travail à l''état de repos tant que l’alimentation ou le signal de commande
+    est appliqué (voir Figure 5)
+
+
+    image::/assets/images/parts/445/445-01-06fr.gif[]'
+  examples: []
+  notes:
+  - 1 – Selon le type de relais, la sortie démarre dans l'état de travail ou dans
+    l'état de repos.
+  - 2 – Le relais clignotant peut aussi être amorcé par un signal de commande.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: 10a30366-6eba-5fb7-a1f6-07f35da468cf
+status: Standard

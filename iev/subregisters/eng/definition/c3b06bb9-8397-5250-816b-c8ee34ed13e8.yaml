@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6638693b-f898-5c72-be31-2c92d3696024
+  definition: mathematical model that produces transformations, which are applied
+    to scene or original-referred image data to produce image data describing a reproduction,
+    which is as close as possible to being an appearance match to the original
+  examples: []
+  notes:
+  - Transformations produced by corresponding colour reproduction models will generally
+    depend on the luminance ratio and colour gamut of the scene or original and the
+    output medium.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: c3b06bb9-8397-5250-816b-c8ee34ed13e8
+status: Standard

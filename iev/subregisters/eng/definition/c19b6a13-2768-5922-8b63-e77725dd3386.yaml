@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: ef416fba-1485-5f6f-9129-df29fcd3ba53
+  definition: element in a predefined, structured alarm, message, or action chain,
+    or message and action chain
+  examples: []
+  notes:
+  - Escalation levels are intended to ensure that an action appropriate to context
+    is triggered or performed. If the action of the selected escalation level does
+    not lead to the desired result, an action at the next higher escalation level
+    is triggered.
+dateAccepted: '2018-05-01T00:00:00+00:00'
+id: c19b6a13-2768-5922-8b63-e77725dd3386
+status: Standard

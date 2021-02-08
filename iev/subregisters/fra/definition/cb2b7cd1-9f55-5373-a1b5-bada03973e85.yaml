@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 563d8606-84c7-52e0-8250-a629621b8a17
+  definition: '{{organisme, IEV:901-03-01}} constitué d’une organisation responsable
+    et de tierces parties, qui propose, en sa qualité de contact, une assistance continue
+    aux personnes qui utilisent des {{systèmes d’aide intelligents, IEV:871-04-30}}
+    ou d’autres services AAD, et qui coordonne le service des {{assistants techniques
+    AAD, IEV:871-02-03}}'
+  examples: []
+  notes:
+  - Voir également la définition de "{{centre de soins télémédicaux, IEV:871-06-09}}",
+    qui évalue les signes vitaux et les données métaboliques entrants et prend des
+    mesures, alors que le centre de téléservices ne traite pas de la surveillance
+    des signes vitaux et des données métaboliques ou d’autres services télémédicaux.
+    Voir également assistant technique AAD.
+  - Les heures de fonctionnement d’un centre de téléservices peuvent varier.
+dateAccepted: 2018-11-17
+id: cb2b7cd1-9f55-5373-a1b5-bada03973e85
+status: Standard

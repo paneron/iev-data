@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - - link: https://www.iso.org/standard/2306.html
+      original: ISO 140/6
+      ref: ISO 140-6
+      relationship:
+        type: identical
+  concept: be3996dc-93fa-546f-94b0-6c1e78b8ec81
+  definition: niveau de la pression acoustique quadratique moyenne, produite dans
+    la salle de réception pour une bande de fréquences spécifiée, lorsque le sol en
+    essais est excité par la machine à chocs normalisée
+  examples: []
+  notes:
+  - La machine à chocs normalisée est spécifiée dans l'ISO 140/6 ; les marteaux de
+    cette machine ont une masse de 0,5 kg et tombent d'une hauteur de 40 mm à raison
+    de 10 chocs par seconde.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 94abae43-fb6b-57be-b12a-8fb43df8ab7c
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: c997735e-7dc2-5172-bb62-88f61e5e5e72
+  definition: form of {{transmission, IEV:701-01-03}} in which the transmitted {{signal,
+    IEV:101-12-02}} is the result of the {{modulation, IEV:701-03-08}} of one or more
+    {{carriers, IEV:702-06-03}} by one or more signals
+  examples: []
+  notes:
+  - The term "carrier transmission" is usually qualified by the method of modulation,
+    e.g. “{{single sideband, IEV:702-06-26}} carrier transmission”.
+  - A transmission system using carrier transmission is known as a “carrier system”.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 5be37e9a-422f-5d4a-85a2-e06a12882077
+status: Standard

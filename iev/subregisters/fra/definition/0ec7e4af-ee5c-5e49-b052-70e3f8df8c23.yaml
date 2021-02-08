@@ -1,0 +1,45 @@
+data:
+  authoritative_source:
+  - null
+  concept: c8c6a883-88ae-561e-ad93-daee39082814
+  definition: 'distribution, définie comme la limite d''une fonction positive, égale
+    à zéro en dehors d’un petit intervalle contenant l’origine, dont l’intégrale reste
+    égale à un lorsque cet intervalle tend vers zéro
+
+
+    stem:[delta ( t ) = { [[0],[oo],[0]] [[ pour t 0],[ pour t = 0],[ pour t &gt;
+    0]] avec int_((- oo))^((+ oo)) delta ( t ) d t = 1]
+
+
+    VOIR: Figure 4a) et CEI 60027-6.'
+  examples: []
+  notes:
+  - 'Une distribution assigne un nombre à une fonction stem:[f](stem:[t]), suffisamment
+    lisse pour stem:[t] = stem:[t]~0~ [voir CEI 60050-103:2009, 103-03-05].
+
+
+    L’impulsion de Dirac effectue ceci conformément à l’équation suivante
+
+
+    stem:[f ( t_0 ) = int_((- oo))^(oo) delta ( t - t_0 ) f ( t ) d t].'
+  - 'Une forme quelconque avec la zone 1 peut être utilisée pour la définition de
+    δ(t), ex.: une impulsion rectangulaire avec largeur stem:[τ] et hauteur stem:[τ]^–1^,
+    ou une impulsion triangulaire, comme indiqué dans la Figure 4a), ainsi qu’une
+    fonction gaussienne.
+
+
+    stem:[(1)/((tau * sqrt(pi))) * e^(- ((t^2))/((tau^2)))].'
+  - Les formes mentionnées dans la Note 2 à l’article avec stem:[τ] plus petit que
+    la constante de temps la plus petite en fonctionnement dans le système étudié
+    peuvent être utilisées pour une approximation technique de l’impulsion de Dirac.
+  - 'Dans la technologie de commande, la fonction de Dirac est principalement importante
+    pour la définition des impulsions et est exclusivement utilisée comme fonction
+    de temps. Par conséquent, le terme d’impulsion de Dirac est utilisé et la définition
+    est adaptée en conséquence.
+
+
+    image::/assets/images/parts/351/351-fig4.png[Figure 4 - Unit test functions; Fonctions
+    du test unités]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 0ec7e4af-ee5c-5e49-b052-70e3f8df8c23
+status: Standard

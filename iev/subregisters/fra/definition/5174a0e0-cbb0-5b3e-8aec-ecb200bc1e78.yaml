@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1b54d060-a02c-5c22-af3d-5246441fbd02
+  definition: point de mesure aux limites d'un {{système à pile à combustible, IEV:485-09-01}}
+    auquel la matière ou l'énergie, ou les deux entrent ou sortent
+  examples: []
+  notes:
+  - Ces limites sont spécialement choisies pour mesurer précisément les performances
+    du système, et inclut tout type de fonctionnement normal, à la fois le régime
+    transitoire et le {{régime permanent, IEV:485-21-05}}. Si nécessaire, il convient
+    de déterminer les limites ou points d'interface du système à pile à combustible
+    à évaluer d'un commun accord entre les parties.
+  - Les conditions types à normaliser font référence aux paramètres de combustibles
+    et d'oxydants, tels que les compositions, les flux, la température, la pression
+    et l'humidité, ainsi qu'aux paramètres de la {{cellule élémentaire à combustible,
+    IEV:485-08-01}}, comme la température.
+dateAccepted: 2018-11-17
+id: 5174a0e0-cbb0-5b3e-8aec-ecb200bc1e78
+status: Standard

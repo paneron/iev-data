@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - null
+  concept: d4d53dbc-924e-5bcb-b1e2-172705c9cb97
+  definition: "three-dimensional, approximately uniform colour space produced by plotting\
+    \ in rectangular coordinates stem:[U]*, stem:[V]*, stem:[W]*, quantities defined\
+    \ by the equations:\r\n<ul style=\"list-style-type:none;\">* \r\nstem:[[[W^( *\
+    \ ) = 25 Y^(1 // 3) - 17],[U^( * ) = 13 W^( * ) ( u - u_n )],[V^( * ) = 13 W^(\
+    \ * ) ( v - v_n )]]]"
+  examples: []
+  notes:
+  - 'stem:[Y], stem:[u], stem:[v] describe the colour stimulus considered, and stem:[u]~n~,
+    stem:[v]~n~ describe a specified white achromatic stimulus, where stem:[u = u^(
+    '' )], stem:[v = (2)/(3) v^( '' )]; stem:[u_n^() = u_n^( '' )], stem:[v_n = (2)/(3)
+    v_n^( '' )].
+
+
+    See also "<a href="IEV845-23-073">CIE 1976 uniform-chromaticity-scale diagram</a>".'
+  - "The difference between two stimuli, Δstem:[E]*, is defined as the Euclidean distance\
+    \ between the points representing them in stem:[U]*stem:[V]*stem:[W]* space and\
+    \ calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta E_()^* =\
+    \ ( Delta U_()^* )^2 + ( Delta V_()^* )^2 + ( Delta W_()^* )^2^(1 // 2)].\r\n"
+  - The CIE 1964 uniform colour space is obsolete (except that it is still used in
+    the calculation of the colour rendering index). The currently recommended object
+    colour spaces are the <a href="IEV845-23-076">CIE 1976 L*a*b* colour space</a>
+    and the <a href="IEV845-23-074">CIE 1976 L*u*v* colour space</a>.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: fc39d498-199d-52f2-b377-b839da183c6b
+status: Standard

@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - null
+  concept: 89e42e9a-9317-5598-bc7a-beedfaf2a839
+  definition: chacune des stem:[n] grandeurs scalaires stem:[Q_1 , Q_2 , ... , Q_n]
+    dans la représentation d'une grandeur vectorielle *stem:[Q]* comme la combinaison
+    linéaire stem:[Q_1 a_1 + Q_2 a_2 + ... + Q_n a_n] des vecteurs de base stem:[a_1
+    , a_2 , ... , a_n]
+  examples: []
+  notes:
+  - 'Au lieu de traiter chaque coordonnée comme une grandeur (c''est-à-dire la produit
+    de sa valeur numérique par l''unité de mesure), on peut exprimer la grandeur vectorielle
+    *stem:[Q]* comme le produit d''un vecteur de valeurs numériques par l''unité:
+
+
+    stem:[Q = { Q_1 } Q e_1 + { Q_2 } Q e_2 + { Q_3 } Q e_3 = ( { Q_1 } e_1 + { Q_2
+    } e_2 + { Q_3 } e_3 ) Q]
+
+
+    où stem:[{ Q_1 } , { Q_2 } , { Q_3 }] sont des valeurs numériques, stem:[Q] est
+    l''unité et stem:[e_1 , e_2 , e_3] sont les vecteurs unitaires. Les grandeurs
+    tensorielles peuvent être traitées de manière analogue.'
+  - Les composantes d'une grandeur vectorielle sont transformées par un changement
+    de coordonnées de la même manière que les coordonnées d'un rayon vecteur.
+  - Le terme «coordonnée» est généralement employé lorsque la grandeur vectorielle
+    est un rayon vecteur. Cet usage est compatible avec la définition des coordonnées
+    d'un vecteur en mathématiques ({{IEV 102-03-09, IEV:102-03-09}}).
+dateAccepted: 2018-11-17
+id: 6179d34c-186b-5b3e-ab52-050dd9c47f5d
+status: Standard

@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: c19e9077-529d-5232-8ea0-b1be4e267987
+  definition: 'élément de circuit à deux paires de bornes et à paramètres répartis
+    selon une dimension, caractérisé par une inductance linéique stem:[l], une capacité
+    linéique stem:[c], une résistance linéique stem:[r] et une conductance linéique
+    stem:[g], qui peuvent toutes être fonction de la même coordonnée spatiale stem:[x],
+    et où la tension stem:[u](stem:[x, t]) et le courant stem:[i](stem:[x, t]), où
+    stem:[t] est le temps, sont liés par les équations aux dérivées partielles:
+
+
+    stem:[- ((del u ( x , t )))/((del x)) = r i + l ((del i ( x , t )))/((del t))]
+
+
+    stem:[- ((del i ( x , t )))/((del x)) = g u + c ((del u ( x , t )))/((del t))]'
+  examples: []
+  notes:
+  - Pour l'adjectif "linéique", voir la CEI 60050-111.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: ad55b179-be2c-58b8-978e-04b9a6fd0e40
+status: Standard

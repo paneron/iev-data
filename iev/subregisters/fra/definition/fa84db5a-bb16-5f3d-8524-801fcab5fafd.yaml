@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 182af5d7-4a98-5326-adec-f4a77216dfff
+  definition: fonction qui représente l'efficacité spectrale relative du <a href="IEV845-21-002">rayonnement
+    optique</a>, pour un effet biologique spécifié, dans un système spécifié
+  examples: []
+  notes:
+  - Le spectre d'action normalisé est la dépendance aux longueurs d'onde de l'inverse
+    de la dose de <a href="IEV845-21-014">radiation monochromatique</a> exigée pour
+    provoquer une certaine réaction (biologique); le spectre d'action est couramment
+    normalisé selon une valeur 1 à la longueur d'onde d'"action maximale", c'est-à-dire
+    lorsque la plus petite dose est suffisante pour provoquer l'effet exigé.
+  - Cet article était numéroté 845-06-14 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: fa84db5a-bb16-5f3d-8524-801fcab5fafd
+status: Standard
