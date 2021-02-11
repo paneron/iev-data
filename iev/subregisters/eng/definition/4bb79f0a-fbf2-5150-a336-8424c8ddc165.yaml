@@ -1,0 +1,16 @@
+data:
+  definition: that region of the electromagnetic field of an antenna wherein the predominant
+    components of the field are those which represent a propagation of energy and
+    wherein the angular field distribution is essentially independent of the distance
+    from the antenna
+  examples: []
+  notes:
+  - In the far field region, all the components of the electromagnetic field decrease
+    in inverse proportion to the distance from the antenna.
+  - For a broadside antenna having a maximum overall dimension stem:[D] which is large
+    compared to the wavelength stem:[λ], the far field region is commonly taken to
+    exist at distances greater than 2stem:[D]^2^/stem:[λ], from the antenna in the
+    direction of maximum radiation.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 4bb79f0a-fbf2-5150-a336-8424c8ddc165
+status: Standard

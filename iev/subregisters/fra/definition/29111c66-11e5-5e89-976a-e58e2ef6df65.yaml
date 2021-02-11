@@ -1,0 +1,13 @@
+data:
+  definition: '{{différence, IEV:102-01-17}} positive minimale stem:[T] entre deux
+    valeurs de la {{variable, IEV:103-01-05}} indépendante stem:[t] d''une {{fonction,
+    IEV:102-01-10}} stem:[f](stem:[t]) à laquelle les valeurs de la fonction sont
+    identiques pour toute valeur de of stem:[t]: stem:[f](stem:[t]+stem:[T]) = stem:[f](stem:[t])'
+  examples: []
+  notes:
+  - Si stem:[f](stem:[t]) représente la variation d'une {{grandeur, IEV:112-01-01}}
+    avec le {{temps, IEV:113-01-03}}, le terme "period duration" est parfois utilisé
+    en anglais.
+dateAccepted: 2018-11-17
+id: 29111c66-11e5-5e89-976a-e58e2ef6df65
+status: Standard

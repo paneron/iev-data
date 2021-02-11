@@ -1,0 +1,16 @@
+data:
+  definition: vector potential of the magnetic flux density
+  examples: []
+  notes:
+  - 'The rotation of the magnetic vector potential stem:[*A*]  is the magnetic flux
+    density stem:[*B*]:
+
+
+    *rot*stem:[*A*] = stem:[*B*]'
+  - The magnetic vector potential is not unique since any irrotational vector field
+    quantity can be added to a given magnetic vector potential without changing its
+    rotation. Under static conditions the magnetic vector potential is often chosen
+    so that its divergence is zero.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 8cccd357-eae7-5882-82f5-bfade673df07
+status: Standard

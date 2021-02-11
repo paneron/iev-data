@@ -1,0 +1,16 @@
+data:
+  definition: 'of electrical steel, the ratio of the difference between the magnetic
+    losses stem:[Pα], measured at an angle stem:[α] to the direction of rolling, and
+    the magnetic losses, stem:[P]~0~, measured along the direction of rolling, to
+    stem:[P]~0~, the ratio being expressed as a percentage:
+
+
+    stem:[T_L = ((P_(alpha) - P_0))/((P_0)) xx 100 %]'
+  examples: []
+  notes:
+  - The measurements of stem:[Pα] and stem:[P]~0~ are to be made under the same conditions.
+  - The loss anisotropy factor at a given angle differs both conceptually and numerically
+    from the loss anisotropy factor stem:[T] ({{IEV 221-03-38, IEV:221-03-38}}).
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 6248f24e-1ca4-5d23-aef1-e6c0fcf6d332
+status: Standard

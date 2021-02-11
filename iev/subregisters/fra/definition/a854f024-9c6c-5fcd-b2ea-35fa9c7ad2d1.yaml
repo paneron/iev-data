@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    original: ≈ VIM 4.3
+    ref: JCGM VIM
+    relationship:
+      type: similar
+  definition: dispositif destiné à transformer, avec une précision spécifiée et suivant
+    une loi déterminée, le mesurande, ou la grandeur déjà transformée à partir du
+    mesurande, en une grandeur électrique
+  examples: []
+  notes:
+  - Si la grandeur d'entrée est électrique, les grandeurs d'entrée et de sortie peuvent
+    ne pas être de même nature, par exemple une tension et un courant.
+  - Dans certains cas, les transducteurs de mesure ont également compte tenu de leur
+    fonction, une dénomination spécifique, (par exemple, amplificateur, convertisseur,
+    transformateur, transducteur de fréquence, etc.).
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: a854f024-9c6c-5fcd-b2ea-35fa9c7ad2d1
+status: Standard

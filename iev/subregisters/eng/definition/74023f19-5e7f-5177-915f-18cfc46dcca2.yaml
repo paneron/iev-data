@@ -1,0 +1,14 @@
+data:
+  definition: 'real number stem:[ϑ] such that 0 ≤ stem:[ϑ] ≤ π, the cosine of which
+    is the ratio of the scalar product of two given real vectors *stem:[U]* and *stem:[V]*
+    to the product of their magnitudes
+
+
+    stem:[vartheta = arccos ((U * V))/((| U | * | V |))]'
+  examples: []
+  notes:
+  - The angle of two vectors is always defined because the inequality stem:[| U *
+    V | &lt;= | U | * | V |] is valid for the scalar product.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 74023f19-5e7f-5177-915f-18cfc46dcca2
+status: Standard

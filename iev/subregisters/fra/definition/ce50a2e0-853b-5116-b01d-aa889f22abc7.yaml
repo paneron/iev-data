@@ -1,0 +1,11 @@
+data:
+  definition: fonction continue nulle pour toute valeur négative de la variable indépendante
+    et croissant linéairement avec une pente égale à un pour les valeurs positives
+    de la variable indépendante
+  examples: []
+  notes:
+  - La rampe unité peut être représentée par stem:[x * epsilon ( x )], stem:[epsilon
+    ( x )] où est la fonction échelon unité.
+dateAccepted: 2018-11-17
+id: ce50a2e0-853b-5116-b01d-aa889f22abc7
+status: Standard

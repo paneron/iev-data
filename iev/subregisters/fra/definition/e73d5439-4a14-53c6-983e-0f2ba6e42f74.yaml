@@ -1,0 +1,13 @@
+data:
+  definition: courant arrivant à une borne de ligne d'un enroulement quand une tension
+    donnée à la fréquence assignée est appliquée à cet enroulement, l'autre (ou les
+    autres) enroulement(s) étant à circuit ouvert
+  examples: []
+  notes:
+  - Normalement, la tension appliquée est la tension assignée et l'enroulement d'excitation,
+    s'il est muni de prises, est connecté sur sa prise principale.
+  - Le courant à vide d'un enroulement est souvent exprimé en pourcentage du courant
+    assigné de cet enroulement.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: e73d5439-4a14-53c6-983e-0f2ba6e42f74
+status: Standard

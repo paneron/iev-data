@@ -1,0 +1,21 @@
+data:
+  definition: 'fonction nulle pour toutes les valeurs négatives de la variable indépendante
+    temps et égale à un pour toutes ses valeurs positives, décrite par
+
+
+    stem:[epsilon ( t ) = int_((- oo))^t delta ( tau ) d tau = { [[0, , ,pour, ,t,,0,
+    ],[1, , ,pour, ,t,&gt;,0]]], où δ(stem:[t]) est l’impulsion unité
+
+
+    VOIR: Figure 4b), CEI 60050-103:2009, 103-03-01, et CEI 60027-6.'
+  examples: []
+  notes:
+  - 'La valeur ε(0) de la fonction échelon unité ε(stem:[t])peut rester indéfinie
+    ou peut être définie selon le contexte.
+
+
+    image::/assets/images/parts/351/351-fig4.png[Figure 4 - Unit test functions; Fonctions
+    du test unités]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: f409ad65-af76-5faf-9025-f0f90450af66
+status: Standard

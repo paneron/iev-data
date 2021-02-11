@@ -1,0 +1,13 @@
+data:
+  definition: puissance échangeable à l'accès d'un monoporte due à ses seules source
+    de bruit
+  examples: []
+  notes:
+  - Une antenne de réception vue de son accès de sortie peut être assimilée à un monoporte.
+  - Si le monoporte a une impédance de partie réelle constante à la température thermodynamique
+    stem:[T] et si on néglige les phénomènes quantiques, la densité spectrale de puissance
+    échangeable de bruit due au seul bruit thermique est indépendante de la fréquence
+    et égale à stem:[kT], où stem:[k] est la constante de Boltzmann.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 5981f953-b909-5bec-a82d-41d643740d6b
+status: Standard

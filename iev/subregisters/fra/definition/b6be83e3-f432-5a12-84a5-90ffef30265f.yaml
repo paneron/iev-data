@@ -1,0 +1,35 @@
+data:
+  authoritative_source:
+  - clause: 1.3.13
+    link: https://webstore.iec.ch/publication/17112
+    original: CEI 60664-1:1992, 1.3.13
+    ref: IEC 60664-1:1992
+    relationship:
+      type: identical
+  definition: nombre caractérisant la pollution prévue du micro-environnement
+  examples: []
+  notes:
+  - 'Afin d''évaluer les lignes de fuite et les distances dans l''air, les quatre
+    degrés de pollution suivants sont définis en 2.5.1 de la CEI 60664-1:1992 pour
+    le micro-environnement.
+
+
+    a) degré de pollution 1: Il n''existe pas de pollution ou il se produit seulement
+    une pollution sèche, non conductrice. La pollution n''a pas d''influence.
+
+
+    b) degré de pollution 2: Il ne se produit qu''une pollution non conductrice. Cependant,
+    on doit s''attendre de temps à autre à une conductivité temporaire provoquée par
+    de la condensation.
+
+
+    c) degré de pollution 3: Présence d''une pollution conductrice ou d''une pollution
+    sèche, non conductrice, qui devient conductrice par suite de la condensation qui
+    peut se produire.
+
+
+    d) degré de pollution 4: La pollution produit une conductivité persistante causée
+    par la poussière, par la pluie ou la neige.'
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: b6be83e3-f432-5a12-84a5-90ffef30265f
+status: Standard

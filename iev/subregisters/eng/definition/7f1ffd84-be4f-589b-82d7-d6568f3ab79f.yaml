@@ -1,0 +1,30 @@
+data:
+  definition: 'quantity representing the quantities in a finite set or in an interval,
+
+
+
+    . for stem:[n] positive quantities stem:[x_1 , x_2 , ... x_n], by the positive
+    stem:[n]th root of their product:
+
+
+    stem:[X_g = ( x_1 * x_2 * ... * x_n )^(1 // n)]
+
+
+    .  for a quantity stem:[x] depending on a variable stem:[t], by the quantity stem:[X_g]
+    calculated from the values of the quantity stem:[x](stem:[t]) by the expression
+
+
+    stem:[log ((X_g))/((x_((ref)))) = (1)/(T) int_( 0)^( T) log ((x ( t )))/((x_((ref))))
+    d t]
+
+
+    where stem:[x_((ref))] is a reference value'
+  examples: []
+  notes:
+  - The geometric mean value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.
+  - The geometric mean value of a quantity is denoted by adding the subscript g to
+    the symbol of the quantity.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 7f1ffd84-be4f-589b-82d7-d6568f3ab79f
+status: Standard

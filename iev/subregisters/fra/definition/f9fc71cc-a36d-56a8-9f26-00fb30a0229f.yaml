@@ -1,0 +1,15 @@
+data:
+  definition: diagramme plan dans lequel les distances prises le long d'axes spécifiés
+    représentent les coordonnées trichromatiques d'une couleur, autres que la luminance
+  examples: []
+  notes:
+  - Deux axes orthogonaux sont d'usage courant, en particulier dans le cas des diagrammes
+    de chromaticité xy, ou du diagramme de chromaticité uniforme uv, de la Commission
+    Internationale de l'Eclairage.
+  - Dans un diagramme de chromaticité, les couleurs réelles occupent une surface limitée
+    d'une part par la courbe lieu des points représentant les cou monochromatiques,
+    et d'autre part la droite reliant les points extrêmes de cette courbe, dite droite
+    des pourpres.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: f9fc71cc-a36d-56a8-9f26-00fb30a0229f
+status: Standard

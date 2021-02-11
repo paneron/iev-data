@@ -1,0 +1,25 @@
+data:
+  definition: ensemble répétitif de {{créneaux temporels, IEV:704-13-08}} consécutifs
+    constituant un cycle complet d'un {{signal, IEV:101-12-02}} ou d'un autre processus,
+    dans lequel la position de chaque créneau temporel peut être identifiée
+  examples: []
+  notes:
+  - En anglais, le terme "frame" a divers sens dans les domaines de la transmission
+    numérique (voir {{IEV 704-14-01, IEV:704-14-01}}), de la commutation (voir {{IEV
+    714-15-09, IEV:714-15-09}}), de la télévision (voir {{IEV 723-05-25, IEV:723-05-25}}),
+    de l'accès multiple par répartition temporelle (voir {{IEV 725-14-18, IEV:725-14-18}}),
+    du traitement numérique (voir {{IEV 807-01-03, IEV:807-01-03}}), des machines
+    électriques tournantes (voir {{IEV 811-14-02, IEV:811-14-02}}), et des réseaux
+    embarqués de train (voir {{IEV 811-37-40, IEV:811-37-40}}). Dans certains pays
+    anglophones, le terme "frame" est également employé en télévision pour désigner
+    une subdivision de la {{trame, IEV:723-05-17}} d'une image.
+  - En français, le terme "trame" a divers sens dans les domaines de la concentration
+    et la déviation des faisceaux des tubes électroniques (voir {{IEV 531-14-20, IEV:531-14-20}}),
+    de la transmission numérique (voir {{IEV 704-14-01, IEV:704-14-01}}), de la commutation
+    (voir {{IEV 714-15-09, IEV:714-15-09}}), de la télévision (voir {{IEV 723-05-17,
+    IEV:723-05-17}}), de l'accès multiple par répartition temporelle (voir {{IEV 725-14-08,
+    IEV:725-14-08}}), du traitement numérique (voir {{IEV 807-01-03, IEV:807-01-03}}),
+    et des réseaux embarqués de train (voir {{IEV 811-37-40, IEV:811-37-40}}).
+dateAccepted: 2018-11-17
+id: 5fda4b11-42fb-5dc0-9453-fac011edcd0d
+status: Standard

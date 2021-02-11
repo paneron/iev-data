@@ -1,0 +1,26 @@
+data:
+  definition: 'pour une matrice carrée *stem:[A]* d''ordre stem:[n] et d''éléments
+    stem:[Aij], scalaire noté det *stem:[A]*, égal à la somme algébrique des produits
+    obtenus en prenant comme facteurs de toutes les manières possibles un élément
+    et un seul dans chaque ligne et dans chaque colonne, chacun de ces produits étant
+    affectés du signe plus ou du signe moins suivant que le nombre total des inversions
+    des deux indices est pair ou impair
+
+
+    stem:[det A = underset(sigma)( sum ) ( - 1 )^(epsilon ( sigma )) A_((1 sigma (
+    1 ))) A_((2 sigma ( 2 ))) ... A_((n sigma ( n )))]
+
+
+    où stem:[σ] = (stem:[σ](1), stem:[σ](2), …, stem:[σ](stem:[n])) est une permutation
+    des indices (1, 2, …, stem:[n]), stem:[ε](stem:[σ]) est le nombre d’inversions
+    dans la permutation stem:[σ], et la somme notée Σ est étendue à toutes les permutations'
+  examples: []
+  notes:
+  - Le déterminant d'une matrice est égal au déterminant des stem:[n] vecteurs dont
+    les coordonnées sont les éléments des lignes ou des colonnes.
+  - Le déterminant de la matrice stem:[A = ( [[A_((11)),cdots,A_((1 n))],[vdots,ddots,vdots],[A_((n
+    1)),cdots,A_((n n))]] )] est noté det *stem:[A]* ou stem:[| [[A_((11)),cdots,A_((1
+    n))],[vdots,ddots,vdots],[A_((n 1)),cdots,A_((n n))]] |].
+dateAccepted: 2018-11-17
+id: 9cde6fbf-803c-57e4-8009-96f2ae3429cd
+status: Standard

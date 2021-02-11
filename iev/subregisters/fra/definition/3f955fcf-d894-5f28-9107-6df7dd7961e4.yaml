@@ -1,0 +1,18 @@
+data:
+  definition: sens du chemin de l'action au sein d'un schéma fonctionnel
+  examples: []
+  notes:
+  - Dans un bloc fonctionnel, le sens de l'action va de l'entrée du bloc à la sortie
+    du bloc; pour une ligne d'action, le sens de l'action est indiqué par une flèche
+    (voir Figures 1 et 2).
+  - Le sens de l'action n'est pas nécessairement le même que celui de la circulation
+    de la masse ou de l'énergie.
+  - 'Cet article était numéroté 351-23-05 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 3f955fcf-d894-5f28-9107-6df7dd7961e4
+status: Standard

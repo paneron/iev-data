@@ -1,0 +1,14 @@
+data:
+  definition: '{{signal, IEV:171-01-03}} dont la valeur de la caractéristique support
+    d’informations n’est définie qu’en des instants {{discrets, IEV:171-01-05}} successifs'
+  examples: []
+  notes:
+  - Un signal temporel discret est composé d'une suite temporelle d'éléments, chacun
+    ayant une ou plusieurs caractéristiques telles que sa durée, sa position dans
+    le temps, sa forme, son amplitude, qui représentent des informations.
+  - Un signal temporel discret peut être un {{signal à valeurs continues, IEV:171-01-09}},
+    tel qu’un {{ signal échantillonné, IEV:351-41-26}}, ou un {{signal discret, IEV:171-01-11}},
+    et donc un {{signal numérique, IEV:171-01-13}}.
+dateAccepted: 2018-11-17
+id: b82ffb20-b3d1-5e37-955f-5175a5b6aff7
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 702-04-16
+    link: null
+    original: 702-04-16 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: 704-13-18
+    link: null
+    original: 704-13-18 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: condition where quantities or phenomena are synchronous
+  examples: []
+  notes:
+  - The concept of "synchronous" is defined in IEC 60050-101.
+  - Periodic quantities are in synchronism when they have the same frequency.
+  - For synchronism of some systems, additional conditions must be satisfied.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 75fd80cc-3ffd-583b-9e38-c9e3c06f3020
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  definition: élément d'un diagramme fonctionnel qui participe à la définition de
+    l'état du système à un instant donné, cet élément pouvant alors être soit actif
+    ou inactif
+  examples: []
+  notes:
+  - Les étapes sont séparées par des transitions.
+  - L'ensemble des étapes actives définit l’état du système considéré.
+  - Des ordres ou des actions peuvent être associés à chaque étape. Une étape ne peut
+    activer un ordre que si elle est active.
+  - Cet article était numéroté 351-29-23 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 8ce9718d-6288-5d66-939c-4b3a9fcab7cb
+status: Standard

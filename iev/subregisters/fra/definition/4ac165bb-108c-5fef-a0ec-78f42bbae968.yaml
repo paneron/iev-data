@@ -1,0 +1,12 @@
+data:
+  definition: fonctionnement d'une base de temps relaxée dans lequel le balayage périodique
+    est synchronisé de manière à maintenir la période de balayage égale à la période
+    de la grandeur représentée, ou à un multiple de cette période, produisant ainsi
+    une image stable
+  examples: []
+  notes:
+  - La synchronisation est normalement assurée pour des légers changements de période
+    de la grandeur observée.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 4ac165bb-108c-5fef-a0ec-78f42bbae968
+status: Standard

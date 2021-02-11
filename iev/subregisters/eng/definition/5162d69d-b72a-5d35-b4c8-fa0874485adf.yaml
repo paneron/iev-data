@@ -1,0 +1,15 @@
+data:
+  definition: quantity of dimension 1 equal to the ratio of the maximum possible magnitude
+    stem:[F]~t max~ of the friction force between two solid bodies with zero relative
+    speed in the surface of contact, to the magnitude stem:[F]~n~ of the normal force,
+    thus stem:[μ]~s~ = stem:[F]~t max~ / stem:[F]~n~
+  examples: []
+  notes:
+  - 1 The friction force is the tangential component and the normal force is the normal
+    component of the contact force between two bodies at relative rest, so not yet
+    sliding.
+  - 2 The tangential force stem:[F]~t max~ is greater than the tangential force stem:[F]~t~
+    for slow relative speed.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 5162d69d-b72a-5d35-b4c8-fa0874485adf
+status: Standard

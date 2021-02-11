@@ -1,0 +1,12 @@
+data:
+  definition: biporte dont l’inverse de la réponse en fréquence ({{131-15-21, IEV:131-15-21}})
+    a un argument qui est une fonction impaire de la fréquence et a, à toute fréquence
+    positive, la plus petite valeur possible pour un module donné
+  examples: []
+  notes:
+  - Pour un réseau à déphasage minimal à éléments localisés, la fonction de transfert
+    ({{131-15-20, IEV:131-15-20}}) exprimée en fonction de la fréquence complexe n’a
+    pas de zéros dans le demi-plan de droite.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: ffaee481-016b-5657-8eaf-1ab7e8a1c6ed
+status: Standard

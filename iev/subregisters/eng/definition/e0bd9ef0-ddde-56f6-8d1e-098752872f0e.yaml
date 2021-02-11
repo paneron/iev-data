@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.1.54
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.54
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: sequence of consecutive symbols sent in one time-slot by a transmitter,
+    between two slots where the line is idle
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: e0bd9ef0-ddde-56f6-8d1e-098752872f0e
+status: Standard

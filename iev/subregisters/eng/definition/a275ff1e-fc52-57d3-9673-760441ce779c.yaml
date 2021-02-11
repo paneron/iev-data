@@ -1,0 +1,21 @@
+data:
+  definition: mean value of illuminance on the outer curved surface of a very small
+    (real or imaginary) cylinder that is oriented vertically at a point in space
+  examples: []
+  notes:
+  - 'Cylindrical illuminance is sometimes also defined as the arithmetic mean of the
+    vertical illuminance stem:[E]~v,v~ at a point
+
+
+    stem:[E_((v ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((v ,v)) d phi]
+
+
+    where stem:[E]~v,v~ is the vertical illuminance for an area element with its normal
+    in the direction stem:[φ], and stem:[φ] is the angle in the plane perpendicular
+    to the axis of the cylinder.'
+  - The corresponding radiometric quantity is "cylindrical irradiance". The corresponding
+    quantity for photons is "photon cylindrical irradiance".
+  - The cylindrical illuminance is expressed in lux (lx = lm·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: a275ff1e-fc52-57d3-9673-760441ce779c
+status: Standard

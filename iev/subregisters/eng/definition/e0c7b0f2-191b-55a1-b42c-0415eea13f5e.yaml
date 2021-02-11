@@ -1,0 +1,15 @@
+data:
+  definition: the average life expectancy of a nucleus of a particular radionuclide
+    which is the time in which the number of nuclei of the radionuclide is reduced
+    to the fraction 1/stem:[e] (≈ 0,368) of its initial value
+  examples: []
+  notes:
+  - '– It is related to the decay constant stem:[λ] and the half-life stem:[T_(((1)/(2)))]
+    by:
+
+
+    stem:[tau = (1)/(lambda) = ((T_(((1)/(2)))))/((ln 2)) ≃ ((T_(((1)/(2)))))/((0
+    , 693)) ≃ 1 , 433 T_(((1)/(2)))]'
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: e0c7b0f2-191b-55a1-b42c-0415eea13f5e
+status: Standard

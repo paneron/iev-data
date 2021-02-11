@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - clause: 13-32
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-32, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+      type: modified
+  definition: 'espérance mathématique de la {{quantité d''information conditionnelle,
+    IEV:171-07-21}} des événements d''un ensemble exhaustif d''événements s''excluant
+    mutuellement, lorsque se sont réalisés les événements d''un autre ensemble exhaustif
+    d''événements s''excluant mutuellement
+
+
+    stem:[H ( X | Y ) = sum_((i = 1))^n sum_((j = 1))^m p ( x_i , y_j ) * I ( x_i
+    | y_j )]
+
+
+    où stem:[X = { x_1 , ... , x_n }] est l''ensemble d''événements stem:[x_i ( i
+    = 1, ... , n )], stem:[Y = { y_1 , ... , y_m }] est l''ensemble d''événements
+    stem:[y_j ( j = 1, ... , m )], stem:[I ( x_i | y_j )] est la quantité d''information
+    conditionnelle de stem:[x_i] lorsque stem:[y_j] s''est réalisé, stem:[p ( x_i
+    , y_j )] est la probabilité de réalisation simultanée des deux événements'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: e919afaf-dca3-55c6-908e-469e0c16ecc2
+status: Standard

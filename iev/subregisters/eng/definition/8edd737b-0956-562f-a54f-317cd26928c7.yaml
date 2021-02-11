@@ -1,0 +1,17 @@
+data:
+  definition: for a given point of an oriented curve with an origin point, real number,
+    the absolute value of which is the length of the curve between the origin and
+    the given point, and the sign is positive or negative depending on whether the
+    path from the origin to the given point is consistent or not with the orientation
+    of the curve
+  examples: []
+  notes:
+  - For a curve defined by the position vector stem:[r = f ( u )] as a function of
+    the parameter stem:[u], with an origin O corresponding to stem:[u = 0], the abscissa
+    of the point M corresponding to stem:[u] = stem:[u]~M~ is the line integral stem:[int_O^M
+    | d r | = int_0^((u_M)) | ((d f))/((d u)) | d u].
+  - In the usual geometrical space, the abscissa along a curve is a quantity of the
+    dimension length.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 8edd737b-0956-562f-a54f-317cd26928c7
+status: Standard

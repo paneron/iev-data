@@ -1,0 +1,14 @@
+data:
+  definition: radiance dans une direction donnée issue de l'émission à la surface
+    d'un milieu photoluminescent dans des conditions d'irradiation spécifiées, comparée
+    à la radiance dans la même direction par le diffuseur parfait par réflexion irradié
+    de manière identique
+  examples: []
+  notes:
+  - Le facteur de luminance énergétique par luminescence dépend de la répartition
+    spectrale d'énergie de l'irradiation et cette grandeur est généralement spécifiée
+    pour un illuminant CIE donné.
+  - L'unité de facteur de luminance énergétique par luminescence est un.
+dateAccepted: 2018-11-17
+id: 3a1b548b-643c-5066-b34e-2bed84f0e26a
+status: Standard

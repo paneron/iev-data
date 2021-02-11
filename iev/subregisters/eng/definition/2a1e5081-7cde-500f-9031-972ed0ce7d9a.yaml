@@ -1,0 +1,11 @@
+data:
+  definition: a modulation method in which the binary signal elements "0" and "1"
+    are represented by pulses or pulse intervals of different durations
+  examples: []
+  notes:
+  - The ratio between the long and the short signal element duration, which depends
+    on requirements of reliability and speed of the message transmission, is not necessarily
+    an integer.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 2a1e5081-7cde-500f-9031-972ed0ce7d9a
+status: Standard

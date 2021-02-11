@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 702-09-10
+    link: null
+    original: 702-09-10 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: device or network with two separate ports
+  examples: []
+  notes:
+  - Examples of two-ports are a waveguide section, a two-terminal pair network.
+  - An stem:[n]-port can be considered as a two-port when only the performance at
+    two ports is of interest.
+  - In French, the term "biporte" may also be used as an adjective, synonymously with
+    "à deux accès".
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 30d839ce-6d7e-5f15-be5f-830642c1c906
+status: Standard

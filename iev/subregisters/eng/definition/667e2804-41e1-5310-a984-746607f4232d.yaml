@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 2.1.3.1
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.1.3.1
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: miniaturized {{device, IEV:151-11-20}}, the {{components, IEV:151-11-21}}
+    of which are several millimetres or smaller in size
+  examples: []
+  notes:
+  - Various functional devices (such as a {{sensor, IEV:151-13-48}} that utilizes
+    micromachine technology) are included.
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: 667e2804-41e1-5310-a984-746607f4232d
+status: Standard

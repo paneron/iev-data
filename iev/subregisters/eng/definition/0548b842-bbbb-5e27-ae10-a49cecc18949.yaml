@@ -1,0 +1,20 @@
+data:
+  definition: 'quotient of the natural (Napierian) logarithm of the reciprocal of
+    the spectral internal transmittance, stem:[τ]~i~(stem:[λ]), of a layer of the
+    medium and the length, stem:[l], of the path of a beam of radiation traversing
+    that layer
+
+
+    stem:[a_n ( lambda ) = - ((ln tau_i ( lambda )))/(l) = ((log tau_i ( lambda )))/(l)
+    ln(10) = ((A_n ( lambda )))/(l)]
+
+
+    where stem:[A]~n~(stem:[λ]) is Napierian spectral absorbance.'
+  examples: []
+  notes:
+  - The Napierian spectral absorption coefficient is expressed in metre to the power
+    minus one (m^−1^).
+  - This entry was numbered 845-04-85 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 0548b842-bbbb-5e27-ae10-a49cecc18949
+status: Standard

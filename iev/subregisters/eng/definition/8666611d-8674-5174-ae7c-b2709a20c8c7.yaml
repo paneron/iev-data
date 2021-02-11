@@ -1,0 +1,12 @@
+data:
+  definition: detector for which the output is proportional to the input over a specified
+    range, so that the responsivity of the detector is constant over that range
+  examples: []
+  notes:
+  - A detector is usually linear only over a certain limited range of input levels.
+    The range should be specified.
+  - The linear range of a detector can be affected by the use of unsuitable electronic
+    circuitry.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 8666611d-8674-5174-ae7c-b2709a20c8c7
+status: Standard

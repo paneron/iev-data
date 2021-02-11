@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 13-12
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-12, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: quotient of the duration of a time interval in which specified {{data
+    elements, IEV:171-02-01}} are transferred by the number of transferred elements
+  examples: []
+  notes:
+  - The unit of period of data elements is the second (s).
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 7ac5fbfa-74d2-5b24-ad1c-d0a420bb17ee
+status: Standard

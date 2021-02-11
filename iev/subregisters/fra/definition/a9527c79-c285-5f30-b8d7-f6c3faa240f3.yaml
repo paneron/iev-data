@@ -1,0 +1,13 @@
+data:
+  definition: distribution qui est la dérivée de la distribution de Dirac
+  examples: []
+  notes:
+  - 'Le doublet unité permet d''exprimer la valeur pour stem:[x]~0~ de la dérivée
+    d''une fonction stem:[f](stem:[x]) dérivable pour stem:[x = x_0]:
+
+
+    stem:[f^( '' ) ( x_0 ) = - int_( - oo)^( + oo) delta^( '' ) ( x - x_0 ) f ( x
+    ) d x]'
+dateAccepted: 2018-11-17
+id: a9527c79-c285-5f30-b8d7-f6c3faa240f3
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: '3.6'
+    link: https://www.iso.org/standard/53940.html
+    original: ISO/IEC Guide 51:2014, 3.6, modified – Note 1 to entry has been added.
+    ref: ISO/IEC Guide 51:2014
+    relationship:
+      modification: Note 1 to entry has been added.
+      type: modified
+  definition: use in accordance with information provided with a product or system,
+    or, in the absence of such information, by generally understood patterns of usage
+  examples: []
+  notes:
+  - Intended use should not be confused with {{normal use, IEV:871-04-22}}. While
+    both include the concept of use as intended by the manufacturer, intended use
+    focuses on the purpose while normal use incorporates not only the purpose, but
+    transport and storage as well.
+dateAccepted: '2018-05-01T00:00:00+00:00'
+id: 1dab3f11-f1ca-56d6-94b5-8d20340c0a16
+status: Standard

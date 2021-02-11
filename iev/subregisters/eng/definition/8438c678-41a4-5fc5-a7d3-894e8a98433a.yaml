@@ -1,0 +1,28 @@
+data:
+  definition: mean value of irradiance on the outer curved surface of a very small
+    (real or imaginary) sphere at a point in space
+  examples: []
+  notes:
+  - 'The spherical irradiance can be expressed by
+
+
+    stem:[E_((e,o)) = int_((4 pi)) L_e d omega]
+
+
+    where stem:[Ω] is solid angle and stem:[L]~e~ is radiance.'
+  - The spherical irradiance is the quotient of the radiant flux of all the radiation
+    incident on the outer surface of an infinitely small sphere centred at the specified
+    point and the area of the diametrical cross-section of that sphere.
+  - The analogous quantities "spherical illuminance", stem:[E]~v,o~, and "photon spherical
+    irradiance", stem:[E]~p,o~, are defined in a similar way, replacing radiance,
+    stem:[L]~e~, by luminance, stem:[L]~v~, and photon radiance, stem:[L]~p~, respectively.
+  - The spherical irradiance is the appropriate radiometric quantity for describing
+    a dose rate for a photobiological or photochemical effect in a scattering medium
+    (e.g. light in skin). The spherical irradiance is also the appropriate quantity
+    for describing the irradiation of microorganisms. The spherical irradiance is
+    frequently used incorrectly as a substitute for irradiance in some publications.
+  - The spherical irradiance is expressed in watt per square metre (W·m^−2^).
+  - This entry was numbered 845-01-40 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 8438c678-41a4-5fc5-a7d3-894e8a98433a
+status: Standard

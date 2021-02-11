@@ -1,0 +1,13 @@
+data:
+  definition: produit de la puissance effective de sortie de l'émetteur multipliée
+    par le gain de l'antenne
+  examples: []
+  notes:
+  - Le gain est produit par une antenne qui concentre le rayonnement dans une direction
+    particulière et est toujours associé à une antenne de référence spécifiée.
+  - La puissance de seuil est considérée comme étant égale à la puissance isotrope
+    rayonnée équivalente (PIRE), selon l'UIT-R BS.561-2, _Definitions of radiation
+    in LF, MF and HF broadcasting bands_.
+dateAccepted: 2018-11-17
+id: 8b12140b-29e5-59e6-89d6-77c906748adb
+status: Standard

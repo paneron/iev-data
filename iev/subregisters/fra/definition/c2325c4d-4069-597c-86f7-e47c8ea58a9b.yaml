@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 2.5.30
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.5.30, modifié – Dans la définition, "couplage inductif"
+      a été remplacé par "un champ électromagnétique à haute intensité couplé inductivement".
+    ref: IEC 62047-1:2016
+    relationship:
+      modification: Dans la définition, "couplage inductif" a été remplacé par "un
+        champ électromagnétique à haute intensité couplé inductivement".
+      type: modified
+  definition: plasma haute densité produit par un {{champ électromagnétique, IEV:121-11-61}}
+    à haute intensité couplé inductivement
+  examples: []
+  notes:
+  - Le plasma à couplage inductif est utilisé dans les procédés de gravure tels que
+    la {{gravure ionique réactive profonde, IEV:523-05-13}}.
+  - Le terme abrégé "ICP" est dérivé du terme anglais développé correspondant "inductively
+    coupled plasma".
+dateAccepted: 2018-11-17
+id: c2325c4d-4069-597c-86f7-e47c8ea58a9b
+status: Standard

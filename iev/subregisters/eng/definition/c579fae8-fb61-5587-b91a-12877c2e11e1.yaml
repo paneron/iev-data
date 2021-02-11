@@ -1,0 +1,11 @@
+data:
+  definition: the time interval between unhooking and either receipt by the calling
+    party of some indication of the success or failure of the call attempt or abandonment
+    of the call attempt
+  examples: []
+  notes:
+  - The calling duration is the sum of the dial tone delay, the dialling duration
+    and the post-dialling delay.
+dateAccepted: '1992-11-01T00:00:00+00:00'
+id: c579fae8-fb61-5587-b91a-12877c2e11e1
+status: Standard

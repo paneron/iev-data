@@ -1,0 +1,16 @@
+data:
+  definition: dans une direction donnée, pour un point quelconque de la région de
+    champ lointain d'une antenne d'émission, produit de la distance de ce point à
+    l'antenne par le vecteur champ électrique en ce point
+  examples: []
+  notes:
+  - Le vecteur force cymomotrice dépend de la direction choisie mais non de la distance
+    à l'antenne. Sa norme exprimée en volts est numériquement égale à la norme du
+    champ électrique à la distance de 1 km exprimée en millivolts par mètre.
+  - La force cymomotrice dépend à la fois des caractéristiques électriques de l'antenne
+    et de la puissance fournie à celle-ci.
+  - Le terme "force cymomotrice" est utilisé dans les textes du Comité consultatif
+    international des radiocommunications (CCIR).
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 5f3b41b0-9311-581f-b228-754076527bab
+status: Standard

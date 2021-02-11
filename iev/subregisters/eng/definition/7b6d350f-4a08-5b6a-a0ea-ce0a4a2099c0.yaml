@@ -1,0 +1,11 @@
+data:
+  definition: contacts which provide different contact levels and sequencing
+  examples: []
+  notes:
+  - During connector module engaging (insertion), at least one contact of the higher
+    level shall connect before any contact of a lower contact level; whilst during
+    connector module disengaging (withdrawal), at least one contact of the higher
+    level will not disconnect before any contact of a lower contact level.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: 7b6d350f-4a08-5b6a-a0ea-ce0a4a2099c0
+status: Standard

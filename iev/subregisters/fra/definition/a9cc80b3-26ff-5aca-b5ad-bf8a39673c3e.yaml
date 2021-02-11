@@ -1,0 +1,18 @@
+data:
+  definition: "pour un réseau contenant stem:[l] boucles orientées et stem:[b] branches,\
+    \ chacune des branches étant munie d'un sens de référence, matrice de format stem:[l] × stem:[b]\
+    \ dont l'élément stem:[a]~stem:[ij]~ est égal à\r\n<ul style=\"list-style: none;\"\
+    >\r\n* 0 si la branche stem:[j] n'est pas dans la boucle stem:[i]\r\n* 1 si la\
+    \ branche stem:[j] est dans la boucle stem:[i] avec le même sens\r\n* −1 si la\
+    \ branche stem:[j] est dans la boucle stem:[i] avec le sens opposé"
+  examples: []
+  notes:
+  - '– La figure représente un réseau et la matrice d''incidence branche-maille correspondante
+    lorsque les deux boucles 1 et 2 sont orientées en sens contraire des aiguilles
+    d''une montre.
+
+
+    image::/assets/images/parts/131/131-13-22.gif[]'
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: a9cc80b3-26ff-5aca-b5ad-bf8a39673c3e
+status: Standard

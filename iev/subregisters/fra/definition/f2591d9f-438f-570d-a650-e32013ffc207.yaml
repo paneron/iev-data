@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 3.4.16
+    link: https://webstore.iec.ch/publication/25837
+    original: IEC 62873-2:2016, 3.4.16
+    ref: IEC 62873-2:2016
+    relationship:
+      type: identical
+  definition: pouvoir de coupure pour lequel les conditions prescrites suivant une
+    séquence d'essai spécifiée comprennent l'aptitude du disjoncteur différentiel
+    résiduel avec protection incorporée contre les surintensités à être parcouru par
+    un courant égal à 0,85 fois son courant de non-déclenchement pendant le temps
+    conventionnel
+  examples: []
+  notes:
+  - Pour le temps conventionnel, voir {{IEV 442-05-54, IEV:442-05-54}} et {{IEV 442-05-55,
+    IEV:442-05-55}}.
+dateAccepted: 2018-11-17
+id: f2591d9f-438f-570d-a650-e32013ffc207
+status: Standard

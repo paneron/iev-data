@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - clause: 2.5.34
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.5.34, modifié – Dans la définition, "adsorbées chimiquement"
+      a été remplacé par "adsorbées par une liaison chimique", et dans la Note 2 à
+      l'article, "L’abréviation «SAM» est dérivée" a été remplacé par "Le terme abrégé
+      "SAM" est dérivé".
+    ref: IEC 62047-1:2016
+    relationship:
+      modification: Dans la définition, "adsorbées chimiquement" a été remplacé par
+        "adsorbées par une liaison chimique", et dans la Note 2 à l'article, "L’abréviation
+        «SAM» est dérivée" a été remplacé par "Le terme abrégé "SAM" est dérivé".
+      type: modified
+  definition: monocouche auto-organisée de molécules adsorbées par une liaison chimique
+    sur une surface en raison de l'affinité spécifique des molécules
+  examples: []
+  notes:
+  - Dans une monocouche auto-assemblée, les molécules sont typiquement fortement liées
+    au {{substrat, IEV:521-05-28}} par une liaison chimique, alors que les molécules
+    des films de Langmuir-Blodgett sont faiblement liées par adsorption physique,
+    par exemple une force électrostatique.
+  - Le terme abrégé "SAM" est dérivé du terme anglais développé correspondant "self-assembled
+    monolayer".
+dateAccepted: 2018-11-17
+id: 8ade8fea-fe48-5abb-90f0-3a7377a60be7
+status: Standard

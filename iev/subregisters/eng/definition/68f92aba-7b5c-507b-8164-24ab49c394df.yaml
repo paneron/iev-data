@@ -1,0 +1,17 @@
+data:
+  definition: structure or equipment providing semi-permanent {{interconnection, IEV:151-12-10}}
+    of {{transmission channels, IEV:701-02-01}}, circuits or equipment by terminating
+    them and providing means for connecting them together in any required manner
+  examples: []
+  notes:
+  - A distribution frame permits any interconnection of {{subscriber's lines, IEV:701-02-09}}
+    and line {{terminals, IEV:701-02-08}}, {{multiplexers, IEV:704-08-13}}, and switching,
+    signalling and other equipment. The interconnections can be changed as required
+    from time to time.
+  - Examples of the technology used for the interconnections are {{wires, IEV:151-12-28}},
+    U-links and {{plugs, IEV:151-12-21}} and {{sockets, IEV:151-12-20}}, all of which
+    are set up and rearranged manually, and electromagnetic or electronic switches,
+    which can be operated locally or remotely.
+dateAccepted: '2018-09-01T00:00:00+00:00'
+id: 68f92aba-7b5c-507b-8164-24ab49c394df
+status: Standard

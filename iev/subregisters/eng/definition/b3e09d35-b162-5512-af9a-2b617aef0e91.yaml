@@ -1,0 +1,15 @@
+data:
+  definition: quotient of that part of the illuminance at a point on a given plane
+    which is received directly (or through clear glass) from a sky of assumed or known
+    luminance distribution and the illuminance on a horizontal plane due to an unobstructed
+    hemisphere of this sky, where the contribution of direct sunlight to both illuminances
+    is excluded
+  examples: []
+  notes:
+  - When calculating the lighting of interiors, the contribution of direct sunlight
+    has to be considered separately.
+  - The sky component of daylight factor has unit one.
+  - This entry was numbered 845-09-98 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: b3e09d35-b162-5512-af9a-2b617aef0e91
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  definition: quotient de la norme de la vitesse angulaire *stem:[ω]* par l’angle
+    2π, soit stem:[n] = |*stem:[ω]*|/2π
+  examples: []
+  notes:
+  - 1 La fréquence de rotation est aussi le quotient par 2π de la dérivée de la valeur
+    absolue de l’angle de rotation stem:[φ] par rapport au temps stem:[t], soit stem:[n
+    = (1)/((2 pi)) ((d | phi |))/((d t))].
+  - 2 L’unité SI cohérente de fréquence de rotation est la seconde à la puissance
+    moins un, s^–1^. Les unités «tour par seconde», symbole r/s, et «tour par minute»,
+    symbole r/min, sont utilisés largement pour des spécifications de machines tournantes.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 1e590d66-1009-5fdc-84ec-159021365f7a
+status: Standard

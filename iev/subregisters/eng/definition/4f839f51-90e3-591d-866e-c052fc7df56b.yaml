@@ -1,0 +1,22 @@
+data:
+  definition: mean value of irradiance on the outer curved surface of a very small
+    (real or imaginary) cylinder that is oriented vertically at a point in space
+  examples: []
+  notes:
+  - 'Cylindrical irradiance is sometimes also defined as arithmetic mean of the vertical
+    irradiance stem:[E]~e,v~ at a point
+
+
+    stem:[E_((e ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((e ,v)) d phi]
+
+
+    where stem:[E]~e,v~ is the vertical irradiance for an area element with its normal
+    in the direction stem:[φ], and stem:[φ] is the angle in the plane perpendicular
+    to the axis of the cylinder.'
+  - The corresponding photometric quantity is "cylindrical illuminance". The corresponding
+    quantity for photons is "photon cylindrical irradiance".
+  - The cylindrical irradiance is expressed in watt per square metre (W·m^−2^).
+  - This entry was numbered 845-01-41 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 4f839f51-90e3-591d-866e-c052fc7df56b
+status: Standard

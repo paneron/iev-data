@@ -1,0 +1,16 @@
+data:
+  definition: 'reciprocal value of the open-loop gain response at the phase crossover
+    angular frequency
+
+
+    SEE: Figure 9.'
+  examples: []
+  notes:
+  - In logarithmic representation of the open-loop gain response the value of the
+    gain margin stem:[G]~m~ may be read as negative logarithm −lgstem:[G]~m~ at the
+    phase crossover angular frequency. stem:[G]~m~ herein results from stem:[G]~m~
+    = |stem:[G]~0~(jstem:[ω]~π~)|^–1^ (see Figure 10).
+  - This entry was numbered 351-25-07 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 8d9e8a53-dede-5f22-b262-2b08928e566d
+status: Standard

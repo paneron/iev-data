@@ -1,0 +1,12 @@
+data:
+  definition: niveau de subdivision à l’intérieur de la hiérarchie d’un système
+  examples:
+  - Système, sous-système, assemblage et composant.
+  notes:
+  - Du point de vue de la maintenance, le niveau dans l’arborescence dépend de divers
+    facteurs dont la complexité de la structure de l’entité, l’accessibilité aux sous-entités,
+    le niveau de compétence du personnel de maintenance, les moyens de mesure et d’essai,
+    et des considérations de sécurité.
+dateAccepted: 2018-11-17
+id: 6ad73439-85c3-5380-9758-d749eb126ef2
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.3.6
+    link: https://webstore.iec.ch/publication/25837
+    original: IEC 62873-2:2016, 3.3.6
+    ref: IEC 62873-2:2016
+    relationship:
+      type: identical
+  definition: fonction qui consiste à détecter la présence d'un courant différentiel
+  examples: []
+  notes:
+  - Cette fonction de détection peut être remplie par exemple par un transformateur
+    intégrant la somme vectorielle des courants.
+dateAccepted: 2018-11-17
+id: 4daeb57b-1547-5735-a074-65bfd31d81cd
+status: Standard

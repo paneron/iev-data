@@ -1,0 +1,19 @@
+data:
+  definition: quantity of dimension 1 characterizing the flow of a fluid in a given
+    configuration characterized by a specified length stem:[l], defined by stem:[R
+    ​ e = ((rho v l))/(eta) = ((v l))/(nu)], where the fluid is described by its mass
+    density stem:[ρ], speed stem:[v], dynamic viscosity stem:[η], and kinematic viscosity
+    stem:[ν]
+  examples: []
+  notes:
+  - 1 The Reynolds number characterizes the relative importance of inertia and viscosity
+    in a fluid flow.
+  - 2 When the Reynolds number is less than a critical value stem:[Re]~crit~, laminar
+    flow is stable. For higher values of stem:[Re], laminar flow becomes unstable.
+    The critical value depends on the configuration.
+  - 3 In case of a fluid flowing through a circular tube with diameter stem:[d], the
+    specified length is stem:[l] = stem:[d], and the critical value of the Reynolds
+    number is stem:[Re]~crit~ ≈ 2 300.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 5f956a88-1c1c-5efa-b05a-b8e88b299ab9
+status: Standard

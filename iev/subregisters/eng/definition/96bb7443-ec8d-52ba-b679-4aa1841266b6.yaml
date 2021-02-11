@@ -1,0 +1,34 @@
+data:
+  definition: 'under sinusoidal conditions in a medium where the phasors <u>stem:[D]</u>,
+    <u>stem:[E]</u> and <u>stem:[J]</u> representing respectively the electric flux
+    density, the electric field strength and the electric current density are linearly
+    related, complex quantity stem:[ε]~re~ defined by the relation
+
+
+    stem:[epsilon_0 underset(_)(epsilon)_((re)) underset(_)(E) = underset(_)(D) +
+    ((underset(_)(J)))/((j omega)) = underset(_)(D) - j ((gamma underset(_)(E)))/(omega)]
+
+
+    where stem:[γ] is the conductivity of the medium, stem:[ω] the angular frequency
+    and stem:[ε]~0~ the electric constant'
+  examples: []
+  notes:
+  - The effective complex relative permittivity is generally frequency dependent.
+    For an isotropic medium the effective complex relative permittivity is a scalar;
+    for an anisotropic medium it is a tensor.
+  - 'The effective complex relative permittivity and the complex relative permittivity
+    stem:[ε]~r~ are linked by the relation
+
+
+    stem:[underset(_)(epsilon)_((re)) = underset(_)(epsilon)_r - ((j gamma ))/((epsilon_0
+    omega))]
+
+
+    In a conductive medium, including good conductors and imperfect dielectrics, the
+    useful and measurable quantity is the effective complex relative permittivity.'
+  - The negative of the imaginary part of the effective complex relative permittivity
+    represents both dielectric losses and losses due to the conductivity, the part
+    due to conductivity being represented by stem:[γ]/stem:[ε]~0~stem:[ω].
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 96bb7443-ec8d-52ba-b679-4aa1841266b6
+status: Standard

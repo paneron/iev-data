@@ -1,0 +1,20 @@
+data:
+  definition: image state associated with image data that represents the colour space
+    coordinates of the elements of an image that has undergone colour rendering appropriate
+    for a specified real or virtual output device and viewing conditions
+  examples: []
+  notes:
+  - When the phrase "output-referred" is used as a qualifier to an object, it implies
+    that the object is in an output-referred image state. For example, output-referred
+    image data are image data in an output-referred image state.
+  - Output referred image data are referred to the specified output device and viewing
+    conditions. A single scene can be colour rendered to a variety of output-referred
+    representations depending on the anticipated output viewing conditions, media
+    limitations, and/or artistic intents.
+  - Output-referred image data can become the starting point for a subsequent reproduction
+    process. For example, sRGB output-referred image data are frequently considered
+    to be the starting point for the colour re-rendering performed by a printer designed
+    to receive sRGB image data.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 0a028dd0-b952-55a5-a830-265468b3612f
+status: Standard

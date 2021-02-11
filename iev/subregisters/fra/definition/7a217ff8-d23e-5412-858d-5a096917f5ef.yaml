@@ -1,0 +1,21 @@
+data:
+  definition: rapport de la puissance disponible aux bornes d'une antenne de réception,
+    à la puissance surfacique d'une onde plane incidente de direction de propagation
+    et de polarisation données
+  examples: []
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle qui correspond au maximum
+    de puissance disponible.
+  - 'En espace libre, pour une polarisation et une direction de propagation données,
+    l''aire équivalente partielle stem:[A]~ep~ d''une antenne utilisée à la réception
+    est liée au gain isotrope partiel stem:[G]~p~ de la même antenne utilisée à l''émission
+    par la relation:
+
+
+    stem:[G_p = ((4 pi A_((ep))))/((lambda^2))]
+
+
+    où stem:[λ] est la longueur d''onde.'
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 7a217ff8-d23e-5412-858d-5a096917f5ef
+status: Standard

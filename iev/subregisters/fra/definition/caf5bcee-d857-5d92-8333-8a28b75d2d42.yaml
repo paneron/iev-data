@@ -1,0 +1,21 @@
+data:
+  definition: bipôle résistif asymétrique caractérisé par une tension nulle entre
+    les bornes lorsque le sens du courant électrique dans le bipôle est orienté de
+    la borne désignée A vers la borne désignée B et par un courant nul lorsque le
+    potentiel électrique de la borne A est inférieur ou égal à celui de la borne B
+  examples: []
+  notes:
+  - 'La relation fonctionnelle entre la tension stem:[u]~AB~ et le courant stem:[i]
+    est :
+
+
+    stem:[u]~AB~ = 0 lorsque stem:[i] ≥ 0
+
+
+    stem:[i] = 0 lorsque stem:[u]~AB~ ≤ 0
+
+
+    où le sens de référence du courant est de A vers B.'
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: caf5bcee-d857-5d92-8333-8a28b75d2d42
+status: Standard

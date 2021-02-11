@@ -1,0 +1,10 @@
+data:
+  definition: minimum sampling frequency which theoretically permits the original
+    signal to be reconstituted without distortion
+  examples: []
+  notes:
+  - For a signal whose spectrum extends from zero frequency to a maximum frequency,
+    the Nyquist frequency is equal to twice this maximum frequency.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 03bf804d-c650-5c9d-8452-ff74a2b7a716
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  definition: 'time relay including two delayed outputs switching one after the other,
+    for starting of motors in the star mode and subsequent change to the delta mode
+    (see Figure 6)
+
+
+    image::/assets/images/parts/445/445-01-09en.gif[]'
+  examples: []
+  notes:
+  - – The star and delta connections are defined in IEV 141-02-06 and IEV 141-02-09
+    respectively.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: fa61fdc7-5713-5a33-97f6-17d96a990bc4
+status: Standard

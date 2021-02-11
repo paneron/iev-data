@@ -1,0 +1,15 @@
+data:
+  definition: the time response of a two port device produced by the application to
+    the input of a unit impulse represented by a Dirac delta function
+  examples: []
+  notes:
+  - The delta function representing the unit pulse may be considered as the limit
+    of a function of zero value except within a small time interval around the origin,
+    positive in this interval and having an integral constantly equal to unity when
+    the width of the interval tends to zero.
+  - The unit pulse may be considered as the time derivative of the unit step.
+  - The unit pulse response may be considered as the time derivative of the unit step
+    response of a linear and time-invariant two-port device.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 2f6d5a2f-2629-5c7f-b0fb-2003a493d0f1
+status: Standard

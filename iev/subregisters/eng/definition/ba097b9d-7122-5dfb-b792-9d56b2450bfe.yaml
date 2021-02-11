@@ -1,0 +1,12 @@
+data:
+  definition: element in a predefined, structured alarm, message, or action chain,
+    or message and action chain
+  examples: []
+  notes:
+  - Escalation levels are intended to ensure that an action appropriate to context
+    is triggered or performed. If the action of the selected escalation level does
+    not lead to the desired result, an action at the next higher escalation level
+    is triggered.
+dateAccepted: '2018-05-01T00:00:00+00:00'
+id: ba097b9d-7122-5dfb-b792-9d56b2450bfe
+status: Standard

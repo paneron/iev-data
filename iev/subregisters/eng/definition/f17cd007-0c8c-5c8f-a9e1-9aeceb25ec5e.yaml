@@ -1,0 +1,17 @@
+data:
+  definition: 'difference between one and the ratio of the square of the mutual permeance
+    stem:[Λij] related to two circuit elements stem:[i] and stem:[j] to the product
+    of their self-permeances stem:[Λii] and stem:[Λjj]
+
+
+    stem:[sigma_((i j)) = 1 - ((Lambda_(i j)^2))/((Lambda_((i i)) Lambda_((j j))))]'
+  examples: []
+  notes:
+  - 'The inductive leakage factor is related to the inductive coupling factor stem:[kij]
+    by the formula:
+
+
+    stem:[k_(i j)^2 = 1 - sigma_((i j))]'
+dateAccepted: '2013-08-01T00:00:00+00:00'
+id: f17cd007-0c8c-5c8f-a9e1-9aeceb25ec5e
+status: Standard

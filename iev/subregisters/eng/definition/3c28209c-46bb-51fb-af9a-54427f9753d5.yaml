@@ -1,0 +1,11 @@
+data:
+  definition: for a linear two-terminal-pair network or stem:[n]-terminal-pair network,
+    quotient of the phasor representing the electric current at an output port by
+    the phasor representing the voltage at an input port, when all other ports are
+    connected to specified terminating immittances
+  examples: []
+  notes:
+  - The output is usually short-circuited.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 3c28209c-46bb-51fb-af9a-54427f9753d5
+status: Standard

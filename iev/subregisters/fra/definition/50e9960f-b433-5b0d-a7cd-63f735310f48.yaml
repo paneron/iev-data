@@ -1,0 +1,14 @@
+data:
+  definition: rapport, généralement exprimé en décibels, de l'intensité de rayonnement
+    d'une antenne dans une direction donnée, à l'intensité de rayonnement qui serait
+    obtenue si la totalité de la puissance fournie à l'antenne était rayonnée également
+    dans toutes les directions de l'espace
+  examples: []
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle dans laquelle l'intensité
+    de rayonnement de l'antenne est maximale.
+  - Pour une antenne sans pertes, le gain isotrope est égal à la directivité dans
+    la même direction.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 50e9960f-b433-5b0d-a7cd-63f735310f48
+status: Standard

@@ -1,0 +1,10 @@
+data:
+  definition: data reduction procedure that groups test data for a certain parameter
+    into wind speed intervals, called bins
+  examples: []
+  notes:
+  - For each bin, the number of samples and their sum are recorded, and the average
+    parameter value within each bin is calculated
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: a439b7ab-2a87-5f00-b7ac-f1a1b939c2fa
+status: Standard

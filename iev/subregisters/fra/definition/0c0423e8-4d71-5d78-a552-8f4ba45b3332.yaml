@@ -1,0 +1,14 @@
+data:
+  definition: rapport, généralement exprimé en décibels, de la puissance rayonnée
+    par l'antenne d'émission d'une liaison radioélectrique à la puissance qui serait
+    disponible à la sortie de l'antenne de réception s'il n'y avait aucune perte dans
+    les circuits radiofréquences des antennes, en supposant que les caractéristiques
+    de directivité des antennes sont conservées
+  examples: []
+  notes:
+  - L'affaiblissement de transmission est égal à l'affaiblissement entre bornes d'antennes
+    diminué de l'affaiblissement dû aux pertes dans les circuits radiofréquences qui
+    font partie intégrante des antennes.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 0c0423e8-4d71-5d78-a552-8f4ba45b3332
+status: Standard

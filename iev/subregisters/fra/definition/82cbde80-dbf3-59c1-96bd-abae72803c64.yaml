@@ -1,0 +1,42 @@
+data:
+  definition: 'vecteur complexe stem:[vec underset(_)(K) = vec K^( '' ) + j vec K^(
+    ″ )] caractérisant une onde électromagnétique sinusoïdale en un point lorsque
+    chacun des vecteurs du champ électromagnétique peut être représenté, dans un domaine
+    au voisinage de ce point, par une expression de la forme:
+
+
+    stem:[vec (underset(_)(V))_i = vec underset(_)(V)_((oi)) e^(j ( omega t - vec
+    underset(_)(K) * vec r ))]
+
+
+    dans laquelle:
+
+
+    - les vecteurs stem:[vec underset(_)(V)_((oi))], généralement complexes, sont
+    indépendants du temps et pratiquement constants dans le domaine considéré,
+
+
+    - le vecteur stem:[vec underset(_)(K)] est pratiquement constant dans le domaine
+    considéré,
+
+
+    - stem:[ω] est la pulsation,
+
+
+    - stem:[t] est le temps,
+
+
+    - stem:[vec r] est le vecteur joignant l''origine des coordonnées au point considéré
+    du domaine'
+  examples: []
+  notes:
+  - Si l'onde peut être caractérisée en chaque point d'un domaine par un vecteur d'onde,
+    il existe une surface d'onde passant par ce point et normale à la partie réelle
+    stem:[vec K^( ' )] du vecteur d'onde. La norme de stem:[vec underset(_)(K)] est
+    le quotient de 2π par la longueur d'onde
+  - L'onde est à polarisation elliptique si la partie imaginaire de chaque vecteur
+    stem:[vec underset(_)(V)_((oi))] n'est ni nulle ni colinéaire à sa partie réelle,
+    elle est à polarisation rectiligne dans les autres cas.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 82cbde80-dbf3-59c1-96bd-abae72803c64
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  definition: circuit-theory theorem stating that, for two networks with the same
+    number of branches and identical interconnections, the algebraic sum of the products,
+    for all branches, of the voltage at the terminals of a branch of one network and
+    the current in the corresponding branch of the other network is zero
+  examples: []
+  notes:
+  - The polarity of each branch voltage in the first network relative to the reference
+    direction of current in the corresponding branch of the second network has to
+    be chosen uniformly throughout the two networks.
+  - When the two networks represent the voltage and current distributions in the same
+    network at the same instant, Tellegen theorem expresses the conservation of power.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 040aa09a-ec09-5df0-8db7-81544903a628
+status: Standard

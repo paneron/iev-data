@@ -1,0 +1,13 @@
+data:
+  definition: valve commandable verrouillée dans l'état de conduction une fois qu'elle
+    est amorcée et que le signal d'amorçage est supprimé
+  examples: []
+  notes:
+  - La plupart des valves à accrochage ne peuvent être bloquées qu'en annulant le
+    courant dans le trajet conducteur par un procédé externe au dispositif.
+  - Un thyristor blocable est une valve à accrochage qui peut être bloquée par un
+    signal de commande.
+  - Une valve à accrochage peut être bloquante ou non bloquante en inverse.
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: f7299c42-a2e4-57a1-8adb-3868713ad6e6
+status: Standard

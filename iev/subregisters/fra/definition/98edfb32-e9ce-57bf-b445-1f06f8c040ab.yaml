@@ -1,0 +1,46 @@
+data:
+  definition: pour un noyau magnétique de géométrie donnée en un matériau donné, fonctionnant
+    dans le domaine de Rayleigh, longueur du chemin magnétique, section transversale
+    et volume qu'un tore fictif constitué du même matériau et de section droite homogène
+    et radialement mince devrait avoir pour être magnétiquement équivalent au noyau
+    donné
+  examples: []
+  notes:
+  - 'Les dimensions équivalentes sont les suivantes:
+
+
+    section droite équivalente (ou effective)
+
+
+    stem:[A_e = ((C_1))/((C_2))]
+
+
+    longueur de chemin magnétique équivalente (ou effective)
+
+
+    stem:[l_e = ((C_1^2))/((C_2))]
+
+
+    volume équivalent (ou effectif)
+
+
+    stem:[V_e = ((C_1^3))/((C_2^2))]
+
+
+    où stem:[C]~1~, et stem:[C]~2~ sont les coefficients de noyau appropriés; il en
+    résulte:
+
+
+    stem:[C_1 = ((l_e))/((A_e))]
+
+
+    stem:[C_2 = ((l_e))/((A_e^2))]
+
+
+    stem:[V_e = l_e A_e]'
+  - Ces formules peuvent aussi s'appliquer à un circuit magnétique fonctionnant hors
+    des limites du domaine de Rayleigh si l'aimantation peut être considérée comme
+    uniforme, par exemple dans le cadre d'Epstein.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 98edfb32-e9ce-57bf-b445-1f06f8c040ab
+status: Standard

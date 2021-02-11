@@ -1,0 +1,12 @@
+data:
+  definition: signalisation voie par voie dans laquelle l'information de signalisation
+    est transférée entre les équipements de transmission et de commutation au moyen
+    de conducteurs désignés par RON et TRON, le fil RON transmettant vers l'équipement
+    de commutation et le fil TRON à partir de celui-ci
+  examples: []
+  notes:
+  - RON et TRON sont respectivement les abréviations de "réception" et "transmission"
+    (par rapport à l'équipement de commutation).
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: b8d00c71-c80d-532b-8e1f-0196b9305c71
+status: Standard

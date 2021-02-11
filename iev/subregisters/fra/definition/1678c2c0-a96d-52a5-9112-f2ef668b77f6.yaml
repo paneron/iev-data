@@ -1,0 +1,18 @@
+data:
+  definition: signal dont la variation en fonction du temps a la forme donnée par
+    une fonction de Gauss
+  examples: []
+  notes:
+  - 'Une impulsion gaussienne est représentée en fonction du temps par la formule
+    :
+
+
+    stem:[f(t)] = stem:[A] ехр [– (stem:[t] / stem:[a])^2^]
+
+
+    où stem:[A] est l''amplitude de crête et où stem:[a] est la moitié de la durée
+    entre les instants où la valeur instantanée devient égale à la fraction 1/e de
+    l''amplitude.'
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 1678c2c0-a96d-52a5-9112-f2ef668b77f6
+status: Standard

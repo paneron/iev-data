@@ -1,0 +1,33 @@
+data:
+  authoritative_source:
+  - original: ITU-R Rec. 573 MOD
+    ref: ITU-R Recommendation 573
+    relationship:
+      type: modified
+  definition: area associated with a terrestrial transmitting station for a given
+    radiocommunication service, within which a receiving station must be located for
+    radiocommunication of a specified nature to be established under specified technical
+    conditions
+  examples: []
+  notes:
+  - Several coverage areas may be associated with the same station.
+  - 'The technical conditions include, inter alia, the following: frequency, characteristics
+    of the equipment used both at the transmitting and receiving stations, how it
+    is installed, quality of transmission desired, e.g. protection ratios, and operating
+    conditions.'
+  - 'The following may be distinguishable:
+
+
+    – the coverage area in the absence of RF interference, i.e. that limited solely
+    by natural or artificial noise;
+
+
+    – the nominal coverage area which is defined, when establishing a frequency plan
+    by taking into account the foreseen transmitters;
+
+
+    – the actual coverage area, i.e., with allowance made for the noise and interference
+    which exist in practice.'
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 6574f99b-d599-53eb-95e3-cf007ed97723
+status: Standard

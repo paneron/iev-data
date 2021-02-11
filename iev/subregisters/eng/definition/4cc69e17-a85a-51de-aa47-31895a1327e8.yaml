@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 826-03-02
+    link: null
+    original: 826-03-02 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: a conductive part of electrical equipment, which can be touched and
+    which is not normally live, but which can become live when basic insulation fails
+  examples: []
+  notes:
+  - A conductive part of electrical equipment which can only become live through contact
+    with an exposed-conductive-part which has become live is not considered to be
+    an exposed-conductive-part itself.
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: 4cc69e17-a85a-51de-aa47-31895a1327e8
+status: Standard

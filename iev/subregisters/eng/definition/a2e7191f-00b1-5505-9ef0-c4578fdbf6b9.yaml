@@ -1,0 +1,13 @@
+data:
+  definition: the ratio, generally expressed in decibels, of the radiation intensity
+    produced by an antenna in a given direction, to the value of the radiation intensities
+    averaged in all directions in space
+  examples: []
+  notes:
+  - If no direction is specified, the direction of maximum radiation intensity from
+    the given antenna is implied.
+  - The directivity is independent of antenna losses and equal to the absolute gain
+    in the same direction if the antenna is lossless.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: a2e7191f-00b1-5505-9ef0-c4578fdbf6b9
+status: Standard

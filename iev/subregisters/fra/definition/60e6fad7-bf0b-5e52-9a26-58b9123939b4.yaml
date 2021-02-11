@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 101-14-39
+    link: null
+    original: 101-14-39
+    ref: IEV
+    relationship:
+      type: identical
+  definition: valeur de la phase d'une grandeur sinusoïdale pour la valeur zéro de
+    la variable indépendante
+  examples: []
+  notes:
+  - Pour la grandeur stem:[A]~m~ cos (stem:[ωt] + stem:[θ]~0~ ) la phase à l'origine
+    est égale à stem:[θ]~0~.
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: 60e6fad7-bf0b-5e52-9a26-58b9123939b4
+status: Standard

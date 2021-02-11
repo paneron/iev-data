@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 725-12-07
+    link: null
+    original: 725-12-07 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: '67'
+    original: UIT RR 67 MOD
+    ref: ITU RR
+    relationship:
+      type: modified
+  definition: station radioélectrique du service mobile non destinée à fonctionner
+    en mouvement
+  examples: []
+  notes:
+  - En français, les termes "station terrestre", "station de Terre" et "station terrienne"
+    dérivent de la même racine, mais représentent des notions différentes.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ede4a298-7bb1-5db8-bc90-8b3ef65af983
+status: Standard

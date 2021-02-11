@@ -1,0 +1,20 @@
+data:
+  definition: quotient de cinq fois la somme de l'aire des parois délimitée par le
+    sol et le plan de travail par la somme des aires du sol et du plan de travail,
+    utilisé dans le calcul du facteur d'utilisation ou de l'utilance
+  examples: []
+  notes:
+  - 'Le rapport du sol est donné par la formule
+
+
+    stem:[K_f = ((5 h_f ( a + b )))/((a b))]
+
+
+    où stem:[a] et stem:[b] sont les dimensions des côtés du local et stem:[h]~f~
+    la distance entre le sol et le plan d''utilisation.'
+  - Voir aussi "<a href="IEV845-29-074">rapport du plafond</a>" et "<a href="IEV845-29-072">rapport
+    du local</a>".
+  - L'unité de rapport du sol est un.
+dateAccepted: 2018-11-17
+id: 11dcac08-104c-543b-a6ce-15478a8dda08
+status: Standard

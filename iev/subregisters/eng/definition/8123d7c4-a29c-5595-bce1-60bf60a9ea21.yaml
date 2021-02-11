@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 191-12-01
+    link: null
+    original: 191-12-01 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: the probability that a protection can perform a required function under
+    given conditions for a given time interval
+  examples: []
+  notes:
+  - 'The required function for protection is to operate when required to do so and
+    not to operate when not required to do so.
+
+
+    See figure 448-1.
+
+
+    image::/assets/images/parts/448/448-fig1-en.gif[]'
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: 8123d7c4-a29c-5595-bce1-60bf60a9ea21
+status: Standard

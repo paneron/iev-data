@@ -1,0 +1,14 @@
+data:
+  definition: the ratios of the coefficients of the linear combination of independent
+    modes of propagation that represents a degenerate mode in a waveguide
+  examples: []
+  notes:
+  - If there are exactly stem:[n] independent modes of propagation there will be at
+    most stem:[n] —1 independent ratios that describe completely the polarization
+    of a given degenerate mode.
+  - In a waveguide with square or circular cross-section there are two independent
+    modes of propagation, and a single ratio describes the polarization of a given
+    degenerate mode.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 3ad132e9-6601-5945-a334-1856da1f03d3
+status: Standard

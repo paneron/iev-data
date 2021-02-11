@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 017-08-28
+    link: null
+    original: '2017-08-28: Added missing </mstyle>. LMO'
+    ref: IEV
+    relationship:
+      type: identical
+  definition: 'the limiting value of the amplitude permeability when the magnetic
+    field strength tends to zero:
+
+
+    stem:[mu_i = underset((H -&gt; 0))((lim)) mu_a]'
+  examples: []
+  notes: []
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: a7301821-05e7-594f-90a0-aea21909f94e
+status: Standard

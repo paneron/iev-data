@@ -1,0 +1,19 @@
+data:
+  definition: '{{état stable, IEV:692-02-02}} dans lequel certains éléments de réseau
+    fonctionnent au-delà de leurs caractéristiques assignées, ou dans lequel les tensions
+    de certains jeux de barres ou la fréquence du réseau sont hors des plages de tolérances
+
+
+    image::/assets/images/parts/692/692-fig6-fr.png[Figure 6 - Exemples d’états d’un
+    réseau d’énergie électrique et de la situation de fonctionnement correspondante]'
+  examples: []
+  notes:
+  - Un état d’urgence exige des actions urgentes (telles que délestage de charge,
+    réduction de tension et démarrage de générateurs de secours) pour éviter un endommagement
+    des matériels ou une dégradation supplémentaire de l'état du système.
+  - La {{perte de charge, IEV:692-01-16}}, bien qu’elle puisse se produire, n’est
+    pas un critère pour un état d’urgence.
+  - Cet article portait le numéro 191-22-05 dans l’IEC 60050-191:1990.
+dateAccepted: 2018-11-17
+id: d78130d1-5ad3-5d2e-a49c-ef697a98d5e0
+status: Standard

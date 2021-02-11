@@ -1,0 +1,15 @@
+data:
+  definition: "qualifies in a point space:\n\n* a straight line with respect to a\
+    \ coplanar straight line when they have no common point or when they are merged;\
+    \ \n\n* a straight line with respect to a plane when the plane contains a line\
+    \ parallel to the given line; \n\n* a plane with respect to another plane when\
+    \ any line in one plane has a parallel line in the other plane"
+  examples: []
+  notes:
+  - Parallelism is an equivalence relation for two lines or for two planes.
+  - Usual wordings for lines are "a line A is parallel to line B", or "lines A and
+    B are parallel", or " A and B are parallel lines". Similar wordings are used for
+    the other cases.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 8d784c1b-4115-5b29-9c67-810d8dd839c5
+status: Standard

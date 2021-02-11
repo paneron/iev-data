@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '1.18'
+    link: https://www.iso.org/standard/45324.html
+    original: ISO/IEC GUIDE 99:2007 1.18
+    ref: ISO/IEC Guide 99:2007
+    relationship:
+      type: identical
+  definition: unité de mesure obtenue en divisant une unité de mesure donnée par un
+    entier supérieur à un
+  examples: []
+  notes:
+  - Le millimètre (mm) est un sous-multiple décimal du mètre (m). Pour l'angle plan,
+    la seconde (") est un sous-multiple non décimal de la minute (').
+  - Les sous-multiples d'une unité sont souvent désignés en ajoutant un préfixe d'unité
+    au nom de l'unité.
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 7b3a9088-7bec-5a5a-97e7-b6af59ec77e0
+status: Standard

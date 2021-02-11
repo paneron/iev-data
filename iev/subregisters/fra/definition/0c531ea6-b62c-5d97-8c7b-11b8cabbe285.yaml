@@ -1,0 +1,12 @@
+data:
+  definition: sous-ensemble d'un ensemble, qui est différent de l'ensemble
+  examples: []
+  notes:
+  - La notation stem:[A sub B] exprime que l'ensemble stem:[A] est un sous-ensemble
+    strict de l'ensemble stem:[B]. Le symbole stem:[underset(!=)( sub )] est parfois
+    employé au lieu de stem:[sub] mais n'est pas recommandé, et il convient qu’il
+    soit employé lorsque ce dernier est employé pour un sous-ensemble quelconque de
+    stem:[B]. On dit aussi que stem:[A] est strictement inclus dans stem:[B].
+dateAccepted: 2018-11-17
+id: 0c531ea6-b62c-5d97-8c7b-11b8cabbe285
+status: Standard

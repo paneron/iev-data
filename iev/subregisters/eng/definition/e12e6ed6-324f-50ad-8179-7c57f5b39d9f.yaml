@@ -1,0 +1,18 @@
+data:
+  definition: 'ability to tolerate a {{credible event, IEV:692-01-08}} without {{loss
+    of load, IEV:692-01-16}}, over-stress of system components, or deviation from
+    specified voltage and frequency tolerances
+
+
+    image::/assets/images/parts/692/692-fig1-en.png[Figure 1 - Relationship between
+    service reliability, system adequacy and system security]'
+  examples: []
+  notes:
+  - This concept is normally applied to {{bulk electric systems, IEV:692-01-04}}.
+  - In North America, security is usually defined with reference to instability, voltage
+    collapse and {{cascade tripping, IEV:692-03-08}} only.
+  - See also the related term "fault tolerance" ({{IEV 192-10-09, IEV:192-10-09}}).
+  - This entry was numbered 191-21-03 in IEC 60050-191:1990.
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: e12e6ed6-324f-50ad-8179-7c57f5b39d9f
+status: Standard

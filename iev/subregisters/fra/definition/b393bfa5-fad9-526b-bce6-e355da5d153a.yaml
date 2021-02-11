@@ -1,0 +1,14 @@
+data:
+  definition: ensemble de branches d'un graphe tel que la suppression de toutes ces
+    branches augmente le nombre de parties non connexes du graphe alors que le maintien
+    d'une seule d'entre elles ne l'augmente pas
+  examples: []
+  notes:
+  - 'Pour le réseau de la figure ci-dessous, deux ensembles de coupure sont (2-3,
+    6-7) et (1-5, 2-6, 3-7, 3-4).
+
+
+    image::/assets/images/parts/131/131-13-19.gif[]'
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: b393bfa5-fad9-526b-bce6-e355da5d153a
+status: Standard

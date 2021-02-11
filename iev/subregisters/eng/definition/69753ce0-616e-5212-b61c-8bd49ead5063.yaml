@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '5.1'
+    original: VIM 5.1
+    ref: JCGM VIM
+    relationship:
+      type: identical
+  definition: range of indications obtainable with a particular setting of the controls
+    of a measuring instrument
+  examples: []
+  notes:
+  - The nominal range is normally stated in terms of its lower and upper limits. Where
+    the lower limit is zero, the nominal range is commonly stated solely in terms
+    of its upper limit.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 69753ce0-616e-5212-b61c-8bd49ead5063
+status: Standard

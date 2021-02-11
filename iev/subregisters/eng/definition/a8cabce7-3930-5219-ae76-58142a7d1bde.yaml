@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - clause: '1.10'
+    link: https://www.iso.org/standard/45324.html
+    original: ISO/IEC GUIDE 99:2007 1.10
+    ref: ISO/IEC Guide 99:2007
+    relationship:
+      type: identical
+  definition: unit of measurement that is adopted by convention for a base quantity
+  examples: []
+  notes:
+  - In each coherent system of units, there is only one base unit for each base quantity.
+    In the SI for example, the metre is the base unit of length. The centimetre and
+    the kilometre are also units of length, but they are not base units in the SI.
+    However, in the CGS systems, the centimetre is the base unit of length.
+  - A base unit may also serve for a derived quantity of the same dimension. For example,
+    rainfall, when defined as volume per area (areic volume), has the metre as a coherent
+    derived unit in the SI. The ampere, base unit of electric current, is also the
+    coherent derived unit of scalar magnetic potential.
+  - For the quantity “number of entities”, the number one, symbol 1, can be regarded
+    as a base unit in any system of units.
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: a8cabce7-3930-5219-ae76-58142a7d1bde
+status: Standard

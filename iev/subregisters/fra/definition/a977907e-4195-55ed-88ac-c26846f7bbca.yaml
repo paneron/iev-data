@@ -1,0 +1,20 @@
+data:
+  definition: 'intégrale de la tension électrique stem:[u]~AB~ ({{131-11-56, IEV:131-11-56}})
+    entre deux bornes A et B d’un bipôle ou d’un multipôle
+
+
+    stem:[Psi ( t ) = int_((t_0))^t u_((AB)) ( tau ) d tau]
+
+
+    où stem:[t]~0~ est un instant quelconque avant la première alimentation en énergie
+    électrique'
+  examples: []
+  notes:
+  - Le concept n'est utile que dans le cas d'un élément inductif.
+  - La définition du flux totalisé en théorie des circuits est compatible avec la
+    définition plus générale {{121-11-24, IEV:121-11-24}} donnée en électromagnétisme.
+    Le flux totalisé en théorie des circuits est obtenu en inversant la procédure
+    de calcul de la tension induite ({{121-11-28, IEV:121-11-28}}).
+dateAccepted: 2018-11-17
+id: a977907e-4195-55ed-88ac-c26846f7bbca
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  definition: 'for a given chemical reaction stem:[α]A + stem:[β]B + … ↔ stem:[σ]S
+    + stem:[τ]T + …, quantity given by
+
+
+    stem:[r = (1)/(alpha) ((d c ( A )))/((d t)) = (1)/(beta) ((d c ( B )))/((d t))
+    = (1)/(sigma) ((d c ( S )))/((d t)) = (1)/(tau) ((d c ( T )))/((d t))]
+
+
+    where A, B, ... denote reactants, S, T, ... denote products, −stem:[α], −stem:[β],
+    …, stem:[σ], stem:[τ], … are the corresponding stoichiometric numbers, and stem:[c](A),
+    stem:[c](B), …, stem:[c](S), stem:[c](T), … are the amount-of-substance concentrations
+    of A, B, ... S, T, ..., respectively'
+  examples: []
+  notes:
+  - The coherent SI unit of reaction rate is mole per cubic metre second, mol m^−3^
+    s^−1^.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 911edca3-0746-5788-8c2c-482b0e3cc6dd
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '3.2'
+    original: IEC Guide 104:2010, 3.2
+    ref: IEC Guide 104:2010
+    relationship:
+      type: identical
+  definition: publication covering all safety aspects of a specific group of products
+    within the scope of two or more {{product TCs, IEV:903-02-04}}
+  examples: []
+  notes:
+  - Group safety publications are primarily intended to be stand-alone {{product safety
+    publications, IEV:903-02-03}}, but may also be used by TCs as source material
+    in the preparation of their publications, as detailed in IEC Guide 104:2010, 7.3.
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: c5e2bf1e-4300-5bc3-95a8-c8c2a815f426
+status: Standard

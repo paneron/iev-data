@@ -1,0 +1,12 @@
+data:
+  definition: disparition de la tension d'alimentation pendant un intervalle de temps
+    dont la durée est comprise entre deux limites spécifiées
+  examples: []
+  notes:
+  - On considère qu'il y a coupure brève si la tension d'alimentation tombe à moins
+    de 1 % de la tension nominale, la limite inférieure de la durée étant généralement
+    de quelques dixièmes de seconde, tandis que sa limite supérieure est généralement
+    de l'ordre d'une minute (mais peut, dans certains cas, atteindre trois minutes).
+dateAccepted: '1990-08-01T00:00:00+00:00'
+id: 09f62bd6-ff6c-5eb1-8d0e-1c2a0e4a37ff
+status: Standard

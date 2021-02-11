@@ -1,0 +1,14 @@
+data:
+  definition: luminance dans une direction donnée issue de l'émission à la surface
+    d'un milieu photoluminescent dans des conditions d'éclairage spécifiées, comparée
+    à la luminance dans la même direction par le diffuseur parfait par réflexion éclairé
+    de manière identique
+  examples: []
+  notes:
+  - Le facteur de luminance luminescente dépend de la répartition spectrale d'énergie
+    de l'éclairage et cette grandeur est généralement spécifiée pour un illuminant
+    CIE donné.
+  - L'unité de facteur de luminance luminescente est un.
+dateAccepted: 2018-11-17
+id: 3cf7c576-6092-55ca-8635-ecdd004042eb
+status: Standard

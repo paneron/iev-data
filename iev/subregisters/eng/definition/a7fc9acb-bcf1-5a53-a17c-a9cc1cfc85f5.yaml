@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - clause: '10.1'
+    link: https://www.iso.org/standard/39976.html
+    original: ISO/IEC Guide 2:2004, 10.1, modified – The note from the title of Clause
+      10 in ISO/IEC Guide 2:2004 has been added to the entry. The parenthetical expression
+      following the term has been transferred to the term attribute "specific use".
+    ref: ISO/IEC Guide 2:2004
+    relationship:
+      modification: The note from the title of Clause 10 in ISO/IEC Guide 2:2004 has
+        been added to the entry. The parenthetical expression following the term has
+        been transferred to the term attribute "specific use".
+      type: modified
+  definition: publication of a national {{normative document, IEV:901-02-01}} based
+    on a relevant {{international standard, IEV:901-02-03}}, or endorsement of the
+    international standard as having the same status as a national normative document,
+    with any deviations from the international standard identified
+  examples: []
+  notes:
+  - The term “adoption” is sometimes used to cover the same concept as “taking over”,
+    e.g. “adoption of an international standard in a national standard”.
+  - A normative document can be said to be “implemented” in two different ways. It
+    may be applied in production, trade, etc., and it may be taken over, wholly or
+    in part, in another normative document. Through the medium of this second document,
+    it may then be applied, or it may again be taken over in yet another normative
+    document.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: a7fc9acb-bcf1-5a53-a17c-a9cc1cfc85f5
+status: Standard

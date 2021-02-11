@@ -1,0 +1,15 @@
+data:
+  definition: that polarization of a plane wave of given power flux density incident
+    from a specified direction, which results in maximum received power at the antenna
+    terminals, for that direction
+  examples: []
+  notes:
+  - If no direction is specified, the direction is assumed to be that of the highest
+    maximum received power, over all the directions in space.
+  - The receiving polarization of an antenna can be determined from the polarization
+    of the antenna employed as transmitting antenna, since, in the same plane of polarization,
+    the polarization ellipses have the same axial ratio, the same sense of polarization
+    and the same spatial orientation.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: a7718bdb-2876-5220-a3e4-303cf3828b39
+status: Standard

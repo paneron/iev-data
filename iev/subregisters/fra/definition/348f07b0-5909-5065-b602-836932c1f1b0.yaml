@@ -1,0 +1,14 @@
+data:
+  definition: 'nombre réel stem:[ϑ] tel que 0 ≤ stem:[ϑ] ≤ π, dont le cosinus est
+    le rapport du produit scalaire de deux vecteurs réels *stem:[U]* et *stem:[V]*
+    donnés au produit de leurs normes
+
+
+    stem:[vartheta = arccos ((U * V))/((| U | * | V |))]'
+  examples: []
+  notes:
+  - L'angle de deux vecteurs est toujours défini puisque le produit scalaire vérifie
+    l'inégalité stem:[| U * V | &lt;= | U | * | V |].
+dateAccepted: 2018-11-17
+id: 348f07b0-5909-5065-b602-836932c1f1b0
+status: Standard

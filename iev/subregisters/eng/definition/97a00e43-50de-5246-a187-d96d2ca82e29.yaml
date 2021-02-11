@@ -1,0 +1,11 @@
+data:
+  definition: a transmission process which may be used when the transmission channel
+    rate is higher than the input binary rate. The binary digits being transferred
+    are signalled at the digit rate of the channel and the transfer is interrupted
+    at intervals in order to produce the required mean binary rate. The interruption
+    is always for an integral number of digits periods
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 97a00e43-50de-5246-a187-d96d2ca82e29
+status: Standard

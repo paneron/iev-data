@@ -1,0 +1,12 @@
+data:
+  definition: point lié à une antenne, s'il existe, tel que sur une sphère ou sur
+    un cercle centré en ce point, la phase d'une composante spécifiée du champ dans
+    la région de champ lointain reste pratiquement constante, au moins dans le secteur
+    où le rayonnement est important
+  examples: []
+  notes:
+  - Certaines antennes ont des centres de phase différents suivant le plan du cercle
+    considéré.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: a63e1ff0-920b-5191-83d1-b4a0cb25ef86
+status: Standard

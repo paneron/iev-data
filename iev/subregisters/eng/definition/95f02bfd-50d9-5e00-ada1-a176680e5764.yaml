@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 845-01-34
+    link: null
+    original: MOD 845-01-34
+    ref: IEV
+    relationship:
+      type: modified
+  definition: the radiant power in a given direction and at a given point of a real
+    or hypothetical surface transmitted by an elementary beam passing through the
+    given point and propagating in the solid angle containing the given direction
+    divided by the product of the value of this solid angle, the area of section of
+    that beam containing the given point and the cosine of the angle between the normal
+    to that section and the direction of the beam
+  examples: []
+  notes:
+  - The surface may be that of a source or a surface emitting, receiving or intersecting
+    a light beam.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 95f02bfd-50d9-5e00-ada1-a176680e5764
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  definition: 'pour un bipôle résistif, élémentaire ou non, de bornes A et B, dérivée
+    du courant électrique  i dans le bipôle par rapport à la tension électrique u~AB~
+    ({{131-11-56, IEV:131-11-56}}) entre les bornes:
+
+
+    stem:[G_d = ((d i))/((d u_((AB))))]
+
+
+    où le courant est positif si le sens du courant est de A vers B et négatif dans
+    le cas contraire'
+  examples: []
+  notes:
+  - Pour une résistance idéale, la conductance différentielle G~d~ est égale à sa
+    conductance G.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: aecf74ee-aa98-5438-8d80-bd4ab95c1928
+status: Standard

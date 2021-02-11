@@ -1,0 +1,12 @@
+data:
+  definition: '{{logic operation, IEV:171-03-02}} with binary input and output {{variables,
+    IEV:103-01-05}}'
+  examples: []
+  notes:
+  - The two values of the variables are the Boolean values, generally referred as
+    0 and 1.
+  - An equivalent definition is given in {{IEV 351-53-07, IEV:351-53-07}} for control
+    technology.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 62c66ce0-e272-51f5-8458-c86a9bf88a91
+status: Standard

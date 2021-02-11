@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - clause: 725-12-01
+    link: null
+    original: 725-12-01 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: '58'
+    original: UIT RR 58 MOD
+    ref: ITU RR
+    relationship:
+      type: modified
+  definition: ensemble d'un ou plusieurs émetteurs ou récepteurs radioélectriques,
+    ou à la fois d'émetteurs et de récepteurs, y compris les équipements associés,
+    situé en un emplacement donné et destiné à un service de radiocommunication ou
+    à la radioastronomie
+  examples: []
+  notes:
+  - Chaque station radioélectrique est désignée d'après le service auquel elle participe
+    d'une façon permanente ou temporaire.
+  - L'emplacement donné peut être fixe ou mobile, et situé sur terre, sur mer, dans
+    l'atmosphère ou dans l'espace.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 360a94f0-cca5-5d67-a420-551f4bccbb12
+status: Standard

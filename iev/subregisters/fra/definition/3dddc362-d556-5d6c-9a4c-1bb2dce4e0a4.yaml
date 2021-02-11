@@ -1,0 +1,12 @@
+data:
+  definition: addition d'un nombre constant d'éléments de signal à intervalles réguliers
+    dans un signal numérique pour porter le débit numérique de sa valeur originale
+    à une valeur supérieure spécifiée
+  examples: []
+  notes:
+  - Les éléments de signal ajoutés ne servent pas normalement à transmettre des informations.
+  - Le rapport du débit numérique supérieur au débit numérique inférieur n'est pas
+    nécessairement entier, mais doit être rationnel, par exemple 64/62.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 3dddc362-d556-5d6c-9a4c-1bb2dce4e0a4
+status: Standard

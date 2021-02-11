@@ -1,0 +1,11 @@
+data:
+  definition: '{{timescale, IEV:702-04-11}} consisting of a periodic repetition of
+    {{cycles, IEV:103-05-08}} each of which is a succession of {{time intervals, IEV:113-01-10}}'
+  examples: []
+  notes:
+  - The individual time intervals comprising a single cycle need not all have the
+    same {{duration, IEV:113-01-13}}, but, ideally, all the cycles are identical,
+    any variations being constrained within specified limits.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: a38a784f-df95-5f44-bffc-e9d5c10e9331
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  definition: for a fluid with laminar flow in stem:[x]-direction, thus for which
+    stem:[v]~stem:[y]~ = stem:[v]~stem:[z]~ = 0 and stem:[v]~stem:[x]~ = stem:[v]~stem:[x]~
+    (stem:[z]) ≥ 0, where stem:[x], stem:[y], stem:[z] are Cartesian coordinates,
+    scalar quantity characterizing internal friction and equal to stem:[((tau_((x
+    z))))/((d v_x // d z))], where stem:[τ]~stem:[xz]~ is the shear stress in the
+    fluid
+  examples: []
+  notes:
+  - The coherent SI unit of dynamic viscosity is pascal second, Pa·s.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 6e0fc1c1-a793-5cc6-b738-7939164527b3
+status: Standard

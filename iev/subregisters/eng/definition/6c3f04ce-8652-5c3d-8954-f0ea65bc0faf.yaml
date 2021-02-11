@@ -1,0 +1,12 @@
+data:
+  definition: attribute of a colour image encoding indicating the kind of image condition
+    inherent in colour image data values prepared and represented in that encoding
+  examples: []
+  notes:
+  - Colour image data are referred to a particular image condition through image capture,
+    digitization, colour rendering and colour re-rendering processes.
+  - Typical image states are scene-referred, original-referred, output-referred and
+    picture-referred.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 6c3f04ce-8652-5c3d-8954-f0ea65bc0faf
+status: Standard

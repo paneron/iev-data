@@ -1,0 +1,22 @@
+data:
+  definition: 'time integral of spherical irradiance, stem:[E]~e,o~, at a given point
+    over a given duration, Δstem:[t]
+
+
+    stem:[H_((e,o)) = underset((Delta t))( int ) E_(e,o) d t]'
+  examples: []
+  notes:
+  - The radiant spherical exposure is the quotient of the radiant energy of all radiation
+    incident on the outer surface of an infinitely small sphere centred at the specified
+    point and the area of the diametrical cross-section of that sphere.
+  - The radiant spherical exposure is the appropriate radiometric quantity for describing
+    a dose for a photobiological or photochemical effect in a scattering medium (e.g.
+    light in skin). It is also the appropriate radiometric quantity for describing
+    the irradiation of microorganisms. The radiant spherical exposure is frequently
+    used incorrectly as a substitute for radiant exposure.
+  - The radiant spherical exposure is expressed in joule per square metre (J·m^−2^ =
+    W·s·m^−2^).
+  - This entry was numbered 845-01-45 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 00aee83c-8aa4-506d-90bc-2bfb1dd02ebc
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://webstore.iec.ch/publication/169
+    original: see IEV part 121
+    ref: IEC 60050-121
+    relationship:
+      type: related
+  definition: the value of the magnetic flux density remaining in a magnetized body
+    when, in the absence of a self-demagnetizing field, the applied magnetic field
+    strength is brought to zero
+  examples: []
+  notes:
+  - When the initial state is one of magnetic saturation, the remanent flux density
+    is termed "magnetic remanence".
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: a75ab838-5209-585d-93f9-2b8ac2fc1c0a
+status: Standard

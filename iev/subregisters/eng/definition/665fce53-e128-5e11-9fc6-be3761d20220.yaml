@@ -1,0 +1,13 @@
+data:
+  definition: net diameter of filament derived from the electromagnetic behaviour
+    between filaments
+  examples: []
+  notes:
+  - The hysteresis loss, stem:[Q]~h~, is given as stem:[Q]~h~ = (8/3stem:[π])stem:[fd]~f~stem:[ηJ]~ct~stem:[B]~m~
+    for a sufficiently high AC magnetic flux density stem:[B]~m~ to which stem:[Q]~h~
+    is proportional, where stem:[f] is frequency, stem:[d]~f~ is effective filament
+    diameter, stem:[J]~ct~ is transport critical current density and stem:[η] is volume
+    fraction of the superconductor.
+dateAccepted: '2015-11-01T00:00:00+00:00'
+id: 665fce53-e128-5e11-9fc6-be3761d20220
+status: Standard

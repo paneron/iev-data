@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 101-14-38
+    link: null
+    original: 101-14-38
+    ref: IEV
+    relationship:
+      type: identical
+  definition: argument of the cosine function in the representation of a sinusoidal
+    quantity
+  examples: []
+  notes:
+  - The term "instantaneous phase" is only used when the independent variable is time.
+  - For the quantity stem:[A]~m~ cos (stem:[ωt] + stem:[θ]~0~ )  the phase stem:[θ]  is
+    equal to stem:[ωt] + stem:[θ]~0~ .
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: 8fab2864-0198-5b4a-877f-ed76534315be
+status: Standard

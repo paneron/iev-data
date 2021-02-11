@@ -1,0 +1,11 @@
+data:
+  definition: 'matrice carrée complexe dont les éléments ont la propriété: stem:[A_((i
+    j)) = A_(j i)^( * )]'
+  examples: []
+  notes:
+  - Une matrice hermitienne *stem:[A]* est égale à son adjointe *stem:[A]*^H^.
+  - 2 Toutes les valeurs propres d'une matrice hermitienne sont réelles.
+  - Toute matrice symétrique à éléments réels est une matrice hermitienne.
+dateAccepted: 2018-11-17
+id: d97252fb-1fd3-5ddf-a54c-da63328d1edd
+status: Standard

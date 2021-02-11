@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1.34
+    link: https://webstore.iec.ch/publication/5397
+    original: IEC 61375-1:2012, 3.1.34
+    ref: IEC 61375-1:2012
+    relationship:
+      type: identical
+  definition: transmission du même message à un groupe de destinataires identifiés
+    par leur adresse de groupe
+  examples: []
+  notes:
+  - Le terme «distribution» est utilisé même si le groupe comprend tous les destinataires.
+dateAccepted: 2018-11-17
+id: 1f40e7cd-cbf9-5f45-afc9-22cf49b7750a
+status: Standard

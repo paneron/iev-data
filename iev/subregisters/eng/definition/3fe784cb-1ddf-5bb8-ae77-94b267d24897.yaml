@@ -1,0 +1,32 @@
+data:
+  authoritative_source:
+  - clause: 13-25
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-25, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: 'mean value of the {{information content, IEV:171-07-14}} of the events
+    in a finite set of mutually exclusive and jointly exhaustive events
+
+
+    stem:[H = sum_((i = 1))^n p ( x_i ) * I ( x_i ) = sum_((i = 1))^n p ( x_i ) *
+    log ( (1)/((p ( x_i ))) )]
+
+
+    where stem:[X = { x_1 , ... , x_n }] is the set of events stem:[x_i ( i = 1, ...
+    , n )], stem:[I ( x_i )] are their information contents and stem:[p ( x_i )] the
+    probabilities of their occurrences, subject to stem:[sum_((i = 1))^n p ( x_i )
+    = 1]'
+  examples:
+  - Let stem:[{ a , b , c }] be a set of three events and let stem:[p ( a ) = 0,5],
+    stem:[p ( b ) = 0,25] and stem:[p ( c ) = 0,25] be the probabilities of their
+    occurrences. The entropy of this set is stem:[H ( X ) = p ( a ) * I ( a ) + p
+    ( b ) * I ( b ) + p ( c ) * I ( c ) = 1,5 Sh].
+  notes: []
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 3fe784cb-1ddf-5bb8-ae77-94b267d24897
+status: Standard

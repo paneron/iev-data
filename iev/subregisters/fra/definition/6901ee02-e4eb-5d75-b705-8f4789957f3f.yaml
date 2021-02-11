@@ -1,0 +1,15 @@
+data:
+  definition: 'quotient de la réponse du récepteur, stem:[Y], par son excitation,
+    stem:[X]
+
+
+    stem:[s = (Y)/(X)]'
+  examples: []
+  notes:
+  - Si le signal du récepteur est stem:[Y]~0~ en l'absence d'excitation, et stem:[Y]~t~
+    pour une excitation stem:[X], la sensibilité est stem:[s = ((Y_t - Y_0))/(X)].
+  - En anglais, le terme "sensitivity" n'est plus usité.
+  - Cet article était numéroté 845-05-54 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 6901ee02-e4eb-5d75-b705-8f4789957f3f
+status: Standard

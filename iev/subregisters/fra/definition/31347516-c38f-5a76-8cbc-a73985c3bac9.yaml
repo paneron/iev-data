@@ -1,0 +1,14 @@
+data:
+  definition: rapport, généralement exprimé en décibels, du gain isotrope partiel
+    d'une antenne, dans une direction donnée et pour une polarisation rectiligne spécifiée,
+    au gain isotrope maximal d'une antenne constituée d'un conducteur rectiligne beaucoup
+    plus court que le quart de la longueur d'onde, normal à la surface d'un plan parfaitement
+    conducteur et orienté parallèlement au vecteur induction électrique qui caractérise
+    la polarisation spécifiée dans la direction donnée
+  examples: []
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle dans laquelle l'intensité
+    de rayonnement de l'antenne est maximale.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 31347516-c38f-5a76-8cbc-a73985c3bac9
+status: Standard

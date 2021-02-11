@@ -1,0 +1,17 @@
+data:
+  definition: '{{programmes d’ordinateurs, IEV:192-01-34}} indépendants de l’application,
+    qui fournissent des services aux logiciels d’application de manière telle que
+    la complexité de ces logiciels et de leur infrastructure reste cachée'
+  examples: []
+  notes:
+  - Le terme "intergiciel" désigne également une plateforme de distribution, c’est-à-dire
+    un {{protocole, IEV:351-56-14}} à un niveau supérieur à celui d’une communication
+    avec des ordinateurs ordinaires.
+  - Contrairement aux services de réseau de niveau inférieur qui gèrent une communication
+    simple entre des ordinateurs, l’intergiciel prend en charge la communication entre
+    les processus.
+  - Dans le contexte de l’AAD, un intergiciel AAD fournit des composants et des services
+    pour les applications AAD.
+dateAccepted: 2018-11-17
+id: 4d78174d-d383-5222-a1f4-93d8ce0197c3
+status: Standard

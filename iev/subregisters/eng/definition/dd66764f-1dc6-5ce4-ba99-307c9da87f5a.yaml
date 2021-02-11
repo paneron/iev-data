@@ -1,0 +1,10 @@
+data:
+  definition: mean value, taken over a period, of the absolute value of an alternating
+    quantity
+  examples: []
+  notes:
+  - For an alternating quantity stem:[x ( t )], the rectified value is stem:[bar |
+    x | = (1)/(T) int_( t_0)^( t_0 + T) | x ( t ) | d t], where stem:[T] is the period.
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: dd66764f-1dc6-5ce4-ba99-307c9da87f5a
+status: Standard

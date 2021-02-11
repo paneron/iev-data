@@ -1,0 +1,36 @@
+data:
+  definition: 'tarif dans lequel intervient une majoration du prix lorsque la puissance
+    appelée par le client vient à dépasser une limite fixée par l''abonnement
+
+
+    Par exemple:
+
+
+    prix stem:[p]~1~ par kWh, dans la limite d''une puissance de 10 kW,
+
+
+    prix stem:[p]~2~ pour tout kilowattheure consommé au-delà de la limite de 10 kW,
+
+
+    ou:
+
+
+    prix stem:[p]~1~ par kWh, dans la limite d''une puissance de 10 kW,
+
+
+    prix stem:[p]~2~ pour tous les kilowattheures consommés si la puissance a excédé
+    10 kW,
+
+
+    ou encore:
+
+
+    prix stem:[p]~1~ par kW de puissance souscrite,
+
+
+    prix stem:[p]~2~ par kW pris en dépassement au-delà de la puissance souscrite.'
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 0d961a95-63ec-50db-99c1-2412aaab387c
+status: Standard

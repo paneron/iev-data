@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: 702-08-61
+    link: null
+    original: 702-08-61 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: the ratio, generally expressed in decibels, of the power of the wanted
+    signal to that of the coexistent noise at a specified point in a transmission
+    channel, usually at the receiver output, under specified conditions
+  examples: []
+  notes:
+  - The signal cannot generally be separated from noise, and in practice the ratio
+    (signal+noise) to noise is measured.
+  - 'The specified conditions comprise among others:
+
+
+    – the nature and characteristics of the wanted signal,
+
+
+    – the nature and characteristics of the noise,
+
+
+    – the receiver and antenna characteristics such as the bandwidth.'
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ef521343-e465-525c-b225-ce2cc2ccb644
+status: Standard

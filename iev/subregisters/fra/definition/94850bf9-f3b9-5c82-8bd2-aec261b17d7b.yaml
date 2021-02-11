@@ -1,0 +1,18 @@
+data:
+  definition: opération effectuée sur un ensemble pour lequel une multiplication commutative
+    est définie, dont le résultat, pour deux éléments stem:[a] et stem:[b] de l'ensemble,
+    est l'élément unique stem:[q], s'il existe dans l'ensemble, telle que stem:[b
+    * q = a]
+  examples: []
+  notes:
+  - La division est définie pour les nombres rationnels et étendue à d'autres classes
+    de nombres, sauf la division par zéro, et à des entités mathématiques telles que
+    les polynômes, ainsi qu'aux grandeurs et aux unités.
+  - Dans une division stem:[a // b], le premier élément stem:[a] est appelé «dividende»
+    et le deuxième «diviseur».
+  - La division des entités stem:[a] et stem:[b] est exprimée par les mots «stem:[a]
+    divisé par stem:[b]» ou «stem:[a] par stem:[b]» et est notée stem:[(a)/(b)], stem:[a
+    // b] ou stem:[a b^(- 1)].
+dateAccepted: 2018-11-17
+id: 94850bf9-f3b9-5c82-8bd2-aec261b17d7b
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '3.8'
+    original: IEC Guide 104:2010, 3.8
+    ref: IEC Guide 104:2010
+    relationship:
+      type: identical
+  definition: condition dans laquelle il existe un défaut d'une protection simple
+    (mais pas d'une {{protection renforcée, IEV:903-02-08}}) d'un composant ou d'un
+    dispositif unique
+  examples: []
+  notes:
+  - Si une condition de premier défaut engendre une ou plusieurs autres conditions
+    de défaut, toutes sont considérées comme une seule condition de premier défaut.
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: d117d1ec-4172-5ac7-a690-d53cfa870c1d
+status: Standard

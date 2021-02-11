@@ -1,0 +1,17 @@
+data:
+  definition: energy associated with motion, defined for a particle in classical mechanics
+    by stem:[T = (1)/(2) m v^2], where stem:[m] is its mass and stem:[v] is its speed
+  examples: []
+  notes:
+  - 1 The kinetic energy of a body is given by the integral stem:[T = (1)/(2) int_D
+    v^2 d m,] where D is a domain containing the body. When the axis of rotation is
+    through the centre of mass, stem:[T] is also given by stem:[T = (1)/(2) m_t v_G^2
+    + (1)/(2) J omega^2], where stem:[m]~t~ is total mass, stem:[V]~G~ is speed of
+    the centre of mass, stem:[J] is moment of inertia relative to the axis of rotation,
+    and stem:[ω] is the magnitude of the angular velocity, and where stem:[v]~G~,
+    stem:[J], and stem:[ω] can be time-dependent.
+  - 2 In relativity, the dependence of the mass stem:[m] on the speed stem:[v] has
+    to be considered.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 57dd7108-8f68-545f-87e7-3f1e53bc7ac3
+status: Standard

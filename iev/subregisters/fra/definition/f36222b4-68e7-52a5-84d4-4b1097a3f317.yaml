@@ -1,0 +1,19 @@
+data:
+  definition: énergie émise, transférée ou reçue sous forme d'ondes électromagnétiques
+  examples: []
+  notes:
+  - 'L''énergie rayonnante peut être exprimée par l''intégrale par rapport au temps
+    du flux énergétique, stem:[Φ]~e~, pendant une durée donnée Δstem:[t]:
+
+
+    stem:[Q_e = int_((Delta t)) Phi_e d t]'
+  - L'énergie rayonnante est exprimée soit en fonction de la longueur d'onde, stem:[λ],
+    en fonction de la {{fréquence, IEV:103-06-02}}, stem:[ν], ou en fonction du <a
+    href="IEV845-21-026">nombre d'onde</a>, stem:[σ].
+  - La grandeur photométrique correspondante est l'"<a href="IEV845-21-037">énergie
+    lumineuse</a>". La grandeur correspondante pour les photons est l'"énergie photonique".
+  - L'énergie rayonnante est exprimée en joules (J = W·s).
+  - Cet article était numéroté 845-01-27 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: f36222b4-68e7-52a5-84d4-4b1097a3f317
+status: Standard

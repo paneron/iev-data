@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '5.1'
+    link: https://www.iso.org/standard/39976.html
+    original: Guide ISO/CEI 2:2004, 5.1
+    ref: ISO/IEC Guide 2:2004
+    relationship:
+      type: identical
+  definition: '{{norme, IEV:901-02-02}} de portée générale ou qui comporte des {{disposition,
+    IEV:901-05-01}}s d''ensemble pour un domaine particulier'
+  examples: []
+  notes:
+  - Une norme de base peut être utilisée comme une norme d'application directe ou
+    servir de base à d'autres normes.
+dateAccepted: 2018-11-17
+id: 7efb0f69-5226-54d1-b679-07b7194b167b
+status: Standard

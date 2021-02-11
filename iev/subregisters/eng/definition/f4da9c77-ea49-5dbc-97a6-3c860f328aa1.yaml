@@ -1,0 +1,15 @@
+data:
+  definition: "functional unit that generates an output variable the value of which\
+    \ depends on the sign of the value of its input variable according to the formula\n\
+    \nstem:[v ( t ) = { [[V_1],[0],[- V_1]] [[ for u ( t ) &gt; 0],[ for u ( t ) =\
+    \ 0],[ for u ( t ) 0]]]\n\nwhere<table>\r\n<tr>\n<td>stem:[t]</td>\n<td>is the\
+    \ time;</td>\n</tr>\r\n<tr>\n<td>\nstem:[u](stem:[t])</td>\n<td>is the input variable;</td>\n\
+    </tr>\r\n<tr>\n<td>\nstem:[v](stem:[t])</td>\n<td>is the output variable.</td>\n\
+    </tr>\r\n<tr>\n<td>\nstem:[V]~1~\n</td>\n<td>is a constant value of the output\
+    \ variable.</td>\n</tr>\r\n</table>"
+  examples: []
+  notes:
+  - This entry was numbered 351-32-23 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: f4da9c77-ea49-5dbc-97a6-3c860f328aa1
+status: Standard

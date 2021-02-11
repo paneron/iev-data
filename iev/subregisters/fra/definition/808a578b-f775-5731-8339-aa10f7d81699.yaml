@@ -1,0 +1,16 @@
+data:
+  definition: commande de flux telle que la rapidité à laquelle les données sont émises
+    d'un terminal de données soit au plus égale à la rapidité à laquelle les données
+    peuvent être reçues par le terminal opposé
+  examples: []
+  notes:
+  - Cette procédure peut s'appliquer entre un terminal de données et le centre de
+    commutation de données adjacent ou entre deux terminaux de données. Dans ce dernier
+    cas, la rapidité de transfert peut être commandée en fonction des exigences du
+    réseau ou du terminal de données opposé.
+  - Cette procédure peut être mise en oeuvre d'une façon indépendante sur les deux
+    sens de transmission de données, permettant ainsi des rapidités de transfert de
+    données différentes dans ces deux sens.
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 808a578b-f775-5731-8339-aa10f7d81699
+status: Standard

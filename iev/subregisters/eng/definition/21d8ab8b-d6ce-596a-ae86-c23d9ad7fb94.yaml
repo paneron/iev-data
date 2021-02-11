@@ -1,0 +1,10 @@
+data:
+  definition: three-terminal output circuit where the nominal values of the impedances
+    between the common terminal and each of the other two terminals are different
+  examples: []
+  notes:
+  - The common terminals of the input and the output need not necessarily both be
+    accessible, nor need they be at the same potential.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 21d8ab8b-d6ce-596a-ae86-c23d9ad7fb94
+status: Standard

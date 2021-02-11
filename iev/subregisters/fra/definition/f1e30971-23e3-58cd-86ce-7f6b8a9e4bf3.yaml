@@ -1,0 +1,12 @@
+data:
+  definition: propriété d'un élément de surface dont la luminance énergétique est
+    la même dans toutes les directions de l'hémisphère au-dessus de la surface
+  examples: []
+  notes:
+  - Pour un élément de surface dont le rayonnement a une répartition angulaire conforme
+    à la loi du cosinus de Lambert, l'intensité énergétique dans une direction est
+    proportionnelle au cosinus de l'angle entre cette direction et la normale à la
+    surface et atteint donc son maximum dans la direction de la normale.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: f1e30971-23e3-58cd-86ce-7f6b8a9e4bf3
+status: Standard

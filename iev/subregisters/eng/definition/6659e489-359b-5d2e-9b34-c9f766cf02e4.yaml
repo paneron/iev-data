@@ -1,0 +1,16 @@
+data:
+  definition: function assigning to any positive real number stem:[a] and any real
+    number stem:[b] the positive real number denoted by stem:[a^b] such that stem:[a^0
+    = 1], stem:[a^1 = a] and stem:[a^(b + c) = a^b * a^c] for any real numbers stem:[b]
+    and stem:[c]
+  examples: []
+  notes:
+  - The function which assigns to any real number stem:[x] the number stem:[a]^stem:[x]^
+    is the exponential function to the base stem:[a]. The function which assigns to
+    any positive real number stem:[x] the number stem:[x]^stem:[b]^ is a power function.
+  - The exponentiation can be extended to negative real number stem:[a] and integer
+    stem:[b], and to other mathematical entities, for example, complex numbers, matrices
+    and scalar quantities.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 6659e489-359b-5d2e-9b34-c9f766cf02e4
+status: Standard

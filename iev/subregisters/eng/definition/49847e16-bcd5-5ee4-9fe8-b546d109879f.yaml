@@ -1,0 +1,23 @@
+data:
+  definition: 'relative change in permittivity due to a change in temperature divided
+    by the change in temperature
+
+
+    stem:[T C epsilon = ((epsilon_T – epsilon_((ref))))/((epsilon_((ref)) ( T – T_((ref))
+    )))]
+
+
+    where
+
+
+    stem:[ε]~stem:[T]~ is the permittivity at temperature stem:[T];
+
+
+    stem:[ε]~ref~ is the permittivity at reference temperature stem:[T]~ref~'
+  examples: []
+  notes:
+  - The temperature coefficient of permittivity is generally expressed in megakelvins
+    to the power minus one (1/MK).
+dateAccepted: '2016-07-01T00:00:00+00:00'
+id: 49847e16-bcd5-5ee4-9fe8-b546d109879f
+status: Standard

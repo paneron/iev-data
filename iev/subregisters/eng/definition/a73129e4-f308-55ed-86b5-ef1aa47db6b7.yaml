@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - original: ICRU Report 51
+    ref: ICRU Report 51
+    relationship:
+      type: identical
+  definition: 'product of stem:[D] and stem:[Q] at a point in tissue, where stem:[D]
+    is the absorbed dose, stem:[Q] is the quality factor at that point
+
+
+    stem:[H] stem:[=] stem:[D] stem:[Q]'
+  examples: []
+  notes:
+  - This quantity is expressed in J kg^−1^ and the special name for the unit of dose
+    equivalent is the sievert (Sv).
+  - The values of stem:[Q] are specified by the International Commission on Radiological
+    Protection (ICRP). For beta, X, and gamma radiation stem:[Q] is taken to be equal
+    to unity for external radiation.
+  - The dose equivalent should not be taken as the equivalent dose to a tissue or
+    an organ. It is a separate radiation protection quantity.
+  - This entry was numbered 393-14-72 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: a73129e4-f308-55ed-86b5-ef1aa47db6b7
+status: Standard

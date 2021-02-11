@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - clause: 2.4.12
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.4.12
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: sonde combinant en une pièce une microsonde et un circuit de traitement
+    de signal
+  examples: []
+  notes:
+  - Plus la partie sensible du {{capteur, IEV:151-13-48}} est petite, 1) moins l’objet
+    de mesure connaît de perturbations; 2) plus le {{rapport signal sur bruit, IEV:161-06-04}}
+    de la mesure est élevé; 3) plus il est possible d'obtenir des données locales
+    de petite zone. Une microsonde intégrée est un {{dispositif, IEV:151-11-20}} constitué
+    d’une microsonde préparée par micro-usinage du silicium sous la forme d'une aiguille
+    microscopique et incorporant un circuit de traitement de signal. Les microsondes
+    intégrées réalisées en usinant les aiguilles de silicium selon un diamètre compris
+    entre plusieurs nanomètres et plusieurs micromètres et en les combinant avec un
+    circuit de conversion d’impédance, etc., sont exploitées comme {{ électrodes,
+    IEV:891-01-17}} microscopiques pour les organismes, les microscopes à effet tunnel
+    à balayage (STM), et les {{microscopes à force atomique, IEV:523-07-02}} (AFM).
+dateAccepted: 2018-11-17
+id: 24707b82-d1d9-5f75-b348-250c581bd3e5
+status: Standard

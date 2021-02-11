@@ -1,0 +1,12 @@
+data:
+  definition: for two matrices *stem:[A]* of type stem:[m] × stem:[p] and *stem:[B]*
+    of type stem:[p] × stem:[n], with elements stem:[Aik] and stem:[Bkj], respectively,
+    matrix *stem:[AB]* of type stem:[m] × stem:[n] with the elements stem:[(( A B
+    ))_((i j)) = sum_((k = 1))^p A_((i k)) B_(k j)^()].
+  examples: []
+  notes:
+  - The product only exists if the number of columns of the first matrix is equal
+    to the number of rows of the second matrix.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 97ff8803-0885-559d-af23-ac5ed2a9e502
+status: Standard

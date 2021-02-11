@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 444-06-04
+    link: https://webstore.iec.ch/publication/208
+    original: IEC 60050-444:2002, 444-06-04, modified – The second term "specified
+      range of an influence quantity" has been added and in the definition, "the relay"
+      has been replaced by "a measuring relay or protection equipment".
+    ref: IEC 60050-444:2002
+    relationship:
+      modification: The second term "specified range of an influence quantity" has
+        been added and in the definition, "the relay" has been replaced by "a measuring
+        relay or protection equipment".
+      type: modified
+  definition: '{{interval, IEV:103-01-12}} of an {{influence quantity, IEV:447-06-01}}
+    within which, under specified conditions, a {{measuring relay, IEV:447-01-02}}
+    or {{protection equipment, IEV:447-01-49}} meets the specified requirements'
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: d6b93951-0234-55be-a1e5-72ccaa424db6
+status: Standard

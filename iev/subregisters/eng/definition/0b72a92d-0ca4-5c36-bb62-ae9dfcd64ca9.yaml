@@ -1,0 +1,20 @@
+data:
+  definition: "linear time-invariant transfer element the transfer function of which\
+    \ may be written as a quotient of two polynomials in stem:[s]\n\nstem:[G ( s )\
+    \ = ((V ( s )))/((U ( s ))) = ((b_0 + b_1 * s + ... + b_m * s^m))/((a_0 + a_1\
+    \ * s + ... + a_n * s^n))] with stem:[aj] and stem:[bj] real, stem:[an] ≠ 0, stem:[bm]\
+    \ ≠ 0\n\nwhere<table>\r\n<tr>\n<td>\nstem:[ai], stem:[bi]\n</td>\n<td>are the\
+    \ polynomial coefficients;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is the\
+    \ complex variable of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n\
+    <td>is the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n\
+    <td>is the output transform.</td>\n</tr>\n</table>"
+  examples: []
+  notes:
+  - In real controlled systems, stem:[m] &lt; stem:[n]. With respect to mathematical
+    denomination these elements would have to be called "proper-fractional rational
+    transfer element" which is not usage.
+  - An element with dead time is an example for a non-rational transfer element.
+  - This entry was numbered 351-24-43 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 0b72a92d-0ca4-5c36-bb62-ae9dfcd64ca9
+status: Standard

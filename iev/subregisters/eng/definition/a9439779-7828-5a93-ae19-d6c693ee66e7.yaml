@@ -1,0 +1,12 @@
+data:
+  definition: for a polyphase line consisting of stem:[m] line conductors and one
+    neutral conductor, sum of the stem:[m] instantaneous powers expressed for each
+    line conductor by the product of the polyphase line-to-neutral voltage and the
+    corresponding line current
+  examples: []
+  notes:
+  - If there is no neutral conductor, the voltages between the line conductors and
+    any reference point have to be used instead of the polyphase line-to-neutral voltages.
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: a9439779-7828-5a93-ae19-d6c693ee66e7
+status: Standard

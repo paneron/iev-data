@@ -1,0 +1,33 @@
+data:
+  authoritative_source:
+  - clause: 2.1.1
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.1.1, modified – The preferred term "micro-electromechanical
+      device" has been replaced by "micro-electromechanical system" to reflect current
+      usage. Note 1 to entry has been revised for clarity, and the second sentence
+      has been transferred to Note 2 to entry.
+    ref: IEC 62047-1:2016
+    relationship:
+      modification: The preferred term "micro-electromechanical device" has been replaced
+        by "micro-electromechanical system" to reflect current usage. Note 1 to entry
+        has been revised for clarity, and the second sentence has been transferred
+        to Note 2 to entry.
+      type: modified
+  definition: '{{system, IEV:151-11-27}} composed of one or more integrated microsized
+    {{components, IEV:151-11-21}}, such as {{sensors, IEV:151-13-48}}, {{actuators,
+    IEV:151-13-49}}, {{transducers, IEV:151-13-34}}, resonators, {{oscillators, IEV:151-13-51}},
+    mechanical components, or {{electric circuits, IEV:131-11-07}}'
+  examples: []
+  notes:
+  - In the definition,  "microsized" is used to mean a size of less than a few millimetres.
+  - Technologies relating to MEMS are extremely diverse and include fundamental technologies
+    (such as design, material, processing, functional element, system control, energy
+    supply, {{bonding, IEV:523-06-01}} and assembly, electric circuit, and evaluation),
+    basic sciences (such as micro-science and engineering) as well as thermodynamics
+    on a micro-scale and {{microtribology, IEV:523-02-02}}.
+  - '"MEMS" is the acronym of "micro-electromechanical systems", but was used in the
+    past for "micro-electromechanical device". The singular and plural forms of the
+    term "MEMS" are identical.'
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 25d8d9d0-3952-54fd-9fa2-f609b0937c16
+status: Standard

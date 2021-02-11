@@ -1,0 +1,11 @@
+data:
+  definition: matrice carrée d'ordre stem:[n], d'éléments stem:[A]~stem:[ij]~, pour
+    laquelle les stem:[n] vecteurs *stem:[V]*~stem:[i]~ ayant pour coordonnées les
+    éléments de la ligne stem:[i], soit stem:[A]~stem:[ij]~ stem:[A]~stem:[i]1~, stem:[A]~stem:[i]2~,
+    …, stem:[A]~stem:[in]~, sont linéairement indépendants
+  examples: []
+  notes:
+  - Il est équivalent de considérer les stem:[n] vecteurs associés aux colonnes.
+dateAccepted: 2018-11-17
+id: ab77356f-d3ff-509c-b2b3-2be580c9c406
+status: Standard

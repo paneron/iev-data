@@ -1,0 +1,25 @@
+data:
+  definition: quotient of radiant flux weighted by the <a href="IEV845-21-035">spectral
+    luminous efficiency</a> and the corresponding radiant flux for a specified photometric
+    condition
+  examples: []
+  notes:
+  - The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+    If it is not specified, photopic vision is assumed and the symbol stem:[V] is
+    used. For other photometric conditions, the respective symbol for identification
+    shall be used.
+  - 'Luminous efficiency for photopic vision is expressed by
+
+
+    stem:[V = ((int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda))/((int_0^(oo)
+    Phi_((e , lambda)) ( lambda ) d lambda)) = (K)/((K_m))]
+
+
+    where stem:[Φ]~e,~stem:[λ] is spectral radiant flux, stem:[V](stem:[λ]) is spectral
+    luminous efficiency, stem:[λ] is wavelength, stem:[K] is luminous efficacy of
+    radiation, and stem:[K]~m~ is maximum luminous efficacy.'
+  - The luminous efficiency has unit one.
+  - This entry was numbered 845-01-57 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: f02383e3-052d-521e-826b-ad00b0450a8b
+status: Standard

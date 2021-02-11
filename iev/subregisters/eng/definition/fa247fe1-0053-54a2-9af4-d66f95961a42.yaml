@@ -1,0 +1,15 @@
+data:
+  definition: 'time relay in which the time delay starts when applying the power supply
+    and the control signal; the output momentarily switches for an interval to the
+    operate condition after the setting time has elapsed (see Figure 9)
+
+
+    image::/assets/images/parts/445/445-01-12en.gif[]'
+  examples: []
+  notes:
+  - 1 – Cycling the control signal during the time delay will not retrigger the time
+    delay.
+  - 2 – Manufacturer should specify if interval is fixed or variable.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: fa247fe1-0053-54a2-9af4-d66f95961a42
+status: Standard

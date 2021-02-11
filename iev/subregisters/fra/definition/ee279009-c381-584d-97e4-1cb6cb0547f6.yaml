@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - clause: 448-11-03
+    link: https://webstore.iec.ch/publication/211
+    original: IEC 60050-448:1995, 448-11-03, modifié – L'exemple a été mis avant la
+      Note 1 à l'article. La référence à <a href=IEV448-11-04>IEV 448-11-04</a> a
+      été ajoutée pour "système de protection".
+    ref: IEC 60050-448:1995
+    relationship:
+      modification: L'exemple a été mis avant la Note 1 à l'article. La référence
+        à <a href=IEV448-11-04>IEV 448-11-04</a> a été ajoutée pour "système de protection".
+      type: modified
+  definition: 'équipement qui intègre un ou plusieurs {{relais de protection, IEV:447-01-14}}
+    et, si nécessaire, des éléments logiques conçus pour assurer une ou plusieurs
+    fonctions de protection spécifiées
+
+
+
+
+    Note 1 à l''article: Un "équipement de protection" fait partie d''un {{"système
+    de protection", IEV:448-11-04}}. Par exemple, un équipement de protection à comparaison
+    de phase fait partie, à une extrémité, d''un système de protection à comparaison
+    de phases.'
+  examples:
+  - Dispositif de protection de distance, dispositif de protection à comparaison de
+    phases.
+  notes: []
+dateAccepted: 2018-11-17
+id: ee279009-c381-584d-97e4-1cb6cb0547f6
+status: Standard

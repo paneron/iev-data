@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1.7
+    original: IEC TS 80004-9:2017, 3.1.7
+    ref: IEC/TS 80004-9:2017
+    relationship:
+      type: identical
+  definition: '{{dispositif, IEV:511-01-01}} de haute précision utilisé pour travailler
+    avec des {{nanomatériaux, IEV:511-01-04}} à l''{{échelle nanométrique, IEV:511-01-03}}'
+  examples: []
+  notes:
+  - Dans le domaine des produits et des systèmes électrotechniques, les nanomanipulateurs
+    peuvent être utilisés comme sondes électriques in situ.
+dateAccepted: 2018-11-17
+id: cea42f44-ffc8-5147-aa00-d44dcaf9d8ee
+status: Standard

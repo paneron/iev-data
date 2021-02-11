@@ -1,0 +1,16 @@
+data:
+  definition: quantity of dimension 1 characterizing the relative importance of natural
+    convection and thermal conduction, defined by stem:[R a = ((l^3 rho^2 c_p g alpha_V
+    Delta T))/((eta lambda)) = ((l^3 g alpha_V Delta T))/((nu alpha))], where stem:[l]
+    is a specified length, stem:[ρ] is mass density, stem:[c]~stem:[p]~ is specific
+    heat capacity at constant pressure, stem:[g] is acceleration of free fall, stem:[α]~stem:[v]~
+    is the cubic expansion coefficient, stem:[T] is thermodynamic temperature, stem:[η]
+    is dynamic viscosity, stem:[λ] is thermal conductivity, and stem:[α] is thermal
+    diffusivity
+  examples: []
+  notes:
+  - The Rayleigh number is the product of the Grashof number stem:[Gr] and the Prandtl
+    number stem:[Pr], thus stem:[Ra] = stem:[Gr] ⋅ stem:[Pr].
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: e7798ffe-dcb6-5d44-bf88-7c80d16471b7
+status: Standard

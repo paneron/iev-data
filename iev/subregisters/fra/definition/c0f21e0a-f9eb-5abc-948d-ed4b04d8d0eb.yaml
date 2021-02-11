@@ -1,0 +1,32 @@
+data:
+  definition: 'a) d''un transformateur à deux enroulements (pour la prise principale):
+
+
+    puissance active absorbée à la fréquence assignée quand le courant assigné traverse
+    la (ou les) borne(s) de ligne de l''un des enroulements, les bornes de l''autre
+    enroulement étant court-circuitées et tout enroulement muni de prises étant connecté
+    sur sa prise principale
+
+
+    b) d''un transformateur à plus de deux enroulements, relatives à une certaine
+    paire d''enroulements (pour la prise principale):
+
+
+    puissance active absorbée à la fréquence assignée lorsqu''un courant correspondant
+    au courant assigné de celui des enroulements de la paire dont la puissance assignée
+    est la plus faible traverse la (ou les) borne(s) de ligne de l''un des enroulements,
+    les bornes de l''autre enroulement de la même paire étant court-circuitées, chaque
+    enroulement muni de prises étant connecté sur sa prise principale et l''autre
+    (ou les autres) enroulement(s) étant à circuit ouvert'
+  examples: []
+  notes:
+  - Les pertes dues à la charge peuvent également être considérées pour des prises
+    autres que la prise principale. Dans le cas de transformateurs à deux enroulements
+    le courant de référence est alors, pour chaque prise, égal au courant de prise.
+    Pour les transformateurs à plus de deux enroulements, le courant ou la puissance
+    de référence sont rapportées à une combinaison spécifiée de charges.
+  - Les pertes dues à la charge sont normalement rapportées à une température de référence
+    appropriée.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: c0f21e0a-f9eb-5abc-948d-ed4b04d8d0eb
+status: Standard

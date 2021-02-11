@@ -1,0 +1,30 @@
+data:
+  definition: 'quotient de l''inductance d''une bobine de géométrie spécifiée, placée
+    sur un noyau donné dans une position spécifiée, par le carré du nombre de spires
+    :
+
+
+    stem:[AL] = stem:[L]/stem:[N]^2^
+
+
+    où stem:[L] est l''inductance de la bobine placée sur le noyau et stem:[N] le
+    nombre de ses spires'
+  examples: []
+  notes:
+  - 1 – L'inductance spécifique est reliée étroitement à la perméance stem:[Λ] ; cette
+    dernière se réfère à la réluctance d'un noyau tandis que l'inductance spécifique
+    se réfère au noyau avec enroulement.
+  - 2 – En principe, l'inductance spécifique stem:[AL] peut correspondre aux diverses
+    formes de perméabilité définies dans l'IEV, par exemple la perméabilité d'amplitude,
+    mais sauf spécification contraire on suppose qu'il correspond à la limite de la
+    perméabilité effective lorsque le champ magnétique tend vers zéro.
+  - '3 – La notion de "facteur de spires" (stem:[α]) a été utilisée dans le passé.
+    Elle était définie comme le nombre de spires qu''une bobine de géométrie spécifiée,
+    placée sur un noyau donné dans une position spécifiée, doit avoir pour que son
+    inductance soit égale à l''unité (normalement un millihenry):
+
+
+    stem:[α] = stem:[N]/stem:[√L]'
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 85a93006-3d9f-537c-a96b-ebbaacbebe8a
+status: Standard

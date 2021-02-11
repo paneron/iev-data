@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.6
+    link: https://webstore.iec.ch/publication/5397
+    original: IEC 61375-1:2012, 3.1.6
+    ref: IEC 61375-1:2012
+    relationship:
+      type: identical
+  definition: transmission quasi simultanée des mêmes informations vers plusieurs
+    destinataires
+  examples: []
+  notes:
+  - La diffusion sur TCN n'est pas considérée comme fiable, c’est-à-dire que certains
+    destinataires peuvent recevoir les informations et d’autres pas.
+dateAccepted: 2018-11-17
+id: 014b077f-fec7-5e9d-abd5-c20d6c46b317
+status: Standard

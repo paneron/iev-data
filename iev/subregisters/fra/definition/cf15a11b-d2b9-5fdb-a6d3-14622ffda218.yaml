@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1.80
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.80
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: couche du modèle OSI ({{IEV 716-01-20, IEV:716-01-20}}) permettant d'assurer
+    des transferts de données en mode point à point ou en mode diffusion, entre différents
+    équipements situés sur le même bus
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: cf15a11b-d2b9-5fdb-a6d3-14622ffda218
+status: Standard

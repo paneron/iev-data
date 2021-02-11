@@ -1,0 +1,12 @@
+data:
+  definition: mathematical model that produces transformations, which are applied
+    to scene or original-referred image data to produce image data describing a reproduction,
+    which is as close as possible to being an appearance match to the original
+  examples: []
+  notes:
+  - Transformations produced by corresponding colour reproduction models will generally
+    depend on the luminance ratio and colour gamut of the scene or original and the
+    output medium.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 6e050f5a-405b-55db-96d3-1e08f30c0d44
+status: Standard

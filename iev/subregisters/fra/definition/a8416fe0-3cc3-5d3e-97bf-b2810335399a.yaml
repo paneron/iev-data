@@ -1,0 +1,13 @@
+data:
+  definition: quotient de luminance réfléchie en un point d'une surface d'un milieu
+    non autorayonnant dans une direction donnée par la luminance du diffuseur parfait
+    par réflexion irradié et observé de manière identique
+  examples: []
+  notes:
+  - Le facteur de luminance réfléchie d'une surface non neutre spectralement dépend
+    de la <a href="IEV845-21-030">répartition spectrale relative</a> de l'éclairage.
+    Cette grandeur doit être spécifiée.
+  - L'unité de facteur de luminance réfléchie est un.
+dateAccepted: 2018-11-17
+id: a8416fe0-3cc3-5d3e-97bf-b2810335399a
+status: Standard

@@ -1,0 +1,25 @@
+data:
+  definition: "element of a set containing the real numbers and other elements, which\
+    \ may be represented by an ordered pair of real numbers (stem:[a], stem:[b]),\
+    \ with following properties:\n\n\n\n* the pair (stem:[a], 0) represents the real\
+    \ number stem:[a], \n\n* an addition is defined by stem:[( a_1 , b_1 ) + ( a_2\
+    \ , b_2 ) = ( a_1 + a_2 , b_1 + b_2 )],\n\n* a multiplication is defined by stem:[(\
+    \ a_1 , b_1 ) xx ( a_2 , b_2 ) = ( a_1 a_2 - b_1 b_2 , a_1 b_2 + a_2 b_1 )]"
+  examples: []
+  notes:
+  - All properties of real numbers (operations and limits) are extended to complex
+    numbers except the order relation.
+  - The complex number defined by the pair (stem:[a], stem:[b]) is denoted by stem:[c
+    = a + j b] where j is the imaginary unit ({{IEV 102-02-10, IEV:102-02-10}}) represented
+    by the pair (0, 1), stem:[a] is the real part and stem:[b] the imaginary part.
+    A complex number may also be expressed as stem:[c = | c | ( cos phi + j sin phi
+    ) = | c | e^(j phi)] where stem:[| c |] is a non-negative real number called modulus
+    and stem:[φ] a real number called argument.
+  - In electrotechnology, a complex number is usually denoted by an underlined letter
+    symbol, for example stem:[underset(_)(c)].
+  - The set of complex numbers is denoted by ℂ (C with a vertical bar in the left
+    arc) or *C*. This set without zero is denoted by an asterisk to the symbol, for
+    example ℂ*.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 35395e45-4a89-5dc2-b94f-1e9bc27de685
+status: Standard

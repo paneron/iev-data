@@ -1,0 +1,14 @@
+data:
+  definition: intrinsic angular momentum of a particle
+  examples: []
+  notes:
+  - 1 The expectation value of spin in any direction is stem:[ℏ sqrt(s ( s + 1 ))]
+    where stem:[s] is spin quantum number and stem:[ħ] is reduced Planck constant.
+  - 2 The spin in a given direction is quantized as multiples or half-multiples of
+    the reduced Planck constant. In the direction of the quantization axis stem:[z],
+    the component of the spin is quantized as stem:[S]~stem:[z]~ = stem:[m]~stem:[s]~stem:[ħ],
+    stem:[m]~stem:[s]~ = stem:[s], stem:[s] − 1, … − stem:[s], where stem:[m]~stem:[s]~
+    is spin magnetic quantum number and stem:[s] is spin quantum number.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: fe9a8e54-be65-54a4-a75b-0c1ee0eb19bd
+status: Standard

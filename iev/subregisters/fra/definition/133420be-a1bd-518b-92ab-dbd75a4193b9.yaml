@@ -1,0 +1,10 @@
+data:
+  definition: '{{opération booléenne dyadique, IEV:171-03-08}} dont le résultat a
+    la valeur booléenne 0 si et seulement si le premier {{opérande, IEV:171-03-04}}
+    a la valeur booléenne 0 et le second la valeur booléenne 1'
+  examples: []
+  notes:
+  - L’implication est notée stem:[a -&gt; b].
+dateAccepted: 2018-11-17
+id: 133420be-a1bd-518b-92ab-dbd75a4193b9
+status: Standard

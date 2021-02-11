@@ -1,0 +1,11 @@
+data:
+  definition: addressable {{storage device, IEV:171-04-14}} directly controlled by
+    a {{processor, IEV:171-04-01}}
+  examples: []
+  notes:
+  - Internal storage is used to store programs while they are being processed.
+  - Internal storage includes {{main storage, IEV:171-04-21}} and possibly other kinds
+    of storage devices such as cache memory and registers.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 6a6dde4b-c908-5e34-9ee3-8a0bdf11883d
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 3.1.55
+    link: https://webstore.iec.ch/publication/6749
+    original: IEC 62280:2014, 3.1.55
+    ref: IEC 62280:2014
+    relationship:
+      type: identical
+  definition: identificateur qui est assigné à chaque entité
+  examples: []
+  notes:
+  - L’identificateur de source et de destination peut être un nom, un nombre ou un
+    motif de bits arbitraire, et sera utilisé pour une transmission de sécurité.
+  - L’identificateur de source et de destination est rajouté d’habitude aux données
+    utilisateur.
+dateAccepted: 2018-11-17
+id: 16ff89dc-70bc-5952-a354-8cf09a2323c2
+status: Standard

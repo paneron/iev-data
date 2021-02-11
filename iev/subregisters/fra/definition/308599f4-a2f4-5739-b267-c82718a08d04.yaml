@@ -1,0 +1,13 @@
+data:
+  definition: 'moyenne arithmétique des éclairements lumineux verticaux, stem:[E]~v,v~,
+    en un point dans la plage des angles azimutaux stem:[- (pi)/(2) &lt;= phi &lt;=
+    (pi)/(2)]
+
+
+    stem:[E_((v ,sc)) = (1)/(pi) int_((- (pi)/(2)))^(((pi)/(2))) E_((v ,v)) d phi]'
+  examples: []
+  notes:
+  - L'éclairement semi-cylindrique est exprimé en lux (lx = lm·m^−2^).
+dateAccepted: 2018-11-17
+id: 308599f4-a2f4-5739-b267-c82718a08d04
+status: Standard

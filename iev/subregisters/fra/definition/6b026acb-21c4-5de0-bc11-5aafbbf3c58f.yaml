@@ -1,0 +1,18 @@
+data:
+  definition: '{{état stable, IEV:692-02-02}} dans lequel un {{événement plausible,
+    IEV:692-01-08}} peut occasionner des {{pertes de charge, IEV:692-01-16}}, des
+    fonctionnements d''éléments au-delà de leurs caractéristiques assignées, des tensions
+    de jeux de barres ou la fréquence du réseau hors des plages de tolérances, des
+    {{déclenchements en cascade, IEV:692-03-08}} ou de l’instabilité
+
+
+    image::/assets/images/parts/692/692-fig6-fr.png[Figure 6 - Exemples d’états d’un
+    réseau d’énergie électrique et de la situation de fonctionnement correspondante]'
+  examples: []
+  notes:
+  - En état d’alerte, un événement plausible supplémentaire peut entraîner un {{état
+    instable, IEV:692-02-03}}.
+  - Cet article portait le numéro 191-22-06 dans l’IEC 60050-191:1990.
+dateAccepted: 2018-11-17
+id: 6b026acb-21c4-5de0-bc11-5aafbbf3c58f
+status: Standard

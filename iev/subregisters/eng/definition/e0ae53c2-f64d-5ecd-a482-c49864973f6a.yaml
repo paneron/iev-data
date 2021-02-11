@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.53
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.53
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: sequence of "1" and "0" symbols which serves to delimit the beginning
+    or the end of a frame
+  examples: []
+  notes:
+  - Flags which would appear in the transmitted data are modified by bit-stuffing,
+    as defined for instance in ISO/IEC 13239.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: e0ae53c2-f64d-5ecd-a482-c49864973f6a
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  definition: state of a software item that prevents it from performing as required
+  examples: []
+  notes:
+  - Software faults are specification faults, design faults, programming faults, compiler-inserted
+    faults, or faults introduced during software maintenance.
+  - A software fault may be dormant until activated by a specific trigger ({{192-03-23,
+    IEV:192-03-23}}).
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: e92799d7-b248-51cf-b877-36abe42477b8
+status: Standard

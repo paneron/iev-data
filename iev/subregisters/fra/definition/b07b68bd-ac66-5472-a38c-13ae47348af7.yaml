@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 702-04-02
+    link: null
+    original: 702-04-02
+    ref: IEV
+    relationship:
+      type: identical
+  definition: signal tel que la caractéristique qui représente des informations est
+    susceptible à tout instant de prendre une quelconque des valeurs d'un intervalle
+    continu
+  examples: []
+  notes:
+  - Par exemple, un signal analogique peut suivre, de façon continue, les valeurs
+    d'une autre grandeur physique représentant des informations.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: b07b68bd-ac66-5472-a38c-13ae47348af7
+status: Standard

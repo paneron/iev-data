@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.64
+    link: https://webstore.iec.ch/publication/6749
+    original: IEC 62280:2014, 3.1.64
+    ref: IEC 62280:2014
+    relationship:
+      type: identical
+  definition: données représentant les états ou événements d’un processus utilisateur,
+    sans données additionnelles
+  examples: []
+  notes:
+  - Dans le cas d’une communication entre des équipements de sécurité, les données
+    utilisateur contiennent des données de sécurité.
+dateAccepted: 2018-11-17
+id: 3a260c6f-0022-57ab-9001-41476e76f1f9
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  definition: the time during automatic reclosing when the power line or phase is
+    not connected to any network voltage
+  examples: []
+  notes:
+  - 'For radial fed power lines the dead time is equal to the autoreclose open time.
+
+
+    See figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-en.gif[]'
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: 6484b5e4-9dbf-576a-bea2-2f2ecb752c3c
+status: Standard

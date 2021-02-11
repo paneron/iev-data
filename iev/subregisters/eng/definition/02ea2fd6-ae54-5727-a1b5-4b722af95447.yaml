@@ -1,0 +1,11 @@
+data:
+  definition: vector pointing in the direction of motion of a minute amount of air
+    surrounding the point of consideration, the magnitude of the vector being equal
+    to the speed of motion of this air “parcel” (i.e. the local wind speed)
+  examples: []
+  notes:
+  - The vector at any point is thus the time derivative of the position vector of
+    the air “parcel” moving through the point.
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: 02ea2fd6-ae54-5727-a1b5-4b722af95447
+status: Standard

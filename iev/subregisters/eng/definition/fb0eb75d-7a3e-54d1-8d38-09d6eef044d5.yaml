@@ -1,0 +1,19 @@
+data:
+  definition: 'the mean value of the international relative sunspot number for the
+    month n obtained by the following equation:
+
+
+    stem:[R_((12)) = (1)/((12)) [ ((R_((n - 6)) + R_((n + 6))))/(2) + underset(k)(
+    sum ) R_k ]]
+
+
+    for stem:[k] = stem:[n] − 5, stem:[n] − 4, ..., stem:[n], ..., stem:[n] + 5
+
+
+    where stem:[R]~stem:[k]~ is the mean international relative sunspot number for
+    the stem:[k]th month'
+  examples: []
+  notes: []
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: fb0eb75d-7a3e-54d1-8d38-09d6eef044d5
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  definition: image state associated with image data that represents the colour space
+    coordinates of the elements of a <a href="IEV845-32-045">hardcopy</a> or <a href="IEV845-32-046">softcopy</a>,
+    encompassing both original-referred image data and output-referred image data
+  examples: []
+  notes:
+  - When the phrase "picture-referred" is used as a qualifier to an object, it implies
+    that the object is in a picture-referred image state. For example, picture-referred
+    image data are image data in a picture-referred image state.
+  - Picture-referred image data will generally be colour rendered for a specific real
+    or virtual imaging medium and viewing condition.
+  - Picture-referred image data can include image data that do not originate from
+    an original scene, such as text, line art, vector graphics and other forms of
+    original artwork.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 1c4d675d-3836-59d7-96d8-b0bef16f7a86
+status: Standard

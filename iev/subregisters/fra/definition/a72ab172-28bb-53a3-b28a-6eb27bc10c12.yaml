@@ -1,0 +1,16 @@
+data:
+  definition: source de lumière LED comportant au moins un culot PCB ou ne comportant
+    aucun culot, et intégrant au moins un boîtier LED
+  examples: []
+  notes:
+  - Un module LED peut être un <a href="IEV845-27-059">module LED intégré</a> (module
+    LEDi), un <a href="IEV845-27-060">module LED semi-intégré</a> (module LEDsi),
+    ou un <a href="IEV845-27-061">module LED non intégré</a> (module LEDni).
+  - Un module LED est habituellement conçu pour faire partie intégrante d'une lampe
+    LED ou d'un luminaire LED.
+  - 'Un module LED peut inclure un ou plusieurs des éléments suivants: composants
+    électriques, optiques, mécaniques et thermiques, interfaces et appareillage de
+    commande.'
+dateAccepted: 2018-11-17
+id: a72ab172-28bb-53a3-b28a-6eb27bc10c12
+status: Standard

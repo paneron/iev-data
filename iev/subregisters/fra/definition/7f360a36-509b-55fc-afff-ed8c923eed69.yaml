@@ -1,0 +1,66 @@
+data:
+  definition: placement d'une valeur dans un ordre ordonné qui détermine, au moment
+    de la décision, quelle action doit être ensuite exécutée lorsque plusieurs de
+    ces actions sont requises simultanément
+  examples: []
+  notes:
+  - 'Les fonctions de commande les plus importantes agissant sur un processus sont
+    habituellement classées dans l''ordre de priorité suivant:<table cellspacing="10">
+
+    <tr>
+
+    <td>Fonction de commande requise</td>
+
+    <td>Priorité</td>
+
+    </tr>
+
+    <tr>
+
+    <td>sauvegarde</td>
+
+    <td>1</td>
+
+    </tr>
+
+    <tr>
+
+    <td>intervention</td>
+
+    <td>2</td>
+
+    </tr>
+
+    <tr>
+
+    <td>commande en boucle ouverte</td>
+
+    <td>3</td>
+
+    </tr>
+
+    <tr>
+
+    <td>commande en boucle fermée</td>
+
+    <td>4</td>
+
+    </tr>
+
+    <tr>
+
+    <td>optimisation</td>
+
+    <td>5</td>
+
+    </tr>
+
+    </table>
+
+
+    Dans ce tableau, la fonction de commande affectée au nombre le plus bas a la priorité
+    la plus élevée.'
+  - Cet article était numéroté 351-31-07 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 7f360a36-509b-55fc-afff-ed8c923eed69
+status: Standard

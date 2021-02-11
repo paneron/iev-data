@@ -1,0 +1,11 @@
+data:
+  definition: accumulative duration of the time intervals during which a {{fuel cell
+    power system, IEV:485-09-01}} generates electric power
+  examples: []
+  notes:
+  - The generating time includes both the duration that the power system supplies
+    electricity to the grid and the duration that the generating power is consumed
+    for the {{parasitic load, IEV:485-09-08}} only.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: d9d1130e-2983-5067-ab2c-527f253e8468
+status: Standard

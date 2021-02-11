@@ -1,0 +1,29 @@
+data:
+  definition: 'vecteur *rot* stem:[*U*] associé en tout point d''un domaine déterminé
+    de l''espace à un vecteur *stem:[U]*, égal à la limite du quotient de l''intégrale,
+    sur une surface fermée S, du produit vectoriel de l''élément vectoriel de surface
+    et du vecteur *stem:[U]*, par le volume de l''intérieur de la surface, lorsque
+    celle-ci est contenue dans une sphère dont le rayon tend vers zéro
+
+
+    stem:[rot U = underset((V -&gt; 0))((lim)) (1)/(V) underset(S)( ∯ ) e_n xx U d
+    A]
+
+
+    où *stem:[e]*~n~dstem:[A] est l''élément vectoriel de surface orienté vers l''extérieur
+    et stem:[V] est le volume'
+  examples: []
+  notes:
+  - 'En coordonnées cartésiennes orthonormées, les trois coordonnées du rotationnel
+    sont
+
+
+    stem:[((del U_z))/((del y)) - ((del U_y))/((del z)) , ((del U_x))/((del z)) -
+    ((del U_z))/((del x)) , ((del U_y))/((del x)) - ((del U_x))/((del y))].'
+  - Le rotationnel d'un vecteur polaire est un vecteur axial et celui d'un vecteur
+    axial est un vecteur polaire.
+  - Le rotationnel du champ vectoriel *stem:[U]* est noté stem:[rot U] ou stem:[grad
+    xx U]. Dans certains textes anglais, il est noté stem:[curl U].
+dateAccepted: 2018-11-17
+id: 70c0ae34-204c-5759-8fd0-902722d32915
+status: Standard

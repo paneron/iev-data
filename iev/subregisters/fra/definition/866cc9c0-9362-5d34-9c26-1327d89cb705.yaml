@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - clause: '2.3'
+    link: https://www.iso.org/standard/29316.html
+    original: ISO/CEI 17000:2004, 2.3, modifiée – Les références aux autres termes
+      dans l'ISO/CEI 17000 ont été remplacées par des hyperliens aux entrées dans
+      la VEI.
+    ref: ISO/IEC 17000:2004
+    relationship:
+      modification: Les références aux autres termes dans l'ISO/CEI 17000 ont été
+        remplacées par des hyperliens aux entrées dans la VEI.
+      type: modified
+  definition: activité d'évaluation de la conformité réalisée par une personne ou
+    une organisation qui a un intérêt dans l'utilisation de l'objet
+  examples: []
+  notes:
+  - Parmi les personnes ou les organisations qui réalisent des activités d'évaluation
+    de la conformité par seconde partie figurent, par exemple, les acheteurs ou utilisateurs
+    de {{produits, IEV:902-02-03}} ou les clients potentiels qui cherchent à s'appuyer
+    sur un système de management d'un fournisseur ou sur des organisations représentant
+    ces intérêts.
+  - Voir la Note 1 à l'article en {{902-01-02, IEV:902-01-02}}.
+dateAccepted: 2018-11-17
+id: 866cc9c0-9362-5d34-9c26-1327d89cb705
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  definition: quantité numériquement égale à la plus petite fréquence de modulation
+    pour laquelle le module de la fonction de transfert en bande de base devient égal
+    à une fraction spécifiée, généralement la moitié, de sa valeur à la fréquence
+    zéro
+  examples: []
+  notes:
+  - La largeur de bande est principalement limitée dans les fibres multimodales par
+    la distorsion modale et la dispersion du matériau, dans les fibres unimodales
+    par la dispersion du matériau et la dispersion de guidage.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 9d2063b5-0095-5006-8dc0-d2b72068bd89
+status: Standard

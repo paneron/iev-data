@@ -1,0 +1,18 @@
+data:
+  definition: 'système polyphasé de stem:[m] grandeurs, qui ont la même amplitude
+    et les phases à l''origine
+
+
+    stem:[vartheta_0 - 2 pi ((( i - 1 ) k))/(m)]
+
+
+    où stem:[vartheta_0] est la phase à l''origine d''une des grandeurs, stem:[i]
+    prend les valeurs 1, 2, ..., stem:[m], et stem:[k] est une caractéristique du
+    système, égale à l''un des entiers 0, 1, 2, ..., stem:[m] − 1'
+  examples: []
+  notes:
+  - Le système polyphasé symétrique est un système polyphasé dégénéré pour stem:[k]
+    = 0 et pour certaines combinaisons de stem:[k] et stem:[m].
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: 7c71c6eb-a808-55b8-aead-6471bd62764d
+status: Standard

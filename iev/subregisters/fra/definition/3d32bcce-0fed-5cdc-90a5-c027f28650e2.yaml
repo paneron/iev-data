@@ -1,0 +1,10 @@
+data:
+  definition: signal d’entrée qui doit être appliqué ou retiré en plus de l’alimentation
+    afin d’assurer le fonctionnement du relais temporisé
+  examples: []
+  notes:
+  - Le signal de commande est fourni par un appareil distinct conçu pour fermer ou
+    ouvrir un circuit électrique.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: 3d32bcce-0fed-5cdc-90a5-c027f28650e2
+status: Standard

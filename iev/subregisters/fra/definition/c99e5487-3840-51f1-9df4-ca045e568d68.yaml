@@ -1,0 +1,20 @@
+data:
+  definition: module de l'inverse du facteur de réflexion complexe, généralement exprimé
+    en décibels
+  examples: []
+  notes:
+  - 'Si on peut définir des impédances, le facteur d''adaptation est donné par la
+    formule:
+
+
+    stem:[- 20 lg | r | = 20 lg | ((underset(_)(Z) - underset(_)(Z)^( '' )))/((underset(_)(Z)
+    + underset(_)(Z)^( '' ))) |]
+
+
+    où stem:[Z] est l''impédance caractéristique d''une ligne de transmission avant
+    une discontinuité ou l''impédance d''une source, et stem:[Z]′ est l''impédance
+    après la discontinuité ou l''impédance de la charge vue de l''accès commun à la
+    source et à la charge.'
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: c99e5487-3840-51f1-9df4-ca045e568d68
+status: Standard

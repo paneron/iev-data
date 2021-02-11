@@ -1,0 +1,21 @@
+data:
+  definition: "relation binaire ℛ entre éléments stem:[a] et stem:[b] d'un ensemble\
+    \ donné, ayant les propriétés suivantes:\n\n * réflexivité: stem:[a]ℛstem:[a]*,*\
+    \ \n\n* antisymétrie: si stem:[a]ℛstem:[b] et stem:[b]ℛstem:[a] alors stem:[a]\
+    \ = stem:[b]*,* \n\n* transitivité: si stem:[a]ℛstem:[b] et stem:[b]ℛstem:[c]\
+    \ alors stem:[a]ℛstem:[c], pour des éléments quelconques stem:[a], stem:[b] et\
+    \ stem:[c] de l'ensemble donné"
+  examples: []
+  notes:
+  - On dit que l'ensemble donné est ordonné par la relation ℛ.
+  - Une relation d'ordre est un ordre total si l'une au moins des relations stem:[a]ℛstem:[b]
+    et stem:[b]ℛstem:[a] est vraie pour tout couple d'éléments stem:[a] et stem:[b].
+    L'ordre usuel des nombres réels est un ordre total car stem:[a] ≤ stem:[b] ou
+    stem:[b] ≤ stem:[a].
+  - Une relation d'ordre est un ordre partiel si, pour au moins deux éléments stem:[a]
+    et stem:[b], ni stem:[a]ℛstem:[b] ni stem:[b]ℛstem:[a] n'est vraie. Des exemples
+    sont la relation de divisibilité pour les nombres entiers naturels et l'inclusion
+    pour les sous-ensembles d'un ensemble donné contenant au moins deux éléments.
+dateAccepted: 2018-11-17
+id: 98460e78-6995-5e6c-8355-1e5c05e25ba6
+status: Standard

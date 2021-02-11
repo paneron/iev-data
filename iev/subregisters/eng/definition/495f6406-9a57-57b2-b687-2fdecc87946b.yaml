@@ -1,0 +1,13 @@
+data:
+  definition: the totality of digits and possibly others characters at a point in
+    the network which locate the called party, or those digits which are necessary
+    for forward routing
+  examples: []
+  notes:
+  - The digits comprising the address information sent by the calling party may be
+    changed by translation and/or digit absorption as a connection is progressively
+    set up through the network, but the new and/or remaining digits at each point
+    constitute the address information.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 495f6406-9a57-57b2-b687-2fdecc87946b
+status: Standard

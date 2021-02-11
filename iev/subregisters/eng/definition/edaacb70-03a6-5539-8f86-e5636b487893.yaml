@@ -1,0 +1,35 @@
+data:
+  definition: 'law relating the illuminance, stem:[E]~v~, produced on a surface (which
+    is normal to the direction of the light source and sufficiently distant for the
+    light source to be considered as a <a href="IEV845-21-033">point source</a>) by
+    a light source to the luminous intensity, stem:[I]~v~, of the light source in
+    the direction of the surface, to the distance, stem:[d], between the surface and
+    the light source, and to the atmospheric transmissivity, stem:[T], which is assumed
+    to be uniform
+
+
+    stem:[E_v = ((I_v))/((d^2)) T^(d // d_0)]
+
+
+    where stem:[d]~0~ is the length specified in the definition of stem:[T]'
+  examples: []
+  notes:
+  - 'The formula in the definition is sometimes written:
+
+
+    stem:[E_v = ((I_v))/((d^2)) T^(delta)]
+
+
+    where the exponent, stem:[δ], in stem:[Tδ] is the numerical value of the distance,
+    stem:[d], measured with stem:[d]~0~ as "unit".'
+  - 'Taking into account the relationship between atmospheric transmissivity, stem:[T],
+    and <a href="IEV845-31-018">meteorological optical range</a>, stem:[v], given
+    in Note 2 to entry of the definition of "meteorological optical range", Allard''s
+    law can also be written as:
+
+
+    stem:[E_v = ((I_v))/((d^2)) ( 0,05^(d // v) )].'
+  - This entry was numbered 845-11-27 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: edaacb70-03a6-5539-8f86-e5636b487893
+status: Standard

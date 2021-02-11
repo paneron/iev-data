@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.7
+    original: IEC 62102:2005, 3.1.7
+    ref: IEC 62102:2005
+    relationship:
+      type: identical
+  definition: circuit qui est dans l'équipement et dont la surface de contact accessible
+    est limitée et qui est conçu et protégé de telle manière que, dans les conditions
+    normales de fonctionnement et dans les conditions de premier défaut, les tensions
+    ne dépassent pas les valeurs limites spécifiées
+  examples: []
+  notes:
+  - Les circuits TRT sont classés en circuits TRT-0, TRT-1, TRT-2 et TRT-3.
+dateAccepted: 2018-11-17
+id: 7c9f7b3f-ef9e-5f93-8206-e1c99653a174
+status: Standard

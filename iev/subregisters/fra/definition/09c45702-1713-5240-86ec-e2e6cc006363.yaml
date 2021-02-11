@@ -1,0 +1,15 @@
+data:
+  definition: '{{indisponibilité non différable, IEV:692-04-05}} pour laquelle le
+    matériel associé est remis automatiquement en service dans un intervalle de temps
+    spécifié
+
+
+    image::/assets/images/parts/692/692-fig4-fr.png[Figure 4 - Relations entre indisponibilités]'
+  examples: []
+  notes:
+  - La durée de cet intervalle de temps est normalement inférieure à une minute.
+  - Une indisponibilité transitoire implique généralement une remise en service automatique
+    (programmes de protection).
+dateAccepted: 2018-11-17
+id: 09c45702-1713-5240-86ec-e2e6cc006363
+status: Standard

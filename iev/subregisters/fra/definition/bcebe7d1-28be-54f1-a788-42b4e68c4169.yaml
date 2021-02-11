@@ -1,0 +1,31 @@
+data:
+  definition: 'profil d''indice à gradient selon lequel le carré de l''indice de réfraction
+    décroît dans le coeur suivant une loi faisant intervenir une puissance de la distance
+    à l''axe :
+
+
+    stem:[n]^2^ (stem:[r]) = stem:[n]^2^~1~ [1 – 2 Δ (stem:[r] / stem:[а])^g^]
+
+
+    pour stem:[r] ≤ stem:[a], où :
+
+
+    stem:[n](stem:[r]) est l''indice de réfraction en fonction du rayon,
+
+
+    stem:[n]~1~, est l''indice de réfraction sur l''axe,
+
+
+    stem:[a] est le rayon du coeur,
+
+
+    stem:[g] est un paramètre qui caractérise la forme du profil,
+
+
+    Δ est un paramètre qui est égal au contraste d''indice lorsque l''indice de réfraction
+    est constant dans la gaine'
+  examples: []
+  notes: []
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: bcebe7d1-28be-54f1-a788-42b4e68c4169
+status: Standard

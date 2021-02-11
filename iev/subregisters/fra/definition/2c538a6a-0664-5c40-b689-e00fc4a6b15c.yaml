@@ -1,0 +1,24 @@
+data:
+  definition: état d'une image associé aux données d'images qui représentent les coordonnées
+    d'espace chromatique des éléments d'une image soumise à un rendu des couleurs
+    approprié à un dispositif de sortie réel ou virtuel spécifié et à des conditions
+    de vision spécifiées
+  examples: []
+  notes:
+  - Lorsque l'expression "en référence à la sortie" est utilisée comme qualificatif
+    d'un objet, elle implique que l'état de cet objet est un état d'image en référence
+    à la sortie. Par exemple, les données d'images en référence à la sortie sont des
+    données d'images dont l'état est un état en référence à la sortie.
+  - Les données d'images en référence à la sortie se rapportent au dispositif de sortie
+    et aux conditions de vision spécifiés. Une scène simple peut être soumise à un
+    rendu des couleurs selon une variété de représentations en référence à la sortie
+    en fonction des conditions d'observation de sortie, des limites de supports et/ou
+    des visées artistiques.
+  - Les données d'images en référence à la sortie peuvent devenir le point de départ
+    d'un processus de reproduction ultérieur. Par exemple, les données d'images sRVB
+    en référence à la sortie sont fréquemment considérées comme le point de départ
+    d'un nouveau rendu des couleurs effectué par une imprimante conçue pour la réception
+    de données d'images sRVB.
+dateAccepted: 2018-11-17
+id: 2c538a6a-0664-5c40-b689-e00fc4a6b15c
+status: Standard

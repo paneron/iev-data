@@ -1,0 +1,10 @@
+data:
+  definition: traffic which has used the resources of a given network but is for destinations
+    outside
+  examples: []
+  notes:
+  - The sources may be located outside or inside the network, which corresponds respectively
+    to transit traffic or originating outgoing traffic.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 8ef452dd-6a2e-506c-ae60-7e4f4d6da129
+status: Standard

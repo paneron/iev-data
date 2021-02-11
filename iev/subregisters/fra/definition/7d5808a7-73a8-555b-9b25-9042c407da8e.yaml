@@ -1,0 +1,13 @@
+data:
+  definition: dans un ensemble muni d'une addition, élément unique stem:[n], s'il
+    existe, tel que stem:[a] + stem:[n] = stem:[a] pour tout élément stem:[a]
+  examples: []
+  notes:
+  - Pour les nombres, l'élément neutre pour l'addition est le nombre zéro, noté 0.
+    Pour les vecteurs, l'élément neutre est le vecteur zéro, noté *0* ou stem:[vec
+    0]. Pour les matrices, l'élément neutre est la {{matrice nulle, IEV:102-06-07}}.
+    Pour des grandeurs scalaires d'une nature donnée, l'élément neutre est une grandeur
+    de même nature dont la valeur numérique est nulle.
+dateAccepted: 2018-11-17
+id: 7d5808a7-73a8-555b-9b25-9042c407da8e
+status: Standard

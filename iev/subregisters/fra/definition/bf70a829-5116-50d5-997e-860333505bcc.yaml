@@ -1,0 +1,13 @@
+data:
+  definition: fonction dont à la fois l'argument et la valeur sont des fonctions
+  examples: []
+  notes:
+  - Un exemple de transformation est la transformation de Fourier, où l’argument est
+    une fonction du temps et la valeur est la transformée de Fourier de cette fonction.
+    Lorsque l’argument, la valeur, ou les deux, sont des ensembles ordonnés d’entités,
+    une transformation linéaire est souvent représentée par une matrice.
+  - Pour des raisons historiques, certaines transformations sont appelées opérateurs,
+    par exemple l'opérateur nabla (IEC 60050-102, {{102-05-18, IEV:102-05-18}}).
+dateAccepted: 2018-11-17
+id: bf70a829-5116-50d5-997e-860333505bcc
+status: Standard

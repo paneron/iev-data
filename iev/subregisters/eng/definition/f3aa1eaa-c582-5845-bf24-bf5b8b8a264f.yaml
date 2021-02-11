@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.38
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.38
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: frame containing all information necessary to forward it to its final
+    destination, without knowledge of the previous frame's contents
+  examples: []
+  notes:
+  - Datagrams do not use a previous connection establishment and they are not acknowledged
+    at the link layer.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: f3aa1eaa-c582-5845-bf24-bf5b8b8a264f
+status: Standard

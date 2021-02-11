@@ -1,0 +1,14 @@
+data:
+  definition: type de composant de toute entité de {{cellule élémentaire à combustible,
+    IEV:485-08-01}}, qui apparaît dans toute {{cellule élémentaire, IEV:485-05-02}}
+    d'une {{pile à combustible, IEV:485-06-01}}
+  examples:
+  - 'Des parties répétées sont par exemple: l''{{anode, IEV:485-02-04}}, l''{{électrolyte,
+    IEV:485-03-01}}, la {{cathode, IEV:485-02-05}}, la {{plaque bipolaire, IEV:485-06-04}},
+    et la {{couche de diffusion du gaz, IEV:485-04-05}}.'
+  notes:
+  - Voir aussi "{{partie non répétée, IEV:485-06-13}}".
+  - Voir aussi "{{pile réduite, IEV:485-06-02}}".
+dateAccepted: 2018-11-17
+id: c90609ac-8d6c-5442-8304-aad9423fb8bf
+status: Standard

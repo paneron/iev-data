@@ -1,0 +1,9 @@
+data:
+  definition: clamping in which the blanking level is maintained at a specified value
+  examples: []
+  notes:
+  - Where the line synchronizing signal is a pulse, black-level clamping takes place
+    in the back porch.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 172c61b3-705f-5627-9488-0f711be5474e
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  definition: "critère (ou contrainte) appliqué à un système, en vertu duquel ce dernier\
+    \ doit être capable de remplir sa (ses) fonctions en cas de défaillance unique\n\
+    \nEXEMPLE\n\n\n\n.  Toute défaillance unique détectable à l’intérieur de systèmes\
+    \ de sécurité simultanément avec des défauts identifiables mais non détectables.\
+    \ \n\n.  Toutes les pannes causées par la défaillance unique. \n\n.  Tous les\
+    \ défauts du système et des actions intempestives qui causent ou sont causés par\
+    \ la conception de base de l'événement qui nécessite la fonction de sécurité."
+  examples: []
+  notes:
+  - La défaillance unique peut se produire avant, ou à n’importe quel moment, pendant
+    un événement prévu lors de la conception initiale pour lequel le système doit
+    fonctionner.
+  - Cet article était numéroté 393-18-27 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: edd4d522-4ca2-5420-acdc-262e184f0e3f
+status: Standard

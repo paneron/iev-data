@@ -1,0 +1,11 @@
+data:
+  definition: '{{opération booléenne, IEV:171-03-05}} dont le résultat a la valeur
+    0 si et seulement si tous les {{opérandes, IEV:171-03-04}} ont la valeur booléenne
+    0'
+  examples: []
+  notes:
+  - La disjonction des variables stem:[a] et stem:[b] est notée stem:[a vv b] (U+2228)
+    (stem:[a] ou stem:[b]).
+dateAccepted: 2018-11-17
+id: f281cfef-7cb7-5d83-a6b7-b6b5f42fa7c2
+status: Standard

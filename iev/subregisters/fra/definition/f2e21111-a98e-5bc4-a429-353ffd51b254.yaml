@@ -1,0 +1,13 @@
+data:
+  definition: qualifie une immittance d'entrée, de sortie ou de transfert lorsque
+    les autres accès ont des impédances de fermeture nulles, ou un rapport de transfert
+    direct ou inverse lorsque l'accès correspondant au numérateur a une impédance
+    de fermeture nulle
+  examples: []
+  notes:
+  - Des exemples dans la CEI 60027-2 sont l’admittance d’entrée en court-circuit,
+    l’impédance d’entrée en court-circuit et le rapport de transfert inverse du courant
+    en court-circuit.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: f2e21111-a98e-5bc4-a429-353ffd51b254
+status: Standard

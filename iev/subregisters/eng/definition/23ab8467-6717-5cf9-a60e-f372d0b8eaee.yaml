@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '3.1'
+    link: https://webstore.iec.ch/publication/6370
+    original: IEC 62047-6:2009, 3.1
+    ref: IEC 62047-6:2009
+    relationship:
+      type: identical
+  definition: highest value of the applied force in a {{cycle, IEV:103-05-08}}
+  examples: []
+  notes:
+  - This definition is a modified version of a definition in ASTM E 1823-05a.
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: 23ab8467-6717-5cf9-a60e-f372d0b8eaee
+status: Standard

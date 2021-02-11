@@ -1,0 +1,13 @@
+data:
+  definition: opération par laquelle on réduit les valeurs instantanées d'un signal
+    qui sont au-delà d'un seuil fixé, ou en dehors de l'intervalle compris entre deux
+    seuils fixés, les autres valeurs instantanées du signal étant conservées
+  examples: []
+  notes:
+  - 'La réduction des valeurs instantanées peut être brusque ou progressive.
+
+
+    Exemples de limitation: écrêtage; éminçage; épiétage.'
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 4de0ac84-8252-5cfc-9a59-df963581544d
+status: Standard

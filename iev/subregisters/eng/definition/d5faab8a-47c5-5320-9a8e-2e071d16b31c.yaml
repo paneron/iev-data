@@ -1,0 +1,19 @@
+data:
+  definition: 'for a resistive two-terminal element or two-terminal circuit with terminals
+    A and B, derivative of the voltage stem:[u]~AB~ &amp;lsqb;{{131-11-56, IEV:131-11-56}}&amp;rsqb;
+    between the terminals with respect to the electric current stem:[i] in the element
+    or circuit:
+
+
+    stem:[R_d = ((d u_((AB))))/((d i))]
+
+
+    where the electric current is taken as positive if its direction is from A to
+    B and negative in the opposite case'
+  examples: []
+  notes:
+  - For an ideal resistor, the differential resistance stem:[R]~d~ is equal to its
+    resistance stem:[R].
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: d5faab8a-47c5-5320-9a8e-2e071d16b31c
+status: Standard

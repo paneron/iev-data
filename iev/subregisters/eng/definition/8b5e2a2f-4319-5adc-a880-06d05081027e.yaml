@@ -1,0 +1,20 @@
+data:
+  definition: the medium in which a variable electric field produces an electric current
+    density vector stem:[vec J] whose magnitude in a given direction is small relative
+    to that of the vector stem:[((del vec D))/((del t))] in a particular frequency
+    band
+  examples: []
+  notes:
+  - 'For a sinusoidal wave in an isotropic medium, the medium is dielectric if the
+    following relation is satisfied:
+
+
+    stem:[(sigma)/((epsilon_0 omega)) ≪ epsilon_r^( '' )]
+
+
+    where stem:[epsilon_r^( '' )] is the relative real permittivity, stem:[ε]~0~ is
+    the electric constant, stem:[σ] is the conductivity, stem:[ω] is the angular frequency.'
+  - An anisotropic medium may be dielectric only in certain directions.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 8b5e2a2f-4319-5adc-a880-06d05081027e
+status: Standard

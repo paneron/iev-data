@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 3.6.2
+    link: https://webstore.iec.ch/publication/25837
+    original: IEC 62873-2:2016, 3.6.2
+    ref: IEC 62873-2:2016
+    relationship:
+      type: identical
+  definition: valeur de courant correspondant à l’intersection des courbes donnant
+    les caractéristiques de la durée maximale de coupure en fonction du courant pour
+    deux dispositifs de protection à maximum de courant
+  examples: []
+  notes:
+  - Le courant d'intersection est la valeur limite au dessus de laquelle, pour deux
+    dispositifs de protection à maximum de courant placés en série, le dispositif
+    de protection amont assure généralement, mais pas nécessairement, une protection
+    de secours pour l'autre dispositif de protection.
+  - '{{Les caractéristiques stem:[I]^2^stem:[t], IEV:442-05-59}} peuvent être utilisées
+    à la place des caractéristiques temps–courant.'
+dateAccepted: 2018-11-17
+id: cdeaecdf-e874-5431-aacc-ffac19ad6b81
+status: Standard

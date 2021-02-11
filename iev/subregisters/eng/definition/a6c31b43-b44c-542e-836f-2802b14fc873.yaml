@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: 704-01-03
+    link: https://webstore.iec.ch/publication/240
+    original: IEC 60050-704:1993, 704-01-03, modified – The definition has been reformulated
+      to adapt to usage in control technology.
+    ref: IEC 60050-704:1993
+    relationship:
+      modification: The definition has been reformulated to adapt to usage in control
+        technology.
+      type: modified
+  definition: 'signal each information parameter of which directly represents the
+    respective variable quantity
+
+
+    Note 1 to entry:  An analog signal may be a continuous-value signal or a discrete-value
+    signal as well as a continuous-time or a discrete-time signal. Examples may be
+    the pressure in a pneumatic final controlling element with continuous-value and
+    continuous-time information parameter (value of the pressure) as well as a position-modulated
+    pulse signal as an output signal of a computer based controller.
+
+
+    Note 2 to entry: This entry was numbered 351-21-53 in IEC 60050-351:2006.'
+  examples: []
+  notes: []
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: a6c31b43-b44c-542e-836f-2802b14fc873
+status: Standard

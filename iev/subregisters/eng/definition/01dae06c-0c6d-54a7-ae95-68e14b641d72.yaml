@@ -1,0 +1,13 @@
+data:
+  definition: 'for a regular square matrix *stem:[A]*, square matrix *stem:[A]*^−1^
+    such that: *stem:[AA]*^−1^ = *stem:[A]*^−1^*stem:[A]* = *stem:[E]*, where *stem:[E]*
+    is the unit matrix'
+  examples: []
+  notes:
+  - The inverse of a square matrix *stem:[A]* = (stem:[Aij]) is denoted by *stem:[A]*^−1^
+    = (stem:[Aij])^−1^, with elements denoted by (*stem:[A]*^−1^)~stem:[ij]~. The
+    notation (stem:[Aij]^−1^) must not be used because it means the matrix constructed
+    from inverse elements of *stem:[A]*.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 01dae06c-0c6d-54a7-ae95-68e14b641d72
+status: Standard

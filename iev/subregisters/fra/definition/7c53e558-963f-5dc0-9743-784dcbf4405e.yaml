@@ -1,0 +1,13 @@
+data:
+  definition: phénomène se produisant dans un système, lorsqu'un élément à action
+    par intégration est suivi par un élément non linéaire fonctionnant dans son domaine
+    de saturation; il en résulte un retard de la réponse de la variable de sortie
+    à un changement de signe de la variable d'entrée
+  examples: []
+  notes:
+  - Dans une boucle d'asservissement, ce retard dans la réponse de la variable de
+    sortie peut provoquer un dépassement excessif de la variable commandée.
+  - Cet article était numéroté 351-24-16 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 7c53e558-963f-5dc0-9743-784dcbf4405e
+status: Standard

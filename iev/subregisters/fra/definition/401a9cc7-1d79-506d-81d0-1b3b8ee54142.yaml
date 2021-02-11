@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 725-14-32
+    link: null
+    original: 725-14-32 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: modulation à spectre étalé dans laquelle la fréquence porteuse est modifiée
+    automatiquement à intervalles rapprochés, par choix pseudoaléatoire, dans un ensemble
+    de fréquences qui couvre une bande de fréquences de largeur beaucoup plus grande
+    que celle strictement nécessaire à la transmission des informations
+  examples: []
+  notes:
+  - La cadence des sauts de fréquence peut être plus rapide ou plus lente que le débit
+    numérique du signal à transmettre.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 401a9cc7-1d79-506d-81d0-1b3b8ee54142
+status: Standard

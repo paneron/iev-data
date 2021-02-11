@@ -1,0 +1,17 @@
+data:
+  definition: 'complément à un du rapport du carré de la perméance mutuelle stem:[Λij]
+    relative à deux éléments de circuit stem:[i] et stem:[j] au produit de leurs perméances
+    propres stem:[Λii] et stem:[Λjj]
+
+
+    stem:[sigma_((i j)) = 1 - ((Lambda_(i j)^2))/((Lambda_((i i)) Lambda_((j j))))]'
+  examples: []
+  notes:
+  - 'Le facteur de dispersion inductive est lié au facteur de couplage inductif stem:[kij]
+    par la formule:
+
+
+    stem:[k_(i j)^2 = 1 - sigma_((i j))]'
+dateAccepted: 2018-11-17
+id: 43fdc24a-f430-5d2d-bccc-ecbbd48f5fee
+status: Standard

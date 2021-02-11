@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 826-12-08
+    link: https://webstore.iec.ch/publication/266
+    original: IEC 60050-826:2004, 826-12-08, modified – Reference to PEN, PEL and
+      PEM conductors removed, reference to running rails added.IEC 62128-1:2013, 3.1.13
+    ref: IEC 60050-826:2004
+    relationship:
+      modification: Reference to PEN, PEL and PEM conductors removed, reference to
+        running rails added.IEC 62128-1:2013, 3.1.13
+      type: modified
+  definition: conductor or conductive part intended to be energized in normal use
+  examples: []
+  notes:
+  - This concept does not necessarily imply a risk of electric shock.
+  - By convention, this does not include the running rails and parts connected to
+    them.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 4b728c65-dc83-5859-83ad-2a5a97bf85fc
+status: Standard

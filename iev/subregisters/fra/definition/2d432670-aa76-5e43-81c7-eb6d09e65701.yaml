@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '5.1'
+    original: VIM 5.1
+    ref: JCGM VIM
+    relationship:
+      type: identical
+  definition: étendue d’échelle que l’on obtient pour une position donnée des commandes
+    d’un appareil de mesure
+  examples: []
+  notes:
+  - Le calibre nominal est normalement exprimé par ses limites inférieure et supérieure.
+    Lorsque la limite inférieure est zéro, le calibre est habituellement exprimé par
+    la seule limite supérieure.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 2d432670-aa76-5e43-81c7-eb6d09e65701
+status: Standard

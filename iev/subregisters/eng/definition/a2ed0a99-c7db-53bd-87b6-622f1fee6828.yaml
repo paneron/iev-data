@@ -1,0 +1,13 @@
+data:
+  definition: time required for a detector output to rise from a stated low percentage
+    to a stated high percentage of the maximum value when a steady input is instantaneously
+    applied
+  examples: []
+  notes:
+  - A value of 10 % is usually considered to be the low percentage value, whereas
+    a value of 90 % is usually considered to be the high percentage value.
+  - The rise time is expressed in seconds (s).
+  - This entry was numbered 845-05-60 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: a2ed0a99-c7db-53bd-87b6-622f1fee6828
+status: Standard

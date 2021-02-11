@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: '4'
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 4, modified – Addition of information useful for
+      the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: '{{binary prefix, IEV:112-01-27}} used to form the multiple 2^40^ of
+    a measurement unit'
+  examples:
+  - One tebibit = 1 Tibit = (1 024)^4^ bit.
+  notes:
+  - The prefix tebi has for origin terabinary, (2^10^)^4^, derived from the SI prefix
+    tera, (10^3^)^4^.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: a69ae4f3-deaa-5279-b887-88d6c57f5808
+status: Standard

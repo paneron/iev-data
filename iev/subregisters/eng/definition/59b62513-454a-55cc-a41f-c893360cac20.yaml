@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 702-02-13
+    link: null
+    original: 702-02-13
+    ref: IEV
+    relationship:
+      type: identical
+  definition: the limit of the natural logarithm of the ratio of values at a given
+    frequency of a specified component of an electromagnetic field at two points aligned
+    in the direction of propagation of a guided or plane wave or of a wave practically
+    plane in a limited space domain divided by the distance between the two points
+    when this distance tends to zero
+  examples: []
+  notes:
+  - The propagation coefficient is a complex quantity usually a function of frequency
+    and has the dimension of reciprocal length.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 59b62513-454a-55cc-a41f-c893360cac20
+status: Standard

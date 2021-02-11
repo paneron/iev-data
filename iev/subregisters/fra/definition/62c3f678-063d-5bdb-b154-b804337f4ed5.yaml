@@ -1,0 +1,18 @@
+data:
+  definition: 'quotient du flux énergétique absorbé, stem:[Φ]~a~, par le flux énergétique
+    incident, stem:[Φ]~m~
+
+
+    stem:[alpha = ((Phi_a))/((Phi_m))]'
+  examples: []
+  notes:
+  - Le facteur d'absorption est également définie spectralement par rapport à la longueur
+    d'onde, auquel cas, "spectral" est ajouté devant le nom de la grandeur.
+  - En raison de la conservation de l'énergie, stem:[α] + stem:[ρ] + stem:[τ] = 1
+    sauf lors de l'observation d'un <a href="IEV845-21-017">rayonnement polarisé</a>,
+    où stem:[ρ] est le facteur de réflexion et stem:[τ] est le facteur de transmission.
+  - L'unité de facteur d'absorption est un.
+  - Cet article était numéroté 845-04-75 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 62c3f678-063d-5bdb-b154-b804337f4ed5
+status: Standard

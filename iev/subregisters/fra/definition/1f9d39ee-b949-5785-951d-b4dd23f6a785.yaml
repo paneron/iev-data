@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.58
+    link: https://webstore.iec.ch/publication/5397
+    original: IEC 61375-1:2012, 3.1.58, modifié
+    ref: IEC 61375-1:2012
+    relationship:
+      type: modified
+  definition: pont MAC tel que défini dans l’IEEE 802.1D
+  examples: []
+  notes:
+  - MAC signifie "Contrôle d’Accès au Support" (de l’anglais Medium Access Control),
+    sous-couche au sein de la couche liaison décidant quel dispositif est autorisé
+    à émettre vers lebus.
+dateAccepted: 2018-11-17
+id: 1f9d39ee-b949-5785-951d-b4dd23f6a785
+status: Standard

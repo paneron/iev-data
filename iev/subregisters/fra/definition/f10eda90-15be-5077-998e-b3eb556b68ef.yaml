@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '3.5'
+    link: https://webstore.iec.ch/publication/7005
+    original: IEC 62430:2009, définition 3.5
+    ref: IEC 62430:2009
+    relationship:
+      type: identical
+  definition: attribut quantifiable d’un aspect environnemental
+  examples:
+  - Les paramètres environnementaux englobent le type et la quantité de matériaux
+    utilisés (masse, volume), la consommation d'énergie, les {{émission, IEV:904-01-11}}s,
+    le taux de recyclabilité, etc.
+  notes: []
+dateAccepted: 2018-11-17
+id: f10eda90-15be-5077-998e-b3eb556b68ef
+status: Standard

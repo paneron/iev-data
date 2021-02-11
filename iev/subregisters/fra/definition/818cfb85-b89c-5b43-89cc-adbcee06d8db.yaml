@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://webstore.iec.ch/publication/64648
+    original: CEI 61400-1
+    ref: IEC 61400-1
+    relationship:
+      type: identical
+  definition: fonction de répartition, utilisée pour décrire la loi de probabilité
+    des vitesses du vent sur un intervalle de temps étendu
+  examples: []
+  notes:
+  - Les fonctions de répartition usuelles sont les lois de Rayleigh et de Weibull.
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: 818cfb85-b89c-5b43-89cc-adbcee06d8db
+status: Standard

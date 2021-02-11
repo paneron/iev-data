@@ -1,0 +1,14 @@
+data:
+  definition: application-neutral {{computer programs, IEV:192-01-34}} providing services
+    to application software in a way that the complexity of these application software
+    and their infrastructure remains hidden
+  examples: []
+  notes:
+  - The term "middleware" also denotes a distribution platform, i.e. a {{protocol,
+    IEV:351-56-14}} at a higher level than that of ordinary computer communication.
+  - In contrast to lower-level network services handling simple communication between
+    computers, middleware supports the communication between processes.
+  - In the AAL context, AAL middleware provides components and services for AAL applications.
+dateAccepted: '2018-05-01T00:00:00+00:00'
+id: 588966bd-ac35-5e10-a846-d68f68286728
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 891-02-72
+    link: null
+    original: 891-02-72
+    ref: IEV
+    relationship:
+      type: identical
+  - clause: 604-04-21
+    link: null
+    original: 604-04-21 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: minimum value of electric current which causes ventricular fibrillation
+  examples: []
+  notes:
+  - Ventricular fibrillation stops blood circulation.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 5bf04bac-7232-592a-8873-f1420d74810d
+status: Standard

@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: définition 403
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, définition 403, modifiée
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: 'quotient de l’énergie rayonnante dstem:[R] incidente sur une sphère
+    par l’aire dstem:[a] du grand cercle
+
+
+    stem:[Ψ] = dstem:[R]/dstem:[a]'
+  examples: []
+  notes:
+  - La fluence énergétique est identique à l’intégrale par rapport au temps du flux
+    énergétique.
+  - Cette grandeur s'exprime en joules par mètre carré (J/m^2^).
+  - Cet article était numéroté 393-14-28 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: 29249bb7-0d4b-5b4c-8ac3-0fd6781fea64
+status: Standard

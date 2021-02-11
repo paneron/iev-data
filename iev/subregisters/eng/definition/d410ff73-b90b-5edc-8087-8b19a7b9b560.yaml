@@ -1,0 +1,10 @@
+data:
+  definition: voltage pulse of a specified shape applied during dielectric tests,
+    with a time to crest of 100 μs to 300 μs, and a time to half value of a few milliseconds
+  examples: []
+  notes:
+  - The switching impulse is defined by the two figures giving these durations in
+    microseconds; in particular the standard switching impulse is 250/2 500 μs.
+dateAccepted: '2016-02-01T00:00:00+00:00'
+id: d410ff73-b90b-5edc-8087-8b19a7b9b560
+status: Standard

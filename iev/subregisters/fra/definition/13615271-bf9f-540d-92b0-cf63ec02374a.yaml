@@ -1,0 +1,32 @@
+data:
+  definition: 'représentation graphique en coordonnées polaires du facteur de réflexion
+    complexe stem:[r], pour une ligne de transmission uniforme sans pertes, d''impédance
+    caractéristique stem:[Z]~0~:
+
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z) + Z_0)) = ((underset(_)(Z)
+    // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))]
+
+
+    en fonction de l''impédance complexe stem:[Z] à l''aide de deux familles de cercles
+    orthogonaux sur chacun desquels soit le module stem:[Z] soit l''argument stem:[θ]
+    a une valeur constante, stem:[Z] = stem:[Z]/stem:[θ] étant l''impédance complexe
+    dans la direction de propagation de l''onde incidente au point de détermination
+    du facteur de réflexion complexe'
+  examples: []
+  notes:
+  - "L'abaque stem:[Z]-Théta peut être employé avec des impédances stem:[Z], des admittances\
+    \ stem:[underset(_)(Y) = (1)/(underset(_)(Z))], des impédances normées stem:[(underset(_)(Z))/((Z_0))]\
+    \ ou des admittances normées\r\nstem:[(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))]."
+  - L'abaque stem:[Z]-Théta est habituellement limité aux valeurs de stem:[θ] comprises
+    entre stem:[- (pi)/(2)] et stem:[+ (pi)/(2)] qui correspondent aux valeurs positives
+    de la partie réelle de stem:[Z]; tout l'abaque est alors compris à l'intérieur
+    d'un cercle où le module du facteur de réflexion est égal à l'unité.
+  - L'abaque stem:[Z]-Théta a les mêmes propriétés et applications que l'abaque de
+    Smith, mais l'impédance complexe stem:[Z] y est représentée à l'aide de deux familles
+    de cercles sur chacun desquels soit le module stem:[Z], soit l'argument stem:[θ]
+    a une valeur constante, au lieu des parties réelle stem:[R] et imaginaire stem:[X]
+    de stem:[Z] employées avec l'abaque de Smith.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 13615271-bf9f-540d-92b0-cf63ec02374a
+status: Standard

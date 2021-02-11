@@ -1,0 +1,15 @@
+data:
+  definition: 'time integral of photon radiance, stem:[L]~p~, over a given duration,
+    Δstem:[t]
+
+
+    stem:[L_((p , t)) = underset((Delta t))( int ) L_p d t]'
+  examples: []
+  notes:
+  - The corresponding radiometric quantity is "radiance dose". The corresponding photometric
+    quantity is "luminance dose".
+  - The photon radiance dose is expressed in metre to the power minus two per steradian
+    (m^−2^·sr^−1^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 84c65966-2df7-595d-8937-aabf4bd6d0ee
+status: Standard

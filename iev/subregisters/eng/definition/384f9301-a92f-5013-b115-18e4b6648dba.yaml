@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 13-33
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-33, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: '{{conditional entropy, IEV:171-07-23}} of a specific set of messages
+    stem:[X] at a message source given a specific set of messages stem:[Y] at a message
+    sink that is connected to the message source by a specific channel'
+  examples: []
+  notes:
+  - The equivocation is the mean additional {{information content, IEV:171-07-14}}
+    that shall be supplied per message at the message sink to correct the received
+    messages affected by a noisy channel.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 384f9301-a92f-5013-b115-18e4b6648dba
+status: Standard

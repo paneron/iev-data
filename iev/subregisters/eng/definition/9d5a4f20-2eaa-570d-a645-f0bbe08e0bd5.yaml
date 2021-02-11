@@ -1,0 +1,11 @@
+data:
+  definition: ratio of the RMS value of the alternating component of a {{pulsating,
+    IEV:103-06-07}} quantity to the absolute value of the direct component
+  examples: []
+  notes:
+  - For a pulsating quantity stem:[x] with direct component stem:[bar X] and alternating
+    component stem:[x_( ∼ )], the RMS-ripple factor is stem:[r = ((X_( ∼ ) ()_((eff))))/((|
+    bar X |))].
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 9d5a4f20-2eaa-570d-a645-f0bbe08e0bd5
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  definition: date sur une échelle de temps constituée de l’origine d’un calendrier
+    et d'une succession de jours du calendrier
+  examples: []
+  notes:
+  - 1 Dans le calendrier normalisé, chaque jour s'étend de minuit à minuit pour le
+    temps légal à un endroit donné. Des jours consécutifs y sont habituellement groupés
+    en diverses périodes, par exemple, en semaines, mois et années.
+  - 2 Dans le calendrier normalisé, une date est exprimée par un triplet de nombres
+    formé du numéro de l'année par rapport à une origine conventionnelle, du numéro
+    du mois dans cette année et du numéro du jour dans ce mois. La représentation
+    normalisée (voir l'ISO 8601) est dans l'ordre année-mois-jour, comme dans l'exemple
+    1998-11-15.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: bc26727a-a130-56b2-831a-77dcd4fc258e
+status: Standard

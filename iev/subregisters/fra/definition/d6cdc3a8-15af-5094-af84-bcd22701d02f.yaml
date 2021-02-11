@@ -1,0 +1,12 @@
+data:
+  definition: commande nécessitant deux actions successives pour provoquer un changement
+    d'état d'un organe; la première, ou "sélection", met sous tension une partie du
+    circuit de commande qui, à son tour provoque la transmission en retour d'informations
+    de confirmation; la seconde, ou "commande d'exécution", n'est émise qu'après réception
+    de ces informations en retour et provoque la mise sous tension de l'ensemble du
+    circuit de commande dans la station réceptrice
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: d6cdc3a8-15af-5094-af84-bcd22701d02f
+status: Standard

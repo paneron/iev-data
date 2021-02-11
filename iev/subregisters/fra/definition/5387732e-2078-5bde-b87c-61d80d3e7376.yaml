@@ -1,0 +1,27 @@
+data:
+  definition: 'forme de la courbe prise par un conducteur, assimilé à une corde infiniment
+    souple et inextensible, suspendue entre deux supports, définie par l''équation:
+
+
+    stem:[Y = rho ( cosh (X)/(rho) - 1 )]'
+  examples: []
+  notes:
+  - 'En pratique cette courbe peut être le plus souvent assimilée à la parabole d''équation:
+
+
+    stem:[Y = (1)/((2 rho)) X^2]
+
+
+    qui représente les deux premiers termes du développement en série entière de l''équation
+    de la chaînette.'
+  - 'La chaînette représente un câble de masse linéique constante le long de la courbe,
+    tandis que la parabole représente un câble de masse constante par unité de longueur
+    projetée sur un axe horizontal.
+
+
+    La flèche calculée par la formule de la parabole est plus faible que dans le cas
+    de la chaînette. Lorsque la portée est suffisamment longue ou fortement dénivelée,
+    l''approximation de la parabole peut introduire des erreurs inacceptables.'
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 5387732e-2078-5bde-b87c-61d80d3e7376
+status: Standard

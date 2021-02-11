@@ -1,0 +1,22 @@
+data:
+  definition: 'densité d''énergie rayonnante incidente par rapport à l''aire en un
+    point d''une surface réelle ou fictive
+
+
+    stem:[H_e = ((d Q_e))/((d A))]
+
+
+    où stem:[Q]~e~ est l''énergie rayonnante et stem:[A] est l''aire qui reçoit cette
+    énergie'
+  examples: []
+  notes:
+  - La grandeur "exposition énergétique" définie ici ne doit pas être confondue avec
+    la grandeur appelée "exposition" utilisée dans le champ des rayons X et γ, dont
+    l'unité est le coulomb par kilogramme (C·kg^−1^).
+  - La grandeur photométrique correspondante est l'"exposition lumineuse". La grandeur
+    correspondante pour les photons est l'"exposition photonique".
+  - L'exposition énergétique est exprimée en joule par mètre carré (J·m^−2^ = W·s·m^−2^).
+  - Cet article était numéroté 845-01-42 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: cd150ffb-d7a0-56c6-a635-70b52390fa0c
+status: Standard

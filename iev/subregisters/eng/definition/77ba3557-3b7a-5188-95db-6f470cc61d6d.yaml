@@ -1,0 +1,11 @@
+data:
+  definition: vector field characterized by a vector having zero rotation
+  examples: []
+  notes:
+  - Any {{conservative field, IEV:102-05-34}} is an irrotational field, but an irrotational
+    field is only a conservative field in a simply connected domain, i.e. a domain
+    such that any path between two points can be continuously transformed into any
+    other path between the same points, staying within the domain.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 77ba3557-3b7a-5188-95db-6f470cc61d6d
+status: Standard

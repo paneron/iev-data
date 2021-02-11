@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 604-02-29
+    link: null
+    original: 604-02-29 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: the time interval between the fault inception and the fault clearance
+  examples: []
+  notes:
+  - 'This time is the longest fault current interruption time of the associated circuit-breaker(s)
+    for elimination of fault current on the faulty item of plant.
+
+
+    Refer to figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-en.gif[]'
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: 94fa5f16-98d5-5d0c-80fd-90f175d43aed
+status: Standard

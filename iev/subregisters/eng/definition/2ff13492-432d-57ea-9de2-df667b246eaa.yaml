@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: '1.20'
+    link: https://www.iso.org/standard/45324.html
+    original: ISO/IEC GUIDE 99:2007 1.20
+    ref: ISO/IEC Guide 99:2007
+    relationship:
+      type: identical
+  definition: number in the expression of the value of a quantity, other than any
+    number serving as the reference
+  examples: []
+  notes:
+  - For quantities that have a unit of measurement (i.e. those other than ordinal
+    quantities), the numerical value {stem:[Q]} of a quantity stem:[Q] is frequently
+    denoted {stem:[Q]} = stem:[Q]/[[stem:[Q]]], where [[stem:[Q]]] denotes the unit.
+    For example, for a mass of value expressed as 5,7 kg, the numerical value is {stem:[m]}
+    = (5,7 kg)/kg = 5,7. The same value can be expressed as 5 700 g in which case
+    the numerical value is {stem:[m]} = (5 700 g)/g = 5 700.
+  - For quantities of dimension one, the reference is a unit of measurement which
+    is a number and this is not considered as a part of the numerical value. For example,
+    in an amount-of-substance fraction equal to 3 mmol/mol, the numerical value is
+    3 and the unit is mmol/mol. The unit mmol/mol is numerically equal to 0,001, but
+    this number 0,001 is not part of the numerical value, which remains 3.
+  - 'Very often quantities of dimension one are expressed in percent. Example: the
+    volume fraction of alcohol in a very strong beer is 7,2 %.'
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 2ff13492-432d-57ea-9de2-df667b246eaa
+status: Standard

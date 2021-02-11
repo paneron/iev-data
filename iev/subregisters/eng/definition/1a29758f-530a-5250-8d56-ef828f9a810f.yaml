@@ -1,0 +1,12 @@
+data:
+  definition: excluding from a particular assessment, data obtained either after a
+    given duration or a given number of events
+  examples: []
+  notes:
+  - Events are usually failures, but, in a maintainability test, the events would
+    be restorations.
+  - A test terminated when there are still unfailed items may be called a “censored
+    test", and test duration data from such a test referred to as censored data.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 1a29758f-530a-5250-8d56-ef828f9a810f
+status: Standard

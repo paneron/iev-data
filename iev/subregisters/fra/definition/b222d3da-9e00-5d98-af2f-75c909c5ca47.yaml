@@ -1,0 +1,12 @@
+data:
+  definition: pour les alimentations stabilisées, plage des valeurs des grandeurs
+    de sortie dans laquelle se produit un changement du régime, par exemple passage
+    d'une stabilisation en tension à une stabilisation en courant
+  examples: []
+  notes:
+  - A l'intérieur de cette aire, les grandeurs de sortie sont mal définies.
+  - Sauf indication contraire, l'aire de transition est constituée par le recouvrement
+    des plages d'écart dû à la charge ou des bandes de tolérance.
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: b222d3da-9e00-5d98-af2f-75c909c5ca47
+status: Standard

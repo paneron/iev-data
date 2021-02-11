@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '2.3'
+    link: https://www.iso.org/standard/39976.html
+    original: ISO/IEC Guide 2:2004, 2.3
+    ref: ISO/IEC Guide 2:2004
+    relationship:
+      type: identical
+  definition: ability of one product, process or service to be used in place of another
+    to fulfil the same {{requirement, IEV:901-05-05}}s
+  examples: []
+  notes:
+  - The functional aspect of interchangeability is called “functional interchangeability”,
+    and the dimensional aspect “dimensional interchangeability”.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 7a374261-d7b5-5fa1-aafd-52910f588040
+status: Standard

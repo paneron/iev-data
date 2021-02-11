@@ -1,0 +1,19 @@
+data:
+  definition: unité fonctionnelle qui s’interpose sur tout le trafic passant entre
+    deux réseaux et protège l’un d’eux, ou une partie de l’un d’eux, contre tout accès
+    non autorisé
+  examples: []
+  notes:
+  - 1 – Le réseau protégé est généralement un réseau privé interne à un organisme.
+  - 2 – Un pare-feu autorise le transfert de messages ou de fichiers vers une station
+    de travail de haute sécurité dans le réseau interne, sans permettre de transfert
+    dans le sens opposé.
+  - 3 – Un pare-feu peut être réalisé de plusieurs façons, par exemple passerelle
+    à double anneau, sous-réseau filtré, routeur de filtrage ou passerelle hôte filtrée.
+  - '4 – Voir Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-01fr.gif[]'
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 54e65137-0f09-53d8-a435-eea5a658c8ed
+status: Standard

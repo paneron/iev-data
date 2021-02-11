@@ -1,0 +1,15 @@
+data:
+  definition: '{{unplanned outage, IEV:692-04-04}} where the associated equipment
+    is not automatically returned to service within a specified time interval
+
+
+    image::/assets/images/parts/692/692-fig4-en.png[Figure 4 - Outage relationships]'
+  examples: []
+  notes:
+  - A sustained outage can be either a {{forced outage, IEV:692-04-05}} or a {{deferrable
+    outage, IEV:692-04-06}}.
+  - A sustained outage includes {{permanent outages, IEV:692-04-09}} and {{temporary
+    outages, IEV:692-04-10}}.
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: 9ee0f8ee-48a3-5194-9689-ca8506a094db
+status: Standard

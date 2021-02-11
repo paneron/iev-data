@@ -1,0 +1,15 @@
+data:
+  definition: functional unit for the transfer of data between several participants,
+    these being functional units for data processing, via a common transmission path,
+    wherein participants are not involved in the transfer of data between other participants
+  examples: []
+  notes:
+  - The logic and functional definition of a bus applies independently of the topological
+    configuration and physical implementation of the bus. A bus may have a line or
+    a ring configuration.
+  - In some cases, transmission rights are distributed by another participant, for
+    example by a bus arbitrator.
+  - This entry was numbered 351-32-10 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 593bcb60-6124-50c7-a04a-ebbfacb183a7
+status: Standard

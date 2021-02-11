@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 702-04-07
+    link: https://webstore.iec.ch/publication/239
+    original: CEI 60050-702:1992, 702-04-07, modifiée – La définition a été modifiée
+      de façon à décrire une action plutôt qu'un processus.
+    ref: IEC 60050-702:1992
+    relationship:
+      modification: La définition a été modifiée de façon à décrire une action plutôt
+        qu'un processus.
+      type: modified
+  definition: diviser l'étendue continue des valeurs que peut prendre une grandeur
+    variable en un nombre fini d'intervalles adjacents prédéterminés, non nécessairement
+    égaux, dans lesquels toutes les valeurs qui se trouvent dans un intervalle donné
+    sont représentées par une valeur unique prédéterminée de cet intervalle, appelée
+    "valeur quantifiée"
+  examples: []
+  notes:
+  - Quantifier signifie convertir une variable continue en variable discrète.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: b60e3be3-f081-5558-bda3-c4a8d3586ef2
+status: Standard

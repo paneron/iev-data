@@ -1,0 +1,14 @@
+data:
+  definition: qualifies or supplements a {{quantity name, IEV:112-01-02}} to indicate
+    the quotient of that quantity by the wavelength or the frequency
+  examples: []
+  notes:
+  - 'The wavelength is used mainly in optics, and the frequency in radioelectricity,
+    acoustics, and signal theory. Examples: {{power spectral density, IEV:103-09-05}},
+    {{spectral irradiance, IEV:731-01-30}}.'
+  - The adjective “spectral” is also used to designate quantities which are functions
+    of wavelength or frequency, but which are not spectral concentrations, for example
+    spectral emissivity. See {{IEV 845-01-16, IEV:845-01-16}}.
+dateAccepted: '2019-01-01T00:00:00+00:00'
+id: 36d94f9d-cf10-5e94-a676-b13fb05bf09b
+status: Standard

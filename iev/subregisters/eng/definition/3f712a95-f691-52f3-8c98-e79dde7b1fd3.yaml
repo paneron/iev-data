@@ -1,0 +1,13 @@
+data:
+  definition: 'at a given point of a body, tensor quantity stem:[vec vec tau] characterizing
+    the relation between the force d*stem:[F]* acting on a surface element containing
+    that point with the area dstem:[A] of the element: stem:[d F = vec vec tau * e
+    \ d A], where *stem:[e]* dstem:[A] is the vector surface element'
+  examples: []
+  notes:
+  - 1 If d*stem:[F]* and *stem:[e]* dstem:[A] are parallel, stress may be described
+    by a scalar.
+  - 2 The coherent SI unit of stress is pascal, Pa.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 3f712a95-f691-52f3-8c98-e79dde7b1fd3
+status: Standard

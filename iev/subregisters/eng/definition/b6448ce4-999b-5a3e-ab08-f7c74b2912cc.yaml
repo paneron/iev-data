@@ -1,0 +1,9 @@
+data:
+  definition: '{{Boolean operation, IEV:171-03-05}} whose result has the Boolean value
+    1 if and only if all the {{operands, IEV:171-03-04}} have the same Boolean value'
+  examples: []
+  notes:
+  - An identity operation on two operands is an {{equivalence operation, IEV:171-03-15}}.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: b6448ce4-999b-5a3e-ab08-f7c74b2912cc
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: définition 380
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, définition 380, modifiée
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: moyenne pondérée des {{nombres de protons, IEV:113-05-33}} des constituants
+    d’une matière
+  examples: []
+  notes:
+  - La pondération peut être effectuée différemment suivant l’interaction considérée,
+    par exemple l'effet photoélectrique ou la production de rayonnement de freinage
+    appelé aussi bremsstrahlung.
+  - Cet article était numéroté 393-14-04 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: 0ab4d435-c294-52c3-a49f-caee0e7cc241
+status: Standard

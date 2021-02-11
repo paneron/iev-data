@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 195-01-17
+    link: null
+    original: 195-01-17
+    ref: IEV
+    relationship:
+      type: identical
+  definition: impédance à une fréquence donnée entre un point spécifié d'un réseau,
+    d'une installation ou d'un matériel et la terre de référence
+  examples: []
+  notes:
+  - La terre de référence est définie dans la CEI 60050-195. En pratique, on peut
+    lui substituer un point de référence, par exemple la masse.
+  - Le facteur de réjection de mode commun d'un appareil dépend de l'impédance entre
+    chacune des bornes d'entrée et la terre. Chacune de ces impédances est appelée
+    impédance de mode commun.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 9465fbe2-7943-53da-bffd-97213e1b4802
+status: Standard

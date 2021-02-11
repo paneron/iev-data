@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - original: ITU-R Rec. 592
+    ref: ITU-R Recommendation 592
+    relationship:
+      type: identical
+  definition: diversity reception in which several antennas at appropriate distances
+    from each other and associated receivers are used in a radio station
+  examples: []
+  notes:
+  - For line-of-sight radio-relay systems, separation is generally vertical whereas
+    for trans-horizon radio-relay systems, it is generally horizontal.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 99e23a32-17e6-5b76-b2ec-9b6ef7968f59
+status: Standard

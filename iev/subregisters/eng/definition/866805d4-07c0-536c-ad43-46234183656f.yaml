@@ -1,0 +1,11 @@
+data:
+  definition: weighting function that combines the normalized spectral sensitivities
+    of the human eye and skin to <a href="IEV845-21-008">ultraviolet radiation</a>
+    for radiation protection purposes
+  examples: []
+  notes:
+  - The wavelength range for the ultraviolet hazard spectral weighting function is
+    specified in ICNIRP-recommendations as stem:[λ] = 180 nm to stem:[λ] = 400 nm.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 866805d4-07c0-536c-ad43-46234183656f
+status: Standard

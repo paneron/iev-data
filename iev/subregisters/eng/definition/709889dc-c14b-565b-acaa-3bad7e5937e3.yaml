@@ -1,0 +1,26 @@
+data:
+  definition: 'quantity defined by
+
+
+    stem:[Phi = K_m int_0^(oo) V ( lambda ) P ( lambda ) d lambda]
+
+
+    where:
+
+
+    stem:[P](stem:[λ]) is the power spectral density radiated by the source at wavelength
+    stem:[λ];
+
+
+    stem:[V](stem:[λ]) is the spectral luminous efficiency for photopic vision;
+
+
+    stem:[K]~m~ is a constant'
+  examples: []
+  notes:
+  - In the SI system of units, where stem:[P](stem:[λ]) is expressed in watts per
+    metre, the luminous flux stem:[Ф] is expressed in lumens, and stem:[K]~m~ = 683
+    lm/W.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 709889dc-c14b-565b-acaa-3bad7e5937e3
+status: Standard

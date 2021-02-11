@@ -1,0 +1,27 @@
+data:
+  definition: "operation performed on a set, assigning a unique element of the set\
+    \ to any ordered pair of elements stem:[a] and stem:[b] of the set, with the following\
+    \ properties:\n\n\n\n* associativity: stem:[a * ( b * c ) = ( a * b ) * c], where\
+    \ stem:[c] is also an element of the set, \n\n* if an addition is performed on\
+    \ the set, distributivity: stem:[a * ( b + c ) = a * b + a * c] and stem:[( a\
+    \ + b ) * c = a * c + b * c]"
+  examples: []
+  notes:
+  - Multiplication is defined for natural numbers and extended to other classes of
+    numbers and to mathematical entities such as polynomials and matrices. Multiplication
+    is also defined for quantities and units, even if they are not of the same kind,
+    so that addition cannot be defined.
+  - Multiplication is not necessarily commutative, for example in the case of matrices.
+  - Each element in a multiplication of two or more elements is called a factor. The
+    term "factor" is also used for a quotient of two quantities of the same kind (see
+    {{IEV 112-01-04, IEV:112-01-04}}). In the multiplication of two elements, the
+    first is called "multiplier" and the second "multiplicator".
+  - The multiplication of entities stem:[a] and stem:[b] is expressed by the words
+    "stem:[a] multiplied by stem:[b]" or "stem:[a] times stem:[b]" and denoted by
+    stem:[a] ⋅ stem:[b], stem:[a] × stem:[b], or stem:[ab]. The symbol ∏ is used to
+    denote successive multiplications, for example stem:[a]~2~ ⋅ stem:[a]~3~ ⋅ stem:[a]~4~
+    ⋅ stem:[a]~5~ ⋅ stem:[a]~6~ ⋅ stem:[a]~7~ is denoted by stem:[prod_((i = 2))^7
+    a_i].
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 9644fb34-1629-5f2c-a1a0-5a97bcd29369
+status: Standard

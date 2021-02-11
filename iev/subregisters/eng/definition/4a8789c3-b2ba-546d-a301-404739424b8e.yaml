@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1.24
+    link: https://webstore.iec.ch/publication/5397
+    original: IEC 61375-1:2012, 3.1.24
+    ref: IEC 61375-1:2012
+    relationship:
+      type: identical
+  definition: operation executed in case of composition change, which gives all nodes
+    of the train backbone their train backbone address, their orientation and information
+    about all named nodes on the same backbone
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 4a8789c3-b2ba-546d-a301-404739424b8e
+status: Standard

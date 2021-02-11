@@ -1,0 +1,45 @@
+data:
+  authoritative_source:
+  - clause: '1.8'
+    link: https://www.iso.org/standard/45324.html
+    original: ISO/IEC GUIDE 99:2007 1.8
+    ref: ISO/IEC Guide 99:2007
+    relationship:
+      type: identical
+  definition: grandeur pour laquelle tous les exposants des facteurs correspondant
+    aux grandeurs de base dans sa dimension sont nuls
+  examples: []
+  notes:
+  - Le terme « grandeur sans dimension » est d'usage courant en français. Il provient
+    du fait que tous les exposants sont nuls dans la représentation symbolique de
+    la dimension de telles grandeurs. Le terme « grandeur de dimension un » reflète
+    la convention selon laquelle la représentation de la dimension de telles grandeurs
+    est le symbole `1`, imprimé sans empattement. Cette dimension n’est pas le nombre
+    un, mais l’élément neutre pour la multiplication des dimensions.
+  - Les unités de mesure et les valeurs des grandeurs sans dimension sont des nombres,
+    mais ces grandeurs portent plus d'information qu'un nombre.
+  - 'Certaines grandeurs sans dimension sont définies comme des rapports de deux grandeurs
+    de même nature. Exemples: angle plan, angle solide, indice de réfraction, perméabilité
+    relative, fraction massique, facteur de frottement, nombre de Mach. S''il n''existe
+    pas de nom spécial, le nom d''une telle grandeur comporte souvent un des termes
+    facteur ou rapport, ou parfois nombre, fraction ou indice, ou encore l''adjectif
+    relatif (voir la section 112-03). L’unité dérivée cohérente est un. La dimension
+    de ces grandeurs peut être notée comme celle du dividende élevée à la puissance
+    zéro. Exemples:
+
+
+    dim(angle plan) = L^0^,
+
+
+    dim(indice de réfraction stem:[n] = stem:[c]~0~/stem:[c]) = (LT^–1^)^0^,
+
+
+    dim(fraction massique) = M^0^,
+
+
+    dim(facteur de frottement stem:[μ] = stem:[F]~r~ /stem:[F]~n~) = dim(force)^0^
+    = (MLT^–2^)^0^.'
+  - Les grandeurs sans dimension peuvent aussi être des nombres d'entités (IEV 112-01-09).
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 0e32fd82-45b3-5380-a7ef-d4ea2b5ad2cb
+status: Standard

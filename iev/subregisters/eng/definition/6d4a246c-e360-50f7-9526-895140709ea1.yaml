@@ -1,0 +1,31 @@
+data:
+  definition: the complex ratio of a sinusoidal field quantity, such as a reflected
+    current or reflected wave component, to the corresponding field quantity of the
+    incident current or incident wave at a point near the surface separating two propagation
+    media, near a port of an electrical network or near a discontinuity in a transmission
+    line
+  examples: []
+  notes:
+  - 1 – When the field quantity is a component of a plane electromagnetic wave, the
+    sign of the reflection factor is different for an electric field component and
+    the corresponding magnetic field component.
+  - 2 – When the field quantity refers to a port of an electrical network, or to a
+    discontinuity in a transmission line, a voltage reflection factor can be defined
+    with a sign opposite to that of the current reflection factor.
+  - '3 – When impedances can be defined, the complex current reflection factor stem:[r]
+    equals:
+
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - underset(_)(Z)^( '' )))/((underset(_)(Z)
+    + underset(_)(Z)^( '' )))]
+
+
+    where stem:[Z] is the characteristic impedance of the transmission line ahead
+    of the discontinuity or the impedance of the source and stem:[Z]′ is the impedance
+    after the discontinuity or the load impedance seen from the junction between the
+    source and the load.'
+  - 4 – The reflection factor depends in the case of waveguides on the electromagnetic
+    mode considered.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 6d4a246c-e360-50f7-9526-895140709ea1
+status: Standard

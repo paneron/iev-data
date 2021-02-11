@@ -1,0 +1,11 @@
+data:
+  definition: for a given circuit group or destination code and during a specified
+    time interval, the ratio of the number of bids that result in an answer signal
+    to the total number of bids
+  examples: []
+  notes:
+  - At some points of the network this ratio may be lower than the answer seizure
+    ratio due to unsuccessful bids.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 7ac91cda-cc3d-5842-9173-485ac8c523a1
+status: Standard

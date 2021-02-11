@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.1.76
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.76
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: address supplied to the link layer to identify to which bus and to which
+    device address a packet is sent or received
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 12b2d429-3d9e-5a93-87a2-f6401012db67
+status: Standard

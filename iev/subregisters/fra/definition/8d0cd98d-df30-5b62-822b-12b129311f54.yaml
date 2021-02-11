@@ -1,0 +1,31 @@
+data:
+  definition: 'forme approchée de la loi de Planck, valable avec une approximation
+    meilleure que 1 pour mille lorsque le produit stem:[λT] est plus petit que 0,002 m·K
+
+
+    stem:[L_((e , lambda)) ( lambda , T ) = ((c_1))/(pi) lambda^(- 5) e^(((c_2))/((lambda
+    T)))]
+
+
+    où stem:[L]~e,~stem:[λ] est la luminance spectrale, stem:[λ] est la longueur d''onde
+    dans le vide, stem:[T] est la température thermodynamique, stem:[c_1 \ = 2 \ pi
+    \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] est la constante de Planck,
+    stem:[c]~0~ est la {{vitesse de la lumière dans le vide, IEV:113-01-34}}, et stem:[k]
+    est la constante de Boltzmann'
+  examples: []
+  notes:
+  - La formule s'écrit parfois avec stem:[((c_1))/((pi omega_0))] au lieu de stem:[((c_1))/(pi)],
+    où stem:[Ω]~0~ est l'angle solide de 1 sr.
+  - Pour un récepteur dans un milieu d'indice de réfraction stem:[n], la luminance
+    énergétique mesurée est stem:[n]^−2^stem:[L]~e,~stem:[λ](stem:[λ], stem:[T]).
+  - La loi de Wien peut aussi être exprimée pour donner la <a href="IEV845-21-029">répartition
+    spectrale</a> approchée de l'exitance énergétique stem:[M]~e,~stem:[λ](stem:[λ],
+    stem:[T]); dans la formule, le premier facteur est alors stem:[c]~1~ au lieu de
+    stem:[((c_1))/(pi)].
+  - Les grandeurs luminance énergétique (mentionnée dans la Note 2 à l'article) et
+    exitance énergétique (mentionnée dans la Note 3 à l'article) s'appliquent au <a
+    href="IEV845-21-021">rayonnement non polarisé</a> tel qu'il est émis.
+  - Cet article était numéroté 845-04-06 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 8d0cd98d-df30-5b62-822b-12b129311f54
+status: Standard

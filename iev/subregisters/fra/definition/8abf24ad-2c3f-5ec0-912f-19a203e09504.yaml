@@ -1,0 +1,17 @@
+data:
+  definition: angle sous-tendu par une source réelle ou apparente à un point donné
+    dans l'espace
+  examples: []
+  notes:
+  - Le point dans l'espace peut être l'œil d'un observateur, un point de mesure ou
+    tout autre point défini.
+  - Les angles sous-tendus sont désignés par l'angle complet et non le demi-angle.
+  - Le flux lumineux d'une source est souvent modifié par l'incorporation de lentilles
+    et de miroirs comme optique de projection, auquel cas l'étendue angulaire de la
+    source apparente peut différer de l'étendue angulaire de la source physique.
+  - L'étendue angulaire d'une source de forme non symétrique est déterminée par la
+    moyenne arithmétique de la dimension angulaire maximale et minimale de la source.
+  - L'étendue angulaire est exprimée en radian (rad) ou degré (°).
+dateAccepted: 2018-11-17
+id: 8abf24ad-2c3f-5ec0-912f-19a203e09504
+status: Standard

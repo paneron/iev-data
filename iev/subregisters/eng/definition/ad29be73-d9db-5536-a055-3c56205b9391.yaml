@@ -1,0 +1,11 @@
+data:
+  definition: the degree of backoff under specified operating conditions, calculated
+    as the ratio of the minimum input power for a single carrier which gives maximum
+    output power, corresponding to saturation, to the total input power under the
+    specified conditions
+  examples: []
+  notes:
+  - Input backoff is usually expressed in decibels as a positive quantity.
+dateAccepted: '1994-08-01T00:00:00+00:00'
+id: ad29be73-d9db-5536-a055-3c56205b9391
+status: Standard

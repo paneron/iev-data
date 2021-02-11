@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 3.1.11
+    link: https://webstore.iec.ch/publication/6777
+    original: IEC 62290-1:2014, 3.1.11
+    ref: IEC 62290-1:2014
+    relationship:
+      type: identical
+  definition: produit indépendant de toute application, qui satisfait à des conditions
+    extérieures, des interfaces et des fonctionnalités prédéfinies (boîte noire)
+  examples:
+  - Des exemples incluent les moteurs d’aiguille, les compteurs d’essieux, le système
+    d’exploitation temps réel, et la plate-forme d’ordinateur en sécurité intrinsèque
+    sans les logiciels applicatifs.
+  notes: []
+dateAccepted: 2018-11-17
+id: be20c074-03a2-53bf-9ce1-dfabe5c79cf4
+status: Standard

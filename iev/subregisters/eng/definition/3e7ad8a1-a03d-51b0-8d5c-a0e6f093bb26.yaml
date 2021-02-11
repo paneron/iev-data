@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 801-22-14
+    link: null
+    original: 801-22-14
+    ref: IEV
+    relationship:
+      type: identical
+  definition: logarithm of the ratio of a given sound pressure to the reference sound
+    pressure of 20 µPa, the sound pressure being obtained with a standard frequency
+    weighting and with a standard exponential time weighting.
+  examples: []
+  notes:
+  - Sound level in decibels is twenty times the logarithm to the base ten of that
+    ratio.
+  - 'Standard frequency weightings A and B used in IEC 61400-11 are given in IEC 60651
+    (1979): Sound level meters.'
+dateAccepted: '1999-04-01T00:00:00+00:00'
+id: 3e7ad8a1-a03d-51b0-8d5c-a0e6f093bb26
+status: Standard

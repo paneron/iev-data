@@ -1,0 +1,10 @@
+data:
+  definition: '{{Boolean operation, IEV:171-03-05}} whose result has the Boolean value
+    1 if and only if each {{operand, IEV:171-03-04}} has the Boolean value 1'
+  examples: []
+  notes:
+  - The conjunction of variables stem:[a] and stem:[b] is noted stem:[a ^^ b] (U+2227)
+    (stem:[a] and stem:[b]).
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 84cf51fe-3c8c-51a0-8eb7-51aac47ed691
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 826-03-02
+    link: null
+    original: 826-03-02 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: partie conductrice d'un matériel électrique susceptible d'être touchée
+    et qui n'est pas normalement sous tension mais peut le devenir lorsque l'isolation
+    principale est défaillante
+  examples: []
+  notes:
+  - Une partie conductrice d'un matériel électrique qui ne peut être mise sous tension
+    que par l'intermédiaire d'une masse qui est devenue sous tension n'est pas considérée
+    comme une masse.
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: bf46926d-c3aa-5ff9-b262-de466fdb5b7e
+status: Standard

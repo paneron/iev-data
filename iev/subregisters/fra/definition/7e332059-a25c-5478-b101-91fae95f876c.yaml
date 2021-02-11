@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - clause: 2.5.4
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.5.4
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: technologie formant des couches minces sur le {{substrat, IEV:521-05-28}}
+  examples: []
+  notes:
+  - Une couche mince est une couche formée sur le substrat au moyen d’un dépôt sous
+    vide ou d’une {{pulvérisation ionique sous vide, IEV:521-03-17}}, entre autres.
+    L’épaisseur de la couche est comprise entre une couche d’atomes ou de molécules
+    uniques et une épaisseur de 5 µm. Habituellement, le terme "technologie de couches
+    minces" fait référence aux couches d’une épaisseur maximale de 1 µm. Une couche
+    mince peut modifier des propriétés telles que la couleur, la réflectivité et le
+    coefficient de frottement du substrat, tandis que la forme du substrat reste pratiquement
+    inchangée. Les phénomènes tels que la perturbation optique et la diffusion de
+    surface sont sensiblement affectés par la formation de couches minces. Les formations
+    de couches minces utilisent habituellement une étape hors équilibre, de formation
+    nucléaire hétérogène, qui provoque des propriétés structurelles différentes de
+    celles des matériaux en volume produits dans des conditions d’équilibre ordinaires.
+    Dans le cadre d'une application, la technologie des couches minces combinée avec
+    la gravure a amélioré le degré d’intégration d’une tête d’impression thermique
+    qui était jusqu'alors fabriquée de manière classique par la {{technologie de couches
+    épaisses, IEV:523-05-01}}.
+dateAccepted: 2018-11-17
+id: 7e332059-a25c-5478-b101-91fae95f876c
+status: Standard

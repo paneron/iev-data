@@ -1,0 +1,15 @@
+data:
+  definition: pour deux grandeurs sinusoïdales de même fréquence prises dans un ordre
+    donné, différence entre leurs phases à l'origine, avec addition éventuelle d'un
+    multiple de 2π de façon que cette différence soit supérieure à −π et inférieure
+    ou égale à π
+  examples: []
+  notes:
+  - Pour les grandeurs stem:[a^( ' ) ( t ) = hat A^( ' ) cos ( omega t + vartheta^(
+    ' )_0 )] et stem:[a^( ″ ) ( t ) = hat A^( ″ ) cos ( omega t + vartheta^( ″ )_0
+    )], la différence de phase est stem:[varphi = vartheta^( ″ )_0 - vartheta^( '
+    )_0 + 2 pi n], où stem:[n] est un entier choisi de telle sorte que stem:[- pi
+    varphi &lt;= pi].
+dateAccepted: 2018-11-17
+id: 894d9cd1-12d3-55ae-8e2b-c97ed010e878
+status: Standard

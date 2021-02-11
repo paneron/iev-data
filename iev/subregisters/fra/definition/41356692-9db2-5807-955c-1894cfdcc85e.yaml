@@ -1,0 +1,24 @@
+data:
+  definition: 'unité fonctionnelle disposée à l''entrée d''un système commandé et
+    faisant partie de ce dernier, excitée par la variable réglante et influençant
+    la circulation de masse ou d''énergie
+
+
+    VOIR: Figures 1 et 2.'
+  examples: []
+  notes:
+  - Si l'élément de commande final est actionné mécaniquement, un actionneur supplémentaire
+    (positionneur) est utilisé dans certains cas.
+  - La variable de sortie de l'équipement de commande final n'est habituellement pas
+    exempte de réaction. Il convient que l'interface entre l'actionneur et l'élément
+    de commande final soit donc choisie telle que la variable réglante ne soit pas
+    affectée par la réaction provenant de l'élément de commande final.
+  - 'Cet article était numéroté 351-28-08 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 41356692-9db2-5807-955c-1894cfdcc85e
+status: Standard

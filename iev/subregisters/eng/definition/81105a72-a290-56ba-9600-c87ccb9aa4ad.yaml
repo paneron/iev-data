@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.94
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.94
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: device which spontaneously sends information on a bus to a number of
+    slave devices
+  examples: []
+  notes:
+  - The master can give a slave the right to transmit for one slave frame only within
+    a limited time.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 81105a72-a290-56ba-9600-c87ccb9aa4ad
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  definition: energy emitted, transferred or received in the form of electromagnetic
+    waves
+  examples: []
+  notes:
+  - 'Radiant energy can be expressed by the time integral of radiant flux, stem:[Φ]~e~,
+    over a given duration, Δstem:[t]:
+
+
+    stem:[Q_e = int_((Delta t)) Phi_e d t]'
+  - Radiant energy is expressed as a function of wavelength, stem:[λ], as a function
+    of {{frequency, IEV:103-06-02}}, stem:[ν], or as a function of <a href="IEV845-21-026">wavenumber</a>,
+    stem:[σ].
+  - The corresponding photometric quantity is "<a href="IEV845-21-037">luminous energy</a>".
+    The corresponding quantity for photons is "photon energy".
+  - The radiant energy is expressed in joule (J = W·s).
+  - This entry was numbered 845-01-27 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: d4cb8f84-8a37-5757-8738-41d56e15d294
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  definition: exposition énergétique effective avec pondération spectrale de l'exposition
+    énergétique de même nature, stem:[Hλ], par la fonction de pondération spectrale
+    du danger de la lumière bleue, stem:[B](stem:[λ])
+  examples: []
+  notes:
+  - 'La plage de longueurs d''onde pour l''exposition énergétique avec danger de la
+    lumière bleue est spécifiée dans les recommandations de l''ICNIRP comme suit:
+    stem:[λ] = 300 nm à stem:[λ] = 700 nm.'
+  - Cette définition est basée sur l'hypothèse selon laquelle un spectre d'action
+    est adopté pour l'effet actinique pris en considération, et selon laquelle sa
+    valeur maximale est égale à 1.
+  - Il est essentiel de spécifier quel spectre d'action actinique est utilisé, dans
+    la mesure où l'unité est la même pour tout spectre d'action.
+  - L'exposition énergétique avec danger de la lumière bleue est exprimée en joule
+    par mètre carré (J·m^−2^).
+dateAccepted: 2018-11-17
+id: 2750527c-7827-5fb0-ae3b-7ac5f40fe928
+status: Standard

@@ -1,0 +1,26 @@
+data:
+  definition: 'propagation duration of a {{signal, IEV:101-12-02}} between two points
+    on a {{transmission path, IEV:701-02-11}} defined in terms of the {{group velocity,
+    IEV:103-10-15}} by the {{line integral, IEV:102-05-03}} taken along the transmission
+    path:
+
+
+    stem:[int (1)/((v_g)) d s]
+
+
+    where stem:[v]~g~ is the algebraic value of the projection of the group velocity
+    vector onto the tangent to the ray path, and dstem:[s] is the {{scalar line element,
+    IEV:102-05-01}}'
+  examples: []
+  notes:
+  - In a {{homogeneous, IEV:113-02-01}} medium, or on a {{uniform transmission line,
+    IEV:131-12-87}}, the group delay is equal to the derivative with respect to the
+    {{angular frequency, IEV:103-07-03}} of the difference, at the same time, of the
+    {{phases, IEV:103-07-04}}, at the two points, of the signal used to define the
+    group velocity.
+  - In practice, if the medium is not too absorbent, nor too anisotropic, nor too
+    dispersive, the group delay is equal to the propagation duration of the signal
+    used to define the group velocity.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 94691b0f-88cd-5350-bf48-23227fd94d81
+status: Standard

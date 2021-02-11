@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 161-06-01
+    link: null
+    original: 161-06-01 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: '139'
+    original: ITU RR 139 MOD
+    ref: ITU RR
+    relationship:
+      type: modified
+  definition: emission on a frequency or frequencies outside the assigned channel,
+    the level of which may be reduced without affecting the corresponding transmission
+    of information
+  examples: []
+  notes:
+  - Spurious emissions include harmonic emissions, parasitic emissions, intermodulation
+    products and frequency conversion products, but exclude out-of-band emissions.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 6a96909c-9b38-52ec-aa48-ad800a7e2a50
+status: Standard

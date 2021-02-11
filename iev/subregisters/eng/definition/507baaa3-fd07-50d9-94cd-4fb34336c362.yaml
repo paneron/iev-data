@@ -1,0 +1,14 @@
+data:
+  definition: '{{forced outage, IEV:692-04-05}} where the associated equipment is
+    automatically returned to service within a specified time interval
+
+
+    image::/assets/images/parts/692/692-fig4-en.png[Figure 4 - Outage relationships]'
+  examples: []
+  notes:
+  - The duration of that time interval is normally less than one minute.
+  - A transient outage generally involves restoration by automatic means (protection
+    schemes).
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: 507baaa3-fd07-50d9-94cd-4fb34336c362
+status: Standard

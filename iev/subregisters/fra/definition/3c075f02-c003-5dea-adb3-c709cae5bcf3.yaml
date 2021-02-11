@@ -1,0 +1,15 @@
+data:
+  definition: espace vectoriel réel ou espace affine réel dans lequel un produit scalaire
+    est défini pour tout couple de vecteurs
+  examples: []
+  notes:
+  - L'espace géométrique usuel à trois dimensions est un espace affine euclidien.
+    Les vecteurs à quatre dimensions utilisés en relativité restreinte sont des éléments
+    d'un espace affine non euclidien parce que le produit scalaire d'un vecteur par
+    lui-même peut être négatif. Un autre exemple d'espace vectoriel non euclidien
+    est l'ensemble des mots de stem:[n] bits formés des chiffres zéro et un avec l'addition
+    modulo deux. En effet le produit scalaire d'un vecteur par lui-même peut être
+    nul sans que le vecteur soit nul.
+dateAccepted: 2018-11-17
+id: 3c075f02-c003-5dea-adb3-c709cae5bcf3
+status: Standard

@@ -1,0 +1,10 @@
+data:
+  definition: déclencheur à maximum de courant qui fonctionne après un intervalle
+    de temps qui varie en raison inverse de la valeur de la surintensité
+  examples: []
+  notes:
+  - Un tel déclencheur peut être prévu pour que le retard atteigne une valeur minimale
+    définie pour les valeurs élevées de la surintensité.
+dateAccepted: '2000-07-01T00:00:00+00:00'
+id: 85d73fdf-2ab3-51c8-acf9-59be6c6d852d
+status: Standard

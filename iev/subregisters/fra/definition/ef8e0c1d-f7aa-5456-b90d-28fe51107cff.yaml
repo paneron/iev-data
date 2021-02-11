@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 604-03-06
+    link: null
+    original: 604-03-06 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: en un emplacement donné d'un réseau triphasé, et pour un schéma d'exploitation
+    donné de ce réseau, rapport entre d'une part la tension efficace la plus élevée,
+    à la fréquence du réseau, entre un conducteur de ligne saine et la terre pendant
+    un défaut à la terre affectant un ou plusieurs conducteurs de ligne en un point
+    quelconque du réseau, et d'autre part la valeur efficace de la tension phase-terre
+    à la fréquence du réseau qui serait obtenue à l'emplacement considéré en l'absence
+    d'un tel défaut à la terre
+  examples: []
+  notes: []
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: ef8e0c1d-f7aa-5456-b90d-28fe51107cff
+status: Standard

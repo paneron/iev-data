@@ -1,0 +1,15 @@
+data:
+  definition: 'product of the rms voltage stem:[U] between the terminals of a two-terminal
+    element or two-terminal circuit and the rms electric current stem:[I] in the element
+    or circuit
+
+
+    stem:[S] = stem:[UI]'
+  examples: []
+  notes:
+  - Under sinusoidal conditions, the apparent power is the modulus of the complex
+    power stem:[underset(_)(S)], thus stem:[S = | underset(_)(S) |].
+  - The coherent SI unit for apparent power is voltampere, VA.
+dateAccepted: '2013-08-01T00:00:00+00:00'
+id: c4ce8186-9fd9-513b-907d-7d4cdffb6bdf
+status: Standard

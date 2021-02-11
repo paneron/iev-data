@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.51'
+    link: https://webstore.iec.ch/publication/6486
+    original: definition 3.51 of IEC 62127-1 MOD
+    ref: IEC 62127-1
+    relationship:
+      type: modified
+  definition: time interval between equivalent points in two successive pulses of
+    the same shape
+  examples: []
+  notes:
+  - Pulses can include tone bursts.
+dateAccepted: '2011-01-01T00:00:00+00:00'
+id: a83a6e79-2d96-5610-84bf-1f30ef58b1de
+status: Standard

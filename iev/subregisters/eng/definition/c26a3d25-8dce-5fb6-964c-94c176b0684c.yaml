@@ -1,0 +1,14 @@
+data:
+  definition: standard observer whose colour-matching functions deviate from those
+    of the CIE standard colorimetric observer in a defined manner
+  examples: []
+  notes:
+  - The defined deviations can be applied to the CIE 1931 standard colorimetric observer
+    or the CIE 1964 standard colorimetric observer.
+  - The use of the CIE standard deviate observer is intended to generate differences
+    that are typical of those that occur when colour matches are made by different
+    real observers whose colour vision is classified as normal.
+  - 'See also CIE 80, _Special Metamerism Index: Change in Observer_.'
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: c26a3d25-8dce-5fb6-964c-94c176b0684c
+status: Standard

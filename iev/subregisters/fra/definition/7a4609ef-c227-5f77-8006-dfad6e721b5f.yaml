@@ -1,0 +1,12 @@
+data:
+  definition: 'pour une matrice complexe *stem:[A]* d''éléments stem:[Aij], matrice
+    notée *stem:[A]*^H^, égale à la conjuguée de la transposée: *stem:[A]*^H^ = (*stem:[A]*^T^)*
+    ou pour les éléments stem:[(( A^( H ) ))_((i j)) = A_(j i)^( * )]'
+  examples: []
+  notes:
+  - Si la matrice *stem:[A]* est réelle, l'adjointe se réduit à la transposée.
+  - L'adjointe d’une matrice *stem:[A]* est notée *stem:[A]*^H^ ou parfois *stem:[A]*^†^.
+    La notation *stem:[A]** est aussi employée en mathématiques.
+dateAccepted: 2018-11-17
+id: 7a4609ef-c227-5f77-8006-dfad6e721b5f
+status: Standard

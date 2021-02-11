@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - clause: '2.2'
+    original: Brochure sur le SI, 9<sup>e</sup> édition, 2019, 2.2, modifié – La définition
+      de la Brochure sur le SI a été révisée à des fins de mise en conformité avec
+      les règles de l’IEV.
+    ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+    relationship:
+      modification: La définition de la Brochure sur le SI a été révisée à des fins
+        de mise en conformité avec les règles de l’IEV.
+      type: modified
+  definition: '{{constante physique fondamentale, IEV:112-03-09}} qui régit, entre
+    autres, des effets quantiques et la relation entre la {{fréquence, IEV:103-06-02}}
+    stem:[f] d’un {{rayonnement électromagnétique, IEV:731-01-01}} et l’{{énergie,
+    IEV:113-03-45}} stem:[E] = stem:[hf] des {{photons, IEV:113-05-14}} correspondants,
+    dont la valeur est fixée à exactement 6,626 070 15 × 10^−34^ {{J, IEV:113-03-46}} {{s,
+    IEV:112-02-04}}'
+  examples: []
+  notes:
+  - La constante de Planck est employée dans le {{SI, IEV:112-02-02}} pour définir
+    le {{kilogramme, IEV:112-02-06}}.
+dateAccepted: 2018-11-17
+id: 141f1975-b460-5e0e-aeab-9a88c844547f
+status: Standard

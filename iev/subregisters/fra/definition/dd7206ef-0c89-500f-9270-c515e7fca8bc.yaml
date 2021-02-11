@@ -1,0 +1,22 @@
+data:
+  definition: 'vecteur Δ*stem:[U]* associé en chaque point d''un domaine déterminé
+    de l''espace à un vecteur *stem:[U]*, égal à la différence entre le gradient de
+    la divergence du champ vectoriel et le rotationnel du rotationnel de ce champ
+
+
+    Δ*stem:[U]* = *grad* div *stem:[U]* − *rot rot stem:[U]*'
+  examples: []
+  notes:
+  - 'En coordonnées cartésiennes orthonormées, les trois coordonnées du laplacien
+    vectoriel sont:
+
+
+    stem:[((del^2 U_x))/((del x^2)) + ((del^2 U_x))/((del y^2)) + ((del^2 U_x))/((del
+    z^2)) , ((del^2 U_y))/((del x^2)) + ((del^2 U_y))/((del y^2)) + ((del^2 U_y))/((del
+    z^2)) , ((del^2 U_z))/((del x^2)) + ((del^2 U_z))/((del y^2)) + ((del^2 U_z))/((del
+    z^2))].'
+  - Le laplacien vectoriel du champ vectoriel *stem:[U]* est noté Δ*stem:[U]* ou ∇^2^*stem:[U]*,
+    où Δ est l'opérateur laplacien.
+dateAccepted: 2018-11-17
+id: dd7206ef-0c89-500f-9270-c515e7fca8bc
+status: Standard

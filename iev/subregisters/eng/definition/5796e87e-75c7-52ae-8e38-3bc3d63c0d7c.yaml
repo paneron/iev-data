@@ -1,0 +1,22 @@
+data:
+  definition: 'distortion of voltage waveform caused by a non-linear relation between
+    the magnetic flux density and the magnetic field strength in the magnetic core
+    and expressed in decibels by:
+
+
+    stem:[THD] &amp;equals; 20 lg(stem:[V]~m~/stem:[V]~f~) dB
+
+
+    where
+
+
+    stem:[V_m = sqrt(sum_((n = 1))^(oo) V_n^2)]
+
+
+    stem:[V]~stem:[n]~ is the amplitude of the stem:[n]-th harmonic component of the
+    waveform and stem:[V]~f~ is the amplitude of its fundamental component'
+  examples: []
+  notes: []
+dateAccepted: '2007-04-01T00:00:00+00:00'
+id: 5796e87e-75c7-52ae-8e38-3bc3d63c0d7c
+status: Standard

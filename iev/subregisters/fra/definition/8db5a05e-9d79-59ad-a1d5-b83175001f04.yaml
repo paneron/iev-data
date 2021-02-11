@@ -1,0 +1,20 @@
+data:
+  definition: tenseur du deuxième ordre défini par une forme bilinéaire telle que
+    stem:[f ( U , V ) = - f ( V , U )]
+  examples: []
+  notes:
+  - Les coordonnées d'un tenseur antisymétrique sont telles que stem:[T_((i j)) =
+    - T_((j i))] , et en particulier stem:[T_((i i)) = 0] .
+  - 'Un tenseur antisymétrique sur un espace à trois dimensions a trois composantes
+    strictes qui peuvent être considérées comme les coordonnées stem:[W_1 , W_2 ,
+    W_3] d''un vecteur axial:
+
+
+    stem:[( [[0,W_3,- W_2],[- W_3,0,W_1],[W_2,- W_1,0]] )]
+
+
+    Le vecteur axial associé au tenseur antisymétrique stem:[U ox V - V ox U] est
+    le produit vectoriel des deux vecteurs.'
+dateAccepted: 2018-11-17
+id: 8db5a05e-9d79-59ad-a1d5-b83175001f04
+status: Standard

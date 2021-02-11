@@ -1,0 +1,10 @@
+data:
+  definition: '{{dyadic Boolean operation, IEV:171-03-08}} whose result has the Boolean
+    value 0 if and only if the first {{operand, IEV:171-03-04}} has the Boolean value
+    0 and the second has the Boolean value 1'
+  examples: []
+  notes:
+  - Implication is noted stem:[a -&gt; b].
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: baa88d2d-5b26-5876-ac55-c207347818fd
+status: Standard

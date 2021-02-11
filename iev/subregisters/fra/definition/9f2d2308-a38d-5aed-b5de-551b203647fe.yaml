@@ -1,0 +1,14 @@
+data:
+  definition: dans un ensemble muni d'une multiplication, élément unique stem:[u],
+    s'il existe, tel que stem:[a * u = u * a = a] pour tout élément stem:[a]
+  examples: []
+  notes:
+  - Pour les nombres, l'élément neutre pour la multiplication est le nombre un, noté
+    1. Pour les matrices carrées, l'élément neutre est la matrice unité de même ordre.
+    Pour les grandeurs, l'élément neutre est une grandeur sans dimension (ou grandeur
+    de dimension un) dont la valeur numérique est le nombre un. Pour les {{dimensions,
+    IEV:112-01-11}} de grandeurs, l'élément neutre est la dimension des grandeurs
+    sans dimension, notée par le symbole 1.
+dateAccepted: 2018-11-17
+id: 9f2d2308-a38d-5aed-b5de-551b203647fe
+status: Standard

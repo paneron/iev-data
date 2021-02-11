@@ -1,0 +1,11 @@
+data:
+  definition: commande en boucle ouverte, fonctionnant avec signal d'horloge, dans
+    laquelle les variations des variables de sortie sont induites par des variations
+    des variables d'entrée, mais uniquement lorsque le signal d’horloge autorise ces
+    variations
+  examples: []
+  notes:
+  - Cet article était numéroté 351-32-38 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 6a28e4fb-088f-5119-b88e-1bed37e31cb4
+status: Standard

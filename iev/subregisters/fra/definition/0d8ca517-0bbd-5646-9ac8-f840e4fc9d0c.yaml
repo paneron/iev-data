@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: '3.5'
+    link: https://www.iso.org/standard/32893.html
+    original: ISO/IEC Guide 51:1999, définition 3.5, modifiée – L’information dans
+      la note a été étendue afin de clarifier l’utilisation des termes “hazard” en
+      anglais et “risque” en français.
+    ref: ISO/IEC Guide 51:1999
+    relationship:
+      modification: L’information dans la note a été étendue afin de clarifier l’utilisation
+        des termes “hazard” en anglais et “risque” en français.
+      type: modified
+  definition: source potentielle de {{dommage, IEV:903-01-01}}
+  examples: []
+  notes:
+  - En anglais, le terme «hazard» peut être qualifié afin de définir l’origine du
+    phénomène dangereux ou la nature du dommage attendu (par exemple, «electric shock
+    hazard», «crushing hazard», «cutting hazard», «toxic hazard», «fire hazard», «drowning
+    hazard»).
+  - En français, le synonyme «risque» est employé avec un qualificatif ou un complément
+    afin de définir l’origine du phénomène dangereux ou la nature du dommage attendu
+    (par exemple, «risque de choc électrique», «risque d'écrasement», «risque de coupure»,
+    «risque toxique», «risque d'incendie», «risque de noyade»).
+  - En français, le terme «risque» désigne aussi la combinaison de la probabilité
+    d'un dommage et de sa gravité, en anglais «risk» (voir {{903-01-07, IEV:903-01-07}}).
+dateAccepted: '2013-06-01T00:00:00+00:00'
+id: 0d8ca517-0bbd-5646-9ac8-f840e4fc9d0c
+status: Standard

@@ -1,0 +1,22 @@
+data:
+  definition: maximum permissible deviation of the oscillator frequency from a specified
+    nominal value when operating under specified conditions
+  examples: []
+  notes:
+  - "Frequency tolerances are often assigned separately to specified ambient effects,\
+    \ namely electrical, mechanical and environmental. When this approach is used,\
+    \ it is necessary to define the values of other operating parameters as well as\
+    \ the range of the specified variable, that is to say:\n\n* deviation from the\
+    \ frequency at the specified reference temperature due to operation over the specified\
+    \ temperature range, other conditions remaining constant; \n\n* deviation from\
+    \ the frequency at the specified supply voltage due to supply voltage changes\
+    \ over the specified range, other conditions remaining constant; \n\n* deviation\
+    \ from the initial frequency due to ageing, other conditions remaining constant;\
+    \ \n\n* deviation from the frequency with specified load conditions due to changes\
+    \ in load impedance over the specified range, other conditions remaining constant.\
+    \ \n\nIn some cases, an overall frequency tolerance may be specified, due to any\
+    \ or all combinations of operating parameters, during a specified lifetime."
+  - This entry was numbered 561-02-17, 561-02-18 and 561-02-19 in IEC 60050-561:1991.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: a27715d2-f578-5284-8de2-d367741fcc10
+status: Standard

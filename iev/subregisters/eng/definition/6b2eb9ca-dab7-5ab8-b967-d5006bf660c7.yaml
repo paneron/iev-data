@@ -1,0 +1,10 @@
+data:
+  definition: output stage which may be enabled or disabled by the application of
+    an input control signal
+  examples: []
+  notes:
+  - In the disabled mode the output impedance of the gate is set to a high level permitting
+    the application of test signals to the following stages.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 6b2eb9ca-dab7-5ab8-b967-d5006bf660c7
+status: Standard

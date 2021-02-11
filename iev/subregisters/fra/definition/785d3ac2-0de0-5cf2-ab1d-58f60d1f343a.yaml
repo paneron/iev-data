@@ -1,0 +1,26 @@
+data:
+  definition: élément d'un diagramme fonctionnel permettant le passage d'une étape
+    en amont à une étape en aval suivante où la transition dépend d’une condition
+    de transition
+  examples: []
+  notes:
+  - Une transition est validée si toutes les étapes immédiatement précédentes qui
+    lui sont connectées par des liaisons orientées sont actives.
+  - Une transition prend effet, si cette condition de transition devient vraie et
+    la transition est franchie par celle-ci; la transition active la suivante et désactive
+    l’étape précédente (voir Figure 23).
+  - Une transition ne peut relier qu'une ou plusieurs étapes en amont à une ou plusieurs
+    étapes en aval.
+  - 'Cet article était numéroté 351-29-24 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 23 – Symbols of step, transition and command in sequential control*
+
+
+    *Figure 23 – Symboles d''étapes, de transitions et d''ordres en commande séquentielle*</simg>'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 785d3ac2-0de0-5cf2-ab1d-58f60d1f343a
+status: Standard

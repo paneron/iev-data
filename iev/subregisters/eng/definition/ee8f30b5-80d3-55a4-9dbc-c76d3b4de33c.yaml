@@ -1,0 +1,19 @@
+data:
+  definition: the phase displacement between the fundamental components of the magnetic
+    flux density and the magnetic field strength
+  examples: []
+  notes:
+  - Where a phase displacement can be associated with eddy currents, hysteresis or
+    residual losses, the loss angle may be designated by stem:[δ]~F~ for eddy current
+    loss, stem:[δ]~h~ for hysteresis loss and stem:[δ]~r~ for residual loss.
+  - 'The tangent of loss angle is often used to express the losses in a magnetic material:
+
+
+    stem:[tan delta_m = (mu^( ″ ))/(mu^( '' ))]
+
+
+    where stem:[µ]′ and stem:[µ]″ are the real and imaginary components respectively
+    of the complex permeability (symb.: stem:[µ]).'
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: ee8f30b5-80d3-55a4-9dbc-c76d3b4de33c
+status: Standard

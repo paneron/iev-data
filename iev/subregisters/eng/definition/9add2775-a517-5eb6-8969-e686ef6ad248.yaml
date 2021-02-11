@@ -1,0 +1,24 @@
+data:
+  definition: '{{alert state, IEV:692-02-07}} in which a {{credible event, IEV:692-01-08}}
+    can result in {{loss of load, IEV:692-01-16}}, over-stressing of system components,
+    or bus voltages or system frequency outside tolerances
+
+
+    image::/assets/images/parts/692/692-fig2-en.png[Figure 2 - Electric power system
+    states
+
+
+    <simg></simg>'
+  examples: []
+  notes:
+  - 'The arrows indicate the most important state transitions caused by credible events.
+    Recovery transitions, in opposite directions, are effected by operator intervention.
+
+
+    Figure 3 – Examples of transitions within electric power system states]'
+  - A potentially inadequate state can occur within an {{adequate state, IEV:692-02-04}}
+    or {{partially adequate state, IEV:692-02-05}}.
+  - This entry was numbered 191-22-08 in IEC 60050-191:1990.
+dateAccepted: '2017-12-01T00:00:00+00:00'
+id: 9add2775-a517-5eb6-8969-e686ef6ad248
+status: Standard

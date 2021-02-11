@@ -1,0 +1,11 @@
+data:
+  definition: operation defined on the set of square matrices of a given order, which
+    associates to any ordered pair (*stem:[A]*, *stem:[B]*) of matrices their product
+    *stem:[AB]*
+  examples: []
+  notes:
+  - The multiplication of square matrices is associative, (*stem:[AB]*)*stem:[C]*
+    = *stem:[A]*(*stem:[BC]*), but not commutative, generally *stem:[AB]* ≠ *stem:[BA]*.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 2696511a-b5cb-5545-99f4-22de54fb3810
+status: Standard

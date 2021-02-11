@@ -1,0 +1,17 @@
+data:
+  definition: 'representation of a real or complex function stem:[f](stem:[t]) of
+    the real variable stem:[t] by the integral transformation
+
+
+    stem:[f ( t ) = (1)/((2 pi j)) int_( sigma - j oo)^( sigma + j oo) F ( s ) e^(s
+    t) d s]
+
+
+    where stem:[F ( s )] is the Laplace transform of the function stem:[f](stem:[t]),
+    stem:[σ] is greater or equal to the abscissa of convergence of stem:[F ( s )]
+    and j is the imaginary unit'
+  examples: []
+  notes: []
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 20130002-2d40-5101-89a7-8a54a8aee4ca
+status: Standard

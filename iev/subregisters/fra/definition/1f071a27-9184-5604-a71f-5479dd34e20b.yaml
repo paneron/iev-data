@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - clause: 726-01-01
+    link: null
+    original: 726-01-01 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: 704-02-02
+    link: null
+    original: 704-02-02 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: ligne destinée principalement à un transfert de signaux
+  examples: []
+  notes:
+  - Une ligne de transmission est caractérisée par de faibles pertes par rayonnement.
+  - L'expression "ligne de transmission" et le mot "ligne" dans un terme composé désignent
+    souvent de façon restrictive une ligne destinée à guider des ondes électromagnétiques
+    dans le mode TEM, ordinairement un ensemble de deux fils parallèles ou de deux
+    conducteurs coaxiaux.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 1f071a27-9184-5604-a71f-5479dd34e20b
+status: Standard

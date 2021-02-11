@@ -1,0 +1,14 @@
+data:
+  definition: logarithme du rapport de la moyenne, effectuée sur un intervalle de
+    temps spécifié, du carré de la pression acoustique, pondérée suivant une pondération
+    fréquentielle normalisée, au carré de la pression acoustique de référence de 20
+    μPa. Exprimé en décibels, ce niveau est égal à dix fois le logarithme décimal
+    de ce rapport
+  examples: []
+  notes:
+  - Si aucune pondération en fréquence n'est précisée, on supposera qu'il s'agit de
+    la pondération A.
+  - En principe, la mesure ne comporte pas de pondération temporelle exponentielle.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 5f2a4863-d573-50f4-9aac-5ceba15f007e
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 826-12-08
+    link: https://webstore.iec.ch/publication/266
+    original: IEC 60050-826:2004, 826-12-08, modifié – Reference to PEN, PEL and PEM
+      conductors removed, reference to running rails added.IEC 62128-1:2013, 3.1.13
+    ref: IEC 60050-826:2004
+    relationship:
+      modification: Reference to PEN, PEL and PEM conductors removed, reference to
+        running rails added.IEC 62128-1:2013, 3.1.13
+      type: modified
+  definition: conducteur ou partie conductrice destiné à être sous tension en service
+    normal
+  examples: []
+  notes:
+  - La notion n'implique pas nécessairement un risque de choc électrique.
+  - Par convention, ceci n'inclut pas les rails de roulement et les parties qui leur
+    sont connectées.
+dateAccepted: 2018-11-17
+id: d6a136e6-56ad-594b-bf3c-478f6f7d253d
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: definition 437
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, definition 437, modified
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: 'quotient of dstem:[X] by dstem:[t], where dstem:[X] is the increment
+    of exposure stem:[X] in the time interval of duration dstem:[t]
+
+
+    stem:[overset(˙)(X) = d X // d t]'
+  examples: []
+  notes:
+  - This entry was numbered 393-14-99 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: dd206c43-01ee-515f-a413-be4d97eb60eb
+status: Standard

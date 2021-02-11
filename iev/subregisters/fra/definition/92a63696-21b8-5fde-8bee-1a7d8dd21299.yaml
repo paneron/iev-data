@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: '1.14'
+    link: https://www.iso.org/standard/45324.html
+    original: ISO/IEC GUIDE 99:2007 1.14
+    ref: ISO/IEC Guide 99:2007
+    relationship:
+      type: identical
+  definition: système d'unités, fondé sur un système de grandeurs donné, dans lequel
+    l'unité de mesure de chaque grandeur dérivée est une unité dérivée cohérente
+  examples: []
+  notes:
+  - Un système d'unités ne peut être cohérent que par rapport à un système de grandeurs
+    et aux unités de base adoptées.
+  - Pour un système cohérent d'unités, les équations aux valeurs numériques ont la
+    même forme, y compris les facteurs numériques, que les équations aux grandeurs
+    correspondantes.
+  - Un exemple de système cohérent d’unités est l’ensemble des unités SI cohérentes
+    muni des relations entre elles.
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 92a63696-21b8-5fde-8bee-1a7d8dd21299
+status: Standard

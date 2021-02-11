@@ -1,0 +1,9 @@
+data:
+  definition: time interval, from the instant of failure, until restoration
+  examples: []
+  notes:
+  - If the instant of failure is indeterminate, the time interval is assumed to commence
+    upon failure detection.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 162ff734-8192-5537-9d09-f5a5df095cd8
+status: Standard

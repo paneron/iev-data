@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 13-19
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-19, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: 'product of the {{carrier power, IEV:713-09-20}} stem:[P]~c~ and the
+    {{period of binary digits, IEV:171-06-06}} stem:[T]~b~
+
+
+    stem:[E]~b~ = stem:[P]~c~·stem:[T]~b~'
+  examples: []
+  notes: []
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 0a205cdf-fe60-50b0-acb3-9adea49d9e3c
+status: Standard

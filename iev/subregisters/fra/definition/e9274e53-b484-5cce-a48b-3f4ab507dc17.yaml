@@ -1,0 +1,16 @@
+data:
+  definition: perméabilité relative obtenue à partir des valeurs crête à creux de
+    l'induction magnétique et du champ magnétique appliqué, pour des amplitudes données
+    de l'une ou l'autre grandeur, lorsque le champ varie périodiquement en fonction
+    du temps autour d'une valeur statique spécifiée
+  examples: []
+  notes:
+  - Les notes qui suivent la définition de la perméabilité d'amplitude s'appliquent
+    également à la présente définition.
+  - La perméabilité avec champ statique superposé dépend de la façon par laquelle
+    le champ a été amené à sa valeur statique. La définition suppose que les composantes
+    alternative et statique du champ sont colinéaires ; s'il n'en est pas ainsi, la
+    perméabilité est une grandeur tensorielle.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: e9274e53-b484-5cce-a48b-3f4ab507dc17
+status: Standard

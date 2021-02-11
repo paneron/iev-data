@@ -1,0 +1,23 @@
+data:
+  definition: 'numerical value characterizing the set of measurements available for
+    the state estimation of a network
+
+
+    stem:[r = (m)/((2 n - 1)) - 1]
+
+
+    where
+
+
+    stem:[r] is the redundancy factor
+
+
+    stem:[m] is the number of measurements in the network
+
+
+    stem:[n] is the number of nodes of the network'
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 9c9ebd51-1f15-5848-8d78-72f0747095a9
+status: Standard

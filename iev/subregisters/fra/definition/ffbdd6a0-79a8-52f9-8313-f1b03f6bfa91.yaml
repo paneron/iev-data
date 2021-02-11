@@ -1,0 +1,20 @@
+data:
+  definition: potentiel d'accélération de fonctionnement le plus élevé d'un tube radiogène
+    indiqué par le constructeur pour le service (par exemple, service de longue durée)
+    et la forme de la haute tension (par exemple, avec générateur à une alternance)
+    considérés. Dans le cas d'un générateur à une alternance, la valeur du potentiel
+    d'accélération maximal du tube est mesurée pendant la période de charge
+  examples: []
+  notes:
+  - L'indication du potentiel d'accélération maximal assigné se rapporte toujours
+    à la valeur de crête, sauf indication contraire.
+  - Pour des services différents, par exemple service de longue durée, service intermittent
+    et service temporaire (гаdiographie), il est possible d'avoir une différence de  potentiel
+    maximale assignée différente.
+  - Dans le cas des générateurs à une alternance, la valeur de la différence de potentiel
+    de charge (qui caractérise le rayonnement émis) et celle de la différence de potentiel
+    inverse (qui détermine la différence de potentiel maximale à laquelle le tube
+    sera soumis pendant le fonctionnement) peuvent être différentes.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: ffbdd6a0-79a8-52f9-8313-f1b03f6bfa91
+status: Standard

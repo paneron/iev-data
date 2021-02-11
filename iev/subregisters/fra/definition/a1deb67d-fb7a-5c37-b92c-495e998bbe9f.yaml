@@ -1,0 +1,15 @@
+data:
+  definition: "relation entre deux entités stem:[a] et stem:[b], ayant les propriétés\
+    \ suivantes:\n\n * réflexivité: stem:[a] = stem:[a], \n\n* symétrie: si stem:[a]\
+    \ = stem:[b] alors stem:[b] = stem:[a], \n\n* transitivité: if stem:[a] = stem:[b]\
+    \ et stem:[b] = stem:[c] alors stem:[a] = stem:[c], où stem:[c] est une troisième\
+    \ entité, \n\n* si stem:[a] = stem:[b] et ℛ{stem:[u]} est un énoncé quelconque\
+    \ concernant l'entité stem:[u], alors ℛ{stem:[a]} est vrai si et seulement si\
+    \ ℛ{stem:[b]} est vrai"
+  examples: []
+  notes:
+  - L'égalité de deux entités stem:[a] et stem:[b] est notée stem:[a] = stem:[b] et
+    exprimée par «stem:[a] est égal à stem:[b]».
+dateAccepted: 2018-11-17
+id: a1deb67d-fb7a-5c37-b92c-495e998bbe9f
+status: Standard

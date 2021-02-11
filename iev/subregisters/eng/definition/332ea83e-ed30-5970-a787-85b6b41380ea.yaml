@@ -1,0 +1,20 @@
+data:
+  definition: <a href="IEV845-23-038">tristimulus values</a> of monochromatic stimuli
+    of equal radiant flux
+  examples: []
+  notes:
+  - See also "<a href="IEV845-23-032">colour-matching coefficients</a>".
+  - The colour-matching functions can be used to calculate the tristimulus values
+    of a colour stimulus from its colour stimulus functions stem:[φλ](stem:[λ]).
+  - See also CIE 15, stem:[Colorimetry].
+  - 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric Observers_.'
+  - 'In the CIE standard colorimetric systems, the colour-matching functions are represented
+    by the symbols stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )]
+
+
+    and stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda
+    )].'
+  - This entry was numbered 845-03-23 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 332ea83e-ed30-5970-a787-85b6b41380ea
+status: Standard

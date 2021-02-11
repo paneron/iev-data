@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 13-30
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-30, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: 'logarithm of the reciprocal of the joint probability of occurrence
+    stem:[p](stem:[x],stem:[y]) of two events stem:[x] and stem:[y]
+
+
+    stem:[I ( x , y ) = log (1)/((p ( x , y )))]'
+  examples: []
+  notes: []
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 01011a19-8e17-5044-be7d-c2713366d058
+status: Standard

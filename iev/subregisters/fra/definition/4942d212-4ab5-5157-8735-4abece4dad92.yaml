@@ -1,0 +1,11 @@
+data:
+  definition: valeur exprimant la relation entre l’énergie enregistrée par un compteur
+    et la valeur correspondante donnée par le dispositif de sortie d’essai
+  examples: []
+  notes:
+  - Si cette valeur est un nombre d’impulsions, la constante doit être soit le nombre
+    d’impulsions par kilowattheure (imp/kWh), soit le nombre de wattheures par impulsion
+    (Wh/imp)
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 4942d212-4ab5-5157-8735-4abece4dad92
+status: Standard

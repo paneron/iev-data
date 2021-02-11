@@ -1,0 +1,13 @@
+data:
+  definition: the location of a point associated with an antenna, if it exists, such
+    that, when it is taken as the centre of a sphere or a circle, the phase of a given
+    field component in the far-field region remains essentially constant at least
+    over that portion of the surface of the sphere or over an arc of the circle where
+    the radiation is significant
+  examples: []
+  notes:
+  - Some antennas have different phase centres dependent on the plane containing the
+    circle being considered.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: e02cb012-f81e-541d-bb76-47eb697aca2b
+status: Standard

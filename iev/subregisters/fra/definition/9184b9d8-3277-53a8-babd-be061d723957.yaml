@@ -1,0 +1,11 @@
+data:
+  definition: intensité du trafic poissonien offert à un faisceau de circuits fictif,
+    qui donnerait une intensité de trafic de débordement ayant même espérance mathématique
+    et même variance que celle d'un trafic offert donné
+  examples: []
+  notes:
+  - La notion d'intensité de trafic équivalente permet de tenir compte d'une manière
+    indirecte de la variance du trafic; le faisceau fictif est appelé "faisceau équivalent".
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 9184b9d8-3277-53a8-babd-be061d723957
+status: Standard

@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: 604-04-04
+    link: null
+    original: 604-04-04 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: 604-04-05
+    link: null
+    original: 604-04-05 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: 826-04-04
+    link: null
+    original: 826-04-04 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: earth electrode located at such a distance from other earth electrodes
+    that its electric potential is not significantly affected by electric currents
+    between Earth and other earth electrodes
+  examples: []
+  notes: []
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: bde78f50-4b7a-5279-898c-7ad97350c8c8
+status: Standard

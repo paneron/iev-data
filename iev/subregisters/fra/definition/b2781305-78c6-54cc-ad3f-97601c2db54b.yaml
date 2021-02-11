@@ -1,0 +1,28 @@
+data:
+  definition: 'impulsion unidirectionnelle définie en fonction du temps stem:[t] par
+    les expressions:
+
+
+    stem:[y] = k sin^2^ (stem:[π t]/2 stem:[T]) pour 0 ≤ stem:[t] ≤ 2 stem:[T]
+
+
+    stem:[y] = 0 pour stem:[t] &lt; 0 et stem:[t] &gt; 2stem:[T]
+
+
+    où:
+
+
+    stem:[y] est la valeur instantanée de la grandeur caractéristique,
+
+
+    k est la valeur de crête de l''impulsion,
+
+
+    2stem:[T] est la durée totale de l''impulsion, stem:[T] étant la durée de l''intervalle
+    de temps au cours duquel la grandeur caractéristique de l''impulsion est supérieure
+    à k/2'
+  examples: []
+  notes: []
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: b2781305-78c6-54cc-ad3f-97601c2db54b
+status: Standard

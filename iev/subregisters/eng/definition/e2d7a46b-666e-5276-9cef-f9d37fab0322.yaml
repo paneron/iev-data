@@ -1,0 +1,13 @@
+data:
+  definition: 'for a complex matrix *stem:[A]* with elements stem:[Aij], matrix denoted
+    by *stem:[A]*^H^, equal to the complex conjugate of the transpose matrix: *stem:[A]*^H^
+    = (*stem:[A]*^T^)* or for elements stem:[(( A^( H ) ))_((i j)) = A_(j i)^( * )]'
+  examples: []
+  notes:
+  - If the matrix *stem:[A]* is real, the Hermitian conjugate matrix reduces to the
+    transpose matrix.
+  - The Hermitian conjugate matrix of a matrix *stem:[A]* is denoted by *stem:[A]*^H^
+    or sometimes *stem:[A]*^†^. The notation *stem:[A]** is also used in mathematics.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: e2d7a46b-666e-5276-9cef-f9d37fab0322
+status: Standard

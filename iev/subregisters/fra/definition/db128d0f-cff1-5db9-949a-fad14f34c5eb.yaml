@@ -1,0 +1,17 @@
+data:
+  definition: grandeur complexestem:[underset(_)(gamma) = alpha + j beta] figurant
+    dans la représentation complexe d’une onde stem:[A_0 exp ( - underset(_)(gamma)
+    x + j omega t + j vartheta_0 )], lorsque sa partie réelle stem:[A_0 exp ( - alpha
+    x ) cos ( - beta x + omega t + vartheta_0 )] représente, le long d'une droite
+    parallèle à l'axe des stem:[x], une grandeur caractéristique d'une onde guidée
+    ou d'une onde plane sinusoïdale de pulsation stem:[ω] et de phase à l'origine
+    stem:[vartheta_0]
+  examples: []
+  notes:
+  - Le concept d'exposant linéique de propagation n'a de sens que lorsque stem:[A_0]
+    et stem:[underset(_)(gamma)] sont en principe indépendants de stem:[x].
+  - L'exposant linéique de propagation a les dimensions de l'inverse d'une longueur
+    et est généralement fonction de la fréquence.
+dateAccepted: 2018-11-17
+id: db128d0f-cff1-5db9-949a-fad14f34c5eb
+status: Standard

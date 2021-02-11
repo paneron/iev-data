@@ -1,0 +1,11 @@
+data:
+  definition: qualifies an input, output or transfer immittance when the other ports
+    have zero terminating impedances, or a forward or reverse transfer ratio when
+    the port corresponding to the numerator has zero terminating impedance
+  examples: []
+  notes:
+  - Examples in IEC 60027-2 are the short-circuit input admittance, the short-circuit
+    input impedance, the short-circuit reverse current transfer ratio.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 6ee488f4-2208-5d93-80f5-3f8fffdf562b
+status: Standard

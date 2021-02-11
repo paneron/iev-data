@@ -1,0 +1,17 @@
+data:
+  definition: rapport, généralement exprimé en décibels, du gain isotrope partiel
+    d'une antenne dans une direction spécifiée au gain isotrope maximal d'une antenne
+    de référence ayant la polarisation pour laquelle le gain isotrope partiel de l'antenne
+    est considéré
+  examples: []
+  notes:
+  - Si l'antenne de référence a dans la direction considérée la même polarisation
+    que l'antenne, le gain relatif est le rapport des gains isotropes.
+  - Si aucune direction n'est spécifiée, on considère celle dans laquelle l'intensité
+    de rayonnement de l'antenne est maximale.
+  - On prend souvent comme antenne de référence le doublet demi-onde sans pertes,
+    le doublet électrique élémentaire, ou une antenne verticale au sol sans pertes,
+    très courte.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 16dfdfd1-f70b-520d-a724-3a1cd54ca5ab
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 702-07-26
+    link: null
+    original: MOD 702-07-26
+    ref: IEV
+    relationship:
+      type: modified
+  definition: réponse temporelle d'un dispositif produite par l'application d'une
+    impulsion-unité ou distribution de Dirac à son entrée
+  examples: []
+  notes:
+  - La réponse impulsionnelle est la transformée de Laplace ou de Fourier inverse
+    de la fonction de transfert. Sa convolution avec le signal d'entrée donne le signal
+    de sortie.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 426b8de3-86a2-5501-be2c-846f312744d2
+status: Standard

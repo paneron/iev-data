@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '3.12'
+    original: ≠ VIM 3.12
+    ref: JCGM VIM
+    relationship:
+      type: not_equal
+  definition: rapport de l'erreur absolue à une valeur de comparaison
+  examples: []
+  notes:
+  - Ce terme est utilisé dans l’approche "valeur vraie".
+  - La valeur de comparaison devrait être une valeur vraie de la grandeur, mais étant
+    donné qu’une valeur vraie ne peut pas être déterminée, on utilise en pratique
+    une valeur conventionnellement vraie.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 4cc8a98b-d629-52f1-9a18-fea558e162c0
+status: Standard

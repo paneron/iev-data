@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 702-07-27
+    link: null
+    original: MOD 702-07-27
+    ref: IEV
+    relationship:
+      type: modified
+  definition: the ratio of two complex quantities characterizing a signal as a function
+    of frequency at the output and corresponding input of a device
+  examples: []
+  notes:
+  - The transfer function may be taken as the ratio of the Fourier or Laplace transforms
+    of the output and input quantities expressed as functions of time. The term frequency
+    response essentially denotes a ratio of the Fourier transforms.
+  - The transfer function is the Laplace or Fourier transform of the impulse response.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: fa37846f-95c3-523e-8d63-f23e86245d51
+status: Standard

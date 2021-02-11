@@ -1,0 +1,22 @@
+data:
+  definition: 'en régime sinusoïdal, dans un milieu tel qu''une relation linéaire
+    existe en chaque point entre les phaseurs stem:[B] et stem:[H] représentant respectivement
+    l''induction magnétique et le champ magnétique, grandeur complexe stem:[μ]~r~
+    définie par la relation
+
+
+    stem:[B] = stem:[μ]~0~stem:[μ]~r~ stem:[H]
+
+
+    où stem:[μ]~0~ est la constante magnétique'
+  examples: []
+  notes:
+  - La perméabilité relative complexe, généralement fonction de la fréquence, est
+    une grandeur scalaire dans un milieu isotrope, une grandeur tensorielle dans un
+    milieu anisotrope.
+  - On écrit en général stem:[μ]~r~ = stem:[μ]'~r~ − jstem:[μ]''~r~ où stem:[μ]'~r~
+    est la perméabilité relative réelle et stem:[μ]''~r~ est l'indice de pertes magnétiques
+    qui caractérise l'ensemble des pertes magnétiques.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: e06e1bc6-2601-52bb-b540-692a5577afcf
+status: Standard

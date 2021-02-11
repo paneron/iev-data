@@ -1,0 +1,11 @@
+data:
+  definition: a controllable valve device which is not capable of blocking any voltage
+    of more than several volts in its non-conducting direction
+  examples: []
+  notes:
+  - In certain power electronic circuits such valve devices require means to suppress
+    any reverse voltages, e.g. inverse parallel connected non-controllable valve devices
+    (rectifier diodes).
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: c92df7da-63bc-53d1-a06d-803c1d6eede7
+status: Standard

@@ -1,0 +1,39 @@
+data:
+  definition: 'densité du flux lumineux par rapport à l''angle solide dans une direction
+    spécifiée
+
+
+    stem:[I_v = ((d Phi_v))/((d omega))]
+
+
+    où stem:[Φ]~v~ est le flux lumineux émis dans une direction spécifiée, et stem:[Ω]
+    est l''angle solide contenant cette direction'
+  examples: []
+  notes:
+  - Pour l'application pratique de la grandeur, la source est calculée de manière
+    approchée par une <a href="IEV845-21-033">source ponctuelle</a>.
+  - 'La répartition des intensités lumineuses en fonction de la direction d''émission,
+    par exemple, donnée par les angles polaires (stem:[ϑ], stem:[φ]), permet de déterminer
+    le flux lumineux, stem:[Φ]~v~, dans un certain angle solide, stem:[Ω], d''une
+    source:
+
+
+    stem:[Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi
+    \ d vartheta].'
+  - 'L''intensité lumineuse peut être dérivée de la répartition de l''intensité énergétique
+    spectrale par
+
+
+    stem:[I_v = \ K_m int_0^(oo) I_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+
+    où stem:[K]~m~ est l''efficacité lumineuse maximale, stem:[I]~e,stem:[λ]~(stem:[λ])
+    est l''intensité énergétique spectrale à la longueur d''onde stem:[λ], et stem:[V](stem:[λ])
+    est l''<a href="IEV845-21-035">efficacité lumineuse spectrale</a>.'
+  - La grandeur radiométrique correspondante est l'"intensité énergétique". La grandeur
+    correspondante pour les photons est l'"intensité photonique".
+  - L'intensité lumineuse est exprimée en candela (cd = lm·sr^−1^).
+  - Cet article était numéroté 845-01-31 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: f33e4be6-46dc-5d6a-9491-483600e6fba2
+status: Standard

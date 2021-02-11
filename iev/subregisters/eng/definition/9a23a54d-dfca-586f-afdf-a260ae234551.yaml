@@ -1,0 +1,20 @@
+data:
+  definition: 'the quotient of dstem:[E]~tr~/stem:[E]~stem:[N]~ by stem:[ρ] dstem:[l],
+    where stem:[E]~stem:[N]~ is the energy of each particle (excluding rest energy),
+    stem:[N] is the number of particles, and dstem:[E]~tr~/stem:[E]~stem:[N]~ is the
+    fraction of incident particle energy that is transferred to kinetic energy of
+    charged particles by interactions in traversing a distance dstem:[l] in the material
+    of density stem:[ρ]
+
+
+    stem:[((mu_((tr))))/(rho) = (1)/((E_N rho)) * ((d E_((tr))))/((d l))]'
+  examples: []
+  notes:
+  - 'For a given monoenergetic radiation, the relationship between kerma (stem:[K])
+    and energy fluence (stem:[Ψ]) may be written
+
+
+    stem:[K = Psi ((mu_((tr))))/(rho)]'
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 9a23a54d-dfca-586f-afdf-a260ae234551
+status: Standard

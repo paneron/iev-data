@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 725-12-07
+    link: null
+    original: 725-12-07 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: '67'
+    original: ITU RR 67 MOD
+    ref: ITU RR
+    relationship:
+      type: modified
+  definition: radio station in the mobile service not intended to be used while in
+    motion
+  examples: []
+  notes:
+  - In French, the terms “station terrestre”, “station de Terre” and “station terrienne”
+    derive from the same root, but refer to different concepts.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 468ecb01-92d0-522a-af40-15379d0ea6d9
+status: Standard

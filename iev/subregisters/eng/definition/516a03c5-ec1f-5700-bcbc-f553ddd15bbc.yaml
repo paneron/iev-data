@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 151-15-37
+    link: null
+    original: 151-15-37
+    ref: IEV
+    relationship:
+      type: identical
+  definition: qualifies an operation of a device or an electric circuit when it does
+    not supply power, or by extension qualifies a quantity associated with this device
+    or circuit
+  examples: []
+  notes:
+  - If the output power is electric, apparent power is meant.
+  - A device at no-load operation does not need to be isolated.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 516a03c5-ec1f-5700-bcbc-f553ddd15bbc
+status: Standard

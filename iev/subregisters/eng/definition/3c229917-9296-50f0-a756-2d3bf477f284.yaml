@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 121-12-11
+    link: null
+    original: 121-12-11
+    ref: IEV
+    relationship:
+      type: identical
+  definition: power absorbed from a time-varying electric field by a polarized substance,
+    excluding absorbed power due to conductivity of the substance
+  examples: []
+  notes:
+  - The dielectric loss is usually dissipated as heat.
+  - In 60050-121 dielectric loss is defined as power absorbed from a time-varying
+    electric field by a polarized substance, excluding absorbed power due to the conductivity
+    of the substance. In practice the loss due to the conduction current in the dielectric
+    is usually included in the dielectric loss.
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 3c229917-9296-50f0-a756-2d3bf477f284
+status: Standard

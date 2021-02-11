@@ -1,0 +1,13 @@
+data:
+  definition: smallest steady-state asynchronous torque which the motor develops between
+    zero speed and the speed which corresponds to the breakdown torque, when the motor
+    is supplied at the rated voltage and frequency
+  examples: []
+  notes:
+  - This definition does not apply to those induction motors of which the torque continually
+    decreases with increase in speed.
+  - In addition to the steady-state asynchronous torques, harmonic synchronous torques,
+    which are a function of rotor load angle, will be present at specific speeds.
+dateAccepted: '2007-11-01T00:00:00+00:00'
+id: 7a5ad024-7653-503f-b55b-44ca9f9314f7
+status: Standard

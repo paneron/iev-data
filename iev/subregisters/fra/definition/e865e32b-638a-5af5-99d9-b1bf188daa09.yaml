@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1125.
+    link: https://www.iso.org/standard/50518.html
+    original: ISO/IEC/IEEE 24765:2010, <i>Ingénierie des systèmes et du logiciel –
+      Vocabulaire</i>, 3.1125. Cette source n'existe que dans la langue anglaise.
+    ref: ISO/IEC/IEEE 24765:2010
+    relationship:
+      type: identical
+  definition: condition dans laquelle une panne empêche la détection d’une autre
+  examples: []
+  notes:
+  - Le masquage de panne peut dissimuler une perte progressive de redondance.
+dateAccepted: 2018-11-17
+id: e865e32b-638a-5af5-99d9-b1bf188daa09
+status: Standard

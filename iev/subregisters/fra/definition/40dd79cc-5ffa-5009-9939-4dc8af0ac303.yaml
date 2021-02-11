@@ -1,0 +1,17 @@
+data:
+  definition: représentation d'une {{grandeur intégrale, IEV:131-11-01}} sinusoïdale
+    par une grandeur complexe dont l'argument est égal à la phase à l'origine et le
+    module est égal à la {{valeur efficace, IEV:103-02-03}}
+  examples: []
+  notes:
+  - Pour une grandeur stem:[a ( t ) = hat A cos ( omega t + vartheta_0 )] le phaseur
+    est stem:[underset(_)(A) = A exp ( j vartheta_0 )], où stem:[A = (hat A)/((sqrt(2)))]
+    est la valeur efficace et stem:[vartheta_0] est la phase à l’origine. Un phaseur
+    peut aussi être représenté graphiquement.
+  - On utilise souvent le phaseur de courant électrique stem:[underset(_)(I)] et le
+    phaseur de tension électrique stem:[underset(_)(U)].
+  - La représentation semblable où le module est égal à l'amplitude est parfois aussi
+    appelée «phaseur».
+dateAccepted: 2018-11-17
+id: 40dd79cc-5ffa-5009-9939-4dc8af0ac303
+status: Standard

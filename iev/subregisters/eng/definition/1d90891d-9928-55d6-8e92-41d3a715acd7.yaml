@@ -1,0 +1,12 @@
+data:
+  definition: 'average value of the instantaneous failure rate over a given time interval
+    (stem:[t]~1~, stem:[t]~2~)
+
+
+    stem:[bar lambda ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) lambda (
+    t ) d t]'
+  examples: []
+  notes: []
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 1d90891d-9928-55d6-8e92-41d3a715acd7
+status: Standard

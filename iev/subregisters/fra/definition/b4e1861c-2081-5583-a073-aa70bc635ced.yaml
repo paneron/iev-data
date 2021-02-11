@@ -1,0 +1,16 @@
+data:
+  definition: pour un tenseur du deuxième ordre stem:[T = ( T_((i j)) )] et un vecteur
+    *stem:[U]* = (stem:[Uk]), vecteur dont les coordonnées sont stem:[(( T * U ))_i
+    = underset(m)( sum ) T_((i m)) U_m]
+  examples: []
+  notes:
+  - Le produit intérieur de deux vecteurs est leur produit scalaire puisqu'un tenseur
+    du premier ordre est considéré comme un vecteur.
+  - Un exemple est la relation stem:[D = vec vec epsilon * E] entre le champ électrique
+    *stem:[E]* et l'induction électrique *stem:[D]*, où stem:[vec vec epsilon] est
+    la permittivité absolue d'un milieu anisotrope.
+  - Le produit intérieur d'un tenseur et d'un vecteur est indiqué par un point à mi-hauteur
+    (·) entre les deux symboles.
+dateAccepted: 2018-11-17
+id: b4e1861c-2081-5583-a073-aa70bc635ced
+status: Standard

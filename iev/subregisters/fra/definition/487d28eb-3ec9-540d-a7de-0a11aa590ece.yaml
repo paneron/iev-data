@@ -1,0 +1,34 @@
+data:
+  definition: 'scalaire, noté stem:[U * V], attribué à tout couple de vecteurs *stem:[U]*
+    et *stem:[V]* d''un espace vectoriel par une forme bilinéaire donnée, avec les
+    propriétés suivantes:
+
+
+
+
+    * symétrie: stem:[U * V = V * U],
+
+
+    * stem:[U * U &gt; 0] pour stem:[U != 0]'
+  examples: []
+  notes:
+  - 'Dans un espace à stem:[n] dimensions muni de vecteurs de base orthonormés, le
+    produit scalaire de deux vecteurs *stem:[U]* et *stem:[V]* est la somme des produits
+    de chaque coordonnée stem:[U_i] du vecteur *stem:[U]* par la coordonnée correspondante
+    stem:[V_i] du vecteur *stem:[V]*:
+
+
+    stem:[U * V = underset(i)( sum ) U_i V_i]'
+  - Pour deux vecteurs complexes *stem:[U]* et *stem:[V]*, on peut selon l'application
+    utiliser soit le produit scalaire stem:[U * V], soit un produit hermitien stem:[U
+    * V *].
+  - On peut définir de la même manière, pour un couple constitué d'un vecteur polaire
+    et d'un vecteur axial un produit scalaire qui est un pseudo-scalaire, et pour
+    un couple de deux vecteurs axiaux un produit scalaire qui est un scalaire.
+  - Le produit scalaire de deux grandeurs vectorielles est le produit scalaire des
+    vecteurs unitaires associés multiplié par le produit des grandeurs scalaires.
+  - Le produit scalaire est noté par un point à mi-hauteur (·) entre les deux symboles
+    représentant les vecteurs.
+dateAccepted: 2018-11-17
+id: 487d28eb-3ec9-540d-a7de-0a11aa590ece
+status: Standard

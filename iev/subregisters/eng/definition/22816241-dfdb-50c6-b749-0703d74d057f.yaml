@@ -1,0 +1,16 @@
+data:
+  definition: means of {{transmission, IEV:701-01-03}} of {{signals, IEV:101-12-02}}
+    in one direction between two points
+  examples: []
+  notes:
+  - 'Several transmission channels can share a common path: for example, where each
+    transmission channel is allocated a particular {{frequency band, IEV:103-09-01}}
+    or a particular {{time-slot, IEV:704-13-08}}.'
+  - The adjective "transmission" can be replaced by an adjective indicating the nature
+    of the transmitted signals, or the {{frequency bandwidth, IEV:702-01-03}}, or
+    the {{digit rate, IEV:702-05-23}}; for example, telephone channel, {{telegraph
+    channel, IEV:721-11-01}}, {{data channel, IEV:714-12-01}}, 10 MHz channel, 34
+    Mbit/s channel.
+dateAccepted: '2016-12-01T00:00:00+00:00'
+id: 22816241-dfdb-50c6-b749-0703d74d057f
+status: Standard

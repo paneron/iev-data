@@ -1,0 +1,19 @@
+data:
+  definition: unité servant à exprimer le rapport de deux grandeurs de champ par le
+    logarithme népérien de ce rapport
+  examples: []
+  notes:
+  - La valeur en népers d'un rapport de puissances est la moitié du logarithme népérien
+    de ce rapport. Les valeurs en népers du rapport de deux grandeurs de champ et
+    du rapport des puissances correspondantes ne sont égales que si les impédances
+    sont égales.
+  - On emploie aussi des sous-multiples, tels que le décinéper, de symbole dNp.
+  - Un néper vaut 8,686 dB.
+  - Dans certains domaines on exprime parfois en népers le logarithme d'un rapport
+    de puissances sans le facteur 1/2. C'est par exemple le cas de l'affaiblissement
+    appelé aussi "profondeur optique" en radiométrie. Un tel usage est déconseillé
+    dans les télécommunications, pour éviter toute ambiguïté;   le néper ainsi défini
+    vaudrait en effet 4,343 dB.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 6dea1444-7625-5955-8e6b-39d0694c4fa4
+status: Standard

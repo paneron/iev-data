@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: 2.4.13
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.4.13
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: '{{capteur, IEV:151-13-48}} à {{semiconducteurs, IEV:521-02-01}} intégrant
+    une électrode sensible aux ions avec un {{transistor à effet de champ, IEV:521-04-52}}
+    (FET, field-effect transistor)'
+  examples: []
+  notes:
+  - Dans la section d’électrode sensible aux ions, la tension de la membrane varie
+    selon les fluctuations du pH ou de la pression partielle en dioxyde de carbone
+    dans le sang, par exemple. Comme l’amplificateur de tension, l’ISFET utilise un
+    FET, un transistor contrôlant la conductance du chemin de courant (voies) formé
+    par les porteurs majoritaires utilisant un {{champ électrique, IEV:121-11-67}}
+    perpendiculaire à la circulation de porteur. L’ISFET est fondé sur la technologie
+    du micro-usinage du silicium intégrant un détecteur et un amplificateur sur un
+    {{substrat, IEV:521-05-28}} de silicium. De plus, un ISFET avec {{composants,
+    IEV:151-11-21}} mécaniques, tels qu'une vanne, a été développé. L'ISFET est utilisé
+    dans des domaines tels que l’analyse médicale et l’instrumentation environnementale.
+  - Le terme abrégé "ISFET" est dérivé du terme anglais développé correspondant "ion-sensitive
+    field-effect transistor".
+dateAccepted: 2018-11-17
+id: dfcd7c0a-149f-5ccc-9d08-44d7d3712c39
+status: Standard

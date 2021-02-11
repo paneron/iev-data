@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: '1.24'
+    link: https://www.iso.org/standard/45324.html
+    original: ISO/IEC GUIDE 99:2007 1.24
+    ref: ISO/IEC Guide 99:2007
+    relationship:
+      type: identical
+  definition: ratio of two units of measurement for quantities of the same kind
+  examples: []
+  notes:
+  - An example of conversion factor is km/m = 1 000 and thus 1 km = 1 000 m
+  - 'The units may belong to different system of units. Examples are:
+
+
+    • h/s = 3 600 and thus 1 h = 3 600 s;
+
+
+    • (km/h)/(m/s) = (km/m)/(h/s) = (1 000/3 600) = (1/3,6), and thus 1 km/h = (1/3,6)
+    m/s.'
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 246a21f4-0677-5547-b890-c8c25bc6064d
+status: Standard

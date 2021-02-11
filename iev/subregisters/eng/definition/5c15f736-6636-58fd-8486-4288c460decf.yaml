@@ -1,0 +1,14 @@
+data:
+  definition: 'ratio of penetration depth, stem:[λ], to coherence length, stem:[ξ]
+
+
+    stem:[kappa_((GL)) = lambda // xi]'
+  examples: []
+  notes:
+  - For a type II superconductor, stem:[kappa_((GL)) &gt; 1 // sqrt(2)]; stem:[kappa_((GL))
+    = H_((c2)) // ( sqrt(2) H_c )], where stem:[H_(c2)] is the upper critical field
+    strength and stem:[H_c] is the critical field strength.
+  - For a type I superconductor, stem:[kappa_((GL)) 1 // sqrt(2)].
+dateAccepted: '2015-11-01T00:00:00+00:00'
+id: 5c15f736-6636-58fd-8486-4288c460decf
+status: Standard

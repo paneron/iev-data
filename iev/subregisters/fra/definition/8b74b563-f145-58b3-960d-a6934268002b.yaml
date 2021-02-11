@@ -1,0 +1,23 @@
+data:
+  definition: "valeur positive unique, si elle existe, associée à un sous-ensemble\
+    \ d'une surface dans l'espace euclidien à trois dimensions, avec les propriétés\
+    \ suivantes:\n\n\n\n* pour un rectangle, la valeur est le produit des longueurs\
+    \ des côtés, \n\n* pour une union disjointe de sous-ensembles, la valeur est la\
+    \ somme des valeurs qui leur sont associées, \n\n* pour des sous-ensembles plus\
+    \ compliqués, la valeur peut être approchée par des sommes et donnée par une intégrale"
+  examples: []
+  notes:
+  - Pour la partie d'un plan limitée par les droites stem:[x] = stem:[a], stem:[x]
+    = stem:[b], stem:[y] = 0 et l'arc de courbe stem:[y = f](stem:[x]) avec stem:[a]
+    &lt; stem:[b] et stem:[f](stem:[x]) ≥ 0, l'aire est stem:[int_a^b f ( x ) d x].
+  - Pour une surface définie par stem:[r = f ( u , v )], où stem:[( u , v ) in U sube
+    R^2], l'aire est stem:[underset(U)( ∬ ) | ((del f))/((del u)) * ((del f))/((del
+    u)) | * d u d v].
+  - Pour une surface définie par l'équation stem:[z] = stem:[f](stem:[x, y]), l'aire
+    est stem:[underset(S)( ∬ ) sqrt(1 + ( ((del f))/((del x)) )^2 + ( ((del f))/((del
+    y)) )^2) d x d y].
+  - Dans l'espace géométrique usuel, l'aire d'une surface est une grandeur ayant la
+    dimension du carré d'une longueur.
+dateAccepted: 2018-11-17
+id: 8b74b563-f145-58b3-960d-a6934268002b
+status: Standard

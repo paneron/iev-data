@@ -1,0 +1,19 @@
+data:
+  definition: '{{distribution, IEV:103-01-03}} associant à toute fonction stem:[f](stem:[x]),
+    continue pour stem:[x = 0], la valeur stem:[f](0)'
+  examples: []
+  notes:
+  - La distribution de Dirac peut être considérée comme la limite d'une fonction nulle
+    en dehors d'un petit intervalle contenant l'origine et dont l'intégrale reste
+    égale à l'unité lorsque cet intervalle tend vers zéro. Voir la Figure 2, où le
+    triangle peut être remplacé par n’importe quelle forme d’aire unité.
+  - La distribution de Dirac est la dérivée de la fonction échelon unité considérée
+    comme une distribution.
+  - 'La distribution de Dirac peut être définie pour toute valeur stem:[x]~0~ de la
+    variable stem:[x]. La notation usuelle est:
+
+
+    stem:[f ( x_0 ) = int_( - oo)^( + oo) delta ( x - x_0 ) f ( x ) d x]'
+dateAccepted: 2018-11-17
+id: 1cd05781-1d5f-5965-bbe2-86205a42c799
+status: Standard

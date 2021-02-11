@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: definition 6
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, definition 6, modified
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: for a parallel beam of specified radiation in a given substance, the
+    quantity stem:[μ]~abs~ describes the fraction of energy absorbed in passing through
+    a thin layer of thickness Δstem:[x]
+  examples: []
+  notes:
+  - The absorption coefficient is primarily energy dependent.
+  - According to whether the thickness Δstem:[x] is expressed in terms of length,
+    mass per unit area, moles per unit area or atoms per unit area, it is called the
+    linear, mass, molar or atomic absorption coefficient.
+  - This entry was numbered 393-14-46 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 9ffafd0a-48bd-515e-97f0-d638198ccc33
+status: Standard

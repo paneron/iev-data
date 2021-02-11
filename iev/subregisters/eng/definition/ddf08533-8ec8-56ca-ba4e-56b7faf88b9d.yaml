@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - clause: 604-03-41
+    link: null
+    original: 604-03-41 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: value of the test voltage to be applied under specified conditions in
+    a withstand test, during which a specified number of disruptive discharges is
+    tolerated
+  examples: []
+  notes:
+  - 'The withstand voltage is designated as:
+
+
+    a) conventional assumed withstand voltage, when the number of disruptive discharges
+    tolerated is zero. It is deemed to correspond to a withstand probability stem:[P]~W~
+    = 100 % (this is in particular the case in the low-voltage technology);
+
+
+    b) statistical withstand voltage, when the number of disruptive discharges tolerated
+    is related to a specified withstand probability, for instance stem:[P]~W~ = 90
+    %.'
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: ddf08533-8ec8-56ca-ba4e-56b7faf88b9d
+status: Standard

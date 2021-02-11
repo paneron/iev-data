@@ -1,0 +1,13 @@
+data:
+  definition: pour une ligne polyphasée constituée de stem:[m] conducteurs de ligne
+    et d’un conducteur neutre, somme des stem:[m] puissances instantanées exprimées,
+    pour chaque conducteur de ligne, par le produit de la tension simple et du courant
+    correspondant
+  examples: []
+  notes:
+  - S’il n’y a pas de conducteur neutre, les tensions entre les conducteurs de ligne
+    et un point de référence quelconque doivent être utilisées à la place des tensions
+    simples.
+dateAccepted: '2004-08-01T00:00:00+00:00'
+id: b0e9891f-98d3-5787-9443-ca9d6f08bfe1
+status: Standard

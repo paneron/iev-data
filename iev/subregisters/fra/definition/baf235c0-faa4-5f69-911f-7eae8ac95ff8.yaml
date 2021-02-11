@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: '5.5'
+    link: https://www.iso.org/standard/29316.html
+    original: ISO/CEI 17000:2004, 5.5
+    ref: ISO/IEC 17000:2004
+    relationship:
+      type: identical
+  definition: '{{attestation, IEV:902-04-02}} réalisée par une tierce partie, relative
+    à des {{produits, IEV:902-02-03}}, des processus, des systèmes ou des personnes'
+  examples: []
+  notes:
+  - La certification d'un système de management est parfois désignée également sous
+    le nom d'enregistrement.
+  - Le concept de certification recouvre tous les objets de l'évaluation de la conformité,
+    excepté les {{organismes d'évaluation de la conformité, IEV:902-01-05}} proprement
+    dits, auxquels l'{{accréditation, IEV:902-04-06}} est applicable.
+dateAccepted: 2018-11-17
+id: baf235c0-faa4-5f69-911f-7eae8ac95ff8
+status: Standard

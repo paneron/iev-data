@@ -1,0 +1,9 @@
+data:
+  definition: expectation of the duration of the operating time between failures
+  examples: []
+  notes:
+  - Mean operating time between failures should only be applied to repairable items.
+    For non-repairable items, see mean operating time to failure ({{192-05-11, IEV:192-05-11}}).
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 1137a66e-4ee4-5892-8735-5900e0250e9d
+status: Standard

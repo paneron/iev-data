@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 212-01-01
+    link: null
+    original: 212-01-01 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - link: https://webstore.iec.ch/publication/169
+    original: CEI 60050-121
+    ref: IEC 60050-121
+    relationship:
+      type: identical
+  definition: matériau destiné à empêcher la conduction électrique entre des éléments
+    conducteurs
+  examples: []
+  notes:
+  - En électromagnétisme le terme "isolant" est aussi utilisé comme synonyme de "milieu
+    isolant".
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: a1901093-ede7-57cc-ae89-1f64cd820d49
+status: Standard

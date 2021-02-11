@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - clause: '11.1'
+    link: https://www.iso.org/standard/39976.html
+    original: Guide ISO/CEI 2:2004, 11.1, modifiée – L'expression entre parenthèses
+      après le terme a été transformée en attribut du terme «utilisation spécifique».
+    ref: ISO/IEC Guide 2:2004
+    relationship:
+      modification: L'expression entre parenthèses après le terme a été transformée
+        en attribut du terme «utilisation spécifique».
+      type: modified
+  definition: référence à une ou plusieurs {{norme, IEV:901-02-02}}s se substituant
+    à l'énoncé de {{disposition, IEV:901-05-01}}s détaillées dans un {{règlement,
+    IEV:901-02-10}}
+  examples: []
+  notes:
+  - Une référence aux normes peut être datée, non datée ou générale; elle peut être
+    exclusive ou indicative.
+  - Une référence aux normes peut être liée à une disposition légale plus générale
+    se référant à l'{{état actuel de la technique, IEV:901-01-04}} ou à des {{règles
+    techniques reconnues, IEV:901-01-05}}. Une telle disposition peut également se
+    suffire à elle-même.
+dateAccepted: 2018-11-17
+id: b2f35963-4332-5907-940c-23c4d13bc1bc
+status: Standard

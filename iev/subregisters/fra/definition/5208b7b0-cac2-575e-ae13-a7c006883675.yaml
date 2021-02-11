@@ -1,0 +1,18 @@
+data:
+  definition: dispositif électronique indivisible assurant la conversion électronique
+    de puissance ou l’ouverture et la fermeture électronique d’un circuit électrique
+    de puissance unique, comportant un trajet conducteur unidirectionnel, non commandable
+    ou commandable de façon bistable
+  examples: []
+  notes:
+  - 'Exemples typiques de valves électroniques: diodes de redressement de puissance,
+    transistors de commutation de puissance bipolaires ou à effet de champ, transistors
+    bipolaires à grille isolée (IGBT).'
+  - 'Plusieurs valves électroniques peuvent être intégrées sur une pastille de semiconducteur
+    (exemples: un thyristor et une diode de redressement dans un thyristor passant
+    en inverse, un transistor de commutation de puissance à effet de champ avec sa
+    diode inverse) ou assemblés dans un même boîtier (module de puissance à semiconducteur).
+    Tous ces ensembles doivent être considérés comme des valves électroniques séparées.'
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: 5208b7b0-cac2-575e-ae13-a7c006883675
+status: Standard

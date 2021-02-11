@@ -1,0 +1,12 @@
+data:
+  definition: the number of bound modes that an optical fibre is capable of supporting
+  examples: []
+  notes:
+  - For stem:[V]&lt; 2.405 step index fibre can only support one mode as is the case
+    for singlemode fibre.
+  - For stem:[V]&gt; 5, approximately given by, stem:[V] ^2^/2 and (stem:[V] ^2^/2)
+    [g/(g + 2)], for step index and power-law profile fibres, respectively, where
+    g is the profile parameter, and stem:[V] is the normalized frequency.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 547befb1-2103-54b1-b3af-e7f95303aab2
+status: Standard

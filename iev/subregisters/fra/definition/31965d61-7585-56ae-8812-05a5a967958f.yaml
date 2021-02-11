@@ -1,0 +1,27 @@
+data:
+  definition: relation stem:[f] telle que, pour toute entité stem:[a], il y a exactement
+    une entité stem:[b] à laquelle stem:[a] est reliée par stem:[f]
+  examples: []
+  notes:
+  - "Si stem:[a] est reliée à stem:[b] par la fonction stem:[f]:\n\n\n\n* on dit que\
+    \ stem:[f] est définie pour stem:[a],\n\n* stem:[a] est un argument de la fonction\
+    \ stem:[f], \n\n* stem:[b] est une valeur de la fonction stem:[f], généralement\
+    \ notée stem:[f](stem:[a]).\n\nL’argument peut être une entité élémentaire, telle\
+    \ qu’un nombre, ou un ensemble ordonné d’entités élémentaires, et de même pour\
+    \ la valeur."
+  - 'Si stem:[A] est l''ensemble de tous les arguments de la fonction stem:[f] et
+    stem:[B] est un ensemble contenant toutes les valeurs:  * on dit que stem:[f]
+    est une application de stem:[A] dans stem:[B], * stem:[A] est le domaine de définition
+    ou domaine de la fonction,  * stem:[B] est le domaine but ou codomaine de la fonction.  '
+  - Le terme «fonction» peut être qualifié selon la nature de la valeur, par exemple
+    fonction réelle, fonction complexe, fonction vectorielle, ou selon la nature de
+    la relation, par exemple, fonction algébrique, fonction trigonométrique, fonction
+    hyperbolique.
+  - Le terme «opération» est employé dans le langage courant pour des fonctions élémentaires
+    telles que addition, soustraction, multiplication, division, ainsi que pour des
+    fonctions logiques.
+  - Le terme «opération» a d’autres sens en {{IEV 151-11-28, IEV:151-11-28}} et {{IEV
+    151-11-30, IEV:151-11-30}}.
+dateAccepted: 2018-11-17
+id: 31965d61-7585-56ae-8812-05a5a967958f
+status: Standard

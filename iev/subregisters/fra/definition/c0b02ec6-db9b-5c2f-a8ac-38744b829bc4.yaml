@@ -1,0 +1,21 @@
+data:
+  definition: "fonction stem:[f] qui attribue un scalaire stem:[f ( U , V )] à tout\
+    \ couple de vecteurs *stem:[U]* et *stem:[V]* dans un espace vectoriel donné,\
+    \ avec les propriétés suivantes:\n\n\n\n* stem:[f ( alpha U , V ) = alpha f (\
+    \ U , V )] et stem:[f ( U , beta V ) = beta f ( U , V )] où stem:[α] et stem:[β]\
+    \ sont des scalaires, \n\n* stem:[f ( U + V , W ) = f ( U , W ) + f ( V , W )]\
+    \ et stem:[f ( W , U + V ) = f ( W , U ) + f ( W , V )] pour tout vecteur *stem:[W]*\
+    \ du même espace vectoriel"
+  examples: []
+  notes:
+  - Une forme bilinéaire sur un espace vectoriel à stem:[n] dimensions peut être représentée
+    par une matrice carrée stem:[( k_((i j)) )] et le scalaire est stem:[f ( U , V
+    ) = underset((i j))( sum ) k_((i j)) U_i V_j].
+  - Les formes bilinéaires sur un espace vectoriel à stem:[n] dimensions constituent
+    un espace vectoriel à stem:[n^2] dimensions.
+  - Le concept de forme bilinéaire se généralise à celui de «forme linéaire» dans
+    le cas d'un seul vecteur et de «forme multilinéaire» (ou stem:[m]-linéaire) dans
+    le cas d'un ensemble ordonné de stem:[m] vecteurs.
+dateAccepted: 2018-11-17
+id: c0b02ec6-db9b-5c2f-a8ac-38744b829bc4
+status: Standard

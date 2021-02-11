@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - original: UIT-R Rec. 573 MOD
+    ref: ITU-R Recommendation 573
+    relationship:
+      type: modified
+  definition: bande de fréquences telle que les puissances moyennes émises, au-dessous
+    de sa fréquence limite inférieure et au-dessus de sa fréquence limite supérieure,
+    soient égales chacune à un pourcentage donné stem:[β]/2 de la puissance moyenne
+    totale d'une émission
+  examples: []
+  notes:
+  - En l'absence de spécifications pour la classe d'émission considérée, la valeur
+    stem:[β]/2 est prise égale à 0,5%.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 12b585e8-96bd-5f7b-9b65-77224edfb410
+status: Standard

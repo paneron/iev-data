@@ -1,0 +1,11 @@
+data:
+  definition: a traffic meter associated with a group of circuits to records the incidence
+    of calls which fail to find free outlets
+  examples: []
+  notes:
+  - In some systems, every such call is individually registered, whereas in other
+    systems, two or more overlapping unsuccessful calls are registered merely as a
+    single overflow event.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 0cf8f510-c18b-53b0-b269-77631c5aeb4e
+status: Standard

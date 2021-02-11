@@ -1,0 +1,23 @@
+data:
+  definition: <a href="IEV845-23-038">composantes trichromatiques</a> de stimuli monochromatiques
+    de même flux énergétique
+  examples: []
+  notes:
+  - Voir aussi "<a href="IEV845-23-032">coefficients d'égalisation de couleur</a>".
+  - Les fonctions colorimétriques peuvent être employées pour calculer les composantes
+    trichromatiques d'un stimulus de couleur d'après sa courbe spectrale d'un stimulus
+    de couleur stem:[φλ](stem:[λ]).
+  - Voir aussi CIE 15, stem:[Colorimetry].
+  - 'Voir aussi ISO/CIE 11664-1, _Colorimétrie – Partie 1: Observateurs CIE de référence
+    pour la colorimétrie_.'
+  - 'Dans les systèmes de référence colorimétriques CIE, les fonctions colorimétriques
+    sont représentées par les symboles stem:[bar x ( lambda ) , bar y ( lambda ) ,
+    bar z ( lambda )]
+
+
+    et stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda
+    )].'
+  - Cet article était numéroté 845-03-23 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: c99d0178-2441-5992-a507-524a77c9e656
+status: Standard

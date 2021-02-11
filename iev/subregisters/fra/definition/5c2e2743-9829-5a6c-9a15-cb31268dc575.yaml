@@ -1,0 +1,33 @@
+data:
+  definition: 'relation algébrique donnant le nombre dstem:[N] de particules d''un
+    système non quantifié dont les composantes de vitesse sont comprises respectivement
+    dans les intervalles (stem:[u], stem:[u] + dstem:[u]), (stem:[v], stem:[v] + dstem:[v]),
+    (stem:[w], stem:[w] + dstem:[w]) :
+
+
+    stem:[d N = A * exp ((- m ( u^2 + v^2 + w^2 )))/((2 k T)) d u * d v * d w]
+
+
+    où
+
+
+    stem:[A = N (m)/((( 2 pi * k T )))^(3 // 2)]
+
+
+    stem:[N] désigne le nombre total de particules
+
+
+    stem:[m] la masse d''une particule
+
+
+    stem:[T] la température thermodynamique
+
+
+    stem:[k] la constante de Boltzmann'
+  examples: []
+  notes:
+  - dstem:[N]/stem:[N] représente la probabilité pour qu'une particule ait ses composantes
+    de vitesse comprises dans les intervalles considérés.
+dateAccepted: '2002-05-01T00:00:00+00:00'
+id: 5c2e2743-9829-5a6c-9a15-cb31268dc575
+status: Standard

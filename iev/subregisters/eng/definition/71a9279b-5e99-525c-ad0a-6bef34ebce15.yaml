@@ -1,0 +1,30 @@
+data:
+  definition: 'the quantity which characterizes that part of profile dispersion due
+    to a variation of refractive index contrast with wavelength given by:
+
+
+    stem:[P ( lambda ) = ((n_((1 )) lambda d Delta))/((N_1 Delta d lambda))]
+
+
+    where
+
+
+    stem:[n]~1~ is the maximum refractive index of the core,
+
+
+    stem:[N]~1~ is the group index corresponding to stem:[n]~1~ calculated from the
+    formula:
+
+
+    stem:[N]~1~ = stem:[n]~1~ = stem:[λ] (dstem:[n]~1~ / dstem:[λ])
+
+
+    Δ is the refractive index contrast,
+
+
+    stem:[λ] is the wavelength in vacuum'
+  examples: []
+  notes: []
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 71a9279b-5e99-525c-ad0a-6bef34ebce15
+status: Standard

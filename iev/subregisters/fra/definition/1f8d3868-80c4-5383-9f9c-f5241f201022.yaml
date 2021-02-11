@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 3.7.4
+    link: https://webstore.iec.ch/publication/2796
+    original: IEC 60664-1:2007, 3.7.4, modifié – "décharge atmosphérique" a été remplacé
+      par "coup de foudre direct ou un coup de foudre indirect" pour compatibilité
+      avec le VEI.
+    ref: IEC 60664-1:2007
+    relationship:
+      modification: '"décharge atmosphérique" a été remplacé par "coup de foudre direct
+        ou un coup de foudre indirect" pour compatibilité avec le VEI.'
+      type: modified
+  definition: surtension transitoire apparaissant en un point d'un réseau et engendrée
+    par un {{coup de foudre direct, IEV:604-03-33}} ou un {{coup de foudre indirect,
+    IEV:604-03-34}}
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 1f8d3868-80c4-5383-9f9c-f5241f201022
+status: Standard

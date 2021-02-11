@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.18.4
+    link: https://webstore.iec.ch/publication/2796
+    original: IEC 60664-1:2007, 3.18.4
+    ref: IEC 60664-1:2007
+    relationship:
+      type: identical
+  definition: lowest peak value of the test voltage at which the apparent charge becomes
+    greater than the specified discharge magnitude when the test voltage is increased
+    above a low value for which no discharge occurs
+  examples: []
+  notes:
+  - For AC tests the rms value may be used.
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 67ca8345-0447-5cb7-9c1e-7b43758831d1
+status: Standard

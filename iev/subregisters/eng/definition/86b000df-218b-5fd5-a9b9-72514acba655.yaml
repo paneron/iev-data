@@ -1,0 +1,13 @@
+data:
+  definition: time required for an output to fall from a stated high percentage to
+    a stated lower percentage of the maximum value when a steady input is instantaneously
+    removed
+  examples: []
+  notes:
+  - A value of 90 % is usually considered to be the high percentage value, whereas
+    a value of 10 % is usually considered to be the low percentage value.
+  - The fall time is expressed in seconds (s).
+  - This entry was numbered 845-05-61 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 86b000df-218b-5fd5-a9b9-72514acba655
+status: Standard

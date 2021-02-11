@@ -1,0 +1,14 @@
+data:
+  definition: time integral of squared, instantaneous A-frequency-weighted sound pressure
+    over a stated time interval or event, such as an aircraft flyover. The frequency
+    weighting may be other than A, if so specified
+  examples: []
+  notes:
+  - Duration of integration is implicitly included in the integral, and need not be
+    reported explicitly.
+  - The unit of sound exposure is the pascal-squared second (Pa^2^s), if time is in
+    seconds ; the pascal-squared kilosecond (Pa^2^ks), if time is in kiloseconds ;
+    the pascal-squared hour (Pa^2^h), if time is in hours.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 9bfd559b-8c1e-527b-9740-99c998fbaf12
+status: Standard

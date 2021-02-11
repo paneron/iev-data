@@ -1,0 +1,31 @@
+data:
+  definition: différence entre le point le plus haut et celui le plus bas pour chaque
+    site d’une plaquette serrée
+  examples: []
+  notes:
+  - Un exemple de plan du site est présenté dans la Figure 23. La valeur est toujours
+    un nombre positif. Elle est définie pour chaque site comme la différence entre
+    les points le plus élevé et le plus bas à l’intérieur de chaque site (voir Figure
+    24). Pour qu’une plaquette réponde à une spécification de variation locale de
+    l’épaisseur, les valeurs de variation locale de l’épaisseur de tous les sites
+    doivent être inférieures à la valeur spécifiée.
+  - 'L’abréviation «LTV» est dérivée du terme anglais développé correspondant «local
+    thickness variation».
+
+
+    <simg></simg>'
+  - 'Le centre de tous les sites se trouve à l’intérieur de la zone de qualité fixe.
+
+
+    *Figure 23 – Exemple de distribution de site pour la mesure variation locale de
+    l’épaisseur*
+
+
+    image::/assets/images/parts/561/561-fig24-fr.png[]'
+  - 'La variation locale de l’épaisseur est un nombre positif.
+
+
+    *Figure 24 – Variation locale de l’épaisseur mesurée au niveau de chaque site*'
+dateAccepted: 2018-11-17
+id: 8e951e73-b07e-549a-80af-60f6af2df446
+status: Standard

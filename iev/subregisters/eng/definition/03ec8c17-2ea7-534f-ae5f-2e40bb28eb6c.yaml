@@ -1,0 +1,16 @@
+data:
+  definition: a type of linear distortion occurring when the phase/frequency characteristic
+    of a transmission line or two-port device deviates from the ideal form over the
+    useful frequency band
+  examples: []
+  notes:
+  - The ideal form of the phase/frequency characteristic is a straight line for which
+    the zero-frequency intercept on the phase axis is zero or an integral multiple
+    of π radians.
+  - The phase/frequency distortion differs from group delay/frequency distortion by
+    the addition of a constant phase angle to all significant spectral components
+    of the signal. If the zero-frequency phase intercept is an integral multiple of
+    radians, this addition does not change the signal, or only reverses its sign.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 03ec8c17-2ea7-534f-ae5f-2e40bb28eb6c
+status: Standard

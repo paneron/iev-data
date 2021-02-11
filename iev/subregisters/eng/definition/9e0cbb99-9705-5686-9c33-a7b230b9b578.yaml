@@ -1,0 +1,15 @@
+data:
+  definition: representation of a sinusoidal integral quantity by a complex quantity
+    whose argument is equal to the initial phase and whose modulus is equal to the
+    root-mean-square value ({{103-02-03, IEV:103-02-03}})
+  examples: []
+  notes:
+  - For a quantity stem:[a ( t ) = A sqrt(2) cos ( omega t + vartheta_0 )] the phasor
+    is stem:[A exp j vartheta_0]. Electric current phasor stem:[underset(_)(I)] and
+    voltage phasor stem:[underset(_)(U)] are often used.
+  - The similar representation with the modulus equal to the amplitude is sometimes
+    also called "phasor". See {{103-07-14, IEV:103-07-14}}.
+  - A phasor can also be represented graphically.
+dateAccepted: '2013-08-01T00:00:00+00:00'
+id: 9e0cbb99-9705-5686-9c33-a7b230b9b578
+status: Standard

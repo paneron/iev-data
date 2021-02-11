@@ -1,0 +1,19 @@
+data:
+  definition: 'cloudless sky for which the relative luminance distribution is given
+    by the luminance gradation function, stem:[φ](stem:[Z]), which relates the luminance
+    of a sky element to its zenith angle, stem:[Z]:
+
+
+    stem:[phi ( Z ) = 1 - e^(((- 0,32))/((cos Z)))] if stem:[0 &lt;= Z (pi)/(2)],
+    and stem:[phi ( Z ) = 1]
+
+
+    if stem:[Z = (pi)/(2)] (at the horizon)'
+  examples: []
+  notes:
+  - For additional information, see ISO 15469/CIE S 011, _Spatial distribution of
+    daylight – CIE standard general sky_.
+  - This entry was numbered 845-09-91 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 8382b742-1ac3-5b9f-a68d-6fd1364e9729
+status: Standard

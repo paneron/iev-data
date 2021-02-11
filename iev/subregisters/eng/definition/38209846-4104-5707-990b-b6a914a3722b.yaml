@@ -1,0 +1,15 @@
+data:
+  definition: 'quotient of the detector output, stem:[Y], and the detector input,
+    stem:[X]
+
+
+    stem:[s = (Y)/(X)]'
+  examples: []
+  notes:
+  - If the detector signal is stem:[Y]~0~ in the absence of input, and is stem:[Y]~t~
+    when there is an input stem:[X], the responsivity is stem:[s = ((Y_t - Y_0))/(X)].
+  - The term "sensitivity" is no longer used.
+  - This entry was numbered 845-05-54 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 38209846-4104-5707-990b-b6a914a3722b
+status: Standard

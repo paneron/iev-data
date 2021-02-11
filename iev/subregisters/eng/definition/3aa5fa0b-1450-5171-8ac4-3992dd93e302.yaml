@@ -1,0 +1,15 @@
+data:
+  definition: 'time relay in which the output immediately switches to the operate
+    condition when applying the power supply and the control signal; the time delay
+    starts when removing the control signal, and the output switches to the release
+    condition after the setting time has elapsed (see Figure 3)
+
+
+    image::/assets/images/parts/445/445-01-04en.gif[]'
+  examples: []
+  notes:
+  - – Effects of subsequent operating or resetting of the control signal shall be
+    declared by the manufacturer.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: 3aa5fa0b-1450-5171-8ac4-3992dd93e302
+status: Standard

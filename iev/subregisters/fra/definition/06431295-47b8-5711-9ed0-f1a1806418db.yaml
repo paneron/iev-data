@@ -1,0 +1,14 @@
+data:
+  definition: '{{distorsion, IEV:702-07-43}} d''un {{signal, IEV:101-12-02}} qui résulte
+    de la {{quantification, IEV:702-04-07}} d''un signal original'
+  examples: []
+  notes:
+  - L'emploi des termes "distorsion de quantification" et "bruit de quantification"
+    est généralement limité au cas où les valeurs à quantifier sont dans la {{plage
+    de fonctionnement, IEV:704-24-10}} du quantificateur.
+  - Le terme "bruit de quantification" peut être employé parce que le signal quantifié
+    apparaît généralement comme la superposition d'un signal porteur d'{{informations,
+    IEV:101-12-01}} et d'un {{bruit aléatoire, IEV:161-02-14}}.
+dateAccepted: 2018-11-17
+id: 06431295-47b8-5711-9ed0-f1a1806418db
+status: Standard

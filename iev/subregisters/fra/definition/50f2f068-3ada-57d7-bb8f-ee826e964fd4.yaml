@@ -1,0 +1,20 @@
+data:
+  definition: 'quotient de dstem:[E]~tr~/stem:[E]~stem:[N]~ par le produit de stem:[ρ] dstem:[l]
+    où dstem:[E]~tr~/stem:[E]~stem:[N]~ est la fraction des énergies des particules
+    incidentes, à l''exclusion des énergies au repos, des particules indirectement
+    ionisantes qui traversent sous une incidence normale une couche d''épaisseur dstem:[l]
+    d''une substance de masse spécifique stem:[ρ] et dstem:[E]~tr~ la somme des énergies
+    cinétiques de toutes les particules chargées libérées de cette couche
+
+
+    stem:[((mu_((tr))))/(rho) = (1)/((E_N rho)) * ((d E_((tr))))/((d l))]'
+  examples: []
+  notes:
+  - 'Pour un rayonnement monoénergétique, la relation entre le kerma (stem:[K]) et
+    la fluence énergétique (stem:[Ψ]) peut s''exprimer comme suit:
+
+
+    stem:[K = Psi ((mu_((tr))))/(rho)]'
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 50f2f068-3ada-57d7-bb8f-ee826e964fd4
+status: Standard

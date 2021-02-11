@@ -1,0 +1,14 @@
+data:
+  definition: magnitude of the angular velocity *stem:[ω]* divided by the angle 2π,
+    thus stem:[n] = |*stem:[ω]*|/2π
+  examples: []
+  notes:
+  - 1 The rotational frequency is also the derivative of the absolute value of angle
+    of rotation stem:[φ] with respect to time stem:[t], divided by 2π, thus stem:[n
+    = (1)/((2 pi)) ((d | phi |))/((d t))].
+  - 2 The coherent SI unit of rotational frequency is second to the power minus one,
+    s^–1^. The units revolution per second, symbol r/s, and revolution per minute,
+    symbol r/min, are widely used in specifications for rotating machines.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 87030bfd-aca7-5c17-9027-8c6495a3a023
+status: Standard

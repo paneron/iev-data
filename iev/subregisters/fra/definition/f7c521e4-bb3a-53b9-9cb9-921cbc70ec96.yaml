@@ -1,0 +1,12 @@
+data:
+  definition: matrice n'ayant qu'une seule colonne
+  examples: []
+  notes:
+  - Une matrice-colonne à stem:[m] lignes est de format stem:[m] × 1.
+  - On emploie généralement une matrice-colonne pour représenter les coordonnées d'un
+    vecteur.
+  - On emploie une matrice-colonne en théorie des circuits pour représenter les tensions
+    ou les courants aux accès d'un réseau.
+dateAccepted: 2018-11-17
+id: f7c521e4-bb3a-53b9-9cb9-921cbc70ec96
+status: Standard

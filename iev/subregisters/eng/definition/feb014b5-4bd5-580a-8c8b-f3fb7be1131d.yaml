@@ -1,0 +1,23 @@
+data:
+  definition: 'the product of stem:[D, Q] and stem:[N] at the point of interest in
+    tissue, where stem:[D] is the absorbed dose, stem:[Q] is the quality factor and
+    stem:[N] is the product of all other modifying factors
+
+
+    stem:[H]= stem:[DQN]'
+  examples: []
+  notes:
+  - '— The SI unit of dose equivalent is joule per kilogram and is given the special
+    name sievert Thearlier special unit of dose equivalent, still in temporary use,
+    was the rem.
+
+
+    1 Sv = 100 rem
+
+
+    = 1J • kg^-1^'
+  - Dose equivalent is used only for radiation protection purposes and only for values
+    of stem:[H] up to the order of the applicable dose equivalent limit.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: feb014b5-4bd5-580a-8c8b-f3fb7be1131d
+status: Standard

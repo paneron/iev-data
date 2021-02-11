@@ -1,0 +1,11 @@
+data:
+  definition: property of a function stem:[f ( t )] for a value stem:[t]~0~ of its
+    argument, characterised by the existence of a positive number stem:[ε] such that
+    stem:[f ( t_0 ) f ( t )] for any stem:[t] with stem:[0 | t - t_0 | epsilon]
+  examples: []
+  notes:
+  - If the condition stem:[f ( t_0 ) f ( t )] is replaced with stem:[f ( t_0 ) &lt;=
+    f ( t )], the property may occur for an interval of values of the argument.
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 2e91006e-7066-5e76-a4ca-ebd419a400bf
+status: Standard

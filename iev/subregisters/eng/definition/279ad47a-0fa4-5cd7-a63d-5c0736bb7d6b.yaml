@@ -1,0 +1,13 @@
+data:
+  definition: 'smallest positive {{difference, IEV:102-01-17}} stem:[T] between two
+    values of the independent {{variable, IEV:103-01-05}} stem:[t] of a {{function,
+    IEV:102-01-10}} stem:[f](stem:[t]) at which the function''s values are identical
+    for any value of stem:[t]: stem:[f](stem:[t]+stem:[T]) = stem:[f](stem:[t])'
+  examples: []
+  notes:
+  - If stem:[f](stem:[t]) describes the variation of a  {{quantity, IEV:112-01-01}}
+    with {{time, IEV:113-01-03}}, the period is sometimes called "period duration"
+    in English.
+dateAccepted: '2020-09-01T00:00:00+00:00'
+id: 279ad47a-0fa4-5cd7-a63d-5c0736bb7d6b
+status: Standard

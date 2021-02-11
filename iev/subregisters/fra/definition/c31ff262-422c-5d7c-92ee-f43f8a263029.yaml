@@ -1,0 +1,22 @@
+data:
+  definition: 'méthode de justification employée lorsque la suite des créneaux temporels
+    élémentaires destinée à la transmission d''un signal numérique a constamment un
+    débit numérique supérieur à celui du signal original; à chaque instant justifiable
+    et selon la relation temporelle à cet instant:
+
+
+    a) soit aucun élément numérique du signal original n''est transmis, mais un élément
+    numérique de justification est inséré dans le créneau temporel élémentaire justifiable;
+
+
+    b) soit un élément numérique du signal original est inséré dans le créneau temporel
+    élémentaire justifiable;
+
+
+    ces deux cas sont distingués par des signaux particuliers formés à l''aide des
+    éléments numériques de service de justification'
+  examples: []
+  notes: []
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: c31ff262-422c-5d7c-92ee-f43f8a263029
+status: Standard

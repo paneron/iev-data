@@ -1,0 +1,13 @@
+data:
+  definition: the ratio, generally expressed in decibels, of the apparent power at
+    a point in a transmission channel after insertion of a given two-port device into
+    the path immediately ahead of this point, to the power at this point before insertion
+    of the device
+  examples: []
+  notes:
+  - If the ratio defining the insertion gain is less than one, its decibel value is
+    negative, and its converse or opposite decibel value called "insertion loss" may
+    be used.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: b20f6cb4-7d9d-5b02-a60d-705e8d61b6d0
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: '2.7'
+    original: ≈ VIM 2.7
+    ref: JCGM VIM
+    relationship:
+      type: similar
+  definition: quantity which is not the subject of the measurement and whose change
+    affects the relationship between the indication and the result of the measurement
+  examples: []
+  notes:
+  - This term is used in the "uncertainty" approach.
+  - Influence quantities can originate from the measured system, the measuring equipment
+    or the environment.
+  - As the calibration diagram depends on the influence quantities, in order to assign
+    the result of a measurement it is necessary to know whether the relevant influence
+    quantities lie within the specified range.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: b4b4fa7e-83cb-524a-8dd5-bd61fbd5aa60
+status: Standard

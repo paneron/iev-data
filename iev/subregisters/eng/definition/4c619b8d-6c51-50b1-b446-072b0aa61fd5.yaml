@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '3.11'
+    link: https://webstore.iec.ch/publication/7002
+    original: IEC 62427:2007, 3.11
+    ref: IEC 62427:2007
+    relationship:
+      type: identical
+  definition: margin between the level of per train emissions and the actual susceptibility
+    of the track circuit
+  examples: []
+  notes:
+  - The factor of safety covers safety or availability depending on whether wrong-side
+    failure or right-side failure mechanism is considered.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 4c619b8d-6c51-50b1-b446-072b0aa61fd5
+status: Standard

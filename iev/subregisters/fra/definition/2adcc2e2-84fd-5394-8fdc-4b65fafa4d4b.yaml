@@ -1,0 +1,17 @@
+data:
+  definition: nombre réel ou complexe dont le produit par lui-même est égal à un nombre
+    réel ou complexe donné
+  examples: []
+  notes:
+  - Tout nombre réel ou complexe non nul a deux racines carrées, qui sont des nombres
+    opposés. Pour un nombre réel non négatif stem:[a], la racine carrée non négative
+    est représentée par stem:[a^(1 // 2)] ou stem:[sqrt(a)]. Pour un nombre réel négatif
+    stem:[a], le nombre stem:[- a] est positif et les deux racines carrées sont des
+    nombres imaginaires, conjugués l'un de l'autre, notés stem:[j sqrt(- a)] et stem:[-
+    j sqrt(- a)]. Pour un nombre complexe stem:[c = | c | e^(j phi)], les deux racines
+    carrées sont stem:[sqrt(| c |) e^(j phi // 2)] et stem:[sqrt(| c |) e^(j ( (phi)/(2)
+    + pi ))].
+  - Le concept de racine carrée peut s'appliquer aux grandeurs scalaires.
+dateAccepted: 2018-11-17
+id: 2adcc2e2-84fd-5394-8fdc-4b65fafa4d4b
+status: Standard

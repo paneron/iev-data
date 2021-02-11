@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - original: UIT-R Rec. 592 MOD
+    ref: ITU-R Recommendation 592
+    relationship:
+      type: modified
+  definition: modulation numérique dans laquelle le signal radiofréquence peut prendre
+    plus de quatre valeurs soit de fréquence, soit de phase, soit d'amplitude, à l'instant
+    d'échantillonnage
+  examples: []
+  notes:
+  - Le terme "modulation multiniveau" se réfère au nombre de valeurs du signal et
+    non au niveau de puissance à l'entrée du démodulateur.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: ceff9133-1246-5f62-adaf-5fe3bce6969a
+status: Standard

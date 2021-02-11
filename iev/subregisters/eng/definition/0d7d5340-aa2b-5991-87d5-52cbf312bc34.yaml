@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '2.2'
+    original: IEC Guide 110:1996, 2.2
+    ref: IEC Guide 110:1996
+    relationship:
+      type: identical
+  definition: '{{home network, IEV:732-10-01}} together with all the devices attached
+    to it, including the rules for {{control, IEV:351-42-19}}, for {{communication,
+    IEV:701-01-04}} and for management among application processes'
+  examples: []
+  notes: []
+dateAccepted: '2014-01-01T00:00:00+00:00'
+id: 0d7d5340-aa2b-5991-87d5-52cbf312bc34
+status: Standard

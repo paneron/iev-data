@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 725-12-27
+    link: null
+    original: 725-12-27 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: '107'
+    original: ITU RR 107 MOD
+    ref: ITU RR
+    relationship:
+      type: modified
+  definition: connection by satellite between a transmitting station and a receiving
+    station through one satellite
+  examples: []
+  notes:
+  - When a satellite link is established between two Earth stations, it comprises
+    one up-link and one down-link.
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: c533d581-631a-5dc5-adbe-5a02ac65434d
+status: Standard

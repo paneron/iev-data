@@ -1,0 +1,11 @@
+data:
+  definition: '{{signal, IEV:171-01-03}} dont la caractéristique support d’informations
+    peut prendre une quelconque des valeurs d’un intervalle continu de valeurs'
+  examples: []
+  notes:
+  - Un signal à valeurs continues peut être un {{signal à temps continu, IEV:171-01-10}},
+    et donc un {{signal analogique, IEV:171-01-14}}, ou un {{signal temporel discret,
+    IEV:171-01-12}}.
+dateAccepted: 2018-11-17
+id: 27aab500-3574-565d-a6a9-3c53f290234f
+status: Standard

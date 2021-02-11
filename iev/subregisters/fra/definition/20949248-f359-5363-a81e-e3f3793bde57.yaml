@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1.15
+    link: https://www.iso.org/standard/69470.html
+    original: ISO/IEC 20924:2018, 3.1.15
+    ref: ISO/IEC 20924:2018
+    relationship:
+      type: identical
+  definition: '{{entité numérique, IEV:741-01-14}} qui utilise un {{système IdO, IEV:741-02-07}}'
+  examples: []
+  notes:
+  - L'utilisateur numérique inclut les {{services, IEV:741-01-28}} d'automatisation
+    qui agissent pour le compte d'{{utilisateurs humains, IEV:741-01-20}}.
+dateAccepted: 2018-11-17
+id: 20949248-f359-5363-a81e-e3f3793bde57
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  definition: single variable, monotonic mathematical function applied individually
+    to one or more colour channels
+  examples: []
+  notes:
+  - Colour component transfer functions are frequently used to account for the non-linear
+    response of a reference device and/or to improve the visual uniformity of a colour
+    space.
+  - Generally, colour component transfer functions will be non-linear functions such
+    as a power-law (i.e. "gamma") function or a logarithmic function. However, in
+    some cases a linear colour component transfer function can be used.
+  - For more information on "colour channels" see Note 2 to entry to "<a href="IEV845-32-018">colour
+    space encoding</a>".
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: feb03c5b-9062-5b54-9dd7-ad7371eedf79
+status: Standard

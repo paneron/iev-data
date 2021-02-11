@@ -1,0 +1,12 @@
+data:
+  definition: ordered set of exactly stem:[n] {{binary digits, IEV:171-02-10}}, treated
+    as a whole
+  examples:
+  - '{{Doublet, IEV:702-05-07}}, {{triplet, IEV:702-05-08}}, {{byte, IEV:171-02-12}}.'
+  notes:
+  - The term "stem:[n]-bit byte" and the French term "stem:[n]-uplet" are also used
+    for a generic concept, where the number of elements is not given explicitly (see
+    {{IEV 171-02-22, IEV:171-02-22}}).
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: a8841698-695e-5375-a3cc-f638bcec33b3
+status: Standard

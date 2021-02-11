@@ -1,0 +1,13 @@
+data:
+  definition: fonction égale au quotient des transformées de Fourier des signaux qui
+    se correspondent à la sortie et à l'entrée d'un biporte linéaire invariable dans
+    le temps
+  examples: []
+  notes:
+  - La fonction de transfert isochrone coïncide avec la fonction de transfert isomorphe
+    pour les valeurs imaginaires de la fréquence complexe qui est la variable de la
+    transformée de Laplace. C'est la transformée de Fourier de la réponse impulsionnelle
+    du biporte.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 92625b8c-5258-5629-80f4-40afb4023cd8
+status: Standard

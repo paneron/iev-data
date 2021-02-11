@@ -1,0 +1,15 @@
+data:
+  definition: 'quotient, par le produit stem:[ρ] dstem:[l], de la perte d''énergie
+    par collision d''une particule chargée d''énergie spécifiée dstem:[E]~col~ traversant
+    une longueur dstem:[l] de matière de masse volumique stem:[ρ]:
+
+
+    stem:[((S_((col))))/(rho) = (1)/(rho) * (( ((d E))/((d l)) ))_((col))]'
+  examples: []
+  notes:
+  - Les pertes d'énergie comprises dans le pouvoir d'arrêt massique par collisions
+    sont aussi bien celles qui produisent l'excitation et l'ionisation des atomes
+    que celles qui produisent les atomes de recul.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: dd5cf6fa-ae82-5e09-b8eb-c225c8736ad9
+status: Standard

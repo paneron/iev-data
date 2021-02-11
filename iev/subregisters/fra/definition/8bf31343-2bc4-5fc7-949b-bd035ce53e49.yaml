@@ -1,0 +1,20 @@
+data:
+  definition: vecteur *grad* stem:[f] associé en chaque point d'un domaine déterminé
+    de l'espace à un scalaire stem:[f], dont la direction est normale à la surface
+    sur laquelle le champ scalaire a une valeur constante, dans le sens des valeurs
+    croissantes de stem:[f], et dont la norme est égale à la valeur absolue de la
+    dérivée de stem:[f] par rapport à la distance dans cette direction normale
+  examples: []
+  notes:
+  - Le gradient exprime la variation du champ scalaire entre le point donné et un
+    point situé à une distance infinitésimale stem:[d s] dans la direction d'un vecteur
+    unité donné *stem:[e]* par le produit scalaire dstem:[f] = *grad* stem:[f] ⋅ *stem:[e]* dstem:[s].
+  - 'En coordonnées cartésiennes orthonormées, les trois coordonnées du gradient sont:
+
+
+    stem:[((del f))/((del x)) , ((del f))/((del y)) , ((del f))/((del z))].'
+  - Le gradient du champ scalaire stem:[f] est noté *grad* stem:[f] ou stem:[grad
+    f].
+dateAccepted: 2018-11-17
+id: 8bf31343-2bc4-5fc7-949b-bd035ce53e49
+status: Standard

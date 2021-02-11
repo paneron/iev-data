@@ -1,0 +1,21 @@
+data:
+  definition: the relative permeability obtained from the peak value of the magnetic
+    flux density and the peak value of the applied magnetic field strength, at a stated
+    amplitude of either, when the field strength is varying periodically with time
+    and with an average of zero, and the material is initially in a specified neutralized
+    state
+  examples: []
+  notes:
+  - 'Two amplitude permeabilities are in common use, namely:
+
+
+    i) that in which the peak values apply to the actual waveforms,
+
+
+    ii) that in which the peak values apply to the fundamental components, in which
+    case it should be distinguished which of the waveforms, if either, is sinusoidal.'
+  - stem:[hat B] and stem:[hat H] can be static values provided the material is in
+    a cyclic magnetic condition.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: ce7f95e7-a480-5e09-b669-e25d948612cc
+status: Standard

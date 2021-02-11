@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - clause: '3.57'
+    link: https://webstore.iec.ch/publication/62232
+    original: IEC 60079-0:2017, 3.57, modified – In the definition, "any part or surface
+      of Ex Equipment" has been replaced by "any part or surface of the equipment,
+      protective system or component that can produce an ignition of the surrounding
+      explosive atmosphere"; the notes to entry have been added.
+    ref: IEC 60079-0:2017
+    relationship:
+      modification: In the definition, "any part or surface of Ex Equipment" has been
+        replaced by "any part or surface of the equipment, protective system or component
+        that can produce an ignition of the surrounding explosive atmosphere"; the
+        notes to entry have been added.
+      type: modified
+  definition: highest temperature that can be attained in service under the most adverse
+    operating conditions (but within the recognized tolerance) by any part or surface
+    of the equipment, protective system or component that can produce an ignition
+    of the surrounding explosive atmosphere
+  examples: []
+  notes:
+  - The maximum surface temperature marked on the equipment includes safety margins
+    depending on the EPL of the equipment.
+  - The surface temperature which is relevant can be internal or external depending
+    upon the Type of Protection concerned.
+  - For {{Ex Equipment, IEV:426-01-14}} in an explosive dust atmosphere, this temperature
+    occurs on the external surface of the enclosure and can include a defined dust
+    layer condition.
+dateAccepted: '2020-03-01T00:00:00+00:00'
+id: ff7a5b7d-ac75-5aee-a07b-f3f5b03ba092
+status: Standard

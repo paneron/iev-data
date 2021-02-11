@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    original: VIM 4.4
+    ref: JCGM VIM
+    relationship:
+      type: identical
+  definition: series of elements of a measuring instrument or system that constitutes
+    the path of the measurement signal from the input to the output
+  examples: []
+  notes:
+  - 'Example: set of transducers and connecting elements between one or more measuring
+    instruments, placed between the sensor, which is the first element of the chain,
+    and the last element of the chain: for example, the indicating, recording or storage
+    device.'
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 9711157b-46da-5a04-90fe-aa53c1d2c435
+status: Standard

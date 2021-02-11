@@ -1,0 +1,29 @@
+data:
+  definition: 'quotient de l''<a href="IEV845-29-106">épaisseur optique</a> de l''atmosphère
+    à l''angle stem:[ε] par rapport à la verticale, stem:[δ](stem:[ε]), par l''épaisseur
+    optique verticale, stem:[δ](0°), de l''atmosphère
+
+
+    stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]'
+  examples: []
+  notes:
+  - Voir aussi "<a href="IEV845-29-106">épaisseur optique</a>".
+  - 'Plusieurs équations permettent d''exprimer ce concept. Généralement, la formule
+    de Kasten–Young est utilisée:
+
+
+    stem:[m = (1)/((sin\ gamma_s \ + \ 0, 5 0 5\ 72 ( gamma_s \ + \ 6 ,0 79\ 95 )^(-
+    1 , 636 4)))]
+
+
+    où stem:[γ]~s~ (= 90° − stem:[ε]) est l''altitude solaire (angle complémentaire
+    de l''angle zénithal, stem:[ε]) en degré.'
+  - 'Lorsque la courbure de l''atmosphère et la réfraction atmosphérique sont négligées:
+
+
+    stem:[m = (1)/((cos epsilon))].'
+  - L'unité de la masse d'air optique relative est un.
+  - Cet article était numéroté 845-09-88 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: d37d0e0b-e6d2-5bb0-ac82-92ae9689d9e9
+status: Standard

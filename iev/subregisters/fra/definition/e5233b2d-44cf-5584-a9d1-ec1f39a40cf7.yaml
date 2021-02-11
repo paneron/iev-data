@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://webstore.iec.ch/publication/6361
+    original: IEC 62047-19:2013, 3.3, modifié – La Note 1 à l'article a été supprimée.
+    ref: IEC 62047-19:2013
+    relationship:
+      modification: La Note 1 à l'article a été supprimée.
+      type: modified
+  definition: compas qui calcule et délivre un azimut en utilisant les sorties électriques
+    de {{capteurs, IEV:151-13-48}}
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: e5233b2d-44cf-5584-a9d1-ec1f39a40cf7
+status: Standard

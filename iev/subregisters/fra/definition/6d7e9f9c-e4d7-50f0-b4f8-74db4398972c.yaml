@@ -1,0 +1,12 @@
+data:
+  definition: '{{instruction, IEV:171-05-08}} écrite dans un {{langage source, IEV:171-05-18}}
+    et destinée à être remplacée par une suite déterminée d''instructions dans le
+    même langage source'
+  examples: []
+  notes:
+  - Une macro-instruction peut également spécifier les valeurs qui doivent être attribuées
+    à certains paramètres dans les instructions qui la remplaceront.
+  - Tous les langages sources ne permettent pas d’utiliser des macro-instructions.
+dateAccepted: 2018-11-17
+id: 6d7e9f9c-e4d7-50f0-b4f8-74db4398972c
+status: Standard

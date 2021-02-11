@@ -1,0 +1,15 @@
+data:
+  definition: rapport de la puissance du {{signal utile, IEV:702-08-01}} à la puissance
+    totale des {{signaux brouilleurs, IEV:161-01-04}} et des {{bruits, IEV:702-08-03}},
+    évalué dans des conditions spécifiées en un point spécifié d'une {{voie de transmission,
+    IEV:701-02-01}}
+  examples: []
+  notes:
+  - Le rapport signal sur brouillage est généralement exprimé en {{décibels, IEV:702-07-02}}.
+  - "Les conditions déterminées comprennent entre autres:\r\n\r\n* la nature et les\
+    \ caractéristiques du signal utile,\r\n* la nature et les caractéristiques des\
+    \ signaux brouilleurs et des bruits,\r\n* les caractéristiques du récepteur, en\
+    \ particulier la {{largeur de bande, IEV:161-06-09}}.\r\n"
+dateAccepted: 2018-11-17
+id: b61b29d6-51a1-5056-9a76-abee8e11a87e
+status: Standard

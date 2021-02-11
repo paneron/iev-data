@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '3.6'
+    link: https://webstore.iec.ch/publication/2796
+    original: IEC 60664-1:2007, 3.6
+    ref: IEC 60664-1:2007
+    relationship:
+      type: identical
+  definition: valeur de crête maximale des excursions périodiques de la forme d'onde
+    de tension résultant des déformations d'une tension en AC ou de composantes en
+    AC superposées à la tension en DC
+  examples: []
+  notes:
+  - Les surtensions aléatoires dues par exemple à des manœuvres occasionnelles ne
+    sont pas considérées comme des tensions de crête répétitive.
+dateAccepted: 2018-11-17
+id: c2ecdc9d-be31-563d-997e-3d062a545109
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  definition: ensemble des règles qui régissent l'établissement des chaînes de connexion
+    dans un réseau à commutation de circuits
+  examples: []
+  notes:
+  - 'Ces règles définissent notamment:
+
+
+    - la catégorie de chaque commutateur,
+
+
+    - les faisceaux de circuits reliant deux commutateurs, et les faisceaux de lignes
+    de rattachement,
+
+
+    - au moins un chemin possible pour chaque communication, entre les points terminaux
+    mis en jeu.'
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 3cda3d16-1449-5136-9dcb-c872a8630fab
+status: Standard

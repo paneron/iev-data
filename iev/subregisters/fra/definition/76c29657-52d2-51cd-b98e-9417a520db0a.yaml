@@ -1,0 +1,13 @@
+data:
+  definition: ordre qui est émis après un intervalle de temps de retard spécifié,
+    démarrant après que l’étape correspondante ait été activée et finissant dès la
+    désactivation de celle-ci, et qui n’est pas émis si l’étape correspondante est
+    activée puis désactivée dans l’intervalle de retard spécifié
+  examples: []
+  notes:
+  - L'ordre retardé est identifié dans la CEI 60848, _Langage de spécification GRAFCET
+    pour diagrammes fonctionnels en séquence_, par la lettre conventionnelle "D".
+  - Cet article était numéroté 351-29-34 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 76c29657-52d2-51cd-b98e-9417a520db0a
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  definition: 'potentiel scalaire stem:[V] du vecteur irrotationnel stem:[( E + ((del
+    A))/((del t)) )], où stem:[*E*] est le champ électrique, stem:[*A*] un potentiel
+    vecteur magnétique et stem:[t] le temps:
+
+
+    stem:[- grad V = E + ((del A))/((del t))]'
+  examples: []
+  notes:
+  - Le potentiel électrique n'est pas unique puisqu’une grandeur scalaire constante
+    quelconque peut être ajoutée à un potentiel électrique donné sans changer son
+    gradient.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 8ae96705-2576-5d27-bbb3-78456e50fc13
+status: Standard

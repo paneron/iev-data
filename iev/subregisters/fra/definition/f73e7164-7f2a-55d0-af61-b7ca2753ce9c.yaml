@@ -1,0 +1,15 @@
+data:
+  definition: 'relais temporisé dont la sortie passe à l''état de travail et dont
+    la temporisation démarre dès l’application de l’alimentation et du signal de commande,
+    et dont la sortie passe à l’état de repos lorsque la temporisation réglée est
+    écoulée (voir Figure 11)
+
+
+    image::/assets/images/parts/445/445-01-14fr.gif[]'
+  examples: []
+  notes:
+  - – La répétition du signal de commande pendant la temporisation peut ne pas réinitialiser
+    celle-ci.
+dateAccepted: '2010-10-01T00:00:00+00:00'
+id: f73e7164-7f2a-55d0-af61-b7ca2753ce9c
+status: Standard

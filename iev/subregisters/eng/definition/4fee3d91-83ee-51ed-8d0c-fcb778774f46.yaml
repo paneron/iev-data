@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 713-07-23
+    link: null
+    original: 713-07-23
+    ref: IEV
+    relationship:
+      type: identical
+  - clause: 702-09-36
+    link: null
+    original: 702-09-36 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  definition: non-linear device for producing oscillations or signals the frequencies
+    of which are specified linear combinations of integral multiples of the frequencies
+    of the spectral components of two input oscillations or signals
+  examples: []
+  notes:
+  - Usually, the output frequencies are the sum or difference of input frequencies.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 4fee3d91-83ee-51ed-8d0c-fcb778774f46
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.1.114
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.114
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: address of a node on the train bus (6 bits), equal to the least significant
+    6 bits of the 8-bit device address on the wire train bus
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 8738e0c0-dd69-5995-9d94-8ea265983f13
+status: Standard

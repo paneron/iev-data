@@ -1,0 +1,15 @@
+data:
+  definition: theoretical temperature which is based on a simplified representation
+    of the thermal and electrical behaviour of the semiconductor device
+  examples: []
+  notes:
+  - The virtual temperature is not necessarily the highest temperature in the device.
+  - 'Based on the power dissipation and the thermal resistance or impedance that corresponds
+    to the mode of operation, the virtual junction temperature can be calculated from
+    the formula:
+
+
+    stem:[T_j = T_((case)) + (P)/((R_((th))))] or stem:[T_j = T_((amb)) + (P)/((R_((th))))]'
+dateAccepted: '2002-05-01T00:00:00+00:00'
+id: 713c9232-6f31-5d96-a4b9-abcde809d890
+status: Standard

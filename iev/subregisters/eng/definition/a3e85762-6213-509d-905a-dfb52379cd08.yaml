@@ -1,0 +1,15 @@
+data:
+  definition: ratio of the power of the {{wanted signal, IEV:702-08-01}} to the total
+    power of {{interfering signals, IEV:161-01-04}} and {{noise, IEV:702-08-03}},
+    evaluated under specified conditions at a specified point of a {{transmission
+    channel, IEV:701-02-01}}
+  examples: []
+  notes:
+  - "The signal-to-interference ratio\r\nis generally expressed in {{decibels, IEV:702-07-02}}."
+  - "The specified conditions comprise among others:\r\n \r\n* the nature and characteristics\
+    \ of the wanted signal, \r\n* the nature and characteristics of the interfering\
+    \ signals and the noise,\r\n* the characteristics of the receiver, such as the\
+    \ {{bandwidth, IEV:161-06-09}}.\r\n"
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: a3e85762-6213-509d-905a-dfb52379cd08
+status: Standard

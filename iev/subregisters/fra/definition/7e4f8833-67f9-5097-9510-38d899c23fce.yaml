@@ -1,0 +1,33 @@
+data:
+  definition: '{{grandeur d''alimentation, IEV:447-03-01}} qui constitue par elle-même
+    la {{grandeur caractéristique, IEV:447-07-01}} ou bien qui aide à sa constitution
+
+
+    EXEMPLE
+
+
+    * Courant pour un {{relais de courant, IEV:447-01-27}}, un {{relais électrique
+    thermique, IEV:447-01-36}} et un ({{relais différentiel, IEV:447-01-40}});* tension
+    pour un {{relais de tension, IEV:447-01-28}}, un {{relais de fréquence, IEV:447-01-29}},
+    un {{relais volt par hertz, IEV:447-01-47}} et un {{relais de synchronisation,
+    IEV:447-01-45}};* tension et courant pour un {{relais d''impédance, IEV:447-01-30}},
+    un {{relais directionnel, IEV:447-01-41}} et un {{relais de puissance, IEV:447-01-42}}.
+
+
+    Note 1 à l''article: La {{grandeur d''alimentation d''entrée, IEV:447-03-02}}
+    peut être appliquée à un {{relais de mesure, IEV:447-01-02}} ou à un {{équipment
+    de protection, IEV:447-01-49}} soit par un câblage depuis des {{transformateurs
+    de mesure, IEV:321-01-01}} ou en tant que paquet de données sur des ports de communication
+    en employant un protocole de communication de données approprié, tel que l''IEC 61850-9-2.
+
+
+    Note 2 à l''article: Dans l''IEC 60050-447:2010, la "grandeur d''alimentation
+    caractéristique" portait le numéro 447-03-03 en tant que substitut pour la {{"grandeur
+    d''alimentation d''entrée", IEV:447-03-02}}, et la "grandeur d''alimentation d''entrée"
+    était provisoirement définie pour l''actuelle série de normes IEC 60255. Toutefois,
+    le terme de "grandeur d''alimentation d''entrée" est internationalement accepté.'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 7e4f8833-67f9-5097-9510-38d899c23fce
+status: Standard

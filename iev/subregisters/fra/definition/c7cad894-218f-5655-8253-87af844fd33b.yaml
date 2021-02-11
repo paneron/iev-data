@@ -1,0 +1,12 @@
+data:
+  definition: en un point d'une surface, plan, s'il existe, qui contient toutes les
+    tangentes en ce point aux courbes de la surface passant par le point
+  examples: []
+  notes:
+  - Pour une surface définie par stem:[r = f ( u , v )], où stem:[( u , v ) in U sube
+    R^2], le plan tangent en *stem:[r]*(stem:[u]~0~, stem:[v]~0~) est défini par les
+    vecteurs stem:[(( ((del f))/((del u)) ))_([[u = u_0],[v = v_0]])] et stem:[((
+    ((del f))/((del v)) ))_(([[u = u_0],[v = v_0]]))] s'ils sont linéairement indépendants.
+dateAccepted: 2018-11-17
+id: c7cad894-218f-5655-8253-87af844fd33b
+status: Standard

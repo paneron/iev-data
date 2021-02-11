@@ -1,0 +1,33 @@
+data:
+  definition: 'the quantity which characterizes the material dispersion defined as:
+
+
+    stem:[M ( lambda ) = - (1)/((c_0)) ((d N))/((d lambda)) = ((lambda d^2 n))/((c_0
+    d lambda^2))]
+
+
+    where
+
+
+    stem:[n] is the refractive index,
+
+
+    stem:[N] is the group index,
+
+
+    stem:[λ] is the wavelength in vacuum, and
+
+
+    stem:[c]~0~ is the speed of light in vacuum'
+  examples: []
+  notes:
+  - For many optical fibre materials, stem:[M] is zero at a specific wavelength stem:[λ]~0~,
+    usually around 1300 nm. The sign convention is such that stem:[M] is positive
+    for wavelengths shorter than stem:[λ]~0~ and negative for wavelengths longer than
+    stem:[λ]~0~.
+  - Pulse broadening caused by material dispersion in a unit length of optical fibre
+    is give by stem:[M] times spectral linewidth (Δstem:[λ]), except at or near stem:[λ]
+    = stem:[λ]~0~, where terms proportional to (Δstem:[λ])^2^ are important.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 6cd8af8d-6ce4-58cd-8b4b-626f5ce8be1d
+status: Standard

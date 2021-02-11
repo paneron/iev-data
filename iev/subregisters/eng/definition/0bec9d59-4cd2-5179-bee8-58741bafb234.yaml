@@ -1,0 +1,24 @@
+data:
+  definition: maximum value of <a href="IEV845-21-091">spectral luminous efficacy</a>
+    for a specified photometric condition
+  examples: []
+  notes:
+  - The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+    If it is not specified, photopic vision is assumed and the symbol stem:[K]~m~
+    is used. For other photometric conditions, the respective symbol for identification
+    shall be used.
+  - 'The value of maximum luminous efficacy for photopic vision is calculated by
+
+
+    stem:[K_m = ((683))/((V ( lambda_((cd)) ))) cd * sr * W^(- 1) tildetilde 683 \
+    lm * W^(- 1)]
+
+
+    where stem:[V](stem:[λ]) is the <a href="IEV845-21-035">spectral luminous efficiency</a>
+    for photopic vision and stem:[λ]~cd~ is the wavelength in air corresponding to
+    the {{frequency, IEV:103-06-02}} 540 × 10^12^ Hz specified in the definition of
+    the SI unit candela.'
+  - The maximum luminous efficacy is expressed in lumen per watt (lm·W^−1^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 0bec9d59-4cd2-5179-bee8-58741bafb234
+status: Standard

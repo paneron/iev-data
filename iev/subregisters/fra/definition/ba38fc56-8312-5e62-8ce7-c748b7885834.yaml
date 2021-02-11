@@ -1,0 +1,15 @@
+data:
+  definition: protection dans laquelle le courant résiduel en provenance d'un ensemble
+    de trois transformateurs de courant de phase est comparé à celui en provenance
+    d'un ensemble similaire de transformateurs de courant ou, plus habituellement,
+    d'un seul transformateur de courant placé dans la connexion de mise à la terre
+    d'un point neutre, s'il y en a un
+  examples: []
+  notes:
+  - Ce terme est aussi utilisé lorsque le neutre de l'installation protégée n'est
+    pas relié à la terre, c'est à dire que ni un deuxième ensemble de trois transformateurs
+    de courant de phase ni un transformateur de courant dans la connexion de neutre
+    ne sont nécessaires pour limiter la section protégée.
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: ba38fc56-8312-5e62-8ce7-c748b7885834
+status: Standard

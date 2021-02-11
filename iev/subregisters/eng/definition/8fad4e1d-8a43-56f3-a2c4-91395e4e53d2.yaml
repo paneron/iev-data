@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - clause: '1.11'
+    link: https://www.iso.org/standard/45324.html
+    original: ISO/IEC GUIDE 99:2007 1.11
+    ref: ISO/IEC Guide 99:2007
+    relationship:
+      type: identical
+  definition: unit of measurement for a derived quantity
+  examples: []
+  notes:
+  - Some derived units in the International System of Units (SI) have special names,
+    e.g. hertz for frequency and joule for energy, but others have compound names,
+    e.g. metre per second for speed. Compounds including units with special names
+    are also used, e.g. volt per metre for the electric field strength, and newton
+    metre for torque. See in particular ISO 31 and ISO/IEC 80000.
+  - Derived units can also be expressed by using multiples and submultiples. For example,
+    the metre per second, symbol m/s, and the centimetre per second, symbol cm/s,
+    are derived units of speed in the SI. The kilometre per hour, symbol km/h, is
+    a unit of speed outside the SI but accepted for use with the SI, because the unit
+    hour is accepted for use with the SI. The knot, equal to one nautical mile per
+    hour, is a unit of speed outside the SI, that is used by special interest groups.
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 8fad4e1d-8a43-56f3-a2c4-91395e4e53d2
+status: Standard

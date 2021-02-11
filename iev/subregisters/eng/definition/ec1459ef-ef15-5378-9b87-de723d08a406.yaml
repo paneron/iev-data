@@ -1,0 +1,39 @@
+data:
+  authoritative_source:
+  - clause: 2.3.1
+    original: SI Brochure, 9th edition, 2019, 2.3.1, modified – The definition in
+      the SI brochure has been revised for conformity with the IEV rules. Notes 1
+      to 4 to entry have been added.
+    ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+    relationship:
+      modification: The definition in the SI brochure has been revised for conformity
+        with the IEV rules. Notes 1 to 4 to entry have been added.
+      type: modified
+  definition: '{{SI, IEV:112-02-02}} {{unit, IEV:112-01-14}} of {{thermodynamic temperature,
+    IEV:113-04-14}}, taking the fixed numerical value of the {{Boltzmann constant,
+    IEV:113-02-17}} stem:[k] to be 1,380 649 × 10^−23^ when expressed in the unit
+    J/K, which is equal to kg m^2^ s^−2^ K^−1^, where the {{kilogram, IEV:112-02-06}},
+    {{metre, IEV:112-02-05}} and {{second, IEV:112-02-04}} are defined in terms of
+    stem:[h], stem:[c] and stem:[ν]~Cs~'
+  examples: []
+  notes:
+  - 'The definition in the SI Brochure is: "The kelvin, symbol K, is the SI unit of
+    thermodynamic temperature. It is defined by taking the fixed numerical value of
+    the Boltzmann constant stem:[k] to be 1,380 649 × 10^−23^  when expressed in the
+    unit J K^−1^, which is equal to kg m^2^ s^−2^ K^−1^, where the {{kilogram, IEV:112-02-06}},
+    {{metre, IEV:112-02-05}} and {{second, IEV:112-02-04}} are defined in terms of
+    stem:[h], stem:[c] and Δstem:[ν]~Cs~."'
+  - For 1 {{mol, IEV:112-02-09}} of an ideal gas, the {{internal energy, IEV:113-04-20}}
+    is stem:[U] = (3/2)stem:[kTN]~A~, where stem:[k] is the Boltzmann constant, stem:[T]
+    is the thermodynamic temperature, and stem:[N]~A~ is the {{Avogadro constant,
+    IEV:113-02-08}}.
+  - 'The definition of the kelvin in IEV 112-02-08:2010-01 was: “SI unit of thermodynamic
+    temperature, equal to the fraction 1/273,16 of the thermodynamic temperature of
+    the triple point of water”.'
+  - 'The kelvin is one of the seven SI {{base units, IEV:112-01-18}}: {{second, IEV:112-02-04}}
+    (s), {{metre, IEV:112-02-05}} (m), {{kilogram, IEV:112-02-06}} (kg), {{ampere,
+    IEV:112-02-08}} (A), kelvin (K), {{mole, IEV:112-02-09}} (mol) and {{candela,
+    IEV:112-02-10}} (cd).'
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: ec1459ef-ef15-5378-9b87-de723d08a406
+status: Standard

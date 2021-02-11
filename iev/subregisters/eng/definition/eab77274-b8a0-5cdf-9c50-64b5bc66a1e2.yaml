@@ -1,0 +1,12 @@
+data:
+  definition: 'maximum value of the effective input current, calculated from the rated
+    supply current (stem:[I]~1~), the corresponding duty cycle (X) and the supply
+    current at no-load (stem:[I]~0~) by the formula:
+
+
+    stem:[I_((1 e f f)) = sqrt(I_1^2 xx X + I_0^2 xx ( 1 - X ))]'
+  examples: []
+  notes: []
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: eab77274-b8a0-5cdf-9c50-64b5bc66a1e2
+status: Standard

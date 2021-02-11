@@ -1,0 +1,13 @@
+data:
+  definition: sampling of a picture where the points on the scanning lines corresponding
+    to the sampling instants are aligned in the picture perpendicularly to the scanning
+    line direction
+  examples: []
+  notes:
+  - In the case of progressive scanning, the points in a scanning line are aligned
+    with those points in the temporally adjacent lines of the same field; in the case
+    of interlaced scanning, the points in a scanning line are aligned with those points
+    in the spatially adjacent lines of the preceding field.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 1d778a51-e703-5bc1-9fdc-6e2b7c8a1730
+status: Standard

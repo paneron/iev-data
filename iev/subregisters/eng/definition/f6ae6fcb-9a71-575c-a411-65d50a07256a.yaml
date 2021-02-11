@@ -1,0 +1,28 @@
+data:
+  definition: 'density of incident luminous flux with respect to area at a point on
+    a real or imaginary surface
+
+
+    stem:[E_v = ((d Phi_v))/((d A))]
+
+
+    where stem:[Φ]~v~ is luminous flux and stem:[A] is the area on which the luminous
+    flux is incident'
+  examples: []
+  notes:
+  - 'Illuminance can be derived from the spectral irradiance distribution by
+
+
+    stem:[E_v \ = \ K_m int_0^(oo) E_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+
+    where stem:[K]~m~ is maximum luminous efficacy, stem:[E]~e,stem:[λ]~(stem:[λ])
+    is the spectral irradiance at wavelength stem:[λ] and stem:[V](stem:[λ]) is <a
+    href="IEV845-21-035">spectral luminous efficiency</a>.'
+  - The corresponding radiometric quantity is "irradiance". The corresponding quantity
+    for photons is "photon irradiance".
+  - The illuminance is expressed in lux (lx = lm·m^−2^).
+  - This entry was numbered 845-01-38 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: f6ae6fcb-9a71-575c-a411-65d50a07256a
+status: Standard

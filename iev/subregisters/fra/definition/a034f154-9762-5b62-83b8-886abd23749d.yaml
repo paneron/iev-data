@@ -1,0 +1,15 @@
+data:
+  definition: affaiblissement de transmission habituellement exprimé en décibels qui
+    serait obtenu si les antennes étaient remplacées par des antennes isotropes placées
+    dans un milieu diélectrique parfait, homogène, isotrope et illimité, la distance
+    entre les antennes étant conservée
+  examples: []
+  notes:
+  - 'Si la distance d entre les antennes est beaucoup plus grande que la longueur
+    d''onde stem:[λ], l''affaiblissement d''espace libre est égal, en décibels, à:
+
+
+    stem:[A_0 = 20 log ( ((4 pi d))/(lambda) )]'
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: a034f154-9762-5b62-83b8-886abd23749d
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 726-07-12
+    link: null
+    original: 726-07-12 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - link: https://webstore.iec.ch/publication/30633
+    original: see IEC 60027-2
+    ref: IEC 60027-2
+    relationship:
+      type: related
+  definition: for a two-port or stem:[n]-port network, matrix expressing the dependence
+    of complex quantities associated with output waves on the corresponding quantities
+    associated with incident waves
+  examples: []
+  notes:
+  - The elements of the scattering matrix are complex reflection factors or wave transfer
+    factors.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: dad61dd9-152d-5fb3-b483-d5182f6f12bb
+status: Standard

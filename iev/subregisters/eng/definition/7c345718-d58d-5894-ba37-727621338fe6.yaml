@@ -1,0 +1,31 @@
+data:
+  definition: 'time interval required for the trailing edge of a waveform to change
+    between two defined levels which may be either the logic levels stem:[V]~OH~ and
+    stem:[V]~OL~ [being at 90 % and 10 %, respectively, of the maximum amplitude (equalling
+    stem:[V]~HI~ – stem:[V]~LO~)], or any other ratio as defined in the detail specification
+
+
+    where
+
+
+    stem:[V]~OL~ is the low level output voltage
+
+
+    stem:[V]~OH~ is the high level output voltage
+
+
+    stem:[V]~HI~ is the upper flat voltage of the pulse waveform
+
+
+    stem:[V]~LO~ is the low flat voltage of the pulse waveform
+
+
+    image::/assets/images/parts/561/561-fig17-en.png[]
+
+
+    *Figure 17 – Characteristics of an output waveform*'
+  examples: []
+  notes: []
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 7c345718-d58d-5894-ba37-727621338fe6
+status: Standard

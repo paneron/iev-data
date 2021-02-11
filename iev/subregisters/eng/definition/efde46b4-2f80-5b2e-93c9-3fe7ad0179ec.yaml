@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - clause: 09.01.06
+    link: https://www.iso.org/standard/20929.html
+    original: 'ISO/IEC 2382-9:1995, <i>Information technology – Vocabulary – Part
+      9: Data communication</i>, 09.01.06, modified'
+    ref: ISO/IEC 2382-9:1995
+    relationship:
+      type: modified
+  - clause: 721-12-11
+    link: https://webstore.iec.ch/publication/247
+    original: IEC 60050-721:1991, 721-12-11 modified
+    ref: IEC 60050-721:1991
+    relationship:
+      type: modified
+  - clause: 716-01-07
+    link: https://webstore.iec.ch/publication/246
+    original: IEC 60050-716-1:1995, 716-01-07, modified – The definition is constructed
+      on the basis of these three different definitions.
+    ref: IEC 60050-716-1:1995
+    relationship:
+      modification: The definition is constructed on the basis of these three different
+        definitions.
+      type: modified
+  definition: boundary between two functional units, defined by functional characteristics,
+    signal characteristics, or other characteristics as appropriate
+  examples: []
+  notes:
+  - This concept includes the specification of the connection of two devices having
+    different functions.
+  - This entry was numbered 351-21-35 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: efde46b4-2f80-5b2e-93c9-3fe7ad0179ec
+status: Standard

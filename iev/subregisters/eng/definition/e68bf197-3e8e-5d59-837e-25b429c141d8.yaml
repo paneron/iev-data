@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - clause: '3.43'
+    link: https://webstore.iec.ch/publication/5532
+    original: IEC 61513:2011, 3.43, modified
+    ref: IEC 61513:2011
+    relationship:
+      type: modified
+  - original: IAEA 2
+    ref: IAEA 2
+    relationship:
+      type: identical
+  definition: the ability of an item to perform a required function under given conditions
+    for a given time interval
+  examples: []
+  notes:
+  - It is generally assumed that the item is in a state to perform this required function
+    at the beginning of the time interval.
+  - Generally, reliability performance is quantified using appropriate measures. In
+    some applications, these measures include an expression of reliability performance
+    as a probability, which is also called reliability.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: e68bf197-3e8e-5d59-837e-25b429c141d8
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  definition: probabilité pour qu'une tentative de prise sur un ensemble de ressources
+    donné n'aboutisse pas à une prise immédiate estimée dans un intervalle de temps
+    spécifié par le rapport du nombre de tentatives de prise infructueuses au nombre
+    total de tentatives
+  examples: []
+  notes:
+  - L'encombrement d'appel peut aussi s'appeler "probabilité de perte".
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: d9956aa3-aeb7-5b75-bff4-9b173ed135e4
+status: Standard

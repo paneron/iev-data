@@ -1,0 +1,16 @@
+data:
+  definition: forme de conception logicielle tolérante aux pannes dans laquelle plusieurs
+    versions différentes d’un programme sont exécutées en parallèle et où le résultat
+    majoritaire est sélectionné
+  examples: []
+  notes:
+  - Les versions du programme sont en général exécutées dans des processeurs distincts.
+  - Chaque version est en mesure de réaliser la tâche donnée. Au moins trois versions
+    sont utilisées. Un votant sélectionne le résultat qui recueille un accord majoritaire.
+    En l’absence de majorité, l’ensemble de l’unité fonctionnelle tombe en panne.
+  - La programmation multiversion est un exemple de redondance active, qui est le
+    plus souvent utilisée en électronique aéronautique et dans les systèmes de contrôle
+    de processus.
+dateAccepted: 2018-11-17
+id: 4d4b86c6-047f-5bd7-bdbf-247b19ca3a11
+status: Standard

@@ -1,0 +1,24 @@
+data:
+  definition: 'measure of dispersion equal to the sum of the squared deviations from
+    the mean value divided by the number of deviations or by that number minus 1,
+    depending upon the cases considered:
+
+
+    (1) variance of the whole population of stem:[N] items: stem:[(1)/(N) sum_((j
+    = 1))^N ( x_j - bar X )^2]
+
+
+    (2) variance of the sample of stem:[n] observations: stem:[(1)/(n) sum_((j = 1))^n
+    ( x_j - bar X )^2]
+
+
+    (3) estimate of the variance of the population from a sample: stem:[(1)/((n -
+    1)) sum_((j = 1))^n ( x_j - bar X )^2]
+
+
+    where stem:[bar X] is the mean value of the items of observation stem:[x_j] considered'
+  examples: []
+  notes: []
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 201c5a9d-037d-583a-ae8c-90ede7f7cf34
+status: Standard

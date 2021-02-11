@@ -1,0 +1,16 @@
+data:
+  definition: portée fictive dans laquelle les variations de la tension mécanique,
+    dues aux variations de la charge et de la température, sont sensiblement égales
+    à celles des portées réelles du canton
+  examples: []
+  notes:
+  - 'La valeur approchée stem:[a]~c~ de la portée équivalente est:
+
+
+    stem:[a_c ≃ sqrt(((sum a_i^3))/((sum a_i)))]
+
+
+    où stem:[a]~stem:[i]~ est la longueur (de la stem:[i]^e^ portée) du canton.'
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: d98eb172-251a-52a5-9c72-3406424885a4
+status: Standard

@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - clause: 2.4.23
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.4.23
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: '{{dispositif, IEV:151-11-20}} mécanique qui saisit des objets microscopiques'
+  examples: []
+  notes:
+  - Les micropinces ont deux rôles. Elles peuvent être utilisées comme outils pour
+    assembler des {{micromachines, IEV:523-01-03}} ou comme les mains des microrobots,
+    etc. Dans l’un ou l’autre cas, la micropince comporte des doigts pour saisir des
+    objets et un {{actionneur, IEV:151-13-49}} pour les manipuler. Comparées à une
+    main de microrobot, les micropinces possèdent une grande structure, mais nécessitent
+    un dispositif de commande précis. Comme la fonction d’une micropince est simplement
+    de saisir un objet, une préhension autorisant plusieurs degrés de liberté nécessite
+    la combinaison de manipulateurs adaptés. Comparée à une manipulation de type sans
+    contact utilisant un faisceau laser, la manipulation de type à contact fondée
+    sur une micropince ou un dispositif analogue autorise une meilleure commande d’orientation
+    de l’objet. Cependant, si la taille de l’objet à manipuler est inférieure à plusieurs
+    dizaines de micromètres, les forces d’attraction entre les surfaces des doigts
+    de la micropince et l’objet manipulé rendent la manipulation difficile.
+dateAccepted: 2018-11-17
+id: 977173f3-bd5a-52e4-83b8-de05aa2d5af3
+status: Standard

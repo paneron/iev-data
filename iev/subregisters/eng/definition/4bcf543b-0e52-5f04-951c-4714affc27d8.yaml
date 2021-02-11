@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1.67
+    link: https://webstore.iec.ch/publication/5397
+    original: IEC 61375-1:2012, 3.1.67
+    ref: IEC 61375-1:2012
+    relationship:
+      type: identical
+  definition: dynamic network address, which is used to address communication devices
+    in other consist networks
+  examples: []
+  notes:
+  - The train network address can change after each inauguration.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 4bcf543b-0e52-5f04-951c-4714affc27d8
+status: Standard

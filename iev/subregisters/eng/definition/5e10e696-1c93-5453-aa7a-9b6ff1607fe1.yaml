@@ -1,0 +1,14 @@
+data:
+  definition: loss of ability to perform as required
+  examples: []
+  notes:
+  - 'A failure of an item is an event that results in a fault of that item: see "fault"
+    ({{IEV 192-04-01, IEV:192-04-01}}).'
+  - Qualifiers, such as catastrophic, critical, major, minor, marginal and insignificant,
+    can be used to categorize failures according to the severity of consequences,
+    the choice and definitions of severity criteria depending upon the field of application.
+  - Qualifiers, such as misuse, mishandling and weakness, can be used to categorize
+    failures according to the cause of failure.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 5e10e696-1c93-5453-aa7a-9b6ff1607fe1
+status: Standard

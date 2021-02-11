@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.1.16
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1:2012, 3.1.16
+    ref: IEC 61375-2-1:2012
+    relationship:
+      type: identical
+  definition: ordering scheme for storing or transmitting data in which the most significant
+    part of a multiple-octet data is stored at the lowest octet address, and transmitted
+    first
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: c3b0fe23-dd2c-54e8-971b-e71a949d53a7
+status: Standard

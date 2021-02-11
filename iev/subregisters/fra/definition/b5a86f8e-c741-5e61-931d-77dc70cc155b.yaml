@@ -1,0 +1,26 @@
+data:
+  definition: quotient du flux énergétique pondéré par l'<a href="IEV845-21-035">efficacité
+    lumineuse relative spectrale</a> sur le flux énergétique correspondant pour une
+    condition photométrique spécifiée
+  examples: []
+  notes:
+  - Il convient de spécifier la condition photométrique (par exemple, photopique,
+    scotopique, mésopique). En l'absence de spécification, la vision photopique est
+    par hypothèse utilisée, de même que le symbole stem:[V.] Pour les autres conditions
+    photométriques, le symbole respectif pour l'identification doit être utilisé.
+  - 'L''efficacité lumineuse relative pour la vision photopique est exprimée par
+
+
+    stem:[V = ((int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda))/((int_0^(oo)
+    Phi_((e , lambda)) ( lambda ) d lambda)) = (K)/((K_m))]
+
+
+    où stem:[Φ]~e,~stem:[λ] est le flux énergétique spectral, stem:[V](stem:[λ]) est
+    l''efficacité lumineuse relative spectrale, stem:[λ] est la longueur d''onde,
+    stem:[K] est l''efficacité lumineuse du rayonnement, et stem:[K]~m~ est l''efficacité
+    lumineuse maximale.'
+  - L'unité d'efficacité lumineuse relative est un.
+  - Cet article était numéroté 845-01-57 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: b5a86f8e-c741-5e61-931d-77dc70cc155b
+status: Standard

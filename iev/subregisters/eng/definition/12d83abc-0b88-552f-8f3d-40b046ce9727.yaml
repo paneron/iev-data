@@ -1,0 +1,12 @@
+data:
+  definition: chromaticity coordinates representing the lighting in the viewing environment,
+    excluding that from the display, measured in the plane of the display
+  examples: []
+  notes:
+  - The ambient light can have a completely different quality than the light from
+    the image but this ambient light will have an effect on the appearance of colour
+    stimuli and so it has to be quantified along with the colour stimulus from the
+    image.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 12d83abc-0b88-552f-8f3d-40b046ce9727
+status: Standard

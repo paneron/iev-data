@@ -1,0 +1,11 @@
+data:
+  definition: valeur instantanée maximale du niveau de pression acoustique pondérée,
+    mesuré en utilisant une pondération fréquentielle normalisée dans un intervalle
+    de temps spécifié
+  examples: []
+  notes:
+  - Si la pondération fréquentielle n'est pas spécifiée, on supposera qu'il s'agit
+    de la pondération A.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: d52f3a6b-d057-5262-ac68-1c4667d665a8
+status: Standard

@@ -1,0 +1,32 @@
+data:
+  definition: 'density of incident <a href="IEV845-21-037">luminous energy</a> with
+    respect to area at a point on a real or imaginary surface
+
+
+    stem:[H_v = ((d Q_v))/((d A))]
+
+
+    where stem:[Q]~v~ is luminous energy and stem:[A] is the area on which the luminous
+    energy is incident'
+  examples: []
+  notes:
+  - The term "light exposure" is no longer used.
+  - 'Luminous exposure can be derived from the spectral radiant exposure distribution
+    by
+
+
+    stem:[H_v \ = \ K_m int_0^(oo) H_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+
+    where stem:[K]~m~ is maximum luminous efficacy, stem:[H]~e,~stem:[λ](stem:[λ])
+    is the spectral radiant exposure at wavelength stem:[λ] and stem:[V](stem:[λ])
+    is <a href="IEV845-21-035">spectral luminous efficiency</a>. Integral limits can
+    be confined depending on the spectral <a href="IEV845-25-061">responsivity</a>
+    of the detectors used as a sensor.'
+  - The corresponding radiometric quantity is "radiant exposure". The corresponding
+    quantity for photons is "photon exposure"
+  - The luminous exposure is expressed in lux second (lx·s = lm·s·m^−2^).
+  - This entry was numbered 845-01-43 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 2e4a95fa-684d-57d0-a6b6-3ca459397e31
+status: Standard

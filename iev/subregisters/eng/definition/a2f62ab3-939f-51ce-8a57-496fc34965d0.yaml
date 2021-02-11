@@ -1,0 +1,13 @@
+data:
+  definition: open-loop control with stepwise control actions in which the transition
+    from one step to the following is determined by a program in accordance with specified
+    transition conditions
+  examples: []
+  notes:
+  - The steps of the sequential control correspond to the consecutive discrete operating
+    conditions of the technical process, for example several final controlled variables
+    or several reference variables.
+  - This entry was numbered 351-26-53 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: a2f62ab3-939f-51ce-8a57-496fc34965d0
+status: Standard

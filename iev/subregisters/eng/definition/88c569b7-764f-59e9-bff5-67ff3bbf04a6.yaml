@@ -1,0 +1,15 @@
+data:
+  definition: ratio of the effective radius of the Earth to the actual Earth radius
+  examples: []
+  notes:
+  - 'This factor stem:[k] is related to the vertical gradient dstem:[n]/dstem:[h]
+    of the refractive index n and to the actual Earth radius stem:[a] by the equation:
+
+
+    stem:[k = (1)/((1 + a ((d n))/((d h))))]'
+  - For an atmosphere having a standard refractivity gradient the value of stem:[k]
+    is taken as 4/3, corresponding to an effective radius of the Earth of approximately
+    8 500 km.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 88c569b7-764f-59e9-bff5-67ff3bbf04a6
+status: Standard

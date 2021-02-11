@@ -1,0 +1,11 @@
+data:
+  definition: ordre qui est émis dès que l'étape correspondante est activée et qui
+    cesse lorsqu'il est explicitement désactivé par une étape subséquente
+  examples: []
+  notes:
+  - L'ordre mémorisé est identifié dans la CEI 60848, _Langage de spécification GRAFCET
+    pour diagrammes fonctionnels en séquence_, par la lettre conventionnelle "S".
+  - Cet article était numéroté 351-29-32 dans la CEI 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 71838aeb-d209-58cb-9cdc-d33c8da007fa
+status: Standard

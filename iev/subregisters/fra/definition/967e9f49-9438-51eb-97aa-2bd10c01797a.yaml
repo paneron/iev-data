@@ -1,0 +1,19 @@
+data:
+  definition: probabilité de fonctionner tel que requis pendant l’intervalle de temps
+    (stem:[t]~1~, stem:[t]~2~), dans des conditions données
+  examples: []
+  notes:
+  - 'Les conditions données incluent les aspects ayant un impact sur la fiabilité,
+    tels que: le mode de fonctionnement, les niveaux de contrainte, les conditions
+    environnementales et la maintenance, le cas échéant.'
+  - En règle générale, l’entité est supposée se trouver dans un état lui permettant
+    d’accomplir la fonction requise au début de l’intervalle de temps.
+  - Si stem:[t]~1~= 0 et stem:[t]~2~ = stem:[t], alors stem:[R](0, stem:[t]) est noté
+    simplement stem:[R](stem:[t]) et est appelé fonction de fiabilité ou fonction
+    de survie de l’entité. Voir l'IEC 61703, _Expressions mathématiques pour les termes
+    de fiabilité, de disponibilité, de maintenabilité et de logistique de maintenance_,
+    pour plus de détails.
+  - Voir aussi fiabilité, &lt;d’une entité&gt; ({{192-01-24, IEV:192-01-24}}).
+dateAccepted: 2018-11-17
+id: 967e9f49-9438-51eb-97aa-2bd10c01797a
+status: Standard

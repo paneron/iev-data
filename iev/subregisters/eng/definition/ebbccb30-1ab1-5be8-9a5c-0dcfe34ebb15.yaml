@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - clause: 13-35
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-35, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: 'difference between the {{information content, IEV:171-07-14}} stem:[I](stem:[x])
+    conveyed by the occurrence of an event stem:[x], and the conditional information
+    content stem:[I ( x | y )] conveyed by the occurrence of the same event, given
+    the occurrence of another event stem:[y]
+
+
+    stem:[T ( x , y ) = I ( x ) - I ( x | y )]'
+  examples: []
+  notes:
+  - The two events are particularly a message at the message source of a channel and
+    a message at the message sink of the channel.
+  - 'The transinformation content can also be expressed as: stem:[T ( x , y ) = I
+    ( x ) + I ( y ) - I ( x , y )], where stem:[I](stem:[y]) is the information content
+    of the event stem:[y]. From this follows that it is symmetric in stem:[x] and
+    stem:[y]: stem:[T ( x , y ) = T ( y , x )].'
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: ebbccb30-1ab1-5be8-9a5c-0dcfe34ebb15
+status: Standard

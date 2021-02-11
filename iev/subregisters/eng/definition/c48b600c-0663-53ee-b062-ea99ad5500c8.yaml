@@ -1,0 +1,12 @@
+data:
+  definition: 'arithmetic mean of the vertical illuminances, stem:[E]~v,v~, at a point
+    in the range of azimuth angles stem:[- (pi)/(2) &lt;= phi &lt;= (pi)/(2)]
+
+
+    stem:[E_((v ,sc)) = (1)/(pi) int_((- (pi)/(2)))^(((pi)/(2))) E_((v ,v)) d phi]'
+  examples: []
+  notes:
+  - The semi-cylindrical illuminance is expressed in lux (lx = lm·m^−2^).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: c48b600c-0663-53ee-b062-ea99ad5500c8
+status: Standard

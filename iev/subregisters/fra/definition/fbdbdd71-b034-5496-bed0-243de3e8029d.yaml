@@ -1,0 +1,31 @@
+data:
+  authoritative_source:
+  - clause: 13-24
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-24, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+      type: modified
+  definition: 'mesure quantitative de l''{{information, IEV:171-07-03}} concernant
+    la réalisation d''un événement stem:[x] de probabilité déterminée stem:[p](stem:[x]),
+    égale au logarithme de l''inverse de cette probabilité
+
+
+    stem:[I ( x ) = log (1)/((p ( x ))) = - log p ( x )]
+
+
+    EXEMPLE: Soit stem:[{ a , b , c }] un jeu de trois événements dont les probabilités
+    de réalisation sont stem:[p ( a ) = 0,5], stem:[p ( b ) = 0,25] et stem:[p ( c
+    ) = 0,25]. Les quantités d''information de ces événements sont: stem:[I ( a )
+    = lb (1)/((0,50)) Sh = 1 Sh], stem:[I ( b ) = lb (1)/((0,25)) Sh = 2 Sh], stem:[I
+    ( c ) = lb (1)/((0,25)) Sh = 2 Sh].'
+  examples: []
+  notes:
+  - Pour un ensemble d'événements équiprobables, la quantité d'information de chaque
+    événement est égale à la {{quantité de décision, IEV:171-07-10}} de l'ensemble.
+dateAccepted: 2018-11-17
+id: fbdbdd71-b034-5496-bed0-243de3e8029d
+status: Standard

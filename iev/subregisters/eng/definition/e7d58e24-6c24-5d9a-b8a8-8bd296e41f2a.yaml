@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - clause: definition 358
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, definition 358, modified
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  - clause: 394-22-08
+    link: https://webstore.iec.ch/publication/12454
+    original: IEC 60050-394:2007, 394-22-08
+    ref: IEC 60050-394:2007
+    relationship:
+      type: identical
+  definition: radiation meter designed to measure quantities such as an absorbed dose
+    or a dose equivalent
+  examples: []
+  notes:
+  - In a wider sense, this term is used for meters designed to measure other quantities
+    related to radiation such as exposure, fluence, etc. Such use is deprecated.
+  - This apparatus may require a separate reader to read out the absorbed dose or
+    dose equivalent.
+  - This entry was numbered 394-22-08 in IEC 60050-394:2007.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: e7d58e24-6c24-5d9a-b8a8-8bd296e41f2a
+status: Standard

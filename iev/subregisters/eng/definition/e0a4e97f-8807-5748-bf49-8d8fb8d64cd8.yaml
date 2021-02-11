@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 3.8.3
+    link: https://www.iso.org/standard/42180.html
+    original: ISO 9000:2005, 3.8.3, modified to place the emphasis on “procedure”
+    ref: ISO 9000:2005
+    relationship:
+      modification: to place the emphasis on “procedure”
+      type: modified
+  definition: procedure carried out to determine one or more characteristics
+  examples: []
+  notes:
+  - A test on a sample of items is conducted to ascertain information about the population
+    of items from which the sample was taken.
+  - A test may be applied to assess a dependability characteristic of an item, such
+    as reliability or maintainability.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: e0a4e97f-8807-5748-bf49-8d8fb8d64cd8
+status: Standard

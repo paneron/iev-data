@@ -1,0 +1,12 @@
+data:
+  definition: limit, if it exists, of the instantaneous unavailability when the time
+    tends to infinity
+  examples: []
+  notes:
+  - Under certain conditions the steady state unavailability may be expressed as the
+    ratio of the mean down time to the sum of the mean up time and mean down time.
+    See IEC 61703, _Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms_.
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 789c1cc4-3285-52c4-8600-c1c78fb0da9c
+status: Standard

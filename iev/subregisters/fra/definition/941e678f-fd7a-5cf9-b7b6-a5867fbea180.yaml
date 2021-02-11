@@ -1,0 +1,25 @@
+data:
+  definition: fréquence pour laquelle la valeur de l'admittance d'un résonateur sans
+    pertes devient nulle
+  examples: []
+  notes:
+  - 'Lorsque le facteur de couplage électromécanique est faible, une valeur approchée
+    de cette fréquence est donnée par l''expression
+
+
+    stem:[f_p = (1)/((2 pi sqrt(L_1 ((C_1 C_0))/((C_1 + C_0)))))]
+
+
+    où stem:[C]~0~ représente la capacité parallèle et stem:[L]~1~ et stem:[C]~1~
+    respectivement l’inductance dynamique et la capacité dynamique. L’expression peut
+    être déduite de la Figure 2 avec stem:[R]~1~ = 0.
+
+
+    image::/assets/images/parts/561/561-fig2-fr.png[]
+
+
+    *Figure 2 – Circuit équivalent d’un vibrateur piézoélectrique (résonateur monoporte)*'
+  - Cet article était numéroté 561-02-11 dans l'IEC 60050-561:1991.
+dateAccepted: 2018-11-17
+id: 941e678f-fd7a-5cf9-b7b6-a5867fbea180
+status: Standard

@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - clause: 2.2.2
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.2.2
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: variation des effets sur le comportement ou les propriétés d'un objet,
+    causée par la modification d'une ou plusieurs des dimensions de l’objet
+  examples: []
+  notes:
+  - Le volume d’un objet est proportionnel à la puissance trois de ses dimensions
+    en longueur, tandis que la surface est proportionnelle à la puissance deux. En
+    conséquence, l’effet de force de surface devient plus grand que celui de la force
+    de masse dans le monde microscopique. Par exemple, la force dominante dans le
+    mouvement de l’objet microscopique n’est pas la force d’inertie, mais la force
+    électrostatique ou la force visqueuse. Les propriétés de matériaux d’objets microscopiques
+    sont également affectées par la surface et la structure du matériau interne, et
+    en conséquence, les valeurs caractéristiques sont parfois différentes de celles
+    de volumes. Les propriétés de friction dans le monde microscopique diffèrent également
+    de celles du monde macroscopique. Par conséquent, ces effets doivent être considérés
+    avec prudence lors de la conception d’une {{micromachine, IEV:523-01-03}}.
+dateAccepted: 2018-11-17
+id: 89c299bd-500b-5256-879c-4f39b31faabb
+status: Standard

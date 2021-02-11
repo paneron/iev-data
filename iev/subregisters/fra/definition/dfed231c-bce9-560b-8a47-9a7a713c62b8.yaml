@@ -1,0 +1,20 @@
+data:
+  definition: demi-angle au sommet du cône qui contient la puissance rayonnante susceptible
+    de produire des modes liés à l'entrée d'une fibre optique
+  examples: []
+  notes:
+  - 'L''angle d''admission dépend de la position sur la face d''entrée de la fibre
+    si l''indice de réfraction varie radialement dans le coeur. Il est alors égal
+    à:
+
+
+    stem:[arcsin n^2 ( r ) - n_2^2^(1 // 2)]
+
+
+    où stem:[n](stem:[r]) est l''indice à la distance stem:[r] de l''axe de la fibre
+    et stem:[n]~2~ l''indice minimal dans la gaine.'
+  - La puissance rayonnante extérieure au cône qui définit l'angle d'admission peut
+    produire des modes de fuite.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: dfed231c-bce9-560b-8a47-9a7a713c62b8
+status: Standard

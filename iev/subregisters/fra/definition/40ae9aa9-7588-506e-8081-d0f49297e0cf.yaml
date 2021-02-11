@@ -1,0 +1,13 @@
+data:
+  definition: '{{polarisation, IEV:705-01-13}} telle que, pour un observateur regardant
+    dans la {{direction de propagation, IEV:705-02-15}} ou dans une direction de référence
+    spécifiée, le vecteur {{champ électrique, IEV:121-11-18}} ou un vecteur de champ
+    spécifié tourne, en fonction du temps, dans un plan fixe normal à cette direction
+    et dans le sens des aiguilles d''une montre'
+  examples: []
+  notes:
+  - Il est nécessaire de spécifier la direction de référence quand la direction de
+    propagation est parallèle au {{plan de polarisation, IEV:705-01-22}}.
+dateAccepted: 2018-11-17
+id: 40ae9aa9-7588-506e-8081-d0f49297e0cf
+status: Standard

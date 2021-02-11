@@ -1,0 +1,27 @@
+data:
+  definition: 'variable quantity which has, or combination of variable quantities
+    which have, to be influenced by the control
+
+
+    SEE: Figures 1 and 2.'
+  examples: []
+  notes:
+  - 'The final controlled variable is a variable stemming from the control task. It
+    has to be connected functionally with the controlled variable but needs not to
+    be part of the control loop. In contrast to this the controlled variable always
+    belongs to the control loop. In case of warranties it may be helpful to differentiate
+    beween controlled variable and final controlled variable.
+
+
+    Controlling the composition of a mixture by the final controlled variable, the
+    mixture proportion may not be measured directly. It is depicted by a mixture proportion
+    dependent property (for example density, clouding, electrical or thermal conductivity)
+    which is used as the controlled variable.'
+  - 'This entry was numbered 351-27-10 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 5446effc-a7d4-5b34-9480-08ab263a4a34
+status: Standard

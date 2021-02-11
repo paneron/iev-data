@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '6.4'
+    link: https://www.iso.org/standard/29316.html
+    original: ISO/CEI 17000:2004, 6.4
+    ref: ISO/IEC 17000:2004
+    relationship:
+      type: identical
+  definition: demande adressée par le fournisseur de l'objet de l'évaluation de la
+    conformité à l'{{organisme de l'évaluation de la conformité, IEV:902-01-05}} ou
+    à l'{{organisme d'accréditation, IEV:902-01-06}} que cet organisme reconsidère
+    une décision déjà prise relative à cet objet
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: ca4e97e6-b7b3-5bce-a687-9b0b39a7f12b
+status: Standard

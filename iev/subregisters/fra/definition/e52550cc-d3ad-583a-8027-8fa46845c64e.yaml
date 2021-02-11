@@ -1,0 +1,12 @@
+data:
+  definition: rapport, sur un intervalle de temps donné, de la durée en charge à la
+    durée totale
+  examples: []
+  notes:
+  - Ce rapport, compris entre 0 et 1, peut être exprimé en pourcentage.
+  - Pour les besoins de la présente norme, la durée complète d'un cycle est de 10
+    min. Par exemple, dans le cas d'un facteur de marche de 60 %, une période de charge
+    6 min est suivie d'une période de marche à vide de 4 min.
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: e52550cc-d3ad-583a-8027-8fa46845c64e
+status: Standard

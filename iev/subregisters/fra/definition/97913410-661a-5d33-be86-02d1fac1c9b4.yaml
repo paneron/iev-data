@@ -1,0 +1,15 @@
+data:
+  definition: vecteur vitesse de déplacement, en un point d'un milieu de propagation,
+    d'un signal qui peut être représenté idéalement par la superposition de deux ondes
+    sinusoïdales de même amplitude dont les fréquences tendent vers une limite commune
+  examples: []
+  notes:
+  - 'Dans le cas le plus général l''inverse de la norme stem:[| vec v_g |] du vecteur
+    vitesse de groupe est égal à la dérivée de l''inverse de la longueur d''onde stem:[λ]
+    par rapport à la fréquence stem:[f]:
+
+
+    stem:[(1)/((| vec v_g |)) = ((d ( lambda^(- 1) )))/((d f))]'
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 97913410-661a-5d33-be86-02d1fac1c9b4
+status: Standard

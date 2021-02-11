@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 13-20
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-20, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: '{{probability, IEV:103-08-02}} that a {{data element, IEV:171-02-01}}
+    is incorrectly received'
+  examples:
+  - Error probability for binary digits or bit error probability, stem:[P]~b~ or stem:[P]~bit~;
+    block error probability, stem:[P]~bl~.
+  notes:
+  - The measured value is designated as "{{error ratio, IEV:702-07-39}}", whereas
+    "error rate" is deprecated; for example, {{bit error ratio, IEV:704-18-04}} (BER);
+    {{block error ratio, IEV:721-08-13}}.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: faf808b1-ff9a-5e7b-8978-cfa16387c121
+status: Standard

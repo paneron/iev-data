@@ -1,0 +1,17 @@
+data:
+  definition: système de télévision en couleur simultané utilisant en bande de base
+    un signal d'image composite, caractérisé par un signal de luminance, et les deux
+    composantes d'un signal de chrominance qui modulent en amplitude et en quadrature
+    une sous-porteuse, et où, à chaque ligne, la polarité d'un seul des deux signaux
+    de chrominance est inversée
+  examples: []
+  notes:
+  - Dans la plupart des applications actuelles du système PAL, le balayage est en
+    625 lignes - 50 trames par seconde; le signal d'image composite est diffusé en
+    modulation d'amplitude à bande latérale résiduelle, et le son est diffusé en modulation
+    de fréquence d'une porteuse distincte.
+  - PAL est l'abréviation de "Phase Alternation Line".
+  - Il existe plusieurs versions du système PAL décrites dans le Rapport 624 du CCIR.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 58be8beb-1663-55a5-a36c-28abfe4177e8
+status: Standard

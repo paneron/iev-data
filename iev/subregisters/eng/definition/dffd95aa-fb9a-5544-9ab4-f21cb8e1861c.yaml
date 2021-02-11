@@ -1,0 +1,10 @@
+data:
+  definition: total power dissipated by control gear and light source(s) in combination,
+    at rated supply voltage and {{frequency, IEV:103-06-02}} of the control gear with
+    the highest rated output load
+  examples: []
+  notes:
+  - The total circuit power is typically expressed in watt (W).
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: dffd95aa-fb9a-5544-9ab4-f21cb8e1861c
+status: Standard

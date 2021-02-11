@@ -1,0 +1,12 @@
+data:
+  definition: method of error control using a cyclic code mainly for the purpose of
+    error detection
+  examples: []
+  notes:
+  - The bits of a data block to be protected are used as coefficients of a polynomial,
+    which is modulo-2-divided by a prescribed generator polynomial; the coefficients
+    of the remainder left after division are appended to the data block as a block
+    check sequence.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 2c42956c-96bf-53c1-8e13-b77d94a98811
+status: Standard

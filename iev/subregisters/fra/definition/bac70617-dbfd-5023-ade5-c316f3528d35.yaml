@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - original: voir CISPR 11
+    ref: IEC CISPR 11
+    relationship:
+      type: related
+  definition: valeur nominale de la fréquence de travail du générateur, qui se situe
+    entre ses valeurs minimale et maximale et est marquée sur la plaque signalétique
+    de l'équipement
+  examples: []
+  notes:
+  - La valeur de la fréquence nominale de chauffage diélectrique est habituellement
+    égale à la moyenne arithmétique des limites de la bande de fréquences
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: bac70617-dbfd-5023-ade5-c316f3528d35
+status: Standard

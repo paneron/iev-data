@@ -1,0 +1,17 @@
+data:
+  definition: automatic detection, control and correction of an internal erroneous
+    state
+  examples: []
+  notes:
+  - 'The purpose of error recovery is to avoid a failure of the whole system, following
+    a failure of one of its subsystems or components.
+
+
+    Note 2: See also backward error recovery ({{192-10-17, IEV:192-10-17}}) and forward
+    error recovery ({{192-10-18, IEV:192-10-18}}).
+
+
+    Note 3: Error recovery often makes use of redundancy and diversity.'
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: 69b3bdb1-2bd9-50e3-be76-b175d5444c80
+status: Standard

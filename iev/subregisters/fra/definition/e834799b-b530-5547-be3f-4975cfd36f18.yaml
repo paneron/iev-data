@@ -1,0 +1,21 @@
+data:
+  definition: 'réponse temporelle d’un système linéaire invariant dans le temps, qui
+    est initialement en régime établi stem:[U]~0~, stem:[V]~0~, produite par l’application
+    d’une fonction échelon Δstem:[u]~ε~(stem:[t]) = stem:[K]~ε~·ε(stem:[t]) à une
+    des variables d’entrée, où Δstem:[v]~ε~(stem:[t]) = stem:[v](stem:[t]) – stem:[V]~0~
+    et Δstem:[u]~ε~(stem:[t]) = stem:[u](stem:[t]) – stem:[U]~0~
+
+
+    VOIR: Figure 5.'
+  examples: []
+  notes:
+  - La réponse à un échelon d’un système linéaire invariant dans le temps est proportionnelle
+    à l’intégrale temporelle de sa réponse impulsionnelle.
+  - 'Cet article était numéroté 351-24-20 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig5.png[Figure 5 - Typical step responses
+    of a system; Réponses à un échelon typiques d''un système]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: e834799b-b530-5547-be3f-4975cfd36f18
+status: Standard

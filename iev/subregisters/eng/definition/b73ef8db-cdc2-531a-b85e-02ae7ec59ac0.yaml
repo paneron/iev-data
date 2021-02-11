@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '5.7'
+    original: ≠ VIM 5.7
+    ref: JCGM VIM
+    relationship:
+      type: not_equal
+  definition: set of specified values and/or ranges of values of influence quantities
+    under which the uncertainties, or limits of error, admissible for a measuring
+    instrument are the smallest
+  examples: []
+  notes: []
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: b73ef8db-cdc2-531a-b85e-02ae7ec59ac0
+status: Standard

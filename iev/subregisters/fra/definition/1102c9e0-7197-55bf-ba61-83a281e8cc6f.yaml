@@ -1,0 +1,18 @@
+data:
+  definition: 'commande émanant d''un poste de conduite et donnant une instruction
+    type aux agents de service de la salle de commande d''un poste comportant un personnel
+    de conduite
+
+
+    Exemples: "Mettre en marche les groupes" ou "Régler la puissance fournie par le
+    groupe à ... MW".'
+  examples: []
+  notes:
+  - La commande d'instruction se distingue des instructions transmises par les moyens
+    non spécialisés de télécommunication (téléimprimeur d'un réseau télex par exemple)
+    par le fait qu'elle est transmise par l'intermédiaire des dispositifs utilisés
+    à d'autres fins dans les réseaux de téléconduite, et qu'elle doit donc être programmée
+    d'une façon semblable aux autres types de commande.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 1102c9e0-7197-55bf-ba61-83a281e8cc6f
+status: Standard

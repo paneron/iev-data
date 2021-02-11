@@ -1,0 +1,21 @@
+data:
+  definition: 'loi donnant la force entre deux particules chargées, exprimée par la
+    relation
+
+
+    stem:[F_((12)) = k * ((Q_1 Q_2))/((r^2)) * ((r_((21))))/(r) = k * ((Q_1 Q_2))/((r^2))
+    * e_((21))]
+
+
+    où stem:[*F*]~12~ est la force exercée sur la particule de charge électrique stem:[Q]~1~
+    par la particule de charge électrique stem:[Q]~2~, stem:[k] une constante positive,
+    stem:[*r*]~21~ le vecteur issu de la particule de charge électrique stem:[Q]~2~
+    et aboutissant à la particule de charge électrique stem:[Q]~1~, stem:[r] = |stem:[*r*]~21~|
+    la distance entre particules et stem:[*e*]~21~ le vecteur unitaire stem:[*r*]~21~/stem:[r]'
+  examples: []
+  notes:
+  - Dans le vide la constante stem:[k] est égale à 1/4πstem:[ε]~0~ où stem:[ε]~0~
+    est la constante électrique.
+dateAccepted: '1998-08-01T00:00:00+00:00'
+id: 6591505c-2d3f-5ab1-b8d6-09ef9653183a
+status: Standard

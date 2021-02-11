@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - original: CISPR 22
+    ref: IEC CISPR 22
+    relationship:
+      type: identical
+  definition: 'equipment designed for the purpose of:
+
+
+    a) receiving data from an external source (such as a data input line or via a
+    keyboard);
+
+
+    b) performing some processing functions on the received data (such as computation,
+    data transformation or recording, filing, sorting, storage, transfer of data);
+
+
+    c) providing a data output (either to other equipment or by the reproduction of
+    data or images)'
+  examples: []
+  notes:
+  - This definition includes electrical or electronic units or systems which predominantly
+    generate a multiplicity of periodic binary pulsed electrical or electronic waveforms
+    and are designed to perform data processing functions such as word processing,
+    electronic computation, data transformation, recording, filing, sorting, storage,
+    retrieval and transfer, and reproduction of data as images.
+dateAccepted: '1990-08-01T00:00:00+00:00'
+id: 6bbac573-8920-5614-9c2a-21eb4e9b3ddd
+status: Standard

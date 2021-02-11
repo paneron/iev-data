@@ -1,0 +1,13 @@
+data:
+  definition: moyenne de l’indisponibilité instantanée sur un intervalle de temps
+    donné (stem:[t]~1~, stem:[t]~2~)
+  examples: []
+  notes:
+  - 'L’indisponibilité moyenne est liée à l’indisponibilité instantanée stem:[U](stem:[t])
+    par la formule:
+
+
+    stem:[bar U ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) U ( t ) d t]'
+dateAccepted: 2018-11-17
+id: f65dcf94-5f92-5ce7-bee8-88e597a760e5
+status: Standard

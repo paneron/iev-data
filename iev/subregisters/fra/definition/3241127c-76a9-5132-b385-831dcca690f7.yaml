@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '5.10'
+    original: ≠ VIM 5.10
+    ref: JCGM VIM
+    relationship:
+      type: not_equal
+  definition: quotient du changement de l’indication par le changement correspondant
+    de la valeur du mesurande
+  examples: []
+  notes:
+  - Pour les appareils ayant une courbe d’étalonnage non linéaire, la sensibilité
+    en un point donné est fonction de la valeur du mesurande.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 3241127c-76a9-5132-b385-831dcca690f7
+status: Standard

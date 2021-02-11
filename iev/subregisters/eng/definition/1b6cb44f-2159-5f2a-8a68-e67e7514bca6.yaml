@@ -1,0 +1,33 @@
+data:
+  authoritative_source:
+  - clause: 881-12-43
+    link: https://webstore.iec.ch/publication/272
+    original: IEC 60050-881:1983, 881-12-43, modified
+    ref: IEC 60050-881:1983
+    relationship:
+      type: modified
+  - clause: definition 405
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, definition 405, modified
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: "energy transmitted by ionizing radiation to the matter in a given volume\
+    \ such that:\n\nstem:[ε] = stem:[R]~1~ – stem:[R]~2~ + ∑stem:[Q]\n\nwhere\n\n\
+    \ *  stem:[R]~1~ is the radiant energy incident on the volume, i.e. the sum of\
+    \ the energies, excluding rest energies, of all those directly and indirectly\
+    \ ionizing particles which enter the volume, *  stem:[R]~2~ is the radiant energy\
+    \ emerging from the volume, i.e. the sum of the energies, excluding rest energies,\
+    \ of all those directly and indirectly ionizing particles which leave the volume,\
+    \ and *  ∑stem:[Q] is the sum of all changes of the rest mass energy of atomic\
+    \ nuclei and elementary particles in any nuclear transformations which occur in\
+    \ the volume; a positive sign is used when the change is a decrease and a negative\
+    \ sign when the change is an increase"
+  examples: []
+  notes:
+  - The energy imparted is a stochastic quantity, identical to the integral absorbed
+    dose in that volume, and expressed in joules (J).
+  - This entry was numbered 393-14-60 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 1b6cb44f-2159-5f2a-8a68-e67e7514bca6
+status: Standard

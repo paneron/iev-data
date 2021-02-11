@@ -1,0 +1,13 @@
+data:
+  definition: voie de transmission ayant un débit numérique normalisé, qui permet
+    la transmission d'un signal téléphonique de qualité courante en transmission multiplex
+    MIC et qui occupe l'un des créneaux temporels de voie dans la trame
+  examples: []
+  notes:
+  - Dans la plupart des transmissions multiplex MIC employant la modulation par impulsions
+    et codage ordinaire, le débit numérique normalisé est 64 kbit/s.
+  - Un signal autre qu'un signal vocal audiofréquence, mais ayant des caractéristiques
+    spécifiées, peut occuper tout ou partie d'une voie téléphonique MIC.
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: a59134f2-a52b-5361-bd50-41a72b0e709e
+status: Standard

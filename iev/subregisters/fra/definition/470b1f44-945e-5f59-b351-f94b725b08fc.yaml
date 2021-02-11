@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 3.1.31
+    link: https://www.iso.org/standard/69470.html
+    original: ISO/IEC 20924:2018, 3.1.31
+    ref: ISO/IEC 20924:2018
+    relationship:
+      type: identical
+  definition: marque lisible par l'homme ou une machine ou identité numérique utilisée
+    pour communiquer des <a href="IEV741-01-500">informations</a> concernant une {{entité,
+    IEV:741-01-18}}
+  examples: []
+  notes:
+  - Une balise peut contenir des informations qui peuvent être lues par des {{capteurs,
+    IEV:741-02-09}} afin d'aider à l'identification de l'{{entité physique, IEV:741-01-26}}.
+dateAccepted: 2018-11-17
+id: 470b1f44-945e-5f59-b351-f94b725b08fc
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  definition: rapport de la {{valeur efficace, IEV:103-02-03}} du {{fondamental, IEV:103-07-19}}
+    d’une grandeur alternative à la valeur efficace de la grandeur
+  examples: []
+  notes:
+  - Pour une grandeur alternative stem:[x] de valeur efficace stem:[X_((eff))] dont
+    le fondamental a pour valeur efficace stem:[X_((1 eff))], le taux de fondamental
+    est stem:[g = X_((1 eff)) // X_((eff))].
+  - L’extension à une {{composante fondamentale de référence, IEV:103-07-20}} est
+    donnée en {{IEV 551-20-17, IEV:551-20-17}}.
+dateAccepted: 2018-11-17
+id: dd69628f-2900-55a4-9005-f8427680c384
+status: Standard

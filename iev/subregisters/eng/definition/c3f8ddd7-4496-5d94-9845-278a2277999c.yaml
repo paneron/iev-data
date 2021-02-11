@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 3.9.3
+    link: https://webstore.iec.ch/publication/2796
+    original: IEC 60664-1:2007, 3.9.3, modified –  "value" has been replaced by "rated
+      value" in the definition.
+    ref: IEC 60664-1:2007
+    relationship:
+      modification: '"value" has been replaced by "rated value" in the definition.'
+      type: modified
+  definition: '{{rated value, IEV:151-16-08}} of the recurring peak withstand voltage
+    assigned by the manufacturer to the equipment or to a part of it, characterizing
+    the specified withstand capability of its insulation against recurring peak voltages'
+  examples: []
+  notes: []
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: c3f8ddd7-4496-5d94-9845-278a2277999c
+status: Standard

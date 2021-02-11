@@ -1,0 +1,10 @@
+data:
+  definition: '{{signal, IEV:171-01-03}} that is both a {{discrete-value signal, IEV:171-01-11}}
+    and a {{discretely timed signal, IEV:171-01-12}}'
+  examples: []
+  notes:
+  - The characteristic carrying information is generally coded as symbols of a character
+    set and the symbols can be interpreted as numbers.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 480ceb8e-0931-599b-886a-9272ad3a2362
+status: Standard

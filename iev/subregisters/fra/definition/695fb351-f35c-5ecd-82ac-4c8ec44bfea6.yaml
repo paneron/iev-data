@@ -1,0 +1,27 @@
+data:
+  definition: chaîne de caractères normalisée, qui sert à localiser une ressource
+    de l’Internet et à y accéder
+  examples: []
+  notes:
+  - "1\tLa forme générale d’une adresse URL est la suivante (voir RFC 1738):\n\n&lt;mode&gt;://&lt;utilisateur&gt;:&lt;motdepasse&gt;@&lt;hôte&gt;:&lt;port&gt;/&lt;chemin\
+    \ URL&gt;\n\nSelon le cas, certaines parties peuvent être omises.\n\n&lt;mode&gt;\
+    \ représente le protocole d’accès, par exemple http, ftp ou news.\n\n&lt;utilisateur&gt;,\
+    \ &lt;motdepasse&gt; et &lt;port&gt; sont facultatifs, et les séparateurs «:»\
+    \ (deux-points) et @ sont omis lorsqu'ils ne sont pas nécessaires.\n\n&lt;hôte&gt;\
+    \ est une adresse IP ou un nom d'hôte complet, mais est omis pour des ressources\
+    \ Internet locales.\n\n&lt;port&gt; est une adresse pour des protocoles dans la\
+    \ couche TCP et a une valeur implicite qui dépend du protocole.\n\n&lt;chemin\
+    \ URL&gt; indique l’accès à une ressource à l’intérieur de l’hôte. S’il est omis,\
+    \ on obtient une ressource implicite.\n\nExemples d'URL identifiant un site sur\
+    \ la Toile, un fichier ou un service:\n\n«http://www.iec.ch» est l’URL du site\
+    \ du siège de la Commission électrotechnique internationale «CEI». Dans cette\
+    \ URL, «ch» est le nom de domaine de premier niveau. Il est à noter que cet URL\
+    \ contient seulement &lt;hôte&gt; à partir de &lt;mode&gt;.\n\n«http://www.iec.ch/about/mission-e.htm»\
+    \ est l’URL de la page donnant en anglais la mission et les objectifs de la CEI.\n\
+    \n«news:comp.os.unix» est l'URL d'un forum dont le nom est «comp.os.unix» et «news:XYZ123@news.iso.org»\
+    \ pourrait être l'URL d’un article dont l'identificateur serait «XYZ123» situé\
+    \ dans l'hôte «news.iso.org»."
+  - "2\tURL est le sigle du terme anglais «uniform resource locator»."
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 695fb351-f35c-5ecd-82ac-4c8ec44bfea6
+status: Standard

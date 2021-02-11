@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 5.28 Note
+    original: ≈ VIM 5.28 Note
+    ref: JCGM VIM
+    relationship:
+      type: similar
+  definition: valeur clairement spécifiée à laquelle il est fait référence en vue
+    de définir l'erreur réduite conventionnelle
+  examples: []
+  notes:
+  - Ce terme est utilisé dans l’approche "valeur vraie".
+  - Cette valeur peut être, par exemple, la limite supérieure de l'étendue de mesure,
+    la longueur de l'échelle ou toute autre valeur clairement définie.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: b6d23f40-ece5-57da-8098-9afe1e1e2e71
+status: Standard

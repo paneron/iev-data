@@ -1,0 +1,23 @@
+data:
+  definition: 'the magneto-ionic component which, at vertical incidence, is reflected
+    at the height at which the electron density and the Earth''s magnetic field are
+    such that:
+
+
+    stem:[f]~p~^2^ = stem:[f] ^2^ + stem:[f f]~ B~
+
+
+    where stem:[f]~p~ is the plasma frequency, stem:[f] is the wave frequency, and
+    stem:[f]~ B~ is the electron gyro frequency'
+  examples: []
+  notes:
+  - This component may appear when the direction of propagation of the wave is close
+    to the direction of the Earth's magnetic field, or when the wave frequency is
+    less than the electron gyro-frequency, and also in top-side ionospheric sounding.
+  - The polarization of this component is either that of the ordinary wave, or that
+    of the extraordinary wave, depending on the value of its frequency relative to
+    the values of the plasma frequency and electron gyro-frequency on the wave path
+    before reflection.
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: 7804b567-7a74-51c0-9276-e921a1ea0e42
+status: Standard

@@ -1,0 +1,33 @@
+data:
+  definition: 'algebraic equation giving the number dstem:[N] of particles of a non-quantized
+    system, the components of velocity of which are comprised in the intervals (stem:[u],
+    stem:[u] + dstem:[u]), (stem:[v], stem:[v] + dstem:[v]), (stem:[w], stem:[w] +
+    dstem:[w]) respectively:
+
+
+    stem:[d N = A * exp ((- m ( u^2 + v^2 + w^2 )))/((2 k T)) d u * d v * d w]
+
+
+    where
+
+
+    stem:[A = N (m)/((( 2 pi * k T )))^(3 // 2)]
+
+
+    stem:[N] is the total number of particles
+
+
+    stem:[m] is the mass of a particle
+
+
+    stem:[T] is the thermodynamic temperature
+
+
+    stem:[k] is the Boltzmann constant'
+  examples: []
+  notes:
+  - dstem:[N]/stem:[N] represents the probability that a particle has its components
+    of velocity within the intervals considered.
+dateAccepted: '2002-05-01T00:00:00+00:00'
+id: aa5e6400-b25a-52f6-acef-53cdc0d77d76
+status: Standard

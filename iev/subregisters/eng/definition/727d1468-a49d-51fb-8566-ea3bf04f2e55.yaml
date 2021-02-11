@@ -1,0 +1,33 @@
+data:
+  definition: 'quantity representing the quantities in a finite set or in an interval,
+
+
+
+    . for stem:[n] quantities stem:[x_1 , x_2 , ... x_n], by the quotient of the sum
+    of the quantities by stem:[n]:
+
+
+    stem:[bar X = (1)/(n) ( x_1 + x_2 + ... + x_n )]
+
+
+    .  for a quantity stem:[x] depending on a variable stem:[t], by the integral of
+    the quantity taken between two given values of the variable, divided by the difference
+    of the two values:
+
+
+    stem:[bar X = (1)/((t_2 - t_1)) int_( t_1)^( t_2) x ( t ) d t]'
+  examples: []
+  notes:
+  - The mean value of a periodic quantity is usually taken over an integration interval
+    the range of which is the period multiplied by a natural number.
+  - The mean value of the quantity stem:[x] may be denoted by stem:[bar X], by 〈stem:[X]〉,
+    or by stem:[X]~a~. Subscripts ar, av and moy are also used.
+  - The adjective "arithmetic" is only used to qualify the terms "mean" and "average"
+    in order to distinguish them from the terms "geometric mean" and "geometric average",
+    as well from "harmonic mean" and "harmonic average".
+  - The mean value can be generalized for a function of stem:[n] variables, e.g. with
+    a surface integral or an integral over a three-dimensional domain divided by the
+    corresponding area or volume. See the examples in IEC 60050-102.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 727d1468-a49d-51fb-8566-ea3bf04f2e55
+status: Standard

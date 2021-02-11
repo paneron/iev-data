@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.6'
+    link: https://webstore.iec.ch/publication/6361
+    original: IEC 62047-19:2013, 3.6
+    ref: IEC 62047-19:2013
+    relationship:
+      type: identical
+  definition: '{{e-compass, IEV:523-04-21}} that uses a 3-axis magnetic {{sensor,
+    IEV:151-13-48}} as a geomagnetism detection element, and a 3-axis acceleration
+    sensor as a gravity detection element'
+  examples: []
+  notes: []
+dateAccepted: '2018-12-01T00:00:00+00:00'
+id: 6b3f2c5f-c500-5eee-b8ac-6dfda72e92ad
+status: Standard

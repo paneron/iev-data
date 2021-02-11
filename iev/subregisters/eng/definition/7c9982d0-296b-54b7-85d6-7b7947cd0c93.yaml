@@ -1,0 +1,31 @@
+data:
+  definition: 'function other than a {{primary, IEV:904-03-02}} or a {{secondary function,
+    IEV:904-03-03}}
+
+
+
+
+    EXAMPLE 2 Status indication.'
+  examples:
+  - 1 An {{EMC, IEV:161-01-07}} filter, if present, provides its function in {{off
+    mode, IEV:904-03-12}}, {{partial on mode, IEV:904-03-11}} and {{on mode, IEV:904-03-10}}.
+  notes:
+  - 'Table 1 provides a structured overview as an aid to understanding this and other
+    concepts relating to energy efficiency and power consumption applicable in electrotechnical
+    products. Additional terms to fulfil the particular needs of particular product
+    sectors should be defined within the structure of the concepts shown in Table
+    1.
+
+
+    *Table 1 – Operating conditions of equipment in respect to power demand*
+
+
+    <simg>
+
+
+    As the number of functions increases from left to right in Table 1, the relevant
+    modes will generally have higher energy consumption. The existence of a mode in
+    Table 1 does not imply that a particular piece of equipment will offer that mode.</simg>'
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 7c9982d0-296b-54b7-85d6-7b7947cd0c93
+status: Standard

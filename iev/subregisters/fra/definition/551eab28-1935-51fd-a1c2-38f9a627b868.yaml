@@ -1,0 +1,12 @@
+data:
+  definition: dans un serveur de noms de domaine, enregistrement décrivant une ressource
+    Internet
+  examples: []
+  notes:
+  - L’enregistrement de ressource comprend essentiellement un nom de domaine, son
+    type et une valeur.
+  - « VAXA.ISI.EDU A 10.2.0.27 » est un enregistrement de type « A » (adressage) et
+    contient un nom d’hôte et une valeur qui est l’adresse IP de l’hôte.
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 551eab28-1935-51fd-a1c2-38f9a627b868
+status: Standard

@@ -1,0 +1,60 @@
+data:
+  definition: tarif pour l'application duquel la consommation d'une période déterminée
+    est répartie en tranches successives d'importance fixée auxquelles s'appliquent
+    des prix de kilowattheures différents
+  examples: []
+  notes:
+  - 'L''importance des tranches peut être:
+
+
+    - soit uniforme (x), par exemple:
+
+
+    les 50 premiers kWh mensuels à un prix stem:[p]~1~,
+
+
+    les 50 kWh mensuels suivants à un prix stem:[p]~2~,
+
+
+    le reste de la consommation mensuelle à un prix stem:[p]~3~,
+
+
+    - soit variable (xx) selon l''importance du local alimenté (nombre de pièces,
+    superficie, etc.), par exemple:
+
+
+    pour un local de 1 pièce:
+
+
+    les 200 premiers kWh annuels à un prix stem:[p]~1~,
+
+
+    le reste de la consommation annuelle à un prix stem:[p]~2~,
+
+
+    pour un local de 2 pièces:
+
+
+    les 300 premiers kWh annuels à un prix stem:[p]~1~,
+
+
+    le reste de la consommation annuelle à un prix stem:[p]~2~,
+
+
+    pour un local de 3 pièces: etc.
+
+
+    - soit variable selon la puissance ou d''autres paramètres, par exemple:
+
+
+    100 kWh par kVA de puissance souscrite et par mois à un prix stem:[p]~1~,
+
+
+    le reste de la consommation mensuelle à un prix stem:[p]~2~.
+
+
+    L''importance des tranches et les prix du kilowattheure peuvent, dans certains
+    cas, varier selon les époques de l''année (par exemple: hiver, été).'
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 0aa7144e-90c6-5f17-94e2-858fd759e441
+status: Standard

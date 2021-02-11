@@ -1,0 +1,15 @@
+data:
+  definition: vector quantity equal to the integral of force *stem:[F]* with respect
+    to time stem:[t], thus stem:[I = int_(t_1)^(t_2) F d t] over a time interval &amp;lsqb;stem:[t]~1~,
+    stem:[t]~2~&amp;rsqb;
+  examples: []
+  notes:
+  - 1 For a time interval &amp;lsqb;stem:[t]~1~, stem:[t]~2~&amp;rsqb;, impulse is
+    equal to the change of momentum *stem:[p]*, thus *stem:[I]* = *stem:[p]*(stem:[t]~2~)
+    − *stem:[p]*(stem:[t]~1~) = Δ *stem:[p]*.
+  - 2 In French, the term "impulsion" has also another meaning corresponding to English
+    "pulse".
+  - 3 The coherent SI unit of impulse is newton second, N⋅s.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 8f63d819-99be-5ab3-8086-23995b0a30fb
+status: Standard

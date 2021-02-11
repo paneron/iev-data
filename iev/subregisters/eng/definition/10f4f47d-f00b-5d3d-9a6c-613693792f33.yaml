@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 448-14-01
+    link: https://webstore.iec.ch/publication/211
+    original: IEC 60050-448:1995, 448-14-01, modified – "a non-unit-protection" replaced
+      by "measuring relay" and "the fault" replaced by "power system fault"
+    ref: IEC 60050-448:1995
+    relationship:
+      modification: '"a non-unit-protection" replaced by "measuring relay" and "the
+        fault" replaced by "power system fault"'
+      type: modified
+  definition: '{{measuring relay, IEV:447-01-02}}, whose operation and selectivity
+    depend on local measurement of electrical quantities from which the equivalent
+    distance to a {{power system fault, IEV:448-13-02}} is evaluated by comparing
+    with zone {{setting values, IEV:447-07-02}}'
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: 10f4f47d-f00b-5d3d-9a6c-613693792f33
+status: Standard

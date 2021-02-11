@@ -1,0 +1,16 @@
+data:
+  definition: "functional unit with two or several inputs and one output the value\
+    \ of the output variable of which is equal to the product of the values of the\
+    \ input variables multiplied by constant weighting factors according to the formula\n\
+    \nstem:[v ( t ) = K_0 * K_1 * u_1 ( t ) * K_2 * u_2 ( t ) * K_3 * u_3 ( t ) *\
+    \ ...]\n\nwhere<table>\r\n<tr>\n<td>stem:[t]</td>\n<td>is the time;</td>\n</tr>\r\
+    \n<tr>\n<td>\nstem:[K]~0~, stem:[K]~1~ ...</td>\n<td>are the weighting factors;</td>\n\
+    </tr>\r\n<tr>\n<td>\nstem:[u]~1~, stem:[u]~2~ ...</td>\n<td>are the input variables;</td>\n\
+    </tr>\r\n<tr>\n<td>stem:[v]</td>\n<td>is the multiplication result.</td>\n</tr>\r\
+    \n</table>"
+  examples: []
+  notes:
+  - This entry was numbered 351-32-17 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: a5bd67ff-cabd-5fc2-b242-7d307f2b2b77
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  definition: quantity of dimension 1 characterizing the relative importance of forced
+    convection and thermal conduction, defined by stem:[P e = ((rho c_p v l))/(lambda)
+    = ((v l))/(alpha)], where stem:[ρ] is mass density, stem:[cp] is specific heat
+    capacity at constant pressure, stem:[v] is speed, stem:[l] is a specified length,
+    stem:[λ] is thermal conductivity, and stem:[α] is thermal diffusivity
+  examples: []
+  notes:
+  - The Péclet number is the product of the Reynolds number stem:[Re] and the Prandtl
+    number stem:[Pr], thus stem:[Pe] = stem:[Re] ⋅ stem:[Pr].
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 733f993c-9413-53b3-9487-fdf1bed894eb
+status: Standard

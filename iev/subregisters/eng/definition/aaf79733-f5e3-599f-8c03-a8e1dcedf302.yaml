@@ -1,0 +1,25 @@
+data:
+  definition: 'quotient impulse response Δstem:[v]~δ~(stem:[t]) divided by the impulse
+    area stem:[K]~δ~ of the impulse function, the quotient described by
+
+
+    stem:[g ( t ) = (1)/((K_(delta))) * Delta v_( delta ) ( t )]'
+  examples: []
+  notes:
+  - 'The unit-impulse response stem:[g](stem:[t]) of a system contains all properties
+    of the system and is used to calculate the response Δstem:[v](stem:[t]) of the
+    system to any input variable Δstem:[u](stem:[t]) by the convolution integral
+
+
+    stem:[Delta v ( t ) = int_((- oo))^(oo) g ( tau ) * Delta u ( t - tau ) d tau].'
+  - 'The systems frequency response stem:[G ( j * omega )] may be calculated by Fourier
+    transformation of stem:[g](stem:[t]):
+
+
+    stem:[G ( j * omega ) = ℱ { g ( t ) }].'
+  - The unit-impulse response of a system mathematically may be considered to result
+    from application of a unit impulse to an input variable.
+  - This entry was numbered 351-24-19 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: aaf79733-f5e3-599f-8c03-a8e1dcedf302
+status: Standard

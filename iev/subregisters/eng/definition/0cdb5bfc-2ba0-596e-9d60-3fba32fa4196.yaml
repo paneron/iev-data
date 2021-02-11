@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 881-03-30
+    link: null
+    original: 881-03-30
+    ref: IEV
+    relationship:
+      type: identical
+  - clause: 881-03-29
+    link: null
+    original: 881-03-29
+    ref: IEV
+    relationship:
+      type: identical
+  definition: the thickness of a specified material that reduces the exposure rate
+    to 10 per cent
+  examples: []
+  notes:
+  - The TVL will depend on whether the measurement has been made under broad or narrow
+    beam conditions.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 0cdb5bfc-2ba0-596e-9d60-3fba32fa4196
+status: Standard

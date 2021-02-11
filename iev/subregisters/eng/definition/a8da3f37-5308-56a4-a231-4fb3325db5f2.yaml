@@ -1,0 +1,11 @@
+data:
+  definition: for a given circuit group or destination code and during a specified
+    time interval, the ratio of the number of seizures that result in an answer signal
+    to the total number of seizures
+  examples: []
+  notes:
+  - At some points of the network this ratio may be lower than completion ratio due
+    to automatic reattempts.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: a8da3f37-5308-56a4-a231-4fb3325db5f2
+status: Standard

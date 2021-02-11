@@ -1,0 +1,10 @@
+data:
+  definition: type de limitation dans laquelle les valeurs instantanées d'un signal
+    qui sont en dehors de l'intervalle compris entre deux seuils fixés sont réduites
+    à des valeurs proches du seuil le plus voisin, les valeurs instantanées du signal
+    comprises entre les deux seuils étant conservées
+  examples: []
+  notes: []
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 0a8baf4c-9474-5246-9f38-aeb2eacc7cab
+status: Standard

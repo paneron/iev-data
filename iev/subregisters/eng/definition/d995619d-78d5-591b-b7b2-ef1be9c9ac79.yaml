@@ -1,0 +1,14 @@
+data:
+  definition: quotient of the reflected radiance at a point on a surface of a non-self-radiating
+    medium in a given direction and that of the perfect reflecting diffuser identically
+    irradiated and viewed
+  examples: []
+  notes:
+  - In general, the reflected radiance factor from a surface does not depend upon
+    the <a href="IEV845-21-030">relative spectral distribution</a> of the irradiation.
+    This is not the case for a photoluminescent surface, where it is necessary to
+    specify this quantity.
+  - The reflected radiance factor has unit one.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: d995619d-78d5-591b-b7b2-ef1be9c9ac79
+status: Standard

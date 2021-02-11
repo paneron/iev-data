@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 3.2.9
+    link: https://www.iso.org/standard/69470.html
+    original: ISO/IEC 20924:2018, 3.2.9, modified – Note 1 to entry has been added.
+    ref: ISO/IEC 20924:2018
+    relationship:
+      modification: Note 1 to entry has been added.
+      type: modified
+  definition: '{{IoT device, IEV:741-02-04}} that measures one or more properties
+    of one or more {{physical entities, IEV:741-01-26}} and outputs digital data that
+    can be transmitted over a {{network, IEV:741-01-25}}'
+  examples: []
+  notes:
+  - 'In the definition "digital data" means "data in the form of a structured sequence
+    of bits/bytes that represents information" (source of definition: ISO 5127:2017,
+    3.1.10.25, modified to replace "information content" by "<a href="IEV741-01-500">information</a>").'
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: 6f5335cf-055d-553d-82eb-ac377bd5afb4
+status: Standard

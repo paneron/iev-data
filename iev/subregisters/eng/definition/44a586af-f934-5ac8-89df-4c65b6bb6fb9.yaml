@@ -1,0 +1,13 @@
+data:
+  definition: '{{polarization, IEV:485-15-01}} caused by the resistance to the flow
+    of ions in the {{electrolyte, IEV:485-03-01}} and of electrons in the {{electrodes,
+    IEV:485-02-01}}, {{bipolar plates, IEV:485-06-04}}, and {{current collectors,
+    IEV:485-06-07}}'
+  examples: []
+  notes:
+  - The term "ohmic" refers to the fact that the voltage drop follows {{Ohm's law,
+    IEV:131-15-08}} proportional to the current with an ohmic resistance (called "{{internal
+    resistance, IEV:485-15-04}}" of the cell) as the proportionality constant.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: 44a586af-f934-5ac8-89df-4c65b6bb6fb9
+status: Standard

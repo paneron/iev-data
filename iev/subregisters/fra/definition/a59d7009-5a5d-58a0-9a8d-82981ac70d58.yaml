@@ -1,0 +1,16 @@
+data:
+  definition: temps stem:[τ] dans l'expression stem:[F ( t ) = A + B e^(- t // tau)]
+    d'une grandeur stem:[F] croissant ou décroissant exponentiellement en fonction
+    du temps stem:[t] vers une valeur constante stem:[A], ou dans l'expression stem:[F
+    ( t ) = A + f ( t ) e^(- t // tau)] d'une oscillation amortie exponentiellement,
+    où stem:[f] est une fonction périodique du temps
+  examples: []
+  notes:
+  - La constante de temps d'une grandeur variant exponentiellement est la durée d'un
+    intervalle de temps au bout duquel la valeur absolue de la différence entre la
+    grandeur et la limite atteint 1/e fois la valeur absolue de cette différence au
+    début de l'intervalle de temps, où e est la base des logarithmes népériens.
+  - La constante de temps d'une oscillation amortie est l'inverse du coefficient d'amortissement.
+dateAccepted: 2018-11-17
+id: a59d7009-5a5d-58a0-9a8d-82981ac70d58
+status: Standard

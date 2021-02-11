@@ -1,0 +1,13 @@
+data:
+  definition: '{{dispositif, IEV:151-11-20}} ou assemblage de dispositifs utilisé
+    pour un {{traitement de l’information, IEV:171-01-19}}'
+  examples:
+  - '{{ Périphériques, IEV:171-04-07}}, {{lignes de transmission, IEV:704-02-02}}.'
+  notes:
+  - Les dispositifs peuvent utiliser des phénomènes électriques, électroniques, mécaniques
+    ou optiques.
+  - Le matériel requiert la présence de {{logiciel, IEV:171-01-21}} pour exécuter
+    des programmes d’ordinateur et pour stocker et transmettre des données.
+dateAccepted: 2018-11-17
+id: 38cd099f-fe78-525c-ab42-7553026ff406
+status: Standard

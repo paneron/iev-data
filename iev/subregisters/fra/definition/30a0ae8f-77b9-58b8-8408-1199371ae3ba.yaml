@@ -1,0 +1,24 @@
+data:
+  definition: 'structure de commande avec des sous-processus interconnectés, dans
+    lesquels chaque équipement de commande partiel prend en compte les informations
+    de tous les sous-processus, pour constituer les informations de sortie
+
+
+    VOIR: Figure 24.'
+  examples: []
+  notes:
+  - Une structure de commande centralisée peut également être élaborée avec des équipements
+    de commande distribués et interconnectés qui communiquent avec l'un l'autre.
+  - 'Cet article était numéroté 351-31-09 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 24 – Examples of different control structures*
+
+
+    *Figure 24 – Exemples de différentes structures de commande*</simg>'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 30a0ae8f-77b9-58b8-8408-1199371ae3ba
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 3.3.21.2
+    link: https://webstore.iec.ch/publication/25837
+    original: IEC 62873-2:2016, 3.3.21.2
+    ref: IEC 62873-2:2016
+    relationship:
+      type: identical
+  definition: pole without an overcurrent release, but otherwise generally capable
+    of the same performance as a protected pole of the same residual current operated
+    circuit-breaker with integral overcurrent protection
+  examples: []
+  notes:
+  - The unprotected pole can be of the same construction as the protected pole(s),
+    or of a particular construction.
+  - If the short-circuit making and breaking capacity of the unprotected pole is different
+    from that of the protected pole(s), this should be indicated by the manufacturer.
+dateAccepted: '2019-05-01T00:00:00+00:00'
+id: 3261c34e-1a28-5e5f-8277-149d7dd39adf
+status: Standard

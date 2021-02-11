@@ -1,0 +1,12 @@
+data:
+  definition: set of 15 sky luminance distributions which model the sky from heavily
+    overcast sky to cloudless sky
+  examples: []
+  notes:
+  - The relative luminance distributions are described in ISO 15469/CIE S 011, _Spatial
+    distribution of daylight – CIE standard general sky_. The CIE standard clear sky
+    is incorporated as a particular case, and the CIE standard overcast sky is added
+    as a separate formula.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 271a988a-cc2a-541c-9746-6be53d9bcd42
+status: Standard

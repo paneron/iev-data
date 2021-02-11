@@ -1,0 +1,13 @@
+data:
+  definition: function for which both the argument and the value are functions
+  examples: []
+  notes:
+  - An example of transformation is the Fourier transformation, where the argument
+    is a function of time and the value is the Fourier transform of this function.
+    When the argument, the value, or both, are ordered set of entities, a linear transformation
+    is often represented by a matrix.
+  - For historical reasons, some transformations are called operators, e.g. nabla
+    operator (IEC 60050-102, {{102-05-18, IEV:102-05-18}}).
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: c4505aef-6c50-5aa4-82da-1500054005d5
+status: Standard

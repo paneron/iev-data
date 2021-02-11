@@ -1,0 +1,34 @@
+data:
+  authoritative_source:
+  - clause: 3.1.3
+    original: 'IEC TS 80004-9:2017, 3.1.3, modifié – Dans la définition, "de l''interface"
+      a été supprimé puisque aucune interface n''est mentionnée précédemment dans
+      la définition. Dans la Note 2 à l''article, la  phrase suivante a été réécrite
+      pour plus de clarté: "à produire une transformation électrique d''un phénomène
+      physique, optique, chimique ou biologique" a été remplacé par "à transformer
+      un phénomène physique, optique, chimique ou biologique en un signal électrique".'
+    ref: IEC/TS 80004-9:2017
+    relationship:
+      modification: 'Dans la définition, "de l''interface" a été supprimé puisque
+        aucune interface n''est mentionnée précédemment dans la définition. Dans la
+        Note 2 à l''article, la  phrase suivante a été réécrite pour plus de clarté:
+        "à produire une transformation électrique d''un phénomène physique, optique,
+        chimique ou biologique" a été remplacé par "à transformer un phénomène physique,
+        optique, chimique ou biologique en un signal électrique".'
+      type: modified
+  definition: '{{, IEV:nanodispositif}} ou système incorporé mettant en œuvre un ou
+    plusieurs composants électroniques et non électroniques permettant l''intégration
+    des fonctionnalités électriques et mécaniques du système'
+  examples: []
+  notes:
+  - Les composants peuvent être des composants nanotechnologiques organiques, inorganiques
+    ou hybrides qui fonctionnent à l'{{échelle nanométrique, IEV:511-01-03}} pour
+    la détection, l'actionnement, le traitement des signaux, l'affichage ou la {{commande,
+    IEV:351-42-19}}.
+  - Les composants peuvent être micro- ou nano-usinés pour produire des surfaces et
+    des volumes libres qui seront capables d'interagir avec l'environnement de manière
+    à transformer un phénomène physique, optique, chimique ou biologique en un signal
+    électrique.
+dateAccepted: 2018-11-17
+id: 9cd272b8-02ca-54fc-824b-7067b523d9d8
+status: Standard

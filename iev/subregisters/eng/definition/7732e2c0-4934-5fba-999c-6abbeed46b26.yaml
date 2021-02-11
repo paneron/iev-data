@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '5.4'
+    original: ≠ VIM 5.4
+    ref: JCGM VIM
+    relationship:
+      type: not_equal
+  definition: range defined by two values of the output signal within which the relationship
+    between the output and input signals complies with the accuracy requirements
+  examples: []
+  notes: []
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 7732e2c0-4934-5fba-999c-6abbeed46b26
+status: Standard

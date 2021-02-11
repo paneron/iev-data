@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 131-12-70
+    link: null
+    original: see 131-12-70
+    ref: IEV
+    relationship:
+      type: related
+  definition: qualifies a two-terminal element or a two-terminal circuit for which
+    the relations between the integral quantities remain valid if the value of each
+    quantity is replaced by its negative
+  examples: []
+  notes:
+  - An example is a resistive element characterized by an odd functional relation
+    between instantaneous voltage and instantaneous current.
+  - The term "symmetric" has other meanings when applied to a two-port network or
+    to a polyphase system.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 7acdad66-6212-5e4b-97ce-eb7028a0d905
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  definition: 'pour une grandeur sinusoïdale stem:[a ( t ) = hat A cos ( omega t +
+    vartheta_0 )], grandeur complexe
+
+
+    stem:[underset(_)(a) ( t ) = hat A cos ( omega t + vartheta_0 ) + j s i n ( omega
+    t + vartheta_0 ) = hat A exp j ( omega t + vartheta_0 ) = hat A exp ( j omega
+    t ) exp ( j vartheta_0 )]
+
+
+    où j est l’unité imaginaire, stem:[hat A] est l''amplitude complexe, stem:[omega]
+    est la pulsation et stem:[vartheta_0] est la phase à l''origine'
+  examples: []
+  notes:
+  - La valeur instantanée de la grandeur est la partie réelle de la représentation
+    complexe.
+dateAccepted: 2018-11-17
+id: 26c1f8e2-9b6b-5f62-9cf3-66a0bb68b7aa
+status: Standard

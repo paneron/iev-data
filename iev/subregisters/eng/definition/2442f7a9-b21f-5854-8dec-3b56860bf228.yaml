@@ -1,0 +1,15 @@
+data:
+  definition: the distribution as a function of frequency of the energy of a signal,
+    or a noise, having a continuous spectrum and finite total energy
+  examples: []
+  notes:
+  - The total energy of a signal or noise is by convention proportional to the time
+    integral of the square of its instantaneous value. This integral is proportional
+    to a physical energy if the characteristic quantity is a field quantity.
+  - The energy spectral density of a deterministic signal exists if its representative
+    time function is integrable square. It is equal to the squared modulus of the
+    Fourier transform of a signal and also equals the Fourier transform of the autocorrelation
+    function of the signal.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 2442f7a9-b21f-5854-8dec-3b56860bf228
+status: Standard

@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - clause: 121-13-26
+    link: https://webstore.iec.ch/publication/169
+    original: IEC 60050-121:1998, 121-13-26, modified
+    ref: IEC 60050-121:1998
+    relationship:
+      type: modified
+  definition: 'macroscopic quantum effect in which, when a direct current (DC) voltage
+    stem:[U] is applied across a Josephson junction, an alternating current of Cooper
+    pairs flows by tunnel effect through the junction, generating the emission of
+    electromagnetic wave having a frequency stem:[f] proportional to the applied voltage
+    and satisfying the relation:
+
+
+    stem:[f] = stem:[2eU/h]
+
+
+    where stem:[h] is the Planck constant and stem:[e] is the elementary electric
+    charge'
+  examples: []
+  notes:
+  - The AC Josephson effect also manifests itself conversely so that, when a Josephson
+    junction is irradiated by an electromagnetic radiation of frequency stem:[f,]
+    the voltage across it can assume quantized values equal to (stem:[h]/2stem:[e])stem:[nf],
+    where stem:[n] is an integer.
+  - stem:[f/U] = 483,6 MHz/μV.
+dateAccepted: '2015-11-01T00:00:00+00:00'
+id: 4c1d7d8f-f148-56e6-b0ab-5b30155e5f98
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  definition: average value of the instantaneous availability over a given time interval
+    (stem:[t]~1~, stem:[t]~2~)
+  examples: []
+  notes:
+  - 'The mean availability is related to the instantaneous availability stem:[A](stem:[t])
+    as:
+
+
+    stem:[bar A ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) A ( t ) d t]'
+dateAccepted: '2015-02-01T00:00:00+00:00'
+id: a012b55e-dbfc-5b94-9443-7022189ce6ab
+status: Standard

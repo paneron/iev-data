@@ -1,0 +1,16 @@
+data:
+  definition: the time during automatic reclosing when the pole(s) of the associated
+    circuit-breaker is(are) open
+  examples: []
+  notes:
+  - 'For the purposes of this definition, the autoreclose open time includes the circuit-breaker
+    arcing and pre-arcing time.
+
+
+    See figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-en.gif[]'
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: cfdf5deb-d839-59dd-9bfc-4ee2a5248000
+status: Standard

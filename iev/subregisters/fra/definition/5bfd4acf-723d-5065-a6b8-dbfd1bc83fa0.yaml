@@ -1,0 +1,24 @@
+data:
+  definition: 'mesure de la dispersion égale au quotient de la somme des carrés des
+    écarts à la valeur moyenne par le nombre des écarts ou par ce nombre diminué d''une
+    unité, selon les cas envisagés:
+
+
+    (1) variance de la population totale de stem:[N] individus: stem:[(1)/(N) sum_((j
+    = 1))^N ( x_j - bar X )^2]
+
+
+    (2) variance d''un échantillon de stem:[n] observations: stem:[(1)/(n) sum_((j
+    = 1))^n ( x_j - bar X )^2]
+
+
+    (3) estimation de la variance de la population à partir d''un échantillon: stem:[(1)/((n
+    - 1)) sum_((j = 1))^n ( x_j - bar X )^2]
+
+
+    où stem:[bar X] est la valeur moyenne des entités stem:[x_j] considérées'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 5bfd4acf-723d-5065-a6b8-dbfd1bc83fa0
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  definition: 'somme du facteur de luminance énergétique spectrale par réflexion,
+    stem:[β]~R~(stem:[λ]), et du facteur de luminance énergétique spectrale par luminescence,
+    stem:[β]~L~(stem:[λ])
+
+
+    stem:[β]~T~(stem:[λ]) = stem:[β]~R~(stem:[λ]) + stem:[β]~L~(stem:[λ])'
+  examples: []
+  notes:
+  - Pour les applications colorimétriques par fluorescence, la grandeur utilisée dans
+    les calculs colorimétriques est implicitement le facteur total de luminance énergétique,
+    l'omission de l'indice T étant par ailleurs courante.
+  - L'unité de facteur total de luminance énergétique spectrale est un.
+dateAccepted: 2018-11-17
+id: bb38353e-5f86-53ac-ba68-8ad51937dc50
+status: Standard

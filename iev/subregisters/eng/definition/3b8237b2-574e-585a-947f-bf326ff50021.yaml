@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.117
+    link: https://webstore.iec.ch/publication/5398
+    original: IEC 61375-2-1, 3.1.117
+    ref: IEC 61375-2-1
+    relationship:
+      type: identical
+  definition: 16-bit identifier selected by the application to identify a node's type
+    and version
+  examples: []
+  notes:
+  - The master distributes the node key to all other nodes after each composition
+    change and before exchanging data.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 3b8237b2-574e-585a-947f-bf326ff50021
+status: Standard

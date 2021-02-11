@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 444-05-04
+    link: https://webstore.iec.ch/publication/208
+    original: IEC 60050-444:2002, 444-05-04, modifié – "intervalle de temps" remplacé
+      par "durée", et "pour un contact qui ouvre/ferme son circuit" a été ajouté.
+    ref: IEC 60050-444:2002
+    relationship:
+      modification: '"intervalle de temps" remplacé par "durée", et "pour un contact
+        qui ouvre/ferme son circuit" a été ajouté.'
+      type: modified
+  definition: pour un contact qui ouvre/ferme son circuit, durée entre l'instant où
+    un {{circuit de contact, IEV:447-04-05}} se ferme ou s'ouvre pour la première
+    fois et l'instant où un circuit de contact est définitivement fermé ou ouvert
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: a7cd67e7-7dc0-5adf-90b9-ac0ee6aa66e5
+status: Standard

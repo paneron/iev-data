@@ -1,0 +1,26 @@
+data:
+  definition: 'functional unit that generates the manipulated variable, required to
+    drive the final controlling element, from the output variable of the controlling
+    element
+
+
+    SEE: Figures 1 and 2.'
+  examples: []
+  notes:
+  - 'If the final controlling element is mechanically actuated, it is controlled via
+    an actuating drive. The actuator drives the actuating drive in this case.
+
+
+    EXAMPLE: A practical example of an actuator acting directly on the final controlling
+    element is a DC drive. The control unit takes the function of an actuator. The
+    final controlling element is formed by the thyristor assembly that delivers a
+    variable DC voltage as an output variable. The control unit and the thyristor
+    assembly together form the final controlling equipment.'
+  - 'This entry was numbered 351-28-07 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 2aab2d62-a540-5c00-b674-72e4c3eef529
+status: Standard

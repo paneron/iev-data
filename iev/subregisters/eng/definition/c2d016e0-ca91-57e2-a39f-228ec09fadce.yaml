@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.1.183
+    link: https://webstore.iec.ch/publication/5402
+    original: IEC 61375-3-1:2012, 3.1.183
+    ref: IEC 61375-3-1:2012
+    relationship:
+      type: identical
+  definition: data transmitted within one bus only for the purpose of link layer supervision
+  examples:
+  - Arbitration on the MVB or inauguration on the wire train bus.
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: c2d016e0-ca91-57e2-a39f-228ec09fadce
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.3.7.1
+    link: https://webstore.iec.ch/publication/20471
+    original: IEC 62368-1:2010, 3.3.7.1
+    ref: IEC 62368-1:2010
+    relationship:
+      type: identical
+  definition: '{{operating condition, IEV:151-16-01}} that is not a {{normal operating
+    condition, IEV:151-16-49}} and is not a {{single fault condition, IEV:903-01-15}}
+    of the equipment itself'
+  examples: []
+  notes: []
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: bd4c087c-3ba0-5e1f-b681-d546c1f009c0
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  definition: reactive L-network derived from a prototype L-section filter in such
+    a way that the pass-band(s) and stop-band(s) are the same and that one and only
+    one image impedance is left unchanged with the same direction
+  examples: []
+  notes:
+  - Either the impedance of the series branch is multiplied by stem:[m], or the impedance
+    of the shunt branch is divided by stem:[m].
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 8db602c1-97d7-50fe-91a1-a1a74d52ac06
+status: Standard

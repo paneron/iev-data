@@ -1,0 +1,16 @@
+data:
+  definition: chaque suite d'opérations effectuée par un usager d'un {{réseau de télécommunication,
+    IEV:701-02-07}} pour essayer d'obtenir l'usager, le {{terminal, IEV:715-01-06}}
+    ou le service voulu
+  examples: []
+  notes:
+  - Une telle suite est suffisante dans les cas favorables; elle peut ne pas l'être
+    dans des circonstances telles qu'{{encombrements, IEV:715-02-15}}, {{pannes, IEV:192-04-01}}
+    etc.
+  - En un point donné du réseau, une tentative d'appel se manifeste par une unique
+    {{tentative de prise, IEV:715-02-03}} inefficace, ou par une tentative de prise
+    qui aboutit et par toute autre activité ultérieure liée à l'établissement de la
+    {{chaîne de connexion, IEV:701-03-01}}.
+dateAccepted: 2018-11-17
+id: 7a3c2fda-b756-5e49-8180-588d0c554231
+status: Standard

@@ -1,0 +1,29 @@
+data:
+  authoritative_source:
+  - clause: 2.5.38
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.5.38
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: procédé destiné à obtenir la forme souhaitée de composants {{composants,
+    IEV:151-11-21}} microscopiques après avoir versé un matériau liquéfié dans un
+    moule
+  examples: []
+  notes:
+  - Le micromoulage est un procédé de microformage utilisant des moyens tels que la
+    compression, le transfert, l’injection et le soufflage pour constituer la forme
+    souhaitée dans un moule métallique. Des microformes sont créées en ajoutant des
+    matières premières, telles que des polymères et de la céramique dans un moule.
+    Dans le {{procédé LIGA, IEV:523-05-06}}, les plastiques sont formés dans un moulage
+    métallique utilisant la technologie de moulage de précision. Dans un exemple typique,
+    un plastique de faible viscosité est dégazé et ajouté dans le moule à vide sous
+    haute pression, afin de prévenir la formation de bulles et de remplir complètement
+    les petits espaces. Le traitement thermique est réalisé à haute température sous
+    haute pression pour cuire le plastique, soulager la contrainte, et compenser le
+    retrait. Les structures en plastique réalisées avec cette technologie de moulage
+    par réaction et injection peuvent être plaquées et utilisées elles-mêmes comme
+    moules pour produire des structures métalliques.
+dateAccepted: 2018-11-17
+id: 5453d69c-efbb-5e51-9bd6-4694f7d4f964
+status: Standard

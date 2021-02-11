@@ -1,0 +1,14 @@
+data:
+  definition: 'pour une tôle magnétique, rapport exprimé en pourcentage de la différence
+    entre les pertes magnétiques stem:[P]~90~ mesurées dans la direction perpendiculaire
+    au sens du laminage et les pertes stem:[P]~0~ mesurées dans la direction du laminage,
+    à la somme de ces deux quantités:
+
+
+    stem:[T = ((P_((90)) - P_0))/((P_((90)) + P_0)) xx 100 %]'
+  examples: []
+  notes:
+  - Les mesures de stem:[P]~90~ et stem:[P]~0~ sont à faire dans les mêmes conditions.
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 55cb5e81-4748-5496-901f-ce07e9ad6c47
+status: Standard

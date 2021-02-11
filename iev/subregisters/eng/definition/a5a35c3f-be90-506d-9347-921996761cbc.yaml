@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 16.01.03
+    link: https://www.iso.org/standard/7259.html
+    original: ISO/IEC 2382-16:1996, 16.01.03
+    ref: ISO/IEC 2382-16:1996
+    relationship:
+      type: identical
+  definition: knowledge that reduces or removes uncertainty about the occurrence of
+    a specific event from a given set of possible events
+  examples: []
+  notes:
+  - In information theory, the concept "event" is to be understood as used in the
+    theory of probability. For instance, an event can be:* the presence of a specific
+    element in a given set of elements;* the occurrence of a specific character or
+    word in a given message or in a given position of a message;* any one of the distinct
+    results an experiment can yield.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: a5a35c3f-be90-506d-9347-921996761cbc
+status: Standard

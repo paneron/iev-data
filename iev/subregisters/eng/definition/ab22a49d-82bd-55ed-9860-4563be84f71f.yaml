@@ -1,0 +1,25 @@
+data:
+  definition: 'for a passive linear two-terminal element of two-terminal circuit with
+    terminals A and B under sinusoidal conditions, quotient of the phasor stem:[underset(_)(I)]
+    representing the electric current in the element or circuit by the phasor stem:[(underset(_)(U))_((A
+    B))] representing the voltage ({{131-11-56, IEV:131-11-56}}) between the terminals
+
+
+    stem:[underset(_)(Y) = ((underset(_)(I)))/(((underset(_)(U))_((A B))))]
+
+
+    where the sinusoidal electric current represented by the phasor stem:[underset(_)(I)]
+    is taken positive if its direction is from A to B or negative if its direction
+    is from B to A and where the sinusoidal voltage stem:[u_((AB)) = v_A - v_B] represented
+    by the phasor stem:[(underset(_)(U))_((A B))] is the difference of the electric
+    potentials at terminals stem:[v_A] at A and stem:[v_A] at B'
+  examples: []
+  notes:
+  - The admittance of an element or circuit is the inverse of its impedance. It is
+    equal to stem:[v_B], where stem:[G] is conductance for alternating current, stem:[B]
+    is susceptance, stem:[Y] is apparent admittance, and stem:[φ] is displacement
+    angle.
+  - The coherent SI unit of admittance is siemens, S.
+dateAccepted: '2013-08-01T00:00:00+00:00'
+id: ab22a49d-82bd-55ed-9860-4563be84f71f
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  definition: représentation sous forme complexe d'une grandeur réelle variant sinusoïdalement
+    dans le temps (telle que pression acoustique, vitesse vibratoire, tension), ou
+    quotient de deux de ces grandeurs complexes de même fréquence, qui peuvent êtrе
+    exprimées sous la forme (stem:[a]+stem:[jb]), stem:[a] étant la partie réelle
+    et stem:[b] la partie imaginaire, ou par un phaseur Ae ^stem:[j]θ^ de module stem:[A]
+    et d'argument θ
+  examples: []
+  notes:
+  - Dans la suite de cette section, toutes les grandeurs (mécaniques, acoustiques,
+    ou électriques) considérées sont, sauf indication contraire, des grandeurs complexes.
+  - On adopte pour +stem:[j] la convention telle qu'une onde sinusoïdale se propageant
+    dans le sens positif, est représentée par stem:[Re](stem:[e] ^stem:[j](stem:[ω]+-stem:[kх])^),
+    une réactance inertielle par +stem:[j]ωstem:[M] et une réactance de raideur par
+    -stem:[jS]/ω. Le nombre d'onde stem:[k] = ω/stem:[c] est le quotient de la fréquence
+    angulaire ω par la célérité du son stem:[c]; stem:[M] est la masse et stem:[S]
+    la raideur.
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 8ebcf084-ca35-5a5e-9f45-3696bdb13d2d
+status: Standard

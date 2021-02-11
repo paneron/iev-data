@@ -1,0 +1,14 @@
+data:
+  definition: maximum voltage that can be applied to the connection facilities of
+    associated apparatus without invalidating intrinsic safety
+  examples: []
+  notes:
+  - This additionally applies to the maximum voltage that can be applied to connection
+    facilities of intrinsically safe apparatus when located in a non-hazardous area
+    (for example, charging connections on battery operated apparatus, where charging
+    is only done in the non-hazardous area).
+  - The value of stem:[U]~m~ can be different at different sets of connection facilities,
+    and can be different for AC and DC voltages.
+dateAccepted: '2020-03-01T00:00:00+00:00'
+id: 32121c8a-d38d-56f5-a4f1-a49364cd4589
+status: Standard

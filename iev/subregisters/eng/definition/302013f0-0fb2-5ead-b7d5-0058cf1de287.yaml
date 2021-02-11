@@ -1,0 +1,21 @@
+data:
+  definition: 'quantity stem:[Q] which can be represented by a tensor of the second
+    order stem:[T] multiplied by a scalar quantity stem:[q]
+
+
+    stem:[Q = q T]'
+  examples: []
+  notes:
+  - 'A tensor quantity often describes a linear transformation of a vector quantity
+    *stem:[U]* into a vector quantity *stem:[V]*:
+
+
+    stem:[V_i = underset(j)( sum ) Q_((i j)) U_j]'
+  - The expression of a tensor quantity in terms of its components is similar to the
+    expression of vector quantities (see Note 1 to entry in {{IEV 102-03-22, IEV:102-03-22}}).
+    Examples of tensor quantities are the permittivity and the permeability in anisotropic
+    media, see IEC 60050-121.
+  - Operations defined for tensors apply to tensor quantities.
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 302013f0-0fb2-5ead-b7d5-0058cf1de287
+status: Standard

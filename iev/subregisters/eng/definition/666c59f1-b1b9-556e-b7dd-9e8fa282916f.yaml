@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 444-04-17
+    link: https://webstore.iec.ch/publication/208
+    original: IEC 60050-444:2002, 444-04-17, modified – "relay" has been replaced
+      by "measuring relay or protection equipment", "release" has been replaced by
+      "reset".
+    ref: IEC 60050-444:2002
+    relationship:
+      modification: '"relay" has been replaced by "measuring relay or protection equipment",
+        "release" has been replaced by "reset".'
+      type: modified
+  definition: contact that is closed when the {{measuring relay, IEV:447-01-02}} or
+    {{protection equipment, IEV:447-01-49}} is in its {{operate condition, IEV:447-02-01}}
+    and that is open when the relay or protection equipment is in its {{reset condition,
+    IEV:447-02-02}}
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: 666c59f1-b1b9-556e-b7dd-9e8fa282916f
+status: Standard

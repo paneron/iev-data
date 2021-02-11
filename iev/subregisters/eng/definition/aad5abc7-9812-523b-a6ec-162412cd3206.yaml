@@ -1,0 +1,28 @@
+data:
+  definition: 'density of a radiant or luminous or photon quantity, stem:[X](stem:[λ]),
+    with respect to wavelength, stem:[λ], at the wavelength stem:[λ]
+
+
+    stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]'
+  examples: []
+  notes:
+  - The term "spectral distribution" is to be preferred to the equivalent term "spectral
+    concentration" when dealing with the function stem:[Xλ](stem:[λ]) over a range
+    of wavelengths, not at a particular wavelength.
+  - Usually stem:[Xλ] is also a function of stem:[λ] and in this case, in order to
+    stress this, can be written stem:[Xλ](stem:[λ]) without any change of meaning.
+  - The spectral distribution of radiant flux is expressed in watt per nanometre (W·nm^−1^),
+    the spectral distribution of luminous flux is expressed in lumen per nanometre
+    (lm·nm^−1^), the spectral distribution of photon flux is expressed in nanometre
+    to the power minus one (nm^−1^). The units of spectral distributions of other
+    quantities are expressed accordingly.
+  - The quantity stem:[X] can also be expressed as a function of {{frequency, IEV:103-06-02}},
+    stem:[ν], <a href="IEV845-21-026">wavenumber</a>, stem:[σ], etc.; the corresponding
+    symbols are stem:[X](stem:[ν]), stem:[X](stem:[σ]), etc. and the corresponding
+    densities with respect to frequency, stem:[ν], wavenumber, stem:[σ], etc. are
+    stem:[Xν], stem:[Xσ], etc., in which case the expression of units will also change
+    accordingly.
+  - This entry was numbered 845-01-17 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: aad5abc7-9812-523b-a6ec-162412cd3206
+status: Standard

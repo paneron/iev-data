@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.1'
+    link: https://webstore.iec.ch/publication/6624
+    original: IEC 62236-4:2008, 3.1
+    ref: IEC 62236-4:2008
+    relationship:
+      type: identical
+  definition: interface particulière de l’appareil spécifié avec l’environnement extérieur
+  examples:
+  - Accès par les bornes d’alimentation AC, accès par les bornes d’alimentation DC,
+    accès par E/S (entrée/sortie), accès par la borne de terre.
+  notes: []
+dateAccepted: 2018-11-17
+id: 0a150eb3-d4c2-5dc5-bc1d-fa7d63ebe8c9
+status: Standard

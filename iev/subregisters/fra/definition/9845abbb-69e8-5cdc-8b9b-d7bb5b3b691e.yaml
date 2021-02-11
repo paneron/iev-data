@@ -1,0 +1,12 @@
+data:
+  definition: filtre dérivé d’un filtre RC actif dans lequel les résistances idéales
+    sont remplacées par des circuits électriques composés de capacités idéales et
+    de commutateurs périodiques
+  examples: []
+  notes:
+  - Une résistance simulée est généralement fonction du rapport de deux capacités
+    car on maîtrise mieux ce rapport que les capacités elles-mêmes dans un circuit
+    intégré.
+dateAccepted: '2008-09-01T00:00:00+00:00'
+id: 9845abbb-69e8-5cdc-8b9b-d7bb5b3b691e
+status: Standard

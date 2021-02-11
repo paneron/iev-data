@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 705-02-19
+    link: null
+    original: MOD 705-02-19
+    ref: IEV
+    relationship:
+      type: modified
+  definition: trajectoire tangente en chaque point à la direction de propagation de
+    l'énergie rayonnante en ce point
+  examples: []
+  notes:
+  - La notion de rayon est à la base de l'optique géométrique.
+  - Plusieurs rayons peuvent exister entre deux points donnés.
+  - Dans un milieu isotrope, le rayon est une trajectoire orthogonale aux surfaces
+    d'onde.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: 98efa629-826f-5a3d-b7f2-497e6e46bef8
+status: Standard

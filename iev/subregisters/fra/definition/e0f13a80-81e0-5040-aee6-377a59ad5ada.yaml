@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.38
+    link: https://webstore.iec.ch/publication/22781
+    original: IEC 62279:2015, 3.1.38
+    ref: IEC 62279:2015
+    relationship:
+      type: identical
+  definition: numéro de classification déterminant les techniques et mesures à appliquer
+    au logiciel
+  examples: []
+  notes:
+  - Les logiciels relatifs à la sécurité ont été classés en cinq niveaux d'intégrité
+    de la sécurité logicielle, dans lesquels 0 est le plus bas et 4 le plus élevé.
+dateAccepted: 2018-11-17
+id: e0f13a80-81e0-5040-aee6-377a59ad5ada
+status: Standard

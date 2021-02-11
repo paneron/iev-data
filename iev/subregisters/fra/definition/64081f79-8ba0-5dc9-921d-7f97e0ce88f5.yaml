@@ -1,0 +1,11 @@
+data:
+  definition: durée de l'intervalle de temps entre les instants auxquels la valeur
+    instantanée d'une impulsion atteint pour la première fois une valeur inférieure
+    donnée puis une valeur supérieure donnée
+  examples: []
+  notes:
+  - Sauf spécification contraire, les valeurs inférieure et supérieure sont fixées
+    à 10 % et 90 % de la hauteur de l'impulsion.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 64081f79-8ba0-5dc9-921d-7f97e0ce88f5
+status: Standard

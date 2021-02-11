@@ -1,0 +1,13 @@
+data:
+  definition: distribution being the derivative of the Dirac function
+  examples: []
+  notes:
+  - 'The unit doublet can be used to express the value for stem:[x]~0~ of the derivative
+    of a function stem:[f](stem:[x]) differentiable at stem:[x = x_0]:
+
+
+    stem:[f^( '' ) ( x_0 ) = - int_( - oo)^( + oo) delta^( '' ) ( x - x_0 ) f ( x
+    ) d x]'
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: b0130566-47b5-5501-8792-79d42983795c
+status: Standard

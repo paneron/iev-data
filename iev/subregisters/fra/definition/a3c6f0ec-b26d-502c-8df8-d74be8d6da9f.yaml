@@ -1,0 +1,12 @@
+data:
+  definition: échantillonnage d'une image dans lequel les points qui correspondent
+    aux instants d'échantillonnage sur les lignes de balayage sont alignés dans l'image
+    selon des droites perpendiculaires aux lignes de balayage
+  examples: []
+  notes:
+  - En balayage progressif, les points d'une ligne de balayage sont alignés avec ceux
+    des lignes adjacentes de la même trame ; en balayage entrelacé, ils sont alignés
+    avec ceux des lignes spatialement adjacentes de la trame précédente.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: a3c6f0ec-b26d-502c-8df8-d74be8d6da9f
+status: Standard

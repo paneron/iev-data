@@ -1,0 +1,15 @@
+data:
+  definition: 'representation of a real or complex function stem:[f](stem:[t]) of
+    the real variable stem:[t] by the integral transformation
+
+
+    stem:[f ( t ) = (1)/((2 pi)) int_( - oo)^( + oo) F ( omega ) e^(j omega t) d omega]
+
+
+    where stem:[F ( omega )] is the Fourier transform of the function stem:[f ( t
+    )] and j is the imaginary unit'
+  examples: []
+  notes: []
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 3f3f1495-98fb-5844-8a72-b4ce1147a822
+status: Standard

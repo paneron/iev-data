@@ -1,0 +1,13 @@
+data:
+  definition: tension la plus faible à laquelle sont initiées les décharges partielles
+    durant l'essai quand la tension appliquée à l'objet testé est graduellement augmentée
+    à partir d'une valeur plus faible que celle à laquelle sont observées les décharges
+  examples: []
+  notes:
+  - Avec une tension appliquée sinusoidale, la tension d'apparition des décharges
+    partielles est définie comme la valeur efficace de la tension. Avec des tensions
+    en impulsion, la tension d'apparition est définie comme la valeur crête-crête
+    de la tension.
+dateAccepted: '2007-11-01T00:00:00+00:00'
+id: 03480db0-cbc3-5b45-bff1-8df70a15bd2b
+status: Standard

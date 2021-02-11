@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - clause: definition 1006
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, definition 1006, modified
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: 'quantity such as:
+
+
+    stem:[ρ] = 1 – (1/ stem:[k]~eff~)
+
+
+    where
+
+
+    stem:[k]~eff~ is the effective multiplication factor'
+  examples: []
+  notes:
+  - The parameter stem:[ρ] gives the deviation from criticality of a nuclear chain
+    reacting medium which is such that positive values correspond to a supercritical
+    state and negative values to a subcritical state.
+  - This entry was numbered 393-15-42 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: ffac5071-e59f-501a-9ead-1d85a5062a2e
+status: Standard

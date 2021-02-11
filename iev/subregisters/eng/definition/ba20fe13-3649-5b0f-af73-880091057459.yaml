@@ -1,0 +1,11 @@
+data:
+  definition: range between the maximum illuminance level in which contrast appears,
+    and the illuminance level corresponding to the minimum signal level limited by
+    the noise level in the luminance channel
+  examples: []
+  notes:
+  - The contrast range is obtained from the sum of the luminance compression ratio
+    in decibels and the signal-to-noise ratio in decibels of the luminance signal.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: ba20fe13-3649-5b0f-af73-880091057459
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  definition: '{{état d’alerte, IEV:692-02-07}} dans lequel l’apparition d’un {{événement
+    plausible, IEV:692-01-08}} entraînera une instabilité, un écroulement de tension
+    ou des {{déclenchements en cascade, IEV:692-03-08}}
+
+
+    image::/assets/images/parts/692/692-fig2-fr.png[Figure 2 - États d’un réseau d’énergie
+    électrique
+
+
+    <simg></simg>'
+  examples: []
+  notes:
+  - 'Les flèches indiquent les transitions d’état les plus importantes induites par
+    des événements plausibles. Les transitions de récupération, dans les directions
+    opposées, résultent des interventions des opérateurs.
+
+
+    Figure 3 – Exemples de transitions internes aux états d’un réseau d’énergie électrique]'
+  - Cet article portait le numéro 191-22-07 dans l’IEC 60050-191:1990.
+dateAccepted: 2018-11-17
+id: 48b5d2bd-c897-5d3e-bd28-9155e5a8a140
+status: Standard

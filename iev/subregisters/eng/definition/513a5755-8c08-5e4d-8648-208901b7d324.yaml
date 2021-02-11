@@ -1,0 +1,13 @@
+data:
+  definition: the amplitude of the fundamental component of the output signal of a
+    two-port device as a function of the frequency of a sinusoidal input signal of
+    specified amplitude
+  examples: []
+  notes:
+  - In the case of a linear time-invariant two-port device the amplitude/ frequency
+    characteristic is represented by the modulus of the frequency response.
+  - The frequency of the fundamental component of the output signal may differ from
+    the input frequency.
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 513a5755-8c08-5e4d-8648-208901b7d324
+status: Standard

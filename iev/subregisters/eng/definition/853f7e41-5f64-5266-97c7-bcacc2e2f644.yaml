@@ -1,0 +1,25 @@
+data:
+  definition: 'scalar div *stem:[U]* associated at each point of a given space region
+    with a vector *stem:[U]*, equal to the limit of the flux of the vector which emerges
+    from a closed surface S, divided by the volume of the interior of the surface
+    when all its geometrical dimensions become infinitesimal
+
+
+    stem:[div U = underset((V -&gt; 0))((lim)) (1)/(V) underset(S)( ∯ ) U * e_n d
+    A]
+
+
+    where *stem:[e]*~n~dstem:[A] is the vector surface element oriented outwards and
+    stem:[V] is the volume'
+  examples: []
+  notes:
+  - 'In orthonormal Cartesian coordinates, the divergence is:
+
+
+    stem:[div U = ((del U_x))/((del x)) + ((del U_y))/((del y)) + ((del U_z))/((del
+    z))]'
+  - The divergence of the vector field *stem:[U]* is denoted div *stem:[U]* or *∇*
+    ⋅ *stem:[U]*.
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: 853f7e41-5f64-5266-97c7-bcacc2e2f644
+status: Standard

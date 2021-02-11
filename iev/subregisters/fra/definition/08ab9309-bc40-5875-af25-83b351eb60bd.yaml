@@ -1,0 +1,15 @@
+data:
+  definition: 'module stem:[A](stem:[t]) d''un {{signal analytique, IEV:702-04-52}}
+    correspondant au signal réel stem:[f](stem:[t]), mis sous la forme:
+
+
+    stem:[f] (stem:[t]) + j stem:[g] (stem:[t]) = stem:[A] (stem:[t]) e^jstem:[φ](stem:[t])^'
+  examples: []
+  notes:
+  - Pour un modulat représenté par stem:[E](stem:[t])cos[2stem:[πft] + stem:[θ](stem:[τ])]
+    où stem:[f] est suffisamment grand par rapport à la fréquence la plus élevée des
+    composantes spectrales significatives du signal modulant, l'enveloppe est représentée
+    approximativement par la courbe stem:[y] = ± stem:[E](stem:[t]).
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 08ab9309-bc40-5875-af25-83b351eb60bd
+status: Standard

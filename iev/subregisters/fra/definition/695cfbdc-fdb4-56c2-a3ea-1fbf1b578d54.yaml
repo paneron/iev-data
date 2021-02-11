@@ -1,0 +1,16 @@
+data:
+  definition: facteur d'absorption interne spectrale d'une couche d'un matériau absorbant
+    telle que le trajet du rayonnement ait une longueur de référence, et dans des
+    conditions dans lesquelles les limites du matériau n'ont aucune influence
+  examples: []
+  notes:
+  - La longueur de la grandeur de référence doit être spécifiée. Si une nouvelle longueur
+    de référence est utilisée, qui est stem:[k] fois plus grande que la longueur de
+    référence initiale, la valeur de stem:[alpha_(i ,o)^() ( lambda ) = 1 - tau_((i
+    ,o)) ( lambda )] devient alors stem:[alpha^( ' )_(i ,o)^() ( lambda ) = 1 - tau_((i
+    ,o)) ( lambda )^k]
+  - L'unité d'absorptivité spectrale est un.
+  - Cet article était numéroté 845-04-88 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 695cfbdc-fdb4-56c2-a3ea-1fbf1b578d54
+status: Standard

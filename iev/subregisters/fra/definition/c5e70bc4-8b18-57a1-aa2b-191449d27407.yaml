@@ -1,0 +1,17 @@
+data:
+  definition: '{{débit binaire, IEV:704-16-07}} équivalent à un {{débit de transfert,
+    IEV:171-06-03}} pour des {{éléments de données, IEV:171-02-01}} spécifiés'
+  examples: []
+  notes:
+  - Le débit binaire équivalent est la valeur minimale du débit binaire strictement
+    nécessaire pour transmettre pendant la même durée les mêmes informations qu'un
+    signal numérique donné de débit de transfert donné.
+  - Le débit binaire équivalent en transmission parallèle est exprimé par la formule
+    stem:[sum_((i = 1))^m (1)/((T_i)) (log)_2 \ n_i], où stem:[m] est le nombre de
+    voies de transmission en parallèle; stem:[Ti] est la durée de l'intervalle significatif
+    sur la voie stem:[i]; stem:[ni] est le nombre d'états significatifs sur la voie
+    stem:[i].
+  - L’unité de débit binaire équivalent est le bit par seconde (bit/s).
+dateAccepted: 2018-11-17
+id: c5e70bc4-8b18-57a1-aa2b-191449d27407
+status: Standard

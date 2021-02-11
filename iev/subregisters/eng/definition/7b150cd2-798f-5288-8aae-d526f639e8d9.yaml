@@ -1,0 +1,16 @@
+data:
+  definition: 'ratio of the amount of oxidant that electrochemically reacts to generate
+    the electric current of the {{fuel cell, IEV:485-08-01}} to the total amount of
+    oxidant entering the cell
+
+
+    &amp;lsqb;stem:[qm](o~in~) − stem:[qm](o~out~)&amp;rsqb;/ stem:[qm](o~in~)
+
+
+    where "o" represents "oxidant", and stem:[qm](o~in~) and stem:[qm](o~out~) represent
+    the oxidant molar flow rate at the inlet and the outlet respectively'
+  examples: []
+  notes: []
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: 7b150cd2-798f-5288-8aae-d526f639e8d9
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 13-29
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-29, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+      type: modified
+  definition: 'rapport de la {{redondance, IEV:171-07-18}} stem:[R] à la {{quantité
+    de décision, IEV:171-07-10}} stem:[H]~0~
+
+
+    stem:[r] &amp;equals; stem:[R]/stem:[H]~0~'
+  examples: []
+  notes:
+  - 'La redondance relative est aussi égale au complément à un de l''{{entropie relative,
+    IEV:171-07-17}}: stem:[r] &amp;equals; 1 −  stem:[H]~r~.'
+dateAccepted: 2018-11-17
+id: 21e16e9b-4488-58f5-8975-3c714c0afbf7
+status: Standard

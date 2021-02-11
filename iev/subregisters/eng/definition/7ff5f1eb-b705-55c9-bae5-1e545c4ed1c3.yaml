@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: 13-37
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-37, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: 'mean per {{character, IEV:702-05-10}} of the {{entropy, IEV:171-07-15}}
+    for all possible messages from a {{stationary message source, IEV:171-07-09}}
+
+
+    stem:[H^( '' ) = underset((m -&gt; oo))((lim)) ((H_m))/(m)]
+
+
+    where stem:[Hm] is the entropy of the set of all sequences of stem:[m] characters
+    from the source'
+  examples: []
+  notes:
+  - The character mean entropy can be expressed in a unit such as the shannon per
+    character.
+  - The limit might not exist if the source were not stationary.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 7ff5f1eb-b705-55c9-bae5-1e545c4ed1c3
+status: Standard

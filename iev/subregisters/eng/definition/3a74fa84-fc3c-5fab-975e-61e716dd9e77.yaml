@@ -1,0 +1,44 @@
+data:
+  authoritative_source:
+  - clause: 13-23
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-23, modified – The notes to entry have been added
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: The notes to entry have been added
+      type: modified
+  definition: 'logarithm of the number of events in a finite set of stem:[n] mutually
+    exclusive events
+
+
+    stem:[H]~0~&amp;equals;log stem:[n]
+
+
+
+
+    stem:[[[H_0,=,( lb 3 ),Sh,tildetilde,1,,585, ,Sh],[ , , ,=,( ln 3 ),nat,tildetilde,1,,099,
+    ,nat],[ , , ,=,( lg 3 ),Hart,tildetilde,0,,477, ,Hart]]]'
+  examples:
+  - 'The decision content of a set of three events is:'
+  notes:
+  - 'The base of the logarithm determines the unit used. Commonly used units are:
+    shannon (symbol Sh) for logarithms of base 2, natural unit (symbol nat) for logarithms
+    of base e, hartley (symbol Hart) for logarithms of base 10.
+
+
+    Conversion table:
+
+
+    stem:[[[1 Sh,tildetilde,0,693 nat,tildetilde,0,301 Hart],[1 nat,tildetilde,1,433
+    Sh,tildetilde,0,434 Hart],[1 Hart,tildetilde,3,322 Sh,tildetilde,2,303 nat]]]'
+  - The decision content is independent of the probabilities of the occurrence of
+    the events.
+  - The number of decisions needed to select a specific event out of a finite set
+    of mutually exclusive events equals the smallest integer which is greater than
+    or equal to the decision content when the base of the logarithm is the number
+    of choices on each decision.
+  - When the same integer base is used for the same number of events, the decision
+    content equals the {{maximum entropy, IEV:171-07-16}}.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 3a74fa84-fc3c-5fab-975e-61e716dd9e77
+status: Standard

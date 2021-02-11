@@ -1,0 +1,19 @@
+data:
+  definition: 'scalaire Δstem:[f] associé en chaque point d''un domaine déterminé
+    de l''espace à un scalaire stem:[f], défini par la divergence du gradient du champ
+    scalaire
+
+
+    Δstem:[f] = div *grad* stem:[f]'
+  examples: []
+  notes:
+  - 'En coordonnées cartésiennes orthonormées, le laplacien scalaire est:
+
+
+    stem:[Delta f = ((del^2 f))/((del x^2)) + ((del^2 f))/((del y^2)) + ((del^2 f))/((del
+    z^2))].'
+  - Le laplacien scalaire du champ scalaire stem:[f] est noté Δstem:[f] ou ∇^2^stem:[f],
+    où Δ est l'opérateur laplacien.
+dateAccepted: 2018-11-17
+id: acb0f541-68cf-5235-81e8-9b32d20b3382
+status: Standard

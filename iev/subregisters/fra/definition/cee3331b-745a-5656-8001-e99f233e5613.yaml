@@ -1,0 +1,13 @@
+data:
+  definition: tension en un point spécifié d'une voie de transmission ou d'un poste
+    téléphonique, égale à la racine carrée de la somme des carrés des tensions efficaces
+    des composantes spectrales d'une perturbation électrique induite dans la voie
+    ou le poste, chaque tension étant affectée d'un certain poids conventionnel dépendant
+    de la fréquence correspondante
+  examples: []
+  notes:
+  - Pour la téléphonie, les poids conventionnels sont indiqués dans la Recommandation
+    0.41 du CCITT contenue dans le fascicule IV-4 du Livre Blеu,1989.
+dateAccepted: '1992-11-01T00:00:00+00:00'
+id: cee3331b-745a-5656-8001-e99f233e5613
+status: Standard

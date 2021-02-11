@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.1.38
+    link: https://webstore.iec.ch/publication/5397
+    original: IEC 61375-1:2012, 3.1.38
+    ref: IEC 61375-1:2012
+    relationship:
+      type: identical
+  definition: components used to set up consist networks and train networks
+  examples: []
+  notes:
+  - These components can be passive like cables or connectors, active unmanaged like
+    repeaters, media converters or (unmanaged) switches, or managed active like gateways,
+    routers and (managed) switches.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: c3a6bfb7-bb53-571a-ab53-516d1333e4f2
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  definition: aire du plan de référence sur laquelle sont effectués les mesurages
+  examples: []
+  notes:
+  - L'ouverture d'échantillonnage est délimitée par l'aire éclairée, ou par l'aire
+    sur laquelle le récepteur détecte le flux, selon l'aire la plus petite. Si l'aire
+    éclairée est la plus grande, l'aire mesurée est considérée comme "surremplie";
+    si l'aire éclairée est la plus petite, l'aire mesurée est considérée comme "sous-remplie".
+dateAccepted: 2018-11-17
+id: 4326bda7-be89-5ef6-820b-2366f171283b
+status: Standard

@@ -1,0 +1,10 @@
+data:
+  definition: portion of a straight line between two points of the line
+  examples: []
+  notes:
+  - If stem:[r_A] and stem:[r_B] are the position vectors of two points A and B, the
+    straight-line segment AB is the set of points P with position vectors stem:[r_P
+    = u r_A + ( 1 - u ) r_B] where stem:[0 &lt;= u &lt;= 1].
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: 940e0a86-93a5-5325-ad6e-bbe71cd1850b
+status: Standard

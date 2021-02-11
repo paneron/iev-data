@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - original: IAEA 2
+    ref: IAEA 2
+    relationship:
+      type: identical
+  - original: IAEA 3, modified
+    ref: IAEA 3
+    relationship:
+      type: modified
+  definition: provision of alternative (identical or diverse) elements so that anyone
+    can perform the required function regardless of the state of operation of any
+    other
+  examples: []
+  notes:
+  - This entry was numbered 393-18-60 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 8adaf0f3-ed05-5fb5-ba11-1d91e197b641
+status: Standard

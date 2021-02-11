@@ -1,0 +1,13 @@
+data:
+  definition: '{{polarization, IEV:705-01-13}} such that the {{electric field strength,
+    IEV:121-11-18}} vector or a specified field vector rotates as a function of time
+    in an anticlockwise sense in any fixed plane normal to the {{direction of propagation,
+    IEV:705-02-15}} or to a specified reference direction, as seen by an observer
+    looking in this direction'
+  examples: []
+  notes:
+  - The reference direction shall be specified when the direction of propagation is
+    parallel to the {{plane of polarization, IEV:705-01-22}}.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 8a1c6ec6-80d8-55d2-9deb-d6b4db49380c
+status: Standard

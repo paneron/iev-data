@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - clause: 13-41
+    link: https://webstore.iec.ch/publication/7479
+    original: IEC 80000-13:2008, 13-41, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+    ref: IEC 80000-13:2008
+    relationship:
+      modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+      type: modified
+  definition: maximum possible {{character mean transinformation content, IEV:171-07-30}},
+    which can be achieved with an arbitrary small {{error probability, IEV:171-06-08}}
+    by use of an appropriate {{code, IEV:171-01-15}}
+  examples: []
+  notes:
+  - The channel capacity per character is one way to express quantitatively the ability
+    of a given channel subject to specific constraints to transmit messages from a
+    specified message source.
+  - The channel capacity per character can be expressed in a unit such as the shannon
+    per character.
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: 32237959-7ba0-58e5-a2e6-65469821df1c
+status: Standard

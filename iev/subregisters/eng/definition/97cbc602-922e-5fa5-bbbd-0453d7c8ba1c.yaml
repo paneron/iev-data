@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 2.7.6
+    link: https://webstore.iec.ch/publication/23992
+    original: IEC 62047-1:2016, 2.7.6
+    ref: IEC 62047-1:2016
+    relationship:
+      type: identical
+  definition: ratio of the vertical dimension (height) to the horizontal dimension
+    (width) of a three-dimensional structure, used as an index of the relative thickness
+    of the structure
+  examples: []
+  notes:
+  - It is accepted that the silicon process is not appropriate to form three-dimensional
+    structures of much depth, because it is difficult to manufacture structures having
+    an aspect ratio over 10. By the use of {{anisotropic etching, IEV:523-05-09}}
+    or the {{LIGA process, IEV:523-05-06}}, deep holes, grooves and so on having an
+    aspect ratio of 100 or greater can be obtained.
+dateAccepted: '2019-10-01T00:00:00+00:00'
+id: 97cbc602-922e-5fa5-bbbd-0453d7c8ba1c
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  definition: '{{dyadic Boolean operation, IEV:171-03-08}} whose result has the Boolean
+    value 1 if and only if the {{operands, IEV:171-03-04}} have different Boolean
+    values'
+  examples: []
+  notes:
+  - The exclusive-or operation applied to variables stem:[a] and stem:[b] is noted
+    stem:[a o+ b] (U+2295). Other notations are also used like stem:[a ≢ b] (U+2262),
+    stem:[a ↮ b] (U+21AE), stem:[a ⇎ b] (U+21CE), stem:[a ⩒ b] (U+2A52), stem:[a ⩡
+    b] (U+2A61).
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: fa37bac8-6d00-503f-8fad-178452a023fc
+status: Standard

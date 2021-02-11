@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: définition 975
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, définition 975, modifiée
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: temps nécessaire pour que l’activité d’un radionucléide diminue jusqu’à
+    la moitié de sa valeur initiale
+  examples: []
+  notes:
+  - 'La période radioactive est reliée à la constante de désintégration stem:[λ] par
+    la formule: stem:[T]½= ln2/stem:[λ] ≈ 0,693/stem:[λ]. Cette grandeur est exprimée
+    en secondes.'
+  - Cet article était numéroté 393-14-19 dans la CEI 60050-393:2003.
+dateAccepted: 2018-11-17
+id: d76c84cb-ec20-597b-94ff-a2f77fafbab3
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  definition: 'quotient of the <a href="IEV845-21-050">luminance</a> at a surface
+    element of a medium in a given direction and the <a href="IEV845-21-060">illuminance</a>
+    on the medium
+
+
+    stem:[q_v = ((L_v))/((E_v))]
+
+
+    where stem:[L]~v~ is luminance and stem:[E]~v~ is illuminance'
+  examples: []
+  notes:
+  - The bi-directional reflectance distribution function (BRDF) is similar to the
+    luminance coefficient except that it is defined for directional incident radiation.
+  - The luminance coefficient is expressed in steradian to the power minus one (sr^−1^).
+  - This entry was numbered 845-04-71 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: d6f5437b-57c2-51df-a827-eccb703c6a94
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  definition: 'en régime périodique, moyenne, sur une période stem:[T], de la puissance
+    instantanée stem:[p]
+
+
+    stem:[P = (1)/(T) int_0^T p d t]'
+  examples: []
+  notes:
+  - En régime sinusoïdal, la puissance active est la partie réelle de la puissance
+    complexe stem:[underset(_)(S)], soit stem:[P = Re underset(_)(S)].
+  - L’unité SI cohérente de puissance active est le watt, W.
+dateAccepted: 2018-11-17
+id: c2c21041-cd39-55e6-ab58-f70340393607
+status: Standard

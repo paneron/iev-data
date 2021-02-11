@@ -1,0 +1,13 @@
+data:
+  definition: pour un corps continu dans un domaine D, de masse volumique stem:[ρ](*stem:[r]*),
+    point de rayon vecteur stem:[r_G = ((int_D r rho d V))/((int_D rho d V))]
+  examples: []
+  notes:
+  - 1 Pour un système de particules de masses stem:[m]~stem:[i]~ et de rayons vecteurs
+    *stem:[r]*~stem:[i]~, le centre de masse est le point de rayon vecteur stem:[r_G
+    = ((sum_i m_i r_i))/((sum_i m_i))].
+  - 2 En physique non relativiste, le centre de masse ne dépend pas du référentiel
+    choisi.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: e10f61e9-bcad-5d63-835a-fc276431cef7
+status: Standard

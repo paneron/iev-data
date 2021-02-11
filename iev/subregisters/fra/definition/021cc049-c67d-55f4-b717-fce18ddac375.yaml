@@ -1,0 +1,18 @@
+data:
+  definition: énergie associé au mouvement, définie pour une particule en mécanique
+    classique par stem:[T = (1)/(2) m v^2], où stem:[m] est la masse de la particule
+    et stem:[v] sa vitesse
+  examples: []
+  notes:
+  - 1 L'énergie cinétique d'un corps est donnée par l'intégrale stem:[T = (1)/(2)
+    int_D v^2 d m], où D est un domaine contenant le corps. Lorsque l’axe de rotation
+    passe par le centre de masse, stem:[T] est donnée aussi par stem:[T = (1)/(2)
+    m_t v_G^2 + (1)/(2) J omega^2], où stem:[m]~t~ est la masse totale, stem:[V]~G~
+    est la vitesse du centre de masse, stem:[J] est le moment d'inertie par rapport
+    à l'axe de rotation et stem:[ω] est la norme de la vitesse angulaire, et où stem:[v]~G~,
+    stem:[J] et stem:[ω] peuvent dépendre du temps.
+  - 2 En relativité, il faut prendre en compte la variation de la masse stem:[m] avec
+    la vitesse stem:[v].
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 021cc049-c67d-55f4-b717-fce18ddac375
+status: Standard

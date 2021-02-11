@@ -1,0 +1,10 @@
+data:
+  definition: subnet of a LAN, that is isolated from other parts of that LAN and accessible
+    only by suitable interconnections.
+  examples: []
+  notes:
+  - The interconnections usually are filtering bridges.
+  - Standard IEEE-802.1Q provides rules for VLANs.
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: dbaab339-6315-5699-bdda-18faa160eafd
+status: Standard

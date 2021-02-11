@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: '3.2'
+    link: https://www.iso.org/standard/32893.html
+    original: ISO/IEC Guide 51:1999, 3.2, modified – Use of more appropriate English
+      to provide greater clarity to the definition.
+    ref: ISO/IEC Guide 51:1999
+    relationship:
+      modification: Use of more appropriate English to provide greater clarity to
+        the definition.
+      type: modified
+  definition: combination of the probability of the hazard arising and the severity
+    of the harm when electric energy is present in an {{electrical installation, IEV:651-26-01}}
+  examples: []
+  notes:
+  - This entry was numbered 651-01-31 in IEC 60050-651:1999. It has been modified
+    to be more precise for {{live working, IEV:651-21-01}} application.
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: 15c0e86b-fe9c-572a-b375-a09ac401ead5
+status: Standard

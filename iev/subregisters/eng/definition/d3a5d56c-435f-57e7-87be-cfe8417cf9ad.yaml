@@ -1,0 +1,12 @@
+data:
+  definition: the ratio, along a transmission line, of a maximum to an adjacent minimum
+    magnitude of a particular field component of a standing wave
+  examples: []
+  notes:
+  - 'This ratio is equal to: (1 + stem:[r]) / (1 — stem:[r]) where stem:[r] is the
+    modulus of the amplitude reflection factor.'
+  - The standing-wave ratio expressed as the reciprocal of the ratio defined above
+    is occasionally used, but this usage is deprecated.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: d3a5d56c-435f-57e7-87be-cfe8417cf9ad
+status: Standard

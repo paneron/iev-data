@@ -1,0 +1,12 @@
+data:
+  definition: qualifies a passive circuit element or a passive circuit for which the
+    time integral of the instantaneous power is not always positive over any time
+    interval beginning at an instant before the first supply of electric energy
+  examples: []
+  notes:
+  - Under periodic conditions, the integration interval can comprise an integral number
+    of periods instead of beginning at minus infinity. In this case, the time integral
+    of the instantaneous power is zero.
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 80751e6e-0fc3-579c-abb6-8c6f0bbae2ae
+status: Standard

@@ -1,0 +1,29 @@
+data:
+  definition: 'critère caractérisant le degré de rugosité d''une surface, pour une
+    onde électromagnétique sinusoïdale d''angle d''inclinaison donné, par la valeur
+    de la quantité:
+
+
+    stem:[((h sin theta))/(lambda)]
+
+
+    où:
+
+
+    stem:[h] est la hauteur moyenne des irrégularités de la surface,
+
+
+    stem:[θ] est l''angle d''inclinaison par rapport à la surface moyenne,
+
+
+    stem:[λ] est la longueur d''onde'
+  examples: []
+  notes:
+  - 'Dans la pratique, la rugosité est négligeable et la surface est considérée comme
+    lisse si:
+
+
+    stem:[((h sin theta))/(lambda) (1)/((1 0 0))]'
+dateAccepted: '1995-09-01T00:00:00+00:00'
+id: c9a92b6f-4762-503e-8608-1b33c5fee463
+status: Standard

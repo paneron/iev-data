@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - clause: 581-02-07
+    link: null
+    original: 581-02-07 MOD
+    ref: IEV
+    relationship:
+      type: modified
+  - clause: 151-12-20
+    link: null
+    original: 151-12-20
+    ref: IEV
+    relationship:
+      type: identical
+  definition: élément de contact destiné à établir la liaison électrique sur ses faces
+    intérieures en s'accouplant avec les faces extérieures d'un autre élément de contact
+  examples: []
+  notes:
+  - L’emploi en anglais du terme "socket contact" n’implique pas qu’un contact femelle
+    est toujours monté dans un socle, ni que les socles ne comportent que des contacts
+    femelles.
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 215cd858-b405-5102-94ec-7459c54292a0
+status: Standard

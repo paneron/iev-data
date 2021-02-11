@@ -1,0 +1,27 @@
+data:
+  authoritative_source:
+  - clause: '2.2'
+    original: Brochure sur le SI, 9<sup>e</sup> édition, 2019, 2.2, modifié – La définition
+      de la Brochure sur le SI a été révisée à des fins de mise en conformité avec
+      les règles de l’IEV.
+    ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+    relationship:
+      modification: La définition de la Brochure sur le SI a été révisée à des fins
+        de mise en conformité avec les règles de l’IEV.
+      type: modified
+  definition: constante physique conventionnelle qui relie la {{température thermodynamique,
+    IEV:113-04-14}} et l’{{énergie, IEV:113-03-45}}, dont la valeur est fixée à 1,380
+    649 × 10^−23^ {{J, IEV:113-03-46}}/{{K, IEV:112-02-08}}
+  examples: []
+  notes:
+  - 'La constante de Boltzmann établit la relation entre l’énergie cinétique moyenne
+    stem:[E] des particules dans un gaz idéal et la température thermodynamique stem:[T]
+    du gaz comme suit:
+
+
+    stem:[E = (3)/(2) k T].'
+  - La constante de Boltzmann est employée dans le {{SI, IEV:112-02-02}} pour définir
+    le {{kelvin, IEV:112-02-08}}.
+dateAccepted: 2018-11-17
+id: 1148b3cc-a392-5da4-9159-607c41b5960b
+status: Standard

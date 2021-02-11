@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.2'
+    link: https://webstore.iec.ch/publication/7182
+    original: IEC 62542:2013, 3.2
+    ref: IEC 62542:2013
+    relationship:
+      type: identical
+  definition: set of {{components, IEV:151-11-21}}, at least one of which is an {{electronic
+    component, IEV:904-01-09}}, assembled into a single unit
+  examples:
+  - Group of components mounted on a printed circuit board.
+  notes: []
+dateAccepted: '2014-11-01T00:00:00+00:00'
+id: 93b6379a-5a97-580b-aa02-c5c3b8f6a0ad
+status: Standard
