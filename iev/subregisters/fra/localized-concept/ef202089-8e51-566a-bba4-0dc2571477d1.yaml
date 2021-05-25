@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'élément d''un ensemble contenant les nombres réels et d''autres éléments,
+    dont chacun peut être représenté par un couple ordonné de nombres réels (`a`,
+    `b`), avec les propriétés suivantes: * le couple (`a`, 0) représente le nombre
+    réel `a`, * une addition est définie par `( a_1 , b_1 ) + ( a_2 , b_2 ) = ( a_1
+    + a_2 , b_1 + b_2 )`, * une multiplication est définie par `( a_1 , b_1 ) xx (
+    a_2 , b_2 ) = ( a_1 a_2 - b_1 b_2 , a_1 b_2 + a_2 b_1 )`'
+  examples: []
+  id: 102-02-09
+  language_code: fra
+  notes:
+  - Toutes les propriétés des nombres réels (opérations et limites) s'étendent aux
+    nombres complexes, sauf la relation d'ordre.
+  - Le nombre complexe défini par le couple (`a`, `b`) est noté `c = a + j b` où j
+    est l'unité imaginaire ({{IEV 102-02-10, IEV:102-02-10}}) représentée par le couple
+    (0, 1), `a` est la partie réelle et `b` la partie imaginaire. Un nombre complexe
+    peut aussi être représenté par `c = | c | ( cos phi + j sin phi ) = | c | e^(j
+    phi)` où `| c |` est un nombre réel positif ou nul appelé module et `φ` un nombre
+    réel appelé argument.
+  - En électrotechnique, un nombre complexe est généralement représenté par un symbole
+    littéral souligné, par exemple `underset(_)(c)`.
+  - L'ensemble des nombres complexes est noté ℂ (C avec une barre verticale dans l'arc
+    gauche) ou *C*. L'ensemble sans zéro est noté en ajoutant un astérisque au symbole,
+    par exemple ℂ*.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre complexe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ef202089-8e51-566a-bba4-0dc2571477d1
+status: valid

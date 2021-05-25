@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: total charge recovered from a diode or thyristor after switching from
+    a specified forward (on-state) current condition to a specified reverse condition
+  examples: []
+  id: 521-05-18
+  language_code: eng
+  notes:
+  - This charge includes components due to both charge carrier storage and depletion
+    layer capacitance.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recovered charge
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-05-01
+id: 70d3fbe1-5c1c-53ea-ac2b-e4f4b423e2b3
+status: valid

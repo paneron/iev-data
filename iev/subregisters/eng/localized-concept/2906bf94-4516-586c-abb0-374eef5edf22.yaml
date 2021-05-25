@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: in the specification of a connector, smallest admissable value of the
+    temperature at which the connector, as defined by the climatic category, is intended
+    to operate
+  examples: []
+  id: 581-21-14
+  language_code: eng
+  notes:
+  - The climatic category is defined according to IEC 60068-1 and covers the upper
+    and lower temperatures and the duration of damp heat.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lower limiting (connector) temperature
+    normative_status: preferred
+    type: expression
+  - designation: LLT
+    type: expression
+dateAccepted: 2008-09-01
+id: 2906bf94-4516-586c-abb0-374eef5edf22
+status: valid

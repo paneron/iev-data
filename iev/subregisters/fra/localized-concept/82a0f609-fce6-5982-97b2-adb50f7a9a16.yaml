@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: propriété d'un système qui implique que son état initial puisse être
+    déterminé à partir des variables d'entrée et de sortie, observées pendant un intervalle
+    de temps fini
+  examples: []
+  id: 351-42-23
+  language_code: fra
+  notes:
+  - Si ce calcul est valable quel que soit cet état initial, le système est dit entièrement
+    observable.
+  - Cet article était numéroté 351-21-33 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: observabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 82a0f609-fce6-5982-97b2-adb50f7a9a16
+status: valid

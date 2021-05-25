@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.18.1
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.18.1
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: electric charge which can be measured at the terminals of the specimen
+    under test
+  examples: []
+  id: 442-09-06
+  language_code: eng
+  notes:
+  - The apparent charge is smaller than the partial discharge.
+  - The measurement of the apparent charge requires a short-circuit condition at the
+    terminals of the specimen under test.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: apparent charge
+    normative_status: preferred
+    type: expression
+  - designation: '`q`~app~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 13aeb87f-9fde-594b-9eac-7094d7003601
+status: valid

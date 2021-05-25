@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: fonction associée à une protection à portée étendue et à autorisation
+    au moyen de laquelle les éléments de détection de défaut à l'extrémité de la section
+    peuvent fonctionner parce que le niveau du défaut est élevé mais où l'alimentation
+    de l'extrémité de la section éloignée est trop faible pour permettre le fonctionnement
+    des éléments principaux de détection de défaut, de telle sorte que le signal éloigné
+    n'est pas envoyé. La réception du signal à l'extrémité à faible alimentation,
+    sous réserve que les conditions locales appropriées soient remplies, entraîne
+    une retransmission du signal reçu vers l'extrémité à forte alimentation afin de
+    permettre le déclenchement à cette extrémité de la section
+  examples: []
+  id: 448-15-17
+  language_code: fra
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction d'écho avec extrémité à faible alimentation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 723fe2f0-939b-5631-98de-42e80968abd5
+status: valid

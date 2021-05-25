@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: angle solide tel que "vu" par le récepteur (angle d'acceptation), par
+    exemple, d'un radiomètre ou d'un spectroradiomètre, duquel le récepteur reçoit
+    un rayonnement
+  examples: []
+  id: 845-25-077
+  language_code: fra
+  notes:
+  - Il convient de ne pas confondre le champ de vision avec l'<a href="IEV845-25-085">étendue
+    angulaire</a> de la source apparente `α`.
+  - Un angle plan est parfois utilisé pour décrire un champ de vision à angle solide
+    symétrique circulaire.
+  - Le champ de vision est exprimé en stéradian (sr).
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ de vision
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+dateAccepted: 2018-11-17
+id: 879aa5b5-f4db-5e5c-bc76-fb4551d48b44
+status: valid

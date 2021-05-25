@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{spectre, IEV:103-09-03}} n''ayant des valeurs non nulles que pour
+    certaines {{valeurs discrètes, IEV:101-12-06}} de la {{fréquence, IEV:103-06-02}},
+    ou, par extension, au voisinage de ces valeurs'
+  examples:
+  - La suite discrète des coefficients de la {{série de Fourier, IEV:103-07-18}} qui
+    représente un {{signal, IEV:101-12-02}} ou un bruit périodique.
+  id: 702-04-46
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectre de raies
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e313f212-cca9-5604-b652-a6d0dab378bb
+status: valid

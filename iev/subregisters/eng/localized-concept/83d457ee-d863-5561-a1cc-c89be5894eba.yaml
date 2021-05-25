@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'for a complex matrix *`A`* with elements `Aij`, matrix denoted by *`A`*^H^,
+    equal to the complex conjugate of the transpose matrix: *`A`*^H^ = (*`A`*^T^)*
+    or for elements `(( A^( H ) ))_((i j)) = A_(j i)^( * )`'
+  examples: []
+  id: 102-06-19
+  language_code: eng
+  notes:
+  - If the matrix *`A`* is real, the Hermitian conjugate matrix reduces to the transpose
+    matrix.
+  - The Hermitian conjugate matrix of a matrix *`A`* is denoted by *`A`*^H^ or sometimes
+    *`A`*^†^. The notation *`A`** is also used in mathematics.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Hermitian conjugate matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 83d457ee-d863-5561-a1cc-c89be5894eba
+status: valid

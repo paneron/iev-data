@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'mesure de la dispersion égale au quotient de la somme des carrés des
+    écarts à la valeur moyenne par le nombre des écarts ou par ce nombre diminué d''une
+    unité, selon les cas envisagés: (1) variance de la population totale de `N` individus:
+    `(1)/(N) sum_((j = 1))^N ( x_j - bar X )^2` (2) variance d''un échantillon de
+    `n` observations: `(1)/(n) sum_((j = 1))^n ( x_j - bar X )^2` (3) estimation de
+    la variance de la population à partir d''un échantillon: `(1)/((n - 1)) sum_((j
+    = 1))^n ( x_j - bar X )^2` où `bar X` est la valeur moyenne des entités `x_j`
+    considérées'
+  examples: []
+  id: 103-08-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: variance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en statistique
+dateAccepted: 2018-11-17
+id: c19d1f49-8703-5ac3-989b-4cc95ccc206b
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: répartition des exigences relatives à la sûreté de fonctionnement d'une
+    entité entre les sous-entités constitutives
+  examples: []
+  id: 192-11-04
+  language_code: fra
+  notes:
+  - L’allocation est une méthode quantitative qui peut être appliquée à des caractéristiques
+    mesurables, comme la fiabilité, la maintenabilité et la disponibilité.
+  - L’allocation est normalement menée à l’aide d’un modèle.
+  - Voir aussi modèle de fiabilité ({{192-11-02, IEV:192-11-02}}) et diagramme de
+    fiabilité ({{192-11-03, IEV:192-11-03}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: allocation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des exigences en sûreté de fonctionnement
+dateAccepted: 2018-11-17
+id: 86fb3191-600d-5155-bdc3-82d6b2d86bca
+status: valid

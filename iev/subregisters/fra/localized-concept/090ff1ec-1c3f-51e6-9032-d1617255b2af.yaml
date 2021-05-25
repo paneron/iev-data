@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur moyenne, sur une période, de la valeur absolue d'une grandeur
+    alternative
+  examples: []
+  id: 103-06-10
+  language_code: fra
+  notes:
+  - Pour une grandeur alternative `x ( t )`, la valeur redressée est `bar | x | =
+    (1)/(T) int_( t_0)^( t_0 + T) | x ( t ) | d t`, où `T` est la période.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur redressée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur moyenne absolue
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 090ff1ec-1c3f-51e6-9032-d1617255b2af
+status: valid

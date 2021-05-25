@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '4.7'
+      original: ≈ VIM 4.7
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  dateAmended: 2001-07-01
+  definition: measuring instrument which records on a recording medium information
+    corresponding to the values of the measurand
+  examples: []
+  id: 312-02-11
+  language_code: eng
+  notes:
+  - Some recording instruments can incorporate an indicating device.
+  - Some recording instruments can record information corresponding to more than one
+    measurand.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recording (measuring) instrument
+    normative_status: preferred
+    type: expression
+  - designation: recorder
+    type: expression
+dateAccepted: 2001-07-01
+id: f67c7d17-7726-5cbb-8fb2-cadbbdb4bfcb
+status: valid

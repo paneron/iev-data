@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 195-06-02
+      original: 195-06-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2004-08-01
+  definition: protection contre les chocs électriques dans des {{conditions de premier
+    défaut, IEV:903-01-15}}
+  examples: []
+  id: 826-12-06
+  language_code: fra
+  notes:
+  - Pour les installations électriques à basse tension, les systèmes et les matériels,
+    la protection en cas de défaut correspond généralement à la protection contre
+    les contacts indirects, principalement pour ce qui concerne un défaut de l'isolation
+    principale.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protection en cas de défaut
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: ec62b2b0-70a6-5d2f-8349-29e66a276f38
+status: valid

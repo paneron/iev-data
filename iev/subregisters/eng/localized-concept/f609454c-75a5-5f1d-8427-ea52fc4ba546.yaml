@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.23.10
+      link: https://webstore.iec.ch/publication/6241
+      original: IEC 61992-1:2006, 3.4.23.10
+      ref: IEC 61992-1:2006
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: curve giving the cut off current as a function of the prospective current
+    for specified conditions as the current setting of the release, and the time constant
+    of the test circuit
+  examples: []
+  id: 811-29-43
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cut off current characteristic
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: f609454c-75a5-5f1d-8427-ea52fc4ba546
+status: valid

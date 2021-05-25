@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'operation, usually denoted by the plus symbol +, performed on a set
+    and assigning a unique element `a` + `b` of the set to any elements `a` and `b`
+    of the set, with the following properties: * associativity: `a` + (`b` + `c`)
+    = (`a` + `b`) + `c`, where `c` is also an element of the set, * commutativity:
+    `a` + `b` = `b` + `a`'
+  examples: []
+  id: 102-01-11
+  language_code: eng
+  notes:
+  - An addition is defined for natural numbers and extended to other classes of numbers
+    and to mathematical entities such as vectors and matrices, and also to quantities
+    of the same kind. An addition may be defined even for a finite set, for example
+    the set of two elements 0 and 1 with addition modulo 2, i.e. 1 + 1 = 0.
+  - The addition of entities `a` and `b` is expressed by the words "`a` plus `b`".
+    The symbol Σ is used to denote successive additions, for example `a_2 + a_3 +
+    ... + a_7` is denoted by `sum_((i = 2))^7 a_i`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: addition
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 6202ff9d-a0b7-5695-8003-45b3af074cc9
+status: valid

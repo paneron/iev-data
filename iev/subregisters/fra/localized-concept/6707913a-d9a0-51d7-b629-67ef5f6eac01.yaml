@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: pour une caractéristique donnée en fonction d'une variable, différence
+    entre la plus grande et la plus petite valeur de cette variable pour lesquelles
+    la valeur de la caractéristique devient égale à la moitié de sa valeur de crête
+  examples: []
+  id: 731-01-57
+  language_code: fra
+  notes:
+  - La caractéristique peut être par exemple une largeur spectrale ou un diagramme
+    de rayonnement et la variable peut être par exemple une longueur d'onde ou une
+    coordonnée spatiale.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: largeur à mi-crête
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: étendue à mi-crête
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 6707913a-d9a0-51d7-b629-67ef5f6eac01
+status: valid

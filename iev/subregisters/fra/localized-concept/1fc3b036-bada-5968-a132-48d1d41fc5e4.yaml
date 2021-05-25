@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: flux lumineux émis par la source de lumière, dans les conditions de
+    fonctionnement, à l'intérieur d'un cône de révolution d'axe vertical dirigé vers
+    le bas et sous-tendant l'angle solide
+  examples: []
+  id: 845-29-044
+  language_code: fra
+  notes:
+  - Le flux cumulé est exprimé en lumen (lm).
+  - En radiométrie, le terme "flux cumulé" est également utilisé par rapport au flux
+    énergétique au lieu du flux lumineux et est exprimé, dans ce cas, en watt (W).
+  - Cet article était numéroté 845-09-31 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux cumulé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une source de lumière, pour un angle solide
+dateAccepted: 2018-11-17
+id: 1fc3b036-bada-5968-a132-48d1d41fc5e4
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: la différence entre le taux de compte mesuré et le taux de compte réel
+  examples: []
+  id: 395-03-107
+  language_code: fra
+  notes:
+  - C'est la réduction du taux de comptage en raison du temps de résolution ou des
+    pertes causées par des phénomènes comme l’empilement ou le temps mort.
+  - Un logiciel spécifique permet de compenser certaines pertes de comptage.
+  - Cet article était numéroté 394-39-13 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: perte de comptage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un ensemble de comptage
+dateAccepted: 2018-11-17
+id: 592924a9-4539-5875-9566-b3dfc411f940
+status: valid

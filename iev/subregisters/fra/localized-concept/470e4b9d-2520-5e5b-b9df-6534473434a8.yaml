@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'représentation symbolique des actions dans un système par des blocs
+    fonctionnels, points de sommation et points de branchement reliés par des lignes
+    d''action VOIR: Figures 1 et 2.'
+  examples: []
+  id: 351-44-01
+  language_code: fra
+  notes:
+  - Les lignes d'action ne représentent pas nécessairement des connexions physiques,
+    comme des fils électriques.
+  - Les blocs fonctionnels, lignes d’actions, points de sommation et points de branchement
+    sont les éléments du schéma fonctionnel.
+  - 'Cet article était numéroté 351-23-01 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: schéma fonctionnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 470e4b9d-2520-5e5b-b9df-6534473434a8
+status: valid

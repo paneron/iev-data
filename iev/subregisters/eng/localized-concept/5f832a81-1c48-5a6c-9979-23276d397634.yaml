@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: net diameter of filament derived from the electromagnetic behaviour
+    between filaments
+  examples: []
+  id: 815-13-59
+  language_code: eng
+  notes:
+  - The hysteresis loss, `Q`~h~, is given as `Q`~h~ = (8/3`π`)`fd`~f~`ηJ`~ct~`B`~m~
+    for a sufficiently high AC magnetic flux density `B`~m~ to which `Q`~h~ is proportional,
+    where `f` is frequency, `d`~f~ is effective filament diameter, `J`~ct~ is transport
+    critical current density and `η` is volume fraction of the superconductor.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective filament diameter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 5f832a81-1c48-5a6c-9979-23276d397634
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: three digit number, the first digit representing the first digit of
+    the <a href="IEV845-22-111">CIE 1974 general colour rendering index</a>, and the
+    second and third digits representing the first two digits (thousands and hundreds)
+    of the <a href="IEV845-23-068">correlated colour temperature</a> of the light
+    source
+  examples: []
+  id: 845-27-133
+  language_code: eng
+  notes: []
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: light colour designation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: c7521654-4801-5665-8c62-b1596072a37c
+status: valid

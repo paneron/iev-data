@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 195-05-11
+      original: 195-05-11
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: voltage between conductive parts when touched simultaneously by a person
+    or an animal
+  examples: []
+  id: 826-11-05
+  language_code: eng
+  notes:
+  - The value of the effective touch voltage may be appreciably influenced by the
+    impedance of the person or the animal in electric contact with these conductive
+    parts.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (effective) touch voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01
+id: 4378fa1b-ff47-5db7-a1f3-12d5fc44254f
+status: valid

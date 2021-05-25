@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: niveau de coloration d'une surface, évaluée relativement à sa luminosité
+  examples: []
+  id: 845-22-073
+  language_code: fra
+  notes:
+  - Pour un ensemble donné de conditions d'observation et pour des niveaux de luminance
+    dans les limites du domaine de la vision photopique, un stimulus de couleur d'une
+    chromaticité donnée présente approximativement la même saturation pour tous les
+    niveaux de luminance sauf lorsque la luminosité est très élevée.
+  - Cet article était numéroté 845-02-41 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: saturation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 17174989-e267-57ea-b71e-204e0db58436
+status: valid

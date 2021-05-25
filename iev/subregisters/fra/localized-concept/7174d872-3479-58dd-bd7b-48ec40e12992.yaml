@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'pour une variation en échelon de la variable de référence ou de la
+    variable perturbatrice, durée de l''intervalle de temps compris entre l''instant
+    où la variable de commande sort, pour la première fois, des limites de la tolérance
+    spécifiée et l''instant où elle rentre de nouveau, pour la première fois, dans
+    les limites de la tolérance spécifiée VOIR: Figure 11.'
+  examples: []
+  id: 351-46-02
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-25-02 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 11 – Typical step responses of a control system for a step of the reference
+    variable (top) and a step of the disturbance variable (bottom)*
+
+
+    *Figure 11 – Réponses typiques d''un système de commande à un échelon de la variable
+    de référence (haut) et à un échelon de la variable perturbatrice (bas)*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d'établissement de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 7174d872-3479-58dd-bd7b-48ec40e12992
+status: valid

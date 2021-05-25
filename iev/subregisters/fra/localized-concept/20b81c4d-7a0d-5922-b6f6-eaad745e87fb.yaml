@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: signal distinctif inséré dans chaque trame, ou toutes les `n` trames,
+    toujours dans la même position à l'intérieur de la trame, destiné à établir et
+    à maintenir le verrouillage de trame
+  examples: []
+  id: 704-14-04
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal de verrouillage de trame
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 20b81c4d-7a0d-5922-b6f6-eaad745e87fb
+status: valid

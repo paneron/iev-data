@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: serveur qui fournit l'accès à des fichiers ou à des programmes d'applications,
+    pour les utilisateurs de la Toile
+  examples: []
+  id: 732-08-03
+  language_code: fra
+  notes:
+  - 1 – Le protocole de communication entre un serveur Web et un client est généralement
+    HTTP.
+  - 2 – Le sigle CGI de l'expression anglaise «Common Gateway Interface» désigne le
+    protocole et la notation utilisés entre un serveur de la Toile et d’autres programmes
+    d'applications.
+  - '3 – Voir Figures 4 et 5.
+
+
+    image::/assets/images/parts/732/732-08-03fr.gif[]
+
+
+    image::/assets/images/parts/732/732-08-03bfr.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: serveur de la Toile
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: serveur Web
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 20918292-285a-536a-8ce5-822788e4f795
+status: valid

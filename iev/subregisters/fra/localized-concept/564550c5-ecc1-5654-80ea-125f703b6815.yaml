@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: obtention d'informations relatives à l'état physique ou à des paramètres
+    opérationnels
+  examples: []
+  id: 192-06-28
+  language_code: fra
+  notes:
+  - La surveillance d’état permet de prévoir le moment où une maintenance préventive
+    devient nécessaire.
+  - La surveillance d’état peut être réalisée de manière automatique pendant le fonctionnement
+    ou à intervalles planifiés.
+  - 'Les méthodes de surveillance d’état incluent: l’analyse des vibrations, la tribologie
+    et la thermographie.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: surveillance d’état
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 564550c5-ecc1-5654-80ea-125f703b6815
+status: valid

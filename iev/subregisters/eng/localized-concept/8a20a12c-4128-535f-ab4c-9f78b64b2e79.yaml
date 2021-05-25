@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: a programme meter with attack and decay time-constants sensibly the
+    same, approximately 300 milliseconds
+  examples: []
+  id: 723-03-16
+  language_code: eng
+  notes:
+  - The readings given by this meter are expressed in logarithmic units called VU
+    (Volume Units) ; zero VU corresponds to a certain level of a 1 kHz sinusoidal
+    signal which may be adjustable by the operator.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: VU meter
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 8a20a12c-4128-535f-ab4c-9f78b64b2e79
+status: valid

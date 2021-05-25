@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: illuminance averaged over a circular aperture of 100 mm² area normal
+    to the LED's mechanical axis at a distance of 100 mm for CIE Standard Condition
+    A or 316 mm for CIE Standard Condition B from the tip of the LED, multiplied by
+    the square of the distance and divided by a unit solid angle
+  examples: []
+  id: 845-21-114
+  language_code: eng
+  notes:
+  - A detailed method of measurement is given in CIE 127, _Measurement of LEDs_.
+  - The geometric conditions CIE Standard Condition A and CIE Standard Condition B,
+    which correspond to symbols `I`~LED,A~ and `I`~LED,B~ respectively, are defined
+    in CIE 127, _Measurement of LEDs_.
+  - The averaged LED intensity is expressed in candela (cd).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: averaged LED intensity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: fe03ce16-ef9a-5170-a888-0c9b40ca576e
+status: valid

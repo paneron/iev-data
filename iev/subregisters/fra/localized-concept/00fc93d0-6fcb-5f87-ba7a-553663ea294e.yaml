@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: rapport de la puissance disponible aux bornes d'une antenne de réception,
+    à la puissance surfacique d'une onde plane incidente de direction de propagation
+    et de polarisation données
+  examples: []
+  id: 712-02-46
+  language_code: fra
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle qui correspond au maximum
+    de puissance disponible.
+  - 'En espace libre, pour une polarisation et une direction de propagation données,
+    l''aire équivalente partielle `A`~ep~ d''une antenne utilisée à la réception est
+    liée au gain isotrope partiel `G`~p~ de la même antenne utilisée à l''émission
+    par la relation:
+
+
+    `G_p = ((4 pi A_((ep))))/((lambda^2))`
+
+
+    où `λ` est la longueur d''onde.'
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: aire équivalente (partielle)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: surface équivalente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: surface effective
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 00fc93d0-6fcb-5f87-ba7a-553663ea294e
+status: valid

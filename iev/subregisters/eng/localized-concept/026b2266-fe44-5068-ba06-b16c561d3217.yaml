@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - - clause: 13-35
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-35, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: difference between the {{information content, IEV:171-07-14}} `I`(`x`)
+    conveyed by the occurrence of an event `x`, and the conditional information content
+    `I ( x | y )` conveyed by the occurrence of the same event, given the occurrence
+    of another event `y` `T ( x , y ) = I ( x ) - I ( x | y )`
+  examples: []
+  id: 171-07-26
+  language_code: eng
+  notes:
+  - The two events are particularly a message at the message source of a channel and
+    a message at the message sink of the channel.
+  - 'The transinformation content can also be expressed as: `T ( x , y ) = I ( x )
+    + I ( y ) - I ( x , y )`, where `I`(`y`) is the information content of the event
+    `y`. From this follows that it is symmetric in `x` and `y`: `T ( x , y ) = T (
+    y , x )`.'
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transinformation content
+    normative_status: preferred
+    type: expression
+  - designation: transferred information
+    normative_status: preferred
+    type: expression
+  - designation: transmitted information
+    normative_status: admitted
+    type: expression
+  - designation: mutual information
+    normative_status: admitted
+    type: expression
+  - designation: '`T`(`x`,`y`)'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 026b2266-fe44-5068-ba06-b16c561d3217
+status: valid

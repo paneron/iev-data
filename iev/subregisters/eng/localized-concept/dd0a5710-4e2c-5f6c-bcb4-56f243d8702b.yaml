@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '5.10'
+      original: ≠ VIM 5.10
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: quotient of the change in the indication to the corresponding change
+    in the value of the measurand
+  examples: []
+  id: 311-03-11
+  language_code: eng
+  notes:
+  - For instruments with a non-linear calibration curve, the sensitivity at any given
+    point is a function of the value of the measurand.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensitivity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: dd0a5710-4e2c-5f6c-bcb4-56f243d8702b
+status: valid

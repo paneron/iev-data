@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: assembly of one or more {{computers, IEV:171-01-25}}, {{peripheral equipment,
+    IEV:171-04-07}}, and {{software, IEV:171-01-21}} that performs {{data processing,
+    IEV:171-01-17}}
+  examples: []
+  id: 171-01-26
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: data processing system
+    normative_status: preferred
+    type: expression
+  - designation: computer system
+    normative_status: preferred
+    type: expression
+  - designation: computing system
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: 169aa961-e56e-544f-8813-2971b321d9a4
+status: valid

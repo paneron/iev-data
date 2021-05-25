@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: set of branches of a graph such that cutting all the branches of the
+    set increases the number of unconnected parts of the graph, but the retention
+    of any one branch of the set does not increase that number
+  examples: []
+  id: 131-13-19
+  language_code: eng
+  notes:
+  - For the network of the figure below, two cut-sets are (2-3, 6-7) and (1-5, 2-6,
+    3-7, 3-4).
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cut-set
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: cd078786-4dab-5e15-88cf-d96492e4f3fd
+status: valid

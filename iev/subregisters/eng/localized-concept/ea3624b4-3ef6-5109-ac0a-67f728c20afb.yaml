@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: sinusoidal component of the Fourier series of a periodic quantity, the
+    harmonic order of which is an integer number greater than one
+  examples: []
+  id: 103-07-25
+  language_code: eng
+  notes:
+  - A component of harmonic order `n` (with `n` &gt; 1) is generally designated `"n`^th^
+    harmonic". The designation of the fundamental component as the "1^st^ harmonic"
+    is not recommended.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: harmonic component
+    normative_status: preferred
+    type: expression
+  - designation: harmonic
+    type: expression
+dateAccepted: 2009-12-01
+id: ea3624b4-3ef6-5109-ac0a-67f728c20afb
+status: valid

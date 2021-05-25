@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.4
+      link: https://www.iso.org/standard/63450.html
+      original: ISO/IEC 30134-1:2016, 3.1.4
+      ref: ISO/IEC 30134-1:2016
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: structure, or group of structures, dedicated to the centralized accommodation,
+    interconnection and operation of information technology and network telecommunications
+    equipment providing data storage, processing and transport services together with
+    all the facilities and infrastructures for power distribution and environmental
+    control together with the necessary levels of resilience and security required
+    to provide the desired service availability
+  examples: []
+  id: 741-01-501
+  language_code: eng
+  notes:
+  - A structure can consist of multiple buildings and/or spaces with specific functions
+    to support the primary function.
+  - The boundaries of the structure or space considered the data centre, which includes
+    the information and communication technology equipment and supporting environmental
+    controls, can be defined within a larger structure or building.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: data centre
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 2e3504b3-f788-574b-a441-24ec05c9ebdb
+status: valid

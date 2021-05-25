@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: effet quantique macroscopique, se produisant à basse température dans
+    un système bidimensionnel d'électrons ou de trous de mobilité élevée, selon lequel
+    un champ magnétique appliqué induit entre deux points une tension électrique dont
+    le quotient par le courant électrique à travers une ligne joignant les deux points
+    présente, pour certaines plages de valeurs élevées de l'induction magnétique,
+    des plateaux de valeurs quantifiées égales à `R`~K~/`n`, où `R`~K~ = `h`/`e`^2^
+    est la constante de von Klitzing et `n` un entier, `h` étant la constante de Planck
+    et `e` la charge électrique élémentaire
+  examples: []
+  id: 121-12-85
+  language_code: fra
+  notes:
+  - Le quotient de la tension électrique par le courant électrique est appelé résistance
+    de Hall. La valeur de la constante de von Klitzing est 25 812,807 557(18) Ω (CODATA,
+    2006).
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effet Hall quantique entier
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: effet Hall quantique
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2008-08-01
+id: aed04e57-0aa6-5524-82d5-ccc49d483c09
+status: valid

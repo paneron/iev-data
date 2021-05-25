@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 592
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: identical
+  dateAmended: 1998-04-01
+  definition: point-to-multipoint radio system using time division multiple access
+    between a central station and remote stations, in which the central station allocates
+    time slots to each remote according to demand
+  examples: []
+  id: 713-12-03
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digital radio concentrator (system)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 62761beb-6642-58ff-8056-6a9e59d2e4a5
+status: valid

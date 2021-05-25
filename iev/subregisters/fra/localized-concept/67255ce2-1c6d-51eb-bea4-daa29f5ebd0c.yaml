@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: circuit électrique fermé contenant une ou plusieurs jonctions Josephson
+  examples: []
+  id: 815-16-46
+  language_code: fra
+  notes:
+  - Les SQUIDs sont des détecteurs de champs magnétiques extrêmement sensibles et
+    sont utilisés pour des applications en biomagnétisme ou pour des essais non destructifs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: SQUID
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: interféromètre quantique supraconducteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 67255ce2-1c6d-51eb-bea4-daa29f5ebd0c
+status: valid

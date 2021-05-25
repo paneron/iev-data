@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: 'ratio, under specified conditions, given by the relation: `R` = `v`
+    / `v`~c~ where `v` is the value measured by the equipment or assembly under test
+    and `v`~c~ is the conventionally true value of this quantity'
+  examples: []
+  id: 395-03-72
+  language_code: eng
+  notes:
+  - The input signal to a measuring system may be called the stimulus; the output
+    signal may be called the response.
+  - Response can have several definitions. As an example the definition of the response
+    of a radiation measuring assembly is given.
+  - This entry was numbered 394-40-21 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: response of a radiation measuring assembly
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: a83b6191-6a48-5ed1-89a8-ae8b4cafc4de
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{périphérique, IEV:171-04-07}} qui assure une entrée à partir de l''environnement
+    au moyen de signaux'
+  examples: []
+  id: 171-04-36
+  language_code: fra
+  notes:
+  - L’environnement peut être un autre dispositif, un processus technique ou une personne.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif d’entrée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en informatique
+  - designation: unité d’entrée
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: en informatique
+dateAccepted: 2018-11-17
+id: b56b555e-1736-5d4e-8c21-17949fefb2aa
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 103-08-14
+      link: https://webstore.iec.ch/publication/161
+      original: 'IEC 60050-103: 2009, 103-08-14'
+      ref: IEC 60050-103
+      relationship:
+        type: identical
+  definition: pour un nombre `p` compris entre 0 et 1, valeur d'une variable aléatoire
+    pour laquelle la fonction de répartition prend une valeur `p` ou saute d'une valeur
+    inférieure ou égale à `p` à une valeur supérieure à `p`
+  examples: []
+  id: 192-13-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: fractile d’ordre `p`
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une loi de probabilité
+  - designation: quantile d’ordre `p`
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: d’une loi de probabilité
+dateAccepted: 2018-11-17
+id: e70b06f8-29f3-5ebb-8751-e2bda8c1ebcd
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: <a href="IEV845-32-066">voile lumineux</a> observé dans un environnement
+    de vision, mais non pris en compte dans les mesurages effectués par une géométrie
+    de mesure prescrite
+  examples: []
+  id: 845-32-067
+  language_code: fra
+  notes:
+  - La lumière parasite de vision est exprimée en pourcentage de la luminance du <a
+    href="IEV845-23-081">blanc adapté</a>.
+  reviewDecisionEvent: published
+  terms:
+  - designation: lumière parasite de vision
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d9d7c4b3-94ac-5005-b426-89a53d26d515
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport entre la puissance produite par la fusion dans le plasma et
+    la puissance nécessaire à fournir au plasma pour porter celui-ci à la température
+    requise
+  examples: []
+  id: 395-02-54
+  language_code: fra
+  notes:
+  - 'Q = 1: le plasma fournit autant d’énergie que l’on a dû lui en fournir pour produire
+    la fusion; Q &gt; 1: la puissance fournie par le plasma suffit pour entretenir
+    le plasma dans les bonnes conditions.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur Q
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur d’amplification du plasma
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 26b14080-f03d-55a6-b5bd-e56345aef609
+status: valid

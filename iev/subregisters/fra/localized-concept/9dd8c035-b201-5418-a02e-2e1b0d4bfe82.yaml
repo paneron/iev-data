@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: quotient de d`EΔ` par d`l`, pour un matériau et pour des particules
+    chargées, où d`EΔ` est l'énergie perdue par une particule pendant la traversée
+    d'une distance d`l` due à des collisions avec des électrons correspondant à un
+    transfert d'énergie inférieur à une valeur spécifiée `LΔ` = (d`EΔ`/d`l`)
+  examples: []
+  id: 395-01-30
+  language_code: fra
+  notes:
+  - Cette grandeur s'exprime en électronvolts par mètre (eV/m) ou en Joules par mètre
+    (J m^−1^).
+  - Cet article était numéroté 393-14-53 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transfert d’énergie linéique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TEL
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9dd8c035-b201-5418-a02e-2e1b0d4bfe82
+status: valid

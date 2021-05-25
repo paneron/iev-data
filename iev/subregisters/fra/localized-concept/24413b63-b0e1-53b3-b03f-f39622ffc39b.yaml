@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: protection dans laquelle le courant résiduel en provenance d'un ensemble
+    de trois transformateurs de courant de phase est comparé à celui en provenance
+    d'un ensemble similaire de transformateurs de courant ou, plus habituellement,
+    d'un seul transformateur de courant placé dans la connexion de mise à la terre
+    d'un point neutre, s'il y en a un
+  examples: []
+  id: 448-14-29
+  language_code: fra
+  notes:
+  - Ce terme est aussi utilisé lorsque le neutre de l'installation protégée n'est
+    pas relié à la terre, c'est à dire que ni un deuxième ensemble de trois transformateurs
+    de courant de phase ni un transformateur de courant dans la connexion de neutre
+    ne sont nécessaires pour limiter la section protégée.
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protection différentielle de défaut à la terre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 24413b63-b0e1-53b3-b03f-f39622ffc39b
+status: valid

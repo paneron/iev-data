@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-10-01
+  definition: time relay in which the output immediately switches to the operate condition
+    when applying the power supply and the control signal; the time delay starts when
+    removing the control signal, and the output switches to the release condition
+    after the setting time has elapsed (see Figure 3) image::/assets/images/parts/445/445-01-04en.gif[]
+  examples: []
+  id: 445-01-04
+  language_code: eng
+  notes:
+  - – Effects of subsequent operating or resetting of the control signal shall be
+    declared by the manufacturer.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: off-delay relay with control signal
+    normative_status: preferred
+    type: expression
+  - designation: off-delay relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: 37cd933a-ac2c-5a1e-b3ee-beffd67a387b
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-12-01
+  definition: amount of load that is not served due to {{electric power system, IEV:692-01-02}}
+    limitations
+  examples: []
+  id: 692-09-01
+  language_code: eng
+  notes:
+  - Load not served encompasses {{supply interruption, IEV:692-07-01}} and {{load
+    curtailment, IEV:692-01-07}} resulting from load shedding or {{load reduction,
+    IEV:692-09-05}}.
+  - This entry was numbered 191-28-01 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load not served
+    normative_status: preferred
+    type: expression
+  - designation: load not supplied
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: 63eb11b3-8676-5c29-ad7e-7353e02ef783
+status: valid

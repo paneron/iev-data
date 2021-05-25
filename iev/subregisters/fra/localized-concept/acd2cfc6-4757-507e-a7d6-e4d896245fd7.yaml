@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: valeur numérique de l'intervalle de température, en Kelvin, qui exprime
+    la division par deux du temps jusqu'au point limite, pris à la température correspondant
+    à l'indice de température ou à l'indice relatif de température
+  examples: []
+  id: 212-12-13
+  language_code: fra
+  notes: []
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intervalle de division par deux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: IDC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: acd2cfc6-4757-507e-a7d6-e4d896245fd7
+status: valid

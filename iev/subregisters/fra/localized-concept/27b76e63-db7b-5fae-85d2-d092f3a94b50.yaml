@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: 'quantité complexe <u>γ</u> figurant dans l''expression: <u>a</u>(t)
+    = Ae^j(ωt - φ) - γ`x`^ où A et <u>γ</u> sont en principe indépendants de `x`,
+    lorsque cette expression peut représenter, le long d''une droite parallèle à l''axe
+    O`x`, une composante `a(t)` d''un champ électromagnétique sinusoïdal de pulsation
+    ω et de phase origine φ, notamment en propagation guidée parallèlement à O`x`,
+    ou pour une onde plane uniforme'
+  examples: []
+  id: 705-02-24
+  language_code: fra
+  notes:
+  - Des définitions compatibles sont données dans les chapitres 702 et 726.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposant (linéique) de propagation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante de propagation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 27b76e63-db7b-5fae-85d2-d092f3a94b50
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.52
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.52, modified
+      ref: IEC 61375-1:2012
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: active network where each node is connected in series to two other nodes
+  examples: []
+  id: 811-37-91
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ring topology
+    normative_status: preferred
+    type: expression
+  - designation: loop topology
+    type: expression
+dateAccepted: 2017-11-01
+id: 2213f26a-29ad-55df-8b78-8efd11e22dd0
+status: valid

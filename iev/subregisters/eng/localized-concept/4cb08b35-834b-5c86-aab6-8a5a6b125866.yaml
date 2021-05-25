@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 702-04-50
+      original: 702-04-50 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: distribution as a function of frequency of the power per unit bandwidth
+    of the spectral components of a signal or a noise having a continuous spectrum
+    and a finite mean power
+  examples: []
+  id: 713-09-12
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power spectral density
+    normative_status: preferred
+    type: expression
+  - designation: power spectrum density
+    type: expression
+  - designation: PSD
+    type: expression
+dateAccepted: 1998-04-01
+id: 4cb08b35-834b-5c86-aab6-8a5a6b125866
+status: valid

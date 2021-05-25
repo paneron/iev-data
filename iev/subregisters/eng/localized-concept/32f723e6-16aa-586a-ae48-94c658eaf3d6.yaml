@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the encoded signal produced by encoding a given original signal in accordance
+    with a given redundant line code
+  examples: []
+  id: 704-17-18
+  language_code: eng
+  notes:
+  - For a redundant `n`-ary digital signal, the average binary equivalent content
+    per encoded signal element, expressed in bits, is less than the binary logarithm
+    lb `n`.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: redundant digital signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 32f723e6-16aa-586a-ae48-94c658eaf3d6
+status: valid

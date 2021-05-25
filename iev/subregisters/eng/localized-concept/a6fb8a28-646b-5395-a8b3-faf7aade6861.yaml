@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'under periodic conditions, ratio of the non-active power `Q`~∼~ to
+    the apparent power `S`: `lambda_( ∼ ) = ((Q_( ∼ )))/(S)`'
+  examples: []
+  id: 131-11-47
+  language_code: eng
+  notes:
+  - Under sinusoidal conditions, the non-active power factor is the absolute value
+    of the reactive factor.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-active power factor
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`~∼~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: a6fb8a28-646b-5395-a8b3-faf7aade6861
+status: valid

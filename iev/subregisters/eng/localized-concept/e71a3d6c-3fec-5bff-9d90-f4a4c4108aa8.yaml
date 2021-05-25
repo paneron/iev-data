@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: input which is only effective if its input variable changes from 0 to
+    1 or from 1 to 0
+  examples: []
+  id: 351-52-07
+  language_code: eng
+  notes:
+  - Dynamic inputs may be combined with static inputs.
+  - This entry was numbered 351-29-16 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dynamic input in switching systems
+    normative_status: preferred
+    type: expression
+  - designation: dynamic input
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: e71a3d6c-3fec-5bff-9d90-f4a4c4108aa8
+status: valid

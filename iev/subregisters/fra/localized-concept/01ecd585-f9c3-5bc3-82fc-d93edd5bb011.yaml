@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: en un point d'un milieu, vitesse de l'enveloppe d'un paquet d'ondes
+    sinusoïdales superposées de même amplitude dont les fréquences tendent vers une
+    limite commune
+  examples: []
+  id: 103-10-15
+  language_code: fra
+  notes:
+  - La norme du vecteur vitesse de groupe est égale à la dérivée de la fréquence par
+    rapport au nombre d'onde.
+  - En présence à la fois de vitesses de groupe et d'autres vitesses, il convient
+    d'utiliser `c` pour les premières et `v` (vé) pour les secondes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de groupe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 01ecd585-f9c3-5bc3-82fc-d93edd5bb011
+status: valid

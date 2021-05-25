@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'variable quantity, which is not influenced by the control but is introduced
+    into the control system from outside with the aim of making the final controlled
+    variable follow it in a given relationship SEE: Figures 1 and 2.'
+  examples: []
+  id: 351-48-09
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-27-09 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: command variable
+    normative_status: preferred
+    type: expression
+  - designation: '`c`'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: e78d1b2a-0f94-559e-8b65-5543d7b7fb16
+status: valid

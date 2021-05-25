@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: protection which is intended to operate when a system fault is not cleared,
+    or abnormal condition not detected, in the required time because of failure or
+    inability of other protection to operate or failure of the appropriate circuit-breaker(s)
+    to trip
+  examples: []
+  id: 448-11-14
+  language_code: eng
+  notes:
+  - In the USA, the term "backup protection" designates a form of protection that
+    operates independently of specified devices in the main protection system. The
+    backup protection may duplicate the main protection or may be intended to operate
+    only if the main protection system fails or is temporarily out of service.
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: backup protection
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: bac4847a-5832-5ba0-817b-c3c2b95a03ab
+status: valid

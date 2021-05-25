@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: établissement d'une chaîne de connexion avec un correspondant ou un
+    groupe de correspondants, préalablement désignés par l'usager, sans utilisation
+    d'une séquence de sélection
+  examples: []
+  id: 721-17-25
+  language_code: fra
+  notes:
+  - Le réseau interprète le signal d'appel comme un ordre l'établissement d'une chaîne
+    de connexion.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: appel sans numérotation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: appel direct
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: c4dd8081-0b71-5845-97a2-11df41c5ecce
+status: valid

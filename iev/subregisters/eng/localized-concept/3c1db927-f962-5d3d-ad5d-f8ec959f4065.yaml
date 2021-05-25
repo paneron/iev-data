@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-46
+      original: 702-09-46
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: a device for converting a sequence of consecutive signal elements into
+    a corresponding group of signal elements all presented simultaneously, which represents
+    the same information
+  examples: []
+  id: 704-16-29
+  language_code: eng
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: serial-to-parallel converter
+    normative_status: preferred
+    type: expression
+  - designation: deserializer
+    type: expression
+  - designation: staticizer
+    type: expression
+dateAccepted: 1993-08-01
+id: 3c1db927-f962-5d3d-ad5d-f8ec959f4065
+status: valid

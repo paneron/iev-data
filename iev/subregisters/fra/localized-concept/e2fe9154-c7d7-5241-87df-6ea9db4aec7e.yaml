@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: probabilité de ne pas satisfaire la demande pendant un intervalle de
+    temps donné, en raison d'une insuffisance de capacité de production
+  examples: []
+  id: 692-10-03
+  language_code: fra
+  notes:
+  - La capacité de production inclut généralement les importations par des interconnexions
+    avec d’autres {{réseaux de production-transport, IEV:692-01-04}}.
+  - Cet article portait le numéro 191-29-03 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: probabilité de défaillance en puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: e2fe9154-c7d7-5241-87df-6ea9db4aec7e
+status: valid

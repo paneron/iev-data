@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: opération consistant à porter un moteur à combustion interne à sa vitesse
+    d'allumage
+  examples: []
+  id: 811-17-20
+  language_code: fra
+  notes:
+  - Le terme "démarrage" ne doit pas être employé dans ce sens particulier.
+  reviewDecisionEvent: published
+  terms:
+  - designation: lancement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: démarrage
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+    usage_info: pour un moteur à combustion interne
+dateAccepted: 2018-11-17
+id: d9f2a5e4-1a7b-5bbf-b3fc-1a5125eb972d
+status: valid

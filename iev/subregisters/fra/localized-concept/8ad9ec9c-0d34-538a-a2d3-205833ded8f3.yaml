@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un nombre `p` compris entre 0 et 1, valeur d'une variable aléatoire
+    pour laquelle la fonction de répartition prend une valeur `p` ou saute d'une valeur
+    inférieure ou égale à `p` à une valeur supérieure à `p`
+  examples: []
+  id: 103-08-14
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: fractile d'ordre `p`
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une loi de probabilité
+  - designation: quantile d'ordre `p`
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: d'une loi de probabilité
+dateAccepted: 2018-11-17
+id: 8ad9ec9c-0d34-538a-a2d3-205833ded8f3
+status: valid

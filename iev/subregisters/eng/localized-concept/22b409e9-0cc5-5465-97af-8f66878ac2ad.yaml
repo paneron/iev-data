@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-47
+      original: 702-09-47
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: a device for converting a group of signal elements, which are all presented
+    simultaneously, into a corresponding sequence of consecutive signal elements,
+    which represents the same information
+  examples: []
+  id: 704-16-30
+  language_code: eng
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallel-to-serial converter
+    normative_status: preferred
+    type: expression
+  - designation: serializer
+    type: expression
+  - designation: dynamicizer
+    type: expression
+dateAccepted: 1993-08-01
+id: 22b409e9-0cc5-5465-97af-8f66878ac2ad
+status: valid

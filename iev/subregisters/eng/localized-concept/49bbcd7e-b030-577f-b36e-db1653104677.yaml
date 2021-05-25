@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: a curve relating the value of a radiation quantity and the thickness
+    of material traversed by the radiation
+  examples: []
+  id: 881-03-31
+  language_code: eng
+  notes:
+  - 'If these terms are used it should be stated:
+
+
+    1. which radiation quantity is the dependent variable;
+
+
+    2. whether the dependent variable is the logarithm of the radiation quantity;
+
+
+    3. whether the incident beam is narrow and collimated and the measuring device
+    beyond the attenuator is relatively small and far from it (narrow-beam measurements),
+    or the incident beam is broad and not collimated and the measuring device beyond
+    the attenuator is relatively near to it (broad-beam measurements).'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: attenuation curve
+    normative_status: preferred
+    type: expression
+  - designation: transmission curve
+    type: expression
+dateAccepted: 1983-01-01
+id: 49bbcd7e-b030-577f-b36e-db1653104677
+status: valid

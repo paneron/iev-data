@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'vector quantity obtained at a given point by adding the electric polarization
+    *`P`* to the product of the electric field strength *`E`* and the electric constant
+    `ε`~0~ : *`D`* = `ε`~0~ *`E`* + *`P`*'
+  examples: []
+  id: 121-11-40
+  language_code: eng
+  notes:
+  - 'In vacuum, the electric flux density is at all points equal to the product of
+    the electric field strength and the electric constant:
+
+
+    *`D`* = `ε`~0~ *`E`*'
+  - 'The divergence of the electric flux density is equal to the volumic electric
+    charge `ρ` :
+
+
+    div *`D`* = `ρ`'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric flux density
+    normative_status: preferred
+    type: expression
+  - designation: displacement
+    normative_status: preferred
+    type: expression
+  - designation: '*`D`*'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 9580ee51-9b91-55fa-8871-a7c9a7c4faa8
+status: valid

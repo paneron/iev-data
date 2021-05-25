@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 725-12-02
+      original: 725-12-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '61'
+      original: ITU RR 61 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: radio station located on an object which is beyond the major portion
+    of the Earth's atmosphere
+  examples: []
+  id: 713-02-06
+  language_code: eng
+  notes:
+  - In common usage and in astronautics, a space station is a large facility in orbit
+    or on a celestial body, which provides a mission with some permanence.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: space station
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: ce861709-03b2-5302-b940-2f95edee896d
+status: valid

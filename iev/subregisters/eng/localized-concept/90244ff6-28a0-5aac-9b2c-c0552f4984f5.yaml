@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '1.5'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.5 MOD
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: modified
+  dateAmended: 2010-01-01
+  definition: quantity, in a system of quantities, defined in terms of the base quantities
+    of that system
+  examples: []
+  id: 112-01-10
+  language_code: eng
+  notes:
+  - For example, in a system of quantities having the base quantities length and mass,
+    mass density is a derived quantity defined as the quotient of mass by volume (length
+    to the third power).
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: derived quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 90244ff6-28a0-5aac-9b2c-c0552f4984f5
+status: valid

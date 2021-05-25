@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.7'
+      original: IEC Guide 116:2010, 3.7
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: '{{évènement dangereux, IEV:903-01-04}} passé'
+  examples: []
+  id: 903-01-06
+  language_code: fra
+  notes:
+  - Un incident qui s'est produit et qui a entraîné des dommages peut être désigné
+    comme un accident. A contrario, un incident qui s'est produit mais qui n'a pas
+    entraîné de dommages peut être désigné comme une quasi manifestation avortée.
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: incident
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: 8ed2928c-5293-5da3-89a8-b776caf42d91
+status: valid

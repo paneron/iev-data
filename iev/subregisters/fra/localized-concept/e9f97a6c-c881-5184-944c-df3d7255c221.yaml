@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: chacun des éléments d'un ensemble de vecteurs linéairement indépendants
+    dont la somme est égale à un vecteur donné
+  examples:
+  - '* pour un vecteur donné `U = U_1 a_1 + U_2 a_2 + ... + U_n a_n`, où `U_1 , U_2
+    , ... , U_n` sont les coordonnées de *`U`* et `a_1 , a_2 , ... , a_n` sont les
+    vecteurs de base, chacun des vecteurs `U_1 a_1 , U_2 a_2 , ... , U_n a_n`,
+
+
+    * les projections d''un vecteur normalement et tangentiellement à une surface
+    (composante normale et composante tangentielle).'
+  id: 102-03-10
+  language_code: fra
+  notes:
+  - En anglais, le terme "component vector" peut être employé si le terme "component"
+    est employé au sens de "coordonnée" (voir la Note 2 à l’article dans {{IEV 102-03-09,
+    IEV:102-03-09}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: composante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un vecteur
+dateAccepted: 2018-11-17
+id: e9f97a6c-c881-5184-944c-df3d7255c221
+status: valid

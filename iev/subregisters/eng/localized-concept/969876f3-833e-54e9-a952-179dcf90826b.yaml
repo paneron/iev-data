@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for two matrices *`A`* of type `m` × `p` and *`B`* of type `p` × `n`,
+    with elements `Aik` and `Bkj`, respectively, matrix *`AB`* of type `m` × `n` with
+    the elements `(( A B ))_((i j)) = sum_((k = 1))^p A_((i k)) B_(k j)^()`.
+  examples: []
+  id: 102-06-08
+  language_code: eng
+  notes:
+  - The product only exists if the number of columns of the first matrix is equal
+    to the number of rows of the second matrix.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: product of two matrices
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 969876f3-833e-54e9-a952-179dcf90826b
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la partie réfléchie par diffusion du flux (total) réfléchi
+    par le flux incident
+  examples: []
+  id: 845-24-068
+  language_code: fra
+  notes:
+  - 'Le facteur de réflexion, `ρ`, est la somme du facteur de réflexion régulière,
+    `ρ`~r~, et du facteur de réflexion diffuse, `ρ`~d~: `ρ` = `ρ`~r~ + `ρ`~d~.'
+  - L'unité de facteur de réflexion diffuse est un.
+  - Cet article était numéroté 845-04-62 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion diffuse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c04a779c-5159-5059-8afb-9d0e124775c8
+status: valid

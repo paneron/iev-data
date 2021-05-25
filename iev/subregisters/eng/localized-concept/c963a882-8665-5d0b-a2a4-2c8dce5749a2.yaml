@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.5.9
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.5.9
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: curve giving the maximum value of `I`^2^`t` as a function of the prospective
+    current under stated conditions of operation
+  examples: []
+  id: 442-05-59
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`I`^2^`t` characteristic'
+    normative_status: preferred
+    type: expression
+    usage_info: of a residual current device
+dateAccepted: 2019-05-01
+id: c963a882-8665-5d0b-a2a4-2c8dce5749a2
+status: valid

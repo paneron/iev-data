@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: message textuel, transféré en temps réel entre un expéditeur et un ou
+    plusieurs destinataires spécifiés par l'expéditeur
+  examples: []
+  id: 732-03-21
+  language_code: fra
+  notes:
+  - Le fait que les destinataires sont spécifiés par l'expéditeur distingue le message
+    instantané d'un message dans une conférence par ordinateur, et notamment dans
+    un dialogue en ligne.
+  - Certains services de messagerie instantanée permettent de transférer des fichiers
+    d’images, de sons, etc. comme suppléments d’un message textuel.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: message instantané
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 7b1c41b6-1b6c-506c-a187-c5a4c68f3899
+status: valid

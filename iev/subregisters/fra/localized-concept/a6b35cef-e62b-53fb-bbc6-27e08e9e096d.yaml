@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '1.19'
+      original: VIM 1.19
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: valeur compatible avec la définition d'une grandeur particulière donnée
+  examples: []
+  id: 311-01-04
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "valeur vraie".
+  - C’est une valeur que l’on obtiendrait par une mesure parfaite.
+  - Toute valeur vraie est par nature indéterminée.
+  - L’article indéfini «une» plutôt que l’article défini "la" est utilisé en conjonction
+    avec "valeur vraie" parce qu’il peut y avoir plusieurs valeurs correspondant à
+    la définition d’une grandeur particulière donnée.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur vraie (d'une grandeur)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: a6b35cef-e62b-53fb-bbc6-27e08e9e096d
+status: valid

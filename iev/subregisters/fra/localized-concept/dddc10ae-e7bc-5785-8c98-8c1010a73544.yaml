@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fuite entre le côté "combustible" et le côté "oxydant" d'une {{cellule
+    élémentaire à combustible, IEV:485-08-01}}, dans chaque direction, généralement
+    à travers l'{{électrolyte, IEV:485-03-01}}
+  examples: []
+  id: 485-06-25
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: perméation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fuite transversale
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dddc10ae-e7bc-5785-8c98-8c1010a73544
+status: valid

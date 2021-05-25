@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity-value scale defining a zero value of thermodynamic temperature
+    by linear extrapolation based on the thermodynamic behaviour of an ideal gas and
+    the triple point of water at 273,16 K
+  examples: []
+  id: 113-04-15
+  language_code: eng
+  notes:
+  - The zero value of thermodynamic temperature describes the lowest energy state
+    of a physical system, corresponding to all particles in rest in classical description,
+    or to the ground state in quantum description. Then, both internal energy and
+    entropy may be normalized to zero. The zero value of thermodynamic temperature
+    may be approached but cannot be achieved.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermodynamic temperature scale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: d6f96f10-98d1-57aa-81fa-cec6a93ea1bc
+status: valid

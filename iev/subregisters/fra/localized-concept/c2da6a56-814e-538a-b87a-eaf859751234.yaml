@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'ensemble de relations qui détermine l''état suivant d''un système à
+    partir d''un état donné et de la ou des valeurs simultanées de la ou des variables
+    d''entrée VOIR: Figure 22.'
+  examples: []
+  id: 351-53-03
+  language_code: fra
+  notes:
+  - La fonction de transition peut être décrite complètement par une table, réalisée
+    avec les colonnes 1, 2 et 4 de la table des transitions d'état (voir Figure 21).
+  - 'Cet article était numéroté 351-29-07 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 21 – Table des transitions d''état d''un distributeur automatique*
+
+
+    <simg>
+
+
+    *Figure 22 – Functional diagram of an automaton*
+
+
+    *Figure 22 – Schéma fonctionnel d''un automate*</simg></simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de transition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: c2da6a56-814e-538a-b87a-eaf859751234
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: mode d'exploitation selon lequel le transfert des {{informations, IEV:701-01-01}}
+    peut avoir lieu dans les deux sens simultanément entre deux points
+  examples: []
+  id: 701-03-172
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: duplex
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bilatéral simultané
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5647e517-ed8d-5e6c-8029-c278cc8e76bf
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 131-11-30
+      original: 131-11-30
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: somme des puissances instantanées dans tous les éléments de phase d'un
+    élément polyphasé
+  examples: []
+  id: 141-02-14
+  language_code: fra
+  notes:
+  - Pour un élément polyphasé symétrique en marche symétrique (à l’exclusion des systèmes
+    polyphasés dégénérés), la puissance instantanée est indépendante du temps et égale
+    à la puissance active.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance instantanée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour un élément polyphasé
+dateAccepted: 2004-08-01
+id: d77d0e5b-4797-5372-a5d7-f00f93abc038
+status: valid

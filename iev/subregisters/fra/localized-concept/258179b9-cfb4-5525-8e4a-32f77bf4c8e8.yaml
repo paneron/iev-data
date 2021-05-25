@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: organisation particulière de plusieurs systèmes à calculateur de processus
+    qui résolvent des problèmes identiques avec les mêmes données du processus, de
+    sorte qu'en cas de défaillance d'un système à calculateur de processus, le processus
+    soit capable de continuer à être exécuté en mode normal
+  examples: []
+  id: 351-54-04
+  language_code: fra
+  notes:
+  - 'La CEI 61069-5, _Mesure et commande dans les processus industriels – Appréciation
+    des propriétés d’un système en vue de son évaluation – Partie 5: Evaluation de
+    la sûreté de fonctionnement d’un système_, traite de la disponibilité et de la
+    fiabilité.'
+  - Cet article était numéroté 351-30-04 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: système à calculateur de processus redondant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 258179b9-cfb4-5525-8e4a-32f77bf4c8e8
+status: valid

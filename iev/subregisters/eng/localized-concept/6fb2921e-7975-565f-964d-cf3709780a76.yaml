@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{dyadic Boolean operation, IEV:171-03-08}} whose result has the Boolean
+    value 1 if and only if the {{operands, IEV:171-03-04}} have the same Boolean value'
+  examples: []
+  id: 171-03-15
+  language_code: eng
+  notes:
+  - The equivalence of variables `a` and `b` is noted `a` ≡ `b` (U+2261); other notations
+    are also used like `a` ↔ `b` (U+2194) and `a` ⇔ `b` (U+21D4).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalence operation
+    normative_status: preferred
+    type: expression
+  - designation: IF-AND-ONLY-IF operation
+    normative_status: preferred
+    type: expression
+  - designation: IFF
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: 6fb2921e-7975-565f-964d-cf3709780a76
+status: valid

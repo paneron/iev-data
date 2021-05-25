@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.79
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.79
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: part of a message data frame relevant to the link layer
+  examples: []
+  id: 811-37-55
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: link header
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 2ef500ea-3357-5c99-898c-9a760d58c279
+status: valid

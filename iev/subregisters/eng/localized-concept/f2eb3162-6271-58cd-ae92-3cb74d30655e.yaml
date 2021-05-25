@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: coherent SI unit of inductance and permeance, defined by the unit equation
+    H ≔ Wb/A, where Wb and A are weber and ampere, respectively
+  examples: []
+  id: 131-12-91
+  language_code: eng
+  notes:
+  - In terms of SI base units, H = m^2^·s^–2^·kg·A^–2^.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: henry
+    normative_status: preferred
+    type: expression
+  - designation: H
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: f2eb3162-6271-58cd-ae92-3cb74d30655e
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.106
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.106
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: réseau de rame à utiliser pour relier des stations programmables et
+    de simples capteurs/actionneurs
+  examples: []
+  id: 811-37-67
+  language_code: fra
+  notes:
+  - L’abréviation «MVB» est dérivée du terme anglais développé correspondant «multifunction
+    vehicle bus».
+  reviewDecisionEvent: published
+  terms:
+  - designation: MVB
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bus de véhicule multifonctions
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2c06a8d0-0d13-54f5-8d2d-07eca95f9065
+status: valid

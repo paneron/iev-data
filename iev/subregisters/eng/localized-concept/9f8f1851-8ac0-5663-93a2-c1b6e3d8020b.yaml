@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.7.4
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.7.4
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: range of values of an influencing quantity which permits the residual
+    current device to operate under specified conditions, the other influencing quantities
+    having their reference values
+  examples: []
+  id: 442-05-38
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: preferred range of an influencing quantity
+    normative_status: preferred
+    type: expression
+    usage_info: for a residual current device
+dateAccepted: 2019-05-01
+id: 9f8f1851-8ac0-5663-93a2-c1b6e3d8020b
+status: valid

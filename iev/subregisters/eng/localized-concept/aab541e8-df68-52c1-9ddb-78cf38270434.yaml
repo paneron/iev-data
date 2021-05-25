@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.59'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.59 of IEC 62127-1
+      ref: IEC 62127-1
+      relationship:
+        type: identical
+  dateAmended: 2011-01-01
+  definition: temporal-average intensity averaged over the scan-area or beam area
+    as appropriate
+  examples: []
+  id: 802-01-24
+  language_code: eng
+  notes: []
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spatial-average temporal-average intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~sata~'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: aab541e8-df68-52c1-9ddb-78cf38270434
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.14
+      original: IEC TS 80004-9:2017, 3.1.14
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  dateAmended: 2018-04-01
+  definition: '{{transistor, IEV:521-04-46}} where current transmitted can be controlled
+    down to one electron'
+  examples: []
+  id: 511-01-25
+  language_code: eng
+  notes: []
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: single-electron transistor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 34f0fada-de2f-5284-960a-9332288b2fe0
+status: valid

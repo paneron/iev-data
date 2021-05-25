@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: solid angle as "seen" by the detector (acceptance angle), e.g. of a
+    radiometer or spectroradiometer, out of which the detector receives radiation
+  examples: []
+  id: 845-25-077
+  language_code: eng
+  notes:
+  - The field of view should not be confused with the <a href="IEV845-25-085">angular
+    subtense</a> of the apparent source, `α`.
+  - A plane angle is sometimes used to describe a circular symmetric solid angle field
+    of view.
+  - The field of view is expressed in steradian (sr).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: field of view
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+dateAccepted: 2020-12-01
+id: 7b3d805f-f6a0-5885-8a3d-aef1f05d9173
+status: valid

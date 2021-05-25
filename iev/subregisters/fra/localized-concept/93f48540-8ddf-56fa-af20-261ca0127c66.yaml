@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: propriété d'une grandeur, `X`, appartenant à un rayonnement électromagnétique
+    qui indique que `X` est une fonction de la <a href="IEV845-21-025">longueur d'onde</a>,
+    `λ`
+  examples: []
+  id: 845-21-027
+  language_code: fra
+  notes:
+  - La grandeur `X` peut également être exprimée en fonction de la {{fréquence, IEV:103-06-02}}
+    `ν`, du <a href="IEV845-21-026">nombre d'onde</a> `σ`, etc.; les symboles correspondants
+    sont alors `X`(`ν`), `X`(`σ`), etc. et `Xν`, `Xσ`, etc. Voir aussi "<a href="IEV845-21-029">répartition
+    spectrale</a>".
+  - Cet article était numéroté 845-01-16 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+    usage_info: d'une grandeur
+dateAccepted: 2018-11-17
+id: 93f48540-8ddf-56fa-af20-261ca0127c66
+status: valid

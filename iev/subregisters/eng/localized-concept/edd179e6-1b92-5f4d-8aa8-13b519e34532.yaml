@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: voltage to earth appearing on the shield of a specially bonded cable
+    when balanced full load currents are flowing in the cable conductors
+  examples: []
+  id: 461-14-11
+  language_code: eng
+  notes:
+  - When the voltages differ for cables of the three phases, the highest value is
+    normally taken into account.
+  - Normally quoted at the points along the cable length at which it is maximum (i.e.
+    at the unearthed extremity of an elementary section in the case of single point
+    bonding and at a cross-bonding point in the case of cross-bonding).
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shield standing voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: edd179e6-1b92-5f4d-8aa8-13b519e34532
+status: valid

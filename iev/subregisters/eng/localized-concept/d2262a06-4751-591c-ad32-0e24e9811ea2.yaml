@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: magnetic circuit element characterized by a functional relation between
+    magnetic tension and magnetic flux
+  examples: []
+  id: 131-12-27
+  language_code: eng
+  notes:
+  - The magnetic tension is defined in IEC 60050-121, item No 121-11-57, as the line
+    integral of the magnetic field strength along a specified path linking two points.
+    When the magnetic field strength is irrotational, the magnetic tension is the
+    negative of the magnetic potential difference.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reluctant element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: d2262a06-4751-591c-ad32-0e24e9811ea2
+status: valid

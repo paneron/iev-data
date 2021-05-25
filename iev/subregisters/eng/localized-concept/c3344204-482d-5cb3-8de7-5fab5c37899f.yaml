@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 103-08-14
+      link: https://webstore.iec.ch/publication/161
+      original: 'IEC 60050-103: 2009, 103-08-14'
+      ref: IEC 60050-103
+      relationship:
+        type: identical
+  dateAmended: 2015-02-01
+  definition: for a number `p` between 0 and 1, value of a random variable for which
+    the distribution function equals `p` or jumps from a value less than or equal
+    to `p` to a value greater than `p`
+  examples: []
+  id: 192-13-08
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`p`-fractile'
+    normative_status: preferred
+    type: expression
+    usage_info: of a probability distribution
+  - designation: '`p`-quantile'
+    type: expression
+    usage_info: of a probability distribution
+dateAccepted: 2015-02-01
+id: c3344204-482d-5cb3-8de7-5fab5c37899f
+status: valid

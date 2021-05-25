@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-15
+      original: 705-03-15 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: 'grandeur scalaire ou tensorielle dont le produit par le champ magnétique
+    `*H*` dans un milieu est égal à l''induction magnétique `*B*` : `*B*` = `μ` `*H*`'
+  examples: []
+  id: 121-12-28
+  language_code: fra
+  notes:
+  - La perméabilité absolue est une grandeur scalaire dans un milieu isotrope, une
+    grandeur tensorielle dans un milieu anisotrope.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: perméabilité (absolue)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 03bb94a4-54dc-5093-a499-8082feb82918
+status: valid

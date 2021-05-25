@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '9.3'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 9.3, modified – Note 1 to entry has been added.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: Note 1 to entry has been added.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: period of time for which a {{normative document, IEV:901-02-01}} is
+    current, that lasts from the date on which it becomes effective ("effective date"),
+    resulting from a decision of the {{body, IEV:901-03-01}} responsible for it, until
+    it is withdrawn or replaced
+  examples: []
+  id: 901-04-04
+  language_code: eng
+  notes:
+  - The expression “period of time” refers to the "duration" of the time interval
+    as defined in {{IEV 113-01-13, IEV:113-01-13}}.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: period of validity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 146e1352-5565-5676-8a3d-dbeb579a9c41
+status: valid

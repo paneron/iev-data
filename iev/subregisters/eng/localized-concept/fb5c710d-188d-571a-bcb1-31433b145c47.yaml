@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.18.4
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.18.4
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: lowest peak value of the test voltage at which the apparent charge becomes
+    greater than the specified discharge magnitude when the test voltage is increased
+    above a low value for which no discharge occurs
+  examples: []
+  id: 212-11-41
+  language_code: eng
+  notes:
+  - For AC tests the rms value may be used.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: partial discharge inception voltage
+    normative_status: preferred
+    type: expression
+  - designation: '`U`~i~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: fb5c710d-188d-571a-bcb1-31433b145c47
+status: valid

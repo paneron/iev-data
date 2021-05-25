@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: '{{degradation, IEV:161-01-19}} in the performance of equipment or {{transmission
+    channel, IEV:701-02-01}} or a system caused by an {{electromagnetic disturbance,
+    IEV:161-01-05}}'
+  examples: []
+  id: 161-01-06
+  language_code: eng
+  notes:
+  - In French, the terms "{{perturbation électromagnétique, IEV:161-01-05}}" and "{{brouillage
+    électromagnétique, IEV:161-01-06}}" designate respectively the cause and the effect,
+    and should not be used indiscriminately.
+  - In English, the terms "{{electromagnetic disturbance, IEV:161-01-05}}" and "{{electromagnetic
+    interference, IEV:161-01-06}}" designate respectively the cause and the effect,
+    and should not be used indiscriminately.
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electromagnetic interference
+    normative_status: preferred
+    type: expression
+  - designation: EMI
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-09-01
+id: 26a70825-3213-59e6-98e0-91936c5b8770
+status: valid

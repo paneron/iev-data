@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of incident radiant flux with respect to area at a point on
+    a real or imaginary surface `E_e = ((d Phi_e))/((d A))` where `Φ`~e~ is radiant
+    flux and `A` is the area on which the radiant flux is incident
+  examples: []
+  id: 845-21-053
+  language_code: eng
+  notes:
+  - The corresponding photometric quantity is "illuminance". The corresponding quantity
+    for photons is "photon irradiance".
+  - The irradiance is expressed in watt per square metre (W·m^−2^).
+  - This entry was numbered 845-01-37 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: irradiance
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~e~
+
+      `E`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 2f3c5d2a-2d74-54ff-8e71-c699892d5d9d
+status: valid

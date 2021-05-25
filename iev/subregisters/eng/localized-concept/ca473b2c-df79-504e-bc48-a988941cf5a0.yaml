@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.4
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.4
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: '{{entity, IEV:741-01-18}} of an {{IoT system, IEV:741-02-07}} that
+    interacts and communicates with the physical world through sensing or actuating'
+  examples: []
+  id: 741-02-04
+  language_code: eng
+  notes:
+  - An IoT device can be a {{sensor, IEV:741-02-09}} or an {{actuator, IEV:351-49-07}}.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: IoT device
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: ca473b2c-df79-504e-bc48-a988941cf5a0
+status: valid

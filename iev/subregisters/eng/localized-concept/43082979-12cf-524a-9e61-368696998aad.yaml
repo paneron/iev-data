@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: for a specified aural detection system, that amount by which the signal
+    level exceeds the noise level presented to the ear for a stated probability of
+    detection
+  examples: []
+  id: 801-29-35
+  language_code: eng
+  notes:
+  - The bandwidth of the system, within which signal and noise are presented and measured,
+    must be specified.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: detection differential
+    normative_status: preferred
+    type: expression
+  - designation: recognition differential
+    type: expression
+dateAccepted: 1994-07-01
+id: 43082979-12cf-524a-9e61-368696998aad
+status: valid

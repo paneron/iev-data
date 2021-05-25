@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.2
+      original: IEC TS 80004-9:2017, 3.2.2, modified – In the definition, "essential
+        part of a" has been deleted.
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: In the definition, "essential part of a" has been deleted.
+        type: modified
+  dateAmended: 2018-04-01
+  definition: photovoltaic {{device, IEV:511-01-01}} with {{nanowires, IEV:511-01-24}}
+    deposited or grown upward from a substrate, creating a surface that is able to
+    absorb more sunlight than can a flat surface
+  examples: []
+  id: 511-02-02
+  language_code: eng
+  notes: []
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanowire photovoltaic cell
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 5c140d13-d802-5a93-b994-11485fb7316b
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: that part of the output current of a photoelectric detector which is
+    caused by incident radiation
+  examples: []
+  id: 845-25-059
+  language_code: eng
+  notes:
+  - In photomultipliers a distinction has to be made between the cathode photocurrent
+    and the anode photocurrent.
+  - The photocurrent is expressed in ampere (A).
+  - This entry was numbered 845-05-52 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photocurrent
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~ph~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: d1400df6-d4fe-5b55-b205-1ab52fd2e4b0
+status: valid

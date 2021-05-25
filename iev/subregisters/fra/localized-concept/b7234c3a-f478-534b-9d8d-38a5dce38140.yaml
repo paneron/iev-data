@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '1.22'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.22
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: relation d'égalité entre des grandeurs d'un système de grandeurs donné,
+    indépendante des unités de mesure
+  examples: []
+  id: 112-01-31
+  language_code: fra
+  notes:
+  - "La forme générale d'une équation aux grandeurs est `f`(`Q`~1~, `Q`~2~, ... `Qn`)\
+    \ = 0, où `Q`~1~, `Q`~2~, ... `Qn` notent différentes grandeurs. Une forme simple\
+    \ d'une équation aux grandeurs est `Q`~1~ = `ζ` `Q`~2~ `Q`~3~, où `ζ` est un facteur\
+    \ numérique.\n\nExemples:\n\n\r\n* `T` = (1/2) `mv`^2^, où `T` est l'énergie cinétique\
+    \ et `v` la vitesse d’une particule spécifiée de masse `m`;\r\n* `n` = `I`·`t`/`F`,\
+    \ où `n` est la quantité de matière d'un composé univalent, `I` est le courant\
+    \ électrique et `t` la durée de l’électrolyse, et `F` est la constante de Faraday."
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: équation aux grandeurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: b7234c3a-f478-534b-9d8d-38a5dce38140
+status: valid

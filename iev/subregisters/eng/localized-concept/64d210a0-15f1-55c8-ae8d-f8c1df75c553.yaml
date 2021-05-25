@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: application of test gas or other means of obtaining a response from
+    the sensor to check its function.
+  examples: []
+  id: 426-24-22
+  language_code: eng
+  notes:
+  - This is also known as a "response check" or "bump test". This check is generally
+    performed without adjustments of sensitivity.
+  - This can include the generation of an alarm.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: functional check
+    normative_status: preferred
+    type: expression
+    usage_info: gas detection
+dateAccepted: 2020-03-01
+id: 64d210a0-15f1-55c8-ae8d-f8c1df75c553
+status: valid

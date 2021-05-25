@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: data block included in a sector, comprising a number of inner code blocks
+    containing video, audio, or other data, preceded by data for synchronisation and
+    identification
+  examples: []
+  id: 807-01-28
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sync block
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: f30ae32b-4971-5dc4-846d-87a7e9ac4fbb
+status: valid

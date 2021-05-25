@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: fréquence d'un rayonnement reçu par un récepteur radioélectrique et
+    susceptible d'entraîner un brouillage du signal utile par intermodulation avec
+    l'oscillation locale lorsque l'un des produits d'intermodulation a une fréquence
+    voisine de la fréquence intermédiaire du récepteur
+  examples: []
+  id: 713-10-60
+  language_code: fra
+  notes:
+  - Les fréquences perturbatrices possibles sont surtout les sous-multiples des fréquences
+    de combinaison entre la fréquence de l'oscillateur local et la fréquence intermédiaire,
+    ainsi que les sous-multiples de la fréquence d'accord.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence perturbatrice
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+  - designation: fréquence de combinaison
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 27ac5f74-3101-5689-a745-0f8a47ec505c
+status: valid

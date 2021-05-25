@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1983-01-01
+  definition: 'for a radionuclide, the probability per unit time for the spontaneous
+    decay if one of its nuclei. It is given by: `lambda = - (1)/(N) * ((d N))/((d
+    t))` in which `N` is the number of nuclei of concern existing at time `t`'
+  examples: []
+  id: 881-04-41
+  language_code: eng
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: decay constant
+    normative_status: preferred
+    type: expression
+  - designation: disintegration constant
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: d78c87d4-b96a-5200-80ec-a27450913cbb
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the relative permeability obtained from the peak magnetic flux density
+    divided by `sqrt(2)` and the RMS value of the applied magnetic field strength
+    at a stated peak value of the flux density, when the flux density is varying sinusoidally
+    with time with an average value of zero and the material is initially in a specified
+    neutralized state
+  examples: []
+  id: 221-03-08
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: RMS amplitude permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`µ`~a,eff~, `µ`~a,rms~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: aec49857-99cb-56b6-ba69-3c36acf8520a
+status: valid

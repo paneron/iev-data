@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-27
+      original: 601-01-27 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: tension électrique de valeur supérieure à une limite adoptée par convention
+  examples: []
+  id: 151-15-05
+  language_code: fra
+  notes:
+  - Un exemple est l'ensemble des tensions les plus élevées utilisées dans les réseaux
+    de production-transport d'énergie électrique.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: haute tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: HT
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 5e34eae4-1d55-5020-afb9-2326c5fcffc8
+status: valid

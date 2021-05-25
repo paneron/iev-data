@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: valeur de la puissance apparente à un facteur de puissance spécifié
+    que le transformateur de mesure peut fournir au circuit secondaire au courant
+    (ou à la tension) secondaire assigné(e) lorsqu'il est raccordé à sa charge assignée
+  examples: []
+  id: 321-01-27
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance de sortie assignée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: puissance de précision
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: cf90181a-d557-55d4-82e2-2eea82bab379
+status: valid

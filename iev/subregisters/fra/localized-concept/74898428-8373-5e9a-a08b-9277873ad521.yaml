@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 13-11
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-11, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: quotient du nombre d'{{éléments de données, IEV:171-02-01}} d'une nature
+    spécifiée {{transférés, IEV:171-06-01}} pendant un intervalle de temps par la
+    durée de cet intervalle
+  examples:
+  - '{{Débit numérique, IEV:702-05-23}}, `r`~d~ ou `ν`~d~ ; débit de transfert pour
+    des octets, `r`~B~, `r`~o~, `ν`~B~, ou `ν`~o~; {{débit binaire, IEV:704-16-07}},
+    `r`~b~, `r`~bit~, `ν`~b~, ou `ν`~bit~.'
+  id: 171-06-03
+  language_code: fra
+  notes:
+  - Le débit de transfert s’exprime en secondes à la puissance moins un (s^−1^). En
+    pratique, il s’exprime en éléments numériques par seconde, par exemple en bits
+    par seconde (bit/s) ou en octets par seconde (o/s). Ces unités peuvent être combinées
+    avec des préfixes de multiples décimaux, par exemple kilooctet par seconde (ko/s).
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit de transfert
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 74898428-8373-5e9a-a08b-9277873ad521
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: the time over which propagating optical radiation may be considered
+    to be coherent radiation
+  examples: []
+  id: 731-01-18
+  language_code: eng
+  notes:
+  - The coherence time is equal to coherence length divided by the phase velocity
+    in a medium.
+  - The coherence time is given approximately by `λ`~0~^2^/`c`~0~.Δ`λ` where `λ`~0~
+    is the central wavelength, Δ`λ` is the spectral linewidth and `c`~0~ is the speed
+    of light in vacuum.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coherence time
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 4c2104c4-db65-5fda-b7d5-8d26393bd7d6
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: 'quantité caractérisant le comportement électromécanique comme suit:
+    `k_S^() = sqrt(2 | ((Delta v))/(v) |)` où Δ`v`/`v` est la variation relative de
+    vitesse de l''onde acoustique produite en court-circuitant le potentiel de surface
+    à partir de l''état en circuit ouvert'
+  examples: []
+  id: 561-01-11
+  language_code: fra
+  notes:
+  - Cet article était numéroté 561-06-08 dans l'IEC 60050-561:1991, Amendement 1:1995.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de couplage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des matériaux OAS
+  - designation: coefficient de couplage
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+    usage_info: des matériaux OAS
+dateAccepted: 2018-11-17
+id: 4e56dcc8-5fc5-5069-a515-eae5ed3375b1
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: characteristic time constant of coupling current directed perpendicularly
+    to filaments within a strand for low frequencies
+  examples: []
+  id: 815-13-58
+  language_code: eng
+  notes:
+  - The coupling time constant is proportional to the square of the twist pitch length
+    and inversely proportional to resistivity of the matrix.
+  - The coupling time constant is one of the parameters expressing magnitude of coupling
+    loss and is proportional to the loss.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coupling time constant
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 33703c48-5dc1-5f72-b620-3920dc849ab3
+status: valid

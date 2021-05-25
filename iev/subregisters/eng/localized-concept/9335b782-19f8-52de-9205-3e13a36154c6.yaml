@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{data processing, IEV:171-01-17}} in which the performance of operations
+    is dispersed within a {{computer network, IEV:732-01-03}}'
+  examples: []
+  id: 171-09-23
+  language_code: eng
+  notes:
+  - Distributed data processing needs collective cooperation that is achieved by {{data
+    communication, IEV:701-01-12}} among the {{nodes, IEV:721-16-19}} of the computer
+    network.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: distributed data processing
+    normative_status: preferred
+    type: expression
+  - designation: DDP
+    type: expression
+dateAccepted: 2019-03-01
+id: 9335b782-19f8-52de-9205-3e13a36154c6
+status: valid

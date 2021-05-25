@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir {{IEV 705-02-03, IEV:705-02-03}}
+  examples: []
+  id: 731-01-26
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance surfacique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une onde électromagnétique
+  - designation: densité surfacique de puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité de flux de puissance
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2ca95772-3e56-5ed1-ac1a-100f56bd9031
+status: valid

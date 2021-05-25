@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a channel that has a standardized bandwidth suitable for the transmission
+    of telephone quality speech in multichannel carrier transmission, and that occupies
+    one of a number of specified positions in the frequency spectrum
+  examples: []
+  id: 704-10-07
+  language_code: eng
+  notes:
+  - An FDM telephone channel normally has a standardized bandwidth of 4 kHz, this
+    being sufficient for a signal occupying a frequency band of 300-3 400 Hz, for
+    outband signalling, and for the required guard bands.
+  - Signals, other than speech signals, having appropriate specified characteristics
+    may occupy the whole or a part of an FDM telephone channel.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (FDM telephone) channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: c36984f4-70d9-55c4-91b8-dcf0c5dc6412
+status: valid

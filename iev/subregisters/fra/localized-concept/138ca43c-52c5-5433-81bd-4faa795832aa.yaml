@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: 'grandeur sans dimension définie pour une fibre optique par la formule:
+    `V = ((2 pi a))/(lambda) ( n_1^2 - n_2^2 )^(1 // 2)` où: `a` est le rayon du coeur,
+    `λ` est la longueur d''onde dans le vide, `n`~1~ est l''indice de réfraction maximal
+    dans le coeur, `n`~2~ est l''indice de réfraction de la gaine homogène la plus
+    interne'
+  examples: []
+  id: 731-03-63
+  language_code: fra
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence normée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 138ca43c-52c5-5433-81bd-4faa795832aa
+status: valid

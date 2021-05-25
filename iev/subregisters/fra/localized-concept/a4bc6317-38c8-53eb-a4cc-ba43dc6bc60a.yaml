@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie d'un essai logiciel effectuée par des utilisateurs dans son application
+    prévue
+  examples: []
+  id: 192-09-28
+  language_code: fra
+  notes:
+  - Les conditions de fonctionnement réalistes sont assurées par le fait que de véritables
+    utilisateurs utilisent le logiciel pour faire un véritable travail.
+  - Le terme «essai pratique» ne s’applique pas uniquement aux applications logicielles.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai logiciel bêta
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: essai pratique de logiciel
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a4bc6317-38c8-53eb-a4cc-ba43dc6bc60a
+status: valid

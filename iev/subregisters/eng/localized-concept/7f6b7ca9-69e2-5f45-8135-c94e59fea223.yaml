@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 equal to the ratio of the maximum possible magnitude
+    `F`~t max~ of the friction force between two solid bodies with zero relative speed
+    in the surface of contact, to the magnitude `F`~n~ of the normal force, thus `μ`~s~
+    = `F`~t max~ / `F`~n~
+  examples: []
+  id: 113-03-33
+  language_code: eng
+  notes:
+  - 1 The friction force is the tangential component and the normal force is the normal
+    component of the contact force between two bodies at relative rest, so not yet
+    sliding.
+  - 2 The tangential force `F`~t max~ is greater than the tangential force `F`~t~
+    for slow relative speed.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: static friction factor
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 7f6b7ca9-69e2-5f45-8135-c94e59fea223
+status: valid

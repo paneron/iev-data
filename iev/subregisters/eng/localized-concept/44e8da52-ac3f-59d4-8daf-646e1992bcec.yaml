@@ -1,0 +1,62 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of luminous flux and the corresponding radiant flux for a specified
+    photometric condition
+  examples: []
+  id: 845-21-090
+  language_code: eng
+  notes:
+  - The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+    If it is not specified, photopic vision is assumed and the symbol `K` is used.
+    For other photometric conditions, the respective symbol for identification shall
+    be used.
+  - 'Luminous efficacy of radiation for photopic vision is expressed by
+
+
+    `K = ((Phi_v))/(Phi_e)`
+
+
+    where `Φ`~v~ is luminous flux and `Φ`~e~ is radiant flux.'
+  - 'The value of the luminous efficacy of radiation for photopic vision for <a href="IEV845-21-014">monochromatic
+    radiation</a> of {{frequency, IEV:103-06-02}} `ν`~cd~ = 540 × 10^12^ Hz is defined
+    as 683 lm·W^−1^ and denoted as `K`~cd~. The corresponding wavelength, `lambda_((cd))
+    \ = n^(- 1) * c_((0)) * nu_(cd)^(- 1)` (where `n` is refractive index and `c`~0~
+    is the {{speed of light in vacuum, IEV:113-01-34}}) in standard air, i.e. dry
+    air at 15 °C and 101 325 Pa, containing 0,045 % of carbon dioxide by volume (see
+    P.E. Ciddor: _Refractive index of air: new equations for the visible and near
+    infrared, Appl. Opt. Vol 35, No. 9_, 1996, pp. 1566-1573), is accepted to be 555,017 nm
+    (rounded from 555,017 069 nm). This is very close to 555 nm, the wavelength where
+    `V`(`λ`) reaches its maximum. For photometric measurements made in air under real
+    environmental conditions, the influence of the variation of the refractive index
+    on `λ`~cd~ with respect to standard air is typically in the range of a few picometres
+    and can be neglected in most cases.'
+  - See also "<a href="IEV845-21-091">spectral luminous efficacy</a>".
+  - The luminous efficacy of radiation is expressed in lumen per watt (lm·W^−1^).
+  - This entry was numbered 845-01-56 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous efficacy of radiation
+    normative_status: preferred
+    type: expression
+    usage_info: for a specified photometric condition
+  - designation: '`K`, &lt;for photopic vision&gt; &lt;pour la vision photopique&gt;
+
+      `K`′, &lt;for scotopic vision&gt; &lt;pour la vision scotopique&gt;
+
+      `K`~mes;~`m`, &lt;for mesopic vision&gt; &lt;pour la vision mésopique&gt;
+
+      `K`~10~, &lt;for the CIE 10° photopic photometric observer&gt; &lt;pour l''observateur
+      photométrique photopique 10° CIE&gt;
+
+      `K`~M~, &lt;for the CIE 1988 modified 2° spectral luminous efficiency function
+      for photopic vision&gt; &lt;pour la fonction d''efficacité lumineuse relative
+      spectrale de 2° pour vision photopique (CIE 1988 modifiée)&gt;'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 44e8da52-ac3f-59d4-8daf-646e1992bcec
+status: valid

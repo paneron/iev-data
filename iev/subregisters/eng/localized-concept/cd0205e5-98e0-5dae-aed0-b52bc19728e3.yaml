@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: maximum allowed value given by the CIE Glare Rating system
+  examples: []
+  id: 845-22-106
+  language_code: eng
+  notes:
+  - See also CIE 112-1994, _Glare Evaluation System for Use within Outdoor Sports-
+    and Area Lighting_.
+  - The glare rating limit has unit one.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: glare rating limit
+    normative_status: preferred
+    type: expression
+  - designation: GR~L~
+    type: expression
+  - designation: '`R`~G,L~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: cd0205e5-98e0-5dae-aed0-b52bc19728e3
+status: valid

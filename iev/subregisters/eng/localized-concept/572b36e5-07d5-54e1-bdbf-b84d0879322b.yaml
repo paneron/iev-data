@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: tensor of the second order defined by a symmetric bilinear form `f (
+    U , V ) = f ( V , U )`
+  examples: []
+  id: 102-03-42
+  language_code: eng
+  notes:
+  - The components of a symmetric tensor are such that `T_((i j)) = T_((j i))`. An
+    example is the tensor product of a vector by itself.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: symmetric tensor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 572b36e5-07d5-54e1-bdbf-b84d0879322b
+status: valid

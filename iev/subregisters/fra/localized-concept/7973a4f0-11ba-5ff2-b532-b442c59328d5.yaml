@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: Mode de Protection dans lequel les parties susceptibles d'enflammer
+    une atmosphère explosive gazeuse sont en position fixe et sont complètement noyées
+    dans un matériau de remplissage de telle sorte que l'inflammation d'une atmosphère
+    explosive gazeuse environnante soit empêchée
+  examples: []
+  id: 426-07-01
+  language_code: fra
+  notes:
+  - Ce Mode de Protection ne peut pas empêcher la pénétration de l'atmosphère explosive
+    gazeuse environnante dans le matériel et les composants et l'inflammation par
+    les circuits. Cependant, du fait des petits volumes libres dans le matériau de
+    remplissage et du fait de l'extinction d'une flamme qui pourrait se propager à
+    travers les cheminements dans le matériau de remplissage, une explosion externe
+    est empêchée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: remplissage pulvérulent "q"
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7973a4f0-11ba-5ff2-b532-b442c59328d5
+status: valid

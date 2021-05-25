@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-11-01
+  definition: state of helium which, in the pressure vs. temperature curve, is represented
+    by the region surrounded by the melting curve, the vapour pressure curve, and
+    a line (`λ` line) which connects two points, upper `λ` point (1,76 K and 3,0 MPa)
+    and lower `λ` point (2,18 K and 5,0 kPa)
+  examples: []
+  id: 815-15-18
+  language_code: eng
+  notes:
+  - 'Saturated superfluid helium: superfluid helium which exists on the vapour pressure
+    curve below lower `λ` point in the pressure vs. temperature curve.'
+  - 'Pressurized superfluid helium: superfluid helium which exists above the vapour
+    pressure curve below lower `λ` point in the pressure vs. temperature curve.'
+  - Superfluid helium has very small viscosity and large thermal conductivity.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: superfluid helium
+    normative_status: preferred
+    type: expression
+  - designation: He II
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: e26c02be-5e60-5014-8ee8-e0fafb4756c9
+status: valid

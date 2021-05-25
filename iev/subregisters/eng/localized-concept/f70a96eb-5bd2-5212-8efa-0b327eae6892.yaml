@@ -1,0 +1,48 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a unit used to express the ratio of two powers by ten times the decimal
+    logarithm of this ratio
+  examples: []
+  id: 702-07-02
+  language_code: eng
+  notes:
+  - '1 – The decibel may also be used to express the ratio of two field quantities.
+    To obtain the same numerical value as for the corresponding power ratio, the logarithm
+    of the field quantity ratio is multiplied by the factor 20, assuming that the
+    impedances are equal.
+
+
+    If `P`~1~ and `P`~2~ are two powers, their ratio expressed in decibels is:
+
+
+    `10 lg ((P_1))/((P_2))`
+
+
+    The relation between a field quantity ratio and the corresponding power ratio
+    is dependent on the impedances.
+
+
+    If `P`~1~ and `P`~2~ represent the powers dissipated by currents `I`~1~ and `I`~2~
+    in resistances `R`~1~ and `R`~2~, then:
+
+
+    `10 lg ((P_1))/((P_2)) = 10 lg ((I_1^2))/((I_2^2)) ((R_1))/((R_2)) = 20 lg ((I_1))/((I_2))
+    + 10 lg ((R_1))/((R_2))`'
+  - 2 – Guidance for the use of the decibel and appropriate symbols to represent the
+    ratios of various quantities is given in CCIR Recommendation 574, in CCITT Recommendation
+    B.12, and in IEC publication 27-3.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: decibel
+    normative_status: preferred
+    type: expression
+  - designation: dB
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: f70a96eb-5bd2-5212-8efa-0b327eae6892
+status: valid

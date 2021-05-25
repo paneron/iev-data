@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: subject being considered
+  examples: []
+  id: 192-01-01
+  language_code: eng
+  notes:
+  - The item may be an individual part, component, device, functional unit, equipment,
+    subsystem, or system.
+  - The item may consist of hardware, software, people or any combination thereof.
+  - The item is often comprised of elements that may each be individually considered.
+    See sub item ({{192-01-02, IEV:192-01-02}}) and indenture level ({{192-01-05,
+    IEV:192-01-05}}).
+  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) identified
+    the term “entity” as an English synonym, which is not true for all applications.
+  - The definition for item in IEC 60050-191:1990 (now withdrawn; replaced by IEC
+    60050-192:2015) is a description rather than a definition. This new definition
+    provides meaningful substitution throughout this document. The words of the former
+    definition form new note 1.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: item
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: c8a2a3f4-7626-5f76-a6ec-a14aa0d0d196
+status: valid

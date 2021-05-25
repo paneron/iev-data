@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: pour un point de fonctionnement et une fréquence donnés, quotient de
+    la composante fondamentale du courant dans la connexion accessible d'une électrode
+    par la tension sinusoïdale appliquée à cette connexion pour engendrer le courant,
+    les potentiels de toutes les autres connexions étant maintenus constants
+  examples: []
+  id: 531-17-04
+  language_code: fra
+  notes:
+  - Pour les amplitudes infinitésimales, c'est l'inverse de l'impédance d'électrode.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: admittance d'électrode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: b8db5e77-4f60-53c5-8180-f972825d5a60
+status: valid

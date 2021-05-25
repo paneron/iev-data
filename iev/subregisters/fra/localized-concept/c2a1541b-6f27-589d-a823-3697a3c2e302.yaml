@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: élément de la matrice de répartition
+  examples: []
+  id: 726-07-13
+  language_code: fra
+  notes:
+  - Les indices j et i de chaque facteur de répartition S~ij~ se rapportent respectivement
+    á un accès d'entrée et à un accès de sortie.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de répartition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: paramètre de répartition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: c2a1541b-6f27-589d-a823-3697a3c2e302
+status: valid

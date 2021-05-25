@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: semiconductor device that is specified to perform an elementary function
+    and that is not divisible into separate components functional in themselves
+  examples: []
+  id: 521-04-02
+  language_code: eng
+  notes:
+  - There is no clear delimitation possible between discrete devices and integrated
+    circuits. In principle, a discrete device consists of a single circuit element
+    only. However, a device sold and specified as a discrete device may internally
+    consist of more than one circuit element.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: discrete (semiconductor) device
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-05-01
+id: a1ebedda-4fb7-5493-9562-aeb43972a634
+status: valid

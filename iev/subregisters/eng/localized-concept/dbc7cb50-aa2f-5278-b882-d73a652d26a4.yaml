@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for any element of a set in which an addition with a neutral element
+    is defined, the unique element of the set, if it exists, such that the sum of
+    the two elements is the neutral element
+  examples: []
+  id: 102-01-14
+  language_code: eng
+  notes:
+  - In English, the term "negative" applies in particular to numbers and matrices,
+    whereas the term "opposite" is used for vectors and tensors.
+  - The negative of element `a` is denoted by −`a`, and inversely.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: negative
+    normative_status: preferred
+    part_of_speech: noun
+    type: expression
+  - designation: opposite
+    part_of_speech: noun
+    type: expression
+dateAccepted: 2008-08-01
+id: dbc7cb50-aa2f-5278-b882-d73a652d26a4
+status: valid

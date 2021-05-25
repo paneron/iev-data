@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: produit de l'étendue géométrique et de l'indice de réfraction au carré
+    d'un milieu de propagation du faisceau
+  examples: []
+  id: 845-21-048
+  language_code: fra
+  notes:
+  - L'étendue optique est invariante et reste constante lorsque le faisceau se propage
+    par des milieux non diffuseurs successifs.
+  - Voir aussi "<a href="IEV845-21-047">étendue géométrique</a>".
+  - L'étendue optique est exprimée en mètre carré multipliée par le stéradian (m^2^·sr).
+  reviewDecisionEvent: published
+  terms:
+  - designation: étendue optique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: étendue
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 11b7025b-d2b6-5a0a-bf79-78cfda5713c1
+status: valid

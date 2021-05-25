@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: for a particle, its mass in an inertial frame where that particle has
+    zero speed
+  examples: []
+  id: 113-03-04
+  language_code: eng
+  notes:
+  - 1 When the speed of the particle is negligible compared to the speed of light,
+    the difference between mass and rest mass is also negligible.
+  - 2 The rest mass of particle X is denoted `m ( X)` or `m`~X~; for example `m`~e~
+    denotes the mass of electron.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rest mass
+    normative_status: preferred
+    type: expression
+  - designation: proper mass
+    normative_status: preferred
+    type: expression
+  - designation: '`m`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: f72f7be1-e6f9-5e59-af91-eb1b551e80f9
+status: valid

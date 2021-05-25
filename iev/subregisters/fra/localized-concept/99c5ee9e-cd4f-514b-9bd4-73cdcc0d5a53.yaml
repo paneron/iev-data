@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.39
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.39
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  definition: couche du modèle OSI ({{IEV 716-01-20, IEV:716-01-20}}) assurant le
+    routage entre les différents bus
+  examples: []
+  id: 811-37-72
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: couche de réseau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 99c5ee9e-cd4f-514b-9bd4-73cdcc0d5a53
+status: valid

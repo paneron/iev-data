@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur scalaire égale à la circulation d'une force *`F`* agissant
+    sur une particule le long d'un trajet donné C, soit `W` = ∫~C~ *`F`* ⋅ d*`r`*,
+    où d*`r`* est l'élément vectoriel d'arc
+  examples: []
+  id: 113-03-44
+  language_code: fra
+  notes:
+  - 1 Le travail est une énergie transférée d'une manière particulière et est donc
+    une grandeur de processus ({{113-04-10, IEV:113-04-10}}). Le travail `W` fait
+    varier de Δ`E` = `W` l'énergie interne `E` ({{113-04-20, IEV:113-04-20}}) d'un
+    corps, où `E` est une grandeur d'état ({{113-04-09, IEV:113-04-09}}).
+  - '2 Dans les applications, un travail est souvent calculé en intégrant une puissance
+    `P` dans le temps: `W = int_(t_1)^(t_2) P d t`.'
+  - 3 L'unité SI cohérente de travail est le joule, J.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: travail
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 85dbc3b2-b47d-574c-a82b-709a2e09a7da
+status: valid

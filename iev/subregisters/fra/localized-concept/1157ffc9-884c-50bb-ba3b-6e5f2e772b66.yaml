@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: 'relation algébrique donnant le nombre d`N` de particules d''un système
+    non quantifié dont les composantes de vitesse sont comprises respectivement dans
+    les intervalles (`u`, `u` + d`u`), (`v`, `v` + d`v`), (`w`, `w` + d`w`) : `d N
+    = A * exp ((- m ( u^2 + v^2 + w^2 )))/((2 k T)) d u * d v * d w` où `A = N (m)/(((
+    2 pi * k T )))^(3 // 2)` `N` désigne le nombre total de particules `m` la masse
+    d''une particule `T` la température thermodynamique `k` la constante de Boltzmann'
+  examples: []
+  id: 521-01-05
+  language_code: fra
+  notes:
+  - d`N`/`N` représente la probabilité pour qu'une particule ait ses composantes de
+    vitesse comprises dans les intervalles considérés.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi de distribution des vitesses de Maxwell-Boltzmann
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: 1157ffc9-884c-50bb-ba3b-6e5f2e772b66
+status: valid

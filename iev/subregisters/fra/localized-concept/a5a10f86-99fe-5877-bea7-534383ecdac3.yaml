@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1185 (2)
+      link: https://www.iso.org/standard/50518.html
+      original: ISO/IEC/IEEE 24765:2010, <i>Ingénierie des systèmes et du logiciel
+        – Vocabulaire</i>, 3.1185 (2). Cette source n'existe que dans la langue anglaise.
+      ref: ISO/IEC/IEEE 24765:2010
+      relationship:
+        type: identical
+  definition: reprise sur erreur dans laquelle un système, un programme, une base
+    de données ou une autre ressource du système est rétabli dans un nouvel état non
+    occupé antérieurement lui permettant d'accomplir les fonctions requises
+  examples: []
+  id: 192-10-18
+  language_code: fra
+  notes:
+  - La reprise sur erreur par progression est utilisée dans un logiciel d’exploitation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: reprise sur erreur par progression
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: récupération par progression
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a5a10f86-99fe-5877-bea7-534383ecdac3
+status: valid

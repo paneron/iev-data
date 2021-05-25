@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{angle, IEV:102-04-14}} de deux {{droites, IEV:102-04-02}} respectivement
+    {{perpendiculaires, IEV:102-04-09}} à chacun de deux {{plans, IEV:102-04-05}}'
+  examples: []
+  id: 102-04-57
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: entre deux plans
+  - designation: angle dièdre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 762d3165-5166-5097-8c99-d7318a415b75
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2004-04-01
+  definition: batterie d'accumulateurs dans laquelle les éléments sont fermés mais
+    munis d'une soupape qui permet l'échappement des gaz lorsque la pression interne
+    excède une valeur prédéterminée
+  examples: []
+  id: 482-05-15
+  language_code: fra
+  notes:
+  - L’élément ou la batterie ne peuvent normalement pas recevoir d’addition à leur
+    électrolyte.
+  reviewDate: 2004-04-01
+  reviewDecisionDate: 2004-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: batterie étanche à soupapes
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: VRLA
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-04-01
+id: afe05d3e-9a91-523c-a343-077e422ad5f9
+status: valid

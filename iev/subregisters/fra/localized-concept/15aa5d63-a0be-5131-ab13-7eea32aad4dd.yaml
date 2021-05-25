@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: éblouissement produit par des réflexions, particulièrement lorsque les
+    images réfléchies apparaissent dans la même direction que l'objet observé, ou
+    dans une direction voisine
+  examples: []
+  id: 845-22-100
+  language_code: fra
+  notes:
+  - Le terme "éblouissement réfléchi" n'est plus usité.
+  - Cet article était numéroté 845-02-54 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: éblouissement par réflexion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: éblouissement réfléchi
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 15aa5d63-a0be-5131-ab13-7eea32aad4dd
+status: valid

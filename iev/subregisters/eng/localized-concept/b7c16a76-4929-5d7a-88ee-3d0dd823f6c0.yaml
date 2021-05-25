@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: change in radiant energy with time `Phi_e = ((d Q_e))/((d t))` where
+    `Q`~e~ is the radiant energy emitted, transferred or received, and `t` is time
+  examples: []
+  id: 845-21-038
+  language_code: eng
+  notes:
+  - The corresponding photometric quantity is "luminous flux". The corresponding quantity
+    for photons is "photon flux".
+  - The term "radiant flux" is the preferred term for most radiometric applications,
+    with the notable exception of laser radiometry where the term "radiant power"
+    is more commonly used.
+  - The radiant flux is expressed in watt (W).
+  - This entry was numbered 845-01-24 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiant flux
+    normative_status: preferred
+    type: expression
+  - designation: radiant power
+    type: expression
+  - designation: '`Φ`~e~
+
+      `P`~e~
+
+      `Φ`
+
+      `P`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: b7c16a76-4929-5d7a-88ee-3d0dd823f6c0
+status: valid

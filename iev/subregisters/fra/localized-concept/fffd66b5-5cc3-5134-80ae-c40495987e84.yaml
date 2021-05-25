@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 725-12-26
+      original: 725-12-26 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: liaison radioélectrique entre une station émettrice et une station réceptrice
+    par l'intermédiaire d'un ou de plusieurs satellites et parfois d'une ou de plusieurs
+    stations terriennes
+  examples: []
+  id: 713-02-21
+  language_code: fra
+  notes:
+  - Le Règlement des radiocommunications de l'UIT limite le sens du terme français
+    "liaison par satellite" à une liaison unisatellite.
+  - Les stations d'extrémité d'une liaison par satellite peuvent être deux stations
+    terriennes, deux stations spatiales ou une station terrienne et une station spatiale.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: liaison par satellite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: fffd66b5-5cc3-5134-80ae-c40495987e84
+status: valid

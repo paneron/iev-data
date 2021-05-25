@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: nombre caractérisant un ensemble de mesures à partir desquelles on peut
+    faire une estimation d'état d'un réseau `r = (m)/((2 n - 1)) - 1` où `r` est le
+    facteur de redondance `m` est le nombre de mesures dans le réseau `n` est le nombre
+    de noeuds du réseau
+  examples: []
+  id: 603-02-40
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de redondance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 080b3057-15f0-5982-b0cf-b54a64f99dd2
+status: valid

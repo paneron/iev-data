@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: état d'un {{système à pile à combustible, IEV:485-09-01}} étant à une
+    température de fonctionnement suffisante et dans un mode opérationnel tel que,
+    avec une puissance de sortie électrique nulle, le système à pile à combustible
+    est capable d'être rapidement commuté dans un {{mode opérationnel, IEV:485-21-02}}
+    avec une puissance électrique active importante en sortie
+  examples: []
+  id: 485-21-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: état de pré-génération
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: opération de pré-génération
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 05bbd7c2-ff50-58cb-833c-b806e6970220
+status: valid

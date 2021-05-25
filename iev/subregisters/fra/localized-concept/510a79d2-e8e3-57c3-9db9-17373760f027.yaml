@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: chacune des `n` grandeurs scalaires `Q_1 , Q_2 , ... , Q_n` dans la
+    représentation d'une grandeur vectorielle *`Q`* comme la combinaison linéaire
+    `Q_1 a_1 + Q_2 a_2 + ... + Q_n a_n` des vecteurs de base `a_1 , a_2 , ... , a_n`
+  examples: []
+  id: 102-03-22
+  language_code: fra
+  notes:
+  - 'Au lieu de traiter chaque coordonnée comme une grandeur (c''est-à-dire la produit
+    de sa valeur numérique par l''unité de mesure), on peut exprimer la grandeur vectorielle
+    *`Q`* comme le produit d''un vecteur de valeurs numériques par l''unité:
+
+
+    `Q = { Q_1 } Q e_1 + { Q_2 } Q e_2 + { Q_3 } Q e_3 = ( { Q_1 } e_1 + { Q_2 } e_2
+    + { Q_3 } e_3 ) Q`
+
+
+    où `{ Q_1 } , { Q_2 } , { Q_3 }` sont des valeurs numériques, `Q` est l''unité
+    et `e_1 , e_2 , e_3` sont les vecteurs unitaires. Les grandeurs tensorielles peuvent
+    être traitées de manière analogue.'
+  - Les composantes d'une grandeur vectorielle sont transformées par un changement
+    de coordonnées de la même manière que les coordonnées d'un rayon vecteur.
+  - Le terme «coordonnée» est généralement employé lorsque la grandeur vectorielle
+    est un rayon vecteur. Cet usage est compatible avec la définition des coordonnées
+    d'un vecteur en mathématiques ({{IEV 102-03-09, IEV:102-03-09}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: composante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une grandeur vectorielle
+dateAccepted: 2018-11-17
+id: 510a79d2-e8e3-57c3-9db9-17373760f027
+status: valid

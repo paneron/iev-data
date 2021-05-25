@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: '3.15'
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.15
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: champ électrique dont le gradient de tension entre électrodes n'est
+    pas essentiellement constant
+  examples: []
+  id: 442-09-03
+  language_code: fra
+  notes:
+  - La condition de champ hétérogène d'une configuration point par rapport à une électrode
+    plane est le cas le plus contraignant vis-à-vis de la tenue aux surtensions et
+    est représenté par le cas A dans l'IEC 60664-1. Elle est représentée par une électrode
+    point ayant un rayon de 30 μm et une surface plane de 1 m × 1 m.
+  - Pour les fréquences dépassant 30 kHz, le champ est considéré comme étant non homogène,
+    lorsque le rayon de courbure des parties conductrices est inférieur à 20 % de
+    la distance d’isolement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ électrique hétérogène
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: champ électrique non uniforme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2af47579-171a-565a-b9ad-1eeb2b1ad653
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: à un accès d'un réseau, grandeur complexe associée à l'onde incidente
+  examples: []
+  id: 131-14-33
+  language_code: fra
+  notes:
+  - Les variables de répartition sont des combinaisons linéaires des phaseurs représentant
+    la tension et le courant. Elles dépendent d'une impédance de référence choisie
+    à chaque accès.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variable de répartition incidente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: grandeur d'onde incidente
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 283b7858-46a3-5e6e-a7d3-20661c302185
+status: valid

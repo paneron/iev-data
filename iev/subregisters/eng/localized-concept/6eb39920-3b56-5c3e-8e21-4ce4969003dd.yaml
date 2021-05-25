@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: maximum continuous electric current as specified by the manufacturer,
+    at which the {{fuel cell power system, IEV:485-09-01}} has been designed to operate
+  examples: []
+  id: 485-12-02
+  language_code: eng
+  notes:
+  - The rated current is expressed in A.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated current
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: 6eb39920-3b56-5c3e-8e21-4ce4969003dd
+status: valid

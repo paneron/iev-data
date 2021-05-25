@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: celle des deux voies de transmission constituant un circuit de télécommunication
+    qui achemine les signaux quittant un point donné
+  examples: []
+  id: 704-04-04
+  language_code: fra
+  notes:
+  - Les qualifications émission et réception ont généralement un caractère localisé;
+    une voie considérée comme une voie d'émission en un point peut être considérée
+    comme voie de réception en un autre point.
+  - En téléphonie les qualificatifs anglais "go" et "transmit" peuvent être considérés
+    comme synonymes. Dans certaines applications, comme la transmission télévisuelle,
+    on n'utilise que la voie d'émission. Dans ce cas, le ternie anglais "go channel"
+    n'est pas employé.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: voie d'émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: eea9b021-6fd4-52bf-8389-9fc5a9b87512
+status: valid

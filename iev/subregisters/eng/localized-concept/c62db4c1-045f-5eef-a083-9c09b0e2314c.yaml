@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.2
+      link: https://webstore.iec.ch/publication/6365
+      original: IEC 62047-22:2014, 3.1.2
+      ref: IEC 62047-22:2014
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: engineering strain value at which the electrical {{resistance, IEV:131-12-04}}
+    starts to exceed a predefined limit
+  examples: []
+  id: 523-03-20
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: elongation at electrical failure
+    normative_status: preferred
+    type: expression
+  - designation: '`A`~telic~'
+    international: true
+    type: symbol
+dateAccepted: 2018-12-01
+id: c62db4c1-045f-5eef-a083-9c09b0e2314c
+status: valid

@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: grandeur vectorielle dont la norme est le quotient du flux thermique
+    d`Φ` traversant un élément de surface par l'aire d`A` de cet élément et dont la
+    direction *`e`*~`φ`~ est celle de la propagation de la chaleur, soit `phi = ((d
+    Phi))/((d A)) e_(phi)`
+  examples: []
+  id: 113-04-37
+  language_code: fra
+  notes:
+  - 1 En un point fixe d'un milieu, la direction de propagation de la chaleur est
+    opposée au gradient de température. En un point d'une surface séparant deux milieux
+    de températures différentes, la direction de propagation de la chaleur est normale
+    à la surface, orientée vers les plus basses températures.
+  - 2 L'unité SI cohérente de flux thermique surfacique est le watt par mètre carré,
+    W/m^2^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux thermique surfacique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité de flux thermique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 20a2c521-f6c0-584e-aa52-d70a77a0221d
+status: valid

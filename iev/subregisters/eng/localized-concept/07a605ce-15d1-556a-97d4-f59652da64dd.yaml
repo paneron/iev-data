@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'graphical representation in polar coordinates of the amplitude reflection
+    factor `r` for a lossless uniform transmission line with characteristic impedance
+    `Z`~0~: `underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z) + Z_0)) =
+    ((underset(_)(Z) // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))` in terms of the complex
+    impedance `Z` by two families of orthogonal circles on each of which either the
+    resistance `R` or the reactance `X` has a constant value, where `Z` = `R` + j`X`
+    is the complex impedance in the direction of propagation of the incident wave
+    at the point at which the amplitude reflection factor is evaluated'
+  examples: []
+  id: 726-19-01
+  language_code: eng
+  notes:
+  - The Smith chart may be used with impedances `Z`, admittances `underset(_)(Y) =
+    (1)/(underset(_)(Z))`, normalized impedances `(underset(_)(Z))/((Z_0))` or normalized
+    admittances `(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))`
+  - The Smith chart is usually restricted to positive values of `R`, in which case
+    it is bounded by an outer circle where the magnitude of the amplitude reflection
+    factor is unity.
+  - The Smith chart allows the conversion by direct reading of the amplitude reflection
+    factor into the real and imaginary parts of the impedance or admittance and vice
+    versa; the representation also simplifies the transformation of impedance or admittance
+    from one point to another on the same transmission line.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Smith chart
+    normative_status: preferred
+    type: expression
+  - designation: Smith diagram
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 07a605ce-15d1-556a-97d4-f59652da64dd
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: component of a {{fuel cell, IEV:485-08-01}}, usually a {{polymer electrolyte
+    fuel cell, IEV:485-08-08}} or a {{direct methanol fuel cell, IEV:485-08-05}},
+    comprising an electrolyte membrane with {{gas diffusion electrodes, IEV:485-02-02}}
+    on each side or of a {{catalyst-coated membrane, IEV:485-04-03}} with a {{gas
+    diffusion layer, IEV:485-04-05}} on each side
+  examples: []
+  id: 485-04-01
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: membrane electrode assembly
+    normative_status: preferred
+    type: expression
+  - designation: MEA
+    type: expression
+dateAccepted: 2020-02-01
+id: 4ad68cfd-ffa1-55e1-8259-ba8c967bc677
+status: valid

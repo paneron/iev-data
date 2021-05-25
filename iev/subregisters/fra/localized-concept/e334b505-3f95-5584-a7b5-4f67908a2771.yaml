@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.11'
+      link: https://webstore.iec.ch/publication/7002
+      original: IEC 62427:2007, 3.11
+      ref: IEC 62427:2007
+      relationship:
+        type: identical
+  definition: marge entre le niveau des émissions par train et la susceptibilité réelle
+    du circuit de voie
+  examples: []
+  id: 821-03-48
+  language_code: fra
+  notes:
+  - Le coefficient de sécurité s’applique à la sécurité ou à la disponibilité selon
+    qu’il s’agit d’un mécanisme de défaut contraire ou non contraire à la sécurité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de sécurité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e334b505-3f95-5584-a7b5-4f67908a2771
+status: valid

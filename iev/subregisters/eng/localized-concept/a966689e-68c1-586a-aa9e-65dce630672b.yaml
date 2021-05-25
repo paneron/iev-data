@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'scalar potential `V` of the irrotational vector `( E + ((del A))/((del
+    t)) )`, where `*E*` is the electric field strength, `*A*` is a magnetic vector
+    potential and `t` is the time: `- grad V = E + ((del A))/((del t))`'
+  examples: []
+  id: 121-11-25
+  language_code: eng
+  notes:
+  - The electric potential is not unique since any constant scalar quantity can be
+    added to a given electric potential without changing its gradient.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric potential
+    normative_status: preferred
+    type: expression
+  - designation: '`V`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: a966689e-68c1-586a-aa9e-65dce630672b
+status: valid

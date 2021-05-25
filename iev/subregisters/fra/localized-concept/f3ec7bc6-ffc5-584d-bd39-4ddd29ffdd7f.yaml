@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: pour un biporte linéaire, quotient du phaseur représentant une grandeur
+    à l'accès de sortie par le phaseur représentant une grandeur de même nature à
+    l'accès d'entrée
+  examples: []
+  id: 131-14-18
+  language_code: fra
+  notes:
+  - Selon la nature de la grandeur, des exemples sont un rapport de transfert de la
+    tension en circuit ouvert, un rapport de transfert du courant en court-circuit.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport de transfert direct
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport de transfert
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: f3ec7bc6-ffc5-584d-bd39-4ddd29ffdd7f
+status: valid

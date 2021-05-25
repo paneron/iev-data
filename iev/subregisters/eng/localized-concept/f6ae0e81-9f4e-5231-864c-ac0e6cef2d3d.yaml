@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.26
+      link: https://webstore.iec.ch/publication/7229
+      original: IEC 62589:2010, 3.2.26
+      ref: IEC 62589:2010
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: conventional representation of the current demand to a converter group
+  examples: []
+  id: 811-28-38
+  language_code: eng
+  notes:
+  - The load cycle is expressed in per unit of the rated currents.
+  - The load cycle shows the repetitive variation of the loads with time and, hence,
+    the overloads and underloads the converter group is expected to carry, as well
+    as, for the transformers, the duration and intervals assumed.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load cycle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: f6ae0e81-9f4e-5231-864c-ac0e6cef2d3d
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: reciprocal of the noise equivalent power, `Φ`~m~ `D = (1)/((Phi_m))`
+  examples: []
+  id: 845-25-072
+  language_code: eng
+  notes:
+  - The detectivity is expressed in watt to the power minus one (W^−1^).
+  - This entry was numbered 845-05-65 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: detectivity
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: '`D`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: e2843cec-75b2-5099-96cc-0164c93261d4
+status: valid

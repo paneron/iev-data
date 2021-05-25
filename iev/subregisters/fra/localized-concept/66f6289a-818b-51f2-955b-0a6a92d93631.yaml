@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: les deux positions de part et d'autre d'un noeud, le long d'une ligne
+    de mesure fendue, dans lesquelles la puissance extraite par la sonde de couplage
+    est le double de celle extraite à ce noeud
+  examples: []
+  id: 726-19-09
+  language_code: fra
+  notes:
+  - Afin de mesurer avec plus de précision un rapport d'onde stationnaire très élevé,
+    le point milieu entre ces deux points est utilisé pour déterminer la position
+    exacte du minimum, et le rapport d'onde stationnaire est déduit de la distance
+    entre ces deux points.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: points de puissance minimale doublée
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2021-01-01
+id: 66f6289a-818b-51f2-955b-0a6a92d93631
+status: valid

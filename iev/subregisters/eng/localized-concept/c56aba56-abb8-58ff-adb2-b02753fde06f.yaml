@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.50'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.50 of IEC 62127-1
+      ref: IEC 62127-1
+      relationship:
+        type: identical
+  dateAmended: 2011-01-01
+  definition: time integral of the square of the instantaneous acoustic pressure at
+    a particular point in an acoustic field integrated over the acoustic pulse waveform
+  examples: []
+  id: 802-01-06
+  language_code: eng
+  notes: []
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse-pressure-squared integral
+    normative_status: preferred
+    type: expression
+  - designation: '`ppsi`'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: c56aba56-abb8-58ff-adb2-b02753fde06f
+status: valid

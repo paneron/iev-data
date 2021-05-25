@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: programme d'exécution prévue à intervalles de temps équivalents des
+    opérations de maintenance (nettoyage des luminaires, nettoyage des surfaces de
+    locaux et remplacement des lampes)
+  examples: []
+  id: 845-29-143
+  language_code: fra
+  notes:
+  - Généralement, l'intervalle de temps dédié au nettoyage des surfaces de locaux
+    est un multiple de l'intervalle de temps de remplacement des lampes, ce dernier
+    étant à son tour un multiple de l'intervalle de temps de nettoyage de luminaires.
+  reviewDecisionEvent: published
+  terms:
+  - designation: programme de maintenance à intervalles équivalents
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 77cea75b-f8a8-5bbd-9190-e4ebf8233b75
+status: valid

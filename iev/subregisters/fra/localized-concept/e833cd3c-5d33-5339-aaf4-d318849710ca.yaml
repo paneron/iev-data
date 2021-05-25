@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 1.6.3
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 1.6.3
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{normalisation, IEV:901-01-01}} qui se situe au niveau d''un pays
+    déterminé'
+  examples: []
+  id: 901-01-09
+  language_code: fra
+  notes:
+  - Dans un pays ou une division territoriale d'un pays, la normalisation peut également
+    se faire sur une base sectorielle (par exemple ministères), au niveau local, au
+    niveau des associations et des entreprises dans l'industrie et les usines, ateliers
+    et bureaux individuels.
+  reviewDecisionEvent: published
+  terms:
+  - designation: normalisation nationale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e833cd3c-5d33-5339-aaf4-d318849710ca
+status: valid

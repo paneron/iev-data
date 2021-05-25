@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: intervalle de temps qui sépare l'apparition d'un événement au poste
+    émetteur de la présentation de l'information correspondante au poste récepteur
+  examples: []
+  id: 371-08-15
+  language_code: fra
+  notes:
+  - Le temps de transfert total comprend les délais dus au dispositif périphérique
+    d'entrée au poste émetteur, et au dispositif de sortie correspondant au poste
+    récepteur.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de transfert total
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 469aaacd-c36b-5d48-af42-bd344c4594f4
+status: valid

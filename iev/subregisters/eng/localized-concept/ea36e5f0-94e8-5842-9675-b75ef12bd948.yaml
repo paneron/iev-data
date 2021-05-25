@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 221-02-36
+      original: 221-02-36 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: coercive field strength in a substance when either the magnetic flux
+    density or the magnetic polarization and magnetization is brought from its value
+    at magnetic saturation to zero by monotonic reduction of the applied magnetic
+    field strength
+  examples: []
+  id: 121-12-69
+  language_code: eng
+  notes:
+  - 'The quantity which is brought to zero should be stated, and the appropriate symbol
+    used: `HcB`, `HcJ` or `HcM`  for the coercivity relating to the magnetic flux
+    density, the magnetic polarization or the magnetization respectively, where `HcJ`
+    = `HcM`.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coercivity
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: ea36e5f0-94e8-5842-9675-b75ef12bd948
+status: valid

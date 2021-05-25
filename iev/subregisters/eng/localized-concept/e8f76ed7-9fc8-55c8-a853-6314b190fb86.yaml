@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: ratio of the number of dissociation events to the maximum number of
+    theoretically possible dissociation events
+  examples: []
+  id: 114-01-09
+  language_code: eng
+  notes:
+  - 'Dissociation may occur stepwise, as in the following example:
+
+
+    H~3~PO~4~ → H^+^+ H~2~(PO~4~)^−^
+
+
+    H~3~PO~4~ → 2H^+^+ H(PO~4~)^−2^
+
+
+    H~3~PO~4~ → 3H^+^+ (PO~4~)^−3^
+
+
+    Dissociation degrees are 1/3, 2/3, and 1 for the three reactions above, respectively.'
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: degree of dissociation
+    normative_status: preferred
+    type: expression
+  - designation: '`α`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: e8f76ed7-9fc8-55c8-a853-6314b190fb86
+status: valid

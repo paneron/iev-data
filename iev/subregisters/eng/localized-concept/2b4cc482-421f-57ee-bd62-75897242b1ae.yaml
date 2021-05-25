@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the width of a frequency band such that beyond its lower and upper limits
+    any spectral line or any power spectral density of the spectrum of a signal is
+    at least `x` dB lower than a reference level specified for the type of signal
+    considered
+  examples: []
+  id: 702-01-05
+  language_code: eng
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`x` dB bandwidth'
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 2b4cc482-421f-57ee-bd62-75897242b1ae
+status: valid

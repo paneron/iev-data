@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: start-up when the temperature of the {{fuel cell power system, IEV:485-09-01}}
+    is higher than ambient temperature but lower than its normal operating temperature
+    range
+  examples: []
+  id: 485-18-04
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: warm start
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: dc225a44-ff70-56c5-8909-a5c310d56f9f
+status: valid

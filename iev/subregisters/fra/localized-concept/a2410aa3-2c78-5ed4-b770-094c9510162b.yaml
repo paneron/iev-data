@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{onde électromagnétique, IEV:121-11-63}} dont l''énergie reste, au
+    cours de la propagation, confinée entre des surfaces ou au voisinage de surfaces,
+    par suite d''une variation brusque ou progressive des caractéristiques électromagnétiques
+    du milieu dans les directions normales à ces surfaces'
+  examples: []
+  id: 705-04-61
+  language_code: fra
+  notes:
+  - Une onde électromagnétique guidée peut comporter plusieurs {{modes électromagnétiques,
+    IEV:705-01-12}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: onde électromagnétique guidée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: onde guidée
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a2410aa3-2c78-5ed4-b770-094c9510162b
+status: valid

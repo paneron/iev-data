@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: contact fermé lorsque le relais est à l'état de travail et ouvert lorsque
+    le relais est à l'état de repos
+  examples: []
+  id: 444-04-17
+  language_code: fra
+  notes: []
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contact de travail
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: contact à fermeture
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 8994bbf7-d919-57a8-ad49-c5b2f383f9ec
+status: valid

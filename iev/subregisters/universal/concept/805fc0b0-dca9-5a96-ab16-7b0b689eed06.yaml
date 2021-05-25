@@ -1,0 +1,25 @@
+data:
+  identifier: 103-01-01
+  localizedConcepts:
+    ara: 8a973c53-28a8-5bd8-8058-bf5304844e57
+    deu: 8f918f8f-ef2f-5bf6-9e5a-ffd22b57b174
+    eng: ad7c0467-d2dd-566b-b067-098fe85b94b5
+    fra: d74d11b0-4bdb-536f-829a-6ea1196f3f2c
+    ita: ca8e850e-545b-5b6c-b551-30f12c9b34df
+    jpn: d1c41c34-90bd-52ef-843b-f3bf094948e7
+    kor: c7d0a45c-b7f1-599c-93be-23f7437e687a
+    pol: 57abc860-2a21-5c6b-8122-5740ab938987
+    por: 7e8d7fc6-d3e6-52fe-acaf-a32d62521771
+    spa: 3fedc9cd-d4d3-5802-8235-90d2c95a6caf
+    srp: 913dfd5f-673a-5a00-9c52-e3713bf3329f
+    swe: 40bd4fa8-385a-5299-a38b-7173c7c00e2e
+    zho: a2e08059-5ac8-5902-8bb2-68b609289ef6
+dateAccepted: 2018-11-17
+id: 805fc0b0-dca9-5a96-ab16-7b0b689eed06
+related:
+- ref:
+    id: 103-01-01
+    source: IEV
+    version: 2009-12
+  type: supersedes
+status: valid

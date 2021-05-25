@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: passive two-terminal-pair network in which the output power at one port
+    is less than the input power at the other port and in which the ratio of the output
+    to the input voltages or currents is fixed
+  examples: []
+  id: 131-12-80
+  language_code: eng
+  notes:
+  - The attenuator as a two-port device is defined in IEC 60050-726.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ideal attenuator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 29793e01-b520-501e-ba1a-5dfb58dd7586
+status: valid

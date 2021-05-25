@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.3
+      link: https://webstore.iec.ch/publication/6241
+      original: IEC 61992-1:2006, 3.4.3
+      ref: IEC 61992-1:2006
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: circuit-breaker designed to make and break the current in an electric
+    circuit by means of the controlled conductivity of a semiconductor
+  examples: []
+  id: 811-29-42
+  language_code: eng
+  notes:
+  - There can be mechanical contacts associated with these semiconductor devices.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: semiconductor circuit-breaker
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: cba6edd9-b2ce-5631-af37-a5c8fac383a2
+status: valid

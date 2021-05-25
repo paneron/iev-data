@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: potential ignition source that is able to ignite an explosive atmosphere
+    when consideration is taken of when it occurs (i.e. in normal operation, expected
+    malfunction or rare malfunction)
+  examples: []
+  id: 426-28-01
+  language_code: eng
+  notes:
+  - This is important for establishing the EPL.
+  - An effective ignition source is a potential ignition source which can ignite the
+    explosive atmosphere if protective measures are not used.
+  - For example, the frictional heat that can be produced by a bearing is a possible
+    ignition source. This is an equipment-related ignition source if the piece of
+    equipment contains a bearing. If the energy that can be produced by the friction
+    in the bearing is capable of igniting an explosive atmosphere, then this is a
+    potential ignition source. Whether this potential ignition source is effective
+    depends on the likelihood that it will occur in a particular situation.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective ignition source
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: 63f85972-830c-57cd-9a41-08fd7b993fec
+status: valid

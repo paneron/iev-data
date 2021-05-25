@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aptitude à fonctionner tel que requis sans défaillance, pendant un intervalle
+    de temps donné et dans des conditions données
+  examples: []
+  id: 192-01-24
+  language_code: fra
+  notes:
+  - La durée de l’intervalle de temps peut être exprimée en unités appropriées à l’entité
+    concernée, par exemple, temps calendaire, cycles de fonctionnement, distance parcourue,
+    etc. Il convient de toujours énoncer clairement les unités.
+  - 'Les conditions données incluent les aspects ayant un impact sur la fiabilité,
+    tels que: le mode de fonctionnement, les niveaux de contrainte, les conditions
+    environnementales et la maintenance.'
+  - 'La fiabilité peut être quantifiée à l’aide de mesures définies dans la http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView&amp;Query=field+SearchFields+contains+192-05+and+field+Language=en&amp;SearchOrder=4&amp;SearchMax=0[Section
+    192-05, _Concepts liés à la fiabilité: mesures_].'
+  reviewDecisionEvent: published
+  terms:
+  - designation: fiabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 3d86bf2a-48fb-5288-8e64-796b9ce19233
+status: valid

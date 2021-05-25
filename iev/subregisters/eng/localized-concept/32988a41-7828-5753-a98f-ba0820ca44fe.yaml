@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: for a non-linear element with a sinusoidal input variable in steady
+    state of the output variable the frequency response obtained by taking only the
+    fundamental component of the output variable
+  examples: []
+  id: 351-45-50
+  language_code: eng
+  notes:
+  - The describing function may depend on the angular frequency and on the amplitude
+    of the input variable, or only on the amplitude of the input variable.
+  - This entry was numbered 351-24-42 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: describing function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 32988a41-7828-5753-a98f-ba0820ca44fe
+status: valid

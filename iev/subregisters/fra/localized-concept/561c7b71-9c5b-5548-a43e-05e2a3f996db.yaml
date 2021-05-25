@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: demi-angle au sommet du cône qui contient une partie spécifiée du faisceau
+    optique divergent émis par l'extrémité d'une fibre optique
+  examples: []
+  id: 731-03-83
+  language_code: fra
+  notes:
+  - L'angle de rayonnement est généralement défini soit par la distance angulaire
+    à partir de laquelle la puissance surfacique n'est plus qu'une fraction spécifiée
+    de sa valeur maximale sur l'axe, soit par le demi-angle au sommet du cône qui
+    contient une fraction spécifiée de la puissance rayonnée totale dans la région
+    de champ lointain.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle de rayonnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: angle de sortie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 561c7b71-9c5b-5548-a43e-05e2a3f996db
+status: valid

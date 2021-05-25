@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 161-07-15
+      original: IEV 161-07-15, modified
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2016-02-01
+  definition: point in an electric power system, electrically nearest to a particular
+    load, at which other loads are, or may be, connected
+  examples: []
+  id: 614-01-12
+  language_code: eng
+  notes:
+  - These loads can be either devices, equipment or systems, or distinct network users'
+    installations.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point of common coupling
+    normative_status: preferred
+    type: expression
+  - designation: PCC
+    type: expression
+dateAccepted: 2016-02-01
+id: a909e10e-4dfa-5421-adeb-644e82cbe3b7
+status: valid

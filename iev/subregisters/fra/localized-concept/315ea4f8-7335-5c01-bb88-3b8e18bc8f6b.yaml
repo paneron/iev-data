@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de l'intensité lumineuse, `I`, du rétroréflecteur dans la direction
+    d'observation, par l'éclairement, `E_( _|_ )`, d'un plan passant par le rétroréflecteur
+    et perpendiculaire à la direction de la lumière incidente `R = (I)/((E_( _|_ )))`
+  examples: []
+  id: 845-24-102
+  language_code: fra
+  notes:
+  - Le coefficient d'intensité lumineuse est exprimé en candela par lux (cd·lx^−1^).
+  - Cet article était numéroté 845-04-96 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'intensité lumineuse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un rétroréflecteur
+dateAccepted: 2018-11-17
+id: 315ea4f8-7335-5c01-bb88-3b8e18bc8f6b
+status: valid

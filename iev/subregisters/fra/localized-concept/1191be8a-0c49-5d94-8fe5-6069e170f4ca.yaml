@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble ordonné d'exactement `n` {{éléments binaires, IEV:171-02-10}},
+    traité comme un tout
+  examples:
+  - '{{Doublet, IEV:702-05-07}}, {{triplet, IEV:702-05-08}}, {{octet, IEV:171-02-12}}.'
+  id: 171-02-23
+  language_code: fra
+  notes:
+  - Le terme "`n`-uplet" et le terme anglais "`n`-bit byte" sont aussi employés pour
+    un concept générique où le nombre d’éléments n’est pas fixé explicitement (voir
+    {{IEV 171-02-22, IEV:171-02-22}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`n`-uplet'
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: exactement <i
+dateAccepted: 2018-11-17
+id: 1191be8a-0c49-5d94-8fe5-6069e170f4ca
+status: valid

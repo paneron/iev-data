@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: vector quantity equal to the integral of force *`F`* with respect to
+    time `t`, thus `I = int_(t_1)^(t_2) F d t` over a time interval [`t`~1~, `t`~2~]
+  examples: []
+  id: 113-03-20
+  language_code: eng
+  notes:
+  - 1 For a time interval &amp;lsqb;`t`~1~, `t`~2~&amp;rsqb;, impulse is equal to
+    the change of momentum *`p`*, thus *`I`* = *`p`*(`t`~2~) − *`p`*(`t`~1~) = Δ *`p`*.
+  - 2 In French, the term "impulsion" has also another meaning corresponding to English
+    "pulse".
+  - 3 The coherent SI unit of impulse is newton second, N⋅s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impulse
+    normative_status: preferred
+    type: expression
+  - designation: '*`I`*'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: b3484096-f9da-567b-a6a2-80463a95de2e
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-09-01
+  definition: '{{modulation, IEV:701-03-08}} in which each {{significant condition,
+    IEV:702-05-21}} of a digital {{modulating signal, IEV:702-06-04}} is represented
+    by a specified value of a characteristic quantity of the {{modulated signal, IEV:702-06-05}},
+    independently of the value assigned to the preceding {{signal element, IEV:702-05-01}}'
+  examples: []
+  id: 702-06-14
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation with a fixed reference
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-09-01
+id: 8408b880-2039-5b94-987b-04d1c8bd3ccf
+status: valid

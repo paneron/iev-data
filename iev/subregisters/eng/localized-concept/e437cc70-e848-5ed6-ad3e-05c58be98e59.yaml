@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: traffic which has used the resources of a given network but is for destinations
+    outside
+  examples: []
+  id: 715-07-19
+  language_code: eng
+  notes:
+  - The sources may be located outside or inside the network, which corresponds respectively
+    to transit traffic or originating outgoing traffic.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: outgoing traffic
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: e437cc70-e848-5ed6-ad3e-05c58be98e59
+status: valid

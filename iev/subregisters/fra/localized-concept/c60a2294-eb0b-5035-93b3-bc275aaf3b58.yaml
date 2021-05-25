@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre entier naturel associé à toute paire `i`, `j` de nombres entiers
+    naturels, égal à 1 si `i` = `j` et à 0 si `i` ≠ `j`
+  examples: []
+  id: 102-06-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: symbole de Kronecker
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: delta de Kronecker
+    gender: m
+    plurality: singular
+    type: expression
+  - designation: symbole delta de Kronecker
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c60a2294-eb0b-5035-93b3-bc275aaf3b58
+status: valid

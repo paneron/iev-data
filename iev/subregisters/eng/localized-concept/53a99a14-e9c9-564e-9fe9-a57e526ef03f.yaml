@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the transfer time for the case in which the primary signal to the telecontrol
+    transmitter is input at the most unfavourable moment with respect to the telecontrol
+    system
+  examples: []
+  id: 371-08-17
+  language_code: eng
+  notes:
+  - The maximum transfer time may occur within a cyclic system if information is input
+    just after scanning the corresponding input element or within a quiescent system
+    if information is input just after the start of transmission of another signal
+    block.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum transfer time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 53a99a14-e9c9-564e-9fe9-a57e526ef03f
+status: valid

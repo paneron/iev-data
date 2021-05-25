@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: luminance coefficient multiplied by the cube of the cosine of the angle
+    of incidence of the light on a point on a surface
+  examples: []
+  id: 845-21-103
+  language_code: eng
+  notes:
+  - 'The reduced luminance coefficient can be expressed by the equation
+
+
+    `r` = `q`(cos `ε`)^3^
+
+
+    ^
+
+
+    where^ `q` is the luminance coefficient in steradian to the power minus one (sr^−1^),
+    and `ε` is the angle of incidence in degree (°).'
+  - The angle of observation, `α`, affects the value of `r`. By convention this angle
+    is fixed at 1° for road lighting calculations.
+  - The reduced luminance coefficient is expressed in steradian to the power minus
+    one (sr^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reduced luminance coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`r`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 0439a43c-b0d0-5f6d-ac3a-45892890866a
+status: valid

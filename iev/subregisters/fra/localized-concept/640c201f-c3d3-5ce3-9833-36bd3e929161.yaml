@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '6.5'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 6.5
+      ref: IEC 62542:2013
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: conversion en monomères ou production de nouvelles matières par une
+    modification de la structure chimique des déchets polymères par craquage, gazéification
+    ou dépolymérisation, à l'exception de la {{valorisation énergétique, IEV:904-04-03}}
+    et de l'incinération
+  examples: []
+  id: 904-04-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: recyclage en matière première
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: recyclage chimique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 640c201f-c3d3-5ce3-9833-36bd3e929161
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: grandeur qui modifie, d'une manière spécifiée, les caractéristiques
+    d'un {{relais de mesure, IEV:447-01-02}} ou d'un {{équipement de protection, IEV:447-01-49}}
+  examples:
+  - Pour un {{relais électrique thermique, IEV:447-01-36}}, la température de l'huile
+    de l'équipement protégé, la température de l'air.
+  id: 447-07-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur corrective
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4fec5e70-8a5f-50f3-b001-fae0b60e9a8a
+status: valid

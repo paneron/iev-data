@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: '{{signal, IEV:701-01-02}} in which the characteristic quantity representing
+    {{information, IEV:701-01-01}} can at any instant assume any value within a continuous
+    {{interval, IEV:103-01-12}}'
+  examples: []
+  id: 702-04-02
+  language_code: eng
+  notes:
+  - An analogue signal can follow continuously the values of another physical quantity
+    representing information.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: analogue signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 69a3a89a-3b75-551e-89b3-f47339f1e038
+status: valid

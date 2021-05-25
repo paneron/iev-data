@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: linear time-invariant transfer element the variation of the output variable
+    of which is proportional to the corresponding variation of the input variable
+  examples: []
+  id: 351-50-05
+  language_code: eng
+  notes:
+  - "The transfer function of a P element is given as\n\n`((V ( s )))/((U ( s )))\
+    \ = K_Ρ`\n\nwhere<table>\r\n<tr>\n<td>\n`K`~P~\n</td>\n<td>is the proportional\
+    \ action coefficient;</td>\n</tr>\r\n<tr>\n<td>`s`</td>\n<td>is the complex variable\
+    \ of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\n`U`(`s`)</td>\n<td>is the\
+    \ input transform;</td>\n</tr>\r\n<tr>\n<td>\n`V`(`s`)</td>\n<td>is the output\
+    \ transform.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-16 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: proportional element
+    normative_status: preferred
+    type: expression
+  - designation: P element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 88a93677-b585-5c52-a8e1-7c8181f15b15
+status: valid

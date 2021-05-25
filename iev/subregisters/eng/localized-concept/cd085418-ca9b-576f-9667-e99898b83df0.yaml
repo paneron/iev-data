@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: discrepancy between a computed, observed or measured value or condition,
+    and the true, specified or theoretically correct value or condition
+  examples: []
+  id: 192-03-02
+  language_code: eng
+  notes:
+  - An error within a system may be caused by failure of one or more of its components,
+    or by the activation of a systematic fault.
+  - See also human error ({{192-03-14, IEV:192-03-14}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: cd085418-ca9b-576f-9667-e99898b83df0
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: at each point, the path tangential to the direction of propagation of
+    energy at this point
+  examples: []
+  id: 705-02-19
+  language_code: eng
+  notes:
+  - The concept of ray is the basis of the geometrical optics which, when applicable,
+    permits the substitution of simple relationships for Maxwell's equations.
+  - In some cases, several paths may exist between two points.
+  - In an isotropic medium, the propagation path is a trajectory orthogonal to the
+    wavefronts and the term "ray" is often defined as this trajectory. In an anisotropic
+    medium, the trajectories orthogonal to the wave fronts do not always coincide
+    with physical paths between a source and a receiving point and should not be called
+    rays.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: propagation path
+    normative_status: preferred
+    type: expression
+  - designation: ray path
+    type: expression
+dateAccepted: 1995-09-01
+id: 463ae7ec-6e73-5cf1-b907-21cc2efbb057
+status: valid

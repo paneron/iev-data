@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 303-15-09
+      original: 303-15-09 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-11-01
+  definition: the behaviour of a stabilized power supply that automatically converts
+    the mode of operation from voltage stabilization to current stabilization when
+    the output current reaches a preset value, and vice versa
+  examples: []
+  id: 551-19-08
+  language_code: eng
+  notes: []
+  reviewDate: 1998-11-01
+  reviewDecisionDate: 1998-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constant voltage to constant current crossover
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-11-01
+id: b0dbb688-a5c6-5a4f-a47f-096f60e32cb1
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: élément numérique n-aire ajouté à un ensemble d'éléments numériques
+    n-aires pour que la somme modulo n de tous les éléments numériques soit toujours
+    égale à zéro ou à un élément numérique quelconque prédéterminé
+  examples: []
+  id: 721-08-53
+  language_code: fra
+  notes:
+  - Dans le cas binaire, l'élément numérique de parité devient le bit de parité.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de parité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: fbe4a7dc-9d16-5bf5-8b25-dc20df3f49bc
+status: valid

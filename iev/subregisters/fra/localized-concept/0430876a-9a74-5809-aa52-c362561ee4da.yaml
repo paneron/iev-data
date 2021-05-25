@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: limite, si elle existe, du quotient par Δ`t` de l'espérance mathématique
+    du nombre de défaillances d'une entité réparable pendant l'intervalle de temps
+    (`t`, `t` + Δ`t`), lorsque Δ`t` tend vers zéro `z ( t ) = underset((Delta t ->
+    0 +))((lim)) ((E N ( t + Delta t ) - N ( t ) ))/((Delta t))` où `N`(`t`) est le
+    nombre de défaillances dans l'intervalle de temps (0, `t`), et où `E` désigne
+    l'espérance mathématique.
+  examples: []
+  id: 192-05-08
+  language_code: fra
+  notes:
+  - 'D’autres termes sont utilisés pour désigner l’intensité instantanée de défaillance:
+    «taux d’occurrence des défaillances» et «fréquence de défaillance».'
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité instantanée de défaillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: intensité de défaillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0430876a-9a74-5809-aa52-c362561ee4da
+status: valid

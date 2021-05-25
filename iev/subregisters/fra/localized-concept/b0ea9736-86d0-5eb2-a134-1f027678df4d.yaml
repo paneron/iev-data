@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: petite onde localisée, représentée par une fonction ayant une valeur
+    moyenne nulle et une durée pratiquement finie
+  examples: []
+  id: 103-04-11
+  language_code: fra
+  notes:
+  - 'À partir d''une ondelette mère `psi ( t )`, des ondelettes filles sont obtenues
+    par décalage et changement d''échelle (dilatation et compression): `psi_((a ,
+    b)) ( t ) = (1)/((sqrt(a))) psi ( ((t - b))/(a) )`, où `a` est un paramètre d''échelle
+    et `b` un paramètre de position.'
+  - "Exemples (voir les Figures 3 et 4):\n\n\n\n* ondelette de Haar: `psi ( t ) =\
+    \ - 1` pour −1/2 &lt; `t` &lt; 0, `psi ( t ) = 1` pour 0 &lt; `t` &lt; 1/2, `psi\
+    \ ( t ) = 0` ailleurs; \n\n* ondelette de Morlet: `psi ( t ) = e^(- t^2 // 2)\
+    \ e^(- j omega t)` (exemple d'amortissement exponentiel; Figure 4 représente la\
+    \ partie réelle)."
+  reviewDecisionEvent: published
+  terms:
+  - designation: ondelette
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b0ea9736-86d0-5eb2-a134-1f027678df4d
+status: valid

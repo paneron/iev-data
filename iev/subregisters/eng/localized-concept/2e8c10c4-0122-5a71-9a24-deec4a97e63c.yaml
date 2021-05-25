@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: subdivision of the {{frame, IEV:723-05-25}} in the vertical sense consisting
+    of a series of equidistantly spaced sequential scanning lines covering the whole
+    picture area, the repetition rate of the series being a multiple of that for the
+    picture
+  examples: []
+  id: 723-05-17
+  language_code: eng
+  notes:
+  - In English, the term "frame" has different meanings in the fields of time division
+    multiplexing (see {{IEV 704-14-01, IEV:704-14-01}}), switching (see {{IEV 714-15-09,
+    IEV:714-15-09}}), television (see {{IEV 723-05-25, IEV:723-05-25}}), time division
+    multiple access (see {{IEV 725-14-18, IEV:725-14-18}}), digital processing (see
+    {{IEV 807-01-03, IEV:807-01-03}}), rotating electric machines (see {{IEV 811-14-02,
+    IEV:811-14-02}}) and train communication networks (see {{IEV 811-37-40, IEV:811-37-40}}).
+    In some English-speaking countries, the term “frame” is also used to mean a subdivision
+    of the frame defined in this IEV entry, i.e. a {{field, IEV:723-05-17}}.
+  - In French, the term "trame" has different meanings in the fields of beam focusing
+    and deflection in electronic tubes (see {{IEV 531-14-20, IEV:531-14-20}}), time
+    division multiplexing (see {{IEV 704-14-01, IEV:704-14-01}}), switching (see {{IEV
+    714-15-09, IEV:714-15-09}}), television (see {{IEV 723-05-17, IEV:723-05-17}}
+    and  {{IEV 723-05-25, IEV:723-05-25}}), time division multiple access (see {{IEV
+    725-14-18, IEV:725-14-18}}), digital processing (see {{IEV 807-01-03, IEV:807-01-03}}),
+    and train communication networks (see {{IEV 811-37-40, IEV:811-37-40}}).
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: field
+    normative_status: preferred
+    type: expression
+    usage_info: in television
+  - designation: frame
+    normative_status: preferred
+    type: expression
+    usage_info: in television
+dateAccepted: 2019-10-01
+id: 2e8c10c4-0122-5a71-9a24-deec4a97e63c
+status: valid

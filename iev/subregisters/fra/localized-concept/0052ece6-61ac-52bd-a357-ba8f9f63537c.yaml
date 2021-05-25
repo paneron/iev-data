@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1983-01-01
+  definition: intervalle de temps minimal compris entre le début d'une impulsion enregistrée
+    et le moment où l'amplitude de l'impulsion suivante peut atteindre un pourcentage
+    déterminé de l'amplitude finale de l'impulsion enregistrée
+  examples: []
+  id: 881-13-34
+  language_code: fra
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de restitution
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps de récupération
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 0052ece6-61ac-52bd-a357-ba8f9f63537c
+status: valid

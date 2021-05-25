@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: load voltage of a welding power source corresponding to the conventional
+    welding condition
+  examples: []
+  id: 851-12-30
+  language_code: eng
+  notes:
+  - The values for `U`~2~ are given as r.m.s. values for AC and arithmetic mean values
+    for DC.
+  - The conventional load voltage has a specified linear relationship to the conventional
+    welding current. This relationship varies in accordance with the process.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conventional load voltage
+    normative_status: preferred
+    type: expression
+  - designation: '`U`~2~'
+    international: true
+    type: symbol
+dateAccepted: 2008-06-01
+id: 038c88f1-7396-549d-a5ea-01af0c78f2c7
+status: valid

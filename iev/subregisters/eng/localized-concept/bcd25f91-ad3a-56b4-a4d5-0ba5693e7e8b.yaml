@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: diagonal term of the inductance matrix
+  examples: []
+  id: 131-12-35
+  language_code: eng
+  notes:
+  - 'For a winding of `N`~`i`~ turns following the same path, the self-inductance
+    and the self-permeance are related by the formula: `L`~`ii`~ = `N`~`i`~^2^`Λ`~`ii`~'
+  - For an ideal inductor, the self-inductance is equal to the inductance as defined
+    in 131-12-19.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: self-inductance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~`ii`~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: bcd25f91-ad3a-56b4-a4d5-0ba5693e7e8b
+status: valid

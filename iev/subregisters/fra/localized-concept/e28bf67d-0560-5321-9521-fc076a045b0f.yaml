@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: faisceau hertzien dans lequel le trajet radioélectrique direct entre
+    deux stations adjacentes est suffisamment éloigné des obstacles pour que la diffraction
+    ait une influence négligeable pendant la plus grande partie du temps, en tenant
+    compte de la réfraction troposphérique
+  examples: []
+  id: 713-02-12
+  language_code: fra
+  notes:
+  - Le terme anglais "microwave link" n'est utilisé qu'au-dessus de 1 GHz.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: faisceau hertzien (en visibilité)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: FHV
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: e28bf67d-0560-5321-9521-fc076a045b0f
+status: valid

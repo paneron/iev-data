@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: interaction in a {{non-linear, IEV:131-11-19}} device or transmission
+    medium between the {{spectral components, IEV:702-04-41}} of the {{input, IEV:151-15-13}}
+    signal or signals producing new spectral components having frequencies equal to
+    linear combinations with integral coefficients of the frequencies of the input
+    spectral components
+  examples: []
+  id: 161-06-20
+  language_code: eng
+  notes:
+  - Intermodulation can result from a single non-sinusoidal input signal or from several
+    sinusoidal or non-sinusoidal input signals applied to the same or to different
+    inputs.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intermodulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 8ac7dca9-5ac1-5931-96b4-ec78b733b3f8
+status: valid

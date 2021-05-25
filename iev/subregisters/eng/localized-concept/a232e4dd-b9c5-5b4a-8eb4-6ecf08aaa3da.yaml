@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-11-01
+  definition: track circuit where one running rail only is isolated for track circuit
+    purposes, the other one being used as a common return
+  examples: []
+  id: 821-03-04
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: single-rail track circuit
+    normative_status: preferred
+    type: expression
+  - designation: monorail track circuit
+    type: expression
+dateAccepted: 2017-11-01
+id: a232e4dd-b9c5-5b4a-8eb4-6ecf08aaa3da
+status: valid

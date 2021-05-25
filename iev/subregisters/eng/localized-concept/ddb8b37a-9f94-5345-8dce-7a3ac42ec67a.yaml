@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-04-01
+  definition: electric current at which a secondary cell or battery is charged
+  examples: []
+  id: 482-05-45
+  language_code: eng
+  notes:
+  - The charge rate is expressed as the reference current `I`~t~ = `C`~r~/`n` where
+    `C`~r~ is the rated capacity declared by the manufacturer and `n` is the time
+    base in hours for which the rated capacity is declared.
+  reviewDate: 2004-04-01
+  reviewDecisionDate: 2004-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge rate
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-04-01
+id: ddb8b37a-9f94-5345-8dce-7a3ac42ec67a
+status: valid

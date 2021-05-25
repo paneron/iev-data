@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: <a href="IEV845-27-027">lampe à décharge à haute intensité</a> dans
+    laquelle la lumière est surtout produite, directement ou indirectement, par le
+    rayonnement du mercure dont la pression partielle, pendant le fonctionnement,
+    est supérieure à 100 kPa
+  examples: []
+  id: 845-27-028
+  language_code: fra
+  notes:
+  - Le terme "lampe à mercure à haute pression" inclut les lampes à ampoule claire,
+    les lampes à ballon fluorescent et les <a href="IEV845-27-029">lampes à lumière
+    mixte</a>. Dans une lampe à décharge à ballon fluorescent, la lumière est produite
+    en partie par la vapeur de mercure et en partie par une couche de substance luminescente
+    excitée par le <a href="IEV845-21-008">rayonnement ultraviolet</a> de la décharge.
+  - Cet article était numéroté 845-07-20 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: lampe à mercure à haute pression
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: lampe à vapeur de mercure à haute pression
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4ae80b59-f955-5a54-9472-71de477bb23e
+status: valid

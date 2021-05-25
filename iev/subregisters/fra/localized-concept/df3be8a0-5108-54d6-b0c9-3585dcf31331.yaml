@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 2.6.9
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.6.9, modifié – La définition a été réécrite.
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: La définition a été réécrite.
+        type: modified
+  definition: procédé prévu pour protéger les {{composants, IEV:151-11-21}} en les
+    montant dans un bac doté de bornes externes
+  examples: []
+  id: 523-06-06
+  language_code: fra
+  notes:
+  - L’objet de l’encapsulation est de minimiser les dommages extérieurs chimiques
+    et physiques sur les composants. Comme le {{dispositif, IEV:151-11-20}} est miniaturisé,
+    la déformation due à la contrainte de l’encapsulation est potentiellement gênante.
+    Pour prévenir ce problème, il existe entre autres la technologie de {{collage,
+    IEV:523-06-01}}, qui relie les microcomposants, etc., à une puce de silicium.
+    Dans le domaine des systèmes de {{capteurs, IEV:151-13-48}}, une technologie d’intégration
+    hybride est nécessaire, ce qui explique que des techniques spéciales d’encapsulation
+    soient à l’étude.
+  reviewDecisionEvent: published
+  terms:
+  - designation: encapsulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de composants
+dateAccepted: 2018-11-17
+id: df3be8a0-5108-54d6-b0c9-3585dcf31331
+status: valid

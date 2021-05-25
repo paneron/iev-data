@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'composante magnéto-ionique qui, en incidence verticale, se réfléchit
+    à l''altitude où la densité électronique et le champ magnétique terrestre sont
+    tels que: `f`~p~^2^ = `f` ^2^ + `f f`~ B~ où `f`~p~ est la fréquence de plasma,
+    `f` celle de l''onde et `f`~ B~ la gyrofréquence électronique'
+  examples: []
+  id: 705-07-41
+  language_code: fra
+  notes:
+  - Cette composante peut se manifester lorsque la direction de propagation de l'onde
+    est voisine de celle du champ magnétique terrestre, ou lorsque la fréquence de
+    l'onde est inférieure à la gyrofréquence électronique, ainsi que lors de sondages
+    par en haut.
+  - La polarisation de cette composante est soit celle de l'onde ordinaire, soit celle
+    de l'onde extraordinaire, selon la valeur de sa fréquence par rapport aux valeurs
+    de la fréquence de plasma et de la gyrofréquence électronique sur le trajet de
+    l'onde avant réflexion.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: composante Z
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: c1a94625-a728-545e-9ab5-f1b39a7761d6
+status: valid

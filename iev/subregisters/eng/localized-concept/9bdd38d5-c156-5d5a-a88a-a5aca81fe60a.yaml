@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: assembly of a {{multiplexer, IEV:704-08-13}} and a {{demultiplexer,
+    IEV:704-08-14}} operating in opposite directions of transmission in the same apparatus
+  examples: []
+  id: 704-08-15
+  language_code: eng
+  notes:
+  - When used to describe apparatus, the term "muldex" shall be qualified by the function
+    of that apparatus, e.g. PCM muldex, data muldex, {{digital muldex, IEV:704-20-05}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: muldex
+    normative_status: preferred
+    type: expression
+  - designation: muldem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: 9bdd38d5-c156-5d5a-a88a-a5aca81fe60a
+status: valid

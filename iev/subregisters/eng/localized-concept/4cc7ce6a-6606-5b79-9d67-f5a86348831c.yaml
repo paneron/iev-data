@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a station which is monitored or commanded and monitored by a master
+    station
+  examples: []
+  id: 371-06-04
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: outstation
+    normative_status: preferred
+    type: expression
+  - designation: controlled station
+    type: expression
+  - designation: remote station
+    type: expression
+  - designation: slave station
+    type: expression
+dateAccepted: 2021-01-01
+id: 4cc7ce6a-6606-5b79-9d67-f5a86348831c
+status: valid

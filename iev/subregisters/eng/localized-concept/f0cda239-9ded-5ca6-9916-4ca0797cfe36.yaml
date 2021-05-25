@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-07-01
+  definition: transfer of {{electric charge, IEV:113-02-10}} between bodies of different
+    {{electric potential, IEV:121-11-25}} in proximity or through direct contact
+  examples: []
+  id: 161-01-22
+  language_code: eng
+  notes:
+  - Literature and teaching generally refer to transfers of charge, although strictly
+    speaking charge carriers ({{113-06-25, IEV:113-06-25}}) are transferred.
+  reviewDate: 2014-07-01
+  reviewDecisionDate: 2014-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electrostatic discharge
+    normative_status: preferred
+    type: expression
+  - designation: ESD
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-07-01
+id: f0cda239-9ded-5ca6-9916-4ca0797cfe36
+status: valid

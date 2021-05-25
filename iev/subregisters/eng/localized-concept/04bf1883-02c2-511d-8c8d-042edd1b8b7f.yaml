@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.16
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.16
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: network component used in consist network based on switched technology
+  examples: []
+  id: 811-37-22
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: consist switch
+    normative_status: preferred
+    type: expression
+  - designation: consist network node
+    type: expression
+dateAccepted: 2017-11-01
+id: 04bf1883-02c2-511d-8c8d-042edd1b8b7f
+status: valid

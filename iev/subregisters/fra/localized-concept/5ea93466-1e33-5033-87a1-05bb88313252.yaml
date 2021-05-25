@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux lumineux émis par la puissance consommée `eta_v = ((Phi_v))/(P)`
+    où `Φ`~v~ est le flux lumineux et `P` est la puissance consommée par la source
+    de lumière
+  examples: []
+  id: 845-21-089
+  language_code: fra
+  notes:
+  - Il faut spécifier si la puissance consommée par la source de lumière inclut ou
+    non la puissance dissipée par d'éventuels équipements auxiliaires tels que des
+    ballasts.
+  - L'efficacité lumineuse d'une source de lumière est exprimée en lumen par watt
+    (lm·W^−1^).
+  - Cet article était numéroté 845-01-55 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: efficacité lumineuse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une source de lumière
+dateAccepted: 2018-11-17
+id: 5ea93466-1e33-5033-87a1-05bb88313252
+status: valid

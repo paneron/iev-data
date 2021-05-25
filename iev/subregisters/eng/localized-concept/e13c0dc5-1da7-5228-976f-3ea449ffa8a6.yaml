@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2004-08-01
+  definition: two-terminal circuit intended to be used with one of the quantities
+    out of the set of `m` quantities of a polyphase system
+  examples: []
+  id: 141-02-01
+  language_code: eng
+  notes:
+  - The term "element" can be replaced by a more specific two-terminal circuit, for
+    instance in "phase winding", "phase impedance".
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase element
+    normative_status: preferred
+    type: expression
+  - designation: phase
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2004-08-01
+id: e13c0dc5-1da7-5228-976f-3ea449ffa8a6
+status: valid

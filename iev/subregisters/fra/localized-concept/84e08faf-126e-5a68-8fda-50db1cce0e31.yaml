@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: 'valeur attribuée à un élément de signal, dans un signal numérique multivalent
+    uniforme, en prenant comme unité l''écart entre deux valeurs discrètes adjacentes
+    et en appliquant les règles suivantes: a) pour les signaux non équilibrés, la
+    valeur réduite zéro correspond à la plus petite des valeurs discrètes possibles;
+    b) pour les signaux équilibrés ayant un nombre pair de valeurs discrètes possibles,
+    les valeurs réduites sont symétriques par rapport à zéro, qui n''est pas lui-même
+    une valeur réduite; c) pour les signaux équilibrés ayant un nombre impair de valeurs
+    discrètes possibles, les valeurs réduites sont symétriques par rapport à zéro,
+    qui est lui-même une valeur réduite'
+  examples: []
+  id: 704-17-07
+  language_code: fra
+  notes:
+  - "Les valeurs réduites associées à quelques exemples de signaux numériques multivalents\
+    \ uniformes sont les suivantes:\r\nSignaux non équilibrés\n\nimage::/assets/images/parts/704/704-17-071fr.gif[]\n\
+    \nimage::/assets/images/parts/704/704-17-072fr.gif[]"
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur réduite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 84e08faf-126e-5a68-8fda-50db1cce0e31
+status: valid

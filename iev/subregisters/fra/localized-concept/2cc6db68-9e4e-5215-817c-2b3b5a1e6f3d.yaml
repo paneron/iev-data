@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: oscillation entretenue de la variable commandée et de toutes les autres
+    variables à l'intérieur de la boucle d'asservissement d'amplitude appréciable
+    mais n'affectant pas l'exécution de la tâche de commande et de régulation
+  examples: []
+  id: 351-46-14
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-25-14 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pompage en commande automatique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: pompage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 2cc6db68-9e4e-5215-817c-2b3b5a1e6f3d
+status: valid

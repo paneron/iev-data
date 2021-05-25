@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 195-05-01
+      original: 195-05-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2004-08-01
+  definition: tension entre deux conducteurs de ligne en un point donné d'un circuit
+    électrique
+  examples: []
+  id: 826-11-06
+  language_code: fra
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension entre phases
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tension composée
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: ce627ec7-59a5-5ff6-9611-f0b75284bebd
+status: valid

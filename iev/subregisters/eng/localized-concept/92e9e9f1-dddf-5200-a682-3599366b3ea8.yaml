@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: See {{IEV 702-08-57, IEV:702-08-57}}
+  examples: []
+  id: 713-10-67
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spot noise factor
+    normative_status: preferred
+    type: expression
+    usage_info: of a linear two-port device
+  - designation: spot noise figure
+    normative_status: preferred
+    type: expression
+    usage_info: of a linear two-port device
+  - designation: '`F`(`f`)'
+    international: true
+    type: symbol
+dateAccepted: 2018-09-01
+id: 92e9e9f1-dddf-5200-a682-3599366b3ea8
+status: valid

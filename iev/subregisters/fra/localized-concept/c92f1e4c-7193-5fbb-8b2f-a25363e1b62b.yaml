@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une grandeur à spectre continu et de puissance moyenne finie, limite,
+    à toute fréquence, du quotient de la puissance dans une bande de fréquences contenant
+    cette fréquence par la largeur de la bande lorsque cette largeur tend vers zéro
+  examples: []
+  id: 103-09-05
+  language_code: fra
+  notes:
+  - La puissance instantanée d'une grandeur est par convention égale au carré de sa
+    valeur instantanée. Ce carré est proportionnel à une puissance physique si la
+    grandeur considérée est une grandeur de champ.
+  - La densité spectrale de puissance est la transformée de Fourier de la fonction
+    d'autocorrélation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité spectrale de puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DSP
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: puissance spectrique
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c92f1e4c-7193-5fbb-8b2f-a25363e1b62b
+status: valid

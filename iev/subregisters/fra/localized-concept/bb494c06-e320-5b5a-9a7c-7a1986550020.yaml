@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.15'
+      original: IEC Guide 116:2010, 3.15
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: processus englobant une analyse du {{risque, IEV:903-01-07}} et une
+    évaluation du risque [ISO/IEC Guide 51:1999, définition 3.12]
+  examples: []
+  id: 903-01-10
+  language_code: fra
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: appréciation du risque
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: bb494c06-e320-5b5a-9a7c-7a1986550020
+status: valid

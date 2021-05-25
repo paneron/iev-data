@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: grandeur obtenue en soustrayant d'une grandeur alternative sa composante
+    fondamentale ou sa composante fondamentale de référence
+  examples: []
+  id: 551-20-11
+  language_code: fra
+  notes:
+  - Le résidu total de distorsion contient les composantes harmoniques et, s’il y
+    en a, les composantes interharmoniques.
+  - Le résidu total de distorsion dépend du choix de la composante fondamentale. En
+    cas d'ambiguïté dans le contexte on indique de quelle composante il s'agit.
+  - Le résidu total de distorsion est une fonction du temps.
+  - Une grandeur alternative est une grandeur périodique dont la composante continue
+    est nulle.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: résidu total de distorsion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 7df3b814-8370-5a83-9908-71b034a758d0
+status: valid

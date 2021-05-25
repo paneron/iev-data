@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur vectorielle égale au produit de la masse `m` d'un corps par
+    la vitesse *`v`* de son centre de masse, soit *`p`* = `mv`
+  examples: []
+  id: 113-03-13
+  language_code: fra
+  notes:
+  - 1 Pour un corps continu dans un domaine D, la quantité de mouvement est égale
+    à l'intégrale `p = int_D rho v d V = int_D v d m`, où `ρ` est la masse volumique
+    dans un domaine de volume d`V` et de masse d`m` quasi-infinitésimaux, et de vitesse
+    *`v`*. Pour un système de corps, elle est égale à la somme de leurs quantités
+    de mouvement.
+  - 2 Si la somme des forces extérieures est nulle, la quantité de mouvement obéit
+    à une loi de conservation.
+  - 3 Si l’on applique la théorie de la relativité, `m` est la masse relativiste.
+  - 4 L'unité SI cohérente de quantité de mouvement est le kilogramme mètre par seconde,
+    kg·m·s^−1^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantité de mouvement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: a2083614-bacf-5c51-9cc3-f28fc2d780ba
+status: valid

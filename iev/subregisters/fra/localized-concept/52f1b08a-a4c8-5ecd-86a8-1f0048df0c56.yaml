@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{grandeur d''alimentation, IEV:447-03-01}} qui est fournie comme source
+    d''alimentation auxiliaire pour un {{relais de mesure, IEV:447-01-02}} ou un {{équipement
+    de protection, IEV:447-01-49}}'
+  examples: []
+  id: 447-03-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur de la source d'alimentation auxiliaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 52f1b08a-a4c8-5ecd-86a8-1f0048df0c56
+status: valid

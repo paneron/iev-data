@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: 'in an optical fibre a dimensionless quantity, denoted by `V`, given
+    by `V = ((2 pi a))/(lambda) ( n_1^2 - n_2^2 )^(1 // 2)` where: `a` is the fibre
+    core radius, `λ` is wavelength in vacuum, and `n`~1~ and `n`~2~ are the maximum
+    refractive index in the core and refractive index of the innermost homogenous
+    cladding, respectively'
+  examples: []
+  id: 731-03-63
+  language_code: eng
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: normalized frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`V` number'
+    normative_status: preferred
+    type: expression
+  - designation: '`V`'
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: 360e7f34-73a0-57ac-8587-b8027e5632e1
+status: valid

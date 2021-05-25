@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-11-01
+  definition: quotient of the sum of the individual pinning forces in a superconductor
+    by the volume of the superconductor
+  examples: []
+  id: 815-12-25
+  language_code: eng
+  notes:
+  - The pinning force density is given by *`F`*~p~ = −*`J`*~c~ × *`B`*, where *`J`*~c~
+    is the critical current density and *`B`* is the magnetic flux density.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pinning force density
+    normative_status: preferred
+    type: expression
+  - designation: bulk pinning force
+    normative_status: preferred
+    type: expression
+  - designation: '*`F`*~p~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: e0b80a76-9b90-5ca7-8f8f-16999a6cfa65
+status: valid

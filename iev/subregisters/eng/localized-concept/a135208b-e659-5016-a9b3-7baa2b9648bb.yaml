@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: for a photon emitter, the product of the exposure rate `overset(˙)(X)`,
+    at a given distance `l` from a point radiation source of that emitter and the
+    square of that distance divided by the activity `A` of the radiation source neglecting
+    attenuation `Gamma = overset(˙)(X) ( l^2 // A )`
+  examples: []
+  id: 395-01-43
+  language_code: eng
+  notes:
+  - This entry was numbered 393-14-82 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposure rate coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`Γ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: a135208b-e659-5016-a9b3-7baa2b9648bb
+status: valid

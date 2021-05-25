@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: ability to be in a state to perform as required
+  examples: []
+  id: 192-01-23
+  language_code: eng
+  notes:
+  - Availability depends upon the combined characteristics of the reliability ({{192-01-24,
+    IEV:192-01-24}}), recoverability ({{192-01-25, IEV:192-01-25}}), and maintainability
+    ({{192-01-27, IEV:192-01-27}}) of the item, and the maintenance support performance
+    ({{192-01-29, IEV:192-01-29}}).
+  - Availability may be quantified using measures defined in http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView&amp;Query=field+SearchFields+contains+192-08+and+field+Language=en&amp;SearchOrder=4&amp;SearchMax=0[Section
+    192-08, _Availability related measures_].
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: availability
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 5985c129-e35e-5c59-abc9-3aee71ab9faf
+status: valid

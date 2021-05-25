@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{output circuit, IEV:447-04-01}} of {{auxiliary relays, IEV:447-01-46}}
+    used within a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}'
+  examples: []
+  id: 447-04-05
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contact circuit
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: 3e7760bb-cb80-5a2b-b535-115fe7b9ec3f
+status: valid

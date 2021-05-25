@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 2.6.5
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.6.5, modified – "Surface activated bonding" has
+        been replaced with "surface-activated bonding".
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: '"Surface activated bonding" has been replaced with "surface-activated
+          bonding".'
+        type: modified
+  classification: Preferred
+  dateAmended: 2018-12-01
+  definition: process for {{bonding, IEV:523-06-01}} two {{substrates, IEV:521-05-28}}
+    directly by increasing the surface energy of each substrate using ion beam or
+    plasma irradiation
+  examples: []
+  id: 523-06-04
+  language_code: eng
+  notes:
+  - Surface-activated bonding is effective in reducing thermal stress because the
+    temperature in the bonding process is comparably low.  In MEMS {{devices, IEV:151-11-20}},
+    surface-activated bonding is expected to be applied to the substrate bonding such
+    as hermetic sealing.
+  - This note applies to the French language only.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface-activated bonding
+    normative_status: preferred
+    type: expression
+  - designation: SAB
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: c77a75ca-6e21-5c6a-be2d-ec4324d6316f
+status: valid

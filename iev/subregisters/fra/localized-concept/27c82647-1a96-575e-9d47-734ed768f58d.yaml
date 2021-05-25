@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '4.13'
+      original: ≠ VIM 4.13
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: ensemble des parties d'un appareil enregistreur qui effectue l'enregistrement
+    de la valeur mesurée sur le support d'enregistrement
+  examples: []
+  id: 311-05-10
+  language_code: fra
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif d'enregistrement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 27c82647-1a96-575e-9d47-734ed768f58d
+status: valid

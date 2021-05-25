@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-10-01
+  definition: See {{IEV 121-12-14, IEV:121-12-14}}
+  examples: []
+  id: 705-03-04
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex relative permittivity
+    normative_status: preferred
+    type: expression
+  - designation: relative complex dielectric constant
+    normative_status: deprecated
+    type: expression
+  - designation: '`ε`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2019-10-01
+id: b9d70d8d-175c-5c65-8399-ae9d62f729fb
+status: valid

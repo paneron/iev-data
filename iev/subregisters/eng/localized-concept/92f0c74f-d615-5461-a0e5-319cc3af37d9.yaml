@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 702-08-39
+      link: https://webstore.iec.ch/publication/239
+      original: IEC 60050-702:1992, 702-08-39, modified
+      ref: IEC 60050-702:1992
+      relationship:
+        type: modified
+    - clause: '3.15'
+      link: https://www.iso.org/standard/51997.html
+      original: 'ISO 8253-2:2009, <i>Acoustics – Audiometric test methods – Part 2:
+        Sound field audiometry with pure-tone and narrow-band test signals</i>, 3.15,
+        modified – New formulation drawn from both definitions'
+      ref: ISO 8253-2:2009
+      relationship:
+        modification: New formulation drawn from both definitions
+        type: modified
+  dateAmended: 2013-11-01
+  definition: random noise with a continuous spectrum the power spectral density of
+    which is independent of frequency
+  examples: []
+  id: 351-41-27
+  language_code: eng
+  notes:
+  - This entry was numbered 351-21-50 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: white noise
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 92f0c74f-d615-5461-a0e5-319cc3af37d9
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the time between a change of state in an outstation and its registration
+    in the master station
+  examples: []
+  id: 371-08-20
+  language_code: eng
+  notes:
+  - In cyclic systems, the average updating time is equal to one half of the cycle
+    time plus the overall transfer time.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: updating time
+    normative_status: preferred
+    type: expression
+  - designation: refresh time
+    type: expression
+dateAccepted: 2021-01-01
+id: 6ad3f84a-3ee3-552f-be9d-e8091bd50bf7
+status: valid

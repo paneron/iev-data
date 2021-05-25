@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: ensemble des valeurs du signal d'entrée d'un quantificateur situées
+    entre les deux valeurs virtuelles de décision
+  examples: []
+  id: 704-24-10
+  language_code: fra
+  notes:
+  - La distorsion due à la quantification est considérée par convention comme une
+    distorsion d'écrêtage lorsque les valeurs de la grandeur à quantifier sont en
+    dehors de la plage de fonctionnement.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: plage de fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: dynamique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: gamme de fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 13820b72-00b5-5564-bd9c-26c36ef4683a
+status: valid

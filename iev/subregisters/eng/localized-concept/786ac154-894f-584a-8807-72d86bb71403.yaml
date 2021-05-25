@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'set of relationships which determines the following state of a system
+    from a given state and the simultaneous value(s) of the input variable(s) SEE:
+    Figure 22.'
+  examples: []
+  id: 351-53-03
+  language_code: eng
+  notes:
+  - The transition function may be described completely by a table, given by the columns
+    1, 2 and 4 of the state transition table (see Figure 21).
+  - 'This entry was numbered 351-29-07 in IEC 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 21 – State transition table of a vending-machine*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transition function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 786ac154-894f-584a-8807-72d86bb71403
+status: valid

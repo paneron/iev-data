@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: éclairement lumineux moyen des bandes contiguës aux bords des deux côtés
+    de la chaussée, sur l'éclairement lumineux moyen des bandes contiguës de la chaussée
+  examples: []
+  id: 845-31-144
+  language_code: fra
+  notes:
+  - Les exigences spécifiques concernant la largeur des bandes sont définies dans
+    la CIE 140, _Road Lighting Calculations_.
+  - L'unité de rapport d'environnement est un.
+  - Le terme abrégé "SR" est dérivé du terme anglais développé correspondant "surround
+    ratio".
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport d'environnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SR
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: en éclairage routier
+dateAccepted: 2018-11-17
+id: 8d1aa930-d4ee-5b32-9236-48b9d34bf6f3
+status: valid

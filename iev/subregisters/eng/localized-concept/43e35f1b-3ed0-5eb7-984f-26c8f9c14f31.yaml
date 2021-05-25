@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-12-01
+  definition: protection, generally distance protection, using telecommunication,
+    with overreach protection at each section end and in which a signal is transmitted
+    when a fault is detected by the overreach protection. Receipt of the signal at
+    the other end permits the initiation of tripping by the local overreach protection
+    See figure 448-10. image::/assets/images/parts/448/448-fig10-en.gif[]
+  examples: []
+  id: 448-15-16
+  language_code: eng
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: permissive overreach protection
+    normative_status: preferred
+    type: expression
+  - designation: POP
+    normative_status: preferred
+    type: expression
+  - designation: permissive overreaching transfer trip protection
+    normative_status: preferred
+    type: expression
+  - designation: POTT
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: 43e35f1b-3ed0-5eb7-984f-26c8f9c14f31
+status: valid

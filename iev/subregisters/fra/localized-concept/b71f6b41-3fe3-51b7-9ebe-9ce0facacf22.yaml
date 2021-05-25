@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: intégrale de temps de l'éclairement érythémal énergétique `H_((er))
+    = int int E_(lambda) ( lambda , t ) s_((er)) ( lambda ) d lambda d t` où `Eλ`(`λ`,
+    `t`) est l'éclairement spectral énergétique et `s`~er~(`λ`) est la fonction de
+    pondération spectrale d'un érythème normalisée à 1 comme valeur maximale
+  examples: []
+  id: 845-26-066
+  language_code: fra
+  notes:
+  - Cette définition est basée sur l'hypothèse selon laquelle un spectre d'action
+    est adopté pour l'effet actinique pris en considération, et selon laquelle sa
+    valeur maximale est égale à 1.
+  - Il est essentiel de spécifier quel spectre d'action est utilisé, dans la mesure
+    où l'unité est la même pour tout spectre d'action.
+  - Voir aussi <a href="IEV845-26-068">dose érythémale minimale</a>, "<a href="IEV845-26-069">dose
+    érythémale normalisée</a>".
+  - La dose érythémale est exprimée en joule par mètre carré (J·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose érythémale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: exposition énergétique érythémale
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b71f6b41-3fe3-51b7-9ebe-9ce0facacf22
+status: valid

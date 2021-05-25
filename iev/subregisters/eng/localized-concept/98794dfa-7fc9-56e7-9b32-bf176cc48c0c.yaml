@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'complex scalar, denoted by `U * V^( * )`, attributed to any pair of
+    vectors *`U`* and *`V`* in a complex vector space by a given function, with the
+    following properties: * `V * U^( * ) = ( U * V^( * ) )^( * )`, * `( alpha U )
+    * V^( * ) = alpha ( U * V^( * ) )` and `U * ( beta V )^( * ) = beta^( * ) ( U
+    * V^( * ) )` where `α` and `β` are complex scalars, * `( U + V ) * W^( * ) = U
+    * W^( * ) + V * W^( * )` for every vector *`W`* existing in the same vector space,
+    * `U * U^( * ) > 0` for `U != 0`, where the asterisk denotes the conjugate vector'
+  examples: []
+  id: 102-03-18
+  language_code: eng
+  notes:
+  - 'In an `n`-dimensional space with orthonormal base vectors the Hermitian product
+    of two vectors *`U`* and *`V`* is the sum of the products of each coordinate `U_i`of
+    the vector *`U`* and the conjugate of the corresponding coordinate `V_i` of the
+    vector *`V`*:
+
+
+    `U * V^( * ) = underset(i)( sum ) U_i V_i ^( * )`'
+  - For two complex vectors or two complex vector quantities *`U`* and *`V`* either
+    the Hermitian product `U * V^( * )` or a conjugate Hermitian product `U^( * )
+    * V` may be used depending on the application. The Hermitian product `U * U^(
+    * )` or `U^( * ) * U` is a real scalar or a real scalar quantity, respectively.
+  - The Hermitian product is denoted by a half-high dot (·) between the two symbols
+    representing one vector and the conjugate of the other.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Hermitian product
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 98794dfa-7fc9-56e7-9b32-bf176cc48c0c
+status: valid

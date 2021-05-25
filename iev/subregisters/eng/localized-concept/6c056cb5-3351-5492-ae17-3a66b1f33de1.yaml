@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: sound absorption defined by the Sabine reverberation-time equation
+  examples: []
+  id: 801-31-10
+  language_code: eng
+  notes:
+  - 'The Sabine reverberation-time equation is:
+
+
+    `T = ((( 24 ln 10 ) V))/((c A)) = ((55,3))/((c A)) V`
+
+
+    where:
+
+
+    `T` is the reverberation time, in seconds
+
+
+    `V` is the volume of the room, in cubic metres
+
+
+    `c` is the speed of sound in the air contained in the room, in metres per second
+
+
+    `A` is the sum of all Sabine absorptions in the room, in decibel metre-squared.'
+  - The unit of Sabine absorption is the decibel metre-squared, sometimes known as
+    the metric sabin.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Sabine absorption
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 6c056cb5-3351-5492-ae17-3a66b1f33de1
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: durée, au cours du réenclenchement automatique, pendant laquelle la
+    ligne d'énergie ou la phase ne peut transporter aucune énergie
+  examples: []
+  id: 448-16-10
+  language_code: fra
+  notes:
+  - 'Pour les lignes d''énergie en réseau radial, la durée d''interruption avant réenclenchement
+    est égale à la durée de pause et à la durée d''ouverture avant réenclenchement.
+
+
+    Voir figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-fr.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d'interruption avant réenclenchement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 8913f7d4-e366-5ef4-8b7d-0989d9f04b00
+status: valid

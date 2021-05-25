@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: frequency difference, positive or negative, which should be added to
+    the specified nominal frequency of the oscillator, when adjusting the oscillator
+    frequency under a particular set of operating conditions in order to minimize
+    its deviation from the nominal frequency over the specified range of operating
+    conditions
+  examples: []
+  id: 561-03-09
+  language_code: eng
+  notes:
+  - 'In order to minimize the frequency deviation from the nominal deviation over
+    the entire temperature range, a frequency offset may be specified for adjustment
+    at the reference temperature (see Figure 18).
+
+
+    image::/assets/images/parts/561/561-fig18-en.png[]
+
+
+    *Figure 18 – Example of the use of frequency offset*'
+  - This entry was numbered 561-04-08 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency offset
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 3e83a559-4842-5c9b-8300-704c81e140bb
+status: valid

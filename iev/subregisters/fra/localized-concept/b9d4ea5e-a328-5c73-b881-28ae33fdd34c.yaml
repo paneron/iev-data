@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'relation entre deux entités `a` et `b`, ayant les propriétés suivantes:
+    * réflexivité: `a` = `a`, * symétrie: si `a` = `b` alors `b` = `a`, * transitivité:
+    if `a` = `b` et `b` = `c` alors `a` = `c`, où `c` est une troisième entité, *
+    si `a` = `b` et ℛ{`u`} est un énoncé quelconque concernant l''entité `u`, alors
+    ℛ{`a`} est vrai si et seulement si ℛ{`b`} est vrai'
+  examples: []
+  id: 102-01-01
+  language_code: fra
+  notes:
+  - L'égalité de deux entités `a` et `b` est notée `a` = `b` et exprimée par «`a`
+    est égal à `b`».
+  reviewDecisionEvent: published
+  terms:
+  - designation: égalité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b9d4ea5e-a328-5c73-b881-28ae33fdd34c
+status: valid

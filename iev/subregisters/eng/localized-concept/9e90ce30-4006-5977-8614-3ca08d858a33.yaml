@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-04-01
+  definition: '{{electromagnetic field, IEV:121-11-61}} such that, in at least one
+    direction, each component of one of the vectors of the field has the same {{phase,
+    IEV:103-07-04}} at the same time at all points and an {{amplitude, IEV:103-07-02}}
+    that decreases very rapidly to negligible values at a few {{wavelengths, IEV:103-10-10}},
+    where this decrease is not due to {{absorption, IEV:705-02-07}}'
+  examples: []
+  id: 705-04-70
+  language_code: eng
+  notes:
+  - An evanescent field does not propagate energy and is, consequently, not a {{wave,
+    IEV:103-10-01}}.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: evanescent field
+    normative_status: preferred
+    type: expression
+  - designation: evanescent mode
+    normative_status: preferred
+    type: expression
+  - designation: evanescent wave
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-04-01
+id: 9e90ce30-4006-5977-8614-3ca08d858a33
+status: valid

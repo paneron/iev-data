@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the ratio, usually expressed in decibels, between the radio-frequency
+    power supplied by the transmitter of a radio link and the radio-frequency power
+    supplied to the corresponding receiver in real installation, propagation and operational
+    conditions
+  examples: []
+  id: 705-08-01
+  language_code: eng
+  notes:
+  - 'It is necessary to specify in each case the points at which the power supplied
+    by the transmitter and the power to the receiver are determined, for example:
+
+
+    - before or after the radio-frequency filters or multiplexers that may be employed
+    at the sending or the receiving end,
+
+
+    - at the input or at the output of the transmitting and receiving antenna feed
+    lines.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total loss
+    normative_status: preferred
+    type: expression
+  - designation: '`A`~1~
+
+      `L`~1~'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 92ee9852-da8f-59fe-b690-800883ec11d6
+status: valid

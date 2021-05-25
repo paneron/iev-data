@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: set of `m` phase elements, mutually connected in a given way, which
+    is intended to be used within a polyphase system of `m` quantities
+  examples: []
+  id: 141-02-02
+  language_code: eng
+  notes:
+  - Inductive and capacitive couplings may occur between the phase elements.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polyphase element
+    normative_status: preferred
+    type: expression
+  - designation: '`m`-phase element'
+    type: expression
+dateAccepted: 2004-08-01
+id: 4ef6c6c4-911d-52ce-944a-a7c894c2e164
+status: valid

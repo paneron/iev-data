@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: commande nécessitant deux actions successives pour provoquer un changement
+    d'état d'un organe; la première, ou "sélection", met sous tension une partie du
+    circuit de commande qui, à son tour provoque la transmission en retour d'informations
+    de confirmation; la seconde, ou "commande d'exécution", n'est émise qu'après réception
+    de ces informations en retour et provoque la mise sous tension de l'ensemble du
+    circuit de commande dans la station réceptrice
+  examples: []
+  id: 371-03-19
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande sélection-exécution
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: c291154d-2d34-5af5-a743-8fc40928d545
+status: valid

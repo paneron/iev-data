@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température liée au fonctionnement spécifié du module LED
+  examples: []
+  id: 845-27-112
+  language_code: fra
+  notes:
+  - La température de fonctionnement est exprimée en degré Celsius (°C).
+  - La température de fonctionnement est mesurée en un point donné.
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un module LED
+dateAccepted: 2018-11-17
+id: 7fd2b464-27c8-542e-b66d-7f001bb75997
+status: valid

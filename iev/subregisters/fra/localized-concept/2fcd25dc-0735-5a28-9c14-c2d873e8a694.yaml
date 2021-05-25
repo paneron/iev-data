@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: puissance électrique consommée par le dispositif en mode veille
+  examples: []
+  id: 845-27-124
+  language_code: fra
+  notes:
+  - La puissance de veille est exprimée généralement en milliwatt (mW).
+  - Pour les luminaires d'éclairage de secours, la puissance de veille n'inclut pas
+    la puissance de charge.
+  - Le dispositif peut être un luminaire, un appareillage de commande, etc.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance de veille
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2fcd25dc-0735-5a28-9c14-c2d873e8a694
+status: valid

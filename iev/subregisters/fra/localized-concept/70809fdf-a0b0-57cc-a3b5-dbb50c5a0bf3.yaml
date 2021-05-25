@@ -1,0 +1,51 @@
+data:
+  authoritativeSource:
+  - - clause: 705-01-08
+      original: 705-01-08 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: système d'équations reliant les quatre grandeurs vectorielles qui déterminent
+    le champ électromagnétique dans un milieu matériel ou dans le vide et les deux
+    grandeurs densité de courant électrique et charge électrique volumique
+  examples: []
+  id: 121-11-62
+  language_code: fra
+  notes:
+  - 'Les équations de Maxwell, sous leur forme différentielle, sont:
+
+
+    `rot E = - ((del B))/((del t))`
+
+
+    `div D = rho`
+
+
+    `rot H = J + ((del D))/((del t))`
+
+
+    `div B = 0`
+
+
+    où *rot* et div désignent respectivement le rotationnel et la divergence, `*E*`
+    , `*D*` , `*H*`  et `*B*`  sont les quatre grandeurs vectorielles déterminant
+    le champ électromagnétique,  `*J*` est la densité de courant électrique, `ρ`  la
+    charge électrique volumique et `t`  le temps.'
+  - Les équations de Maxwell ne déterminent entièrement le champ électromagnétique
+    dans un milieu donné que si on leur adjoint les relations spécifiques du milieu,
+    appelées souvent relations constitutives; dans le cas d'un milieu linéaire, ces
+    relations font intervenir la permittivité, la perméabilité et la conductivité
+    du milieu.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: équations de Maxwell
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 1998-08-01
+id: 70809fdf-a0b0-57cc-a3b5-dbb50c5a0bf3
+status: valid

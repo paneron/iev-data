@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '4.5'
+      original: ISO/IEC Guide 99:2007, <i>International vocabulary of metrology –
+        Basic and general concepts and associated terms (VIM)</i>, 4.5, modified –
+        The definition, and the term in English, have been replaced to adapt to usage
+        in control technology.
+      ref: JCGM VIM
+      relationship:
+        modification: The definition, and the term in English, have been replaced
+          to adapt to usage in control technology.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: range of values defined by the two extreme values within which a variable
+    quantity may be measured within the specified accuracy
+  examples: []
+  id: 351-48-11
+  language_code: eng
+  notes:
+  - This entry was numbered 351-27-11 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: measuring range
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 2493cb5a-c6c2-5e0c-8964-89bb1bb55183
+status: valid

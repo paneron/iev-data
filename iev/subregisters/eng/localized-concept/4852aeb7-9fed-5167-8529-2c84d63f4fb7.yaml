@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.84
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.84, modified
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: part of a network characterized by a common medium access and address
+    space
+  examples: []
+  id: 811-37-60
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: local area network
+    normative_status: preferred
+    type: expression
+    usage_info: in a train communication network
+  - designation: LAN
+    type: expression
+    usage_info: in a train communication network
+dateAccepted: 2017-11-01
+id: 4852aeb7-9fed-5167-8529-2c84d63f4fb7
+status: valid

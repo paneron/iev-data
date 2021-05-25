@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: théorème définissant un critère de stabilité de l'aimant supraconducteur
+    prenant en compte la dépendance vis-à-vis de la température du coefficient d'échange
+    thermique et les conductions thermiques le long du fil et entre les spires adjacentes
+    d'une bobine
+  examples: []
+  id: 815-15-29
+  language_code: fra
+  notes:
+  - Ce théorème sert de base au critère de stabilité de Maddock, et indique qu’une
+    région normale formée par une perturbation se résorbe si l’aire située au-dessous
+    de la courbe de refroidissement fonction de la température est plus grande que
+    l’aire située au-dessous de la courbe de génération de chaleur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: théorème des aires égales
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a911bec0-1157-575f-91a8-93a9bf2b82eb
+status: valid

@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: quotient impulse response Δ`v`~δ~(`t`) divided by the impulse area `K`~δ~
+    of the impulse function, the quotient described by `g ( t ) = (1)/((K_(delta)))
+    * Delta v_( delta ) ( t )`
+  examples: []
+  id: 351-45-29
+  language_code: eng
+  notes:
+  - 'The unit-impulse response `g`(`t`) of a system contains all properties of the
+    system and is used to calculate the response Δ`v`(`t`) of the system to any input
+    variable Δ`u`(`t`) by the convolution integral
+
+
+    `Delta v ( t ) = int_((- oo))^(oo) g ( tau ) * Delta u ( t - tau ) d tau`.'
+  - 'The systems frequency response `G ( j * omega )` may be calculated by Fourier
+    transformation of `g`(`t`):
+
+
+    `G ( j * omega ) = ℱ { g ( t ) }`.'
+  - The unit-impulse response of a system mathematically may be considered to result
+    from application of a unit impulse to an input variable.
+  - This entry was numbered 351-24-19 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit-impulse response
+    normative_status: preferred
+    type: expression
+  - designation: weighting function
+    normative_status: preferred
+    type: expression
+  - designation: '`g`(`t`)'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 7ca8ee1f-47f0-52fc-8819-4e030ecdb729
+status: valid

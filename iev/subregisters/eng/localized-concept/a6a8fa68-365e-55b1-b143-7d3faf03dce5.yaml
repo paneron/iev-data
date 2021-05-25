@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: ordered pair of integers `m` and `n` where `m` denotes the number of
+    rows and `n` the number of columns of a given matrix
+  examples: []
+  id: 102-06-02
+  language_code: eng
+  notes:
+  - A matrix *`A`* with `m` rows and `n` columns is denoted by *`A`*~`m` × `n`~, in
+    words "matrix of type `m` × `n`", or in short "`m` × `n` matrix", read "`m` by
+    `n`".
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: type
+    normative_status: preferred
+    type: expression
+    usage_info: of a matrix
+dateAccepted: 2008-08-01
+id: a6a8fa68-365e-55b1-b143-7d3faf03dce5
+status: valid

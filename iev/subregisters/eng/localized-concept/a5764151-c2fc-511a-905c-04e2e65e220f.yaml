@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: functional unit that generates an output variable the value of which
+    is equal to the absolute value of its input variable according to the formula
+    `v ( t ) = | u ( t ) |` where<table> <tr> <td>`t`</td> <td>is the time;</td> </tr>
+    <tr> <td> `u`(`t`)</td> <td>is the input variable;</td> </tr> <tr> <td> `v`(`t`)</td>
+    <td>is the output variable.</td> </tr> </table>
+  examples: []
+  id: 351-50-38
+  language_code: eng
+  notes:
+  - This entry was numbered 351-32-22 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absolute-value element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: a5764151-c2fc-511a-905c-04e2e65e220f
+status: valid

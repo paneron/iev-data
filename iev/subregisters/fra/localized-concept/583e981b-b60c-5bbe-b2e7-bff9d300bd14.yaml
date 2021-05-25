@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps pendant lequel une entité est en état d'incapacité
+    externe
+  examples: []
+  id: 192-02-24
+  language_code: fra
+  notes:
+  - L’IEC 60050-191:1990 (supprimée; remplacée par l'IEC 60050-192:2015) identifiait
+    en anglais le terme «external loss time» comme un synonyme, ce qui n’est pas vrai
+    pour toutes les applications.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps d’incapacité externe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 583e981b-b60c-5bbe-b2e7-bff9d300bd14
+status: valid

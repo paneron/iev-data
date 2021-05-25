@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre réel ou complexe
+  examples: []
+  id: 102-02-18
+  language_code: fra
+  notes:
+  - Par extension, un scalaire est aussi un élément d’un ensemble muni d'une addition
+    et d'une multiplication commutative, chacune avec élément neutre, tel que tout
+    élément a un opposé et tout élément autre que l'élément neutre pour l'addition
+    a un inverse.
+  - Les ensembles de scalaires, y compris l'extension de la Note 1, sont généralement
+    appelés des corps en mathématiques. L'ensemble des nombres réels et l'ensemble
+    des nombres complexes sont des corps infinis. Un exemple de corps fini est l'ensemble
+    de deux éléments 0 et 1 muni de l'algèbre de Boole (où 1 + 1 = 0).
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 587ba4e4-08ac-5983-bbe5-522fe7236324
+status: valid

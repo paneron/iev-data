@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.5
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.5
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: dispositif mécanique de coupure ou combinaison de dispositifs dont la
+    fonction est d'établir, supporter et couper des courants dans les conditions de
+    service normales et à provoquer l'ouverture des contacts quand le courant différentiel
+    atteint, dans des conditions spécifiées, une valeur donnée
+  examples: []
+  id: 442-05-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif à courant différentiel résiduel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DDR
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 399acf44-cbfe-5f61-9aaf-690d5606e84d
+status: valid

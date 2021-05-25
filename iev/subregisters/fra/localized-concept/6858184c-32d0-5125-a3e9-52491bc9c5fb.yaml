@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 13-31
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-31, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: logarithme de l'inverse de la probabilité conditionnelle `p ( x | y
+    )` de réalisation de l'événement `x` lorsque s'est réalisé un autre événement
+    `y` `I ( x | y ) = log (1)/((p ( x | y )))`
+  examples: []
+  id: 171-07-21
+  language_code: fra
+  notes:
+  - 'La quantité d''information conditionnelle est aussi égale à l''excès de la {{quantité
+    d''information conjointe, IEV:171-07-20}} des deux événements sur la {{quantité
+    d''information, IEV:171-07-14}} du second: `I ( x | y ) = I ( x , y ) - I ( y
+    )`.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantité d'information conditionnelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6858184c-32d0-5125-a3e9-52491bc9c5fb
+status: valid

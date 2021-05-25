@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the transmission loss for a particular propagation path equal to the
+    basic transmission loss minus the transmitting and receiving antenna gains in
+    the ray path directions
+  examples: []
+  id: 705-08-06
+  language_code: eng
+  notes: []
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ray path transmission loss
+    normative_status: preferred
+    type: expression
+  - designation: 'symboles: `A`~t~; `L`~t~'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 04ae0cbf-1d9d-5c75-a20a-984ebdddf68f
+status: valid

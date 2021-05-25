@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the product of the magnetic flux density and magnetic field strength
+    of a permanent magnet at any point of any demagnetization curve
+  examples: []
+  id: 221-04-05
+  language_code: eng
+  notes:
+  - The maximum value attained on the demagnetization curve is denoted (`BH`)~max~.
+  - The `BH` product is equal to twice the total energy stored in the external field
+    of the magnet per unit volume of the magnet.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`BH` product'
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 6435148f-c3b2-5e1e-b715-ed89605c1229
+status: valid

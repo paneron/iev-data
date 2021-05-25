@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fréquence à laquelle un oscillateur doit être réglé pour une combinaison
+    particulière des conditions de fonctionnement afin de répondre à la spécification
+    de la tolérance de fréquence dans une gamme spécifiée de conditions de fonctionnement
+  examples: []
+  id: 561-03-01
+  language_code: fra
+  notes:
+  - La fréquence d'ajustage correspond à la fréquence nominale plus le décalage de
+    fréquence.
+  - Cet article était numéroté 561-04-09 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence d’ajustage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 018aee81-5eda-5bd3-8cbf-8820670d1d43
+status: valid

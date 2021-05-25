@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: method used to reduce the effects of {{errors, IEV:192-03-02}} occurring
+    in a {{digital signal, IEV:702-04-05}} in recording, processing and transmission
+  examples: []
+  id: 723-10-94
+  language_code: eng
+  notes:
+  - Error control in digital television can use {{error detection, IEV:702-07-41}},
+    {{error correction, IEV:702-07-42}} and {{error concealment, IEV:723-10-97}},
+    either separately or in combination.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error control
+    normative_status: preferred
+    type: expression
+    usage_info: in digital television
+  - designation: error protection
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: e3e528c1-df3c-552e-8ce2-ad267f8b55fd
+status: valid

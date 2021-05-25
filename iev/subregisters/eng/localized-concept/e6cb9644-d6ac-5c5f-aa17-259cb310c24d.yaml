@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: average road surface luminance in the interior zone
+  examples: []
+  id: 845-31-091
+  language_code: eng
+  notes:
+  - The interior zone luminance is expressed in candela per square metre (cd·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interior zone luminance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~in~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: e6cb9644-d6ac-5c5f-aa17-259cb310c24d
+status: valid

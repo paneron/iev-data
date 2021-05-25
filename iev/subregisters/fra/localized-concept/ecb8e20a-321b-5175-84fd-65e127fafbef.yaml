@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur en dessous de laquelle il n'est pas admis que l'éclairement lumineux
+    moyen d'une surface spécifiée chute
+  examples: []
+  id: 845-29-157
+  language_code: fra
+  notes:
+  - L'éclairement lumineux moyen maintenu est l'éclairement lumineux moyen de la surface
+    spécifiée au moment auquel il convient d'effectuer la maintenance.
+  - L'éclairement lumineux moyen maintenu est exprimé en lux (lx &amp;equals; lm·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement lumineux moyen maintenu
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ecb8e20a-321b-5175-84fd-65e127fafbef
+status: valid

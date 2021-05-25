@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: délai qui s'écoule avant une tâche de maintenance pour des raisons administratives
+    image::/assets/images/parts/192/60050-192-F2fr.png[Figure 2 - Temps de maintenance]
+  examples:
+  - Durée cumulée passée à attendre l’autorisation d’accès à l’entité à maintenir.
+  id: 192-07-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: délai administratif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 638cdce2-91f4-550d-bffa-3975e74f81ae
+status: valid

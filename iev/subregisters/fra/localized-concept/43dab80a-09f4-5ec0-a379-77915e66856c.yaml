@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '5.8'
+      original: ≠ VIM 5.8
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: pente d'une courbe d'étalonnage lorsqu'elle est une droite passant par
+    zéro
+  examples: []
+  id: 311-01-12
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "incertitude".
+  - La constante d'un appareil de mesure peut aussi être définie, dans le cas ci-dessus,
+    comme le coefficient par lequel on doit multiplier l’indication d’un appareil
+    de mesure pour obtenir la valeur indiquée.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante d'un appareil de mesure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 43dab80a-09f4-5ec0-a379-77915e66856c
+status: valid

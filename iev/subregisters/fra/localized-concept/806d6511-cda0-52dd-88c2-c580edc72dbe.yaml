@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 551-19-01
+      original: 551-19-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: grandeur qui n'est pas essentielle au fonctionnement d'une entité mais
+    qui a un effet sur son comportement
+  examples: []
+  id: 151-16-31
+  language_code: fra
+  notes:
+  - Pour les dispositifs électriques, la température, l'humidité et la pression sont
+    souvent des grandeurs d'influence.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur d'influence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 806d6511-cda0-52dd-88c2-c580edc72dbe
+status: valid

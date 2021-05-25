@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 704-14-12
+      original: 704-14-12
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: trajet commun que suivent dans un appareil ou une station les signaux
+    provenant d'un certain nombre de voies de transmission, la séparation étant réalisée
+    par multiplexage temporel
+  examples: []
+  id: 714-18-11
+  language_code: fra
+  notes: []
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bus
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: jonction multiplex interne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: canal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 79427361-f2af-5902-970a-be2771e85c75
+status: valid

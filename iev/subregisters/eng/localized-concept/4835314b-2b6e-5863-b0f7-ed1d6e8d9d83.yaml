@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 712-02-31
+      original: 712-02-31
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1994-08-01
+  definition: the direction within the beam of an antenna for which the amplitude
+    of the specified field component is a maximum or about which the beam may be considered
+    symmetrical
+  examples: []
+  id: 725-13-05
+  language_code: eng
+  notes:
+  - For a multibeam antenna, the axis of each beam can be defined in the same way.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: beam axis
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-08-01
+id: 4835314b-2b6e-5863-b0f7-ed1d6e8d9d83
+status: valid

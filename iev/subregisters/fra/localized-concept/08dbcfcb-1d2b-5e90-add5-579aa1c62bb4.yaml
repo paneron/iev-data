@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.69
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.69
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  definition: couche du modèle OSI ({{IEV 716-01-20, IEV:716-01-20}}) responsable
+    du contrôle de flux de bout en bout et de la reprise sur erreur
+  examples: []
+  id: 811-37-113
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: couche transport
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 08dbcfcb-1d2b-5e90-add5-579aa1c62bb4
+status: valid

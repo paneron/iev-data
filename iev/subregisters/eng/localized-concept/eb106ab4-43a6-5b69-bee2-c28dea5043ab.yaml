@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.9
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.9
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: party which makes {{cloud services, IEV:741-01-08}} available
+  examples: []
+  id: 741-01-09
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cloud service provider
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: eb106ab4-43a6-5b69-bee2-c28dea5043ab
+status: valid

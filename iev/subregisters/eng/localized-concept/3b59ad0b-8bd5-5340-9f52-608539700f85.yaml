@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: ratio of the frequency of a sinusoidal component of the Fourier series
+    of a periodic quantity to the fundamental frequency
+  examples: []
+  id: 103-07-24
+  language_code: eng
+  notes:
+  - The harmonic order of the fundamental component is one.
+  - When a reference fundamental frequency is defined, it is used in place of the
+    fundamental frequency.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: harmonic order
+    normative_status: preferred
+    type: expression
+  - designation: harmonic number
+    type: expression
+dateAccepted: 2009-12-01
+id: 3b59ad0b-8bd5-5340-9f52-608539700f85
+status: valid

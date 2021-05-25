@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-12
+      original: 702-09-12 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2002-06-01
+  definition: device or network with a specified number `n` of separate ports
+  examples: []
+  id: 131-12-68
+  language_code: eng
+  notes:
+  - In French, the term "multiporte" may also be used as an adjective, synonymously
+    with "à `n` accès".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`n`-port'
+    normative_status: preferred
+    type: expression
+  - designation: multiport
+    type: expression
+dateAccepted: 2002-06-01
+id: 96f8d837-e1ed-5701-9362-4206b8fdde9b
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '9.3'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 9.3, modifiée – La Note 1 à l'article a été
+        ajoutée.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: La Note 1 à l'article a été ajoutée.
+        type: modified
+  definition: période pendant laquelle un {{document normatif, IEV:901-02-01}} est
+    actuel et qui s'étend de la date d'entrée en vigueur faisant suite à une décision
+    de l'{{organisme, IEV:901-03-01}} qui en est responsable jusqu'à son retrait ou
+    son remplacement
+  examples: []
+  id: 901-04-04
+  language_code: fra
+  notes:
+  - L'expression “période” se refère à la "durée" de l'intervalle de temps définit
+    en {{IEV 113-01-13, IEV:113-01-13}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: période de validité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d3df4e6c-33fc-59a3-9156-4a5e54750b71
+status: valid

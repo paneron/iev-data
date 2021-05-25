@@ -1,0 +1,29 @@
+data:
+  identifier: 161-01-04
+  localizedConcepts:
+    ara: 8e54031b-8209-5126-b823-3bf3cd9797e6
+    deu: ecef440b-942f-5706-87e1-f2953052ec6a
+    eng: bc3ccd5a-5ce2-5e14-b930-f2f43ebd9b99
+    fin: 25bcece6-c6de-5065-9151-97f8d80297bf
+    fra: b66c9fe4-c4c9-5aab-8109-fc166b218d13
+    ita: 0697866c-5e51-53dd-9185-82511a146501
+    jpn: 3d9e8c47-52c7-5818-9356-0bb60d3e3e2f
+    kor: 92a56405-86ba-56f1-88de-6caf886a66af
+    nno: e509dc2e-217f-5261-91eb-94b9d2fa9b84
+    nob: e46c69a6-1cd2-50e4-991d-42b059b897db
+    pol: 1540f3e8-ab07-58af-bb5c-762135f1d50a
+    por: 0d898d1f-c0c9-590e-9ef2-e7230c37edf0
+    slv: 043c41e9-42bc-594d-8122-8c1d56927251
+    spa: ae173cf9-18b3-51ef-a1bd-082353cb5ee6
+    srp: fd7accf2-2ebe-59cb-9cb4-03d78e9f7102
+    swe: 6c070886-12cc-553f-83cc-1c4153395311
+    zho: 6cedb58e-7adf-517c-93a0-f125698cb4a1
+dateAccepted: 2018-11-17
+id: 720b9ea1-779e-5b3c-be20-fbb66a65fbef
+related:
+- ref:
+    id: 161-01-04
+    source: IEV
+    version: 1990-08
+  type: supersedes
+status: valid

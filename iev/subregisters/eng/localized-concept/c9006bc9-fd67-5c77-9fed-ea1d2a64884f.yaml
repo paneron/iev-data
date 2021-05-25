@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: temperature related to specified performance of the LED module
+  examples: []
+  id: 845-27-112
+  language_code: eng
+  notes:
+  - Performance temperature is expressed in degree Celsius (°C).
+  - Performance temperature is measured at a given location point.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: performance temperature
+    normative_status: preferred
+    type: expression
+    usage_info: of an LED module
+dateAccepted: 2020-12-01
+id: c9006bc9-fd67-5c77-9fed-ea1d2a64884f
+status: valid

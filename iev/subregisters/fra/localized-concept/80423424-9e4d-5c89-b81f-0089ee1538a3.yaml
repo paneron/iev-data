@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: éclairage pour lequel la lumière du jour est la source de lumière
+  examples: []
+  id: 845-29-031
+  language_code: fra
+  notes:
+  - Le terme "éclairage naturel" est obsolète.
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairage du jour
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: éclairage naturel
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 80423424-9e4d-5c89-b81f-0089ee1538a3
+status: valid

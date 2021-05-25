@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-04-01
+  definition: factor by which the {{electric charge, IEV:113-02-10}} on discharge
+    has to be multiplied to determine the electric charge on charge required for the
+    battery to recover its original state of charge
+  examples: []
+  id: 482-05-41
+  language_code: eng
+  notes:
+  - The charge factor is the reciprocal of the charge efficiency.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 98f94471-b016-5b5d-8208-8b0a14bdcccb
+status: valid

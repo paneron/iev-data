@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.19
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.19
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: bloc de construction fonctionnel qui est nécessaire pour lancer une
+    activité, avec le soutien d'une mise en œuvre
+  examples: []
+  id: 741-01-19
+  language_code: fra
+  notes:
+  - Voir aussi “{{composant, IEV:741-01-11}}”, qui est un surensemble qui contient
+    tous les composants fonctionnels et les autres types de composants qui peuvent
+    être déployés.
+  reviewDecisionEvent: published
+  terms:
+  - designation: composant fonctionnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cb329f25-a6ab-50ae-af34-10a432e35b75
+status: valid

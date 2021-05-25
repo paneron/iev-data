@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: valeur de la puissance électrique absorbée dans les conditions définies
+    par les caractéristiques assignées au circuit d'entrée du relais
+  examples: []
+  id: 444-03-17
+  language_code: fra
+  notes:
+  - Il s'agit d'une valeur de courte durée (et non d'une valeur en régime établi),
+    la bobine du relais étant à la température ambiante.
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance assignée du circuit d'entrée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 92177bbb-be32-510d-87ac-bcf5ef5d049c
+status: valid

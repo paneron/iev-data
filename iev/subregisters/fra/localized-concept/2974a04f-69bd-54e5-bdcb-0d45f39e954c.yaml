@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 131-11-42
+      original: 131-11-42
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: somme des puissances actives dans tous les éléments de phase d'un élément
+    polyphasé
+  examples: []
+  id: 141-02-15
+  language_code: fra
+  notes:
+  - Pour un élément polyphasé symétrique en marche symétrique, la puissance active
+    est égale à la puissance active d’un des éléments de phase multipliée par le nombre
+    de phases.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance active
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour un élément polyphasé
+dateAccepted: 2004-08-01
+id: 2974a04f-69bd-54e5-bdcb-0d45f39e954c
+status: valid

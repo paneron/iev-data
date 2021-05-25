@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the luminance, `L`, of a plane retroreflective surface in
+    the direction of observation and the illuminance, `E_( _|_ )`, at the retroreflector
+    on a plane perpendicular to the direction of the incident light `R_L = (L)/((E_(
+    _|_ )))`
+  examples: []
+  id: 845-24-104
+  language_code: eng
+  notes:
+  - The coefficient of retroreflected luminance is particularly suitable for describing
+    materials in sheet form.
+  - The coefficient of retroreflected luminance is expressed in candela per square
+    metre per lux (cd·m^−2^·lx^−1^).
+  - This entry was numbered 845-04-98 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient of retroreflected luminance
+    normative_status: preferred
+    type: expression
+  - designation: '`RL`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: aaa84d40-7733-5dd0-b585-6cb4b573c2f4
+status: valid

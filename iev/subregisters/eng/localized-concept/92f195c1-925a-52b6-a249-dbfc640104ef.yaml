@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: smallest energy difference between two neighbouring allowed bands separated
+    by a forbidden band
+  examples: []
+  id: 113-06-16
+  language_code: eng
+  notes:
+  - 1 The two allowed bands are generally the conduction band and the valence band.
+  - 2 The term “energy gap” is often used erroneously in place of “gap energy”.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gap energy
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~g~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 92f195c1-925a-52b6-a249-dbfc640104ef
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: assembly of programs, procedures, rules, documentation and data, pertaining
+    to the operation of an {{information processing, IEV:171-01-19}} device or system
+  examples:
+  - '{{Firmware, IEV:171-05-03}}, {{operating system, IEV:171-05-01}}, {{application
+    software, IEV:171-05-04}}.'
+  id: 171-01-21
+  language_code: eng
+  notes:
+  - Software is an intellectual creation that is independent of the medium upon which
+    it is recorded.
+  - Software requires {{hardware, IEV:171-01-20}} to execute programs, and to store
+    and transmit data.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: software
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 7bcbaef6-90ee-5a5e-a568-9e1a0d26a96b
+status: valid

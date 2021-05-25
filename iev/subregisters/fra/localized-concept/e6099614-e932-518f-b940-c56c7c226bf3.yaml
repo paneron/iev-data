@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.6'
+      link: https://webstore.iec.ch/publication/6361
+      original: IEC 62047-19:2013, 3.6
+      ref: IEC 62047-19:2013
+      relationship:
+        type: identical
+  definition: '{{e-compas, IEV:523-04-21}} qui utilise un {{capteur, IEV:151-13-48}}
+    magnétique à 3 axes comme élément de détection du géomagnétisme et un capteur
+    d''accélération à 3 axes comme élément de détection de la gravité'
+  examples: []
+  id: 523-04-24
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: e-compas à 6 axes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e6099614-e932-518f-b940-c56c7c226bf3
+status: valid

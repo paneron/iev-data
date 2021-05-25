@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: scalaire div *`U`* associé en chaque point d'un domaine déterminé de
+    l'espace à un vecteur *`U`*, égal à la limite du quotient du flux du vecteur sortant
+    d'une surface fermée S par le volume de l'intérieur de la surface lorsque toutes
+    ses dimensions géométriques tendent vers zéro `div U = underset((V -> 0))((lim))
+    (1)/(V) underset(S)( ∯ ) U * e_n d A` où *`e`*~n~d`A` est l'élément vectoriel
+    de surface orienté vers l'extérieur et `V` est le volume
+  examples: []
+  id: 102-05-20
+  language_code: fra
+  notes:
+  - 'En coordonnées cartésiennes orthonormées, la divergence est:
+
+
+    `div U = ((del U_x))/((del x)) + ((del U_y))/((del y)) + ((del U_z))/((del z))`.'
+  - La divergence du champ vectoriel *`U`* est notée div *`U`* ou *∇* ⋅ *`U`*.
+  reviewDecisionEvent: published
+  terms:
+  - designation: divergence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1c79382a-3fba-53c6-a524-a191d7a1c707
+status: valid

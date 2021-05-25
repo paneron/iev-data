@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: random noise the values of which over any number n of arbitrary instants
+    are distributed in accordance with an n-variable gaussian probability law
+  examples: []
+  id: 702-08-50
+  language_code: eng
+  notes:
+  - Gaussian noise is entirely defined by its time varying mean and by a covariance
+    function of two instants. If the noise is stationary the mean is independent of
+    time, the covariance becomes a correlation function depending only on the difference
+    between the two instants considered and the knowledge of this correlation function
+    is equivalent to that of the power spectral density.
+  - Gaussian noise may be produced by a large number of independent pulses such that
+    in any finite time interval each has a negligible value compared to that of the
+    sum of the pulses.
+  - In practice thermal noise, shot noise and quantum noise are gaussian noises.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gaussian noise
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: d03639de-bb6f-522c-a5f3-11b018be6fa3
+status: valid

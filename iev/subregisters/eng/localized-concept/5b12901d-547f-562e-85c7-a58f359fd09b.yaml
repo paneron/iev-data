@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for a vector field *`U`* that is given at each point of a surface S
+    limited by an oriented closed curve C, theorem stating that the surface integral
+    over S of the rotation of the field *`U`* is equal to the circulation of this
+    field along the curve C `underset(S)( ∬ ) rot U * e_n d A = underset(C)( oint
+    ) U * d r` where *`e`*~n~d`A` is the vector surface element and d*`r`* is the
+    vector line element
+  examples: []
+  id: 102-05-31
+  language_code: eng
+  notes:
+  - The orientation of the surface S with respect to the curve C is chosen such that,
+    at any point of C, the vector line element, the unit vector normal to S and defining
+    its orientation, and the unit vector normal to these two vectors and oriented
+    towards the exterior of the curve, form a right-handed or a left-handed trihedron
+    according to space orientation.
+  - The Stokes theorem can be generalized to the `n`-dimensional Euclidean space.
+  - In magnetostatics, the Stokes theorem is applied to express that the magnetic
+    flux through the surface S is equal to the circulation over C of the magnetic
+    vector potential. This circulation defines the linked flux. See {{IEV 121-11-24,
+    IEV:121-11-24}}.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Stokes theorem
+    normative_status: preferred
+    type: expression
+  - designation: circulation theorem
+    type: expression
+dateAccepted: 2008-08-01
+id: 5b12901d-547f-562e-85c7-a58f359fd09b
+status: valid

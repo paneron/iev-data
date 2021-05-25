@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: valeur limite d'une variable d'état dont le dépassement peut entraîner
+    une perte de stabilité du réseau
+  examples: []
+  id: 603-03-10
+  language_code: fra
+  notes:
+  - En l'absence d'un défaut cette définition s'applique à la stabilité statique du
+    réseau.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: limite de stabilité pour une variable d'état
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 84af5c5f-bdee-5630-ac8d-ee28ca3efeb1
+status: valid

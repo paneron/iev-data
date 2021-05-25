@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '5.24'
+      original: ≠ VIM 5.24
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: erreur d'un appareil de mesure lorsqu'on l'utilise dans les conditions
+    de référence
+  examples: []
+  id: 311-03-08
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "valeur vraie".
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: erreur intrinsèque
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: b112c9eb-ef3e-592e-843e-a993c31e9fb2
+status: valid

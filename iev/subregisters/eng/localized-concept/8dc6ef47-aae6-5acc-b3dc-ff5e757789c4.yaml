@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: ratio of the RMS value of the harmonic content to the RMS value of an
+    alternating quantity
+  examples: []
+  id: 551-20-15
+  language_code: eng
+  notes:
+  - The total harmonic factor depends on the choice of the fundamental component.
+    If it is not clear from the context which one is used, an indication should be
+    given.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total harmonic factor
+    normative_status: preferred
+    type: expression
+    usage_info: in power electronics
+dateAccepted: 2017-07-01
+id: 8dc6ef47-aae6-5acc-b3dc-ff5e757789c4
+status: valid

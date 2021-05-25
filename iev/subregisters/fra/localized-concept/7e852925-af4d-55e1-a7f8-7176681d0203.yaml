@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '6.3'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 6.3
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: résiliation de l'affirmation de conformité
+  examples: []
+  id: 902-05-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: retrait
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: révocation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e852925-af4d-55e1-a7f8-7176681d0203
+status: valid

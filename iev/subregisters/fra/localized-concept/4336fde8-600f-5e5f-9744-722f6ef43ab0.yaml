@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.10
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.10
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: propriété de ce qui mérite la confiance pendant toute la durée du cycle
+    de vie de mise en œuvre d'un {{Internet des Objets, IEV:741-02-01}} pour assurer
+    la {{sécurité des informations, IEV:871-04-16}}, la {{confidentialité des données,
+    IEV:871-04-23}}, la {{sécurité, IEV:903-01-19}}, la <a href="IEV741-02-500">fiabilité</a>
+    et la résilience
+  examples: []
+  id: 741-02-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: gage de confiance IdO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4336fde8-600f-5e5f-9744-722f6ef43ab0
+status: valid

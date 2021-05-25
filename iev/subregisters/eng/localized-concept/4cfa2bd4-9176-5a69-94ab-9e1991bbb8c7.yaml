@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: time integral of energy `E` over a time interval [`t`~1~, `t`~2~], thus
+    `S = int_(t_1)^(t_2) E d t`
+  examples: []
+  id: 113-03-51
+  language_code: eng
+  notes:
+  - 1 Different kinds of energy may be used for different purposes, e.g. Hamilton
+    function or Lagrange function.
+  - 2 The coherent SI unit of action is joule second, J·s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: action
+    normative_status: preferred
+    type: expression
+  - designation: '`S`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 4cfa2bd4-9176-5a69-94ab-9e1991bbb8c7
+status: valid

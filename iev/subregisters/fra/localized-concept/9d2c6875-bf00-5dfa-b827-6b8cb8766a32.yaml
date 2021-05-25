@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: distribution qui est la dérivée de la distribution de Dirac
+  examples: []
+  id: 103-03-06
+  language_code: fra
+  notes:
+  - 'Le doublet unité permet d''exprimer la valeur pour `x`~0~ de la dérivée d''une
+    fonction `f`(`x`) dérivable pour `x = x_0`:
+
+
+    `f^( '' ) ( x_0 ) = - int_( - oo)^( + oo) delta^( '' ) ( x - x_0 ) f ( x ) d x`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: doublet unité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9d2c6875-bf00-5dfa-b827-6b8cb8766a32
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction nulle pour toute valeur négative de la variable indépendante
+    et égale à un pour toute valeur positive
+  examples: []
+  id: 103-03-01
+  language_code: fra
+  notes:
+  - Voir la Figure 1 ci-dessous pour une représentation graphique de ε(`t`). La valeur
+    ε(0) peut rester indéfinie ou être définie selon le contexte.
+  - ε(`x` − `x`~0~) représente un échelon unité à la valeur `x`~0~ de la variable
+    indépendante `x`.
+  - La notation H(`x`) est aussi utilisée. La notation ϑ(`t`) est utilisée pour la
+    fonction échelon unité du temps. La notation ϒ(`x`) a aussi été utilisée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction échelon unité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: échelon unité
+    gender: m
+    plurality: singular
+    type: expression
+  - designation: fonction de Heaviside
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3a42bba2-b913-57bd-a498-7ebe28bb3462
+status: valid

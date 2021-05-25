@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: an access channel intended primarily for user-network signalling purposes
+  examples: []
+  id: 716-04-05
+  language_code: eng
+  notes:
+  - D-channels may be used for user-to-user signalling and for the transmission of
+    packetized data.
+  - D-channels have been defined with digit rates of 16 kbit/s and 64 kbit/s.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: D-channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 1fc43cbf-cda8-5c10-854a-b044ae266e23
+status: valid

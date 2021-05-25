@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: tension apparaissant aux bornes de sortie spécifiées de l'appareil lorsque
+    l'impédance de charge est égale à l'impédance de source assignée, l'onde porteuse
+    n'étant pas modulée
+  examples: []
+  id: 314-08-13
+  language_code: fra
+  notes:
+  - – La valeur de la tension s'exprime en valeur efficace pour les signaux sinusoïdaux
+    et en valeur de crête à creux pour les signaux intentionnellement non sinusoïdaux.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension de sortie adaptée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: c8f61a09-4e1a-5c5b-8054-51ae857f0086
+status: valid

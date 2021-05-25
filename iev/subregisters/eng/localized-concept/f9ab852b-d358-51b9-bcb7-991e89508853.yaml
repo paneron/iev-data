@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'switching system with closed action path containing at least one binary
+    storage element so that beginning from a start command a constant manipulated
+    variable acts on the controlled system in order to reduce the absolute value of
+    the difference (`w`−`x`) until the value of the controlled variable `x` reaches
+    the value of the reference variable `w` for the first time SEE: Figure 12.'
+  examples: []
+  id: 351-47-62
+  language_code: eng
+  notes:
+  - A reset circuit has an open action in spite of the fact that the structure has
+    a closed action path. (see Figure 12).
+  - This entry was numbered 351-26-56 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reset circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: f9ab852b-d358-51b9-bcb7-991e89508853
+status: valid

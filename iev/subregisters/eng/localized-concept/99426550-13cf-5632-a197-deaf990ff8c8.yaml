@@ -1,0 +1,47 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: density of incident <a href="IEV845-21-037">luminous energy</a> with
+    respect to area at a point on a real or imaginary surface `H_v = ((d Q_v))/((d
+    A))` where `Q`~v~ is luminous energy and `A` is the area on which the luminous
+    energy is incident
+  examples: []
+  id: 845-21-072
+  language_code: eng
+  notes:
+  - The term "light exposure" is no longer used.
+  - 'Luminous exposure can be derived from the spectral radiant exposure distribution
+    by
+
+
+    `H_v \ = \ K_m int_0^(oo) H_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    where `K`~m~ is maximum luminous efficacy, `H`~e,~`λ`(`λ`) is the spectral radiant
+    exposure at wavelength `λ` and `V`(`λ`) is <a href="IEV845-21-035">spectral luminous
+    efficiency</a>. Integral limits can be confined depending on the spectral <a href="IEV845-25-061">responsivity</a>
+    of the detectors used as a sensor.'
+  - The corresponding radiometric quantity is "radiant exposure". The corresponding
+    quantity for photons is "photon exposure"
+  - The luminous exposure is expressed in lux second (lx·s = lm·s·m^−2^).
+  - This entry was numbered 845-01-43 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous exposure
+    normative_status: preferred
+    type: expression
+  - designation: light exposure
+    normative_status: deprecated
+    type: expression
+  - designation: '`H`~v~
+
+      `H`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 99426550-13cf-5632-a197-deaf990ff8c8
+status: valid

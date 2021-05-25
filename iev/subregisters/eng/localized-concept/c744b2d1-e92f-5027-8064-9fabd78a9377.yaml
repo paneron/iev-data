@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: for wave propagation, the limit at a given instant and point in space
+    of the vector representing the displacement of a given characteristic of the field
+    during a given interval, divided by the duration of this time interval when it
+    approaches zero
+  examples: []
+  id: 705-01-04
+  language_code: eng
+  notes:
+  - Depending on the choice of the characteristic, different types of velocities can
+    be defined, such as phase velocity vector, group velocity vector, with magnitudes
+    depending on the considered point and direction.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: velocity (vector) of propagation (of a wave)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: c744b2d1-e92f-5027-8064-9fabd78a9377
+status: valid

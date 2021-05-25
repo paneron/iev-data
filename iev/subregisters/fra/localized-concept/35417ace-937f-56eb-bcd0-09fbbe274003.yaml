@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: connecteur fixé à un appareil ou à un élément de construction ou analogue
+  examples: []
+  id: 151-12-20
+  language_code: fra
+  notes:
+  - Les éléments de contact d’un socle peuvent être des contacts femelles aussi bien
+    que des contacts mâles.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: socle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: embase
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 35417ace-937f-56eb-bcd0-09fbbe274003
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: quotient de la puissance rayonnée par une source électromagnétique cohérente
+    pouvant être considérée comme ponctuelle, dans un angle solide élémentaire comprenant
+    une direction spécifiée, par la valeur de cet angle solide
+  examples: []
+  id: 705-02-04
+  language_code: fra
+  notes:
+  - Pour qu'une antenne puisse être considérée comme une source ponctuelle, on doit
+    se placer dans la région de champ lointain de cette antenne.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité de rayonnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: puissance rayonnée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 4319c76b-ee0b-5c45-8885-ac668b9683e1
+status: valid

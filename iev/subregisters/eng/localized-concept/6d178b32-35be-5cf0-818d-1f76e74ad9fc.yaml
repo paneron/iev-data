@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the radiance of a thermal radiator in a given direction
+    and the radiance of a Planckian radiator at the same temperature
+  examples: []
+  id: 845-24-008
+  language_code: eng
+  notes:
+  - The symbols `θ`, `φ` are chosen here as an example of the angular coordinates
+    defining the given direction.
+  - The directional emissivity has unit one.
+  - This entry was numbered 845-04-08 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: directional emissivity
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`
+
+      `ε(θ`, `φ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 6d178b32-35be-5cf0-818d-1f76e74ad9fc
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: angle dont la tangente est égale au {{facteur de dissipation, IEV:151-15-47}}
+    `d` `δ`=arctan `d`
+  examples: []
+  id: 151-15-48
+  language_code: fra
+  notes:
+  - L’angle de perte est défini en {{131-12-49, IEV:131-12-49}} comme l’angle dont
+    la tangente est le rapport de la résistance à la valeur absolue de la réactance.
+    D’autres angles de pertes sont définis en électromagnétisme (voir {{121-12-17,
+    IEV:121-12-17}} et {{121-12-35, IEV:121-12-35}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle de perte
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: bipôle
+  - designation: angle de pertes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: bipôle
+dateAccepted: 2018-11-17
+id: d5944143-b1de-508d-a965-08a7a9f7b3fb
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '1.28'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.28
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: quantity-value scale for ordinal quantities
+  examples: []
+  id: 112-01-37
+  language_code: eng
+  notes:
+  - 'Examples: Rockwell C hardness scale; scale of octane numbers for petroleum fuel.'
+  - An ordinal quantity-value scale may be established by measurements according to
+    a measurement procedure.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ordinal value scale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 412155bf-dede-5d9b-bb20-628b42426f00
+status: valid

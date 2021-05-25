@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: loi donnant la force entre deux particules chargées, exprimée par la
+    relation `F_((12)) = k * ((Q_1 Q_2))/((r^2)) * ((r_((21))))/(r) = k * ((Q_1 Q_2))/((r^2))
+    * e_((21))` où `*F*`~12~ est la force exercée sur la particule de charge électrique
+    `Q`~1~ par la particule de charge électrique `Q`~2~, `k` une constante positive,
+    `*r*`~21~ le vecteur issu de la particule de charge électrique `Q`~2~ et aboutissant
+    à la particule de charge électrique `Q`~1~, `r` = |`*r*`~21~| la distance entre
+    particules et `*e*`~21~ le vecteur unitaire `*r*`~21~/`r`
+  examples: []
+  id: 121-11-02
+  language_code: fra
+  notes:
+  - Dans le vide la constante `k` est égale à 1/4π`ε`~0~ où `ε`~0~ est la constante
+    électrique.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi de Coulomb
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: f09dfc1d-374f-55ae-b1a0-1b09ec86bc4d
+status: valid

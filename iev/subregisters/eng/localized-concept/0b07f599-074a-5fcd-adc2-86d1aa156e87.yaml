@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a primary digital group of 24 PCM channels assembled by PCM multiplex
+    equipment which uses the CCITT quantizing law mu; the composite digital signal
+    has a frame consisting of 24 octet time-slots and a single digit time-slot, and
+    operates at a digit rate of 1 544 kbit/s
+  examples: []
+  id: 704-26-04
+  language_code: eng
+  notes:
+  - This term should be used only when all the available channels are used as PCM
+    channels.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: primary PCM group mu
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 0b07f599-074a-5fcd-adc2-86d1aa156e87
+status: valid

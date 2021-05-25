@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: processus selon lequel une station de données demande à un terminal
+    de données ou une station de données correspondant de communiquer son identification
+    ou son état
+  examples: []
+  id: 721-19-06
+  language_code: fra
+  notes:
+  - En communication de données, c'est la station maîtresse qui demande à la station
+    asservie de communiquer son identification.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: demande d'identification
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: interrogation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: 03185eb4-3941-5312-9c2b-2180763afcb0
+status: valid

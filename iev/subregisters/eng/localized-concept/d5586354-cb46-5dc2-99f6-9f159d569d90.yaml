@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: '{{time interval, IEV:113-01-10}} that is cyclic and that can be recognized
+    and defined uniquely'
+  examples: []
+  id: 704-13-08
+  language_code: eng
+  notes:
+  - In the case of a {{time division multiplex transmission, IEV:721-06-02}}, separate
+    time-slots are allocated to each {{signal, IEV:101-12-02}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time-slot
+    normative_status: preferred
+    type: expression
+  - designation: TS
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: d5586354-cb46-5dc2-99f6-9f159d569d90
+status: valid

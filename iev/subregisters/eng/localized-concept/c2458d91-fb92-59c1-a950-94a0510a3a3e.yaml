@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: duration during which the output signal is available for reading when
+    the instrument is in continuous operation
+  examples: []
+  id: 314-02-08
+  language_code: eng
+  notes:
+  - Generally, the readout time is specified at the maximum conversion rate.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: readout time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: c2458d91-fb92-59c1-a950-94a0510a3a3e
+status: valid

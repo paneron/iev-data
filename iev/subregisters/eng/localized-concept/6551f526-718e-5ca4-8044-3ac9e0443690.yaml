@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2018-09-01
+  definition: ratio of the number of erroneous received elements of a message to the
+    total number of elements transmitted during a given {{time interval, IEV:113-01-10}}
+  examples:
+  - '{{bit error ratio, IEV:704-18-04}}, {{digit error ratio, IEV:721-08-11}}, {{block
+    error ratio, IEV:721-08-13}}'
+  id: 702-07-39
+  language_code: eng
+  notes:
+  - The elements can be, for example, {{digits, IEV:702-05-02}}, {{code words, IEV:702-05-17}}
+    or {{blocks, IEV:721-03-11}}.
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error ratio
+    normative_status: preferred
+    type: expression
+  - designation: error rate
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2018-09-01
+id: 6551f526-718e-5ca4-8044-3ac9e0443690
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      link: https://www.iso.org/standard/32893.html
+      original: Guide ISO/CEI 51:1999, <i>Aspects liés à la sécurité – Principes directeurs
+        pour les inclure dans les normes</i>, 3.5
+      ref: ISO/IEC Guide 51:1999
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: source potentielle de dommage
+  examples: []
+  id: 351-57-01
+  language_code: fra
+  notes:
+  - Le terme phénomène dangereux peut être qualifié par son origine ou la nature du
+    dommage causé. Par ailleurs, en français, le terme risque est très souvent employé
+    au lieu de phénomène dangereux prévu (par exemple, risque de choc électrique,
+    risque d’écrasement, risque de coupure, risque toxique, risque d’incendie, risque
+    de noyade)
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phénomène dangereux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 30dc7e7a-4de7-5195-91a6-ae40a4234281
+status: valid

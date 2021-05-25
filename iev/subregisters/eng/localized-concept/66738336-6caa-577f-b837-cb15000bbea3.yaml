@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for a non-zero complex number `c`, the real number `φ` restricted to
+    `- pi phi <= pi`, such that `c = | c | e^(j phi)`
+  examples: []
+  id: 102-02-17
+  language_code: eng
+  notes:
+  - 'The argument `arg c` of the complex number `c = a + j b = | c | e^(j phi)` is
+    equal to:
+
+    `arccos ( a // sqrt(a^2 + b^2) )` if `b &gt;= 0` and `- arccos ( a // sqrt(a^2
+    + b^2) )` if `b 0`, where `0 &lt;= arccos x &lt;= pi`.
+
+    It is not defined if `a = b = 0`.'
+  - The concept of argument may be applied to complex scalar quantities.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: argument
+    normative_status: preferred
+    type: expression
+    usage_info: of a complex number
+dateAccepted: 2008-08-01
+id: 66738336-6caa-577f-b837-cb15000bbea3
+status: valid

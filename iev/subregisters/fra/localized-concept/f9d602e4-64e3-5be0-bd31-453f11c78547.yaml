@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.13'
+      original: IEC Guide 116:2010, 3.13, modifiée – Note 1 à l'article a été ajoutée.
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: Note 1 à l'article a été ajoutée.
+        type: modified
+  dateAmended: 2013-06-01
+  definition: combinaison de la probabilité d'un {{dommage, IEV:903-01-01}} et de
+    sa gravité
+  examples: []
+  id: 903-01-07
+  language_code: fra
+  notes:
+  - 'En français, le terme «risque» désigne aussi l’origine du phénomène dangereux
+    ou la nature du dommage attendu, en anglais «hazard» (voir {{903-01-02, IEV:903-01-02}}).
+
+
+    [ISO/IEC Guide 51:1999, définition 3.2]'
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: risque
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: f9d602e4-64e3-5be0-bd31-453f11c78547
+status: valid

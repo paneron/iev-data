@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: grandeur développée pour le domaine public, les prévisions météorologiques
+    et la climatologie, qui quantifie le potentiel érythémal (ou pouvoir d'érythème
+    solaire) du <a href="IEV845-21-008">rayonnement ultraviolet</a> solaire ambiant,
+    mais qui peut aussi être appliquée à d'autres sources
+  examples: []
+  id: 845-26-073
+  language_code: fra
+  notes:
+  - 'L''indice UV global international, `I`~UV~, est défini par la formule:
+
+
+    `I_((uv)) = k_((er)) int_((250 nm))^((400 nm)) E_(lambda) ( lambda ) s_((er))
+    ( lambda ) d lambda`
+
+
+    où `Eλ`(`λ`) est l''éclairement spectral solaire énergétique exprimé en W·m^−2^·nm^−1^
+    à la longueur d''onde `λ`, `s`~er~(`λ`) est la fonction de pondération spectrale
+    d''un érythème, et `k`~er~ est une constante égale à 40 m^2^·W^−1^.'
+  - L'unité d'indice UV global est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice UV global
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f1ba746b-0454-54e8-9a4f-ea9e3b267f34
+status: valid

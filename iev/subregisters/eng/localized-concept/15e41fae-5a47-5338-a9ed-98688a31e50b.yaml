@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: insertion signal used for measurement of the transmission performance
+    of the video signal
+  examples: []
+  id: 723-05-85
+  language_code: eng
+  notes:
+  - The signals can be used for automatic correction of certain faults.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: insertion test signal
+    normative_status: preferred
+    type: expression
+  - designation: ITS
+    type: expression
+  - designation: insertion reference signal
+    type: expression
+  - designation: IRS
+    type: expression
+dateAccepted: 1997-03-01
+id: 15e41fae-5a47-5338-a9ed-98688a31e50b
+status: valid

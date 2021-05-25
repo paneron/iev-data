@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: definition 815
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 815, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: set of fission reactions in which the neutrons necessary to produce
+    a fission are themselves produced by a previous fission
+  examples: []
+  id: 395-02-59
+  language_code: eng
+  notes:
+  - The reactions are called sub-critical, critical or supercritical depending on
+    the ratio between the number of reactions of generation n+1 and generation n being
+    less than, equal to or bigger than unity, respectively.
+  - This entry was numbered 393-12-84 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nuclear chain reaction
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 7d828724-ea4c-529b-909e-ea1def02abcc
+status: valid

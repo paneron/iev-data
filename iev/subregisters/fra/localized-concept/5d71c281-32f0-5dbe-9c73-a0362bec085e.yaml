@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: type d'éclairage qui utilise des LED à semi-conducteurs, des LED organiques
+    (OLED), des LED polymères (PLED) ou des diodes à laser comme sources d'<a href="IEV845-29-001">éclairage</a>
+  examples: []
+  id: 845-29-026
+  language_code: fra
+  notes:
+  - Le terme abrégé "SSL" est dérivé du terme anglais développé correspondant "solid-state
+    lighting".
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairage à à semi-conducteurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SSL
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d71c281-32f0-5dbe-9c73-a0362bec085e
+status: valid

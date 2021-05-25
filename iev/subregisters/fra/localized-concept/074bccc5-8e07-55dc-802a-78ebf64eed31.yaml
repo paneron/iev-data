@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps dans la vie d'une entité pendant lequel l'intensité
+    instantanée de défaillance, pour une entité réparable, ou le taux instantané de
+    défaillance, pour une entité non réparable, augmente de façon importante en fonction
+    du temps
+  examples: []
+  id: 192-02-31
+  language_code: fra
+  notes:
+  - L’augmentation considérée comme importante dépend de l’application.
+  reviewDecisionEvent: published
+  terms:
+  - designation: période de défaillance par usure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 074bccc5-8e07-55dc-802a-78ebf64eed31
+status: valid

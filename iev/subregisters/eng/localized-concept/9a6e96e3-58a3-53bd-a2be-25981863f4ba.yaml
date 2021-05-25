@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: 'functional unit, consisting of comparing element and controlling element
+    that performs a specified control function SEE: Figure 2.'
+  examples: []
+  id: 351-49-11
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-28-11 I n IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: controller for closed-loop control
+    normative_status: preferred
+    type: expression
+  - designation: controller
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 9a6e96e3-58a3-53bd-a2be-25981863f4ba
+status: valid

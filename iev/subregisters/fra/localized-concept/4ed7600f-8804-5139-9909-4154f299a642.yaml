@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'représentation d''un système ou d''un élément comportant une ou plusieurs
+    variables d''entrée et une ou plusieurs variables de sortie, symbolisé principalement
+    par un rectangle dans lequel la relation fonctionnelle entre les variables d''entrée
+    et de sortie est donnée VOIR: Figures 1 et 2.'
+  examples: []
+  id: 351-44-02
+  language_code: fra
+  notes:
+  - La relation fonctionnelle peut être donnée par une instruction arithmétique, une
+    fonction de transfert, une équation différentielle ou aux différences, une courbe
+    ou une famille de courbes caractéristiques ou encore par une fonction de commutation.
+  - 'Cet article était numéroté 351-23-02 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bloc fonctionnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 4ed7600f-8804-5139-9909-4154f299a642
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: inverse du plus petit contraste de luminance perceptible, exprimée généralement
+    par `L`/Δ`L`~th~, où `L` est la luminance moyenne et Δ`L`~th~ est le seuil différentiel
+    de luminance
+  examples: []
+  id: 845-22-090
+  language_code: fra
+  notes:
+  - La valeur de `S`~c~ dépend de nombreux facteurs dont la luminance, les conditions
+    d'observation et l'état d'adaptation.
+  - L'unité de sensibilité au contraste est un.
+  - Cet article était numéroté 845-02-48 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité au contraste
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: sensibilité différentielle
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2d9c0e1c-2494-5ea5-94fa-60de67bd229b
+status: valid

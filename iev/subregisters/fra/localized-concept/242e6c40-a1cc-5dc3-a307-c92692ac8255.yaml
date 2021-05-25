@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{protecteur, IEV:651-22-11}} plat réalisé en matériau isolant flexible,
+    utilisé pour procurer une isolation électrique entre les pieds du travailleur
+    et la surface sur laquelle il se tient'
+  examples: []
+  id: 651-22-13
+  language_code: fra
+  notes:
+  - Le potentiel électrique de la surface sur laquelle le travailleur se tient est
+    habituellement celui de la terre.
+  - Cet article était numéroté 651-04-07 dans la CEI 60050-651:1999. Il a été modifié
+    pour plus de précision.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tapis isolant électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 242e6c40-a1cc-5dc3-a307-c92692ac8255
+status: valid

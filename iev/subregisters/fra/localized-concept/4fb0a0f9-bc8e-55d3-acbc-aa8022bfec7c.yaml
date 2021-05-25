@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: pour un intervalle de temps spécifié, représentation graphique des charges
+    ordonnées selon la durée pendant laquelle elles sont supérieures ou égales à une
+    valeur donnée
+  examples: []
+  id: 601-01-18
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diagramme des charges classées
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: monotone des charges
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 4fb0a0f9-bc8e-55d3-acbc-aa8022bfec7c
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: duration between the instant of initiating a change in electric or thermal
+    power output and that when the electric or thermal power output attains the {{steady
+    state, IEV:485-21-05}} within a specified tolerance
+  examples: []
+  id: 485-20-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power response time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 4897fe69-009c-5c7b-adcd-0da3607da2fe
+status: valid

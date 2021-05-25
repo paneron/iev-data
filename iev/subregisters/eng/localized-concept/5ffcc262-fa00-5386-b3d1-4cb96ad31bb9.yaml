@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-05-01
+  definition: See {{IEV 121-12-12, IEV:121-12-12}}
+  examples: []
+  id: 561-05-12
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absolute permittivity
+    normative_status: preferred
+    type: expression
+  - designation: permittivity
+    normative_status: preferred
+    type: expression
+  - designation: absolute dielectric constant
+    normative_status: deprecated
+    type: expression
+  - designation: dielectric constant
+    normative_status: deprecated
+    type: expression
+  - designation: '`ε`'
+    international: true
+    type: symbol
+dateAccepted: 2020-05-01
+id: 5ffcc262-fa00-5386-b3d1-4cb96ad31bb9
+status: valid

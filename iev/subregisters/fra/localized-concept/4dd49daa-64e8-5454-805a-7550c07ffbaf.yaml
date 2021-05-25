@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'fonction `f` qui attribue un scalaire `f ( U , V )` à tout couple de
+    vecteurs *`U`* et *`V`* dans un espace vectoriel donné, avec les propriétés suivantes:
+    * `f ( alpha U , V ) = alpha f ( U , V )` et `f ( U , beta V ) = beta f ( U ,
+    V )` où `α` et `β` sont des scalaires, * `f ( U + V , W ) = f ( U , W ) + f (
+    V , W )` et `f ( W , U + V ) = f ( W , U ) + f ( W , V )` pour tout vecteur *`W`*
+    du même espace vectoriel'
+  examples: []
+  id: 102-03-16
+  language_code: fra
+  notes:
+  - Une forme bilinéaire sur un espace vectoriel à `n` dimensions peut être représentée
+    par une matrice carrée `( k_((i j)) )` et le scalaire est `f ( U , V ) = underset((i
+    j))( sum ) k_((i j)) U_i V_j`.
+  - Les formes bilinéaires sur un espace vectoriel à `n` dimensions constituent un
+    espace vectoriel à `n^2` dimensions.
+  - Le concept de forme bilinéaire se généralise à celui de «forme linéaire» dans
+    le cas d'un seul vecteur et de «forme multilinéaire» (ou `m`-linéaire) dans le
+    cas d'un ensemble ordonné de `m` vecteurs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: forme bilinéaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4dd49daa-64e8-5454-805a-7550c07ffbaf
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: rapport de la valeur efficace du {{résidu harmonique, IEV:103-07-31}}
+    d'une grandeur alternative à la valeur efficace de la grandeur
+  examples: []
+  id: 103-07-32
+  language_code: fra
+  notes:
+  - Lorsqu'une {{composante fondamentale de référence, IEV:103-07-20}} est définie,
+    le terme «taux d'harmoniques» est quelquefois limité aux seuls harmoniques (voir
+    {{IEV 551-20-15, IEV:551-20-15}}) et le terme «facteur total de distorsion» est
+    utilisé pour le concept défini ici (voir {{IEV 551-20-16, IEV:551-20-16}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux d'harmoniques
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur harmonique total
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 36824fa3-ad22-5b98-b31f-d60da800dcf7
+status: valid

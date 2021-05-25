@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: Voir {{IEV 161-02-14, IEV:161-02-14}}
+  examples: []
+  id: 801-21-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit aléatoire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bruit erratique
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bb3a60e3-8d5c-59f4-8e2a-a31c00a6b953
+status: valid

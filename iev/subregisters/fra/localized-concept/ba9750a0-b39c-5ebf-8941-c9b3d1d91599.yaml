@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '7.14'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 7.14
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  definition: traitement accordé aux {{produits, IEV:902-02-03}} ou aux processus
+    provenant d'autres pays qui n'est pas moins favorable que celui accordé à des
+    produits ou processus similaires, d'origine nationale ou provenant de tout autre
+    pays, dans une situation comparable
+  examples: []
+  id: 902-06-14
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: traitement égal et national
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ba9750a0-b39c-5ebf-8941-c9b3d1d91599
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: relative decrease in radiant flux caused by scattering expressed by
+    the relative density of the spectral radiant flux, `Φ`~e,~`λ`(`λ`), with respect
+    to propagation length, `l`, of a collimated beam at a point in a diffusing medium
+    `s ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) (
+    lambda )))/((d l))`
+  examples: []
+  id: 845-24-084
+  language_code: eng
+  notes:
+  - The spectral linear scattering coefficient is expressed in metre to the power
+    minus one (m^−1^).
+  - This entry was numbered 845-04-77 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral linear scattering coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`s`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 131ccab7-321d-51e9-a478-387895ba61f3
+status: valid

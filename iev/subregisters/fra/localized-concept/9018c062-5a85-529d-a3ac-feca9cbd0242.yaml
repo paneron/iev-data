@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: complète un {{nom de grandeur, IEV:112-01-02}} pour une grandeur exprimant
+    un flux ou un courant dans l'espace tridimensionnel pour désigner le quotient
+    d'une telle grandeur par l'aire d'une surface
+  examples:
+  - '{{flux thermique surfacique, IEV:113-04-37}} ou densité de flux thermique, densité
+    de courant électrique  (voir {{IEV 121-11-11, IEV:121-11-11}}). La densité de
+    flux magnétique est nommée "{{induction magnétique, IEV:121-11-19}}".'
+  id: 112-03-13
+  language_code: fra
+  notes:
+  - En anglais, le terme "density" signifie aussi, et plus couramment, masse volumique.
+    En français, le terme "densité" signifie masse volumique relative.
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité de …
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: surfacique
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+    usage_info: flux ou courant
+dateAccepted: 2018-11-17
+id: 9018c062-5a85-529d-a3ac-feca9cbd0242
+status: valid

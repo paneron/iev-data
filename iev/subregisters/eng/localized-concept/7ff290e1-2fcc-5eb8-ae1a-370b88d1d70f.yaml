@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: three-terminal output circuit where the nominal values of the impedances
+    between the common terminal and each of the other two terminals are different
+  examples: []
+  id: 312-06-09
+  language_code: eng
+  notes:
+  - The common terminals of the input and the output need not necessarily both be
+    accessible, nor need they be at the same potential.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: asymmetrical output
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 7ff290e1-2fcc-5eb8-ae1a-370b88d1d70f
+status: valid

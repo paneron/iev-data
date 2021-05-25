@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: ensemble d'un {{multiplexeur, IEV:704-08-13}} et d'un {{démultiplexeur,
+    IEV:704-08-14}} fonctionnant dans des sens de transmission opposés et réunis dans
+    un même appareil
+  examples: []
+  id: 704-08-15
+  language_code: fra
+  notes:
+  - 'Le terme "muldex" doit être qualifié par la fonction de l''appareil, par exemple:
+    muldex MIC, muldex de données, {{muldex numérique, IEV:704-20-05}}.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: muldex
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: muldem
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: multiplexeur-démultiplexeur
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 259adb41-3d71-5100-9ac7-462e970bcc62
+status: valid

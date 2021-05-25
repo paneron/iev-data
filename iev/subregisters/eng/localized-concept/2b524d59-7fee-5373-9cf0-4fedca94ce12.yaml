@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: the reaches of the measuring elements of non-unit protection, generally
+    distance protection, in a power system
+  examples: []
+  id: 448-14-02
+  language_code: eng
+  notes:
+  - These non-unit protections, generally distance protection, often have two, three
+    or even more zones available. These are usually arranged such that the shortest
+    zone corresponds to an impedance slightly smaller than the impedance of the protected
+    section, and is normally instantaneous in operation. Zones with longer reach settings
+    are normally time-delayed to obtain selectivity.
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zones of non-unit protection
+    normative_status: preferred
+    type: expression
+  - designation: zones of protection
+    type: expression
+dateAccepted: 1995-12-01
+id: 2b524d59-7fee-5373-9cf0-4fedca94ce12
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: quotient du nombre d'{{éléments numériques, IEV:702-05-02}} transmis
+    pendant un {{intervalle de temps, IEV:113-01-10}} par la {{durée, IEV:113-01-13}}
+    de cet intervalle
+  examples: []
+  id: 702-05-23
+  language_code: fra
+  notes:
+  - 'Le terme "débit numérique" peut être particularisé, par exemple: "{{débit binaire,
+    IEV:704-16-07}}", "{{débit ternaire, IEV:704-16-08}}", "{{débit `n`-aire, IEV:704-16-09}}"
+    lorsque la {{valence, IEV:702-05-22}} est respectivement de deux, trois, `n`.'
+  - Le terme "débit numérique" ne doit pas être employé pour désigner le débit d'un
+    {{signal en ligne, IEV:704-04-13}} au lieu du terme correct "{{rapidité de modulation,
+    IEV:704-17-03}}" ou de son synonyme "débit en ligne".
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit numérique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: c2da4dce-7f79-501c-a5fe-6ee93f6927d1
+status: valid

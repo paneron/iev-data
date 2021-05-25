@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 704-14-02
+      original: 704-14-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1995-09-01
+  definition: partie déterminée, présentant des caractéristiques spécifiées, de la
+    capacité de transfert des informations à l'interface usager-réseau
+  examples: []
+  id: 716-04-02
+  language_code: fra
+  notes:
+  - Le terme "canal d'accès" suppose que le transfert puisse être bidirectionnel.
+    C'est pourquoi, en anglais, le terme "access channel" ne doit pas être abrégé
+    en "channel", afin d'éviter la confusion avec l'abréviation usuelle du terme "transmission
+    channel" ("voie de transmission" en français) qui implique un transfert unilatéral
+    entre deux points.
+  - Un "canal d'accès" peut être qualifié, par exemple, de H, B ou D, et se dénomme
+    alors canal H, canal B ou canal D.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: canal d'accès
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: e0375755-f360-5960-8475-abbdfbebc8a5
+status: valid

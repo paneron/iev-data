@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: état d'un suppresseur d'écho qui résulte de la présence simultanée de
+    signaux vocaux dans les deux trajets de transmission, l'affaiblissement important
+    de l'état de suppression n'étant pas inséré
+  examples: []
+  id: 704-07-10
+  language_code: fra
+  notes:
+  - Un affaiblissement faible est normalement inséré dans au moins l'un des trajets
+    de transmission.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: état d'intervention
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mode d'intervention
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 45cdf278-d3b4-5afd-be9c-7aa9d56b6daf
+status: valid

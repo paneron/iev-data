@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.4.2
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.4.2
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  definition: reconnaissance du comportement au feu des matériaux et de leur capacité
+    de s'éteindre s'ils sont allumés
+  examples: []
+  id: 903-05-01
+  language_code: fra
+  notes:
+  - 'Les matériaux sont classés dans l''IEC 62368-1 comme l''un des suivants: matériau
+    de classe V-0, matériau de classe V-1, matériau de classe V-2, matériau de classe
+    5VA, matériau de classe 5VB, matériau plastique cellulaire de classe HF-1, matériau
+    plastique cellulaire de classe HF-2, matériau plastique cellulaire de classe HBF,
+    matériau de classe HB40, matériau de classe HB75, matériau de classe VTM-0, matériau
+    de classe VTM-1, matériau de classe VTM-2.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: classe d’inflammabilité du matériau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f3b81990-0a92-5305-9ca1-5b356ff6e432
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-07-01
+  definition: value showing the sharpness of the resonance, commonly used to represent
+    the merit of the resonator, defined as `Q_S = ((omega_r L_1))/((R_1))` where `omega_r
+    = 2 pi f_r` is the angular resonance frequency; `f`~r~ is the resonance frequency;
+    `L`~1~ is the motional inductance; `R`~1~ is the motional resistance
+  examples: []
+  id: 561-01-74
+  language_code: eng
+  notes: []
+  reviewDate: 2016-07-01
+  reviewDecisionDate: 2016-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quality factor for a series resonance circuit
+    normative_status: preferred
+    type: expression
+    usage_info: of a resonator
+  - designation: '`Q`~s~'
+    international: true
+    type: symbol
+dateAccepted: 2016-07-01
+id: 13f0c7ec-0a2f-501c-b75e-6baa65d7a93d
+status: valid

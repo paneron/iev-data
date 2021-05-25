@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 13-12
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-12, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: quotient de la durée d'un intervalle de temps pendant lequel des {{éléments
+    de données, IEV:171-02-01}} sont transférés par le nombre d'éléments transférés
+  examples: []
+  id: 171-06-05
+  language_code: fra
+  notes:
+  - L’unité de période d’éléments de données est la seconde (s).
+  reviewDecisionEvent: published
+  terms:
+  - designation: période d'éléments de données
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c00851a5-97ff-50d9-824b-dc98f7814daf
+status: valid

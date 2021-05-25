@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: image couleur à mesurer issue d'un dispositif de sortie ou d'une <a
+    href="IEV845-32-045">copie papier</a> par réflexion ou transparente, dans laquelle
+    les valeurs de commande du dispositif sont maintenues constantes dans la zone
+    d'image
+  examples: []
+  id: 845-32-015
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: motif de couleur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: zone d'essai
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 68536e5a-26a3-5541-bfa3-e58dff2a27ba
+status: valid

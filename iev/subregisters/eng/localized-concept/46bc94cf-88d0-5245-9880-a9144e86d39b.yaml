@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: colour stimulus to which colour space values are normalized
+  examples: []
+  id: 845-23-069
+  language_code: eng
+  notes:
+  - The colour space white point can or cannot correspond to the <a href="IEV845-23-081">adapted
+    white</a> point and/or the reference medium white point for a colour image encoding.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: white point
+    normative_status: preferred
+    type: expression
+    usage_info: in a colour space
+dateAccepted: 2020-12-01
+id: 46bc94cf-88d0-5245-9880-a9144e86d39b
+status: valid

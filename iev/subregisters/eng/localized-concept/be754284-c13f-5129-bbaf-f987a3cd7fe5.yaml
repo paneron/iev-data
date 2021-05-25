@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.16
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.16
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: type of message error in which a message is removed from the message
+    stream
+  examples: []
+  id: 821-11-16
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: deleted message
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: be754284-c13f-5129-bbaf-f987a3cd7fe5
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température maximale ou minimale atteinte en des points spécifiques
+    du matériel lorsque ce dernier fonctionne dans les conditions assignées, incluant
+    la température ambiante et toutes sources externes de chaleur ou de refroidissement
+  examples: []
+  id: 426-04-30
+  language_code: fra
+  notes:
+  - Un matériel peut atteindre des températures de service différentes dans des parties
+    différentes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de service
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9b3e0238-599e-5927-9e49-0f06fa9f9d32
+status: valid

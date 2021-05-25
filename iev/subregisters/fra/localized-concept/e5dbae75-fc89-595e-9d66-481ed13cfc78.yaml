@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '2.7'
+      original: ≈ VIM 2.7
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  dateAmended: 2001-07-01
+  definition: grandeur qui n'est pas l'objet de la mesure et dont la variation affecte
+    la relation entre l'indication et la mesure
+  examples: []
+  id: 311-06-01
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "incertitude".
+  - Les grandeurs d’influence peuvent provenir du système de mesure, de l’appareil
+    de mesure ou de l’environnement.
+  - Comme le diagramme d’étalonnage dépend des grandeurs d’influence, pour assigner
+    la mesure, il est nécessaire de savoir si les grandeurs d’influence applicables
+    sont dans la plage spécifiée.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur d'influence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: e5dbae75-fc89-595e-9d66-481ed13cfc78
+status: valid

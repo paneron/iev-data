@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: suffixe du numéro de certificat utilisé pour désigner un Composant Ex
+  examples: []
+  id: 426-04-31
+  language_code: fra
+  notes:
+  - Le symbole U en tant que suffixe du numéro de certificat est utilisé pour identifier
+    le fait que le Composant Ex est incomplet et qu'il n'est pas adapté pour une installation
+    sans une évaluation complémentaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: U
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: atmosphères explosives
+dateAccepted: 2018-11-17
+id: cf853f6a-37e0-569b-b3f0-8c105c7e50b2
+status: valid

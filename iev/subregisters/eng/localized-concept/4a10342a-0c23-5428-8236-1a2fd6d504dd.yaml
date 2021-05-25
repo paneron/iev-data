@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-08-01
+  definition: control by a device designed to operate in a different manner on the
+    positive and negative half cycles of an alternating voltage or current
+  examples: []
+  id: 161-07-12
+  language_code: eng
+  notes:
+  - Generalized phase control is asymmetrical if the current waveform is not the same
+    for both positive and negative half cycles.
+  - Multicycle control is asymmetrical if within each conduction period the number
+    of positive and negative half cycles is unequal.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: asymmetrical control
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-08-01
+id: 4a10342a-0c23-5428-8236-1a2fd6d504dd
+status: valid

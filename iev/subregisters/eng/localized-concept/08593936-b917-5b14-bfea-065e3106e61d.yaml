@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - original: IAEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: an arrangement of interconnected components within a system that initiates
+    a single output. A channel loses its identity where single output signals are
+    combined with signals from other channels (e.g. from a monitoring channel or a
+    safety actuation channel)
+  examples: []
+  id: 395-07-113
+  language_code: eng
+  notes: []
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 08593936-b917-5b14-bfea-065e3106e61d
+status: valid

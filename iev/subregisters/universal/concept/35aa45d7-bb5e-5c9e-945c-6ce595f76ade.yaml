@@ -1,0 +1,25 @@
+data:
+  identifier: 726-04-18
+  localizedConcepts:
+    ara: f857f30d-657f-5034-8201-220c4af3abe7
+    deu: da699355-aa48-52c3-8e61-80e772360202
+    eng: c3cdf6d4-7909-541e-897e-73eefc49b3a4
+    fin: 91806765-bdae-5388-8911-2b46869f7b31
+    fra: e7f64bcc-3f54-5ac7-a519-c975f0f28f6d
+    ita: fe791a46-3cc5-53ab-b66e-370564765078
+    jpn: 618108b1-1be8-58ef-948f-83349c21293b
+    kor: 6dd12b48-8842-5e72-a5d8-cd26ca31cd54
+    pol: 9edbd21f-da3d-597d-80d3-e2e49efb56d8
+    por: 23e48e25-c2af-5626-90fb-021f34c30f08
+    spa: 095688a8-965e-5bc8-9d64-026483ad4b12
+    swe: 4ea61868-f721-53c6-ae18-cd2eafa506ff
+    zho: b83d38cf-f54c-5034-b2c2-a2e88369178a
+dateAccepted: 2018-11-17
+id: 35aa45d7-bb5e-5c9e-945c-6ce595f76ade
+related:
+- ref:
+    id: 726-04-18
+    source: IEV
+    version: '1982'
+  type: supersedes
+status: valid

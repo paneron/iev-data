@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-10-01
+  definition: time relay in which the output immediately switches to the operate condition
+    and the time delay starts when applying the power supply and the control signal;
+    the output switches to the release condition after the setting time has elapsed
+    and if the control signal is not operated during the setting time image::/assets/images/parts/445/445-01-15en.gif[]
+  examples: []
+  id: 445-01-15
+  language_code: eng
+  notes:
+  - – Cycling the control signal during the time delay will retrigger the time delay.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: retriggerable interval relay with control signal on
+    normative_status: preferred
+    type: expression
+  - designation: watchdog relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: b4bf2db9-5925-5f48-92d3-f39b469149b3
+status: valid

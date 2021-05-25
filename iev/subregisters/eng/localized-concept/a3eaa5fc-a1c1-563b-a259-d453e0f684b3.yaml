@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2020-12-01
+  definition: difference in electric potential due to the space charge near the cathode
+  examples: []
+  id: 845-27-020
+  language_code: eng
+  notes:
+  - The cathode fall is expressed in volt (V).
+  - This entry was numbered 845-07-13 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cathode fall
+    normative_status: preferred
+    type: expression
+  - designation: cathode voltage drop
+    normative_status: admitted
+    type: expression
+  - designation: cathode drop
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-12-01
+id: a3eaa5fc-a1c1-563b-a259-d453e0f684b3
+status: valid

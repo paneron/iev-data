@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the maximum energy in joules which can be supplied to the anode in 20
+    seconds under the condition specified by the manufacturer (e.g., focal spot, rotation
+    speed of the anode, etc.)
+  examples: []
+  id: 881-07-11
+  language_code: eng
+  notes:
+  - The value for the anode thermal capacity of the tube is obtained by using the
+    largest focal spot, the highest rotation speed of the anode and a coefficient
+    `f` = 1.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: anode thermal capacity
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: 9c8548e0-a435-521d-841a-bcaf7a57859e
+status: valid

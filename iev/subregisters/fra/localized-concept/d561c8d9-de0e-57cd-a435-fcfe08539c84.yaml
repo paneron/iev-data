@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: pour un élément non linéaire en régime établi, sollicité par une variable
+    d'entrée sinusoïdale, réponse en fréquence obtenue en ne tenant compte que de
+    la composante fondamentale de la variable de sortie
+  examples: []
+  id: 351-45-50
+  language_code: fra
+  notes:
+  - La fonction descriptive peut dépendre de la pulsation et de l'amplitude de la
+    variable d'entrée, ou seulement de cette amplitude.
+  - Cet article était numéroté 351-24-42 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction descriptive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: d561c8d9-de0e-57cd-a435-fcfe08539c84
+status: valid

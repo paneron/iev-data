@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: force *`F`* s'exerçant sur une particule de charge électrique `Q` et
+    de vitesse *`v`*, donnée par la relation *`F`* = `Q`(*`E`* + *`v`* x *`B`*) où
+    *`E`* est le champ électrique et *`B`* l'induction magnétique
+  examples: []
+  id: 121-11-20
+  language_code: fra
+  notes:
+  - La composante `Q` *`E`*  est la force de Coulomb.
+  - La composante `Q` *`v`* × *`B`*  est la force de Lorentz.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: force de Coulomb-Lorentz
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 0bf21cc8-39c9-551c-98a6-66d5aad08403
+status: valid

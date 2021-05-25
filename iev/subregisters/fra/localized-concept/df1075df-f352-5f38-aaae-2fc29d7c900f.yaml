@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 725-12-02
+      original: 725-12-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '61'
+      original: UIT RR 61 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: station radioélectrique située sur un objet qui se trouve au-delà de
+    la partie principale de l'atmosphère terrestre
+  examples: []
+  id: 713-02-06
+  language_code: fra
+  notes:
+  - Dans le langage courant et en spatiologie, le terme "station spatiale" désigne
+    une installation importante en orbite ou sur un astre, qui assure une mission
+    d'une certaine importance.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: station spatiale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: df1075df-f352-5f38-aaae-2fc29d7c900f
+status: valid

@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-13
+      original: 702-02-13
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: limite du quotient du logarithme népérien du rapport des valeurs à une
+    fréquence donnée d'une composante spécifiée d'un vecteur du champ élесtromagnétique
+    en deux points alignés dans la direction de propagation d'une onde guidée ou d'une
+    onde plane, ou d'une onde pratiquement plane au moins dans un domaine limité de
+    l'espace, par la distance des deux points, lorsque cette distance tend vers zéro
+  examples: []
+  id: 731-03-41
+  language_code: fra
+  notes:
+  - L'exposant linéique de propagation est une grandeur complexe, généralement fonction
+    de la fréquence, qui a la dimension de l'inverse d'une longueur.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposant linéique de propagation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante de propagation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: b1b401d5-ee7f-5bb8-87f8-2b3744302f9a
+status: valid

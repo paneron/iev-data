@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: identically recurring at equal intervals of the independent variable
+  examples: []
+  id: 103-05-09
+  language_code: eng
+  notes:
+  - The function `f ( t )` is periodic when `f ( t + T ) = f ( t )` for some positive
+    `T`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: periodic
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2009-12-01
+id: 3698b740-c305-5965-8d8f-ffe18e5b5bee
+status: valid

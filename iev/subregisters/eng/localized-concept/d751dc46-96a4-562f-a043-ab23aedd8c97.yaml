@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}} intended to {{operate, IEV:447-02-04}}
+    when its {{characteristic quantity, IEV:447-07-01}} changes by a given amount
+    per unit of time'
+  examples:
+  - Rate of change of frequency relay.
+  id: 447-01-26
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rate of change of... relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: d751dc46-96a4-562f-a043-ab23aedd8c97
+status: valid

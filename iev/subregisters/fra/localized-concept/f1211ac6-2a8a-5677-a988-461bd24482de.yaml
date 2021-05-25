@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intensité lumineuse d'une source à sortie constante, de même <a href="IEV845-21-030">répartition
+    spectrale relative</a> que le feu à éclats, qui aurait la même <a href="IEV845-31-026">portée
+    lumineuse</a> (ou <a href="IEV845-31-052">portée visuelle</a> en navigation aérienne)
+    que le feu à éclats dans des conditions identiques d'observation
+  examples: []
+  id: 845-31-016
+  language_code: fra
+  notes:
+  - À des fins pratiques, une intensité effective normale peut être évaluée pour un
+    feu à éclats à partir de données photométriques par une méthode convenue.
+  - L'intensité effective est exprimée en candela (cd).
+  - Cet article était numéroté 845-11-18 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité effective
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un feu à éclats
+dateAccepted: 2018-11-17
+id: f1211ac6-2a8a-5677-a988-461bd24482de
+status: valid

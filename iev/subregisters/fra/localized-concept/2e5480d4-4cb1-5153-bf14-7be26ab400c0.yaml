@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: partie d'une installation d'émission ou de réception d'ondes radioélectriques
+    destinée à assurer le couplage entre un émetteur ou un récepteur et le milieu
+    où se propagent les ondes radioélectriques
+  examples: []
+  id: 712-01-01
+  language_code: fra
+  notes:
+  - Dans chaque cas particulier, on doit spécifier le point considéré comme accès
+    de l'antenne ou comme sa jonction avec l'émetteur ou le récepteur.
+  - Si l'émetteur ou le récepteur est relié à l'antenne par une ligne d'alimentation,
+    l'antenne peut être considérée comme un dispositif qui permet de passer d'un régime
+    d'ondes guidées à un régime d'ondes libres et inversement.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: antenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: aérien
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: système d'antenne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 2e5480d4-4cb1-5153-bf14-7be26ab400c0
+status: valid

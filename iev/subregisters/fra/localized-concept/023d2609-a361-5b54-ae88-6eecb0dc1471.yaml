@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: méthode de réception radioélectrique dans laquelle un signal résultant
+    unique est obtenu à partir de plusieurs signaux radioélectriques reçus, qui transportent
+    la même information mais dont le trajet radioélectrique ou la voie de transmission
+    diffère par au moins une caractéristique telle que la fréquence, la polarisation,
+    la position ou l'orientation des antennes
+  examples: []
+  id: 713-10-15
+  language_code: fra
+  notes:
+  - La qualité du signal résultant peut être meilleure que celle des signaux individuels
+    en raison de la décorrélation partielle des conditions de propagation à un instant
+    donné sur les divers trajets radioélectriques ou voies de transmission.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (réception en) diversité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 023d2609-a361-5b54-ae88-6eecb0dc1471
+status: valid

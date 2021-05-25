@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 604-04-03
+      original: 604-04-03
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2008-06-01
+  definition: conducteur ou ensemble de conducteurs groupés, en contact intime avec
+    le sol, destinés à établir une liaison électrique avec celui-ci
+  examples: []
+  id: 461-06-18
+  language_code: fra
+  notes: []
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: électrode de terre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: prise de terre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: bf40a3b2-dc9f-55c2-8d69-f7293918b877
+status: valid

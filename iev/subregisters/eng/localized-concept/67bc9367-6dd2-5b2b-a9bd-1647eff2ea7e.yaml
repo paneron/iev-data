@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: object colour stimuli that correspond to objects whose luminance factors
+    have maximum possible values for each chromaticity when their spectral luminance
+    factors do not exceed unity for any wavelength
+  examples: []
+  id: 845-23-005
+  language_code: eng
+  notes:
+  - Optimal colour stimuli correspond, in general, to objects whose spectral luminance
+    factors have values of either unity or zero, with not more than two transitions
+    between them.
+  - The luminance factors and chromaticity coordinates of optimal colour stimuli define
+    the boundaries of a colour solid corresponding to non-fluorescent objects.
+  - For a given luminance factor, optimal colour stimuli define the maximum purity
+    possible for non-fluorescent objects.
+  - See also "<a href="IEV845-22-042">object colour</a>", "<a href="IEV845-23-002">colour
+    stimulus</a>".
+  - This entry was numbered 845-03-40 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: optimal colour stimuli
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2020-12-01
+id: 67bc9367-6dd2-5b2b-a9bd-1647eff2ea7e
+status: valid

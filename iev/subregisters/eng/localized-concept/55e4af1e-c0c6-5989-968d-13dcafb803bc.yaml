@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: ratio of the {{net electric power, IEV:485-14-03}} produced by a {{fuel
+    cell power system, IEV:485-09-01}} to the total enthalpy flow supplied to the
+    fuel cell power system
+  examples: []
+  id: 485-10-02
+  language_code: eng
+  notes:
+  - The lower heating value (LHV) is assumed unless otherwise stated.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric efficiency
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 55e4af1e-c0c6-5989-968d-13dcafb803bc
+status: valid

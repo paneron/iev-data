@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: moyenne de la disponibilité instantanée sur un intervalle de temps donné
+    (`t`~1~, `t`~2~)
+  examples: []
+  id: 192-08-05
+  language_code: fra
+  notes:
+  - 'La disponibilité moyenne est liée à la disponibilité instantanée `A`(`t`) par
+    la formule:
+
+
+    `bar A ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) A ( t ) d t`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: disponibilité moyenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f82ed34d-993d-5bfa-a392-d9c1a0d7280b
+status: valid

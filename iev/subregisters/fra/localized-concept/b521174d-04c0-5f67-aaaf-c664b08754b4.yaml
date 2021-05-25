@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'dans un noyau magnétique fonctionnant dans le domaine de Rayleigh,
+    quotient de la tangente de l''angle de pertes magnétiques par hystérésis par le
+    produit de la valeur de crête `î` du courant dans la bobine associée au noyau
+    et de la racine carrée de l''inductance `L` de la bobine: `eta_i = ((tan delta_h))/((î
+    sqrt(L)))`'
+  examples: []
+  id: 221-03-34
+  language_code: fra
+  notes:
+  - 'La relation entre la constante hystérétique d''un matériau `η`~B~ et la constante
+    hystérétique d''un noyau est:
+
+
+    `eta_i = eta_B sqrt(((mu_0 mu_e^3))/((V_e)))`
+
+
+    où `μ`~e~ est la perméabilité effective et `V`~e~ le volume équivalent.'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante hystérétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: b521174d-04c0-5f67-aaaf-c664b08754b4
+status: valid

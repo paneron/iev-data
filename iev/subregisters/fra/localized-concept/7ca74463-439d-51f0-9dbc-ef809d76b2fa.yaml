@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur dans lequel une multiplication des charges
+    est produite par un phénomène secondaire tel qu'une avalanche
+  examples: []
+  id: 395-03-41
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-07 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur à amplification interne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur à amplification interne
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7ca74463-439d-51f0-9dbc-ef809d76b2fa
+status: valid

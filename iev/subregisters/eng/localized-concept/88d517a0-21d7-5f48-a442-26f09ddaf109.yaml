@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: pertaining to a {{computer program, IEV:171-05-05}} or a {{routine,
+    IEV:171-05-42}} that can be {{loaded, IEV:171-05-62}} once and executed repeatedly
+    subject to the requirements that any instructions that are modified during execution
+    are returned to their initial states and that external parameters are preserved
+    unchanged
+  examples: []
+  id: 171-05-60
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reusable
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-03-01
+id: 88d517a0-21d7-5f48-a442-26f09ddaf109
+status: valid

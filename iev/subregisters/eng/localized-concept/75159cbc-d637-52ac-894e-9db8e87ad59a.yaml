@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: type of heating of the electrodes of a discharge lamp in which the electrodes
+    are fed by separate circuits
+  examples: []
+  id: 845-27-131
+  language_code: eng
+  notes:
+  - Each electrode is usually connected across a low-voltage winding that can be part
+    of the ballast and provides the heating current. In certain circuits, this low
+    voltage is automatically decreased after the arc has struck.
+  - This entry was numbered 845-07-72 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallel cathode heating
+    normative_status: preferred
+    type: expression
+    usage_info: of a discharge lamp
+dateAccepted: 2020-12-01
+id: 75159cbc-d637-52ac-894e-9db8e87ad59a
+status: valid

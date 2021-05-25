@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: maximum current (peak AC or DC) in apparatus that can be taken from
+    the connection facilities of the intrinsically safe apparatus
+  examples: []
+  id: 426-11-22
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum output current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: f3fcd0d9-36e9-562f-b375-6be347594fc4
+status: valid

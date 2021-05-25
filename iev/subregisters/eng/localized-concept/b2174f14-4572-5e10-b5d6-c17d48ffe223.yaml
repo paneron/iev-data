@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: measure of the degree to which the psychophysical colour of an object
+    illuminated by the test illuminant conforms to that of the same object illuminated
+    by the reference illuminant, suitable allowance having been made for the state
+    of chromatic adaptation
+  examples: []
+  id: 845-22-109
+  language_code: eng
+  notes:
+  - See also CIE 13, _Method of Measuring and Specifying Colour Rendering of Light
+    Sources_.
+  - This entry was numbered 845-02-61 in IEC 60050-845:1987.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: colour rendering index
+    normative_status: preferred
+    type: expression
+  - designation: CRI
+    type: expression
+  - designation: '`R`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: b2174f14-4572-5e10-b5d6-c17d48ffe223
+status: valid

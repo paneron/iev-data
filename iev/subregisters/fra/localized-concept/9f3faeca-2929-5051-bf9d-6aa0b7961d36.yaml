@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: exclusion des données obtenues dans une évaluation particulière après
+    une durée donnée ou un nombre d'événements donné
+  examples: []
+  id: 192-09-15
+  language_code: fra
+  notes:
+  - En général, les événements sont des défaillances, mais, dans un essai de maintenabilité,
+    il peut s’agir de rétablissements.
+  - Un essai terminé alors qu’il reste encore des entités non défaillantes peut être
+    appelé «essai censuré»; les données de durée d’essai provenant de ces essais sont
+    appelées «données censurées».
+  reviewDecisionEvent: published
+  terms:
+  - designation: censure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9f3faeca-2929-5051-bf9d-6aa0b7961d36
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: oscillateur piloté par résonateur à quartz, dont on peut faire varier
+    la fréquence ou la moduler selon une loi spécifiée, par l'application d'une tension
+    de commande
+  examples: []
+  id: 561-03-41
+  language_code: fra
+  notes:
+  - L’abréviation «VCXO» est dérivée du terme anglais développé correspondant «voltage
+    controlled crystal oscillator».
+  - Cet article était numéroté 561-04-03 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: oscillateur à quartz commandé par une tension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: VCXO
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 19bffd5c-4eb9-56b9-8c74-2310962635ca
+status: valid

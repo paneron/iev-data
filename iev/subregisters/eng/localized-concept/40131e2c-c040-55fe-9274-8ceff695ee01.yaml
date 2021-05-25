@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '1.26'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.26
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: quantity, defined by a conventional measurement procedure, for which
+    a total ordering relation can be established, according to magnitude, with other
+    quantities of the same kind, but for which no algebraic operations among those
+    quantities exist
+  examples: []
+  id: 112-01-35
+  language_code: eng
+  notes:
+  - Ordinal quantities can enter into empirical relations only and have neither units
+    of measurement nor dimension. Differences and ratios of ordinal quantities have
+    no physical meaning.
+  - Ordinal quantities are arranged according to ordinal value scales.
+  - 'Examples: Rockwell C hardness, octane number for petroleum fuel, earthquake strength
+    on the Richter scale, subjective level of abdominal pain on a scale from zero
+    to five.'
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ordinal quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 40131e2c-c040-55fe-9274-8ceff695ee01
+status: valid

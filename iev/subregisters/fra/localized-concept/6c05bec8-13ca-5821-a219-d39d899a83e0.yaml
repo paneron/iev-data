@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-08-01
+  definition: réseau électrique inséré dans le circuit d'alimentation en énergie électrique
+    d'un appareil en essai, qui fournit, dans une gamme de fréquences données, une
+    impédance de charge spécifiée pour mesurer des tensions perturbatrices et qui
+    peut aussi isoler l'appareil du réseau d'alimentation aux fréquences de la gamme
+    donnée
+  examples: []
+  id: 161-04-05
+  language_code: fra
+  notes: []
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau fictif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réseau de stabilisation d'impédance de ligne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RISL
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: 6c05bec8-13ca-5821-a219-d39d899a83e0
+status: valid

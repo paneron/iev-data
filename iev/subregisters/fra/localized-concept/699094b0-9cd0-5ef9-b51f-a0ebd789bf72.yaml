@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: sous-ensemble d'un ensemble, qui est différent de l'ensemble
+  examples: []
+  id: 102-01-05
+  language_code: fra
+  notes:
+  - La notation `A sub B` exprime que l'ensemble `A` est un sous-ensemble strict de
+    l'ensemble `B`. Le symbole `underset(!=)( sub )` est parfois employé au lieu de
+    `sub` mais n'est pas recommandé, et il convient qu’il soit employé lorsque ce
+    dernier est employé pour un sous-ensemble quelconque de `B`. On dit aussi que
+    `A` est strictement inclus dans `B`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous-ensemble strict
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 699094b0-9cd0-5ef9-b51f-a0ebd789bf72
+status: valid

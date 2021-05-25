@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: ensemble d'éléments binaires utilisés pour le transfert d'informations
+    de signalisation, y compris les bits de contrôle éventuellement associés, qui
+    comprend un seul contrôle d'erreur dans un système de signalisation par canal
+    sémaphore
+  examples: []
+  id: 714-13-01
+  language_code: fra
+  notes:
+  - En français, le terme "unité de signalisation" est employé dans le système de
+    signalisation n° 6 du CCITT et le terme "trame sémaphore" dans le système n° 7.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unité de signalisation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: trame sémaphore
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 1278612e-99ec-5939-a62e-d9db7b03bb06
+status: valid

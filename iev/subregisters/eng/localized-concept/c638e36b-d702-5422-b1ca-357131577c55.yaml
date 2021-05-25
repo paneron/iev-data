@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: measure of disability glare expressed as the percentage increase in
+    luminance contrast threshold required between an object and its background for
+    it to be seen equally well with a source of glare present
+  examples: []
+  id: 845-31-145
+  language_code: eng
+  notes:
+  - Increasing values of threshold increment correspond to increasing disability glare.
+  - The threshold increment has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: threshold increment
+    normative_status: preferred
+    type: expression
+    usage_info: glare evaluation
+  - designation: '`f`~TI~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: c638e36b-d702-5422-b1ca-357131577c55
+status: valid

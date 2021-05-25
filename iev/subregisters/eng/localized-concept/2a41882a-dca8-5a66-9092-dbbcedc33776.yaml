@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: 'pertaining to a stationary random function for which the mean values
+    in time are identical to the corresponding expectations: `underset((T -> oo))((lim))
+    (1)/((2 T)) int_(- T)^(+ T) f ( t ) d t = E f ( t )`'
+  examples: []
+  id: 103-08-06
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ergodic
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2009-12-01
+id: 2a41882a-dca8-5a66-9092-dbbcedc33776
+status: valid

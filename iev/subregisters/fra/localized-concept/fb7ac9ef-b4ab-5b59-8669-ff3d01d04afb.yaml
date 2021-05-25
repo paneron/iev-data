@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: méthode de protection contre les erreurs selon laquelle les effets subjectifs
+    des erreurs détectées mais non corrigées peuvent être réduits
+  examples: []
+  id: 723-10-97
+  language_code: fra
+  notes:
+  - Le masquage d'erreurs peut être effectué, par exemple, par interpolation à partir
+    d'échantillons voisins non erronés.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: masquage d'erreurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: fb7ac9ef-b4ab-5b59-8669-ff3d01d04afb
+status: valid

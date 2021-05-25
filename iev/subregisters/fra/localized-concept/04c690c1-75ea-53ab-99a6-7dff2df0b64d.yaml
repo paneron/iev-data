@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: traitement d'un signal d'image numérique en vue de diminuer le débit
+    numérique tout en maintenant une qualité acceptable de l'image
+  examples: []
+  id: 723-10-33
+  language_code: fra
+  notes:
+  - La compression de débit est un codage de source.
+  - En français, le verbe associé est "comprimer" et non "compresser".
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: compression (de débit)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réduction de débit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 04c690c1-75ea-53ab-99a6-7dff2df0b64d
+status: valid

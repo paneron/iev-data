@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.6.1
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 3.6.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{règlement, IEV:901-02-10}} qui contient des {{exigence, IEV:901-05-05}}s
+    techniques, soit directement, soit par référence à une {{norme, IEV:901-02-02}},
+    une {{spécification technique, IEV:901-02-08}} ou un {{code de bonne pratique,
+    IEV:901-02-09}}, ou bien en en intégrant le contenu'
+  examples: []
+  id: 901-02-11
+  language_code: fra
+  notes:
+  - Un règlement technique peut s'accompagner d'indications techniques décrivant certains
+    moyens pour se conformer aux exigences du règlement, c'est-à-dire une {{disposition
+    réputée satisfaire à, IEV:901-05-08}} ces exigences.
+  reviewDecisionEvent: published
+  terms:
+  - designation: règlement technique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 768f8645-b3d5-5499-9128-e57daa49f30f
+status: valid

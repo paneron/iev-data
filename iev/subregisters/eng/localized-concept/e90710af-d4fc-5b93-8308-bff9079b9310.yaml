@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: the statement that the radiance of certain idealised surfaces is independent
+    of the angle from which the surface is viewed
+  examples: []
+  id: 731-01-37
+  language_code: eng
+  notes:
+  - The radiant intensity of such a surface is a maximum normal to the surface and
+    decreases in proportion to the cosine of the angle from the normal.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Lambert's cosine law
+    normative_status: preferred
+    type: expression
+  - designation: cosine emission law
+    type: expression
+dateAccepted: 1991-10-01
+id: e90710af-d4fc-5b93-8308-bff9079b9310
+status: valid

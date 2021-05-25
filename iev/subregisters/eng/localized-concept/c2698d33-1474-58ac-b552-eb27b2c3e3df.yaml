@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'undesired, independent and mostly unpredictable input variable acting
+    from the outside on the system SEE: Figures 1 and 2.'
+  examples: []
+  id: 351-48-08
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-27-08 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: disturbance variable
+    normative_status: preferred
+    type: expression
+  - designation: '`z`'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: c2698d33-1474-58ac-b552-eb27b2c3e3df
+status: valid

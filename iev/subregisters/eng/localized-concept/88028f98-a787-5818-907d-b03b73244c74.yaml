@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.60
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.60
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: redundant information, added to the safety and non-safety message of
+    the non-trusted transmission system in order to ensure the integrity of the message
+    during the transmission
+  examples: []
+  id: 821-11-54
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission code
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 88028f98-a787-5818-907d-b03b73244c74
+status: valid

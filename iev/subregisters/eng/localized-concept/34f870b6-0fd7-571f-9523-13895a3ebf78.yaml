@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.161
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.161
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: device which receives information from the bus or sends information
+    on the bus in response to a request (also called a poll) from the master
+  examples: []
+  id: 811-37-96
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: slave
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 34f870b6-0fd7-571f-9523-13895a3ebf78
+status: valid

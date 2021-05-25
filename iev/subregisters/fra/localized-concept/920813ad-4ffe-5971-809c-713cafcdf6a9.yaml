@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: réponse temporelle d'un système linéaire invariant dans le temps, qui
+    est initialement en régime établi `U`~0~, `V`~0~, produite par l'application d'une
+    fonction impulsion Δ`u`~δ~(`t`) = `K`~δ~·δ(`t`) à l'une des variables d'entrée,
+    où Δ`v`~δ~(`t`) = `v`(`t`) – `V`~0~ et Δ`u`~δ~(`t`) = `u`(`t`) – `U`~0~
+  examples: []
+  id: 351-45-26
+  language_code: fra
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse impulsionnelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 920813ad-4ffe-5971-809c-713cafcdf6a9
+status: valid

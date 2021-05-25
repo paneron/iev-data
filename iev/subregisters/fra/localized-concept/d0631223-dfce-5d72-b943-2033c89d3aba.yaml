@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: logarithme du rapport de la valeur d'une pression acoustique donnée
+    à la valeur de la pression acoustique prise comme référence. Exprimé en décibels,
+    le niveau de pression acoustique est égal à 20 fois le logarithme décimal de ce
+    rapport
+  examples: []
+  id: 801-22-07
+  language_code: fra
+  notes:
+  - Sauf spécification contraire, la pression acoustique de référence est 20 μPa pour
+    les sons aériens et 1 μPa pour les sons dans les milieux autres que l'air.
+  - Sauf spécification contraire, les pressions acoustiques sont exprimées en valeurs
+    efficaces.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de pression acoustique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: d0631223-dfce-5d72-b943-2033c89d3aba
+status: valid

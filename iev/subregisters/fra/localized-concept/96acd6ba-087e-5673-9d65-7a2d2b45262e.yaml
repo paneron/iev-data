@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: tension d'un élément électrochimique lorsque le courant électrique aux
+    électrodes est nul
+  examples: []
+  id: 114-03-11
+  language_code: fra
+  notes:
+  - Le courant nul peut être obtenu par un circuit ouvert.
+  - Cet article était numéroté 111-15-14 dans la CEI 60050-111:1996.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension de source d'un élément électrochimique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: force électromotrice
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 96acd6ba-087e-5673-9d65-7a2d2b45262e
+status: valid

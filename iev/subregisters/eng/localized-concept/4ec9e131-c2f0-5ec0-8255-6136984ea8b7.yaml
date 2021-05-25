@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-08-01
+  definition: under sinusoidal conditions, product of the phasor `underset(_)(U)`
+    representing the voltage between the terminals of a linear two-terminal element
+    or two-terminal circuit and the complex conjugate of the phasor `underset(_)(I)`
+    representing the electric current in the element or circuit `underset(_)(S) =
+    underset(_)(U) underset(_)(I) *`
+  examples: []
+  id: 131-11-39
+  language_code: eng
+  notes:
+  - Complex power is equal to `P + j Q`, where `P` is active power and `Q` is reactive
+    power.
+  - The coherent SI unit for complex power is voltampere, VA.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex power
+    normative_status: preferred
+    type: expression
+  - designation: complex apparent power
+    normative_status: preferred
+    type: expression
+  - designation: '`underset(_)(S)`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 4ec9e131-c2f0-5ec0-8255-6136984ea8b7
+status: valid

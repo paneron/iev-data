@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^80^ d''une unité de mesure'
+  examples:
+  - Un yobibit = 1 Yibit = (1 024)^8^ bit.
+  id: 171-02-21
+  language_code: fra
+  notes:
+  - Le préfixe yobi a pour origine yottabinaire, (2^10^)^8^, dérivé du préfixe SI
+    yotta, (10^3^)^8^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: yobi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bf335ebf-8dc0-5729-aba5-fabe351f2319
+status: valid

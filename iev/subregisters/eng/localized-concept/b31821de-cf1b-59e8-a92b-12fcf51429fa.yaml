@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 131-11-30
+      original: 131-11-30
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: sum of the instantaneous powers in all phase elements of a polyphase
+    element
+  examples: []
+  id: 141-02-14
+  language_code: eng
+  notes:
+  - For a symmetric polyphase element, under symmetric conditions (degenerated polyphase
+    systems excluded), the instantaneous power is time independent and equal to the
+    active power.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous power
+    normative_status: preferred
+    type: expression
+    usage_info: for a polyphase element
+  - designation: '`p`'
+    international: true
+    type: symbol
+dateAccepted: 2004-08-01
+id: b31821de-cf1b-59e8-a92b-12fcf51429fa
+status: valid

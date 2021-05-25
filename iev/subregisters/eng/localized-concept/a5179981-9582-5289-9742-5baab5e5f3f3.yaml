@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.4
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.4
+      ref: IEC 62290-1:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: nominal average speed of passenger service trains between two terminus
+    stations of the line (dwell times at stations taken into account)
+  examples: []
+  id: 821-01-51
+  language_code: eng
+  notes:
+  - Commercial speed is equal to the length between two terminus stations divided
+    by the nominal journey time.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commercial speed
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: a5179981-9582-5289-9742-5baab5e5f3f3
+status: valid

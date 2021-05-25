@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur contenant de la matière fissile sous forme
+    d'un dépôt et destiné à détecter les neutrons thermiques
+  examples: []
+  id: 395-03-47
+  language_code: fra
+  notes:
+  - L’ionisation est principalement due aux particules chargées produites par réaction
+    nucléaire des neutrons dans le dépôt fissile.
+  - Cet article était numéroté 394-28-13 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur à fission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur à fission
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c4453cc6-c2c4-5734-b5b2-c4526a27810e
+status: valid

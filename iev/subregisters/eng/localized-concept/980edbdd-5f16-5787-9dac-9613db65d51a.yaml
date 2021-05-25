@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.6
+      link: https://webstore.iec.ch/publication/6241
+      original: IEC 61992-1:2006, 3.4.6, modified
+      ref: IEC 61992-1:2006
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2017-11-01
+  definition: circuit-breaker used to couple or uncouple different portions of the
+    contact line network
+  examples: []
+  id: 811-36-27
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interconnecting circuit-breaker
+    normative_status: preferred
+    type: expression
+  - designation: bus-section circuit-breaker
+    normative_status: preferred
+    type: expression
+  - designation: section circuit-breaker
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 980edbdd-5f16-5787-9dac-9613db65d51a
+status: valid

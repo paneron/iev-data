@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: a method of source coding using the difference between the value of
+    a sample and a predicted value
+  examples: []
+  id: 723-10-47
+  language_code: eng
+  notes:
+  - For signals having strong correlation between successive samples, a reduction
+    of bit rate can be attained by differential coding, since fewer quantization intervals
+    may be used to quantize differences than would be required for quantizing sample
+    values with comparable precision.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: differential coding
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 70f70d85-6ee8-5fa2-afea-5bdbbae1c609
+status: valid

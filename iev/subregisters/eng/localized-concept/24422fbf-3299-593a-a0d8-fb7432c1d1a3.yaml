@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: for a particular class of outage and a specified period of time, the
+    quotient of the number of outages by the up duration for an item
+  examples: []
+  id: 603-05-24
+  language_code: eng
+  notes:
+  - This concept may be applicable for example to scheduled-outage rate, forced-outage
+    rate.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: outage rate
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 24422fbf-3299-593a-a0d8-fb7432c1d1a3
+status: valid

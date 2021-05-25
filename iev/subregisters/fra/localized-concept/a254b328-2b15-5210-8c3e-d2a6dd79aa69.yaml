@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: raccordement électrique reliant la ligne de contact à une sous-station
+    ou à un poste de traction électrique
+  examples: []
+  id: 811-36-08
+  language_code: fra
+  notes:
+  - Le fil peut être un câble isolé ou non.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fil
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en traction électrique
+  - designation: artère
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: en traction électrique
+  - designation: câble d'alimentation
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a254b328-2b15-5210-8c3e-d2a6dd79aa69
+status: valid

@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: différence finale des affaiblissements en décibels qui réduisent les
+    valeurs de la netteté pour les sons à 80 % sur le système de référence pour la
+    détermination des affaiblissements équivalents pour la netteté et sur un système
+    téléphonique donné lors d'essais de netteté alternés effectués dans un sens déterminé
+    sur ces deux systèmes en faisant croître progressivement les affaiblissements
+    en ligne
+  examples: []
+  id: 722-17-13
+  language_code: fra
+  notes:
+  - La méthode des AEN est décrite dans la Recommandation P12 du CCITT contenue dans
+    le Tome V du Livre Jaune, 1981.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement équivalent pour la netteté
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: AEN
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: f2a5be1b-fd20-5839-9311-7457764b1f4f
+status: valid

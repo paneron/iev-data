@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rétablissement sans maintenance corrective
+  examples: []
+  id: 192-06-24
+  language_code: fra
+  notes:
+  - Dans l’IEC 60050-191:1990 (supprimée; remplacée par l'IEC 60050-192:2015) en anglais,
+    le terme «recovery» était synonyme de «restoration» ({{192-06-23, IEV:192-06-23}})
+    mais ce n’est pas vrai dans tous les cas.
+  - Voir aussi rétablissement automatique ({{192-06-25, IEV:192-06-25}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: récupération
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e1d3a16-3d38-5b5d-a483-e6fa3d8a4a06
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: filtre passe-bande destiné à interconnecter deux liaisons en ligne consécutives
+    qui transmettent les signaux occupant la même bande de fréquences
+  examples: []
+  id: 704-11-07
+  language_code: fra
+  notes:
+  - Un filtre de transfert direct peut servir à interconnecter deux liaisons en ligne
+    consécutives appartenant à la même section de groupe primaire, de groupe secondaire
+    ou autre.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: filtre de transfert direct
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: FTD
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 63c087ef-3077-50ed-9499-9bf276299680
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'for a step response the duration of the time interval between the intersection
+    points of the tangent at the inflection point with the horizontal axis corresponding
+    to the initial value and with its parallel through the final steady-state value
+    SEE: Figure 6.'
+  examples: []
+  id: 351-45-35
+  language_code: eng
+  notes:
+  - This definition applies only to systems without overshoot of the step response.
+  - This entry was numbered 351-24-27 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent time constant
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 49ef4fe1-f191-54dd-9cf4-adb0f506a443
+status: valid

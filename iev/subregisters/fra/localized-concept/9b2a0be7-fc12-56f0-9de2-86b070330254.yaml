@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique réfléchi, `Φ`~r~, par le flux énergétique
+    incident, `Φ`~m~ `rho = ((Phi_r))/((Phi_m))`
+  examples: []
+  id: 845-24-064
+  language_code: fra
+  notes:
+  - Le facteur de réflexion est également définie spectralement par rapport à la longueur
+    d'onde, auquel cas "spectrale" est ajouté devant le nom de la grandeur.
+  - En raison de la conservation de l'énergie, `α` + `ρ` + `τ` = 1 sauf lors de l'observation
+    d'un <a href="IEV845-21-017">rayonnement polarisé</a>, où `α` est le facteur d'absorption
+    et `τ` est le facteur de transmission.
+  - 'Le facteur de réflexion, `ρ`, est la somme du facteur de réflexion régulière,
+    `ρ`~r~, et du facteur de réflexion diffuse, `ρ`~d~: `ρ` = `ρ`~r~ + `ρ`~d~.'
+  - L'unité de facteur de réflexion est un.
+  - Cet article était numéroté 845-04-58 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9b2a0be7-fc12-56f0-9de2-86b070330254
+status: valid

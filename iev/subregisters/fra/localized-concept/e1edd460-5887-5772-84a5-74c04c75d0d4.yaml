@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: mode de conduite dans lequel la cabine de conduite du train est occupée
+    par un agent unique qui effectue toutes les opérations de conduite
+  examples: []
+  id: 811-04-14
+  language_code: fra
+  notes:
+  - Le terme français "conduite à un agent seul" couvre les deux modes de conduite
+    définis par les termes anglais "single-manning" et "one man operation".
+  reviewDecisionEvent: published
+  terms:
+  - designation: conduite à un agent seul
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: avec agent commercial à bord du train
+dateAccepted: 2018-11-17
+id: e1edd460-5887-5772-84a5-74c04c75d0d4
+status: valid

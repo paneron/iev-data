@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: time relay in which the time delay starts when applying the power supply
+    and the output switches to the operate condition after the setting time has elapsed
+    (see Figure 1) image::/assets/images/parts/445/445-01-02en.gif[]
+  examples: []
+  id: 445-01-02
+  language_code: eng
+  notes: []
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power on-delay relay
+    normative_status: preferred
+    type: expression
+  - designation: on-delay relay
+    type: expression
+dateAccepted: 2010-10-01
+id: 905a1bb0-d9ce-5715-8361-a7685f1d1254
+status: valid

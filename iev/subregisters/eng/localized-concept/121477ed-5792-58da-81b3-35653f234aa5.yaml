@@ -1,0 +1,75 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: combinatorial circuit which performs a Boolean operation in one or two
+    stages
+  examples: []
+  id: 351-52-05
+  language_code: eng
+  notes:
+  - 'Examples of binary-logic elements are:
+
+
+    <table>
+
+    <tr>
+
+    <td>NOT element</td>
+
+    <td>complementation;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>AND element</td>
+
+    <td>logical product;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>OR element</td>
+
+    <td>logical sum;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>NAND element</td>
+
+    <td>complemented logical product;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>NOR element</td>
+
+    <td>complemented logical sum;</td>
+
+    </tr>
+
+    <tr>
+
+    <td>XOR element</td>
+
+    <td>exclusive OR.</td>
+
+    </tr>
+
+    </table>'
+  - This entry was numbered 351-29-13 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: binary-logic element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 121477ed-5792-58da-81b3-35653f234aa5
+status: valid

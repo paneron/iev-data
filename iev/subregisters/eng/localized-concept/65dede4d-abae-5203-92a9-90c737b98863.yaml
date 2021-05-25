@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: central part of an {{operating system, IEV:171-05-01}} that manages
+    the resources of the computer and the communications between the various components
+  examples: []
+  id: 171-05-02
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: kernel
+    normative_status: preferred
+    type: expression
+    usage_info: of an operating system
+  - designation: supervisory program
+    normative_status: preferred
+    type: expression
+  - designation: supervisory programme
+    normative_status: admitted
+    type: expression
+  - designation: supervisor
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: 65dede4d-abae-5203-92a9-90c737b98863
+status: valid

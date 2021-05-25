@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 702-08-02
+      original: 702-08-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: signal received at a given point, different from a given wanted signal,
+    which may impair the reception of the wanted signal
+  examples: []
+  id: 713-11-02
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unwanted signal
+    normative_status: preferred
+    type: expression
+  - designation: undesired signal
+    type: expression
+dateAccepted: 1998-04-01
+id: 083af263-be28-58d7-963f-ac24be8fa121
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1999-04-01
+  definition: data reduction procedure that groups test data for a certain parameter
+    into wind speed intervals, called bins
+  examples: []
+  id: 415-05-14
+  language_code: eng
+  notes:
+  - For each bin, the number of samples and their sum are recorded, and the average
+    parameter value within each bin is calculated
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: method of bins
+    normative_status: preferred
+    type: expression
+dateAccepted: 1999-04-01
+id: 8c0226eb-0754-528f-a276-643cb6824473
+status: valid

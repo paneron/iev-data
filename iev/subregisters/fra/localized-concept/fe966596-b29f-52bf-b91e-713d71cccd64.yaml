@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: plus grande valeur d'une fonction dans un intervalle donné de valeurs
+    de son argument
+  examples: []
+  id: 103-05-15
+  language_code: fra
+  notes:
+  - Dans le cas d'une fonction périodique, l'intervalle donné a une étendue égale
+    à la période.
+  - Le terme valeur de crête est surtout employé pour la valeur maximale globale d'une
+    fonction du temps.
+  - Une valeur maximale globale de la fonction `f` est notée `f_((m m))` ou `hat hat
+    f`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur maximale globale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur de crête
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fe966596-b29f-52bf-b91e-713d71cccd64
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: lack of damping which results in a build-up of oscillations in the power
+    system, and may or may not lead to loss of synchronism
+  examples: []
+  id: 603-03-24
+  language_code: eng
+  notes:
+  - Under this condition, the derivative of the active power with respect to rotor
+    speed is negative for at least one generator.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: oscillatory instability
+    normative_status: preferred
+    type: expression
+  - designation: dynamic instability
+    type: expression
+dateAccepted: 2021-01-01
+id: 923ccf84-8c51-5194-9cb2-5d511c5cae40
+status: valid

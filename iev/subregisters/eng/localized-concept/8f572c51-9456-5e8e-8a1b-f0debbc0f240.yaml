@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'duration of the time interval after a stepwise change of the reference
+    variable or a stepwise change of a disturbance variable beginning, when the controlled
+    variable for the first time leaves a specified tolerance band, placed around the
+    desired value of the controlled variable, and ending, when the controlled variable
+    for the first time returns into this tolerance band and remains within it SEE:
+    Figure 11.'
+  examples: []
+  id: 351-46-02
+  language_code: eng
+  notes:
+  - This entry was numbered 351-25-02 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control settling time
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~cs~'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 8f572c51-9456-5e8e-8a1b-f0debbc0f240
+status: valid

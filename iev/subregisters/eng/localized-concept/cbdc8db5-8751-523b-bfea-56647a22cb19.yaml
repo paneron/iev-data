@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 441-17-22
+      original: IEC 60050-441:2000, 441-17-22, modified – In the definition, "release"
+        has been replaced by "residual current operated circuit-breaker with integral
+        overcurrent protection"
+      ref: IEC 60050-441:2000
+      relationship:
+        modification: In the definition, "release" has been replaced by "residual
+          current operated circuit-breaker with integral overcurrent protection"
+        type: modified
+  dateAmended: 2019-05-01
+  definition: specified value of current which the residual current operated circuit-breaker
+    with integral overcurrent protection can carry for a specified time (conventional
+    time) without operating
+  examples: []
+  id: 442-05-54
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conventional non-tripping current
+    normative_status: preferred
+    type: expression
+    usage_info: of a residual current operated circuit-breaker with integral overcurrent
+      protection
+  - designation: '`I`~nt~'
+    international: true
+    type: symbol
+dateAccepted: 2019-05-01
+id: cbdc8db5-8751-523b-bfea-56647a22cb19
+status: valid

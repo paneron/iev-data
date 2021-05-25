@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: '{{durée, IEV:113-01-13}} entre les instants où une {{surface d''onde,
+    IEV:103-10-04}} d''une {{onde progressive, IEV:705-01-38}} sinusoïdale, déterminée
+    par une {{phase, IEV:103-07-04}} spécifiée, rencontre deux points donnés de l''espace'
+  examples: []
+  id: 702-02-16
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de propagation de phase
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: retard de phase
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f251b4f6-6f8f-57c0-a8a6-f8e2dccb2cfe
+status: valid

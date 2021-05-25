@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'square matrix the elements of which have the property: `Aij` = `Aji`'
+  examples: []
+  id: 102-06-25
+  language_code: eng
+  notes:
+  - A symmetric matrix is equal to its transpose.
+  - All eigenvalues of a symmetric matrix with real elements are real.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: symmetric matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: e3847cca-ea1f-54ab-9f3a-b054163b0085
+status: valid

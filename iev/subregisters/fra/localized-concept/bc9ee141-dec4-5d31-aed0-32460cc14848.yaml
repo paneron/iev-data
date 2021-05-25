@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: réseau de téléconduite dans lequel le poste de conduite est connecté
+    à plusieurs postes satellites par une liaison commune de telle sorte qu'à un instant
+    déterminé un seul poste satellite puisse transmettre des données au poste de conduite;
+    le poste de conduite peut, lui, soit transmettre des données à un ou plusieurs
+    postes satellites choisis par lui, soit transmettre des messages collectifs simultanément
+    à tous les postes satellites
+  examples: []
+  id: 371-06-09
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau (de téléconduite) en ligne partagée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: configuration en ligne partagée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: bc9ee141-dec4-5d31-aed0-32460cc14848
+status: valid

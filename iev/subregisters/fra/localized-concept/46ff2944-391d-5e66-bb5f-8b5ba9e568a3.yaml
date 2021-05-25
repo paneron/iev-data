@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: rapport, généralement exprimé en décibels, de l'intensité de rayonnement
+    d'une antenne dans une direction donnée, à la valeur moyenne des intensités de
+    rayonnement dans toutes les directions de l'espace
+  examples: []
+  id: 712-02-42
+  language_code: fra
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle dans laquelle l'intensité
+    de rayonnement de l'antenne est maximale.
+  - La directivité est indépendante des pertes de l'antenne et est égale au gain isotrope
+    dans la même direction si l'antenne est sans pertes.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: directivité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: gain de directivité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 46ff2944-391d-5e66-bb5f-8b5ba9e568a3
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 11.2.1
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 11.2.1, modified – The parenthetical expression
+        following the term has been transferred to the term attribute "specific use".
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: The parenthetical expression following the term has been transferred
+          to the term attribute "specific use".
+        type: modified
+  dateAmended: 2013-11-01
+  definition: '{{reference to standards, IEV:901-06-14}} that identifies one or more
+    specific {{standards, IEV:901-02-02}} in such a way that later {{revisions, IEV:901-04-08}}
+    of the standard or standards are not to be applied unless the {{regulation, IEV:901-02-10}}
+    is modified'
+  examples: []
+  id: 901-06-15
+  language_code: eng
+  notes:
+  - The standard is usually identified by its number and either date or edition. The
+    title may also be given.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dated reference
+    normative_status: preferred
+    type: expression
+    usage_info: to standards
+dateAccepted: 2013-11-01
+id: 65ead8ee-c42f-592f-896c-69a30ff8f085
+status: valid

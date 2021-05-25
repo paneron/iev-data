@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.1
+      link: https://webstore.iec.ch/publication/3896
+      original: IEC 60913:2013, 3.1.1, modified
+      ref: IEC 60913:2013
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: support system and contact line supplying electric energy to vehicles
+    through current-collecting equipment
+  examples: []
+  id: 811-33-59
+  language_code: eng
+  notes:
+  - The contact line system can comprise* the contact line,* masts and foundations,*
+    supports and any components registering the conductors,* cross-spans or cables,*
+    tensioners,* other along track conductors such as feeders, earth wires and return
+    conductors when supported from the same masts as the contact line,* conductors
+    connected permanently to the contact line for supplying other electrical equipment
+    such as lighting, signal operation, point control and point heating.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contact line system
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: d4e9e410-ed5c-580e-85a8-049795f4f248
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité du flux photonique incident par rapport à l'aire en un point
+    d'une surface réelle ou fictive `E_p = ((d Phi_p))/((d A))` où `Φ`~p~ est le flux
+    photonique et `A` est l'aire qui reçoit ce flux
+  examples: []
+  id: 845-21-058
+  language_code: fra
+  notes:
+  - La grandeur radiométrique correspondante est l'"éclairement énergétique". La grandeur
+    photométrique correspondante est l'"éclairement lumineux".
+  - L'éclairement photonique est exprimé en secondes à la puissance moins un par mètre
+    carré (s^−1^·m^−2^).
+  - Cet article était numéroté 845-01-39 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement photonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2282af92-7d1f-5161-b409-9193b0d034ef
+status: valid

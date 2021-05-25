@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{opération booléenne dyadique, IEV:171-03-08}} dont le résultat a
+    la valeur booléenne 1 si et seulement si le premier {{opérande, IEV:171-03-04}}
+    a la valeur booléenne 1 et le second la valeur booléenne 0'
+  examples: []
+  id: 171-03-21
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: inhibition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: exclusion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: sauf
+    normative_status: admitted
+    type: expression
+dateAccepted: 2018-11-17
+id: 74e8b2a9-0d3f-52fb-b0c4-a2ecc8b34a15
+status: valid

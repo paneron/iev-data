@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: théorème de théorie des circuits exprimant que, pour deux réseaux ayant
+    le même nombre de branches et des interconnexions identiques, la somme algébrique,
+    étendue à toutes les branches, des produits de la tension aux bornes d'une branche
+    d'un des réseaux par le courant dans la branche homologue de l'autre réseau est
+    nulle
+  examples: []
+  id: 131-15-16
+  language_code: fra
+  notes:
+  - La polarité de chaque tension de branche dans le premier réseau par rapport au
+    sens de référence du courant dans la branche homologue du second réseau doit être
+    choisie de façon uniforme pour l'ensemble des deux réseaux.
+  - Lorsque les deux réseaux représentent les distributions des tensions et des courants
+    dans le même réseau au même instant, le théorème de Tellegen exprime la conservation
+    de la puissance.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: théorème de Tellegen
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: b7ebe234-cb64-5085-a6dc-5f58121feacb
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-06-01
+  definition: '{{device, IEV:151-11-20}} consisting of {{conductors, IEV:121-12-02}},
+    {{insulating materials, IEV:151-15-35}} and {{accessories, IEV:151-11-24}} for
+    the purpose of conveying {{electromagnetic, IEV:151-11-09}} {{energy, IEV:113-03-45}}
+    between two {{electric, IEV:151-11-03}} devices'
+  examples:
+  - two-wire line, {{polyphase line, IEV:141-03-01}}, {{coaxial line, IEV:726-01-15}},
+    {{waveguide, IEV:151-12-34}}.
+  id: 151-12-27
+  language_code: eng
+  notes: []
+  reviewDate: 2020-06-01
+  reviewDecisionDate: 2020-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric line
+    normative_status: preferred
+    type: expression
+  - designation: line
+    normative_status: preferred
+    type: expression
+    usage_info: for transfer of electric energy
+dateAccepted: 2020-06-01
+id: e591e1b0-aeea-5054-b66b-864b8891362e
+status: valid

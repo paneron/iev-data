@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 386
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 386
+      ref: ISO 921:1997
+      relationship:
+        type: identical
+    - clause: 393-15-39
+      link: https://webstore.iec.ch/publication/12450
+      original: IEC 60050-393:2003, 393-15-39
+      ref: IEC 60050-393:2003
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: multiplication factor evaluated for a finite medium
+  examples: []
+  id: 395-07-08
+  language_code: eng
+  notes:
+  - This entry was numbered 393-15-39 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective multiplication factor
+    normative_status: preferred
+    type: expression
+  - designation: '`k`~eff~'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: e2fb8237-572d-5c35-80f4-36298bec1db5
+status: valid

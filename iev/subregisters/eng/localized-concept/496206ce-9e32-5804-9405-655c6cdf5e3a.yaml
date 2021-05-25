@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: for two complex-valued functions, `underset(_)(f)` and `underset(_)(g)`,
+    defined on the interval `a , b` of ℝ, complex number `〈 underset(_)(f) , underset(_)(g)
+    〉 = int_a^b underset(_)(f) ( x ) underset(_)(g)^( ** ) ( x ) d x`, where `underset(_)(g)^(
+    ** )` is the conjugate of `underset(_)(g)`
+  examples: []
+  id: 103-01-08
+  language_code: eng
+  notes:
+  - 'The inner product has the following properties: `〈 underset(_)(f) , underset(_)(g)
+    〉 = 〈 underset(_)(g) , underset(_)(f) 〉^( ** )` and `〈 underset(_)(alpha) underset(_)(f)
+    + underset(_)(beta) underset(_)(g) , underset(_)(h) 〉 = underset(_)(alpha) 〈 underset(_)(f)
+    , underset(_)(h) 〉 + underset(_)(beta) 〈 underset(_)(g) , underset(_)(h) 〉` where
+    `underset(_)(alpha) , underset(_)(beta) in` ℂ.'
+  - The inner product for complex functions is similar to the Hermitian product for
+    vectors (see IEC 60050-102, {{102-03-18, IEV:102-03-18}}). For real functions,
+    it is similar to the scalar product (see IEC 60050-102, {{102-03-17, IEV:102-03-17}}).
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inner product
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 496206ce-9e32-5804-9405-655c6cdf5e3a
+status: valid

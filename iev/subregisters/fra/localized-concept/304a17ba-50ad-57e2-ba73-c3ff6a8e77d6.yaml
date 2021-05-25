@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension caractérisant l'importance relative de la viscosité
+    et de la diffusivité thermique, définie par `P r = ((eta c_p))/(lambda) = (nu)/(alpha)`,
+    où `η` est la viscosité dynamique, `c`~`p`~ est la capacité thermique massique
+    à pression constante, `λ` est la conductivité thermique, `ν` est la viscosité
+    cinématique, `α` est la diffusivité thermique
+  examples: []
+  id: 113-04-54
+  language_code: fra
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de Prandtl
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 304a17ba-50ad-57e2-ba73-c3ff6a8e77d6
+status: valid

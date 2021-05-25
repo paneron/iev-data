@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: having a resistivity or resistance below the dissipative range allowing
+    stray current arcs and electrostatic shocks to occur
+  examples: []
+  id: 426-25-01
+  language_code: eng
+  notes:
+  - Conductive materials or objects are neither dissipative nor insulating and are
+    incapable of retaining a significant electrostatic charge when in contact with
+    the earth.
+  - 'Boundary limits for the conductive range for solid materials, enclosures, some
+    objects and bulk materials are given in IEC TS 60079-32-1, _Explosive atmospheres
+    – Part 32-1: Electrostatic hazards, guidance_.'
+  - Product standards and other standards covering electrostatic properties often
+    include specific definitions of "conductive", which apply only to items covered
+    by those standards and can be different to the definitions given here. See e.g.
+    ISO 8031, _Rubber and plastics hoses and hose assemblies – Determination of electrical
+    resistance and conductivity_, and ISO 8330, _Rubber and plastics hoses and hose
+    assemblies – Vocabulary_, for hose and hose assemblies.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductive
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+    usage_info: electrostatically
+  - designation: dissipative
+    part_of_speech: adj
+    type: expression
+    usage_info: electrostatically
+  - designation: antistatic
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+    usage_info: electrostatically
+dateAccepted: 2020-03-01
+id: 98f6aade-0b7f-554a-8d25-60b271f33307
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: a basic principle stating that no passive optical system can increase
+    the quantity `L`•n^-2^ where `L` is the radiance of a beam and `n` is local refractive
+    index
+  examples: []
+  id: 731-01-31
+  language_code: eng
+  notes:
+  - The quantity `L`•n^-2^ would be constant if the losses by absorption, scattering
+    etc. were zero.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conservation of radiance
+    normative_status: preferred
+    type: expression
+  - designation: conservation of brightness
+    type: expression
+  - designation: brightness theorem
+    type: expression
+dateAccepted: 1991-10-01
+id: bb79a328-baff-52a8-ac46-3b028c4e3158
+status: valid

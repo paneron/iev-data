@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: a device for transforming an unbalanced voltage to a balanced voltage
+    or vice-versa
+  examples: []
+  id: 712-06-03
+  language_code: eng
+  notes:
+  - A balun is used, for example, to couple a balanced antenna to an unbalanced feed
+    line.
+  - The term is derived from "balanced to unbalanced transformer".
+  - A balun may be realized in practice by using a transformer or a lumped parameter
+    or distributed parameter network which may include active devices.
+  - A balun may exhibit inherent impedance transformation differing from unity.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: balun
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: a59f4d01-2a99-5005-b936-e0a16a8e0786
+status: valid

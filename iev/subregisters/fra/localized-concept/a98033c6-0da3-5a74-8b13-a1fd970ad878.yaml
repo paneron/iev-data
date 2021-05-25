@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - original: Directive EPI – 89/686/CEE du 21 décembre 1989, modifiée – La définition
+        a été modifiée pour l’application aux travaux sous tension.
+      ref: Directive EPI – 89/686/CEE du 21 décembre 1989, modifiée – La définition
+        a été modifiée pour l’application aux travaux sous tension.
+      relationship:
+        modification: La définition a été modifiée pour l’application aux travaux
+          sous tension.
+        type: modified
+  classification: Preferred
+  definition: tout {{dispositif, IEV:651-21-15}} ou moyen destiné à être porté ou
+    tenu par une personne en vue de la protéger contre un ou plusieurs risques susceptibles
+    de menacer sa santé ainsi que sa sécurité lors de {{travaux sous tension, IEV:651-21-01}}
+  examples: []
+  id: 651-23-01
+  language_code: fra
+  notes:
+  - Cet article était numéroté 651-07-01 dans la CEI 60050-651:1999. Il a été modifié
+    pour clarifier le rôle des EPI.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équipement de protection individuelle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: EPI
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a98033c6-0da3-5a74-8b13-a1fd970ad878
+status: valid

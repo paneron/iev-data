@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: point dans un diagramme de chromaticité qui représente la couleur de
+    l'ajout (à 100 %) des trois primaires d'affichage, et mesuré dans une direction
+    perpendiculaire à l'écran d'affichage
+  examples: []
+  id: 845-32-030
+  language_code: fra
+  notes:
+  - Certains écrans d'affichage intègrent plus de trois primaires et dans ces cas,
+    le fabricant de l'écran détermine le mode de création du point blanc.
+  reviewDecisionEvent: published
+  terms:
+  - designation: point blanc
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un illuminant d'affichage
+dateAccepted: 2018-11-17
+id: fa2c15e8-6ace-5d7f-b256-78a1916d1b99
+status: valid

@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: set of functions, such that each of them is orthogonal to any other
+  examples: []
+  id: 103-01-11
+  language_code: eng
+  notes:
+  - 'Examples:
+
+
+
+
+    * Legendre polynomials P constitute a system of orthogonal functions on the interval
+    `- 1 , + 1` because `int_( - 1)^( + 1) P_k ( x ) P_l ( x ) d x = 0` for any integers
+    `k != l`.
+
+
+    * Laguerre polynomials L constitute a system of orthogonal functions on the interval
+    `0 , + oo` with the weight `e x p ( - x )` because `int_( 0)^( + oo) L_k ( x )
+    L_l ( x ) exp ( - x ) d x = 0` for any integers `k != l`.
+
+
+    * Trigonometric functions sine and cosine constitute a system of orthogonal functions
+    on the interval `0 , 2 pi` because `int_( 0)^( 2 pi) sin ( k x ) sin ( l x ) d
+    x = 0` and `int_( 0)^( 2 pi) cos ( k x ) cos ( l x ) d x = 0` for any integers
+    `k != l`, and `int_( 0)^( 2 pi) sin ( k x ) cos ( l x ) d x = 0` for any integer
+    `k` and `l`.'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: system of orthogonal functions
+    normative_status: preferred
+    type: expression
+  - designation: orthogonal system
+    type: expression
+dateAccepted: 2009-12-01
+id: 7e50b7fd-afce-514a-9077-cf666b97ce6f
+status: valid

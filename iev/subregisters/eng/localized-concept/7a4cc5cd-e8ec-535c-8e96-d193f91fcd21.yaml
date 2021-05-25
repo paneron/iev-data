@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: at a port of a network, complex quantity associated with the incident
+    wave
+  examples: []
+  id: 131-14-33
+  language_code: eng
+  notes:
+  - The scattering variables are linear combinations of the phasors representing the
+    voltage and the current. They depend on a reference impedance chosen at each port.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: incident scattering variable
+    normative_status: preferred
+    type: expression
+  - designation: incident wave quantity
+    type: expression
+  - designation: '`M`'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 7a4cc5cd-e8ec-535c-8e96-d193f91fcd21
+status: valid

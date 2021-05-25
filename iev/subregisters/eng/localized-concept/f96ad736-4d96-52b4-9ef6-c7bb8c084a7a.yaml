@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.21
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.21
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: response from a receiver to the sender, via a return channel
+  examples: []
+  id: 821-11-21
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: feedback message
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: f96ad736-4d96-52b4-9ef6-c7bb8c084a7a
+status: valid

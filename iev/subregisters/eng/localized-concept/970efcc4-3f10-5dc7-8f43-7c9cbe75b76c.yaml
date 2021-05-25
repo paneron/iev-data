@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'for a multi-position element any value of the input variable at which
+    the value of the output variable changes SEE: Figures 19 and 20.'
+  examples: []
+  id: 351-50-24
+  language_code: eng
+  notes:
+  - The change of the output variable can occur at a pair of switching values, that
+    is at different values of the input variable depending on direction of change;
+    the difference in these values is called the differential gap (see 351-50-25).
+  - This entry was numbered 351-28-35 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: switching value
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 970efcc4-3f10-5dc7-8f43-7c9cbe75b76c
+status: valid

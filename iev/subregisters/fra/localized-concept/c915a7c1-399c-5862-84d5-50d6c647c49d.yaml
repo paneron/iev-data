@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité du nombre de photons incidents par rapport à une aire en un
+    point d'une surface réelle ou fictive `H_p = ((d N_p))/((d A))` où `N`~p~ est
+    le nombre de photons et `A` est l'aire qui reçoit les photons
+  examples: []
+  id: 845-21-073
+  language_code: fra
+  notes:
+  - La grandeur radiométrique correspondante est l'"exposition énergétique". La grandeur
+    photométrique correspondante est l'"exposition lumineuse".
+  - L'exposition photonique est exprimée en mètre à la puissance moins deux (m^−2^).
+  - Cet article était numéroté 845-01-44 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposition photonique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c915a7c1-399c-5862-84d5-50d6c647c49d
+status: valid

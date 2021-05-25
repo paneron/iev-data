@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1996-12-01
+  definition: pour un faisceau de circuits ou un indicatif de destination donnés et
+    pendant un intervalle de temps spécifié, rapport du nombre des prises qui aboutissent
+    à un signal de réponse, au nombre total de prises
+  examples: []
+  id: 715-02-20
+  language_code: fra
+  notes:
+  - En certains points du réseau ce rapport peut se montrer inférieur au taux d'efficacité
+    par suite du jeu des renouvellements de sélection automatiques.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux de prises avec réponse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TPR
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 57a0de1d-d94d-5ee1-9b83-e61a2b81fe52
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: the frequency of rotation of a charged particle of specified nature
+    describing, in the presence of a uniform magnetic field, a helical curve around
+    the lines of force of the field
+  examples: []
+  id: 705-06-09
+  language_code: eng
+  notes:
+  - 'The gyro-frequency `f`~c~ is given by the expression:
+
+
+    `f_c = (1)/((2 pi)) ((q B))/(m)`
+
+
+    where `B` is the magnetic flux density, `m` and `q` are the mass and the charge
+    of the particle respectively.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gyro-frequency
+    normative_status: preferred
+    type: expression
+  - designation: cyclotron frequency
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 02e0f9c4-5ed1-5148-b87e-16796d6fd959
+status: valid

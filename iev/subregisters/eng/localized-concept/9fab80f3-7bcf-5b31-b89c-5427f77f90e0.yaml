@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 881-14-04
+      link: https://webstore.iec.ch/publication/272
+      original: IEC 60050-881:1983, 881-14-04, modified
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: definition 1041
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1041, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: unit of dose equivalent 1 rem = 0,01 Sv
+  examples: []
+  id: 395-01-38
+  language_code: eng
+  notes:
+  - The unit rem is still used in some countries although its use is deprecated.
+  - This entry was numbered 393-14-74 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rem
+    normative_status: preferred
+    type: expression
+  - designation: rem
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 9fab80f3-7bcf-5b31-b89c-5427f77f90e0
+status: valid

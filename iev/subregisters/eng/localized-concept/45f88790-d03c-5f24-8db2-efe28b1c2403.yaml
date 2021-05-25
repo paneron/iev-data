@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 221-01-07
+      original: 221-01-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: for a substance within a domain, vector quantity equal to the volume
+    integral of the magnetic polarization
+  examples: []
+  id: 121-11-55
+  language_code: eng
+  notes:
+  - 'The magnetic dipole moment is related to the magnetic area moment `*m*` by the
+    expression
+
+
+    `*j*` = `μ`~0~ `*m*`
+
+
+    where `μ`~0~ is the magnetic constant.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic dipole moment
+    normative_status: preferred
+    type: expression
+  - designation: '`*j*`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 45f88790-d03c-5f24-8db2-efe28b1c2403
+status: valid

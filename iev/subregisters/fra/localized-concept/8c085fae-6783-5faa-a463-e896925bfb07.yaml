@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: vecteur vitesse, en un point et selon une direction spécifiée, du déplacement
+    d'une surface d'onde de phase donnée d'une onde progressive sinusoïdale
+  examples: []
+  id: 705-02-16
+  language_code: fra
+  notes:
+  - Si aucune direction n'est spécifiée, la vitesse de phase considérée est celle
+    dans la direction de propagation.
+  - Dans la direction de propagation, la norme de la vitesse de phase a sa valeur
+    minimale qui est égale au quotient de la pulsation par la norme de la partie réelle
+    du vecteur d'onde.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (vecteur) vitesse de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 8c085fae-6783-5faa-a463-e896925bfb07
+status: valid

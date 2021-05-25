@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie du temps de maintenance corrective active consacré à effectuer
+    une tâche de réparation image::/assets/images/parts/192/60050-192-F2fr.png[Figure
+    2 - Temps de maintenance]
+  examples: []
+  id: 192-07-19
+  language_code: fra
+  notes:
+  - Le temps de réparation est composé du temps de localisation de panne {{192-07-18,
+    IEV:192-07-18}}, du temps de correction de panne ({{192-07-14, IEV:192-07-14}})
+    et du temps d’essai de fonctionnement ({{192-07-16, IEV:192-07-16}}), mais exclut
+    les délais techniques, administratifs et logistiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de réparation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6ab28d0f-264d-5b1c-820a-528be364bd29
+status: valid

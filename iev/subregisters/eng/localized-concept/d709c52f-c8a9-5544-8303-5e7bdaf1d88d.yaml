@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: perturbed state wherein the system, even when not disturbed, will not
+    remain in a {{steady state, IEV:692-02-01}}, or cannot spontaneously return to
+    a {{steady state, IEV:692-02-01}} after being subjected to a {{disturbance, IEV:692-01-09}}
+    of prescribed magnitude image::/assets/images/parts/692/692-fig2-en.png[Figure
+    2 - Electric power system states] <simg></simg>
+  examples: []
+  id: 692-02-03
+  language_code: eng
+  notes:
+  - 'The arrows indicate the most important state transitions caused by credible events.
+    Recovery transitions, in opposite directions, are effected by operator intervention.
+
+
+    *Figure 3 – Examples of transitions within electric power system states*'
+  - In an unstable state, the {{electric power system, IEV:692-01-02}} is experiencing
+    {{cascade tripping, IEV:692-03-08}}, voltage instability or other instability
+    likely to result in {{system collapse, IEV:692-01-17}}.
+  - This entry was numbered 191-22-02 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unstable state
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: d709c52f-c8a9-5544-8303-5e7bdaf1d88d
+status: valid

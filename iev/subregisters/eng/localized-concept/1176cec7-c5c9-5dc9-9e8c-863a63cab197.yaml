@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: within the Internet, a distributed application that mainly serves for
+    publishing and inspecting documents using hypertext techniques and that also provides
+    access to different Internet resources
+  examples: []
+  id: 732-08-01
+  language_code: eng
+  notes:
+  - 1 – Communication is done on a client server model using HTTP as the main protocol.
+  - '2 – See Figure 4.
+
+
+    image::/assets/images/parts/732/732-08-01en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: World Wide Web
+    normative_status: preferred
+    type: expression
+  - designation: Web
+    normative_status: preferred
+    type: expression
+  - designation: WWW
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 1176cec7-c5c9-5dc9-9e8c-863a63cab197
+status: valid

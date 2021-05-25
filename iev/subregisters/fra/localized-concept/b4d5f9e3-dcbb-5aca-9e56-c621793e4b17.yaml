@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: temps exigé pour que la réponse d'un récepteur augmente d'un pourcentage
+    faible spécifié à un pourcentage élevé spécifié de la valeur maximale lors de
+    l'application instantanée d'une excitation stationnaire
+  examples: []
+  id: 845-25-067
+  language_code: fra
+  notes:
+  - Une valeur de 10 % est habituelle pour le pourcentage faible, tandis qu'une valeur
+    de 90 % est habituelle pour le pourcentage élevé.
+  - Le temps de montée ou temps de croissance est exprimé en secondes (s).
+  - Cet article était numéroté 845-05-60 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de montée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+  - designation: temps de croissance
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+dateAccepted: 2018-11-17
+id: b4d5f9e3-dcbb-5aca-9e56-c621793e4b17
+status: valid

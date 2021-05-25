@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{software, IEV:171-01-21}} containing features that could potentially
+    cause {{harm, IEV:351-57-02}} to an {{information processing, IEV:171-01-19}}
+    system or its user'
+  examples: []
+  id: 171-08-14
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: malware
+    normative_status: preferred
+    type: expression
+  - designation: malicious software
+    type: expression
+dateAccepted: 2019-03-01
+id: 98dda28a-5075-56df-b17c-a663d2c8fd52
+status: valid

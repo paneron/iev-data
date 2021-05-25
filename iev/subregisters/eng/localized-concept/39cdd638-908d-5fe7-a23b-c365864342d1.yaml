@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 equal to the ratio of the increase in volume
+    Δ`V` to the volume `V`~0~ in a specified reference state, thus `ϑ` = Δ`V` / `V`~0~
+  examples: []
+  id: 113-03-60
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume strain
+    normative_status: preferred
+    type: expression
+  - designation: '`ϑ`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 39cdd638-908d-5fe7-a23b-c365864342d1
+status: valid

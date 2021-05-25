@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 723-06-20
+      original: see 723-06-20
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 1997-03-01
+  definition: a deliberate addition of a periodically or randomly varying component
+    to the analogue picture signal before coding or after decoding in order to reduce
+    contour distortion
+  examples: []
+  id: 723-10-80
+  language_code: eng
+  notes:
+  - In French, the term "tremblement" is also used with the meaning of interline flicker.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dither
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 07c1a4a5-6ca9-5f28-9b5d-5242feacab17
+status: valid

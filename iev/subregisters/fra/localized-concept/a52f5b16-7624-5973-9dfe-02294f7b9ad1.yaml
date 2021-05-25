@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.21
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.21
+      ref: IEC 62267:2009
+      relationship:
+        type: identical
+  definition: information de sécurité indiquant que la vitesse du train est inférieure
+    à une limite prédéfinie en dessous de laquelle le train est considéré à l'arrêt
+    par le système
+  examples: []
+  id: 821-01-78
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: statut de vitesse nulle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a52f5b16-7624-5973-9dfe-02294f7b9ad1
+status: valid

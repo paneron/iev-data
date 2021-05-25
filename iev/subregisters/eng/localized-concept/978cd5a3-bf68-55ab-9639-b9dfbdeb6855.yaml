@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{polarization, IEV:485-15-01}} caused by slow diffusion to the reaction
+    sites in the {{electrode, IEV:485-02-01}}, or slow diffusion of products from
+    the electrodes of the {{fuel cell, IEV:485-08-01}}, or both'
+  examples: []
+  id: 485-15-05
+  language_code: eng
+  notes:
+  - Concentration polarization is more important at high current densities and can
+    result in a sharp decrease in the cell voltage.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: concentration polarization
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+  - designation: mass transport loss
+    type: expression
+  - designation: concentration loss
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-02-01
+id: 978cd5a3-bf68-55ab-9639-b9dfbdeb6855
+status: valid

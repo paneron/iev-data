@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: '3.7'
+      original: ≈ VIM 3.7
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  dateAmended: 2001-07-01
+  definition: 'étroitesse de l''accord entre les résultats des mesures de la même
+    valeur d''une grandeur, dans le cas où les mesures individuelles sont effectuées
+    en faisant varier les conditions de mesure: – principe de mesure, – méthode de
+    mesure, – observateur, – appareils de mesure, – étalon de référence, – laboratoire,
+    – dans des conditions d''utilisation des appareils de mesure différentes de celles
+    usuellement employées, – après des intervalles de temps assez longs par rapport
+    à la durée d''une seule mesure.'
+  examples: []
+  id: 311-06-07
+  language_code: fra
+  notes:
+  - Les notions de "principe de mesure" et de "méthode de mesure" sont définies respectivement
+    dans le VIM, en 2.3 et 2.4.
+  - Le terme "reproductibilité" s'applique également au cas où seules certaines des
+    conditions ci-dessus sont prises en considération, dans la mesure où ces conditions
+    sont indiquées.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reproductibilité (des mesures)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 772ea682-f394-5f8b-88f9-521ff1a35c84
+status: valid

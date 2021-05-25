@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: dispositif à transmission régulière servant à modifier le niveau de
+    flux absolu (énergétique ou lumineux), ou la <a href="IEV845-21-030">répartition
+    spectrale relative</a>, ou les deux, du rayonnement qui le traverse
+  examples: []
+  id: 845-24-113
+  language_code: fra
+  notes:
+  - Une distinction est faite entre les filtres sélectifs et les filtres non sélectifs
+    ou neutres selon qu'ils modifient ou non la répartition spectrale relative, du
+    rayonnement. Un filtre sélectif qui modifie notablement la chromaticité du rayonnement
+    est appelé filtre coloré; un filtre sélectif qui modifie la <a href="IEV845-21-029">répartition
+    spectrale</a>, mais qui, par métamérisme, transmet un rayonnement dont la chromaticité
+    est voisine de celle du rayonnement incident, peut être appelé filtre gris.
+  - Cet article était numéroté 845-04-105 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: filtre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: filtre optique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 619f4529-7777-5d5e-a3f5-5f21c8c5775c
+status: valid

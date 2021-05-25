@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: dans un réseau de télécommunication, station qui assure la coordination
+    d'un groupe de stations ou de sous-réseaux, ainsi que leur accès éventuel à d'autres
+    réseaux
+  examples: []
+  id: 713-12-07
+  language_code: fra
+  notes:
+  - La station pivot d'un réseau de microstations terriennes est une station terrienne.
+  - En français, dans un réseau de communication de données, la station pivot est
+    aussi appelée "noeud concentrateur".
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: station pivot
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: station maîtresse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: station centrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: ad7b6660-71c3-5d2b-a72d-4c1a5888f34b
+status: valid

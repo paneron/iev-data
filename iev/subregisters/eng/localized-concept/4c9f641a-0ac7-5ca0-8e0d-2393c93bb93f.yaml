@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the highest frequency by which a radio wave can propagate between given
+    terminals below the ionosphere, on a specified occasion, by ionospheric refraction
+    alone
+  examples: []
+  id: 705-07-21
+  language_code: eng
+  notes:
+  - Where the basic MUF is restricted to a particular ionospheric mode of propagation,
+    the values may be quoted together with an indication of that mode, for example
+    2F2 MUF.
+  - If the extraordinary wave is involved, then this is noted, for example, 1F2 MUF(x).
+    Absence of a specific reference to the magneto-ionic component implies that the
+    quoted value relates to the ordinary wave.
+  - If it is desired to quote the ground range for which the basic MUF applies, this
+    is indicated in kilometres following the indication of the mode type, for example
+    1F2 (4000) MUF.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: basic MUF
+    normative_status: preferred
+    type: expression
+  - designation: standard MUF
+    type: expression
+  - designation: classical MUF
+    type: expression
+dateAccepted: 1995-09-01
+id: 4c9f641a-0ac7-5ca0-8e0d-2393c93bb93f
+status: valid

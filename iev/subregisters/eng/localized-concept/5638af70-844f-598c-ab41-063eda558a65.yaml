@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the fractional change of inductance due to a change in temperature
+    divided by that change in temperature: `alpha_L = ((L_(theta) - L_((ref))))/((L_((ref))
+    ( theta - theta_((ref)) )))` where `Lθ` and `L`~ref~ are the inductances at temperatures
+    `θ` and `θ`~ref~ respectively'
+  examples: []
+  id: 221-02-52
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature coefficient of inductance
+    normative_status: preferred
+    type: expression
+  - designation: '`αL`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 5638af70-844f-598c-ab41-063eda558a65
+status: valid

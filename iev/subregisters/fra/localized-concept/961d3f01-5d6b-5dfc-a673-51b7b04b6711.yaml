@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: quotient de la <a href="IEV845-21-029">répartition spectrale</a> énergétique
+    due à la fluorescence à la longueur d'onde `λ`, par la somme des valeurs tabulées
+    de cette répartition dans la bande de fluorescence
+  examples: []
+  id: 845-21-031
+  language_code: fra
+  notes:
+  - La fluorescence comprend à la fois des phénomènes fluorescents et phosphorescents
+    dont les constantes de temps sont suffisamment courtes pour ne pas être prises
+    en compte pour l'application.
+  - 'La répartition spectrale relative de fluorescence, `F`(`λ`), lorsqu''elle est
+    multipliée par le rendement énergétique externe spectral de l''éprouvette fluorescente,
+    `Q`, pour une excitation à la longueur d''onde `μ`, donne le facteur de luminance
+    énergétique par luminescence bispectrale, `β`~L,~`λ`(`μ`), d''un <a href="IEV845-24-040">matériau
+    photoluminescent</a> selon:
+
+
+    `β`~L,~`λ`(`μ`) = `F`(`λ`)·`Q`(`μ`)'
+  - L'unité de répartition spectrale relative de fluorescence est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: répartition spectrale relative de fluorescence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: spectre de fluorescence relative
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 961d3f01-5d6b-5dfc-a673-51b7b04b6711
+status: valid

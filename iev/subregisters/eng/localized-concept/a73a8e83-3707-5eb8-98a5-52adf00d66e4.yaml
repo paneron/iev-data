@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: function representing the relative spectral sensitivity of the human
+    eye to blue light hazards, based upon the relative spectral effectiveness of <a
+    href="IEV845-21-002">optical radiation</a> to induce retinal photochemical injury
+    (e.g. photic maculopathy)
+  examples: []
+  id: 845-26-060
+  language_code: eng
+  notes:
+  - The wavelength range for the blue light hazard spectral weighting function is
+    specified in ICNIRP-recommendations as `λ` = 300 nm to `λ` = 700 nm.
+  - The blue light hazard spectral weighting function has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blue light hazard spectral weighting function
+    normative_status: preferred
+    type: expression
+  - designation: '`B`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: a73a8e83-3707-5eb8-98a5-52adf00d66e4
+status: valid

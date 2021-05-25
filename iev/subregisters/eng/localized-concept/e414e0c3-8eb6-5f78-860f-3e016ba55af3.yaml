@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: voltage between the two terminals of a phase element
+  examples: []
+  id: 141-02-12
+  language_code: eng
+  notes:
+  - For star connection of a polyphase element which is connected to line conductors
+    and to a neutral conductor, the phase-element voltages are equal to the line-to-neutral
+    voltages.
+  - For polygonal connection of a polyphase element which is connected to line conductors,
+    the phase-element voltages are equal to the line-to-line voltages.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase-element voltage
+    normative_status: preferred
+    type: expression
+  - designation: phase voltage
+    type: expression
+dateAccepted: 2004-08-01
+id: e414e0c3-8eb6-5f78-860f-3e016ba55af3
+status: valid

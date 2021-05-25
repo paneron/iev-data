@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la valeur efficace de la composante alternative d'une grandeur
+    {{ondulée, IEV:103-06-07}} à la valeur absolue de la composante continue
+  examples: []
+  id: 103-06-12
+  language_code: fra
+  notes:
+  - Pour une grandeur ondulée `x` de composante continue `bar X` et de composante
+    alternative `x_( ∼ )`, le taux d'ondulation efficace est `r = ((X_( ∼ ) ()_((eff))))/((|
+    bar X |))`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux d'ondulation efficace
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6933a695-6a18-55dc-9646-a93d6d49d141
+status: valid

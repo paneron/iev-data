@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la partie du flux énergétique ou lumineux d'une surface,
+    dont la luminance énergétique ou lumineuse est identique en tous points et pour
+    toutes les directions, qui tombe sur la surface elle-même, par l'exitance énergétique
+    ou lumineuse de la surface
+  examples: []
+  id: 845-29-095
+  language_code: fra
+  notes:
+  - Le coefficient d'autoéchange d'une surface, S, limitée par une courbe plane, C,
+    et située d'un seul côté du plan de cette courbe, est égal à l'aire de surface
+    de S diminuée de l'aire de la surface plane limitée par C.
+  - Le coefficient d'autoéchange est exprimé en mètre carré (m^2^).
+  - Cet article était numéroté 845-09-74 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'autoéchange
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une surface
+dateAccepted: 2018-11-17
+id: c8fe9708-a0cc-55f1-8a33-fc3a2c3f32e7
+status: valid

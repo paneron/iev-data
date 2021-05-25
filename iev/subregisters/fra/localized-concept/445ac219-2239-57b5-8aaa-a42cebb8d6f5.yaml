@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{dispositif, IEV:651-21-15}} rigide, flexible ou souple réalisé en
+    matériau isolant utilisé pour recouvrir les parties {{sous tension, IEV:651-21-08}},
+    {{hors tension, IEV:651-21-09}} ou les parties adjacentes mises à la terre'
+  examples: []
+  id: 651-22-11
+  language_code: fra
+  notes:
+  - Les protecteurs sont prévus pour protéger contre un contact involontaire.
+  - Cet article était numéroté 651-04-01 dans la CEI 60050-651:1999. Il a été modifié
+    pour préciser la définition et la note.
+  reviewDecisionEvent: published
+  terms:
+  - designation: protecteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 445ac219-2239-57b5-8aaa-a42cebb8d6f5
+status: valid

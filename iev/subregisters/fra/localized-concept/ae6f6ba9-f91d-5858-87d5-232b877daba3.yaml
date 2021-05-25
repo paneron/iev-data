@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: personne occupant un domicile ou plusieurs personnes vivant ensemble
+    au sein d'un {{domicile, IEV:871-03-01}}
+  examples: []
+  id: 871-03-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: ménage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ae6f6ba9-f91d-5858-87d5-232b877daba3
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: opération par laquelle on réduit les valeurs instantanées d'un signal
+    qui sont au-delà d'un seuil fixé, ou en dehors de l'intervalle compris entre deux
+    seuils fixés, les autres valeurs instantanées du signal étant conservées
+  examples: []
+  id: 702-04-32
+  language_code: fra
+  notes:
+  - 'La réduction des valeurs instantanées peut être brusque ou progressive.
+
+
+    Exemples de limitation: écrêtage; éminçage; épiétage.'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: limitation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 5ea5d9ea-aaec-599d-b0fb-511c46322f42
+status: valid

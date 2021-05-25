@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: coefficient de transmission thermique lorsque l'échange de chaleur a
+    lieu entre un corps à la température thermodynamique `T`~s~ et son entourage à
+    la température thermodynamique de référence `T`~r~, soit `h = (phi)/((| T_s -
+    T_r |))`, où `φ` est le flux thermique surfacique
+  examples: []
+  id: 113-04-40
+  language_code: fra
+  notes:
+  - L'unité SI cohérente de coefficient de transmission thermique de surface est le
+    watt par mètre carré kelvin, W/m^2^∙K.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de transmission thermique de surface
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 55646694-49cd-5ef2-8660-fddd86618d69
+status: valid

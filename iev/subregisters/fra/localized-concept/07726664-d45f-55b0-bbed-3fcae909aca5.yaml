@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: transmission à distance des valeurs prises par des grandeurs mesurables
+    qui sont intégrées en fonction d'une variable donnée, telle que le temps, à l'aide
+    de télécommunications
+  examples: []
+  id: 371-01-05
+  language_code: fra
+  notes:
+  - L'intégration peut avoir lieu avant ou après transmission. Si l'intégration a
+    lieu avant transmission, on utilise le terme "transmission de valeurs intégrées".
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: télécomptage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmission de valeurs intégrées
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 07726664-d45f-55b0-bbed-3fcae909aca5
+status: valid

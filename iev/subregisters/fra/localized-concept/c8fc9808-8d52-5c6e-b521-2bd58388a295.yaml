@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{dispositif, IEV:151-11-20}} prévu pour détecter les {{défauts d''arcs,
+    IEV:442-05-66}} et fournir un signal pour le fonctionnement d''un dispositif d''atténuation
+    ou d''interruption du courant Note 1 à l''article: Le dispositif de protection
+    contre les arcs électriques repose principalement sur la détection d''autres éléments
+    que les {{surintensités, IEV:151-15-28}} traditionnelles, comme la détection de
+    la lumière, la détection de la pression, la détection de spectres de courant.
+    Le dispositif peut, ou non, utiliser la détection de courant traditionnelle comme
+    un signal supplémentaire.'
+  examples: []
+  id: 447-01-50
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif de protection contre les arcs électriques
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c8fc9808-8d52-5c6e-b521-2bd58388a295
+status: valid

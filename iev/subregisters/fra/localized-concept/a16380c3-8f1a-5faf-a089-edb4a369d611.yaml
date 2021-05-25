@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: partie imaginaire `g`(`t`) d'un {{signal analytique, IEV:702-04-52}}
+  examples: []
+  id: 702-04-53
+  language_code: fra
+  notes:
+  - 'La dénomination du "signal en quadrature" est justifiée par le fait que sin `ωt`
+    et cos `ωt` sont au signe près les transformées de Hilbert l''un de l''autre et
+    que par conséquent le signal analytique représentant le signal réel cos `ωt` est:
+
+
+    e^j`ωt`^'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal en quadrature
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: a16380c3-8f1a-5faf-a089-edb4a369d611
+status: valid

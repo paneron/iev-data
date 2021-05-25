@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: for a particle, electric charge `q` divided by elementary charge `e`,
+    thus `e`, soit `c` = `q`/`e`
+  examples: []
+  id: 113-05-17
+  language_code: eng
+  notes:
+  - 1 The charge number of an electrically charged particle can be positive or negative.
+    The charge number of an electrically neutral particle is zero.
+  - 2 The charge number of a particle may be presented as a superscript to the symbol
+    of that particle, e.g. H^+^, He^++^, Al^3+^, Cl^−^, S^=^, N^3−^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge number
+    normative_status: preferred
+    type: expression
+  - designation: ionization number
+    normative_status: preferred
+    type: expression
+  - designation: '`c`
+
+      `z`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: d9eb0ba4-130d-5f8d-b472-5d6af4170d51
+status: valid

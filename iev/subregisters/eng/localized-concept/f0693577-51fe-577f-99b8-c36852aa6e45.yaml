@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: functional unit for the transfer of data between several participants,
+    these being functional units for data processing, via a common transmission path,
+    wherein participants are not involved in the transfer of data between other participants
+  examples: []
+  id: 351-56-10
+  language_code: eng
+  notes:
+  - The logic and functional definition of a bus applies independently of the topological
+    configuration and physical implementation of the bus. A bus may have a line or
+    a ring configuration.
+  - In some cases, transmission rights are distributed by another participant, for
+    example by a bus arbitrator.
+  - This entry was numbered 351-32-10 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: f0693577-51fe-577f-99b8-c36852aa6e45
+status: valid

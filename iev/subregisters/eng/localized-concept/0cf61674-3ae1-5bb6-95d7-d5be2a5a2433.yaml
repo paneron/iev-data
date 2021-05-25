@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-10-01
+  definition: pertaining to a mode of operation in which {{information, IEV:701-01-01}}
+    can be transmitted in both directions simultaneously between two points
+  examples: []
+  id: 701-03-171
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: duplex
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: full duplex
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-10-01
+id: 0cf61674-3ae1-5bb6-95d7-d5be2a5a2433
+status: valid

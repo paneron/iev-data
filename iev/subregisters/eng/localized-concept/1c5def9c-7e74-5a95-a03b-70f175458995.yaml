@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-01-01
+  definition: quotient of a {{quantity, IEV:112-01-01}} by a {{duration, IEV:113-01-13}}
+  examples:
+  - '{{digit rate, IEV:702-05-23}}, specific absorption rate (SAR).'
+  id: 112-03-18
+  language_code: eng
+  notes:
+  - In French, other terms than "débit" are also used, e.g. for rate of rise, sampling
+    rate, modulation rate, fading rate, rain rate.
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rate
+    normative_status: preferred
+    type: expression
+    usage_info: per duration
+dateAccepted: 2019-01-01
+id: 1c5def9c-7e74-5a95-a03b-70f175458995
+status: valid

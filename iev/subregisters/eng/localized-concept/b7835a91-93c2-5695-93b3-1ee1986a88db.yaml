@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.4
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.4
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: '{{physical entity, IEV:741-01-26}} or {{digital entity, IEV:741-01-14}}
+    that has value to an individual, an {{organization, IEV:901-03-02}} or a government'
+  examples: []
+  id: 741-01-04
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: asset
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: b7835a91-93c2-5695-93b3-1ee1986a88db
+status: valid

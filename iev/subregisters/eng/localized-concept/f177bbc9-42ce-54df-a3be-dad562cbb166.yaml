@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: a protection which is designed to clear a system fault by initiating
+    tripping of other circuit-breaker(s) in the case of failure to trip of the appropriate
+    circuit-breaker
+  examples: []
+  id: 448-11-18
+  language_code: eng
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit-breaker failure protection
+    normative_status: preferred
+    type: expression
+  - designation: breaker failure protection
+    type: expression
+dateAccepted: 1995-12-01
+id: f177bbc9-42ce-54df-a3be-dad562cbb166
+status: valid

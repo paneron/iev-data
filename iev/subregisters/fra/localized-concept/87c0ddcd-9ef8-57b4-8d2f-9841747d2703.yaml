@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '5.7'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 5.7
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{norme, IEV:901-02-02}} qui spécifie des {{exigence, IEV:901-05-05}}s
+    relatives à la {{compatibilité, IEV:901-01-13}} de produits ou de systèmes à leurs
+    points d''interconnexion'
+  examples: []
+  id: 901-02-20
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: norme d'interface
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 87c0ddcd-9ef8-57b4-8d2f-9841747d2703
+status: valid

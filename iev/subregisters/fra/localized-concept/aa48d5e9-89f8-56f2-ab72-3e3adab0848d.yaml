@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: proportion du flux d'un luminaire ou d'une installation qui est émis
+    au niveau et au-dessus de l'horizontale, lorsque le ou les luminaires sont montés
+    dans leur position d'installation
+  examples: []
+  id: 845-29-066
+  language_code: fra
+  notes:
+  - L'unité de rapport lumineux supérieur est un.
+  - Le terme abrégé "ULR" est dérivé du terme anglais développé correspondant "upward
+    light ratio".
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport lumineux supérieur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ULR
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: aa48d5e9-89f8-56f2-ab72-3e3adab0848d
+status: valid

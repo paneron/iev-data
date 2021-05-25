@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: the time after an automatic reclosure, before the automatic reclosing
+    equipment will initiate another reclosure in the event of another power system
+    fault
+  examples: []
+  id: 448-16-11
+  language_code: eng
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reclaim time
+    normative_status: preferred
+    type: expression
+  - designation: reset time
+    type: expression
+dateAccepted: 1995-12-01
+id: e2b35e6a-716c-5a23-b833-a2791153e66b
+status: valid

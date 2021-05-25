@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4.1'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 4.1, modifiée – Les exemples ont été transférés
+        à un exemple.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: Les exemples ont été transférés à un exemple.
+        type: modified
+  definition: entité de droit public ou privé qui a une mission et une composition
+    déterminées
+  examples:
+  - 'Exemples d''organismes: une {{organisation, IEV:901-03-02}}, une {{autorité,
+    IEV:901-03-10}}, une entreprise, une institution.'
+  id: 901-03-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: organisme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b157fd79-dbcf-50f3-90a0-8dffee892245
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: niveau de pression acoustique, exprimé en décibels, obtenu en ajoutant
+    au niveau de bruit perçu une correction relative aux irrégularités qui peuvent
+    avoir lieu entre les niveaux de pression acoustique dans des bandes de tiers d'octave
+    contigües pour le bruit d'un aéronef
+  examples: []
+  id: 801-29-14
+  language_code: fra
+  notes:
+  - La correction est spécifiée dans l'ISO 3891-1978 ; elle peut varier de 0 dB à
+    6,7 dB.
+  - La correction tient compte de la bruyance supplémentaire causée par des sons purs
+    audibles importants tels qu'ils peuvent être produits par des propulseurs, des
+    compresseurs, des turbines ou des ventilateurs.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de bruit perçu corrigé pour les sons purs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: ad817a74-7fa5-50e9-90b9-b52c6d11077d
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{unité fonctionnelle, IEV:171-01-22}} capable de recevoir, de conserver
+    et de restituer des données'
+  examples:
+  - '{{Registre, IEV:171-04-19}}.'
+  id: 171-04-14
+  language_code: fra
+  notes:
+  - En anglais, le terme "memory" est utilisé avec un qualificatif pour désigner divers
+    types de mémoires et pour un espace mémoire adressable (voir {{IEV 171-01-27,
+    IEV:171-01-27}}). En français, le terme est toujours "mémoire".
+  - Une définition spécialisée pour les technologies de commande est donnée en {{IEV
+    351-50-40, IEV:351-50-40}}, avec le terme privilégié "élément de mémoire" et le
+    synonyme "mémoire".
+  reviewDecisionEvent: published
+  terms:
+  - designation: mémoire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dispositif
+dateAccepted: 2018-11-17
+id: 3a4cc821-6e70-5f60-a8ad-0b8dcdf8c47e
+status: valid

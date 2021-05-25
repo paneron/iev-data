@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: méthode de codage de source selon laquelle chaque image est divisée
+    en portions, une transformation linéaire est appliquée à chacune d'elles, et le
+    signal obtenu est converti en un signal numérique
+  examples: []
+  id: 723-10-51
+  language_code: fra
+  notes:
+  - Les méthodes les plus courantes utilisent une transformation discrète, le plus
+    souvent une transformation en cosinus discrète, et conduisent à une suite de coefficients
+    qui sont quantifiés et codés afin de réduire le débit numérique du signal.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: codage par transformation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 0ae6d24e-d689-54f9-904a-4fb211ca1e83
+status: valid

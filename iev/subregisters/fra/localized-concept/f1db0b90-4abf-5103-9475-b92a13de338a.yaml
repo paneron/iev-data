@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie d'un {{processeur, IEV:171-04-01}} qui recherche en {{mémoire
+    centrale, IEV:171-04-21}} les {{instructions, IEV:171-05-08}}, {{interprète, IEV:171-05-28}}
+    chacune d'elles et, selon cette interprétation, adresse des signaux à l'{{unité
+    arithmétique et logique, IEV:171-04-03}} et à d'autres parties du processeur
+  examples: []
+  id: 171-04-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: unité de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f1db0b90-4abf-5103-9475-b92a13de338a
+status: valid

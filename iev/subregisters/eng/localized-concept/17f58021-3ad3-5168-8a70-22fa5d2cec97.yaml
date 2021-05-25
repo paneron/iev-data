@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: array of iso-intensity curves
+  examples: []
+  id: 845-29-042
+  language_code: eng
+  notes:
+  - The English term "isocandela diagram" and the French term "diagramme isocandela"
+    are no longer in use.
+  - See also "<a href="IEV845-25-091">distribution curve</a>".
+  - This entry was numbered 845-09-29 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: iso-intensity diagram
+    normative_status: preferred
+    type: expression
+  - designation: isocandela diagram
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-12-01
+id: 17f58021-3ad3-5168-8a70-22fa5d2cec97
+status: valid

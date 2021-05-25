@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2004-08-01
+  definition: one of the conductors of a polyphase line, intended to carry one electric
+    current of a polyphase system of currents
+  examples: []
+  id: 141-03-02
+  language_code: eng
+  notes:
+  - A more general definition of the term "line conductor" is given in IEC 60050-195.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polyphase-line conductor
+    normative_status: preferred
+    type: expression
+  - designation: line conductor
+    normative_status: preferred
+    type: expression
+  - designation: phase conductor
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2004-08-01
+id: 6a5374bf-a018-5468-b951-e6ca3cf26f0f
+status: valid

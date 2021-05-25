@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: operation of equipment conforming electrically and mechanically with
+    its design specification and used within the limits specified by the manufacturer
+  examples: []
+  id: 426-04-10
+  language_code: eng
+  notes:
+  - The limits specified by the manufacturer can include persistent operational conditions,
+    e.g. operation on a duty cycle.
+  - Variation of the supply voltage within stated limits and any other operational
+    tolerance is part of normal operation.
+  - 'For electric machines, normal operation is specified based on the duty type (S1…S10
+    per IEC 60034-1, _Rotating electrical machines – Part 1: Rating and performance_).'
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: normal operation
+    normative_status: preferred
+    type: expression
+    usage_info: explosive atmospheres
+dateAccepted: 2020-03-01
+id: fe330fc8-20ac-5eff-8045-ced635e64f3b
+status: valid

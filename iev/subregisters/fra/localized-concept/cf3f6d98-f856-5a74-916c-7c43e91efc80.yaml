@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: temps écoulé entre les instants où la grandeur de l'impulsion aux bornes
+    de sortie atteint des limites respectivement inférieure et supérieure spécifiées
+    quand le dispositif à semi-conducteurs est commuté de son état non conducteur
+    à son état conducteur
+  examples: []
+  id: 521-05-22
+  language_code: fra
+  notes:
+  - Les limites inférieure et supérieure sont habituellement respectivement 10 % et
+    90 % de l’amplitude finale de l’impulsion de sortie.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de croissance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps de montée
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: cf3f6d98-f856-5a74-916c-7c43e91efc80
+status: valid

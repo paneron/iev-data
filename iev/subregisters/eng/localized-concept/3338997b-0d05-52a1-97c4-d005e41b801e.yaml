@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: '. for a deterministic function, correlation function of the function
+    and a time-delayed replica . for a stationary random function, mathematical expectation
+    of the product of the function and a time-delayed replica: `C ( t ) = E f ( tau
+    ) f ( t + tau )`'
+  examples: []
+  id: 103-09-07
+  language_code: eng
+  notes:
+  - The autocorrelation function of a deterministic function or a stationary random
+    function is the inverse Fourier transform of its power spectral density.
+  - 'When a stationary random function can be considered as ergodic, its autocorrelation
+    function can be calculated from a particular sample:
+
+
+    `C ( t ) = underset((T -&gt; oo))((lim)) (1)/((2 T)) int_( - T)^( + T) f ( tau
+    ) f ( t + tau ) d tau`'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: autocorrelation function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 3338997b-0d05-52a1-97c4-d005e41b801e
+status: valid

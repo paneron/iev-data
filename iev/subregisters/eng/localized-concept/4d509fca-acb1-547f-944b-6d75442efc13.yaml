@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1155
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1155
+      ref: ISO 921:1997
+      relationship:
+        type: identical
+    - original: IAEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: activity per unit mass of a given radionuclide
+  examples: []
+  id: 395-01-08
+  language_code: eng
+  notes:
+  - This value is expressed in becquerels per kilogram (Bq/kg).
+  - This entry was numbered 393-14-15 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: specific activity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 4d509fca-acb1-547f-944b-6d75442efc13
+status: valid

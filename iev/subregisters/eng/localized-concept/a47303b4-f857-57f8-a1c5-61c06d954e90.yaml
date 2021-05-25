@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: lowest voltage that a {{fuel cell module, IEV:485-09-03}} is able to
+    produce continuously at its {{rated power, IEV:485-14-04}} or during maximum permissible
+    overload conditions, whichever voltage is lower
+  examples: []
+  id: 485-13-01
+  language_code: eng
+  notes:
+  - The minimum voltage is expressed in V.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: minimum voltage
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: a47303b4-f857-57f8-a1c5-61c06d954e90
+status: valid

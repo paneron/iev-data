@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: subset of a set, which is different from the set
+  examples: []
+  id: 102-01-05
+  language_code: eng
+  notes:
+  - The notation `A sub B` expresses that the set `A` is a proper subset of the set
+    `B`. The symbol `underset(!=)( sub )` is sometimes used instead of `sub` but is
+    not recommended, and it should be used when the latter is used for any subset
+    of `B`. `A` is also said to be properly included in `B`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: proper subset
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: a6afe4ae-b66f-5627-a59c-987cc22abbc0
+status: valid

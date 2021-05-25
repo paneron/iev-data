@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - original: AIEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  definition: agencement de composants interconnectés dans un système qui génère une
+    sortie unique. Une voie perd son identité lorsque des signaux à sortie unique
+    sont combinés à des signaux provenant d'autres voies (par exemple, d'une voie
+    de surveillance ou d'une voie d'activation de sûreté).
+  examples: []
+  id: 395-07-113
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: voie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8e9584bc-a099-500c-9267-621346a02055
+status: valid

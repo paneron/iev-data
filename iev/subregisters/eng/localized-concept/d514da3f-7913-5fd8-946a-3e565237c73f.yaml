@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the reflected luminance at a point on a surface of a non-self-radiating
+    medium in a given direction and that of the perfect reflecting diffuser identically
+    irradiated and viewed
+  examples: []
+  id: 845-21-105
+  language_code: eng
+  notes:
+  - The reflected luminance factor for a spectrally non-neutral surface depends upon
+    the <a href="IEV845-21-030">relative spectral distribution</a> of the illumination.
+    This quantity has to be specified.
+  - The reflected luminance factor has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reflected luminance factor
+    normative_status: preferred
+    type: expression
+  - designation: '`β`~v,R~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: d514da3f-7913-5fd8-946a-3e565237c73f
+status: valid

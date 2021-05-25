@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: base constituée de vecteurs orthonormés
+  examples: []
+  id: 102-03-28
+  language_code: fra
+  notes:
+  - On représente généralement les vecteurs d'une base orthonormée par `e_1 , e_2
+    , ... , e_n`; dans un système de coordonnées cartésien à trois dimensions, on
+    les représente souvent par `e_x , e_y , e_z` ou `i , j , k`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: base orthonormée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e192c55d-e299-518a-9c56-d2c062f0e556
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: logiciel contenu dans une mémoire morte
+  examples:
+  - Le système de base d’entrée/sortie (BIOS) d’un ordinateur individuel.
+  id: 192-01-35
+  language_code: fra
+  notes:
+  - Le micrologiciel n’est pas destiné à être modifié en usage normal. Sa modification
+    nécessite le remplacement ou la reprogrammation du dispositif matériel qui le
+    contient.
+  reviewDecisionEvent: published
+  terms:
+  - designation: micrologiciel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fd2c0db8-5b58-5df4-a9fc-1d8629186fda
+status: valid

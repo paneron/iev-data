@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the average life expectancy of a nucleus of a particular radionuclide
+    which is the time in which the number of nuclei of the radionuclide is reduced
+    to the fraction 1/`e` (≈ 0,368) of its initial value
+  examples: []
+  id: 881-04-47
+  language_code: eng
+  notes:
+  - '– It is related to the decay constant `λ` and the half-life `T_(((1)/(2)))` by:
+
+
+    `tau = (1)/(lambda) = ((T_(((1)/(2)))))/((ln 2)) ≃ ((T_(((1)/(2)))))/((0 , 693))
+    ≃ 1 , 433 T_(((1)/(2)))`'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean life
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: be0e41da-edcd-54cb-8693-b9954b7eb054
+status: valid

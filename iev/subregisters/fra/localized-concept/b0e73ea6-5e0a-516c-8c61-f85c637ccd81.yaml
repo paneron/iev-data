@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble destiné à la mesure du flux neutronique dans un réacteur nucléaire,
+    basé sur la fluctuation du signal délivré par une chambre d'ionisation à fission
+  examples: []
+  id: 395-07-66
+  language_code: fra
+  notes:
+  - Le flux des neutrons est proportionnel à sa variance.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de mesure à fluctuations
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour la surveillance neutronique
+dateAccepted: 2018-11-17
+id: b0e73ea6-5e0a-516c-8c61-f85c637ccd81
+status: valid

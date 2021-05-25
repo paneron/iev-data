@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '1.21'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.21
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: ensemble de règles et opérations mathématiques appliquées aux grandeurs
+    autres que les grandeurs ordinales
+  examples: []
+  id: 112-01-30
+  language_code: fra
+  notes:
+  - En algèbre des grandeurs, les équations aux grandeurs sont préférées aux équations
+    aux valeurs numériques car les premières, contrairement aux secondes, sont indépendantes
+    du choix des unités de mesure.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: algèbre des grandeurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: ab07e320-89aa-51d5-8993-f38532559c11
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: opération par laquelle le {{débit numérique, IEV:702-05-23}} d'un {{signal
+    numérique, IEV:702-04-05}} est modifié sur commande sans perte d'éléments ou mutilation
+    du signal
+  examples: []
+  id: 704-21-01
+  language_code: fra
+  notes:
+  - Une justification est habituellement employée en {{multiplexage numérique, IEV:704-20-01}},
+    de façon à permettre le multiplexage de signaux affluents qui ne sont pas en synchronisme
+    avec le {{multiplexeur, IEV:704-08-13}}; chaque signal affluent est alors justifié
+    séparément.
+  - Le verbe associé est "justifier".
+  reviewDecisionEvent: published
+  terms:
+  - designation: justification
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en transmission
+dateAccepted: 2018-11-17
+id: f725d66e-4b93-5f3f-8cae-c10d350cfcbe
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 212-01-45
+      original: 212-01-45
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1998-11-01
+  definition: valeur numérique de la tension d'épreuve exprimée en volts, qu'un matériau
+    peut supporter sans cheminement dans des conditions d'essai spécifiées
+  examples: []
+  id: 442-01-42
+  language_code: fra
+  notes: []
+  reviewDate: 1998-11-01
+  reviewDecisionDate: 1998-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de tenue au cheminement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ITC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-11-01
+id: 8e729d09-3375-52fb-be70-9a5c1a46f567
+status: valid

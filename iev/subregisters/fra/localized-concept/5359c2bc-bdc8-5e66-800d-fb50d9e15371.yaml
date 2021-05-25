@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '9.4'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 9.4
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: activité de contrôle d'un {{document normatif, IEV:901-02-01}} en vue
+    de décider de sa confirmation, de sa modification ou de son retrait
+  examples: []
+  id: 901-04-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: réexamen
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5359c2bc-bdc8-5e66-800d-fb50d9e15371
+status: valid

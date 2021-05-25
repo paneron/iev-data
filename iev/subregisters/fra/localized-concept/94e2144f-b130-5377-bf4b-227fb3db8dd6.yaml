@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.5
+      original: IEC TS 80004-9:2017, 3.2.5
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: diode électroluminescente dans laquelle la lumière est émise par des
+    matériaux organiques
+  examples: []
+  id: 511-02-05
+  language_code: fra
+  notes:
+  - Une diode électroluminescente organique est un type particulier de diode électroluminescente
+    {{nanotechnologique, IEV:511-01-15}} qui utilise des molécules organiques ou des
+    polymères de petite dimension.
+  reviewDecisionEvent: published
+  terms:
+  - designation: diode électroluminescente organique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: OLED
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 94e2144f-b130-5377-bf4b-227fb3db8dd6
+status: valid

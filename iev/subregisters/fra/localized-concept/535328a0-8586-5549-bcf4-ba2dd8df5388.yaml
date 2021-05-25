@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      original: Guide CEI 109:2012, 3.4
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  definition: élément des activités ou des produits d'un organisme susceptible d'interactions
+    avec l'{{environnement, IEV:901-07-01}}
+  examples: []
+  id: 901-07-02
+  language_code: fra
+  notes:
+  - 'Un aspect environnemental significatif a ou peut avoir un {{impact environnemental,
+    IEV:901-07-03}} significatif.
+
+
+    [ISO 14001:2004, définition 3.6, modifiée]'
+  reviewDecisionEvent: published
+  terms:
+  - designation: aspect environnemental
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 535328a0-8586-5549-bcf4-ba2dd8df5388
+status: valid

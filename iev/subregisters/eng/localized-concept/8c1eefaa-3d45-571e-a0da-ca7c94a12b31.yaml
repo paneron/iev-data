@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 151-03-35
+      original: 151-03-35 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-03-08
+      original: 826-03-08 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: electric current in an unwanted conductive path under normal operating
+    conditions
+  examples: []
+  id: 195-05-15
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: leakage current
+    normative_status: preferred
+    type: expression
+  - designation: earth current
+    type: expression
+dateAccepted: 1998-08-01
+id: 8c1eefaa-3d45-571e-a0da-ca7c94a12b31
+status: valid

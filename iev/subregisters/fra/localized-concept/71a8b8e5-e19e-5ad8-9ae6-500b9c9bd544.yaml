@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{état stable, IEV:692-02-02}} dans lequel certaines exigences relatives
+    aux charges du réseau ne peuvent pas être satisfaites image::/assets/images/parts/692/692-fig2-fr.png[Figure
+    2 - États d''un réseau d''énergie électrique] <simg></simg>'
+  examples: []
+  id: 692-02-05
+  language_code: fra
+  notes:
+  - 'Les flèches indiquent les transitions d’état les plus importantes induites par
+    des événements plausibles. Les transitions de récupération, dans les directions
+    opposées, résultent des interventions des opérateurs.
+
+
+    *Figure 3 – Exemples de transitions internes aux états d’un réseau d’énergie électrique*
+
+
+    image::/assets/images/parts/692/692-fig6-fr.png[Figure 6 - Exemples d’états d’un
+    réseau d’énergie électrique et de la situation de fonctionnement correspondante]'
+  - Cet article portait le numéro 191-22-04 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: état partiellement adéquat
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: 71a8b8e5-e19e-5ad8-9ae6-500b9c9bd544
+status: valid

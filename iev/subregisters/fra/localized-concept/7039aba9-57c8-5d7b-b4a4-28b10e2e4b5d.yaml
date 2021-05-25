@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-08-01
+  definition: zone de la surface de la Terre, associée à une station spatiale, à l'intérieur
+    de laquelle, dans des conditions techniques déterminées, une radiocommunication
+    de nature déterminée peut être établie avec une ou plusieurs stations terriennes,
+    qu'il s'agisse d'émission, de réception ou des deux la fois
+  examples: []
+  id: 725-13-01
+  language_code: fra
+  notes:
+  - Plusieurs zones de couverture distinctes peuvent être associées à une même station,
+    par exemple pour un satellite à plusieurs faisceaux d'antennes.
+  - La zone de couverture en l'absence de brouillage est limitée par un contour de
+    puissance surfacique spécifiée.
+  - La notion de "zone de couverture" ne s'applique de façon simple qu'à une station
+    spatiale embarquée sur un satellite géostationnaire.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de couverture
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-08-01
+id: 7039aba9-57c8-5d7b-b4a4-28b10e2e4b5d
+status: valid

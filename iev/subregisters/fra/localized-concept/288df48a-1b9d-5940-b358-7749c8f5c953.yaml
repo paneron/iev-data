@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: 'valeur maximale du courant effectif d''alimentation, calculée à partir
+    du courant d''alimentation assigné (`I`~1~), du facteur de marche (X) correspondant
+    et du courant d''alimentation à vide (`I`~0~), par la formule: `I_((1 e f f))
+    = sqrt(I_1^2 xx X + I_0^2 xx ( 1 - X ))`'
+  examples: []
+  id: 851-12-39
+  language_code: fra
+  notes: []
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant d'alimentation effectif maximal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: 288df48a-1b9d-5940-b358-7749c8f5c953
+status: valid

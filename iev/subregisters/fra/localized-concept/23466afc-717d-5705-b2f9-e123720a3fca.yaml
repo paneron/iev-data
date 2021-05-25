@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: ordinateur hôte qui réunit deux réseaux d'ordinateurs séparés, ayant
+    des espaces d'adressage distincts
+  examples: []
+  id: 732-06-02
+  language_code: fra
+  notes:
+  - 1 – Une passerelle à double anneau peut fournir des fonctions de sécurité en tant
+    que pare-feu.
+  - '2 – Voir Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-02fr.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: passerelle à double anneau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 23466afc-717d-5705-b2f9-e123720a3fca
+status: valid

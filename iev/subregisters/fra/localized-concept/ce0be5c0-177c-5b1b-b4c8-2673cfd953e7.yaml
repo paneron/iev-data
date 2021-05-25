@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.28
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.28
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: partie spécifique de la fonctionnalité qui est fournie par une {{entité,
+    IEV:741-01-18}} par l'intermédiaire d'{{interfaces, IEV:741-01-23}}
+  examples: []
+  id: 741-01-28
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: service
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ce0be5c0-177c-5b1b-b4c8-2673cfd953e7
+status: valid

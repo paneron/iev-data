@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: rapport de la tension appliquée entre un point de référence spécifié
+    et les deux bornes d'entrée connectées l'une à l'autre par un circuit spécifié,
+    à la tension nécessaire entre les bornes d'entrée pour produire la même valeur
+    de sortie
+  examples: []
+  id: 312-06-21
+  language_code: fra
+  notes:
+  - Le facteur de réjection de mode commun est généralement exprimé en décibels et
+    peut dépendre de la fréquence, de la forme d’onde et de la méthode de mesure.
+  - Le rapport de réjection de mode commun peut aussi s'appliquer à des grandeurs
+    autres que les tensions.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport de réjection de mode commun
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 2a008d96-9e55-52d5-abcf-676ca37a6f11
+status: valid

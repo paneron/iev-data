@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 192-02-13
+      link: https://webstore.iec.ch/publication/21886
+      original: IEC 60050-192:2015, 192-02-13, modifié – Remplacement du terme "période
+        d'attente" par "durée d'attente" et ajout de "durée de disponibilité à l’arrêt"
+        comme synonyme, "durée de" ajouté au début de la définition, et Note 1 à l'article
+        ajoutée
+      ref: IEC 60050-192:2015
+      relationship:
+        modification: Remplacement du terme "période d'attente" par "durée d'attente"
+          et ajout de "durée de disponibilité à l’arrêt" comme synonyme, "durée de"
+          ajouté au début de la définition, et Note 1 à l'article ajoutée
+        type: modified
+  definition: durée de l'intervalle de temps pendant lequel une entité est en attente
+  examples: []
+  id: 692-06-01
+  language_code: fra
+  notes:
+  - Cet article portait le numéro 603-05-16 dans l’IEC 60050-603:1986.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d’attente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée de disponibilité à l’arrêt
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e5cd098e-8f08-5009-87f8-31ccd456898b
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: bruit aléatoire dû aux irrégularités d'une surface ou à la nature granulaire
+    d'un milieu traversé par un courant électrique
+  examples: []
+  id: 702-08-47
+  language_code: fra
+  notes:
+  - 'Des exemples de milieux irréguliers ou granulaires sont: une jonction entre semiconducteurs,
+    une cathode à oxydes, une résistance agglomérée.'
+  - Le bruit de scintillation a un spectre continu dont la densité spectrale de puissance
+    ne prend des valeurs notables qu'aux fréquences très basses où ce bruit est sensiblement
+    un bruit en 1/`f`.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit de scintillation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 4b177adb-f6a5-54fb-97da-bd988e67b3fb
+status: valid

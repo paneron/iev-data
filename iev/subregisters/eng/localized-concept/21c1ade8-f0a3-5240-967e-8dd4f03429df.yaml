@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: energy associated with motion, defined for a particle in classical mechanics
+    by `T = (1)/(2) m v^2`, where `m` is its mass and `v` is its speed
+  examples: []
+  id: 113-03-49
+  language_code: eng
+  notes:
+  - 1 The kinetic energy of a body is given by the integral `T = (1)/(2) int_D v^2
+    d m,` where D is a domain containing the body. When the axis of rotation is through
+    the centre of mass, `T` is also given by `T = (1)/(2) m_t v_G^2 + (1)/(2) J omega^2`,
+    where `m`~t~ is total mass, `V`~G~ is speed of the centre of mass, `J` is moment
+    of inertia relative to the axis of rotation, and `ω` is the magnitude of the angular
+    velocity, and where `v`~G~, `J`, and `ω` can be time-dependent.
+  - 2 In relativity, the dependence of the mass `m` on the speed `v` has to be considered.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: kinetic energy
+    normative_status: preferred
+    type: expression
+  - designation: '`T`
+
+      `E`~k~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 21c1ade8-f0a3-5240-967e-8dd4f03429df
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: scalar or tensor quantity the product of which by the electric field
+    strength in a medium is equal to the electric current density
+  examples: []
+  id: 121-12-03
+  language_code: eng
+  notes:
+  - For an isotropic medium the conductivity is a scalar quantity; for an anisotropic
+    medium it is a tensor quantity.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductivity
+    normative_status: preferred
+    type: expression
+  - designation: '`γ`, σ'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 9d5babbe-43d9-5ef7-ad9c-810e5eebc974
+status: valid

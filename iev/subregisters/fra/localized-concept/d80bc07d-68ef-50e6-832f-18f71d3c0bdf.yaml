@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: relation entre les valeurs de code numérique fournies à un dispositif
+    de sortie et les densités neutres équivalentes produites par le dispositif
+  examples: []
+  id: 845-32-041
+  language_code: fra
+  notes:
+  - Le terme abrégé "EOCF" est dérivé du terme anglais développé correspondant "electro-optical
+    conversion function".
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de conversion électro-optique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: EOCF
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d80bc07d-68ef-50e6-832f-18f71d3c0bdf
+status: valid

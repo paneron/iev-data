@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: means of {{telecommunication, IEV:701-01-05}} with specified characteristics
+    between two points
+  examples: []
+  id: 701-02-06
+  language_code: eng
+  notes:
+  - 'The adjective "transmission" is normally replaced by an adjective indicating
+    the type of {{transmission path, IEV:701-02-11}} or the capacity; for example:
+    {{line link, IEV:704-04-08}}, {{radio link, IEV:704-04-09}}, broadband link.'
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission link
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 249e25ee-c17d-50d8-a2ac-462a8d04ef61
+status: valid

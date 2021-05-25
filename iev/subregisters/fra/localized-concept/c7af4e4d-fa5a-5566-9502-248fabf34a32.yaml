@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie imaginaire d'une impédance `underset(_)(Z)` `X = Im ( underset(_)(Z)
+    )`
+  examples: []
+  id: 131-12-46
+  language_code: fra
+  notes:
+  - La réactance d’un circuit résonant série est `X = omega L - (1)/((omega C))`,
+    où `L` est l’inductance, `C` est la capacité et `ω` est la pulsation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réactance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c7af4e4d-fa5a-5566-9502-248fabf34a32
+status: valid

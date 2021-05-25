@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: a transformer in which the magnetic circuit takes the form of columns
+    (legs)
+  examples: []
+  id: 421-01-07
+  language_code: eng
+  notes:
+  - Generally, core-type transformers incorporate concentric windings.
+  - Since there are types of transformer which do not come clearly within the categories
+    of "core-type" and "shell-type", the use of these terms is deprecated. Generally
+    they can be avoided by indicating the type of windings, i.e. "concentric" or "sandwich",
+    and/or whether or not the magnetic circuit has unwound magnetic return paths.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: core-type transformer
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 22aeb07a-0d38-51ba-9444-3e1479fa833e
+status: valid

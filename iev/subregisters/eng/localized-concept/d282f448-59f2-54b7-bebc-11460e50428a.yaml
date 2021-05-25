@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: introduction of errors into the frequency spectrum of a sampled signal
+    when components with frequencies too high to be analysed with the sampling interval
+    being used to contribute to the amplitude of lower frequency components
+  examples: []
+  id: 351-41-28
+  language_code: eng
+  notes:
+  - This entry was numbered 351-21-58 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: aliasing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: d282f448-59f2-54b7-bebc-11460e50428a
+status: valid

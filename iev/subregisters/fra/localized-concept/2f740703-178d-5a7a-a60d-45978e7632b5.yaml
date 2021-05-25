@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système permettant l'évaluation des <a href="IEV845-23-038">composantes
+    trichromatiques</a> d'une répartition spectrale d'énergie quelconque en utilisant
+    l'ensemble des stimuli de couleurs de référence &amp;lsqb;X~10~&amp;rsqb;, &amp;lsqb;Y~10~&amp;rsqb;,
+    &amp;lsqb;Z~10~&amp;rsqb; et les trois fonctions colorimétriques CIE `bar x_((10))
+    ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )` adoptés en 1964
+    par la CIE
+  examples: []
+  id: 845-23-046
+  language_code: fra
+  notes:
+  - Le système de référence colorimétrique CIE 1964 est applicable aux champs d'observation
+    en vision centrale d'étendue angulaire supérieure à environ' 4° (0,07 rad).
+  - Lorsque le système de référence colorimétrique CIE 1964 est utilisé, tous les
+    symboles représentant les grandeurs colorimétriques sont associés à l'indice 10.
+  - Voir aussi CIE 15, `Colorimetry`.
+  - Cet article était numéroté 845-03-29 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de référence colorimétrique CIE 1964
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2f740703-178d-5a7a-a60d-45978e7632b5
+status: valid

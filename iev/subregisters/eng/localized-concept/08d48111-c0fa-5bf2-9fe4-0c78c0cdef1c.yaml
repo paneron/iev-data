@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: noise-equivalent input when the quantity that the detector is being
+    used to measure or detect is radiant flux
+  examples: []
+  id: 845-25-070
+  language_code: eng
+  notes:
+  - The noise equivalent power is expressed in watt (W).
+  - This entry was numbered 845-05-63 in IEC 60050-845:1987.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: noise-equivalent power
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: NEP
+    type: expression
+  - designation: '`Φ`~m~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 08d48111-c0fa-5bf2-9fe4-0c78c0cdef1c
+status: valid

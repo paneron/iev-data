@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: valeur instantanée maximale du courant atteinte au cours de la coupure
+    effectuée par un appareil de connexion ou un fusible
+  examples: []
+  id: 441-17-12
+  language_code: fra
+  notes:
+  - Cette notion est d'importance particulière si l'appareil de connexion ou le fusible
+    fonctionne de telle manière que la valeur de crête du courant présumé du circuit
+    n'est pas atteinte.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant coupé limité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 3a2f1178-ea8f-577c-a12b-dce871f0471a
+status: valid

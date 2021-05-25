@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: élément matériel prévu pour une tâche définie qui a été spécialement
+    conçu ou adapté, essayé et entretenu pour des {{travaux sous tension, IEV:651-21-01}}
+  examples:
+  - ': Un tournevis isolé, une {{perche isolante, IEV:651-22-01}}, etc.'
+  id: 651-21-14
+  language_code: fra
+  notes:
+  - “Outils” est aussi utilisé comme un terme général pour indiquer n’importe quel
+    outil, {{dispositif, IEV:651-21-15}} ou {{équipement, IEV:651-21-16}} pour travaux
+    sous tension.
+  reviewDecisionEvent: published
+  terms:
+  - designation: outil
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d9270d09-951c-59aa-b51b-7b03f280054e
+status: valid

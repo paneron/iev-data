@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: value below which the average luminance of a specified surface is not
+    permitted to fall
+  examples: []
+  id: 845-29-153
+  language_code: eng
+  notes:
+  - The maintained average luminance is the average luminance of the specified surface
+    at the time maintenance should be carried out.
+  - The maintained average luminance is expressed in candela per square metre (cd·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintained average luminance
+    normative_status: preferred
+    type: expression
+  - designation: "`L_((v ,av ,m))`\n`bar L_((v ,m))` \n`L_((av ,m))`\r\n\n\r\n`bar\
+      \ L_m`"
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 019270eb-692e-528c-be62-66dc17595184
+status: valid

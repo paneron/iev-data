@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la <a href="IEV845-21-049">luminance énergétique</a> à un
+    élément de surface d'un milieu dans une direction donnée par l'<a href="IEV845-21-053">éclairement
+    énergétique</a> du milieu `q_e = ((L_e))/((E_e))` où `L`~e~ est la luminance énergétique
+    and `E`~e~ est l'éclairement énergétique
+  examples: []
+  id: 845-24-078
+  language_code: fra
+  notes:
+  - La fonction de répartition bidirectionnelle du facteur de réflexion (BRDF ou bi-directional
+    reflectance distribution function en anglais) est similaire au coefficient de
+    luminance énergétique sauf qu'elle est définie pour un rayonnement incident directionnel.
+  - Le coefficient de luminance énergétique est exprimé en stéradian à la puissance
+    moins un (sr^−1^).
+  - Cet article était numéroté 845-04-70 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de luminance énergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ee20a4b-be09-56c2-b7df-eb15f4cb9709
+status: valid

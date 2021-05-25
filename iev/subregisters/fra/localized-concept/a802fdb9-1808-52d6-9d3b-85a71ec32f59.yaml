@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: unité fonctionnelle avec deux entrées ou plus et une seule sortie, dont
+    la variable de sortie a pour valeur le produit des valeurs des variables d'entrée
+    multipliées par des facteurs de pondération `v ( t ) = K_0 * K_1 * u_1 ( t ) *
+    K_2 * u_2 ( t ) * K_3 * u_3 ( t ) * ...` où<table> <tr> <td>`t`</td> <td>est le
+    temps;</td> </tr> <tr> <td> `K`~0~, `K`~1~ ...</td> <td>sont les facteurs de pondération;</td>
+    </tr> <tr> <td> `u`~1~, `u`~2~ ...</td> <td>sont les variables d'entrée;</td>
+    </tr> <tr> <td>`v`</td> <td>est le résultat de multiplication.</td> </tr> </table>
+  examples: []
+  id: 351-50-33
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-17 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément multiplicateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: a802fdb9-1808-52d6-9d3b-85a71ec32f59
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: matrice n'ayant qu'une seule ligne
+  examples: []
+  id: 102-06-03
+  language_code: fra
+  notes:
+  - Une matrice-ligne à `n` colonnes est de format 1 × `n`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice-ligne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: vecteur-ligne
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6e701fd8-37e8-5d6a-8223-e4c11e447288
+status: valid

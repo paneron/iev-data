@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: rapport de la variation de la variable commandée avec commande en boucle
+    fermée à sa variation sans commande, en cas de changement de la variable de référence
+    ou de la variable perturbatrice, dans des conditions données
+  examples: []
+  id: 351-46-08
+  language_code: fra
+  notes:
+  - En cas de variables d'entrée sinusoïdales, le facteur de commande complexe est
+    le quotient des phaseurs de ces valeurs en fonction de la pulsation.
+  - En cas de variation en échelon des variables d'entrée, le facteur de commande
+    réel est le quotient de ces valeurs, après la fin des processus transitoires.
+    S'il y a un ou plusieurs éléments à action par intégration dans la chaîne d'action,
+    la valeur du facteur de commande réel est zéro.
+  - En cas de commande en boucle fermée avec un comportement proportionnel de la boucle
+    ouverte, le facteur de commande réel est donné par la formule `R = (1)/((1 + K_0))`
+    où `K`~0~ est le gain en boucle.
+  - Cet article était numéroté 351-25-08 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de commande
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 578b641e-c31f-51a9-8068-f75667bf272c
+status: valid

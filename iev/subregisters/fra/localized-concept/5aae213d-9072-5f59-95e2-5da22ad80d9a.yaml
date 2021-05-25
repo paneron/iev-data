@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 845-01-34
+      original: MOD 845-01-34
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: dans une direction donnée et en un point d'une surface réelle ou fictive,
+    quotient de la puissance rayonnante transmise par un faisceau élémentaire passant
+    par le point donné et se propageant dans un élément d'angle solide contenant la
+    direction donnée, par le produit de la valeur de cet élément d'angle solide, de
+    l'aire d'une section du faisceau au point donné et du cosinus de l'angle entre
+    la normale à cette section et la direction du faisceau
+  examples: []
+  id: 731-01-24
+  language_code: fra
+  notes:
+  - La surface considérée peut être la surface d'une source, une surface recevant
+    le faisceau, ou une surface fictive interceptant le faisceau.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminance (énergétique)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: brillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 5aae213d-9072-5f59-95e2-5da22ad80d9a
+status: valid

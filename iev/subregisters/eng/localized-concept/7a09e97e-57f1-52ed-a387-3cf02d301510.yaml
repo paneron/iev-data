@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a two-terminal-pair network, matrix expressing the dependence of
+    the output voltage and current on the input voltage and current
+  examples: []
+  id: 131-14-32
+  language_code: eng
+  notes:
+  - Names and symbols for the elements of the reverse chain matrix are given in IEC
+    60027-2.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reverse chain matrix
+    normative_status: preferred
+    type: expression
+  - designation: '*`B`*'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 7a09e97e-57f1-52ed-a387-3cf02d301510
+status: valid

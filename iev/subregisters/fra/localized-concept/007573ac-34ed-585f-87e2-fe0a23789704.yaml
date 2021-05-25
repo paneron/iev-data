@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: opération destinée à identifier et caractériser la panne
+  examples: []
+  id: 192-06-20
+  language_code: fra
+  notes:
+  - Le diagnostic de panne peut également permettre de localiser la panne ou d’indiquer
+    sa cause.
+  reviewDecisionEvent: published
+  terms:
+  - designation: diagnostic de panne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 007573ac-34ed-585f-87e2-fe0a23789704
+status: valid

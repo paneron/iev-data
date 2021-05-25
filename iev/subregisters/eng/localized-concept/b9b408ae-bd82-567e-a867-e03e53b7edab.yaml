@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'for a regular square matrix *`A`*, square matrix *`A`*^−1^ such that:
+    *`AA`*^−1^ = *`A`*^−1^*`A`* = *`E`*, where *`E`* is the unit matrix'
+  examples: []
+  id: 102-06-16
+  language_code: eng
+  notes:
+  - The inverse of a square matrix *`A`* = (`Aij`) is denoted by *`A`*^−1^ = (`Aij`)^−1^,
+    with elements denoted by (*`A`*^−1^)~`ij`~. The notation (`Aij`^−1^) must not
+    be used because it means the matrix constructed from inverse elements of *`A`*.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inverse of a square matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: b9b408ae-bd82-567e-a867-e03e53b7edab
+status: valid

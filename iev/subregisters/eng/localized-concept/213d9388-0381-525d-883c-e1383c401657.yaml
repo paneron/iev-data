@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: maximum value of the ratio of inductance to resistance that can be connected
+    to the intrinsically safe connection facilities of the apparatus without invalidating
+    intrinsic safety
+  examples: []
+  id: 426-11-26
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum external inductance to resistance ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~o~ / `R`~o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: 213d9388-0381-525d-883c-e1383c401657
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: 'en un point fixe d''un milieu où existe un champ de température, grandeur
+    scalaire `λ` caractérisant l''aptitude du milieu à transmettre la chaleur à travers
+    un élément de surface contenant le point: *`φ`* = −`λ` *grad* `T`, où *`φ`* est
+    le flux thermique surfacique et `T` est la température thermodynamique'
+  examples: []
+  id: 113-04-38
+  language_code: fra
+  notes:
+  - 1 Dans un milieu anisotrope, la conductivité thermique est une grandeur tensorielle.
+  - 2 L'unité SI cohérente de conductivité thermique est le watt par mètre kelvin,
+    W/(m·K).
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductivité thermique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 611623c3-560d-5be6-8885-dcac376546f8
+status: valid

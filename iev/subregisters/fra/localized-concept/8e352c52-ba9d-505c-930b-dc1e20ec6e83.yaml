@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-08-01
+  definition: rapport du niveau d'un signal utile au niveau d'une perturbation électromagnétique,
+    mesuré dans des conditions spécifiées
+  examples: []
+  id: 161-06-03
+  language_code: fra
+  notes:
+  - Le terme "rapport signal/brouillage" ne doit pas être employé au sens de "rapport
+    signal/perturbation".
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport signal sur perturbation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport signal/perturbation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: 8e352c52-ba9d-505c-930b-dc1e20ec6e83
+status: valid

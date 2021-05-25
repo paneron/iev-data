@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: an array antenna with uniform element spacing and excitation coefficients
+    chosen such that the array factor can be expressed as a Chebyshev polynomial whose
+    order is the number of elements minus one
+  examples: []
+  id: 712-04-86
+  language_code: eng
+  notes:
+  - The array factor of a Chebyshev array is such that all the side lobes have the
+    same level.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Chebyshev array
+    normative_status: preferred
+    type: expression
+  - designation: Dolph-Chebyshev array
+    type: expression
+dateAccepted: 1992-04-01
+id: e675a7cb-acdd-5aac-b444-5c62a943c639
+status: valid

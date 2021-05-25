@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: opération appliquée à un signal composite obtenu par {{multiplexage,
+    IEV:701-03-09}}, en vue de restituer les signaux originaux indépendants ou des
+    groupes de ces signaux
+  examples: []
+  id: 701-03-10
+  language_code: fra
+  notes:
+  - Le démultiplexage peut être partiel, par exemple pour extraire un {{groupe primaire,
+    IEV:704-10-09}} d'un {{groupe secondaire, IEV:704-10-15}}.
+  - Le verbe associé est "démultiplexer".
+  reviewDecisionEvent: published
+  terms:
+  - designation: démultiplexage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f86c3ee7-c9c0-58dd-a69b-49ba34180e63
+status: valid

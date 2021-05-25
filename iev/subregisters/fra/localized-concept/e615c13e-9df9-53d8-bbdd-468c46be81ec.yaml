@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 1991-10-01
+  definition: carré de la norme du champ électrique d'une onde électromagnétique en
+    un point
+  examples: []
+  id: 731-01-27
+  language_code: fra
+  notes:
+  - Cette grandeur est proportionnelle à l'éclairement énergétique ou à la puissance
+    surfacique.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: NA
+    normative_status: preferred
+    type: expression
+  - designation: intensité
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: e615c13e-9df9-53d8-bbdd-468c46be81ec
+status: valid

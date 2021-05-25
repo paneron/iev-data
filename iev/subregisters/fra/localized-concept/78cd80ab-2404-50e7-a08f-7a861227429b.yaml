@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: espace chromatique défini par trois coordonnées colorimétriques
+  examples: []
+  id: 845-23-042
+  language_code: fra
+  notes:
+  - Les <a href="IEV845-23-038">composantes trichromatiques</a> `XYZ` CIE sont des
+    coordonnées colorimétriques, tout comme le sont les valeurs `RVB` qui présentent
+    une relation mathématique réversible exacte avec les composantes trichromatiques
+    `XYZ` CIE.
+  reviewDecisionEvent: published
+  terms:
+  - designation: espace chromatique colorimétrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 78cd80ab-2404-50e7-a08f-7a861227429b
+status: valid

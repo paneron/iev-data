@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: valeur moyenne d'un signal d'image prise pendant une période d'image,
+    à l'exclusion des intervalles de suppression
+  examples: []
+  id: 723-05-75
+  language_code: fra
+  notes:
+  - On exprime en général cette valeur en pourcentage du niveau du blanc rapporté
+    au niveau de suppression.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau moyen (d'un signal) d'image
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 0383bb93-2a7f-5fb4-ae79-7a6e0d864e54
+status: valid

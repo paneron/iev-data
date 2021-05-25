@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - - clause: définition 3
+      link: https://www.iso.org/standard/42180.html
+      original: ISO 9000:2005, définition 3.4.1, modifié – Les termes "organisme",
+        "éléments d'entrée" et "éléments de sortie" ont été remplacés par "organisation",
+        "éléments entrants" et "éléments sortants" respectivement pour compatibilité
+        avec l'IEV. “NOTE 3  Lorsque la conformité du produit résultant ne peut être
+        immédiatement ou économiquement vérifiée, le processus est souvent qualifié
+        de «procédé spécial»." supprimée.
+      ref: ISO 9000:2005
+      relationship:
+        modification: Les termes "organisme", "éléments d'entrée" et "éléments de
+          sortie" ont été remplacés par "organisation", "éléments entrants" et "éléments
+          sortants" respectivement pour compatibilité avec l'IEV. “NOTE 3  Lorsque
+          la conformité du produit résultant ne peut être immédiatement ou économiquement
+          vérifiée, le processus est souvent qualifié de «procédé spécial»." supprimée.
+        type: modified
+  definition: ensemble d'activités corrélées ou interactives qui transforme des {{éléments
+    entrants, IEV:901-07-05}} en {{éléments sortants, IEV:901-07-06}}
+  examples: []
+  id: 904-01-05
+  language_code: fra
+  notes:
+  - Les éléments entrants d'un processus sont généralement les éléments sortants d'autres
+    processus.
+  - Les processus d'une {{organisation, IEV:901-03-02}} sont généralement planifiés
+    et mis en œuvre dans des conditions maîtrisées afin d'apporter une valeur ajoutée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: processus
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en normalisation environnementale
+dateAccepted: 2018-11-17
+id: 9797a95b-03a9-50bd-81e5-8afdb127f240
+status: valid

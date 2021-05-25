@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: time interval required for the leading edge of a waveform to change
+    between two defined levels image::/assets/images/parts/561/561-fig17-en.png[]
+    *Figure 17 – Characteristics of an output waveform*
+  examples: []
+  id: 561-03-27
+  language_code: eng
+  notes:
+  - 'These levels may be two logic levels `V`~OL~ and `V`~OH~ or 10 % to 90 % of its
+    maximum amplitude (`V`~HI~ – `V`~LO~), or any other ratio defined in the detail
+    specification
+
+
+    where
+
+
+    `V`~OL~  is the low level output voltage
+
+
+    `V`~OH~  is the high level output voltage
+
+
+    `V`~HI~  is the upper flat voltage of the pulse waveform
+
+
+    `V`~LO~  is the low flat voltage of the pulse waveform.'
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rise time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 6073d145-01a5-54a2-a006-80f7e12fdb61
+status: valid

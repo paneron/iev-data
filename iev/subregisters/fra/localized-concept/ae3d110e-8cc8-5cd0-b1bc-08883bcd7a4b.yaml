@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'atmosphère dont le coïndice `N` est déterminé par la relation: `N (h)`
+    = 315 exp (-0,136 `h`) où `h` est l''altitude en kilomètres au-dessus du niveau
+    de la mer'
+  examples: []
+  id: 705-05-18
+  language_code: fra
+  notes:
+  - Jusqu'à l'altitude de 1 km, l'atmosphère de référence pour la réfraction se confond
+    pratiquement avec l'atmosphère radioélectrique normale.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: atmosphère de référence (pour la réfraction)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: ae3d110e-8cc8-5cd0-b1bc-08883bcd7a4b
+status: valid

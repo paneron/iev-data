@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-10-01
+  definition: pertaining to a method of operation in which {{information, IEV:701-01-01}}
+    can be transmitted in either direction, but not simultaneously, between two points
+  examples: []
+  id: 701-03-161
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: simplex
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: half-duplex
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-10-01
+id: 52f3be2d-8727-5479-a09a-76181e9a790c
+status: valid

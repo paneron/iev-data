@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: 'value `M` indicating the activity of the resonators, and defined by
+    the following equation: `M = ((Q_s))/(gamma)` where `Q`~s~ is the quality factor,
+    `γ` is the capacitance ratio'
+  examples: []
+  id: 561-01-26
+  language_code: eng
+  notes:
+  - This entry was numbered 561-07-23 in IEC 60050-561:1991, Amendment 2:1997.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: figure of merit
+    normative_status: preferred
+    type: expression
+  - designation: '`M`'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: bea1ce36-130f-5cfb-8461-7dda4de9c90b
+status: valid

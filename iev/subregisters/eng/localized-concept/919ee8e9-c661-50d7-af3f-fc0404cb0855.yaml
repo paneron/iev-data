@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the ratio, expressed as a numerical value or as a percentage, of the
+    consumption within a specified period (year, month, day, etc.), to the consumption
+    that would result from continuous use of the maximum or other specified demand
+    occurring within the same period
+  examples: []
+  id: 691-10-02
+  language_code: eng
+  notes:
+  - This term should not be used without specifying the demand and the period to which
+    it relates.
+  - The load factor for a given demand is also equal to the ratio of the utilization
+    time to the time in hours within the same period.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 919ee8e9-c661-50d7-af3f-fc0404cb0855
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: vecteur *grad* `f` associé en chaque point d'un domaine déterminé de
+    l'espace à un scalaire `f`, dont la direction est normale à la surface sur laquelle
+    le champ scalaire a une valeur constante, dans le sens des valeurs croissantes
+    de `f`, et dont la norme est égale à la valeur absolue de la dérivée de `f` par
+    rapport à la distance dans cette direction normale
+  examples: []
+  id: 102-05-19
+  language_code: fra
+  notes:
+  - Le gradient exprime la variation du champ scalaire entre le point donné et un
+    point situé à une distance infinitésimale `d s` dans la direction d'un vecteur
+    unité donné *`e`* par le produit scalaire d`f` = *grad* `f` ⋅ *`e`* d`s`.
+  - 'En coordonnées cartésiennes orthonormées, les trois coordonnées du gradient sont:
+
+
+    `((del f))/((del x)) , ((del f))/((del y)) , ((del f))/((del z))`.'
+  - Le gradient du champ scalaire `f` est noté *grad* `f` ou `grad f`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: gradient
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cecff1ef-0145-5301-87eb-7981e4db057f
+status: valid

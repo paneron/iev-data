@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport, d'une part, de la somme de la {{puissance électrique nette,
+    IEV:485-14-03}} et de l'exergie totale utilisable de la chaleur récupérée et,
+    d'autre part, de l'exergie totale fournie au{{système à pile à combustible, IEV:485-09-01}}
+  examples: []
+  id: 485-10-06
+  language_code: fra
+  notes:
+  - Il convient d'associer l'exergie totale du {{combustible brut, IEV:485-07-01}}
+    (y compris celui créé par toute réaction) fournie à un produit gazeux pour une
+    meilleure comparaison avec d'autres types de systèmes de conversion d'énergie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement exergétique global
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9621c096-2fe8-56fb-9da3-9787cfbc521d
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 13-38
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-38, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: quotient de l'{{entropie moyenne par caractère, IEV:171-07-28}} `H`^′^
+    par la durée moyenne d'un caractère `H`^*^ = `H`^′^/`t`(`X`) où `X` = {`x`~1~,
+    …, `x`~`n`~} est l'ensemble des caractères `xi` (`i` = 1, …, `n`) et où `t ( X
+    ) = sum_((n = 1))^n p ( x_i ) * t ( x_i )` est l'espérance mathématique de la
+    durée `t`(`xi`) d'un caractère `xi` ayant une probabilité de réalisation `p`(`xi`)
+  examples: []
+  id: 171-07-29
+  language_code: fra
+  notes:
+  - Le débit moyen d'entropie peut être exprimé à l'aide d'une unité telle que le
+    shannon par caractère et seconde.
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit moyen d'entropie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 115f8438-d048-54cc-9dbc-c33083b938c7
+status: valid

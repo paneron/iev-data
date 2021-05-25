@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.12'
+      link: https://webstore.iec.ch/publication/7077
+      original: IEC 62474:2012, définition 3.12
+      ref: IEC 62474:2012
+      relationship:
+        type: identical
+  definition: limite de concentration à laquelle ou au-dessus de laquelle la présence
+    de {{substance, IEV:904-02-01}} dans une matériau de produit ou un produit est
+    déclarée si la déclaration de la substance est obligatoire selon la base de données
+    de l'IEC 62474, ou s'il est convenu de la déclarer
+  examples: []
+  id: 904-02-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de seuil de déclaration
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 89b86443-b58e-5910-b274-c3d042db1269
+status: valid

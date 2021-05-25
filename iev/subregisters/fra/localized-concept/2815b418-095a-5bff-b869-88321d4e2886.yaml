@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.52
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.52, modifié
+      ref: IEC 61375-1:2012
+      relationship:
+        type: modified
+  definition: réseau actif dont chaque nœud est relié en série à deux autres nœuds
+  examples: []
+  id: 811-37-91
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: topologie en anneau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: topologie en boucle
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2815b418-095a-5bff-b869-88321d4e2886
+status: valid

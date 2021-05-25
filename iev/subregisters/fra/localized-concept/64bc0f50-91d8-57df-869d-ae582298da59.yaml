@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une valeur propre `λ` d'une matrice carrée *`A`*, matrice-colonne
+    non nulle *`U`* vérifiant *`AU`* = λ*`U`*
+  examples: []
+  id: 102-06-24
+  language_code: fra
+  notes:
+  - Le terme «vecteur propre» est employé parce qu'une matrice représente souvent
+    une grandeur tensorielle transformant une grandeur vectorielle en une autre grandeur
+    vectorielle. Dans ce cas, les vecteurs propres de la matrice sont des vecteurs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vecteur propre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 64bc0f50-91d8-57df-869d-ae582298da59
+status: valid

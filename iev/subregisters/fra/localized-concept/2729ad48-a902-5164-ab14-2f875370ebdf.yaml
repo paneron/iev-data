@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tenseur du deuxième ordre dont les coordonnées sont `T_((i j)) = delta_((i
+    j))` où `delta_((i j))` est le symbole de Kronecker, égal à 1 si `i` = `j` et
+    à 0 si `i` ≠ `j`
+  examples: []
+  id: 102-03-49
+  language_code: fra
+  notes:
+  - Les cordonnées du tenseur de Kronecker sont indépendantes de la base utilisée.
+    Le produit intérieur du tenseur de Kronecker et d'un tenseur ou d'un vecteur est
+    égal à ce tenseur ou à ce vecteur.
+  - Lorsque les propriétés d'un milieu anisotrope sont représentées en tout point
+    par une grandeur tensorielle du deuxième ordre, cette grandeur se réduit, dans
+    un milieu isotrope, au produit du tenseur de Kronecker et d'une grandeur scalaire.
+    En pratique, on considère que la grandeur tensorielle se réduit à une grandeur
+    scalaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tenseur de Kronecker
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2729ad48-a902-5164-ab14-2f875370ebdf
+status: valid

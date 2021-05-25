@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: value of the electric current in a connector used for specification
+    purposes, established for the operating condition in which the electric current
+    is present continuously and simultaneously in all contacts of the connector being
+    wired with the largest specified conductor, while the ambient temperature near
+    the connector is maintained at 40 °C
+  examples: []
+  id: 581-21-05
+  language_code: eng
+  notes:
+  - If other ambient temperatures are used for the definition of rated connector current,
+    the specification should state in the ambient temperature on which the rating
+    is based, with reference, if appropriate, to the rating curve defined in IEC 60512,
+    test 5b.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated (connector) current
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-09-01
+id: 40bc5925-f452-5e64-b09b-f3d016fd6405
+status: valid

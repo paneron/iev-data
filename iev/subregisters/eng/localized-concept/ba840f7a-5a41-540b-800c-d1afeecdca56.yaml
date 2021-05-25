@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.4
+      original: IEC TS 80004-9:2017, 3.2.4
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2018-04-01
+  definition: branch of {{organic electronics, IEV:511-02-03}} with the potential
+    to fabricate large (≫ 1 mm^2^) area electronic {{devices, IEV:511-01-01}}
+  examples: []
+  id: 511-02-04
+  language_code: eng
+  notes:
+  - The electronic devices can also contain parts that are made with inorganic materials.
+  - The fabrication methods include vacuum processes as well as various methods of
+    printing.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: organic and large area electronics
+    normative_status: preferred
+    type: expression
+  - designation: OLAE
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: ba840f7a-5a41-540b-800c-d1afeecdca56
+status: valid

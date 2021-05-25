@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'quotient NC/ND de deux distances colinéaires mesurées sur le diagramme
+    de chromaticité des systèmes de référence colorimétriques CIE 1931 ou 1964, la
+    première distance étant celle entre le point C représentant le stimulus de couleur
+    pris en considération et le point N représentant le stimulus achromatique spécifié;
+    la seconde distance est celle entre le point N et le point D sur le lieu spectral
+    à la longueur d''onde dominante du stimulus de couleur pris en considération.
+    La définition conduit aux expressions suivantes: `p_e = ((y - y_n))/((y_d - y_n))`
+    et `p_e = ((x - x_n))/((x_d - x_n))` où (`x`, `y`), (`x`~n~, `y`~n~), (`x`~d~,
+    `y`~d~) sont respectivement les coordonnées trichromatiques sur les axes `x`,
+    `y` des points C, N et D'
+  examples: []
+  id: 845-23-066
+  language_code: fra
+  notes:
+  - Dans le cas de stimuli pourpres, le stimulus monochromatique est remplacé par
+    un stimulus dont la chromaticité est représentée par un point sur la limite des
+    pourpres.
+  - Les expressions en `x` et en `y` sont équivalentes, mais l'emploi de celle qui
+    donne au numérateur la plus grande valeur conduit à une meilleure précision.
+  - 'La pureté d''excitation, `p`~e~, est liée à la pureté colorimétrique, `p`~c~,
+    par la relation:
+
+
+    `p_e = ((p_c y))/((y_d))`'
+  - L'unité de pureté d'excitation est un.
+  - Cet article était numéroté 845-03-48 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pureté d'excitation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dca48e81-28ad-5542-9e8c-6a8a6bb80522
+status: valid

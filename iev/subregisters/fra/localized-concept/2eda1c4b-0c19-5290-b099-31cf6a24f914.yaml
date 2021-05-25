@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: circuit électrique dont font partie les rails d'une section de voie,
+    comportant habituellement une source de courant à une extrémité et un dispositif
+    de détection à l'autre et permettant de contrôler la libération ou l'occupation
+    de cette section de voie par un véhicule
+  examples: []
+  id: 821-03-01
+  language_code: fra
+  notes:
+  - Dans un système de signalisation continue, le circuit de voie peut être utilisé
+    pour transmettre des informations entre le sol et le train.
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit de voie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2eda1c4b-0c19-5290-b099-31cf6a24f914
+status: valid

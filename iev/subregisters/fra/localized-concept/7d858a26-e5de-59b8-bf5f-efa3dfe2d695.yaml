@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: ensemble de variations rapides, faibles et irrégulières d'une caractéristique
+    d'un {{signal, IEV:101-12-02}}, telle que la position dans le temps, la {{durée
+    d'une impulsion, IEV:702-03-04}}, la grandeur, autour de la valeur idéale
+  examples: []
+  id: 702-07-74
+  language_code: fra
+  notes:
+  - Une définition de la gigue spécifique des signaux numériques est donnée en {{IEV
+    704-16-13, IEV:704-16-13}}.
+  - En anglais, le terme "jitter" a des sens différents en télévision (voir {{IEV
+    723-06-09, IEV:723-06-09}}) et en vidéo (voir {{IEV 806-17-23, IEV:806-17-23}}).
+  - En français, le terme "gigue" a un sens différent en télévision (voir {{IEV 723-06-11,
+    IEV:723-06-11}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: gigue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: vacillement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7d858a26-e5de-59b8-bf5f-efa3dfe2d695
+status: valid

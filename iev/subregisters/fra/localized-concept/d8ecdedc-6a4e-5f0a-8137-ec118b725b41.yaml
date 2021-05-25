@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur efficace de la dérive temporelle (TIE) filtrée, dans laquelle
+    le filtre passe-bande est centré sur une fréquence de 0,42/`τ`
+  examples: []
+  id: 561-03-38
+  language_code: fra
+  notes:
+  - L’abréviation «TDEV» est dérivée du terme anglais développé correspondant «time
+    deviation».
+  reviewDecisionEvent: published
+  terms:
+  - designation: écart de temps
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TDEV
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d8ecdedc-6a4e-5f0a-8137-ec118b725b41
+status: valid

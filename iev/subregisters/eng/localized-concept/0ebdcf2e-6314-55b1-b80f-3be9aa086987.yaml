@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{peripheral unit, IEV:171-04-07}} that provides output to the environment
+    by means of signals'
+  examples: []
+  id: 171-04-37
+  language_code: eng
+  notes:
+  - The environment can be another device, a technical process or a human individual.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: output device
+    normative_status: preferred
+    type: expression
+    usage_info: in data processing
+  - designation: output unit
+    type: expression
+    usage_info: in data processing
+dateAccepted: 2019-03-01
+id: 0ebdcf2e-6314-55b1-b80f-3be9aa086987
+status: valid

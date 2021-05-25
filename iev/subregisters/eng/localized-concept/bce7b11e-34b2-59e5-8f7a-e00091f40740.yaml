@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-11-01
+  definition: criterion to determine the critical current, `I`~c~, based on the electric
+    field strength, `E`, or the resistivity, `ρ`
+  examples: []
+  id: 815-12-02
+  language_code: eng
+  notes:
+  - '`E` = 10 μV/m or `E` = 100 μV/m is often used as electric field criterion, and
+    `ρ` = 10^−14^ Ω·m or `ρ` = 10^−13^ Ω·m is often used as resistivity criterion.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical current criterion
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~c~ criterion'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: bce7b11e-34b2-59e5-8f7a-e00091f40740
+status: valid

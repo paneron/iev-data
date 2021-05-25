@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: for a real or complex function `f`(`t`) of the real variable `t`, complex
+    function `F`(`s`) of a complex variable `s`, given by the integral transformation
+    `F ( s ) = int_( 0)^( + oo) f ( t ) e^(- s t) d t`
+  examples: []
+  id: 103-04-05
+  language_code: eng
+  notes:
+  - If `t` is time, the variable `s` represents complex angular frequency.
+  - The Laplace transform of the function `f` is also denoted L`f` or ℒ`f`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Laplace transform
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 4804eead-1c4b-5815-83e9-cb634f38f581
+status: valid

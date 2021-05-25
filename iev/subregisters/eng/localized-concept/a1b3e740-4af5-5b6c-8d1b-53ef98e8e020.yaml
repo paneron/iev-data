@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: protocol for connection-oriented transmission that corresponds approximately
+    to a protocol within the transport layer of the OSI reference model
+  examples: []
+  id: 732-07-05
+  language_code: eng
+  notes:
+  - 1 – The transmission control protocol is defined in RFC 793.
+  - '2 – See Figure 6.
+
+
+    image::/assets/images/parts/732/732-07-05en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Transmission Control Protocol
+    normative_status: preferred
+    type: expression
+  - designation: TCP
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: a1b3e740-4af5-5b6c-8d1b-53ef98e8e020
+status: valid

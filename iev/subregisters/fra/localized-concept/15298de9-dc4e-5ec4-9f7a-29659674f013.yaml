@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: 'en un point d''un corps, grandeur tensorielle `vec vec tau` qui caractérise
+    la relation entre la force d*`F`* agissant sur un élément de surface contenant
+    le point et l''aire d`A` de cet élément: `d F = vec vec tau * e \ d A`, où *`e`*
+    d`A` est l''élément vectoriel de surface'
+  examples: []
+  id: 113-03-62
+  language_code: fra
+  notes:
+  - 1 Si d*`F`* et *`e`* d`A` sont parallèles, la contrainte est une grandeur scalaire.
+  - 2 L'unité SI cohérente de contrainte est le pascal, Pa.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrainte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 15298de9-dc4e-5ec4-9f7a-29659674f013
+status: valid

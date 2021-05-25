@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: simultaneous colour television system using, in baseband, a composite
+    colour signal comprising a luminance signal and two chrominance components, which
+    are transmitted as quadrature amplitude modulation of a subcarrier
+  examples: []
+  id: 723-08-10
+  language_code: eng
+  notes:
+  - In most actual applications of NTSC, the scanning system uses 525 lines and 60
+    fields/second. The colour signal is transmitted using vestigial side band amplitude
+    modulation, and the sound is transmitted as frequency modulation of a separate
+    radio-frequency carrier.
+  - The term NTSC is an abbreviation of "National Television System Committee".
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: NTSC (colour television) system
+    normative_status: preferred
+    type: expression
+  - designation: NTSC
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 97304a22-52b3-5678-8ea5-08ea51072c6d
+status: valid

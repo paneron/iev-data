@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: forme d'oscillation électromagnétique libre dans une cavité, caractérisée
+    par une configuration particulière du champ
+  examples: []
+  id: 726-03-10
+  language_code: fra
+  notes:
+  - Dans une cavité de guide d'ondes, un mode de résonance pour lequel la composante
+    axiale du champ électrique ou du champ magnétique est nulle et considéré comme
+    un mode TE ou un mode ТМ respectivement; la configuration du champ transversal
+    correspondant est la mêmе que celle d'un mode normal dans le guide d'ondes uniforme
+    dont une section constitue la cavité.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mode de résonance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mode de cavité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 6a320e28-327c-5862-8a27-008b705bf3ed
+status: valid

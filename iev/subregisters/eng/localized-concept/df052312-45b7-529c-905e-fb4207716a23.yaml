@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: ratio of the shunt capacitance `C`~0~ to the motional capacitance `C`~1~
+    in the equivalent circuit `gamma = ((C_0))/((C_1))`
+  examples: []
+  id: 561-01-06
+  language_code: eng
+  notes:
+  - The capacitance ratio `γ` indicates one of the merits of the resonator.
+  - This entry was numbered 561-07-22 in IEC 60050-561:1991, Amendment 2:1997.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacitance ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`γ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: df052312-45b7-529c-905e-fb4207716a23
+status: valid

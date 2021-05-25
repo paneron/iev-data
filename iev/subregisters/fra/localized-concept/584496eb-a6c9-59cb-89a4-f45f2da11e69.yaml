@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 2.4.16
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.4.16
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  definition: structure de membrane flexible qui sépare l'espace
+  examples: []
+  id: 523-04-05
+  language_code: fra
+  notes:
+  - Dans une région microscopique, des matériaux tels que le silicium cristallin,
+    le polysilicium, entre autres, sont utilisés pour la structure de diaphragme.
+    La structure est généralement fabriquée par {{gravure anisotrope, IEV:523-05-09}}.
+    L’épaisseur de la structure peut être contrôlée entre quelques micromètres et
+    plusieurs dizaines de micromètres, en fonction de l’application. La structure
+    peut être utilisée pour détecter les variations de pression ou pour provoquer
+    un déplacement. Par exemple, elle est utilisée dans la partie sensible à la pression
+    d’un {{capteur, IEV:151-13-48}} de pression pour les moteurs d’automobile et les
+    microphones à membrane de silicium. De même, elle est utilisée comme membrane
+    pour modifier la pression des {{microvannes, IEV:523-04-17}} et {{micropompes,
+    IEV:523-04-16}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: structure de diaphragme
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 584496eb-a6c9-59cb-89a4-f45f2da11e69
+status: valid

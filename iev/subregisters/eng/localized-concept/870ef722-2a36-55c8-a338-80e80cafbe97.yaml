@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: coherent SI unit of {{frequency, IEV:103-06-02}}, defined by the unit
+    equation Hz = s^−1^, where s is the {{second, IEV:112-02-04}}
+  examples: []
+  id: 103-06-18
+  language_code: eng
+  notes: []
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hertz
+    normative_status: preferred
+    type: expression
+  - designation: Hz
+    international: true
+    type: symbol
+dateAccepted: 2017-07-01
+id: 870ef722-2a36-55c8-a338-80e80cafbe97
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: élément de {{mémoire interne, IEV:171-04-18}} rapide doté d'une petite
+    {{capacité de mémoire, IEV:171-04-16}} déterminée et généralement destiné à un
+    usage particulier
+  examples:
+  - '{{Registre à décalage, IEV:721-12-57}}.'
+  id: 171-04-19
+  language_code: fra
+  notes:
+  - La capacité de mémoire d’un registre est la longueur du registre.
+  - Un exemple d’usage particulier est donné en {{IEV 351-52-11, IEV:351-52-11}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: registre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 38a45f44-c8e3-5d09-8803-20007833900c
+status: valid

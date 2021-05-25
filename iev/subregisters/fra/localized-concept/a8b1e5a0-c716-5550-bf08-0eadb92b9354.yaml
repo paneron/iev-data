@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: ordre qui est émis dès que l'étape correspondante est activée et qui
+    cesse lorsqu'un intervalle de temps spécifié s'est écoulé ou lorsque l'étape correspondante
+    est désactivée avant que l'intervalle de temps spécifié ne se soit écoulé
+  examples: []
+  id: 351-51-08
+  language_code: fra
+  notes:
+  - L'ordre limité dans le temps est identifié dans la CEI 60848, _Langage de spécification
+    GRAFCET pour diagrammes fonctionnels en séquence_, par la lettre conventionnelle
+    "L".
+  - Cet article était numéroté 351-29-35 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ordre limité dans le temps
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: a8b1e5a0-c716-5550-bf08-0eadb92b9354
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-11-01
+  definition: smallest steady-state asynchronous torque which the motor develops between
+    zero speed and the speed which corresponds to the breakdown torque, when the motor
+    is supplied at the rated voltage and frequency
+  examples: []
+  id: 411-48-42
+  language_code: eng
+  notes:
+  - This definition does not apply to those induction motors of which the torque continually
+    decreases with increase in speed.
+  - In addition to the steady-state asynchronous torques, harmonic synchronous torques,
+    which are a function of rotor load angle, will be present at specific speeds.
+  reviewDate: 2007-11-01
+  reviewDecisionDate: 2007-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pull-up torque
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01
+id: 98b415c7-470d-58bf-854f-31e556339f27
+status: valid

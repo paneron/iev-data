@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: série de coefficients complexes obtenus par décomposition en série de
+    Fourier de l'aimantation en alternatif `M(t)`
+  examples: []
+  id: 815-17-13
+  language_code: fra
+  notes:
+  - 'L''aimantation en alternatif, `M(t),` en présence d''un champ magnétique `h_0
+    cos omega t` se développe comme suit:
+
+
+    `M ( t ) = h_0 sum_((n = 0))^(oo) kappa_n^'' cos ( n omega t ) + kappa_n^″ sin
+    ( n omega t )`
+
+
+    où `kappa_n^''` et `kappa_n^″` sont les parties réelle et imaginaire de la susceptibilité
+    magnétique alternative pour le rang `n`.'
+  - Les composantes fondamentales `kappa_1^'` et `kappa_1^″` sont surtout utilisées
+    pour les mesures de transition supraconductrice.
+  - 'La densité de puissance des pertes en courant alternatif `W` est donnée par:
+
+
+    `W = pi mu_0 h_0^2 kappa_1^″`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: susceptibilité magnétique alternative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5381f925-2e83-5bfc-9eb6-db2a90eef3b9
+status: valid

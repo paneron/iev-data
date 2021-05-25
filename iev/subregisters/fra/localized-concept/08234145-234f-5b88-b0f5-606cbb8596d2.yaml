@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: résistance entre une électrode en contact avec la surface à mesurer
+    et la terre, exprimée en ohms
+  examples: []
+  id: 426-25-05
+  language_code: fra
+  notes:
+  - La résistance dépend de la résistivité transversale et/ou superficielle des matériaux
+    ainsi que de la distance entre le point de mesure choisi et la terre.
+  reviewDecisionEvent: published
+  terms:
+  - designation: résistance de fuite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: résistance de mise à la terre
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 08234145-234f-5b88-b0f5-606cbb8596d2
+status: valid

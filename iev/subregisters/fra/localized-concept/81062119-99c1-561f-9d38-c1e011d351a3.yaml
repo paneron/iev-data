@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: représentation sous forme complexe d'une grandeur réelle variant sinusoïdalement
+    dans le temps (telle que pression acoustique, vitesse vibratoire, tension), ou
+    quotient de deux de ces grandeurs complexes de même fréquence, qui peuvent êtrе
+    exprimées sous la forme (`a`+`jb`), `a` étant la partie réelle et `b` la partie
+    imaginaire, ou par un phaseur Ae ^`j`θ^ de module `A` et d'argument θ
+  examples: []
+  id: 801-25-03
+  language_code: fra
+  notes:
+  - Dans la suite de cette section, toutes les grandeurs (mécaniques, acoustiques,
+    ou électriques) considérées sont, sauf indication contraire, des grandeurs complexes.
+  - On adopte pour +`j` la convention telle qu'une onde sinusoïdale se propageant
+    dans le sens positif, est représentée par `Re`(`e` ^`j`(`ω`+-`kх`)^), une réactance
+    inertielle par +`j`ω`M` et une réactance de raideur par -`jS`/ω. Le nombre d'onde
+    `k` = ω/`c` est le quotient de la fréquence angulaire ω par la célérité du son
+    `c`; `M` est la masse et `S` la raideur.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 81062119-99c1-561f-9d38-c1e011d351a3
+status: valid

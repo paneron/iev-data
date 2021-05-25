@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the quotient of `E` by `bar N`, where `bar N` is the mean number of
+    ion pairs formed when the initial kinetic energy `E` of a charged particle is
+    completely dissipated in the gas `W = (E)/(bar N)`
+  examples: []
+  id: 881-12-46
+  language_code: eng
+  notes:
+  - The ions produced by the bremsstrahlung emitted by the charged particle must be
+    counted in `bar N`.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean energy expended in a gas per ion pair formed
+    normative_status: preferred
+    type: expression
+  - designation: '`W`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 138e7ad1-9461-5f3c-ba13-cb90ec58021c
+status: valid

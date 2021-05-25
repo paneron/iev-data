@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: production of a {{signal, IEV:101-12-02}} at an {{input port, IEV:131-12-61}}
+    of a {{transmission line, IEV:704-02-02}} or at a point in a {{transmission medium,
+    IEV:704-02-01}}
+  examples: []
+  id: 702-02-04
+  language_code: eng
+  notes:
+  - In French, the term “émission” is also used for the concepts defined in {{IEV
+    161-01-09, IEV:161-01-09}}, {{IEV 702-02-03, IEV:702-02-03}}, {{IEV 702-02-05,
+    IEV:702-02-05}}, {{IEV 723-01-03, IEV:723-01-03}} and {{IEV 904-01-11, IEV:904-01-11}}
+    for which “emission” is the English term or synonym.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sending
+    normative_status: preferred
+    type: expression
+    usage_info: of a signal
+dateAccepted: 2019-10-01
+id: fbe497c8-e915-5789-a5a1-60d6e2000896
+status: valid

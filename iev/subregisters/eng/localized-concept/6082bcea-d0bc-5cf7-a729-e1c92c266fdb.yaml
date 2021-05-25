@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: if applicable, value of the {{complex impedance, IEV:131-12-43}}, under
+    {{reference conditions, IEV:447-06-03}}, of a given {{input circuit, IEV:447-03-07}}
+    of a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    determined under specified conditions
+  examples: []
+  id: 447-03-18
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated impedance of an input circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 6082bcea-d0bc-5cf7-a729-e1c92c266fdb
+status: valid

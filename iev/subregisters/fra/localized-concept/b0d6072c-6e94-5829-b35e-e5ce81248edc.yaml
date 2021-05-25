@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur en dessous de laquelle il n'est pas admis que la luminance moyenne
+    d'une surface spécifiée chute
+  examples: []
+  id: 845-29-153
+  language_code: fra
+  notes:
+  - La luminance moyenne conservée est la luminance moyenne de la surface spécifiée
+    au moment auquel il convient d'effectuer la maintenance.
+  - La luminance moyenne maintenue est exprimée en candela par mètre carré (cd·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminance moyenne maintenue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b0d6072c-6e94-5829-b35e-e5ce81248edc
+status: valid

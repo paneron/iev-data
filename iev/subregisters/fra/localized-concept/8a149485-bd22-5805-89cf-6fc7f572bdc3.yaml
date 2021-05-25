@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'circulation d''un potentiel vecteur magnétique *`A`* le long d''une
+    courbe C: `Psi = underset(C)( int ) A * d r` où d*`r`* est l''élément vectoriel
+    d''arc'
+  examples: []
+  id: 121-11-24
+  language_code: fra
+  notes:
+  - 'Pour une courbe fermée C, le flux totalisé est égal au flux magnétique à travers
+    toute surface S délimitée par la courbe:
+
+
+    `underset(C)( oint ) A * d r = underset(S)( int ) B * e_n d A`
+
+
+    où *`B`* est l’induction magnétique et *`e`*~n~d`A` l’élément vectoriel de surface.'
+  - Pour une bobine de `N` tours, le flux totalisé est approximativement égal à `NΦ`
+    où `Φ` est le flux magnétique à travers toute surface délimitée par un tour.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux totalisé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 8a149485-bd22-5805-89cf-6fc7f572bdc3
+status: valid

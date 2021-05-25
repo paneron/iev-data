@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2019-10-01
+  definition: '{{electromagnetic noise, IEV:161-01-02}} attributable to the discrete
+    particle nature of {{electromagnetic radiation, IEV:161-01-10}}'
+  examples: []
+  id: 702-08-49
+  language_code: eng
+  notes:
+  - At normal temperatures, quantum noise is of importance only for extremely high
+    {{frequencies, IEV:103-06-02}}, such as those of {{optical radiation, IEV:731-01-03}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantum noise
+    normative_status: preferred
+    type: expression
+  - designation: photon noise
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-10-01
+id: 2a26acfd-b739-5aa6-99fe-64fa1af50eff
+status: valid

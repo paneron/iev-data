@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '6.4'
+      original: VIM 6.4
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: étalon qui est désigné ou largement reconnu comme présentant les plus
+    hautes qualités métrologiques et dont la valeur est établie sans se référer à
+    d'autres étalons de la même grandeur
+  examples: []
+  id: 311-04-02
+  language_code: fra
+  notes:
+  - Le concept d'étalon primaire est valable aussi bien pour les grandeurs de base
+    que pour les grandeurs dérivées.
+  - Un étalon primaire n'est jamais utilisé directement pour des mesures en dehors
+    de sa comparaison avec les étalons témoins ou avec des étalons de référence.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: étalon primaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 33dd4f8d-a1d5-5d05-8671-c008270f4e8a
+status: valid

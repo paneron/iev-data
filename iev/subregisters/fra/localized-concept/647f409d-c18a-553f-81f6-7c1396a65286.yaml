@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aptitude à être en état de fonctionner tel que requis
+  examples: []
+  id: 192-01-23
+  language_code: fra
+  notes:
+  - La disponibilité dépend conjointement des caractéristiques de fiabilité ({{192-01-24,
+    IEV:192-01-24}}), de récupérabilité ({{192-01-25, IEV:192-01-25}}) et de maintenabilité
+    ({{192-01-27, IEV:192-01-27}}) de l’entité, ainsi que de l’efficacité de la logistique
+    de maintenance ({{192-01-29, IEV:192-01-29}}).
+  - La disponibilité peut être quantifiée à l’aide de mesures définies dans la http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView&amp;Query=field+SearchFields+contains+192-08+and+field+Language=en&amp;SearchOrder=4&amp;SearchMax=0[Section
+    192-08, _Mesures liées à la disponibilité_].
+  reviewDecisionEvent: published
+  terms:
+  - designation: disponibilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 647f409d-c18a-553f-81f6-7c1396a65286
+status: valid

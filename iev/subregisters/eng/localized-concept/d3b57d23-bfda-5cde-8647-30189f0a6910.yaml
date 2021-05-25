@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: a number prepared by the Sunspot Index Data Center (SIDC) at the Observatoire
+    de Belgique in Uccle, following a daily count of sunspots and groups of sunspots,
+    and used for evaluating solar activity
+  examples: []
+  id: 705-07-86
+  language_code: eng
+  notes:
+  - These numbers are derived in a similar manner to that used previously at Zurich.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: international relative sunspot number
+    normative_status: preferred
+    type: expression
+  - designation: 'symbole: `R`~1~'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: d3b57d23-bfda-5cde-8647-30189f0a6910
+status: valid

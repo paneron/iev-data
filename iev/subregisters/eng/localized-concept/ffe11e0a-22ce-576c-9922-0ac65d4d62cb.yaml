@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: expectation of the square of the centred variable `sigma^2 = V ( X )
+    = E { X - E ( X )^2 }`
+  examples: []
+  id: 103-08-11
+  language_code: eng
+  notes:
+  - The variance is the centred moment of order 2.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variance
+    normative_status: preferred
+    type: expression
+    usage_info: of a random variable
+dateAccepted: 2009-12-01
+id: ffe11e0a-22ce-576c-9922-0ac65d4d62cb
+status: valid

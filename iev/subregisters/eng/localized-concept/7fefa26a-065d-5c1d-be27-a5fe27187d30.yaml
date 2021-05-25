@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: systematic method for determining the respective maintenance actions
+    and associated frequencies, based on the probability and consequences of failure
+  examples: []
+  id: 192-06-08
+  language_code: eng
+  notes:
+  - RCM studies may be conducted at any indenture level of a system.
+  - The data used may be derived from analysis (e.g. FMECA) and experience (e.g. FRACAS).
+  - RCM studies may provide feedback to initiate modifications of design or procedures
+    to effect improvements.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reliability-centred maintenance
+    normative_status: preferred
+    type: expression
+  - designation: RCM
+    type: expression
+dateAccepted: 2015-02-01
+id: 7fefa26a-065d-5c1d-be27-a5fe27187d30
+status: valid

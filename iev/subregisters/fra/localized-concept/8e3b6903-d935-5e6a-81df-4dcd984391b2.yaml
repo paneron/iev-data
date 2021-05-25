@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: région de l'espace, intermédiaire entre la région de champ proche réactif
+    et la région de champ lointain d'une antenne, où les composantes prépondérantes
+    du champ électromagnétique sont celles qui correspondent à une propagation d'énergie,
+    et où la répartition du champ en fonction de la direction dépend de la distance
+    à l'antenne
+  examples: []
+  id: 712-02-04
+  language_code: fra
+  notes:
+  - Si la dimension maximale de l'antenne n'est pas grande par rapport à la longueur
+    d'onde, la région de champ proche rayonné peut ne pas être identifiable en pratique.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (région de) champ proche rayonné
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: région de rayonnement proche
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 8e3b6903-d935-5e6a-81df-4dcd984391b2
+status: valid

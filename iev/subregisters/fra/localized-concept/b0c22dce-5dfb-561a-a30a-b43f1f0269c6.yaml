@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: . pour une variable aléatoire discrète `X` prenant les valeurs `x_i`
+    avec les probabilités `p_i`, somme `E ( X ) = sum_i p_i x_i` étendue à toutes
+    les valeurs `x_i` susceptibles d'être prises par `X` . pour une variable aléatoire
+    continue `X` de densité de probabilité `f ( x )`, valeur de l'intégrale `E ( X
+    ) = int x f ( x ) d x` étendue à tout le domaine de variation de `X`
+  examples: []
+  id: 103-08-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: espérance mathématique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une variable aléatoire
+  - designation: espérance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une variable aléatoire
+  - designation: moyenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une variable aléatoire
+dateAccepted: 2018-11-17
+id: b0c22dce-5dfb-561a-a30a-b43f1f0269c6
+status: valid

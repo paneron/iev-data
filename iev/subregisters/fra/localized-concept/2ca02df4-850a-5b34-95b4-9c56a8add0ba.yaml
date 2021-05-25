@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2004-08-01
+  definition: un des conducteurs d'une ligne polyphasée, destiné à conduire l'un des
+    courants d'un système polyphasé de courants
+  examples: []
+  id: 141-03-02
+  language_code: fra
+  notes:
+  - Une définition plus générale du terme «conducteur de ligne» est donnée dans la
+    CEI 60050-195.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conducteur de ligne polyphasée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conducteur de ligne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conducteur de phase
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: 2ca02df4-850a-5b34-95b4-9c56a8add0ba
+status: valid

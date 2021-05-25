@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2008-08-01
+  definition: matrix having only one column
+  examples: []
+  id: 102-06-04
+  language_code: eng
+  notes:
+  - A column matrix with `m` rows is of type `m` × 1.
+  - A column matrix is generally used to represent the components of a vector.
+  - A column matrix is used in circuit theory to represent the set of voltages or
+    currents at ports of a network.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: column matrix
+    normative_status: preferred
+    type: expression
+  - designation: column vector
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2008-08-01
+id: a0b1c0ea-7a2d-5095-bbcc-ddcc6cd4d11a
+status: valid

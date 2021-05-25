@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.03
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.03
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  definition: partie d'un système de communication où l'on considère que sont reçus
+    les {{messages, IEV:171-07-04}}
+  examples: []
+  id: 171-07-06
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: collecteur de messages
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: collecteur d'informations
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c11ec9f6-8d2e-583d-9d18-56e27a80e76b
+status: valid

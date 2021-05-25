@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'function `f` that attributes a scalar `f ( U , V )` to any pair of
+    vectors *`U`* and *`V`* in a given vector space, with the following properties:
+    * `f ( alpha U , V ) = alpha f ( U , V )` and `f ( U , beta V ) = beta f ( U ,
+    V )` where `α` and `β` are scalars, * `f ( U + V , W ) = f ( U , W ) + f ( V ,
+    W )` and `f ( W , U + V ) = f ( W , U ) + f ( W , V )` for any vector *`W`* existing
+    in the same vector space'
+  examples: []
+  id: 102-03-16
+  language_code: eng
+  notes:
+  - A bilinear form over an `n`-dimensional vector space can be represented by a square
+    matrix `( k_((i j)) )` and the scalar is `f ( U , V ) = underset((i j))( sum )
+    k_((i j)) U_i V_j`.
+  - The bilinear forms over a given `n`-dimensional vector space constitute an `n^2`-dimensional
+    vector space.
+  - The concept of bilinear form extends to "linear form" in the case of one vector
+    and to "multilinear form" (or `m`-linear form) in the case of an ordered set of
+    `m` vectors.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bilinear form
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 95216621-c2ae-5dbb-b7c3-03038074e0cc
+status: valid

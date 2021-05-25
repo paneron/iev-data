@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: signal utilisé lorsque la vitesse des trains dépasse une valeur spécifiée,
+    pour prévenir qu'une réduction de vitesse à cette valeur est prescrite au franchissement
+    du signal suivant
+  examples: []
+  id: 821-02-102
+  language_code: fra
+  notes:
+  - Dans certains cas, le signal de préannonce est présenté uniquement en cabine.
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal de préannonce
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b616d861-d40d-53e9-bce5-8c9c3a1f2b89
+status: valid

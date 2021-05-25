@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a two-terminal-pair network or an `n`-terminal-pair network with
+    `n` even, matrix expressing the dependence of the input voltages and currents
+    on the output voltages and currents
+  examples: []
+  id: 131-14-31
+  language_code: eng
+  notes:
+  - Names and symbols for the elements of the chain matrix are given in IEC 60027-2.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: chain matrix
+    normative_status: preferred
+    type: expression
+  - designation: '*`A`*'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: edee094a-ec9b-5697-95fb-b39059bf56fc
+status: valid

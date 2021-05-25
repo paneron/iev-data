@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: variation d'un {{champ, IEV:102-05-12}} se déplaçant avec un vecteur
+    vitesse bien déterminé en chaque point d'un milieu
+  examples: []
+  id: 103-10-01
+  language_code: fra
+  notes:
+  - Les ondes électromagnétiques et acoustiques dans des milieux linéaires sont représentées
+    par des solutions particulières d'équations aux dérivées partielles hyperboliques
+    du deuxième ordre par rapport à l'espace et au temps, qui se déduisent par exemple
+    des équations de Maxwell.
+  reviewDecisionEvent: published
+  terms:
+  - designation: onde
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 50011a74-8bfa-59f3-8e71-8ab28b6d4757
+status: valid

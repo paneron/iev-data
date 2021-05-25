@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: state of the equipment other than those in which monitoring of gas concentration
+    or alarming is the intent
+  examples: []
+  id: 426-24-61
+  language_code: eng
+  notes:
+  - Special state includes warm-up, calibration mode and fault condition.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: special state
+    normative_status: preferred
+    type: expression
+    usage_info: gas detection
+dateAccepted: 2020-03-01
+id: 7ef66c97-07e7-512f-ab78-44c44a93ecd7
+status: valid

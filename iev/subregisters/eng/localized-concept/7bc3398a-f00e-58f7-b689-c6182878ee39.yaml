@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: at a given point within a domain of quasi-infinitesimal volume `V`,
+    vector quantity equal to the electric dipole moment *`p`* of the substance contained
+    within the domain divided by the volume, `V` *`P`* `=` *`p`* `/`*`V`*
+  examples: []
+  id: 561-05-05
+  language_code: eng
+  notes:
+  - 'The electric polarization *`P`* satisfies the relation
+
+
+    `D = epsilon_0 E + P`
+
+
+    where
+
+
+    *`D`* is the electric flux density;
+
+
+    *`E`* is the electric field strength;
+
+
+    `epsilon_0` is the dielectric constant in free space.'
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric polarization
+    normative_status: preferred
+    type: expression
+  - designation: '*`P`*'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 7bc3398a-f00e-58f7-b689-c6182878ee39
+status: valid

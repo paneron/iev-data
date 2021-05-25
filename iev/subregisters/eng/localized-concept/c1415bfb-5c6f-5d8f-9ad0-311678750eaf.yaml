@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 111-13-43
+      original: 111-13-43
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: additive scalar quantity, associated with elementary particles and with
+    macroscopic matter that characterizes their electromagnetic interactions
+  examples: []
+  id: 121-11-01
+  language_code: eng
+  notes:
+  - Electric charge is subject to a conservation law.
+  - Electric charges obey Coulomb's law.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric charge
+    normative_status: preferred
+    type: expression
+  - designation: quantity of electricity
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: c1415bfb-5c6f-5d8f-9ad0-311678750eaf
+status: valid

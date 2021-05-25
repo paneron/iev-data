@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: qualifie un {{programme d'ordinateur, IEV:171-05-05}} ou une {{routine,
+    IEV:171-05-42}} que l'on peut {{charger, IEV:171-05-62}} une seule fois puis exécuter
+    plusieurs fois, toutes les instructions modifiées lors de l'exécution étant remises
+    dans leur état initial et les paramètres externes n'étant pas modifiés
+  examples: []
+  id: 171-05-60
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: réutilisable
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 9c2f741a-0b94-5aa3-8981-fc400dcfb8e7
+status: valid

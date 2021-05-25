@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1983-01-01
+  definition: radiothérapie dans laquelle le patient est animé d'un mouvement de rotation
+    ou dans laquelle la source de rayonnement tourne autour du patient
+  examples: []
+  id: 881-11-12
+  language_code: fra
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cycloradiothérapie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cyclothérapie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: radiothérapie de rotation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 1fad1e07-7167-5665-ab48-c14f176a10b9
+status: valid

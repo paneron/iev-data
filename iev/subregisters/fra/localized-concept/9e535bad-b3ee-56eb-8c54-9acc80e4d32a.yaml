@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.9'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.9
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  definition: valeur la plus élevée du {{déplacement, IEV:113-01-29}} appliqué dans
+    un {{cycle, IEV:103-05-08}}
+  examples: []
+  id: 523-03-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: déplacement maximal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e535bad-b3ee-56eb-8c54-9acc80e4d32a
+status: valid

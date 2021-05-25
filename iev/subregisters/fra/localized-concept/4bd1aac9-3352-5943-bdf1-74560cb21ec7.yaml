@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur ayant une jonction PN auxiliaire encerclant
+    la surface sensible du détecteur destinée à diminuer le bruit et le courant électrique
+    de surface
+  examples: []
+  id: 395-03-53
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-20 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur à anneau de garde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur à anneau de garde
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4bd1aac9-3352-5943-bdf1-74560cb21ec7
+status: valid

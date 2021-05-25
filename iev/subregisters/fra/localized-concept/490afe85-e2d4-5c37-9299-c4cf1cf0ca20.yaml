@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 604-01-15
+      original: voir 604-01-15
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 2021-01-01
+  definition: incapacité d'un réseau d'énergie électrique à maintenir sa stabilité
+  examples: []
+  id: 603-03-21
+  language_code: fra
+  notes:
+  - Ce concept ne s'applique pas aux interactions entre des réseaux d'énergie électrique
+    à tension alternative connectés entre eux uniquement par des liaisons à courant
+    continu.
+  - Cette définition ne couvre pas l'instabilité de tension.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instabilité d'un réseau d'énergie électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 490afe85-e2d4-5c37-9299-c4cf1cf0ca20
+status: valid

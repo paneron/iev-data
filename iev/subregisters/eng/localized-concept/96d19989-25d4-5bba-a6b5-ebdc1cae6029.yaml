@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: law giving the <a href="IEV845-21-029">spectral distribution</a> of
+    radiance of a <a href="IEV845-24-004">Planckian radiator</a> as a function of
+    wavelength and temperature `L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda
+    , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T)))
+    - 1 )^(- 1)` where `L`~e,~`λ` is the spectral radiance, `λ` is the wavelength
+    in vacuum, `T` is the thermodynamic temperature, `c_1 \ = 2 \ pi \ h \ c_0^2`,
+    `c_2 \ = h \ c_0 \ // \ k`, `h` is the Planck constant, `c`~0~ is the {{speed
+    of light in vacuum, IEV:113-01-34}}, and `k` is the Boltzmann constant
+  examples: []
+  id: 845-24-005
+  language_code: eng
+  notes:
+  - The formula is sometimes written with `((c_1))/((pi omega_0))` instead of `((c_1))/(pi)`,
+    where `Ω`~0~ is the solid angle of magnitude 1 sr.
+  - For a detector in a medium of refractive index `n`, the measured radiance is `n`^2^`L`~e,~`λ`(`λ`,
+    `T`).
+  - Planck's law can also be expressed to give the spectral distribution of radiant
+    exitance, `M`~e,~`λ`(`λ`, `T`); the first factor in the formula is then `c`~1~
+    instead of `((c_1))/(pi)`.
+  - Both quantities (radiance and radiant exitance) apply to the <a href="IEV845-21-021">unpolarized
+    radiation</a> as emitted.
+  - For the up-to-date values of the Planck constant, `h`, the {{speed of light in
+    vacuum, IEV:113-01-34}}, `c`~0~, and the Boltzmann constant, `k`, see CODATA.
+  - This entry was numbered 845-04-05 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Planck's law
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 96d19989-25d4-5bba-a6b5-ebdc1cae6029
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2016-12-01
+  definition: qualifying a time-varying phenomenon, a {{timescale, IEV:702-04-11}}
+    or a {{signal, IEV:701-01-02}} the consecutive {{significant instants, IEV:704-13-03}}
+    of which are separated by {{time intervals, IEV:113-01-10}} which are not all
+    constrained to have the same rated {{duration, IEV:113-01-13}} or to have rated
+    durations equal to integral multiples of a unit duration
+  examples: []
+  id: 702-04-15
+  language_code: eng
+  notes:
+  - The term “asynchronous” with a different meaning is used in the technique of rotating
+    machines (see for example {{IEV 411-31-09, IEV:411-31-09}} “asynchronous machine").
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: anisochronous
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: asynchronous
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2016-12-01
+id: 3e521528-b6bb-51d2-b03d-d9e44fda1c2e
+status: valid

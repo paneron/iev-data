@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: argument of the cosine function in the representation of a sinusoidal
+    quantity
+  examples: []
+  id: 103-07-04
+  language_code: eng
+  notes:
+  - The term "instantaneous phase" is only used when the independent variable is time.
+  - For the quantity `a ( t ) = hat A cos ( omega t + vartheta_0 )`, the phase is
+    `omega t + vartheta_0`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase
+    normative_status: preferred
+    type: expression
+  - designation: instantaneous phase
+    normative_status: preferred
+    type: expression
+  - designation: '`vartheta`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 93ddd4d7-6ad2-5bc9-8421-b225b204fa1e
+status: valid

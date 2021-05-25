@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: entre deux noeuds donnés d'un réseau, ensemble ordonné de branches numérotées
+    1, 2 ... tel que la branche de rang `i` est connectée par une de ses extrémités
+    à la branche de rang `i` − 1 et par l'autre à la branche de rang `i` + 1
+  examples: []
+  id: 131-13-08
+  language_code: fra
+  notes:
+  - Le chemin est dit fermé lorsque les deux noeuds coïncident.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: chemin
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: f8c3a877-ac7b-5d36-89ff-399d376a98f3
+status: valid

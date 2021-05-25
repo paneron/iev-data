@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: maximum level of exposure of a surface, usually the eye or skin, that
+    is not expected to result in adverse biological effects
+  examples: []
+  id: 845-26-072
+  language_code: eng
+  notes:
+  - Exposure limits for human safety of <a href="IEV845-21-002">optical radiation</a>,
+    `H`~L~, are normally recommended by the International Commission on Non-Ionizing
+    Radiation Protection (ICNIRP).
+  - Exposure limits are often based on irradiance (e.g. for the skin), but where relevant,
+    can also be based on radiance (e.g. the blue light hazard of extended sources).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposure limit
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~L~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 37e4ce6d-1afb-5310-8907-22ddabcc0b16
+status: valid

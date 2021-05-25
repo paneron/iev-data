@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'pour un ensemble de `n` éléments de circuit magnétiques formant un
+    circuit magnétique, matrice exprimant les flux magnétiques `Φ`~`i`~ dans les éléments
+    en fonction des courants totalisés `Ө`~`j`~ des éléments: `( [[Phi_1],[Phi_2],[vdots],[Phi_n]]
+    ) = ( [[Lambda_((11)),Lambda_((12)),...,Lambda_((1 n))],[Lambda_((21)),,,vdots],[vdots,,,vdots],[Lambda_((n
+    1)),...,...,Lambda_((n n))]] ) * ( [[Theta_1],[Theta_2],[vdots],[Theta_n]] )`'
+  examples: []
+  id: 131-12-37
+  language_code: fra
+  notes:
+  - Une matrice des perméances est toujours symétrique et définie positive.
+  - En électromagnétisme, la matrice des perméances peut être définie, pour un ensemble
+    de contours fermés, comme la matrice exprimant les relations linéaires entre les
+    flux magnétiques qui traversent des surfaces limitées par les contours et les
+    courants totalisés dans ces contours.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice des perméances
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 65f97f5c-d037-5d0c-b02e-ebf0ef1afada
+status: valid

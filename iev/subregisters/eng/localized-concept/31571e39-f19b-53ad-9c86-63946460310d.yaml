@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 2.1.2
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.1.2
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2018-12-01
+  definition: technology to realize microelectrical, optical and mechanical systems
+    and their {{components, IEV:151-11-21}} by using micromachining
+  examples: []
+  id: 523-01-02
+  language_code: eng
+  notes:
+  - The term "MST" is mostly used in Europe.
+  - This note applies to the French language only.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: MST
+    normative_status: preferred
+    type: expression
+  - designation: microsystem technology
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 31571e39-f19b-53ad-9c86-63946460310d
+status: valid

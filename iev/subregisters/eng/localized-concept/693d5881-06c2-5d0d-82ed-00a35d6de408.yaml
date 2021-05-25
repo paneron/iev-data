@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'for a magnetic core operating within the Rayleigh region, and having
+    given geometry and material properties, the magnetic path length, the cross-sectional
+    area and the volume that a hypothetical toroidal core of the same material properties
+    and of radially thin uniform cross-section should possess to be magnetically equivalent
+    to the given core Note 1 – The effective dimensions are as follows: effective
+    cross-sectional area `A_e = ((C_1))/((C_2))` effective magnetic path length, `l_e
+    = ((C_1^2))/((C_2))` effective volume, `V_e = ((C_1^3))/((C_2^2))` where `C`~1~
+    and `C`~2~ are the appropriate core factors hence: `C_1 = ((l_e))/((A_e))` `C_2
+    = ((l_e))/((A_e^2))` `V_e = l_e A_e` Note 2 – These formulae can also apply to
+    a magnetic circuit operating outside the limit of the Rayleigh region provided
+    the magnetization can be assumed to be uniform, for example as in an Epstein square.'
+  examples: []
+  id: 221-04-31
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective dimensions
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 1990-10-01
+id: 693d5881-06c2-5d0d-82ed-00a35d6de408
+status: valid

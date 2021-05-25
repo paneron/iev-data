@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}} intended to {{operate, IEV:447-02-04}}
+    when its {{characteristic quantity, IEV:447-07-01}} increases to reach the {{setting
+    value of the characteristic quantity, IEV:447-07-02}}'
+  examples:
+  - Overcurrent relay.
+  id: 447-01-23
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: over... relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 0b9dcef9-6937-5aeb-ab19-055c973c8b51
+status: valid

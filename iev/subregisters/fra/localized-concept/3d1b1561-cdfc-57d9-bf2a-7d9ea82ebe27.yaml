@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: grandeur complexe`underset(_)(gamma) = alpha + j beta` figurant dans
+    la représentation complexe d'une onde `A_0 exp ( - underset(_)(gamma) x + j omega
+    t + j vartheta_0 )`, lorsque sa partie réelle `A_0 exp ( - alpha x ) cos ( - beta
+    x + omega t + vartheta_0 )` représente, le long d'une droite parallèle à l'axe
+    des `x`, une grandeur caractéristique d'une onde guidée ou d'une onde plane sinusoïdale
+    de pulsation `ω` et de phase à l'origine `vartheta_0`
+  examples: []
+  id: 103-10-18
+  language_code: fra
+  notes:
+  - Le concept d'exposant linéique de propagation n'a de sens que lorsque `A_0` et
+    `underset(_)(gamma)` sont en principe indépendants de `x`.
+  - L'exposant linéique de propagation a les dimensions de l'inverse d'une longueur
+    et est généralement fonction de la fréquence.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposant linéique de propagation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3d1b1561-cdfc-57d9-bf2a-7d9ea82ebe27
+status: valid

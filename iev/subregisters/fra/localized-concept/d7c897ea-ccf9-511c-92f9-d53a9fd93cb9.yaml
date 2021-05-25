@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '7.1'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 7.1
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  definition: autorisation accordée pour pouvoir commercialiser ou utiliser un {{produit,
+    IEV:902-02-03}} ou un processus à des fins ou dans des conditions définies
+  examples: []
+  id: 902-06-01
+  language_code: fra
+  notes:
+  - Une homologation peut être fondée sur la satisfaction d'{{exigences spécifiées,
+    IEV:902-02-01}} ou le respect de {{procédures, IEV:902-02-02}} spécifiées.
+  reviewDecisionEvent: published
+  terms:
+  - designation: homologation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d7c897ea-ccf9-511c-92f9-d53a9fd93cb9
+status: valid

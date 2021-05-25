@@ -1,0 +1,48 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: axial vector `U xx V`, orthogonal to two given vectors *`U`* and *`V`*,
+    such that the three vectors *`U`*, *`V`* and `U xx V` form a right-handed trihedron
+    or a left-handed trihedron according to the space orientation, with its magnitude
+    equal to the product of the magnitudes of the given vectors and the sine of the
+    angle `vartheta` between them `| U xx V | = | U | * | V | * sin vartheta`
+  examples: []
+  id: 102-03-36
+  language_code: eng
+  notes:
+  - In the three-dimensional Euclidean space with given space orientation, the vector
+    product of two vectors *`U`* and *`V`* is the unique axial vector `U xx V` such
+    that for any vector *`W`* in the same vector space the scalar triple product (*`U`*,*`V`*,*`W`*)
+    is equal to the scalar product `( U xx V ) * W`.
+  - 'For two vectors `U = U_x e_x + U_y e_y + U_z e_z` and `V = V_x e_x + V_y e_y
+    + V_z e_z`, where `e_x , e_y , e_z` is an orthonormal base, the vector product
+    is expressed by `U xx V = ( U_y V_z - U_z V_y ) e_x + ( U_z V_x - U_x V_z ) e_y
+    + ( U_x V_y - U_y V_x ) e_z`.
+
+
+    The vector product can also be expressed as `U xx V = | [[e_x,e_y,e_z],[U_x,U_y,U_z],[V_x,V_y,V_z]]
+    |` using a sum similar to the sum used to obtain the determinant of a matrix.
+    The vector product is therefore the axial vector associated with the antisymmetric
+    tensor `U ox V - V ox U` (see {{IEV 102-03-43, IEV:102-03-43}}).'
+  - For two complex vectors *`U`* and *`V`*, either the vector product `U xx V` or
+    one of the vector products `U^( * ) xx V` or `U xx V^( * )` may be used depending
+    on the application.
+  - A vector product can be similarly defined for a pair consisting of a polar vector
+    and an axial vector and is then a polar vector, or for a pair of two axial vectors
+    and is then an axial vector.
+  - In the usual three-dimensional space, the vector product of two vector quantities
+    is the vector product of the associated unit vectors multiplied by the product
+    of the scalar quantities.
+  - The vector product operation is denoted by a cross (×) between the two symbols
+    representing the vectors. The use of the symbol ∧ is deprecated.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vector product
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 87ccd4e7-166d-56e7-9797-454f4666d558
+status: valid

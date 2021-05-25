@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: accélération locale égale à la somme vectorielle de l'accélération due
+    à la gravité et de l'accélération centrifuge dans le référentiel lié à la Terre
+    en rotation
+  examples: []
+  id: 113-01-39
+  language_code: fra
+  notes:
+  - 1 Le concept d’accélération due à la pesanteur peut être utilisé pour tout autre
+    corps céleste.
+  - 2 La chute d’un corps dans l’atmosphère est aussi influencée par d’autres effets
+    tels que la force de Coriolis et la poussée atmosphérique. Ces effets supplémentaires
+    ne sont pas pris en compte dans la définition de l’accélération due à la pesanteur.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accélération due à la pesanteur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: accélération en chute libre
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 485d85cb-e096-5b85-89c8-81bd3cec63a0
+status: valid

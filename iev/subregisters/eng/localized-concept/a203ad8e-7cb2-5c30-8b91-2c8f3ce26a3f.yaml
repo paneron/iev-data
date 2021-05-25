@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: 'the quantity which characterizes the material dispersion defined as:
+    `M ( lambda ) = - (1)/((c_0)) ((d N))/((d lambda)) = ((lambda d^2 n))/((c_0 d
+    lambda^2))` where `n` is the refractive index, `N` is the group index, `λ` is
+    the wavelength in vacuum, and `c`~0~ is the speed of light in vacuum'
+  examples: []
+  id: 731-03-76
+  language_code: eng
+  notes:
+  - For many optical fibre materials, `M` is zero at a specific wavelength `λ`~0~,
+    usually around 1300 nm. The sign convention is such that `M` is positive for wavelengths
+    shorter than `λ`~0~ and negative for wavelengths longer than `λ`~0~.
+  - Pulse broadening caused by material dispersion in a unit length of optical fibre
+    is give by `M` times spectral linewidth (Δ`λ`), except at or near `λ` = `λ`~0~,
+    where terms proportional to (Δ`λ`)^2^ are important.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: material dispersion parameter
+    normative_status: preferred
+    type: expression
+  - designation: '`М`'
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: a203ad8e-7cb2-5c30-8b91-2c8f3ce26a3f
+status: valid

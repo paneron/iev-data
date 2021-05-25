@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{cellule élémentaire à combustible, IEV:485-08-01}} dans laquelle
+    le combustible fourni au{{système à pile à combustible, IEV:485-09-01}} est le
+    même combustible que celui qui réagit aux {{anodes, IEV:485-02-04}}'
+  examples: []
+  id: 485-08-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: pile à combustible direct
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9f74dc43-b923-558c-b37a-6687dcf6f6d8
+status: valid

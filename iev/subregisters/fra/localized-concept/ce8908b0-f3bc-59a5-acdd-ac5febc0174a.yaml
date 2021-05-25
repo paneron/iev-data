@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: nombre fixe de créneaux temporels de voie non adjacents à l'intérieur
+    d'une trame, dont l'ensemble est attribué à une voie numérique de débit numérique
+    spécifié supérieur à celui que permet un seul créneau temporel de voie
+  examples: []
+  id: 704-14-14
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous-trame
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: secteur de trame
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: ce8908b0-f3bc-59a5-acdd-ac5febc0174a
+status: valid

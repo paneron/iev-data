@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: memory that permits access to any of its address locations in any desired
+    sequence
+  examples: []
+  id: 521-11-08
+  language_code: eng
+  notes:
+  - By common usage, this term usually denotes a "read/write" memory; but it could
+    also apply to a "read-only" memory.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: random-access memory
+    normative_status: preferred
+    type: expression
+  - designation: RAM
+    type: expression
+dateAccepted: 2002-05-01
+id: e8ed9e23-5d13-56af-9981-481f38f320bb
+status: valid

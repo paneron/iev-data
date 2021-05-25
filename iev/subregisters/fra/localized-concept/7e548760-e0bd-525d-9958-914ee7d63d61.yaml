@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la quantité d'oxydant qui réagit par un procédé électrochimique
+    pour produire le courant électrique de la {{cellule élémentaire à combustible,
+    IEV:485-08-01}} et de la quantité totale d'oxydant entrant dans la cellule élémentaire
+    [`qm`(o~in~) − `qm`(o~out~)]/ `qm`(o~in~) où "o" représente "oxydant", et `qm`(o~in~)
+    et `qm`(o~out~) correspondent aux débits d'oxydant molaire respectivement à l'entrée
+    et à la sortie
+  examples: []
+  id: 485-06-23
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: utilisation de l'oxydant
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: stœchiométrie de l'air
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e548760-e0bd-525d-9958-914ee7d63d61
+status: valid

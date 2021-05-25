@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.7
+      original: IEC TS 80004-9:2017, 3.1.7
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  dateAmended: 2018-04-01
+  definition: high-precision {{device, IEV:511-01-01}} used for working with {{nanomaterial,
+    IEV:511-01-04}} at the {{nanoscale, IEV:511-01-03}}
+  examples: []
+  id: 511-01-18
+  language_code: eng
+  notes:
+  - In the field of electrotechnical products and systems, nanomanipulators can be
+    used as in-situ electric probes.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanomanipulator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 3b45d149-bdda-5c15-a95b-f24cc47332f6
+status: valid

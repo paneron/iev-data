@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: valeur du courant qui peut traverser en permanence l'enroulement primaire,
+    l'enroulement secondaire étant connecté à la charge de précision, sans que l'échauffement
+    dépasse les valeurs spécifiées
+  examples: []
+  id: 321-02-25
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant assigné thermique permanent
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: courant d'échauffement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: d4ac7b39-53a9-5daf-bbe6-3ce101430455
+status: valid

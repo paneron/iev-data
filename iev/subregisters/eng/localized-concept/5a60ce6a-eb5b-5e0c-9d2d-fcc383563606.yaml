@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the ratio `U`~d~/ `U`~N~ (tapping factor) or 100 `U`~d~/ `U`~N~ (tapping
+    factor expressed as a percentage) where: `U`~N~ is the rated voltage of the winding
+    `U`~d~ is the voltage which would be developed at no-load at the terminals of
+    the winding, connected on the tapping concerned, by applying rated voltage to
+    an untapped winding'
+  examples: []
+  id: 421-05-03
+  language_code: eng
+  notes:
+  - The tapping factor expresses the relative value of the "effective number of turns"
+    of the tapped winding at the relevant tapping, the basis 1 being the effective
+    number of turns of this winding at the principal tapping.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tapping factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 5a60ce6a-eb5b-5e0c-9d2d-fcc383563606
+status: valid

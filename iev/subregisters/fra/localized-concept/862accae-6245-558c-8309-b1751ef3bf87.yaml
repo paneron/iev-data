@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: rapport entre la période de temps (`t`~1~), au cours duquel la tension
+    de sortie est supérieure à un niveau spécifié, et la période de temps (`t`~2~),
+    au cours duquel la tension de sortie est inférieure au niveau spécifié image::/assets/images/parts/561/561-fig17-fr.png[]
+    *Figure 17 – Caractéristiques d'une forme d'onde de sortie*
+  examples: []
+  id: 561-03-35
+  language_code: fra
+  notes:
+  - La symétrie est exprimée en pourcentage de la durée de la période totale du signal.
+  - 'Le niveau spécifié peut être la moyenne arithmétique des niveaux `V`~OL~ et `V`~OH~
+    ou 50 % de l’amplitude crête à crête. Le rapport est exprimé comme suit:
+
+
+    `((100 t_1))/((t_1 + t_2)) : ((100 t_2))/((t_1 + t_2))`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: symétrie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport de plage de séparation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cycle de service
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 862accae-6245-558c-8309-b1751ef3bf87
+status: valid

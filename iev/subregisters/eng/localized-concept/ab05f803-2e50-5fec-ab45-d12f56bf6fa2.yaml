@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '3.44'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.44 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2011-01-01
+  definition: maximum of the absolute value of the negative portions of the instantaneous
+    acoustic pressure waveform in an acoustic field or in a specified plane during
+    an acoustic pulse-repetition period
+  examples: []
+  id: 802-01-25
+  language_code: eng
+  notes:
+  - Peak-rarefactional acoustic pressure is expressed as a positive number.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: peak-rarefactional acoustic pressure
+    normative_status: preferred
+    type: expression
+  - designation: peak-negative acoustic pressure
+    normative_status: preferred
+    type: expression
+  - designation: '`p`~–~, `p`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: ab05f803-2e50-5fec-ab45-d12f56bf6fa2
+status: valid

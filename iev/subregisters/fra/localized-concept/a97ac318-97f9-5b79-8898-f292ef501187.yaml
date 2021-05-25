@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: unité permettant d'évaluer dans des conditions d'observation spécifiées,
+    la dégradation subjective d'une image, par rapport à une image ayant obtenu une
+    note moyenne, en utilisant une échelle de qualité ou de dégradation donnée
+  examples: []
+  id: 723-06-91
+  language_code: fra
+  notes:
+  - Dans certaines conditions les valeurs exprimées en unités i.m.p. sont additives,
+    en ce sens que la dégradation subjective due à plusieurs défauts non corrélés
+    est la somme des gradations dues à chaque défaut considéré séparément.
+  - La méthode d'utilisation des unités i.m.p. est décrite dans le Rapport 405 du
+    CCIR.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unité i.m.p.
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: a97ac318-97f9-5b79-8898-f292ef501187
+status: valid

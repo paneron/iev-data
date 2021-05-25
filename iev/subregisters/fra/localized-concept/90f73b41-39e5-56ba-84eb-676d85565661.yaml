@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-09
+      original: 705-03-09 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: milieu dans lequel un champ électrique variable en fonction du temps
+    produit une densité de courant électrique dont la composante suivant une direction
+    donnée a une norme grande par rapport à celle de la composante suivant cette direction
+    de la densité de courant de déplacement, dans une bande de fréquences déterminée
+  examples: []
+  id: 121-12-02
+  language_code: fra
+  notes:
+  - 'Dans un milieu isotrope, la propriété d’être conducteur se traduit en régime
+    sinusoïdal par la condition:
+
+
+    `(gamma)/((epsilon_0 omega)) ≫ epsilon^( '' )_r`
+
+
+    où `γ` est la conductivité, `ε`~0~ la constante électrique, `ω` la pulsation et
+    `ε′`~r~ la permittivité relative réelle. En régime statique, le milieu est conducteur
+    si la conductivité n’est pas nulle.'
+  - Un milieu anisotrope peut n’être conducteur que dans certaines directions.
+  - Le terme "conducteur" désigne aussi tout élément destiné à assurer le passage
+    d’un courant électrique.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: milieu conducteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conducteur
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: milieu
+dateAccepted: 1998-08-01
+id: 90f73b41-39e5-56ba-84eb-676d85565661
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: 'quantity itself or signal representing the information corresponding
+    to the quantity that, applied to a {{measuring relay, IEV:447-01-02}} or {{protection
+    equipment, IEV:447-01-49}} under specified conditions, enables it to {{operate,
+    IEV:447-02-04}} Note 1 to entry: Both {{input energizing quantity, IEV:447-03-02}}
+    and {{auxiliary energizing quantity, IEV:447-03-04}} are energizing quantities.'
+  examples: []
+  id: 447-03-01
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energizing quantity
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: 405c8b7a-9826-5141-ac2c-9b7210bc8691
+status: valid

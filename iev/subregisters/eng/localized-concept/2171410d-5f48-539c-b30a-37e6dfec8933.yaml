@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.9
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.9, modified
+      ref: IEC 62267:2009
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: train operation where the driver has full responsibility and no technical
+    system is required to supervise the driver's activities, although points and single
+    tracks can be partially supervised by the system
+  examples: []
+  id: 821-09-12
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: on-sight train operation
+    normative_status: preferred
+    type: expression
+  - designation: GOA0
+    type: expression
+  - designation: TOS
+    type: expression
+dateAccepted: 2017-11-01
+id: 2171410d-5f48-539c-b30a-37e6dfec8933
+status: valid

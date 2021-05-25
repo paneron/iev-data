@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.15'
+      link: https://webstore.iec.ch/publication/7005
+      original: IEC 62430:2009, définition 3.15
+      ref: IEC 62430:2009
+      relationship:
+        type: identical
+  definition: groupe de produits similaires d'un point de vue technologique ou fonctionnel
+    dont les {{aspects environnementaux, IEV:904-01-02}} peuvent raisonnablement être
+    estimés similaires
+  examples: []
+  id: 904-01-06
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: catégorie de produit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 59c837b4-54cb-53e8-ad23-28903f4e55d1
+status: valid

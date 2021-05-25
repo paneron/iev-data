@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.63
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.63, modifié
+      ref: IEC 61375-1:2012
+      relationship:
+        type: modified
+  definition: réseau de communication de données permettant de connecter des équipements
+    électroniques programmables embarqués sur des véhicules ferroviaires
+  examples: []
+  id: 811-37-108
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau embarqué de train
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TCN
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7cd1e4ce-0c27-58ce-842a-ab138d4b57c5
+status: valid

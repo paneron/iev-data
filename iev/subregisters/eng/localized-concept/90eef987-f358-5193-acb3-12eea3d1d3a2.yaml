@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: ratio of the maximum value of the `BH` product of a permanent magnet
+    to the product of the remanence `B`~r~ and the coercivity related to the magnetic
+    flux density `H`~c`B`~ `gamma = (((( B H ))_((max))))/((B_r H_((c B))))`
+  examples: []
+  id: 221-04-06
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fullness factor
+    normative_status: preferred
+    type: expression
+  - designation: '`γ`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 90eef987-f358-5193-acb3-12eea3d1d3a2
+status: valid

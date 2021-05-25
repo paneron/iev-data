@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: filtre composé d'au moins quatre résonateurs OAS connectés en série
+    pour former des mailles, deux points de jonction non adjacents faisant office
+    de bornes d'entrée, les deux autres faisant office de bornes de sortie (pont)
+    <simg> *Figure 13 – Configuration d'un filtre en treillis*</simg>
+  examples: []
+  id: 561-02-25
+  language_code: fra
+  notes:
+  - Un filtre en treillis peut être utilisé pour les circuits équilibrés.
+  reviewDecisionEvent: published
+  terms:
+  - designation: filtre en treillis
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a2f9e59-38ef-55af-88b7-7470813e96fd
+status: valid

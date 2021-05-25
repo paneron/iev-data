@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the quotient of d`K` by d`t`, where d`K` is the increment in kerma in
+    the time interval d`t` `overset(˙)(K) = ((d K))/((d t))`
+  examples: []
+  id: 881-12-28
+  language_code: eng
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: kerma rate
+    normative_status: preferred
+    type: expression
+  - designation: '`overset(˙)(K)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 4548b165-7e54-597d-8d2b-f2a85ccf7d71
+status: valid

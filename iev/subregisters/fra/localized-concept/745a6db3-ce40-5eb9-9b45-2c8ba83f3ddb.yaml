@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.16
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.16
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: ordonnancement des données pour leur stockage et leur transmission dans
+    lequel la part de poids fort d'une donnée représentée sur plusieurs octets est
+    stockée à l'adresse la plus faible et transmise en premier
+  examples: []
+  id: 811-37-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: big-endian
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: gros-boutiste
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 745a6db3-ce40-5eb9-9b45-2c8ba83f3ddb
+status: valid

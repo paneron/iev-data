@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the basic standardized ISDN user-network interface structure comprising
+    two B-channels and one D-channel
+  examples: []
+  id: 716-04-12
+  language_code: eng
+  notes:
+  - The digit rate of the D-channel in this interface structure is 16 kbit/s.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: basic (rate) access
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 9af07321-aea9-564b-92eb-8cc829646fbb
+status: valid

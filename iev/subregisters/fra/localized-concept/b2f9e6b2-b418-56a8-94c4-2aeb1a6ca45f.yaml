@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.20
+      link: https://webstore.iec.ch/publication/22781
+      original: IEC 62279:2015, 3.1.20
+      ref: IEC 62279:2015
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: système de commande informatisé, doté d'une mémoire programmable par
+    l'utilisateur pour le stockage des instructions, pour réaliser des fonctions spécifiques
+  examples: []
+  id: 821-12-41
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrôleur logique programmable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PLC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b2f9e6b2-b418-56a8-94c4-2aeb1a6ca45f
+status: valid

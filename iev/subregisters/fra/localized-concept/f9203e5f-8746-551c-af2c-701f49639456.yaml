@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: définition 324
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 324, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: quotient de la densité de courant de neutrons pour une énergie déterminée,
+    par le gradient négatif du flux de neutrons pour la même énergie dans la direction
+    de ce courant
+  examples: []
+  id: 395-01-19
+  language_code: fra
+  notes:
+  - Cette grandeur s'exprime en mètres (m).
+  - Cet article était numéroté 393-14-31 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de diffusion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour le flux de neutrons
+dateAccepted: 2018-11-17
+id: f9203e5f-8746-551c-af2c-701f49639456
+status: valid

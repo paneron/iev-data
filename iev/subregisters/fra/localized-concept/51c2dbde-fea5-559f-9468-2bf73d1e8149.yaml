@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 191-12-09
+      original: 191-12-09
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2002-01-01
+  definition: espérance mathématique de la durée de bon fonctionnement
+  examples: []
+  id: 444-07-06
+  language_code: fra
+  notes: []
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moyenne de temps de bon fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MTBF
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 51c2dbde-fea5-559f-9468-2bf73d1e8149
+status: valid

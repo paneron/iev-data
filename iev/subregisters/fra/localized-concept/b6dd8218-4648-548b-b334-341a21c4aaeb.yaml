@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour `n` ensembles donnés `A_1 , A_2 , cdots , A_n`, ensemble dont les
+    éléments sont les multiplets ordonnés (`a_1 , a_2 , cdots , a_n`) d'éléments `a_1
+    in A_1 , a_2 in A_2 , cdots , a_n in A_n`
+  examples: []
+  id: 102-01-06
+  language_code: fra
+  notes:
+  - Le produit cartésien des ensembles `A_1 , A_2 , cdots , A_n` est noté `A_1 xx
+    A_2 xx cdots xx A_n`. Le produit cartésien de l'ensemble `A` par lui-même `n`
+    fois est noté `An`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit cartésien
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b6dd8218-4648-548b-b334-341a21c4aaeb
+status: valid

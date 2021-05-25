@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1006
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1006, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: 'quantity such as: `ρ` = 1 – (1/ `k`~eff~) where `k`~eff~ is the effective
+    multiplication factor'
+  examples: []
+  id: 395-07-07
+  language_code: eng
+  notes:
+  - The parameter `ρ` gives the deviation from criticality of a nuclear chain reacting
+    medium which is such that positive values correspond to a supercritical state
+    and negative values to a subcritical state.
+  - This entry was numbered 393-15-42 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reactivity
+    normative_status: preferred
+    type: expression
+  - designation: '`ρ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: bf58c753-2673-51db-bcbe-dfeec0563578
+status: valid

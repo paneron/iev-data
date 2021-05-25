@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 13-40
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-40, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: quotient of the {{character mean transinformation content, IEV:171-07-30}}
+    `T`^′^ by the mean duration of a pair of input and output characters `T`^*^ =
+    `T`^′^/`t`(`X`,`Y`) where `X` = {`x`~1~, …, `x`~`n`~} is the set of input characters
+    `xi` (`i` = 1, …, `n`), `Y` = {`y`~1~, …, `y`~`m`~} is the set of output characters
+    `yj` (`j` = 1, …, `m`) and `t ( X , Y ) = sum_((i = 1))^n sum_((j = 1))^m p (
+    x_i , y_j ) * t ( x_i , y_j )` is the mean value of the duration `t`(`xi`,`yj`)
+    of the pair of characters (`xi`,`yj`) which occurs with joint probability `p`(`xi`,`yj`).
+  examples: []
+  id: 171-07-31
+  language_code: eng
+  notes:
+  - The average transinformation rate can be expressed in a unit such as the shannon
+    per character and second.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: average transinformation rate
+    normative_status: preferred
+    type: expression
+  - designation: '`T`^*^'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: bbcc85d3-e36f-5cb0-9949-b640dd9e88ba
+status: valid

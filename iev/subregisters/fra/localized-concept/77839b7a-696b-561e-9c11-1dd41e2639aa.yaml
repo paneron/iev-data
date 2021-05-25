@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      link: https://webstore.iec.ch/publication/7248
+      original: IEC 62606:2013, 3.4
+      ref: IEC 62606:2013
+      relationship:
+        type: identical
+  definition: partie du dispositif pour la détection d'arcs qui prend en charge la
+    détection et la discrimination des défauts d'arc dangereux à la terre en série
+    et en parallèle ainsi que le démarrage du dispositif qui coupe le courant
+  examples: []
+  id: 442-05-68
+  language_code: fra
+  notes:
+  - La coupure du courant peut être obtenue - au moyen d’un système d’ouverture;-
+    au moyen d’un dispositif de protection équipé d’un module PDA;- au moyen d’un
+    dispositif de protection assemblé à un module PDA.
+  reviewDecisionEvent: published
+  terms:
+  - designation: module pour la détection d’arcs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: module PDA
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 77839b7a-696b-561e-9c11-1dd41e2639aa
+status: valid

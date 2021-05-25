@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: quotient de d`H` par d`t`, où d`H` est l'accroissement de l'équivalent
+    de dose pendant l'intervalle de temps d`H` `overset(˙)(H) = ((d H))/((d t))`
+  examples: []
+  id: 881-14-02
+  language_code: fra
+  notes:
+  - 'L''unité SI de débit d''équivalent de dose est le joule par kilogramme et par
+    seconde, dont le nom est le sievert par seconde; les sous-multiples tels que μSv
+    • h^−1^ sont utilisés en pratique. Le rem par seconde (ou ses sous-multiples)
+    peuvent être utilisés temporairement.
+
+
+    1 Sv • s^−1^ = 100 rem • s^−1^ = 1 J • kg^−1^ • s^−1^'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit d'équivalent de dose
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: a8802f6f-9be8-5787-abab-282ef1677c9c
+status: valid

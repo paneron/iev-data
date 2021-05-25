@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      original: Guide CEI 109:2012, 3.1
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: phase du {{cycle de vie, IEV:901-07-12}} d'un produit débutant lorsqu'il
+    est définitivement retiré de sa phase d'{{utilisation prévue, IEV:903-01-13}}
+    [CEI 62075:2008, définition 3.4, modifiée]
+  examples: []
+  id: 901-07-15
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: fin de vie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: EOL
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 700645b4-104f-520d-b5a6-ca6a0eab5010
+status: valid

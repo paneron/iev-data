@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: 'module `A`(`t`) d''un {{signal analytique, IEV:702-04-52}} correspondant
+    au signal réel `f`(`t`), mis sous la forme: `f` (`t`) + j `g` (`t`) = `A` (`t`)
+    e^j`φ`(`t`)^'
+  examples: []
+  id: 702-04-54
+  language_code: fra
+  notes:
+  - Pour un modulat représenté par `E`(`t`)cos[2`πft` + `θ`(`τ`)] où `f` est suffisamment
+    grand par rapport à la fréquence la plus élevée des composantes spectrales significatives
+    du signal modulant, l'enveloppe est représentée approximativement par la courbe
+    `y` = ± `E`(`t`).
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un signal
+  - designation: enveloppe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un signal
+dateAccepted: 1992-03-01
+id: 38046205-a564-5265-8556-417282a674d5
+status: valid

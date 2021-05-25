@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: somme des {{durées de coupure équivalentes à la pointe, IEV:692-11-03}}
+    pendant un intervalle de temps donné
+  examples: []
+  id: 692-11-04
+  language_code: fra
+  notes:
+  - Si l’{{espérance d’énergie non fournie, IEV:692-11-01}} est exprimée en mégawatts
+    minutes et la puissance de pointe annuelle en mégawatts, cet indice est souvent
+    désigné en anglais par le terme "aggregate system-minutes".
+  - Cet article portait le numéro 191-30-04 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée de coupure équivalente à la pointe cumulée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: e03ed9d5-189f-59b4-b3af-bf2e033e869d
+status: valid

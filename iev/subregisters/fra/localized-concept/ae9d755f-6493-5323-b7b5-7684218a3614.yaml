@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une réaction chimique donnée `α`A + `β`B + … ↔ `σ`S + `τ`T + …,
+    grandeur donnée par `r = (1)/(alpha) ((d c ( A )))/((d t)) = (1)/(beta) ((d c
+    ( B )))/((d t)) = (1)/(sigma) ((d c ( S )))/((d t)) = (1)/(tau) ((d c ( T )))/((d
+    t))` où A, B,... désignent les réactifs, S, T,... désignent les produits, −`α`,
+    −`β`, …, `σ`, `τ`, … sont les nombres stœchiométriques correspondants, et `c`(A),
+    `c`(B), …, `c`(S), `c`(T), … sont respectivement les concentrations en quantité
+    de matière de A, B, ... S, T, ...
+  examples: []
+  id: 114-02-02
+  language_code: fra
+  notes:
+  - L’unité SI cohérente de vitesse de réaction est la mole par mètre cube seconde,
+    mol m^−3^ s^−1^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de réaction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ae9d755f-6493-5323-b7b5-7684218a3614
+status: valid

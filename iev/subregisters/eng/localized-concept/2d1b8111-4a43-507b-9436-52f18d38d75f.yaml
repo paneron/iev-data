@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: 'a method of justification in which the digit time-slots used to convey
+    a digital signal have a digit rate that is always higher than the digit rate of
+    the original signal, and in which at each justification instant, depending on
+    the prevailing conditions, either: a) no digit of the original signal is transmitted
+    but, instead, a justifying digit is transmitted in the justifiable digit time-slot,
+    or b) one digit of the original signal is transmitted in the justifiable digit
+    time-slot, with these two alternative justification states being indicated by
+    unique signals formed from justification service digits'
+  examples: []
+  id: 704-21-06
+  language_code: eng
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: positive justification
+    normative_status: preferred
+    type: expression
+  - designation: positive pulse stuffing
+    type: expression
+dateAccepted: 1993-08-01
+id: 2d1b8111-4a43-507b-9436-52f18d38d75f
+status: valid

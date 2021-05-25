@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: function representing the spectral dependence of the ability of <a href="IEV845-21-008">ultraviolet
+    radiation</a> to produce just perceptible <a href="IEV845-26-028">actinic erythema</a>
+    in human skin
+  examples: []
+  id: 845-26-065
+  language_code: eng
+  notes: []
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: erythema spectral weighting function
+    normative_status: preferred
+    type: expression
+  - designation: erythema action spectrum
+    type: expression
+  - designation: '`s`~er~(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: c06842d2-6f37-557d-b728-5d25dba9070c
+status: valid

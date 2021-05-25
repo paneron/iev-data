@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: capacité mesurée à une fréquence très supérieure à toute résonance importante
+  examples: []
+  id: 561-01-08
+  language_code: fra
+  notes:
+  - En pratique, la valeur de la capacité est souvent indirectement déterminée, parce
+    qu’une mesure directe étant affectée par la présence de facteurs tels que l’inductance
+    de la connexion.
+  - Cet article était numéroté 561-02-35 dans l'IEC 60050-561:1991
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité effective sous contrainte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un résonateur piézoélectrique
+dateAccepted: 2018-11-17
+id: 93c2f276-9ad7-58b3-89a5-fdbd65b72710
+status: valid

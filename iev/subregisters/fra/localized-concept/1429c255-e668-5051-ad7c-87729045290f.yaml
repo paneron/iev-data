@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: circuit électrique présentant les mêmes caractéristiques qu'un résonateur
+    piézoélectrique au voisinage immédiat d'une résonance
+  examples:
+  - 'Un résonateur piézoélectrique monoporte (voir la Figure 2) comprend des éléments
+    de série `L`~1~, `C`~1~, `R`~1~ en parallèle avec `C`~0~ où `L`~1~, `C`~1~, `R`~1~
+    représentent l’inductance, la capacité et la résistance dynamiques et `C`~0~ la
+    capacité parallèle. Le circuit de la Figure 2 présente la même impédance qu’un
+    résonateur piézoélectrique dans le voisinage de la résonance.
+
+
+    image::/assets/images/parts/561/561-fig2-fr.png[]
+
+
+    *Figure 2 – Circuit équivalent d’un vibrateur piézoélectrique (résonateur monoporte)*'
+  id: 561-01-24
+  language_code: fra
+  notes:
+  - Cet article était numéroté 561-02-07 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit équivalent
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un résonateur piézoélectrique
+dateAccepted: 2018-11-17
+id: 1429c255-e668-5051-ad7c-87729045290f
+status: valid

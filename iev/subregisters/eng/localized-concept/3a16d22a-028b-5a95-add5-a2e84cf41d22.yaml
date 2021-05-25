@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: sampling of a picture where the points on the scanning lines corresponding
+    to the sampling instants are aligned in the picture perpendicularly to the scanning
+    line direction
+  examples: []
+  id: 723-10-24
+  language_code: eng
+  notes:
+  - In the case of progressive scanning, the points in a scanning line are aligned
+    with those points in the temporally adjacent lines of the same field; in the case
+    of interlaced scanning, the points in a scanning line are aligned with those points
+    in the spatially adjacent lines of the preceding field.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: orthogonal sampling
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 3a16d22a-028b-5a95-add5-a2e84cf41d22
+status: valid

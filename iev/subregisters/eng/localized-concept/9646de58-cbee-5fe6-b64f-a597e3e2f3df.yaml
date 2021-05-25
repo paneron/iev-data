@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{all-or-nothing relay, IEV:444-01-02}} that assists a {{measuring
+    relay, IEV:447-01-02}} in performing its function Note 1 to entry: All-or-nothing
+    relay is defined in {{IEV 444-01-02, IEV:444-01-02}}, which is either an {{"elementary
+    relay", IEV:444-01-03}} or a {{"time relay", IEV:445-01-01}}.'
+  examples: []
+  id: 447-01-46
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: auxiliary relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 9646de58-cbee-5fe6-b64f-a597e3e2f3df
+status: valid

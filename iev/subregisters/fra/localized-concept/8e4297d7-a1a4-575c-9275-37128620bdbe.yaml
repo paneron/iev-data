@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{intervalle, IEV:103-01-12}} d''une {{grandeur d''alimentation d''entrée,
+    IEV:447-03-02}} d''un relais ou de sa {{grandeur caractéristique, IEV:447-07-01}},
+    à l''intérieur de laquelle les exigences relatives à la {{précision, IEV:447-08-16}}
+    sont remplies Note 1 à l''article: Le domaine de précision est une partie du {{domaine
+    de fonctionnement, IEV:447-03-16}}.'
+  examples: []
+  id: 447-07-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: domaine de précision
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8e4297d7-a1a4-575c-9275-37128620bdbe
+status: valid

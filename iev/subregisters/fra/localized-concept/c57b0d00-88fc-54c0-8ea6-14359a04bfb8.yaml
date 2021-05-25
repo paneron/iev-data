@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: méthode qualitative d'analyse qui consiste à étudier les modes de défaillance
+    possibles et les pannes dans les sous-entités, ainsi que leurs effets à divers
+    niveaux dans l'arborescence
+  examples: []
+  id: 192-11-05
+  language_code: fra
+  notes:
+  - Le terme «analyse des modes de panne et de leurs effets» de l’IEC 60050-191:1990
+    (supprimée; remplacée par l'IEC 60050-192:2015) est déconseillé, parce qu’une
+    panne ({{192-04-01, IEV:192-04-01}}) est un état et ne peut pas logiquement comporter
+    un mode, alors qu’un mode de défaillance ({{192-03-17, IEV:192-03-17}}) est un
+    changement d’état.
+  reviewDecisionEvent: published
+  terms:
+  - designation: analyse des modes de défaillance et de leurs effets
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: AMDE
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: analyse des modes de panne et de leurs effets
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c57b0d00-88fc-54c0-8ea6-14359a04bfb8
+status: valid

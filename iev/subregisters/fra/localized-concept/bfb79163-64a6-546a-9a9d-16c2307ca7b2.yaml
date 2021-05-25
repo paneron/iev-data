@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: puissance globale consommée par l'appareillage de commande et la ou
+    les sources de lumière combinés, lorsque l'appareillage fonctionne à sa tension
+    et à sa {{fréquence, IEV:103-06-02}} d'alimentation assignées avec la charge de
+    sortie assignée la plus élevée
+  examples: []
+  id: 845-27-123
+  language_code: fra
+  notes:
+  - La puissance globale d'un circuit est exprimée généralement en watt (W).
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance globale d'un circuit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bfb79163-64a6-546a-9a9d-16c2307ca7b2
+status: valid

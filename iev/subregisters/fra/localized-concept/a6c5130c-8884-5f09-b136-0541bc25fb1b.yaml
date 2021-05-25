@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 151-11-28
+      link: https://webstore.iec.ch/publication/176
+      original: CEI 60050-151:2001, 151-11-28, modifiée – La définition a été rendue
+        plus spécifique aux activités de travaux sous tension.
+      ref: IEC 60050-151:2001
+      relationship:
+        modification: La définition a été rendue plus spécifique aux activités de
+          travaux sous tension.
+        type: modified
+  definition: ensemble des activités, y compris les travaux, nécessaires pour permettre
+    le fonctionnement d'une {{installation électrique, IEV:651-26-01}}
+  examples: []
+  id: 651-26-02
+  language_code: fra
+  notes:
+  - L’exploitation couvre des activités telles que manœuvres, commande, surveillance
+    et entretien ainsi que le travail électrique et non-électrique.
+  - 'Cet article était numéroté 651-01-05 dans la CEI 60050-651:1999. Il a été modifié
+    comme suit: la référence à la CEI 60050-151 a été ajoutée.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: exploitation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a6c5130c-8884-5f09-b136-0541bc25fb1b
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.41
+      link: https://webstore.iec.ch/publication/5402
+      original: IEC 61375-3-1:2012, 3.1.41
+      ref: IEC 61375-3-1:2012
+      relationship:
+        type: identical
+  definition: séquence de signaux incluant des symboles de violation de code (ni "1"
+    ni "0") qui est utilisée pour délimiter le début (délimiteur de début) et la fin
+    (délimiteur de fin) de trame
+  examples: []
+  id: 811-37-28
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: délimiteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c34444c8-23ea-5137-aa6f-fe0452da9f66
+status: valid

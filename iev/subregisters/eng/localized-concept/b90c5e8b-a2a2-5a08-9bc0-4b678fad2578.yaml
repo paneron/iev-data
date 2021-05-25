@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: duration between the instant when the {{characteristic quantity, IEV:447-07-01}}
+    of a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    in {{operate condition, IEV:447-02-01}} is changed beyond its {{disengage value,
+    IEV:447-02-18}}, under specified conditions, and the instant when a specified
+    {{output break circuit, IEV:447-04-09}} first closes
+  examples: []
+  id: 447-05-04
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: closing time of an output break circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: b90c5e8b-a2a2-5a08-9bc0-4b678fad2578
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: See {{IEV 702-05-08, IEV:702-05-08}}
+  examples: []
+  id: 721-02-13
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: triplet
+    normative_status: preferred
+    type: expression
+  - designation: 3-bit byte
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+  - designation: triplet byte
+    normative_status: admitted
+    type: expression
+  - designation: tribit
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2018-09-01
+id: b8e81726-a309-5016-99a9-f1c515853a2c
+status: valid

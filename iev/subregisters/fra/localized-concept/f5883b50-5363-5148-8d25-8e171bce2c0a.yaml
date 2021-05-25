@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: pour un point matériel et un point origine donné, grandeur vectorielle
+    axiale égale au produit vectoriel du rayon vecteur *`r`* et de la quantité de
+    mouvement *`p`*, soit *`L`* = *`r`* × *`p`*
+  examples: []
+  id: 113-03-22
+  language_code: fra
+  notes:
+  - 1 Pour un corps continu, le moment cinétique est égal à l'intégrale *`L`* = ∫
+    *`r`* × `v` d`m` = ∫ (*`r`* × `v`)`ρ` d`V`, où `ρ` est la masse volumique dans
+    un domaine de masse d`m` et de volume d`V` quasi-infinitésimaux, de rayon vecteur
+    *`r`* et de vitesse *`v`*. Pour un système de particules, il est égal à la somme
+    de leurs moments cinétiques.
+  - 2 Un corps dont le moment d'inertie autour d'un axe `z` est `J`~`z`~ et qui tourne
+    autour de cet axe avec une vitesse angulaire `ω`~`z`~ a un moment cinétique `L`~`z`~
+    = `J`~`z`~`ω`~`z`~.
+  - 3 L'unité SI cohérente de moment cinétique est le kilogramme mètre carré par seconde,
+    kg·m^2^/s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moment cinétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: f5883b50-5363-5148-8d25-8e171bce2c0a
+status: valid

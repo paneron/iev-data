@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'matrice qui, pour un système linéaire, décrit comment les variables
+    de sortie dépendent des variables d''état VOIR: {{351-41-08, IEV:351-41-08}} et
+    la Figure 3.'
+  examples: []
+  id: 351-42-04
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-21-16 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig3.png[Figure 3 - Linear transfer system
+    with state variables; Système de transfert linéaire avec variables d''état]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice de sortie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 8401b8ea-4d74-566e-88df-9165142f0f82
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - original: EN 13306
+      ref: EN 13306
+      relationship:
+        type: identical
+  dateAmended: 2015-02-01
+  definition: position in an organization where specified levels of maintenance are
+    to be carried out
+  examples:
+  - 1^st^ line – field; 2^nd^ line – repair shop; and 3^rd^ line – manufacturer’s
+    facility.
+  id: 192-06-03
+  language_code: eng
+  notes:
+  - The line of maintenance is characterized by the level of skill of the personnel,
+    the facilities provided, the location, etc.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: line of maintenance
+    normative_status: preferred
+    type: expression
+  - designation: maintenance echelon
+    type: expression
+dateAccepted: 2015-02-01
+id: 561aac6e-90f4-53c5-aca3-73ef1bcc238c
+status: valid

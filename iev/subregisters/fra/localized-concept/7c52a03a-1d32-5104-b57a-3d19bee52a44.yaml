@@ -1,0 +1,82 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique de longueur d'onde `λ`~m~ par le flux de
+    longueur d'onde `λ`, les deux flux produisant des sensations lumineuses également
+    intenses pour une condition photométrique spécifiée et `λ`~m~ étant choisi de
+    façon que la valeur maximale de ce quotient soit égale à 1
+  examples: []
+  id: 845-21-035
+  language_code: fra
+  notes:
+  - L'efficacité lumineuse relative spectrale de l'œil humain dépend de nombreux facteurs,
+    notamment l'état d'adaptation visuelle, ainsi que la taille et la position de
+    la source dans le champ visuel. Il convient de spécifier la condition photométrique
+    (par exemple, photopique, scotopique, mésopique). En l'absence de spécification,
+    une vision photopique est définie par hypothèse et le symbole `V`(`λ`) est utilisé.
+    Les valeurs de la fonction `V`(`λ`) ont fait l'objet d'un accord international
+    en 1924 par la CIE (_Compte Rendu 6e session_, p. 67), ont été complétées par
+    interpolation et extrapolation &amp;lsqb;ISO 23539:2005(F)/CIE S 010/E:2004, _Photométrie
+    – Le système CIE de photométrie physique_&amp;rsqb;, et recommandées par le Comité
+    International des Poids et Mesures (CIPM) en 1972.
+  - Pour la vision scotopique, le symbole `V`′(`λ`) est utilisé. Les valeurs de la
+    fonction `V`′(`λ`) ont été adoptées par la CIE en 1951, publiées dans le _Compte
+    Rendu 12e session, Vol. 3_, p. 37 et dans l'ISO 23539:2005(F)/CIE S 010/E:2004,
+    _Photométrie – Le système CIE de photométrie physique_, et sanctionnées par le
+    CIPM en 1976.
+  - Pour la vision mésopique, la fonction d'efficacité lumineuse relative spectrale
+    est désignée par `V`~mes;~`m`(`λ`), où `m` est un coefficient déterminé par le
+    niveau d'adaptation visuelle. Les valeurs de la fonction `V`~mes;~`m`(`λ`) aux
+    valeurs représentatives de `m` sont données dans la CIE 191:2010, _Recommended
+    System for Mesopic Photometry based on Visual Performance._
+  - 'La fonction `V`(`λ`) s''applique à tous les niveaux de luminance pour des conditions
+    fovéales, c''est-à-dire pour toutes les tâches visuelles axiales (avec lesquelles
+    les objets observés par l''œil se situent dans un champ de vision étroit). Pour
+    les tâches visuelles qui ne sont pas axiales, les spécifications suivantes sont
+    indiquées par la CIE 191:2010, _Recommended System for Mesopic Photometry based
+    on Visual Performance_: Les grandeurs photométriques scotopiques s''appliquent
+    à la condition dans laquelle l''œil est adapté à une luminance moyenne &lt; 0,005
+    cd·m^−2^; les grandeurs photométriques mésopiques s''appliquent à la condition
+    dans laquelle l''œil est adapté aux niveaux de luminance moyenne compris entre
+    0,005 cd·m^−2^ et 5 cd·m^−2^; et les grandeurs photométriques photopiques s''appliquent
+    à la condition dans laquelle l''œil est adapté à une luminance moyenne supérieure
+    à 5 cd·m^−2^.'
+  - Compte tenu de la variation de la fonction d'efficacité lumineuse relative spectrale
+    de l'œil humain avec l'angle visuel, la CIE a adopté en 2005 l'"observateur photométrique
+    photopique de 10° CIE", `V`~10~(`λ`), et a recommandé son utilisation dans les
+    situations dans lesquelles l'œil est entièrement adapté à la lumière et pour lesquelles
+    l'étendue angulaire de la cible visuelle est supérieure à 4° ou est observée hors
+    axe (voir CIE 165:2005, _CIE 10 Degree Photopic Photometric Observer_).
+  - Compte tenu des divergences entre l'efficacité lumineuse relative spectrale moyenne
+    de l'œil humain et la fonction `V`(`λ`) la CIE a adopté en 1990 la "fonction d'efficacité
+    lumineuse spectrale de 2° pour vision photopique (CIE 1988 modifiée)", `V`~M~(`λ`),
+    et a recommandé son utilisation pour des applications dans le domaine des sciences
+    visuelles (voir CIE 86-1990, _CIE 1988 2° Spectral Luminous Efficiency Function
+    for Photopic Vision_).
+  - 'Les grandeurs photométriques sont calculées par intégration du produit de la
+    grandeur radiométrique par la fonction d''efficacité lumineuse relative spectrale,
+    puis en le multipliant par la valeur maximale de la fonction d''efficacité lumineuse
+    relative spectrale indiquée, l''intégrale étant prise sur le spectre complet de
+    <a href="IEV845-21-002">rayonnement optique</a>. Par exemple, pour l''observateur
+    de référence CIE pour la vision photopique, le flux lumineux d''une source avec
+    le flux énergétique spectral `Φ`~e,~`λ`(`λ`) est exprimé par
+
+
+    `Phi_v = K_m int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    où `K`~m~ ≈ 683 lm·W^−1^ (voir aussi "<a href="IEV845-21-092">efficacité lumineuse
+    maximale</a>")'
+  - L'unité d'efficacité lumineuse relative spectrale est un.
+  - Cet article était numéroté 845-01-22 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: efficacité lumineuse relative spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour une condition photométrique spécifiée
+dateAccepted: 2018-11-17
+id: 7c52a03a-1d32-5104-b57a-3d19bee52a44
+status: valid

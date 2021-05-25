@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: duration of the time interval between the instant of initial start-up
+    of a {{fuel cell power system, IEV:485-09-01}} and the initial instant when the
+    concentration of non-reformed fuel at the {{reformer, IEV:485-07-03}} outlet exceeds
+    the manufacturer's allowable design value, while the fuel cell power system is
+    operating at its {{ratings, IEV:151-16-11}}
+  examples: []
+  id: 485-16-01
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reformer catalyst life
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 6b7e38c1-0e85-5afe-a288-46511b6f1310
+status: valid

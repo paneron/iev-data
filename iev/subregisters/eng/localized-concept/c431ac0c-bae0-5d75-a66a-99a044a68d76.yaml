@@ -1,0 +1,47 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: 'quantity representing the quantities in a finite set or in an interval,
+    . for `n` quantities `x_1 , x_2 , ... x_n`, by the quotient of the sum of the
+    quantities by `n`: `bar X = (1)/(n) ( x_1 + x_2 + ... + x_n )` . for a quantity
+    `x` depending on a variable `t`, by the integral of the quantity taken between
+    two given values of the variable, divided by the difference of the two values:
+    `bar X = (1)/((t_2 - t_1)) int_( t_1)^( t_2) x ( t ) d t`'
+  examples: []
+  id: 103-02-01
+  language_code: eng
+  notes:
+  - The mean value of a periodic quantity is usually taken over an integration interval
+    the range of which is the period multiplied by a natural number.
+  - The mean value of the quantity `x` may be denoted by `bar X`, by 〈`X`〉, or by
+    `X`~a~. Subscripts ar, av and moy are also used.
+  - The adjective "arithmetic" is only used to qualify the terms "mean" and "average"
+    in order to distinguish them from the terms "geometric mean" and "geometric average",
+    as well from "harmonic mean" and "harmonic average".
+  - The mean value can be generalized for a function of `n` variables, e.g. with a
+    surface integral or an integral over a three-dimensional domain divided by the
+    corresponding area or volume. See the examples in IEC 60050-102.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean value
+    normative_status: preferred
+    type: expression
+  - designation: mean
+    normative_status: preferred
+    type: expression
+  - designation: arithmetic mean
+    normative_status: preferred
+    type: expression
+  - designation: average
+    normative_status: preferred
+    type: expression
+  - designation: arithmetic average
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: c431ac0c-bae0-5d75-a66a-99a044a68d76
+status: valid

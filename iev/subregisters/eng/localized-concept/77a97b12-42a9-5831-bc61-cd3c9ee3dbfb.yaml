@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - original: 701-02 09 MOD
+      ref: 701-02 09 MOD
+      relationship:
+        type: modified
+  dateAmended: 1996-12-01
+  definition: a link between equipment in a subscriber's premises and a serving connection
+    exchange, including the terminating equipments
+  examples: []
+  id: 715-08-12
+  language_code: eng
+  notes: []
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: connection line
+    normative_status: preferred
+    type: expression
+  - designation: access line
+    type: expression
+  - designation: subscriber's line
+    type: expression
+  - designation: subscriber's loop
+    type: expression
+dateAccepted: 1996-12-01
+id: 77a97b12-42a9-5831-bc61-cd3c9ee3dbfb
+status: valid

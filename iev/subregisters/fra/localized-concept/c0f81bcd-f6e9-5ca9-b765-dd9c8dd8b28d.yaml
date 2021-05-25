@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-08-01
+  definition: plan contenant le centre de masse du corps principal et le vecteur vitesse
+    d'un satellite, le système de référence étant le système spécifié pour définir
+    les éléments orbitaux
+  examples: []
+  id: 725-11-11
+  language_code: fra
+  notes:
+  - Dans le cas d'une orbite non perturbée, le plan de l'orbite est fixe dans le système
+    de référence dont le centre est le centre de masse du corps principal et dont
+    les axes ont des directions fixes par rapport aux étoiles.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: plan de l'orbite
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-08-01
+id: c0f81bcd-f6e9-5ca9-b765-dd9c8dd8b28d
+status: valid

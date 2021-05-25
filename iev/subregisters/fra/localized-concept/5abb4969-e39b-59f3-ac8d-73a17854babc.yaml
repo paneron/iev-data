@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1996-12-01
+  definition: durée de l'intervalle de temps compris entre l'établissement d'une chaîne
+    de connexion entre les usagers demandeur et demandé, et la détection du signal
+    de réponse au commutateur de départ
+  examples: []
+  id: 715-04-07
+  language_code: fra
+  notes: []
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: délai du signal de réponse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée de sonnerie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 5abb4969-e39b-59f3-ac8d-73a17854babc
+status: valid

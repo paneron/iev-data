@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: time interval, with the equipment in a warmed up condition, between
+    the time when an instantaneous change between clean air and the standard test
+    gas, or vice versa, is produced at the equipment inlet, and the time when the
+    response reaches a stated percentage (`x`) of the stabilized signal on the standard
+    test gas
+  examples: []
+  id: 426-24-67
+  language_code: eng
+  notes:
+  - The time of response is not applicable to spot-reading equipment.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time of response
+    normative_status: preferred
+    type: expression
+    usage_info: gas detection
+  - designation: '`t`(`x`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: 116a3d48-305d-5b81-89be-e3da3560dad7
+status: valid

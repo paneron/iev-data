@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: definition 870
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 870, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+    - original: ICRU Report 60
+      ref: ICRU Report 60
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: quotient of d`N/`d`a`, where d`N` is the number of particles incident
+    on a cross-sectional area d`a`
+  examples: []
+  id: 395-01-15
+  language_code: eng
+  notes:
+  - The numerical value of particle fluence is the same as the numerical value of
+    the time integral of the particle flux.
+  - Normally the use of the term particle refers to a specific elementary particle,
+    for example neutron fluence. This quantity is expressed in particles divided by
+    area (m^−2^, cm^−2^).
+  - This entry was numbered 393-14-25 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: particle fluence
+    normative_status: preferred
+    type: expression
+  - designation: '`Φ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 01f0fb29-9c66-5775-ae18-98bb06390a1a
+status: valid

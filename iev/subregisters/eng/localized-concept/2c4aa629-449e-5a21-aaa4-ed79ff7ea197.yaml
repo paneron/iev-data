@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'a dimensionless complex scalar quantity `n`, characteristic of a medium
+    at a given point and in a given direction, when there can exist in the medium
+    a sinusoidal electromagnetic wave whose wave vector `vec underset(_)(K)` has colinear
+    real and imaginary parts `vec K^( '' )` and `vec K^( ″ )`, in the given direction;
+    this quantity is defined by the equation: `vec underset(_)(K) = vec K^( '' ) +
+    j vec K^( ″ ) = underset(_)(n) (omega)/((c_0)) vec u` where `ω` is the angular
+    frequency, `c`~0~ is the velocity of propagation of electromagnetic waves in vacuum
+    and `vec u` is the unit vector in the given direction'
+  examples: []
+  id: 705-03-20
+  language_code: eng
+  notes:
+  - For an isotropic medium, the complex refractive index is the square root of the
+    product of the relative complex permittivity and the relative complex permeability.
+  - For each direction in an anisotropic medium, there are generally two distinct
+    wave vectors and two values of the complex refractive index.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex refractive index (in a given direction)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 2c4aa629-449e-5a21-aaa4-ed79ff7ea197
+status: valid

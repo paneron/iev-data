@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.116
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.116
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: répertoire de correspondance entre l'adresse de nœud et l'adresse de
+    dispositif (correspondance biunivoque sur le bus de train filaire)
+  examples: []
+  id: 811-37-77
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: répertoire de nœud
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: table de noeud
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b3fe5700-fa44-5af1-8ba4-1c438e2b8fea
+status: valid

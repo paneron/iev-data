@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: '{{angle modulation, IEV:702-06-30}} in which each {{significant condition,
+    IEV:702-05-21}} of a modulating {{discretely timed signal, IEV:702-04-04}} is
+    represented by one of a specified set of discrete values of the frequency of the
+    {{modulated signal, IEV:702-06-05}}'
+  examples: []
+  id: 702-06-47
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency shift keying
+    normative_status: preferred
+    type: expression
+  - designation: FSK
+    normative_status: preferred
+    type: expression
+  - designation: frequency shift modulation
+    normative_status: admitted
+    type: expression
+  - designation: shift signalling
+    normative_status: admitted
+    type: expression
+dateAccepted: 2018-09-01
+id: 784e4cc7-364a-5bec-a0fa-8bdb4bd3702c
+status: valid

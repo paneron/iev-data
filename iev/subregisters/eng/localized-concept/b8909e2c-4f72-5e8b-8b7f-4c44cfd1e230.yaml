@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: monthly average of the spectral density of the solar noise flux, measured
+    at the surface of the Earth at a frequency of approximately 2800 MHz, expressed
+    as a multiple of 10^-22^ watt per square metre per hertz
+  examples: []
+  id: 705-07-88
+  language_code: eng
+  notes:
+  - By convention, the measurements used are the observations made each day in Ottawa
+    at 17:00 UTC.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: monthly mean solar radio-noise flux
+    normative_status: preferred
+    type: expression
+  - designation: 'symbole: Φ'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: b8909e2c-4f72-5e8b-8b7f-4c44cfd1e230
+status: valid

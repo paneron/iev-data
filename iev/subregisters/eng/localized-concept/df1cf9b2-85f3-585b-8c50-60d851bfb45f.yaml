@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: See {{IEV 702-05-03, IEV:702-05-03}}
+  examples: []
+  id: 721-02-08
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: binary digit
+    normative_status: preferred
+    type: expression
+  - designation: bit
+    normative_status: preferred
+    type: expression
+  - designation: unit element
+    normative_status: deprecated
+    type: expression
+  - designation: unit
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2016-12-01
+id: df1cf9b2-85f3-585b-8c50-60d851bfb45f
+status: valid

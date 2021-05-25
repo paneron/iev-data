@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{indisponibilité, IEV:692-04-02}} pour laquelle l''énergie peut être
+    rétablie sans maintenance corrective image::/assets/images/parts/692/692-fig4-fr.png[Figure
+    4 - Relations entre indisponibilités]'
+  examples: []
+  id: 692-04-10
+  language_code: fra
+  notes:
+  - La durée d’une indisponibilité temporaire est normalement inférieure à cinq minutes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité temporaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 667c20ca-8cec-53a7-b4b8-31cfb586eed9
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.23
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.23, modifié – Dans un souci de cohérence avec
+        la terminologie utilisée dans l'IEV, "signal" remplacé par "<a href=IEV351-41-25>signal
+        numérique</a>"
+      ref: ISO/IEC 20924:2018
+      relationship:
+        modification: Dans un souci de cohérence avec la terminologie utilisée dans
+          l'IEV, "signal" remplacé par "<a href=IEV351-41-25>signal numérique</a>"
+        type: modified
+  definition: limite partagée par deux {{composants fonctionnels, IEV:741-01-19}},
+    définie par différentes {{caractéristiques, IEV:741-01-06}} relevant des fonctions,
+    des interconnexions physiques, des échanges de {{signaux numériques, IEV:351-41-25}},
+    et par d'autres caractéristiques, en tant que de besoin
+  examples: []
+  id: 741-01-23
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: interface
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: Internet des Objets
+dateAccepted: 2018-11-17
+id: dcc49082-9b6f-5e2a-a06d-8a1f0e0d1d8c
+status: valid

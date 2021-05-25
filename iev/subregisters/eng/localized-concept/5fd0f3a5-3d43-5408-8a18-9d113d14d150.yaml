@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: additive vector quantity characterizing external interactions on a particle
+    or body
+  examples: []
+  id: 113-03-14
+  language_code: eng
+  notes:
+  - '1 Forces cause the particle or body to change its momentum *`p`* = `mv` according
+    to the second Newton law: d*`p`*/d`t` = *`F`* (in inertial frame), where *`F`*
+    is the resultant of all acting forces. The equation applies also in the theory
+    of relativity.'
+  - 2 Force may lead to the deformation of the body.
+  - 3 In any inertial frame, a resultant force *`F`* acting on a body with constant
+    mass `m` causes an acceleration *`a`* = *`F`*/`m` of the centre of mass of the
+    body.
+  - 4 The coherent SI unit of force is newton, N.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: force
+    normative_status: preferred
+    type: expression
+  - designation: '*`F`*'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 5fd0f3a5-3d43-5408-8a18-9d113d14d150
+status: valid

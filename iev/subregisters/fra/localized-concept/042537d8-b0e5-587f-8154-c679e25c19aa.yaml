@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur moyenne de l'éclairement lumineux sur la surface courbe extérieure
+    d'une très petite sphère (réelle ou fictive) en un point dans l'espace
+  examples: []
+  id: 845-21-066
+  language_code: fra
+  notes:
+  - 'L''éclairement sphérique peut être exprimé par
+
+
+    `E_((v,o)) = underset((4 pi))( int ) L_v d omega`
+
+
+    où `Ω` est l''angle solide et `L`~v~ est la luminance.'
+  - L'éclairement lumineux sphérique est le quotient du flux lumineux de toute la
+    lumière que reçoit la surface extérieure d'une sphère infiniment petite centrée
+    au point indiqué, par l'aire de la section diamétrique de cette sphère.
+  - Les grandeurs analogues "<a href="IEV845-21-054">éclairement sphérique énergétique</a>"
+    `E`~e,o~, et "<a href="IEV845-21-059">éclairement sphérique énergétique photonique</a>"
+    (également appelé "débit de fluence photonique"), `E`~p,o~, sont définies de manière
+    similaire, en remplaçant la <a href="IEV845-21-050">luminance</a>, `L`~v~, par
+    la <a href="IEV845-21-049">luminance énergétique</a> ou radiance, `L`~e~, et la
+    luminance photonique, `L`~p~, respectivement.
+  - L'éclairement sphérique est exprimé en lux (lx = lm·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement sphérique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 042537d8-b0e5-587f-8154-c679e25c19aa
+status: valid

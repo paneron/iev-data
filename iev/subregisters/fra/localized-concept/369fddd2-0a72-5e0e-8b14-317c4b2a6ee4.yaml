@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-01-01
+  definition: valeur moyenne de la distribution des défaillances exprimée en nombre
+    de manœuvres
+  examples: []
+  id: 444-07-07
+  language_code: fra
+  notes:
+  - Le MTBF~c~ est souvent utilisé à la place du MTBF pour définir l'espérance mathématique
+    du nombre de manœuvres entre deux défaillances consécutives, à la place du temps
+    de bon fonctionnement.
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moyenne des temps de bon fonctionnement relative aux manœuvres
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MTBF~c~
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 369fddd2-0a72-5e0e-8b14-317c4b2a6ee4
+status: valid

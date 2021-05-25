@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: grandeur électrique ou un de ses paramètres dont le nom caractérise
+    un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection, IEV:447-01-49}}
+    et dont les valeurs font l'objet d'exigences relatives à la {{précision, IEV:447-08-16}}
+  examples:
+  - '* Le courant pour un relais à maximum ou à minimum de courant;* la fréquence
+    pour un {{relais de fréquence, IEV:447-01-29}} dont la {{grandeur d''alimentation
+    d''entrée, IEV:447-03-02}} peut être une tension;* la puissance pour un {{relais
+    de puissance, IEV:447-01-42}} dont les grandeurs d''alimentation d''entrée sont
+    le courant et la tension.'
+  id: 447-07-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur caractéristique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 79317fb9-8fdc-5636-8cdd-a71ed599cfd5
+status: valid

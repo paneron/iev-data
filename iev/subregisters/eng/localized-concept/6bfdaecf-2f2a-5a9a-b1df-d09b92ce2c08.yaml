@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: critical current density obtained by a magnetization measurement using
+    a theoretical model (critical state model)
+  examples: []
+  id: 815-12-09
+  language_code: eng
+  notes:
+  - If a material is non-uniform or anisotropic, `J`~cm~ differs from the transport
+    critical current density, `J`~ct~.
+  - '`J`~cm~ takes sometimes smaller values than `J`~ct~ because of the different
+    electric field strength due to the flux creep especially for high temperature
+    superconductors.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetization critical current density
+    normative_status: preferred
+    type: expression
+  - designation: '`J`~cm~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 6bfdaecf-2f2a-5a9a-b1df-d09b92ce2c08
+status: valid

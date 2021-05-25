@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 'fonction complexe dont la {{partie réelle, IEV:102-02-11}} est la fonction
+    réelle du temps `f`(`t`) représentant un signal et la partie imaginaire est la
+    transformée de Hilbert `g`(`t`) de cette fonction `f`(`t`): `f ( t ) + j g ( t
+    ) = f ( t ) - (j)/(pi) int_(- oo)^(+ oo) ((f ( t )))/((tau - t)) d tau`'
+  examples: []
+  id: 702-04-52
+  language_code: fra
+  notes:
+  - La partie réelle `f`(`t`) d'un signal analytique est la transformée de Hilbert
+    changée de signe de la partie imaginaire `g`(`t`).
+  - Si elle existe, la {{transformée de Fourier, IEV:103-04-01}} complexe d'un signal
+    analytique est nulle pour toutes les fréquences négatives de sorte que le signal
+    analytique peut être employé pour représenter un modulat à bande latérale unique.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal analytique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 1d23bba2-32ed-5629-9492-e5b22f914cc1
+status: valid

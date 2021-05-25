@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'pour un espace vectoriel donné, ensemble d''éléments appelés points,
+    pour lesquels un élément `U_((AB))` de l''espace vectoriel est associé à tout
+    couple ordonné de points A et B avec les propriétés suivantes: * pour tout couple
+    de points A et B, `U_((BA)) = - U_((AB))`, * pour tout ensemble de trois points
+    A, B et C, `U_((AB)) + U_((BC)) = U_((AC))`, * pour un point donné O et un vecteur
+    donné *`r`*, il existe un point unique P tel que `U_((OP)) = r`'
+  examples: []
+  id: 102-03-02
+  language_code: fra
+  notes:
+  - Un espace affine et l'espace vectoriel associé ont la même dimension. L'espace
+    affine dérivé de l'espace vectoriel euclidien à trois dimensions est un modèle
+    de l'espace géométrique usuel à trois dimensions.
+  reviewDecisionEvent: published
+  terms:
+  - designation: espace affine
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: espace ponctuel
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 05418725-889b-5621-a002-e51997f53326
+status: valid

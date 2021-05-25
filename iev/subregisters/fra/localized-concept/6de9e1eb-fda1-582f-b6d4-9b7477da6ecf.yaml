@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.10 + NOTE 2
+      original: ≠ VIM 3.10 + NOTE 2
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: différence algébrique entre la valeur indiquée et une valeur de comparaison
+  examples: []
+  id: 311-01-05
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "valeur vraie".
+  - La valeur de comparaison devrait être une valeur vraie de la grandeur, mais étant
+    donné qu’une valeur vraie ne peut pas être déterminée, on utilise en pratique
+    une valeur conventionnellement vraie.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: erreur absolue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 6de9e1eb-fda1-582f-b6d4-9b7477da6ecf
+status: valid

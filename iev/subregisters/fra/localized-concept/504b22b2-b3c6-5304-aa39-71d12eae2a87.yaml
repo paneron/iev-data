@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: pour un élément à action proportionnelle et par dérivation, dont la
+    variable d'entrée et de sortie sont de même type, durée de l'intervalle de temps
+    nécessaire pour que la réponse en rampe atteigne une valeur double de celle obtenue
+    immédiatement après l'application de la rampe
+  examples: []
+  id: 351-50-17
+  language_code: fra
+  notes:
+  - "Le temps de dosage de dérivation est donné par\n\n`T_d = ((K_D))/((K_Ρ))`\n\n\
+    où<table>\r\n<tr>\n<td>\n`K`~D~\n</td>\n<td>est le coefficient d’action par dérivation;</td>\n\
+    </tr>\r\n<tr>\n<td>\n`K`~P~\n</td>\n<td>est le coefficient d’action proportionnelle;</td>\n\
+    </tr>\r\n<tr>\n<td>\n`T`~d~\n</td>\n<td>est le temps de dosage de dérivation.</td>\n\
+    </tr>\r\n</table>"
+  - Cet article était numéroté 351-28-28 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de dosage de dérivation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 504b22b2-b3c6-5304-aa39-71d12eae2a87
+status: valid

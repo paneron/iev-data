@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: maximum differential pressure between the anode and cathode side, specified
+    by the manufacturer, which the fuel cell can withstand without any damage or permanent
+    loss of functional properties
+  examples: []
+  id: 485-17-02
+  language_code: eng
+  notes:
+  - The maximum allowable differential working pressure is expressed in Pa.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum allowable differential working pressure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: ca8268bd-6811-52de-a5e0-b0adb09864e4
+status: valid

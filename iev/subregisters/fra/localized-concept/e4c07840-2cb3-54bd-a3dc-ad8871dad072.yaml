@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: combinaison de circonstances de fonctionnement qui active une panne
+    dormante
+  examples: []
+  id: 192-03-23
+  language_code: fra
+  notes:
+  - Le déclencheur peut être l’état interne du système, les données en cours de traitement,
+    l’action de l’opérateur, les conditions d’environnement ou une quelconque de leurs
+    combinaisons.
+  reviewDecisionEvent: published
+  terms:
+  - designation: déclencheur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour une panne dormante
+dateAccepted: 2018-11-17
+id: e4c07840-2cb3-54bd-a3dc-ad8871dad072
+status: valid

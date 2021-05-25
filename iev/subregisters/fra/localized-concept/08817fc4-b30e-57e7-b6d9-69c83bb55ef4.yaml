@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: différence de potentiel électrique due à la présence d'une charge d'espace
+    au voisinage de la cathode
+  examples: []
+  id: 845-27-020
+  language_code: fra
+  notes:
+  - La chute cathodique est exprimée en volt (V).
+  - Cet article était numéroté 845-07-13 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: chute cathodique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: chute de tension cathodique
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: chute cathodique
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 08817fc4-b30e-57e7-b6d9-69c83bb55ef4
+status: valid

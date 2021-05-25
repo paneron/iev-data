@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température d'ébullition d'un liquide à la pression ambiante de 101,3
+    kPa (1 013 mbar)
+  examples: []
+  id: 426-02-36
+  language_code: fra
+  notes:
+  - Le point d'ébullition initial qu'il convient d'utiliser pour des mélanges liquides
+    doit indiquer la valeur la plus basse du point d'ébullition pour les liquides
+    présents, comme déterminé par une distillation non fractionnée et normalisée de
+    laboratoire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: point d'ébullition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 42e67b64-4128-5922-922c-35f2348baff0
+status: valid

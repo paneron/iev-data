@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the number of elementary events (such as release of an electron)
+    contributing to the output and the number of absorbed photons
+  examples: []
+  id: 845-25-076
+  language_code: eng
+  notes:
+  - See also "<a href="IEV845-25-074">external quantum efficiency</a>".
+  - The internal quantum efficiency has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: internal quantum efficiency
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: '`η`~i~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1dde7e9c-a841-5893-a9cb-4f8b576b5fea
+status: valid

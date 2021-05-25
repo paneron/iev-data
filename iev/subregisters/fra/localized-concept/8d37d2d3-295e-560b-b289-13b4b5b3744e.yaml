@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: élément de transfert pour lequel la valeur de la variable de sortie
+    est proportionnelle à la dérivée par rapport au temps de la variable d'entrée
+  examples: []
+  id: 351-50-13
+  language_code: fra
+  notes:
+  - "La fonction de transfert d'un élément à action par dérivation est donnée par\n\
+    \n`((V ( s )))/((U ( s ))) = K_D * s`\n\noù<table>\r\n<tr>\n<td>\n`K`~D~\n</td>\n\
+    <td>est le coefficient d’action par dérivation;</td>\n</tr>\r\n<tr>\n<td>`s`</td>\n\
+    <td>est la variable complexe de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n\
+    <td>\n`U`(`s`)</td>\n<td>est la transformée de la variable d’entrée;</td>\n</tr>\r\
+    \n<tr>\n<td>\n`V`(`s`)</td>\n<td>est la transformée de la variable de sortie.</td>\n\
+    </tr>\r\n</table>"
+  - Cet article était numéroté 351-28-24 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément à action par dérivation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: élément D
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 8d37d2d3-295e-560b-b289-13b4b5b3744e
+status: valid

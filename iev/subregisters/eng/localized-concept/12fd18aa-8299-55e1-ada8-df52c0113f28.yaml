@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: probability of performing as required for the time interval (`t`~1~,
+    `t`~2~), under given conditions
+  examples: []
+  id: 192-05-05
+  language_code: eng
+  notes:
+  - 'Given conditions include aspects that affect reliability, such as: mode of operation;
+    stress levels; environmental conditions; and maintenance, where applicable.'
+  - It is usually assumed that the item is in a state to perform as required at the
+    beginning of the time interval.
+  - When `t`~1~ = 0 and `t`~2~ = `t`, then `R`(0, `t`) is denoted simply as `R`(`t`)
+    and termed the reliability function, or survival function of the item. See IEC
+    61703, _Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms_, for more details.
+  - See also reliability, &lt;of an item&gt; ({{192-01-24, IEV:192-01-24}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reliability
+    normative_status: preferred
+    type: expression
+    usage_info: measure
+  - designation: '`R`(`t`~1~, `t2`)'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: 12fd18aa-8299-55e1-ada8-df52c0113f28
+status: valid

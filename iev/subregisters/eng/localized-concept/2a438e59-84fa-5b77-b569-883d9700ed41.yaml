@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-02-01
+  definition: rms value or, if applicable, the DC value, of the voltage existing at
+    a given instant at a point of supply, measured over a given time interval
+  examples: []
+  id: 614-01-03
+  language_code: eng
+  notes:
+  - If a supply voltage is specified for instance in the supply contract, then it
+    is called “declared supply voltage”.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: supply voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: 2a438e59-84fa-5b77-b569-883d9700ed41
+status: valid

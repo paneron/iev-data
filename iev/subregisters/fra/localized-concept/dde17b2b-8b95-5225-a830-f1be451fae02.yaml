@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 482-02-27
+      link: https://webstore.iec.ch/publication/215
+      original: IEC 60050-482:2004,482-02-27, modifié – Définition adaptée pour le
+        contexte des technologies des piles à combustible et note supprimée
+      ref: IEC 60050-482:2004
+      relationship:
+        modification: Définition adaptée pour le contexte des technologies des piles
+          à combustible et note supprimée
+        type: modified
+  definition: '{{électrode, IEV:485-02-01}} sur laquelle l''oxydation du combustible
+    a lieu'
+  examples: []
+  id: 485-02-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: anode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans les piles à combustible
+dateAccepted: 2018-11-17
+id: dde17b2b-8b95-5225-a830-f1be451fae02
+status: valid

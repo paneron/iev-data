@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - - clause: 705-08-01
+      original: 705-08-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: ratio, usually expressed in decibels, between the power supplied by
+    the transmitter of a radio link and the power supplied to the corresponding receiver
+    in actual installation, propagation and operational conditions
+  examples: []
+  id: 713-02-09
+  language_code: eng
+  notes:
+  - '– It is necessary to specify in each case the points at which the power supplied
+    by the transmitter and the power supplied to the receiver are determined, for
+    example:
+
+
+    – before or after the radio-frequency filters or multiplexers that may be employed
+    at the sending or the receiving end,
+
+
+    – at the input or at the output of the transmitting and receiving antenna feed
+    lines.'
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total loss
+    normative_status: preferred
+    type: expression
+  - designation: A~`l`~ or L~`l`~
+    international: true
+    type: symbol
+dateAccepted: 1998-04-01
+id: 6a53d7b7-3aa8-572d-8844-7d009fd7bcd3
+status: valid

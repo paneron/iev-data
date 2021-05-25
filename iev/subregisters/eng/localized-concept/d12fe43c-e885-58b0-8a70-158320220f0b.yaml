@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{monadic Boolean operation, IEV:171-03-09}} whose result has the Boolean
+    value opposite to that of the {{operand, IEV:171-03-04}}'
+  examples: []
+  id: 171-03-10
+  language_code: eng
+  notes:
+  - The negation of the variable `a` is generally noted `not a` or "NOT `a`".
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: negation
+    normative_status: preferred
+    type: expression
+  - designation: NOT operation
+    type: expression
+dateAccepted: 2019-03-01
+id: d12fe43c-e885-58b0-8a70-158320220f0b
+status: valid

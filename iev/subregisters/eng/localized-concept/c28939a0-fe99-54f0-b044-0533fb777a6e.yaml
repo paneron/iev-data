@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: in a {{polymer electrolyte fuel cell, IEV:485-08-08}}, membrane whose
+    surfaces are coated with a {{catalyst layer, IEV:485-02-06}} to form the reaction
+    zone of the {{electrode, IEV:485-02-01}}
+  examples: []
+  id: 485-04-03
+  language_code: eng
+  notes:
+  - See also "{{membrane electrode assembly, IEV:485-04-01}}".
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: catalyst-coated membrane
+    normative_status: preferred
+    type: expression
+  - designation: CCM
+    type: expression
+dateAccepted: 2020-02-01
+id: c28939a0-fe99-54f0-b044-0533fb777a6e
+status: valid

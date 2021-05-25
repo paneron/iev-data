@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'grandeur scalaire égale au flux de la densité de courant total *`J`*~t~
+    à travers une surface orientée donnée S: `I_t = underset(S)( int ) J_t * e_n d
+    A` où *`e`*~n~d`A` est l''élément vectoriel de surface'
+  examples: []
+  id: 121-11-45
+  language_code: fra
+  notes:
+  - 'Le courant électrique total *`I`*~t~ est donné par
+
+
+    *`I`*~t~ = *`I`* + *`I`*~`D`~
+
+
+    où *`I`* est le courant électrique et *`I`*~`D`~ le courant de déplacement.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant électrique total
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 8a4bc82b-b968-59ad-ba04-e845ce22f5bc
+status: valid

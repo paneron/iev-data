@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: observateur de référence dont les fonctions colorimétriques s'écartent
+    de celles de l'observateur de référence colorimétrique CIE d'une manière définie
+  examples: []
+  id: 845-23-051
+  language_code: fra
+  notes:
+  - Les écarts définis peuvent être appliqués à l'observateur de référence colorimétrique
+    CIE 1931 ou à l'observateur de référence colorimétrique CIE 1964.
+  - L'utilisation de l'observateur de référence d'écartement CIE est destinée à générer
+    des différences typiques de celles constatées lorsque les égalisations de couleurs
+    sont effectuées par différents observateurs réels dont la vision des couleurs
+    est classée comme normale.
+  - 'Voir aussi CIE 80, _Special Metamerism Index: Change in Observer_.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: observateur de référence d'écartement CIE
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 267dad0b-9932-595f-bbb2-c031b204c453
+status: valid

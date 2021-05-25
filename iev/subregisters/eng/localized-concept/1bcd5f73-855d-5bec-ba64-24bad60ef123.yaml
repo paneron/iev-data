@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-08-01
+  definition: the disappearance of the supply voltage for a time interval whose duration
+    is between two specified limits
+  examples: []
+  id: 161-08-20
+  language_code: eng
+  notes:
+  - A short interruption is considered to be a reduction of the supply voltage to
+    less than 1 % of the nominal voltage, with the lower limit of the duration typically
+    a few tenths of a second, and its upper limit typically in the order of one minute
+    (or, in some cases up to three minutes).
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: short interruption (of supply voltage)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-08-01
+id: 1bcd5f73-855d-5bec-ba64-24bad60ef123
+status: valid

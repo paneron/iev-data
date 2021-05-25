@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - clause: '3.12'
+      original: IEC Guide 116:2010, 3.12, modifiée – Le texte "(voir aussi Figure
+        1)" a été remplacé par la Figure 1. Dans la Note à l'article, "Le présent
+        Guide CEI" a été remplacé par "Le Guide CEI 116".
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: Le texte "(voir aussi Figure 1)" a été remplacé par la Figure
+          1. Dans la Note à l'article, "Le présent Guide CEI" a été remplacé par "Le
+          Guide CEI 116".
+        type: related
+  dateAmended: 2013-06-01
+  definition: '{{risque, IEV:903-01-07}} qui subsiste après que des {{mesures de prévention,
+    IEV:903-01-17}} ont été prises <simg acos-guide116_2010_f1_fr></simg>'
+  examples: []
+  id: 903-01-11
+  language_code: fra
+  notes:
+  - 'Parfois il est possible que le risque tolérable soit déjà atteint par l’application
+    de l’étape 1 ou des étapes 1 et 2.
+
+
+    *Figure 1 – Principe d''intégration de la sécurité*'
+  - "Le Guide CEI 116 fait la distinction entre:\r\n\r\n* le risque résiduel après\
+    \ que des mesures de prévention ont été prises par le concepteur;\r\n* le risque\
+    \ résiduel restant après que toutes les mesures de prévention ont été mises en\
+    \ œuvre par l'utilisateur.\r\n\n\n[ISO/IEC Guide 51:1999, définition 3.9, modifiée]"
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: risque résiduel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: 769cadf1-82fa-52ad-8619-e3d3525a1643
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: valeur exprimant la relation entre l'énergie enregistrée par un compteur
+    et la valeur correspondante donnée par le dispositif de sortie d'essai
+  examples: []
+  id: 314-07-08
+  language_code: fra
+  notes:
+  - Si cette valeur est un nombre d’impulsions, la constante doit être soit le nombre
+    d’impulsions par kilowattheure (imp/kWh), soit le nombre de wattheures par impulsion
+    (Wh/imp)
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante (du compteur)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 5f08a4c5-1ec1-5a2a-89c3-28373c499258
+status: valid

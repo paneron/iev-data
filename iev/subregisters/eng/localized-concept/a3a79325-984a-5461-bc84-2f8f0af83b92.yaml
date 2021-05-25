@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: interface that connects a {{fuel cell vehicle, IEV:485-09-25}} and a
+    fuel supply service station
+  examples: []
+  id: 485-09-09
+  language_code: eng
+  notes:
+  - The fuelling coupler can also supply cooling water and communication information
+    relating to fuel supply. The fuelling coupler consists of the fuelling nozzle
+    and the fuelling receptacle.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fuelling coupler
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: a3a79325-984a-5461-bc84-2f8f0af83b92
+status: valid

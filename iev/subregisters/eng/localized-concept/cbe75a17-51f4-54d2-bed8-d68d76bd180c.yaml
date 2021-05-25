@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a contactor, the moving elements of which are prevented by means of
+    a latching arrangement from returning to the position of rest when the operating
+    means are de-energized
+  examples: []
+  id: 441-14-34
+  language_code: eng
+  notes:
+  - The latching, and the release of the latching, may be mechanical, electromagnetic,
+    pneumatic, etc.
+  - Because of the latching, the latched contactor actually acquires a second position
+    of rest and, according to the definition of a contactor it is not, strictly speaking,
+    a contactor. However, since the latched contactor in both its utilization and
+    its design is more closely related to contactors in general than to any other
+    classification of switching device, it is considered proper to require that it
+    complies with the specifications for contactors wherever they are appropriate.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: latched contactor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: cbe75a17-51f4-54d2-bed8-d68d76bd180c
+status: valid

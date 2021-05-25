@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: property of a system which implies that its state variables may be changed
+    from an initial state into a desired final state within a finite time interval
+    via proper time variations of the input variables
+  examples: []
+  id: 351-42-22
+  language_code: eng
+  notes:
+  - The controllability is global if this change is possible whatever the initial
+    state and the final state may be.
+  - This entry was numbered 351-21-32 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: controllability
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 01826f4f-387d-52c8-8447-ad635c43f9f8
+status: valid

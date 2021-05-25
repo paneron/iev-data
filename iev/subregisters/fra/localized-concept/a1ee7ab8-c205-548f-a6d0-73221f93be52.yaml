@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{catalyseur, IEV:485-01-01}} qui accélère une réaction électrochimique'
+  examples: []
+  id: 485-01-02
+  language_code: fra
+  notes:
+  - Dans une {{cellule élémentaire à combustible, IEV:485-08-01}}, les électrocatalyseurs
+    sont placés dans {{couche catalytique, IEV:485-02-06}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: électrocatalyseur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a1ee7ab8-c205-548f-a6d0-73221f93be52
+status: valid

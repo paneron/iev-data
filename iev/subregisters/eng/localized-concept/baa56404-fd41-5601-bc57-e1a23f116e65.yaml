@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: that bit rate in a time-division multiplex which is equal to the sum
+    of the derived channel binary rates available to the user plus the rate of the
+    overhead bits required in each frame of the multiplex
+  examples: []
+  id: 721-11-41
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplex aggregate bit rate
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: baa56404-fd41-5601-bc57-e1a23f116e65
+status: valid

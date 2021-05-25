@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: '{{timescale, IEV:702-04-11}} consisting of a periodic repetition of
+    {{cycles, IEV:103-05-08}} each of which is a succession of {{time intervals, IEV:113-01-10}}'
+  examples: []
+  id: 702-04-12
+  language_code: eng
+  notes:
+  - The individual time intervals comprising a single cycle need not all have the
+    same {{duration, IEV:113-01-13}}, but, ideally, all the cycles are identical,
+    any variations being constrained within specified limits.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cyclic timescale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: c8d7ef21-b1bb-561c-aa32-a63750ac417a
+status: valid

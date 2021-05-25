@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: variation relative de la longueur due à une variation de la température
+    thermodynamique divisée par la variation de température `alpha = ((l_T – l_((ref))))/((l_((ref))
+    ( T – T_((ref)) )))` où `l`~`T`~ est la longueur à la température `T`; `l`~ref~
+    est la longueur à la température de référence `T`~ref~
+  examples: []
+  id: 561-06-08
+  language_code: fra
+  notes:
+  - Le coefficient de dilatation thermique linéaire s’exprime généralement en mégakelvin
+    à la puissance moins un (1/MK).
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de dilatation thermique linéaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0bbd433a-129f-5660-94fe-3c314c679e6f
+status: valid

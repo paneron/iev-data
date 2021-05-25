@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '88'
+      original: ITU RR 88 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: radio station in the mobile service the emissions of which are intended
+    to facilitate search and rescue operations
+  examples: []
+  id: 713-03-26
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: emergency position-indicating radio beacon
+    normative_status: preferred
+    type: expression
+  - designation: EPIRB
+    type: expression
+dateAccepted: 1998-04-01
+id: 1c7dfb65-96f4-5b0d-bfd1-83de500fd8d4
+status: valid

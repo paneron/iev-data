@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.31'
+      original: IEC 60664-2-1:2011, 3.31, modified –  "value" has been replaced by
+        "rated value" in the definition.
+      ref: IEC 60664-2-1:2011
+      relationship:
+        modification: '"value" has been replaced by "rated value" in the definition.'
+        type: modified
+  dateAmended: 2014-11-01
+  definition: '{{rated value, IEV:151-16-08}} of the rms withstand voltage assigned
+    by the manufacturer to the equipment or to a part of it, characterizing the specified
+    (long-term) withstand capability of its insulation'
+  examples: []
+  id: 312-06-02
+  language_code: eng
+  notes:
+  - The rated insulation voltage is not necessarily equal to the rated voltage of
+    equipment which is primarily related to functional performance.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated insulation voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 96cd7b24-5aed-5976-8dfe-6ce6f6e11369
+status: valid

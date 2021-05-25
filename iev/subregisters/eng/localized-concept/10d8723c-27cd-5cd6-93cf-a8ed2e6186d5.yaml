@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the difference between the basic transmission loss and the free-space
+    basic transmission loss, expressed in decibels
+  examples: []
+  id: 705-08-07
+  language_code: eng
+  notes:
+  - 'Loss relative to free space may be divided into losses of different types, such
+    as:
+
+
+    - absorption loss, for example by ionospheric, atmospheric gases or hydrometeors;
+
+
+    - diffraction loss, as for ground waves;
+
+
+    - effective reflection or scattering loss as in the ionospheric case including
+    the results of any ionospheric focussing or defocussing;
+
+
+    - polarization coupling loss, which can arise from any polarization mismatch between
+    the antennas for the particular ray path considered;
+
+
+    - antenna gain degradation, as in tropospheric scatter propagation;
+
+
+    - losses due to phase interference between the direct ray and rays reflected from
+    the ground, other obstacles or atmospheric layers.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loss relative to free space
+    normative_status: preferred
+    type: expression
+  - designation: 'symboles: `A`~n~; `L`~m~'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 10d8723c-27cd-5cd6-93cf-a8ed2e6186d5
+status: valid

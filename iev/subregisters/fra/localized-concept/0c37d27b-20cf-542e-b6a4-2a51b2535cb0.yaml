@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'en un point donné d''un élément de surface d''aire quasi-infinitésimale
+    `S`, grandeur vectorielle égale au quotient, par l''aire `S`, de la somme, étendue
+    à tous les porteurs de charge libres confinés sur l''élément de surface, des produits
+    de leur charge électrique par leur vitesse: `A = (1)/(S) sum_((i = 1))^n Q_i v_i`
+    où `n` est le nombre de porteurs de charge libres confinés sur l''élément de surface,
+    `Q`~`i`~ la charge électrique du porteur de rang `i` et *`v`*~i~ sa vitesse'
+  examples: []
+  id: 121-11-12
+  language_code: fra
+  notes:
+  - 'Pour des porteurs de charge confinés sur une surface, l’intégrale étendue à une
+    courbe de cette surface joignant deux points a et b, dont l’élément différentiel
+    est le produit scalaire de la densité linéique de courant `*A*`  et du vecteur   `*e*`~n~d`s`
+    normal à la courbe dans une direction spécifiée tangente à la surface et de norme
+    égale à l’élément scalaire d’arc d`s`, est égale à la limite du quotient de la
+    charge électrique  `Q` traversant cette courbe dans la direction spécifiée pendant
+    un intervalle de temps par la durée `τ` de cet intervalle lorsque `τ` tend vers
+    zéro:
+
+
+    `int_((s_a))^((s_b)) A * e_n d s = underset((tau -&gt; 0))((lim)) (Q)/(tau)`
+
+
+    où `s`~a~ et `s`~b~ sont les abscisses curvilignes de a et b respectivement.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité linéique de courant (électrique)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 0c37d27b-20cf-542e-b6a4-2a51b2535cb0
+status: valid

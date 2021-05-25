@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the product of the mass energy transfer coefficient `( ((mu_((tr))))/(rho)
+    )` for that energy and (1– `g`) where `g` is the fraction of the energy of secondary
+    charged particles that is lost to bremsstrahlung in the material
+  examples: []
+  id: 881-04-33
+  language_code: eng
+  notes:
+  - When the material is air, `((mu_((en))))/(rho)` is proportional to the quotient
+    of exposure by energy fluence in the usual case of constant W.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mass energy-absorption coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`((mu_((en))))/(rho)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 25916640-8564-506b-9d79-01a4e544a9d4
+status: valid

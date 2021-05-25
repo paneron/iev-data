@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: phénomène par lequel la répartition spatiale d'un faisceau de rayonnement
+    est modifiée lorsque le faisceau est dévié dans de multiples directions par une
+    surface ou par un milieu, sans variation de {{fréquence, IEV:103-06-02}} de ses
+    composantes monochromatiques
+  examples: []
+  id: 845-24-049
+  language_code: fra
+  notes:
+  - Une distinction est faite entre la <a href="IEV845-24-050">diffusion sélective</a>
+    et la <a href="IEV845-24-051">diffusion non sélective</a> selon que les propriétés
+    de diffusion dépendent ou non de la longueur d'onde du rayonnement incident.
+  - La fréquence ne varie pas uniquement s'il ne se produit pas d'effet Doppler provenant
+    du mouvement des matériaux qui renvoient le rayonnement.
+  - Cet article était numéroté 845-04-44 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: diffusion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4c373ee4-5042-56b9-8f84-f4daccb317ab
+status: valid

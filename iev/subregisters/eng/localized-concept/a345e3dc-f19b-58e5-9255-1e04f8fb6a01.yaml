@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: redundancy wherein at least `m` of the total `n` items must be functioning
+    to meet the requirement
+  examples: []
+  id: 192-10-12
+  language_code: eng
+  notes:
+  - The symbols used vary in different contexts, e.g. `k` out of `n`.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`m` out of `n` redundancy'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: a345e3dc-f19b-58e5-9255-1e04f8fb6a01
+status: valid

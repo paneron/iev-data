@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: technologie de collecte de données utilisant des étiquettes mémoire
+    pour stocker les données
+  examples: []
+  id: 426-21-01
+  language_code: fra
+  notes:
+  - L'étiquette, également appelée "étiquette électronique", "transpondeur" ou "plaque
+    d'identification", est composée d'une puce RFID fixée à une antenne. En transmettant
+    dans les plages kilohertz, mégahertz et gigahertz, les étiquettes peuvent être
+    alimentées par batterie ou tirer leur puissance des ondes radioélectriques provenant
+    du lecteur.
+  - Le terme abrégé "RFID" est dérivé du terme anglais développé correspondant "Radio
+    Frequency Identification".
+  reviewDecisionEvent: published
+  terms:
+  - designation: identification de fréquence radioélectrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RFID
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b93cb7b7-e1b5-58bd-b4d0-b0ad468db6c1
+status: valid

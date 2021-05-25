@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: time interval between the removal of the specified input voltage from
+    a monostable relay in the operate condition and the change of state of the last
+    output circuit, bounce time not included (see Figure 1) <simg></simg>
+  examples: []
+  id: 444-05-02
+  language_code: eng
+  notes: []
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: release time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-01-01
+id: bf880991-6ec8-51b8-bf6d-3c2690718e5d
+status: valid

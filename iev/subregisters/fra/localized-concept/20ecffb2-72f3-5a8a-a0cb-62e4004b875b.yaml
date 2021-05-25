@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: 1. diminution, entre deux points, d'une puissance électrique, électromagnétique
+    ou acoustique 2. expression quantitative de la diminution d'une puissance par
+    le rapport des valeurs en deux points d'une puissance ou d'une grandeur qui est
+    liée à la puissance par une relation bien définie
+  examples: []
+  id: 702-02-10
+  language_code: fra
+  notes:
+  - Par extension, comme par exemple dans "affaiblissement d'insertion", le terme
+    "affaiblissement" peut représenter le rapport des puissances dans une situation
+    donnée et dans une situation de référence.
+  - En anglais, le terme "loss" n'est pas synonyme d"'attenuation" dans tous les cas,
+    mais il est utilisé pour exprimer le rapport des deux puissances dans certaines
+    circonstances, par exemple dans les expressions "insertion loss" et "return loss",
+    équivalentes respectivement aux termes français "affaiblissement d'insertion"
+    et "facteur d'adaptation".
+  - L'affaiblissement s'exprime généralement en unités logarithmiques par une valeur
+    positive.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: atténuation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 20ecffb2-72f3-5a8a-a0cb-62e4004b875b
+status: valid

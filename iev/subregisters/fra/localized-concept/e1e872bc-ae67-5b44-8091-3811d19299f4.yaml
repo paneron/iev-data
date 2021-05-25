@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'matrice carrée dont les éléments ont la propriété: `Aij` = `Aji`'
+  examples: []
+  id: 102-06-25
+  language_code: fra
+  notes:
+  - Une matrice symétrique est égale à sa transposée.
+  - 2 Toutes les valeurs propres d'une matrice symétrique à éléments réels sont réelles.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice symétrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e1e872bc-ae67-5b44-8091-3811d19299f4
+status: valid

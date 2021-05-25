@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de l'énergie totale utilisable ({{puissance électrique nette,
+    IEV:485-14-03}} et chaleur récupérée) à l'enthalpie totale fournie au{{système
+    à pile à combustible, IEV:485-09-01}}
+  examples: []
+  id: 485-10-05
+  language_code: fra
+  notes:
+  - Il convient d'associer l'enthalpie totale fournie (y compris l'enthalpie de réaction)
+    du {{combustible brut, IEV:485-07-01}} à la valeur calorifique inférieure (LVH)
+    pour une meilleure comparaison avec d'autres types de systèmes de conversion d'énergie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement énergétique global
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rendement thermique global
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0259b004-a708-5784-9045-18e922d8ab99
+status: valid

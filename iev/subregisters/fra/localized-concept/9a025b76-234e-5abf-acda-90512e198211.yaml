@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: somme des durées passées par différentes personnes à réaliser une tâche
+    de maintenance
+  examples: []
+  id: 192-07-03
+  language_code: fra
+  notes:
+  - La durée équivalente de maintenance est une mesure de l’utilisation des ressources,
+    réelles ou estimées, et non la durée de la tâche de maintenance.
+  - Cette note ne s’applique qu’à la langue anglaise.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée équivalente de maintenance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée en hommes-heures
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9a025b76-234e-5abf-acda-90512e198211
+status: valid

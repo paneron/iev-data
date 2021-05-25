@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '5.5'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 5.5
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{norme, IEV:901-02-02}} qui spécifie les {{exigence, IEV:901-05-05}}s
+    auxquelles doit satisfaire un processus pour assurer son {{aptitude à l''emploi,
+    IEV:901-01-12}}'
+  examples: []
+  id: 901-02-18
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: norme de processus
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 503774b1-10b6-5dfa-8826-760b499b55fc
+status: valid

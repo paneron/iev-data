@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '8.1'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 8.1, modifiée – Le “domaine” a été transféré
+        en attribut du terme «utilisation spécifique».
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: Le “domaine” a été transféré en attribut du terme «utilisation
+          spécifique».
+        type: modified
+  definition: ensemble des {{disposition, IEV:901-05-01}}s qui contiennent la substance
+    d'un {{document normatif, IEV:901-02-01}}
+  examples: []
+  id: 901-05-11
+  language_code: fra
+  notes:
+  - Dans le cas d'une {{norme, IEV:901-02-02}}, le corps comprend des éléments généraux
+    relatifs à son objet et à ses définitions, et des éléments principaux qui comportent
+    les dispositions.
+  - Certaines parties du corps d'un document normatif peuvent prendre la forme d'annexes
+    («annexes normatives»), pour des raisons pratiques, mais d'autres annexes (informatives)
+    peuvent n'être constituées que par des {{éléments complémentaires, IEV:901-05-12}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: corps
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un document normatif
+dateAccepted: 2018-11-17
+id: 63153f26-887a-5473-9f25-033e5592f024
+status: valid

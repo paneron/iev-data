@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: foreseen {{unplanned outage, IEV:692-04-04}} that can be deferred for
+    a limited time interval image::/assets/images/parts/692/692-fig4-en.png[Figure
+    4 - Outage relationships]
+  examples: []
+  id: 692-04-06
+  language_code: eng
+  notes:
+  - 'The deferment can be used to allow remedial action, such as: network reconfiguration,
+    load transfer, or re-dispatching.'
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: deferrable outage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: 668c44b3-cc0a-5fad-881e-0fc158d8f444
+status: valid

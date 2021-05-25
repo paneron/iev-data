@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: for a radionuclide emitting photons, the quotient of `l^2 overset(˙)(K)_(delta)`
+    by `A`, where `Kδ` is the air kerma-rate due to photons of energy greater than
+    δ, at a distance 1 from a point source of this nuclide having an activity `A`
+    `Gamma_(delta) = ((l^2 overset(˙)(K)_(delta)))/(A)`
+  examples: []
+  id: 881-04-53
+  language_code: eng
+  notes:
+  - 'The SI unit of air kerma-rate constant is m^2^ • J • kg^−1^.
+
+
+    When the special names gray (Gy) and becquerel (Bq) are used m^2^ • J • kg^−1^
+    becomes m^2^ • Gy • Bq^−1^ • s^−1^.
+
+
+    When the earlier special units of activity (the curie) and kerma (the rad) are
+    used
+
+
+    `1 rad * m^2 * Ci^(- 1) * s^(- 1) = ((10^(- 12)))/((3,7)) m^2 * J * kg^(- 1) (
+    exactly )`'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: air kerma-rate constant
+    normative_status: preferred
+    type: expression
+  - designation: '`Γδ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: db1d8d1e-9e50-5995-899f-b77c8fe4040b
+status: valid

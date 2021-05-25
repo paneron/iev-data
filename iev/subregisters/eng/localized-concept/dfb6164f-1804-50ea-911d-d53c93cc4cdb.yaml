@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: temperature of a Planckian radiator whose radiation has the same chromaticity
+    as that of a given stimulus
+  examples: []
+  id: 845-23-067
+  language_code: eng
+  notes:
+  - The colour temperature is expressed in kelvin (K).
+  - This entry was numbered 845-03-49 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: colour temperature
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: dfb6164f-1804-50ea-911d-d53c93cc4cdb
+status: valid

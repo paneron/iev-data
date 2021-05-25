@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{modulation, IEV:701-03-08}} dans laquelle chaque {{état significatif,
+    IEV:702-05-21}} d''un {{signal modulant, IEV:702-06-04}} numérique est représenté
+    par un changement déterminé de la valeur d''une caractéristique du {{modulat,
+    IEV:702-06-05}} par rapport à sa valeur dans l''{{élément de signal, IEV:702-05-01}}
+    précédent'
+  examples: []
+  id: 702-06-15
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation différentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 855d1fea-9282-58b6-bc8c-253c3b3ba302
+status: valid

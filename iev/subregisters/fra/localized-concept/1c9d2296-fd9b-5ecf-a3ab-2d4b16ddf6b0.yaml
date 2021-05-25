@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: onde pilote de référence permettant soit de comparer les fréquences,
+    et éventuellement les phases, des porteuses produites aux terminaux d'émission
+    et de réception d'une transmission multiplex à courants porteurs, soit de maintenir
+    les générateurs de porteuses au synchronisme
+  examples: []
+  id: 704-12-05
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: onde pilote de comparaison des fréquences
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: (signal) pilote de synchronisation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 1c9d2296-fd9b-5ecf-a3ab-2d4b16ddf6b0
+status: valid

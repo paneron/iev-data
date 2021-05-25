@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 442-06-39
+      original: 442-06-39 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2008-09-01
+  definition: valeur efficace de la tension phase/neutre ou phase/phase assignée par
+    le constructeur du dispositif de connexion, celui-ci étant prévu pour être utilisé
+    dans des installations dont la tension d'alimentation ne dépasse pas la tension
+    d'isolement assignée du dispositif de connexion lui-même
+  examples: []
+  id: 581-21-17
+  language_code: fra
+  notes:
+  - La tension d'isolement assignée est toujours comprise comme la tension entre parties
+    sous tension et non entre parties sous tension et terre.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension d’isolation assignée (d’un dispositif de connexion)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: 2caeea4c-f1e4-5005-bd90-27d50d9e579a
+status: valid

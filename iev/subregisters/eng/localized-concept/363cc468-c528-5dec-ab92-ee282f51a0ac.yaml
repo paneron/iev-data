@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: SI unit of illuminance
+  examples: []
+  id: 845-21-085
+  language_code: eng
+  notes:
+  - 1 lx is equal to the illuminance produced on a surface of area 1 m^2^ by a luminous
+    flux of 1 lm uniformly distributed over that surface.
+  - 'Non-metric, non-SI units: lumen per square foot (symbol: lm·ft^−2^), footcandle
+    (symbol: fc):
+
+
+    1 lm·ft^−2^ = 1 fc = 10,764 lx.'
+  - This entry was numbered 845-01-52 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lux
+    normative_status: preferred
+    type: expression
+  - designation: lx
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 363cc468-c528-5dec-ab92-ee282f51a0ac
+status: valid

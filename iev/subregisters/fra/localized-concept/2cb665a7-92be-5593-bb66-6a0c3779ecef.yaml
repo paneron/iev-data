@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: valeur efficace la plus élevée de la tension en courant alternatif ou
+    continu qui peut apparaître à travers n'importe quelle isolation lorsqu'un matériel
+    est alimenté sous la tension assignée
+  examples: []
+  id: 851-12-31
+  language_code: fra
+  notes:
+  - Les surtensions transitoires sont négligées.
+  - Il est tenu compte à la fois des conditions à vide et des conditions normales
+    de fonctionnement.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension locale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: 2cb665a7-92be-5593-bb66-6a0c3779ecef
+status: valid

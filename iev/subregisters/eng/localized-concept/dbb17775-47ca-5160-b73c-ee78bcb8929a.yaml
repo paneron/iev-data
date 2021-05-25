@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.19
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.19
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: functional building block needed to engage in an activity, backed by
+    an implementation
+  examples: []
+  id: 741-01-19
+  language_code: eng
+  notes:
+  - See also “{{component, IEV:741-01-11}}”, which is a superset containing all functional
+    components and other types of component that are deployable.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: functional component
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: dbb17775-47ca-5160-b73c-ee78bcb8929a
+status: valid

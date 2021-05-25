@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: any of the `n` scalars `U_1 , U_2 , ... , U_n` in the representation
+    of a vector *`U`* as a linear combination `U_1 a_1 + U_2 a_2 + ... + U_n a_n`
+    of the base vectors `a_1 , a_2 , ... , a_n`
+  examples: []
+  id: 102-03-09
+  language_code: eng
+  notes:
+  - The term "coordinate" is also used for the components of a position vector (see
+    {{IEV 102-03-22, IEV:102-03-22}}).
+  - In English, the term "component" is sometimes used in this sense.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coordinate
+    normative_status: preferred
+    type: expression
+    usage_info: of a vector
+dateAccepted: 2008-08-01
+id: 7b75c7df-56a2-5d14-8e1a-110a7d7badca
+status: valid

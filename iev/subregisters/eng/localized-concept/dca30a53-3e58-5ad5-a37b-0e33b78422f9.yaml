@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: a set of subscriber telephone lines used to connect a private branch
+    exchange to a local switching entity
+  examples: []
+  id: 722-12-09
+  language_code: eng
+  notes:
+  - These lines can be accessed by dialling a single subscriber number.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: PBX group
+    normative_status: preferred
+    type: expression
+  - designation: equivalent line group
+    type: expression
+dateAccepted: 1992-11-01
+id: dca30a53-3e58-5ad5-a37b-0e33b78422f9
+status: valid

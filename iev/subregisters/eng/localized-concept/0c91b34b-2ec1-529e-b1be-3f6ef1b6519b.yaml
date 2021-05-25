@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the diffusely transmitted part of the (whole) transmitted
+    flux and the incident flux
+  examples: []
+  id: 845-24-069
+  language_code: eng
+  notes:
+  - 'Transmittance, `τ`, is the sum of regular transmittance, `τ`~r~, and diffuse
+    transmittance, `τ`~d~: `τ` = `τ`~r~ + `τ`~d~.'
+  - The diffuse transmittance has unit one.
+  - This entry was numbered 845-04-63 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diffuse transmittance
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`~d~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 0c91b34b-2ec1-529e-b1be-3f6ef1b6519b
+status: valid

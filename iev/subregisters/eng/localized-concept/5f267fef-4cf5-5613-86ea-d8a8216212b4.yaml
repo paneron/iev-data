@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/5329
+      original: IEC 61340-3-1:2006, modified – "ESD voltage level" replaced by "electrostatic
+        discharge (ESD) voltage" and "UUTs" replaced by "devices or units under test
+        (UUT)".
+      ref: IEC 61340-3-1:2006
+      relationship:
+        modification: '"ESD voltage level" replaced by "electrostatic discharge (ESD)
+          voltage" and "UUTs" replaced by "devices or units under test (UUT)".'
+        type: modified
+  dateAmended: 2015-07-01
+  definition: maximum applied {{electrostatic discharge, IEV:161-01-22}} (ESD) voltage
+    that does not cause failure parameter limits to be exceeded, provided that all
+    devices or units under test (UUT) stressed at lower levels have also passed
+  examples: []
+  id: 212-11-35
+  language_code: eng
+  notes: []
+  reviewDate: 2015-07-01
+  reviewDecisionDate: 2015-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ESD withstand voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-07-01
+id: 5f267fef-4cf5-5613-86ea-d8a8216212b4
+status: valid

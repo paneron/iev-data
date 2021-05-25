@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the velocity vector in a given direction of a moving point associated
+    with a sinusoidal travelling wave and defined by a fixed phase of a field quantity
+  examples: []
+  id: 702-02-17
+  language_code: eng
+  notes:
+  - In the direction of propagation, the magnitude of the phase velocity has its minimum
+    value;   if no direction is specified, the phase velocity is that in the direction
+    of propagation.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase velocity
+    normative_status: preferred
+    type: expression
+  - designation: '`| vec v_(phi) |`'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: b03847c1-32a7-56a9-b2e5-73dce18f7fb2
+status: valid

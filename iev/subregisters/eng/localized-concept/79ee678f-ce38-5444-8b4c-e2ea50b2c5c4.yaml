@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-01-01
+  definition: quantity that is additive for disjoint parts of a system
+  examples: []
+  id: 112-01-06
+  language_code: eng
+  notes:
+  - The parts may be disjoint in space or correspond to components of the system.
+  - 'Examples: mass, electric charge, resistance, amount of substance, any integral
+    quantity (IEV 131-11-01).'
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: extensive quantity
+    normative_status: preferred
+    type: expression
+  - designation: global quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 79ee678f-ce38-5444-8b4c-e2ea50b2c5c4
+status: valid

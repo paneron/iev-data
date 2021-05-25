@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-11-01
+  definition: with stabilized power supplies, the range of values of the output quantities
+    within which a change of mode of operation occurs, e.g. from constant voltage
+    to constant current
+  examples: []
+  id: 551-19-09
+  language_code: eng
+  notes:
+  - Within this area, the output quantities are not well defined.
+  - Unless otherwise specified, the crossover area is given by the overlap of the
+    load effect bands or of the tolerance bands.
+  reviewDate: 1998-11-01
+  reviewDecisionDate: 1998-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: crossover area
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-11-01
+id: 977d3084-ac3e-55f9-9ceb-4aa0327e8766
+status: valid

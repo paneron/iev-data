@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.3
+      original: 'IEC TS 80004-9:2017, 3.1.3, modified – In the definition "of this
+        interface" has been deleted since no interface is referred to earlier in the
+        definition. In Note 2 to entry, the sentence has been redrafted for clarity:
+        "an electric transduction" has been deleted and "produced" has been replaced
+        by "transduced to an electric signal".'
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: 'In the definition "of this interface" has been deleted since
+          no interface is referred to earlier in the definition. In Note 2 to entry,
+          the sentence has been redrafted for clarity: "an electric transduction"
+          has been deleted and "produced" has been replaced by "transduced to an electric
+          signal".'
+        type: modified
+  classification: Preferred
+  dateAmended: 2018-04-01
+  definition: '{{, IEV:nanoscale device}} or embedded system involving one or more
+    electronic and non-electronic components enabling the integration of electric
+    and mechanical functionality of the system'
+  examples: []
+  id: 511-01-13
+  language_code: eng
+  notes:
+  - The components can be organic, inorganic or hybrid nanotechnology-based and function
+    on the {{nanoscale, IEV:511-01-03}} for sensing, actuation, signal processing,
+    display, or {{control, IEV:351-42-19}}.
+  - The components can be micro- or nano-machined to produce free surfaces and volumes
+    that will be able to couple with the environment so that a physical, optical,
+    chemical, or biological phenomenon is transduced to an electric signal.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nano-electromechanical system
+    normative_status: preferred
+    type: expression
+  - designation: NEMS
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 35c98b8c-5482-52e3-a2c3-23ab44621b26
+status: valid

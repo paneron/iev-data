@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-08-01
+  definition: commande d'un appareil électrique conçue pour agir de façon différente
+    sur les alternances positives et négatives d'une tension ou d'un courant alternatif
+  examples: []
+  id: 161-07-12
+  language_code: fra
+  notes:
+  - Une commande par réglage de phase généralisé est asymétrique si la forme du courant
+    est différente pour les alternances positives ou négatives.
+  - Une commande par trains d'alternances est asymétrique si chaque intervalle de
+    conduction comporte un nombre inégal d'alternances positives et négatives.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande asymétrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: 0ee4e135-2c73-5a44-935c-ec5349731eab
+status: valid

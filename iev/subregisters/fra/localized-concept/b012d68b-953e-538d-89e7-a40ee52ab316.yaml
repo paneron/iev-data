@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.9.1
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.9.1
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: lieu où une énergie électrique peut provoquer une inflammation
+  examples: []
+  id: 903-04-04
+  language_code: fra
+  notes:
+  - L’abréviation «PIS» est dérivé du terme anglais développé correspondant à «potential
+    ignition source».
+  reviewDecisionEvent: published
+  terms:
+  - designation: source potentielle d’incendie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PIS
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b012d68b-953e-538d-89e7-a40ee52ab316
+status: valid

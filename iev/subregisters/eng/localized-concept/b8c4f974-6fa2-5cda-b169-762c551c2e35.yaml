@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: definition 35
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 35, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: probability under specified conditions that a neutron entering into
+    a region through a surface will return through that surface
+  examples: []
+  id: 395-02-23
+  language_code: eng
+  notes:
+  - This entry was numbered 393-13-32 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: albedo
+    normative_status: preferred
+    type: expression
+  - designation: neutron albedo
+    type: expression
+dateAccepted: 2014-03-01
+id: b8c4f974-6fa2-5cda-b169-762c551c2e35
+status: valid

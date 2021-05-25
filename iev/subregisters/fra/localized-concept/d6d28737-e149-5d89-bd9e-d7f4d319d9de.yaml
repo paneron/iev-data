@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: élément de transfert invariant dans le temps constitué de la combinaison
+    additive d'un élément à action proportionnelle et d'un élément à action par dérivation
+  examples: []
+  id: 351-50-16
+  language_code: fra
+  notes:
+  - "La fonction de transfert d'un élément à action proportionnelle et par dérivation\
+    \ est donnée par\n\n`((V ( s )))/((U ( s ))) = K_Ρ * ( 1 + T_d * s )`\n\noù<table>\r\
+    \n<tr>\n<td>\n`T`~d~\n</td>\n<td>est le temps de dosage de dérivation;</td>\n\
+    </tr>\r\n<tr>\n<td>`s`</td>\n<td>est la variable complexe de la transformée de\
+    \ Laplace;</td>\n</tr>\r\n<tr>\n<td>\n`U`(`s`)</td>\n<td>est la transformée de\
+    \ la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\n`V`(`s`)</td>\n<td>est la transformée\
+    \ de la variable de sortie.</td>\n</tr>\r\n</table>"
+  - Cet article était numéroté 351-28-27 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément à action proportionnelle et par dérivation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: élément PD
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: d6d28737-e149-5d89-bd9e-d7f4d319d9de
+status: valid

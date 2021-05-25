@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{shutdown, IEV:485-19-01}} of a {{fuel cell power system, IEV:485-09-01}}
+    for routine matters'
+  examples: []
+  id: 485-19-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scheduled shutdown
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+  - designation: normal shutdown
+    type: expression
+dateAccepted: 2020-02-01
+id: 6fd96dde-10a1-5bbf-9212-5afbb749c0df
+status: valid

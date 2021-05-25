@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: dans l'espace géométrique usuel, domaine tridimensionnel formé des points
+    dont la distance euclidienne à un point donné est inférieure ou égale à une longueur
+    donnée
+  examples: []
+  id: 102-04-44
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: boule
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: sphère
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 91c34d99-2ea5-5439-a15c-345b01b1be1e
+status: valid

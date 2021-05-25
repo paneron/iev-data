@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: modification des caractéristiques d'un signal de télévision en vue d'empêcher
+    la réception non autorisée des informations sous forme claire
+  examples: []
+  id: 723-10-89
+  language_code: fra
+  notes:
+  - L'embrouillage est un processus bien défini, commandé par le système à accès conditionnel.
+  - En français, le terme "codage" est parfois utilisé dans ce sens.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: embrouillage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cryptage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: afd9eccb-3fe1-5eb1-9888-ba4975ebfaca
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: typically a group of stacked {{fuel cells, IEV:485-08-01}} that makes
+    up the base repetitive unit number of cells per full fuel cell stack
+  examples: []
+  id: 485-06-03
+  language_code: eng
+  notes:
+  - See also "{{short stack, IEV:485-06-02}}".
+  - Substacks can form an intermediate step in manufacturing and can be used to test
+    new fuel cell stack concepts prior to scale-up to full-size fuel cell stacks.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: substack
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 127faa7e-74cc-5713-848b-a894e63984d0
+status: valid

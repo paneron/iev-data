@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: région de l'espace où les composantes prépondérantes du champ électromagnétique
+    sont celles qui correspondent à une propagation d'énergie et où la répartition
+    du champ en fonction de la direction est pratiquement indépendante de la distance
+    à l'antenne
+  examples: []
+  id: 712-02-02
+  language_code: fra
+  notes:
+  - Dans la région de champ lointain, toutes les composantes du champ décroissent
+    de façon inversement proportionnelle à la distance à l'antenne.
+  - Pour une antenne à rayonnement transversal dont la dimension maximale `D` est
+    grande par rapport à la longueur d'onde `λ`, on considère généralement que la
+    région de champ lointain est située au-delà d'une distance à l'antenne égale à
+    2`D`^2^/`λ` dans la direction du maximum de rayonnement.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (région de) champ lointain
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: région de rayonnement lointain
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: bdb6c607-4f78-5a9a-bfeb-b0203fa639d0
+status: valid

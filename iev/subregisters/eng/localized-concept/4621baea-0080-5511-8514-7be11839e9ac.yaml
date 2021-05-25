@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: imaginary part `g`(`t`) of an {{analytic signal, IEV:702-04-52}}
+  examples: []
+  id: 702-04-53
+  language_code: eng
+  notes:
+  - 'The name "quadrature signal" is justified by the fact that, apart from sign changes,
+    sin `ωt` and cos `ωt` are Hilbert transforms of each other and that consequently
+    the analytic signal corresponding to the real signal cos `ωt` is:
+
+
+    e^j`ωt`^'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quadrature signal
+    normative_status: preferred
+    type: expression
+  - designation: harmonic conjugate signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 4621baea-0080-5511-8514-7be11839e9ac
+status: valid

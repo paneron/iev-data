@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: distribution angulaire du rayonnement incident sur l'échantillon mesuré
+    par rapport au centre de l'ouverture d'échantillonnage
+  examples: []
+  id: 845-25-092
+  language_code: fra
+  notes:
+  - La géométrie incidente et la géométrie émergente spécifient ensemble la nature
+    géométrique du mesurage pour les mesures du facteur de réflexion et du facteur
+    de transmission.
+  reviewDecisionEvent: published
+  terms:
+  - designation: géométrie incidente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: géométrie d'irradiation
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: géométrie d'incidence
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 59eef3d2-d45b-5e47-88dd-231e8a900946
+status: valid

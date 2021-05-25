@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.4
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.4
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{entité, IEV:741-01-18}} d''un {{système IdO, IEV:741-02-07}} qui
+    interagit et communique avec le monde physique par des actions de détection ou
+    d''actionnement'
+  examples: []
+  id: 741-02-04
+  language_code: fra
+  notes:
+  - Un dispositif IdO peut être un {{capteur, IEV:741-02-09}} ou un {{actionneur,
+    IEV:351-49-07}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif IdO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ff04c642-d10b-5d18-994e-169eaeb79e23
+status: valid

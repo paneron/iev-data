@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: nombre de défaillances rapporté au temps de service du relais
+  examples: []
+  id: 444-07-08
+  language_code: fra
+  notes:
+  - '`λ` est l''inverse du MTBF.'
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux de défaillance d'un relais
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 52fcf591-8c1e-5686-a07e-f69d248a11b3
+status: valid

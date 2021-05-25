@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'relation between two entities `a` and `b` having the following properties:
+    * reflexivity: `a` = `a`, * symmetry: if `a` = `b` then `b` = `a`, * transitivity:
+    if `a` = `b` and `b` = `c` then `a` = `c`, where `c` is a third entity, * if `a`
+    = `b` and ℛ{`u`} is any statement involving the entity `u`, then ℛ{`a`} is true
+    if and only if ℛ{`b`} is true'
+  examples: []
+  id: 102-01-01
+  language_code: eng
+  notes:
+  - The equality of two entities `a` and `b` is denoted by `a` = `b` and expressed
+    by "`a` is equal to `b`".
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equality
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: f3ac20bc-7ee0-5e7e-84ba-01cf645853c4
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: relais temporisé dont la sortie passe à l'état de travail et dont la
+    temporisation démarre dès le retrait du signal de commande alors que l'alimentation
+    est appliquée, et dont la sortie passe à l'état de repos lorsque la temporisation
+    réglée, qui peut être réinitialisée par le signal de commande, est écoulée (voir
+    Figure 13) image::/assets/images/parts/445/445-01-16fr.gif[]
+  examples: []
+  id: 445-01-16
+  language_code: fra
+  notes:
+  - – La répétition du signal de commande pendant la temporisation réinitialise celle-ci.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais de surveillance à retrait du signal de commande
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-10-01
+id: 227343e6-2133-5f1c-a142-bd9e863dd6a3
+status: valid

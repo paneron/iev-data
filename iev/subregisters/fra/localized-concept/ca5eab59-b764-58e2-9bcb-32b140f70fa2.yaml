@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: taux du nombre de photons par intervalle de temps `Phi_p = ((d N_p))/((d
+    t))` où `N`~p~ est le nombre de photons, transmis ou reçu, et `t` est le temps
+  examples: []
+  id: 845-21-040
+  language_code: fra
+  notes:
+  - 'Le flux photonique, `Φ`~p~, est associé au flux énergétique, `Φ`~e~, de rayonnement
+    monochromatique, par
+
+
+    `Phi_p = ((Phi_e))/((h nu))`
+
+
+    où `h` est la constante de Planck, et `ν` est la {{fréquence, IEV:103-06-02}}
+    de l''onde électromagnétique correspondante.'
+  - Pour un faisceau de rayonnement dont la répartition spectrale est `((d Phi_e (
+    lambda )))/((d lambda))` ou `((d Phi_e ( nu )))/((d nu))`, le flux photonique
+    peut être exprimé par `Phi_p = int_0^(oo) ((d Phi_e ( lambda )))/((d lambda))
+    * (lambda)/((h c_0)) d lambda = int_0^(oo) ((d Phi_e ( nu )))/((d nu)) * (1)/((h
+    nu)) d nu`, où `h` est la constante de Planck et `c`~0~ est la {{vitesse de la
+    lumière dans le vide, IEV:113-01-34}}.
+  - La grandeur radiométrique correspondante est le "flux énergétique". La grandeur
+    photométrique correspondante est le "flux lumineux".
+  - Le flux photonique est exprimé en seconde à la puissance moins un (s^−1^).
+  - Cet article était numéroté 845-01-26 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux photonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ca5eab59-b764-58e2-9bcb-32b140f70fa2
+status: valid

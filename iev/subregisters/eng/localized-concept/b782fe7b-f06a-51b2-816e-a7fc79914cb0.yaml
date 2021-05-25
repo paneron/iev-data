@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: digital encoding of colour values, together with any information necessary
+    to interpret properly the colour values such as the image state, the intended
+    image viewing environment and the reference medium
+  examples: []
+  id: 845-32-013
+  language_code: eng
+  notes:
+  - In some cases the intended image viewing environment will be explicitly defined
+    for the colour image encoding. In other cases, the intended image viewing environment,
+    i.e. details of the image state, can be specified on an image-by-image basis using
+    metadata associated with the digital image.
+  - Some colour image encodings will indicate particular reference medium characteristics,
+    such as a reflection print with a specified density range. In other cases the
+    reference medium will be not applicable, such as with a scene-referred encoding,
+    or will be specified using image metadata.
+  - Colour image encodings are not limited to pictorial digital images that originate
+    from an original scene, but are also applicable to digital images with content
+    such as text, line art, vector graphics and other forms of original artwork.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: colour image encoding
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: b782fe7b-f06a-51b2-816e-a7fc79914cb0
+status: valid

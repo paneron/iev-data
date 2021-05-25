@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: input signal which has to be applied or removed in addition to the power
+    supply in order to ensure a function of the time relay
+  examples: []
+  id: 445-02-05
+  language_code: eng
+  notes:
+  - The control signal is provided by a separate device designed to close or open
+    an electrical circuit.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control signal
+    normative_status: preferred
+    type: expression
+  - designation: trigger signal
+    type: expression
+dateAccepted: 2010-10-01
+id: 646bae42-6a17-5358-a1fc-8c4cb70ca987
+status: valid

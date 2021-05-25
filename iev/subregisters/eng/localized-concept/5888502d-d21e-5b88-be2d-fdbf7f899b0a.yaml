@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: the relative deviation of the mean measured speed (tape speed or speed
+    of rotation) with respect to the rated speed (tape speed or speed of rotation)
+  examples: []
+  id: 806-12-26
+  language_code: eng
+  notes:
+  - 'The deviation is expressed in percentage, regarded either as positive (+) when
+    the measured speed is higher than the rated speed, or as negative (-) when it
+    is lower. It is given by:
+
+
+    `((mean measured speed - rated speed))/((rated speed)) xx 100 %`'
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: deviation from rated speed
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 5888502d-d21e-5b88-be2d-fdbf7f899b0a
+status: valid

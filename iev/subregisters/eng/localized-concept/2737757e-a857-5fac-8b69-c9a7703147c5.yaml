@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: ordered set of two {{binary digits, IEV:702-05-03}}
+  examples: []
+  id: 702-05-07
+  language_code: eng
+  notes:
+  - A doublet is an example of an {{`n`-bit byte, IEV:702-05-06}}.
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: doublet
+    normative_status: preferred
+    type: expression
+  - designation: 2-bit byte
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+  - designation: doublet byte
+    normative_status: admitted
+    type: expression
+  - designation: dibit
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2018-09-01
+id: 2737757e-a857-5fac-8b69-c9a7703147c5
+status: valid

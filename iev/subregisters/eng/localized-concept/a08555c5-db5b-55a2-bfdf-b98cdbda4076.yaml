@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-01-01
+  definition: '{{quantity, IEV:112-01-01}} that has the same value under all circumstances'
+  examples:
+  - '{{speed of light, IEV:113-01-34}} `c`~0~,  {{elementary electric charge, IEV:113-05-16}}
+    `e`,  {{Planck constant, IEV:113-05-07}} `h`.'
+  id: 112-03-09
+  language_code: eng
+  notes:
+  - Recommended values of the fundamental physical constants are published by CODATA.
+  - Fundamental physical constants are sometimes used as reference quantities to express
+    the values of other quantities of the same kind as if they were units of measurement.
+    For example, in the field of relativity, it is common practice to express all
+    velocities in terms of the speed of light `c`~0~.
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fundamental physical constant
+    normative_status: preferred
+    type: expression
+  - designation: universal constant
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-01-01
+id: a08555c5-db5b-55a2-bfdf-b98cdbda4076
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of exiting radiant flux with respect to area at a point on a
+    real or imaginary surface `M_e = ((d Phi_e))/((d A))` where `Φ`~e~ is radiant
+    flux and `A` is the area from which the radiant flux leaves
+  examples: []
+  id: 845-21-080
+  language_code: eng
+  notes:
+  - For Planckian radiation, `M`~e~ = `σT`^4^ where `σ` is the Stefan-Boltzmann constant
+    and `T` is thermodynamic temperature.
+  - The corresponding photometric quantity is "luminous exitance". The corresponding
+    photon quantity is "photon exitance".
+  - The radiant exitance is expressed in watt per square metre (W·m^−2^).
+  - This entry was numbered 845-01-47 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiant exitance
+    normative_status: preferred
+    type: expression
+  - designation: '`M`~e~
+
+      `M`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1a272886-383a-51f2-b9ac-450f85416a64
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '2.19'
+      link: https://www.iso.org/standard/57385.html
+      original: ISO/IEC Guide 71:2014, 2.19
+      ref: ISO/IEC Guide 71:2014
+      relationship:
+        type: identical
+  dateAmended: 2018-05-01
+  definition: design focused on diverse users to maximize the number of potential
+    users who can readily use a system in diverse contexts
+  examples: []
+  id: 871-04-01
+  language_code: eng
+  notes:
+  - This aim can be achieved by. designing systems that are readily usable by most
+    users without any modification, . making systems adaptable to different users
+    (by providing adaptable user interfaces) and . having standardized interfaces
+    which are compatible with {{assistive products, IEV:871-04-04}} and assistive
+    technology.
+  - Terms such as universal design, accessible design, design for all, barrier-free
+    design, inclusive design and transgenerational design are often used interchangeably
+    with the same meaning.
+  reviewDate: 2018-05-01
+  reviewDecisionDate: 2018-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accessible design
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-05-01
+id: c3f8c694-056e-518c-b7ab-272b09b8d6a3
+status: valid

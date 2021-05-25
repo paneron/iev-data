@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: limite, si elle existe, du quotient de la probabilité conditionnelle
+    d'achèvement de la réparation dans l'intervalle de temps (`t`, `t` + Δ`t`) par
+    Δ`t`, lorsque Δ`t` tend vers zéro, en supposant que la réparation a commencé à
+    `t` = 0 et ne s'est pas terminée avant le temps `t`
+  examples: []
+  id: 192-07-20
+  language_code: fra
+  notes:
+  - Le taux de réparation est lié au temps de réparation ({{192-07-19, IEV:192-07-19}})
+    et à ses constituants.
+  - L’unité de mesure du taux de réparation est l’unité de temps à la puissance −
+    1.
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux de réparation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taux de réparation instantané
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d4c6e561-6480-5d03-afcb-9b11e00821f9
+status: valid

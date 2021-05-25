@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{radiodiffusion, IEV:701-01-33}} de programmes visuels avec les sons
+    associés'
+  examples: []
+  id: 701-01-35
+  language_code: fra
+  notes:
+  - La "{{télévision, IEV:701-01-15}}" a comme principale application la radiodiffusion
+    de télévision, et le mot "télévision" est souvent utilisé sans qualificatif pour
+    désigner cette application, mais l’usage du terme "television" est déconseillé
+    en anglais dans ce sens.
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiodiffusion de télévision
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: radiodiffusion visuelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: télévision
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c7229120-9f75-5b5a-b119-728cb0256655
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tenseur du quatrième ordre défini par la forme quadrilinéaire égale
+    au produit des formes bilinéaires qui définissent deux tenseurs du deuxième ordre
+    sur le même espace euclidien
+  examples: []
+  id: 102-03-44
+  language_code: fra
+  notes:
+  - 'Les coordonnées du produit tensoriel des tenseurs `T` et `S` sont: `(( T ox S
+    ))_((i j k l)) = T_((i j)) S_((k l))`.'
+  - Le produit tensoriel de deux tenseurs est noté `T ox S`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit tensoriel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de deux tenseurs
+dateAccepted: 2018-11-17
+id: a0317d13-6983-53fc-8e8d-c883d120e944
+status: valid

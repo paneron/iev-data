@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'élément de circuit à deux paires de bornes et à paramètres répartis
+    selon une dimension, caractérisé par une inductance linéique `l`, une capacité
+    linéique `c`, une résistance linéique `r` et une conductance linéique `g`, qui
+    peuvent toutes être fonction de la même coordonnée spatiale `x`, et où la tension
+    `u`(`x, t`) et le courant `i`(`x, t`), où `t` est le temps, sont liés par les
+    équations aux dérivées partielles: `- ((del u ( x , t )))/((del x)) = r i + l
+    ((del i ( x , t )))/((del t))` `- ((del i ( x , t )))/((del x)) = g u + c ((del
+    u ( x , t )))/((del t))`'
+  examples: []
+  id: 131-12-86
+  language_code: fra
+  notes:
+  - Pour l'adjectif "linéique", voir la CEI 60050-111.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ligne de transmission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 4b0687ca-71b9-5341-8081-552920716305
+status: valid

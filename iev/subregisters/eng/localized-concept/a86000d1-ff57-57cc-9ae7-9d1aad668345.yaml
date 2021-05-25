@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: time integral of cylindrical illuminance, `E`~v,c~, at a given point
+    for a given direction, over a given duration, Δ`t` `H_((v,c)) = underset((Delta
+    t))( int ) E_(v,c) d t`
+  examples: []
+  id: 845-21-078
+  language_code: eng
+  notes:
+  - The luminous cylindrical exposure is expressed in lux second (lx·s = lm·s·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous cylindrical exposure
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~v,c~
+
+      `H`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: a86000d1-ff57-57cc-9ae7-9d1aad668345
+status: valid

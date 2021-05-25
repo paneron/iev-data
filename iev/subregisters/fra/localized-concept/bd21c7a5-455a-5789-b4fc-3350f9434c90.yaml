@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'tarif dans lequel intervient une majoration du prix lorsque la puissance
+    appelée par le client vient à dépasser une limite fixée par l''abonnement Par
+    exemple: prix `p`~1~ par kWh, dans la limite d''une puissance de 10 kW, prix `p`~2~
+    pour tout kilowattheure consommé au-delà de la limite de 10 kW, ou: prix `p`~1~
+    par kWh, dans la limite d''une puissance de 10 kW, prix `p`~2~ pour tous les kilowattheures
+    consommés si la puissance a excédé 10 kW, ou encore: prix `p`~1~ par kW de puissance
+    souscrite, prix `p`~2~ par kW pris en dépassement au-delà de la puissance souscrite.'
+  examples: []
+  id: 691-05-13
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif à dépassement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: bd21c7a5-455a-5789-b4fc-3350f9434c90
+status: valid

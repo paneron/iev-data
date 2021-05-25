@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-04-01
+  definition: insulating component equipped with a permanent or detachable {{end fitting,
+    IEV:651-22-02}} for installing clamps, short-circuiting bars or conductive extension
+    components onto {{electrical installation, IEV:651-26-01}}
+  examples: []
+  id: 651-25-05
+  language_code: eng
+  notes:
+  - The earthing stick can be fixed to the {{earthing and short-circuiting device,
+    IEV:651-25-02}} or be detachable.
+  - The insulating element of the earthing stick is intended to provide the adequate
+    safety distance and insulation to the worker.
+  - This entry was numbered 651-14-10 in IEC 60050-651:1999. It has been modified
+    to add a second preferred term and to provide greater detail regarding the description
+    of the {{device, IEV:651-21-15}}.
+  reviewDate: 2014-04-01
+  reviewDecisionDate: 2014-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earthing stick
+    normative_status: preferred
+    type: expression
+  - designation: earth application stick
+    type: expression
+dateAccepted: 2014-04-01
+id: 16589d75-4527-5339-b3f4-65cf0946e303
+status: valid

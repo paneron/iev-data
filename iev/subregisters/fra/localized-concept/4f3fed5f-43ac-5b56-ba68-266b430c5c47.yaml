@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: état de disponibilité et de non-fonctionnement pendant une période non
+    requise
+  examples: []
+  id: 192-02-14
+  language_code: fra
+  notes:
+  - L’adjectif «vacant» qualifie une entité se trouvant dans un état vacant.
+  - Une entité dans un état vacant dont certaines sous-entités fonctionnent serait
+    considérée comme en fonctionnement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: état vacant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+  - designation: état libre
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4f3fed5f-43ac-5b56-ba68-266b430c5c47
+status: valid

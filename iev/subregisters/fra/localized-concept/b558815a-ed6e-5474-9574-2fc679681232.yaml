@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: élément dans un schéma fonctionnel où des grandeurs variables sont additionnées
+    algébriquement
+  examples: []
+  id: 351-44-06
+  language_code: fra
+  notes:
+  - Dans un schéma fonctionnel, il est généralement symbolisé par un cercle (voir
+    Figure 2).
+  - Le signe algébrique est placé sur la droite de la ligne d’action arrivant, indiquée
+    dans le sens de la flèche.
+  - 'Cet article était numéroté 351-23-06 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point de sommation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: b558815a-ed6e-5474-9574-2fc679681232
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: trafic dont les sources sont extérieures à un réseau donné et qui utilise
+    des ressources de ce réseau
+  examples: []
+  id: 715-07-18
+  language_code: fra
+  notes:
+  - Les destinations peuvent être extérieures ou intérieures au réseau donné ce qui
+    correspond respectivement au trafic de transit et au trafic entrant d'arrivée.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: trafic entrant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: b5146422-1c6d-5a9d-81b0-55706ccc4735
+status: valid

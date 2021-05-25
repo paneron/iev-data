@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps entre la survenue d'une défaillance et le rétablissement
+  examples: []
+  id: 192-07-06
+  language_code: fra
+  notes:
+  - Si l’instant de la défaillance est indéterminé, l’intervalle de temps est supposé
+    commencer à la détection de la défaillance.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de panne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 50bea2cf-4269-5272-9296-ba39ef787cbe
+status: valid

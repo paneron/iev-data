@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.8
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.8
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: user of an {{IoT system, IEV:741-02-07}}
+  examples: []
+  id: 741-02-08
+  language_code: eng
+  notes:
+  - An IoT user can be a {{human user, IEV:741-01-20}} or a digital user.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: IoT user
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 6b09fef4-97a7-56e3-b62c-aec174ca9ae1
+status: valid

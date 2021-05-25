@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 604-04-23
+      original: 604-04-23 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 891-02-69
+      original: 891-02-69 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: valeur maximale du courant électrique passant dans le corps d'une personne,
+    à laquelle cette personne peut se libérer d'elle-même
+  examples: []
+  id: 195-03-09
+  language_code: fra
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: limite de lâcher
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: seuil de non-lâcher
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 9c71ebf8-6069-58dd-b13e-4731af77dd61
+status: valid

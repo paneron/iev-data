@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-07
+      original: 705-03-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: milieu qui peut être polarisé électriquement et dans lequel un champ
+    électrique variable en fonction du temps produit une densité de courant électrique
+    dont la composante suivant une direction donnée a une norme petite par rapport
+    à celle de la composante suivant cette direction de la densité de courant de déplacement,
+    dans une bande de fréquences déterminée
+  examples: []
+  id: 121-12-10
+  language_code: fra
+  notes:
+  - 'Pour un milieu isotrope, la propriété d’être diélectrique se traduit en régime
+    sinusoïdal par la condition:
+
+
+    `(gamma)/((epsilon_0 omega)) ≫ epsilon^( '' )_r`
+
+
+    où `γ` est la conductivité, `ε`~0~ la constante électrique, `ω` la pulsation et
+    `ε`′~r~ la permittivité relative réelle.'
+  - Un milieu anisotrope peut n’être diélectrique que dans certaines directions.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (milieu) diélectrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 54d94731-2574-570a-9123-97defde0d70f
+status: valid

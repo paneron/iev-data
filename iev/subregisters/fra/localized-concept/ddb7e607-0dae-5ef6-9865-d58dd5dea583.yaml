@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: appareil mécanique de connexion capable d'établir, de supporter et d'interrompre
+    des courants dans les conditions normales du circuit y compris éventuellement
+    les conditions spécifiées de surcharge en service, ainsi que de supporter pendant
+    une durée spécifiée des courants dans des conditions anormales spécifiées du circuit
+    telles que celles du court-circuit
+  examples: []
+  id: 441-14-10
+  language_code: fra
+  notes:
+  - Un interrupteur peut être capable d'établir des courants de court-circuit mais
+    n'est pas capable de les couper.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interrupteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: ddb7e607-0dae-5ef6-9865-d58dd5dea583
+status: valid

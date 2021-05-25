@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a unit used to express the ratio of two powers by the decimal logarithm
+    of this ratio
+  examples: []
+  id: 702-07-01
+  language_code: eng
+  notes:
+  - The bel may also be used to express the ratio of two field quantities. To obtain
+    the same numerical value as for the corresponding power ratio, the logarithm of
+    the field quantity ratio is multiplied by the factor 2, assuming that the impedances
+    are equal.
+  - This unit is not often used, having been superseded by the decibel.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bel
+    normative_status: preferred
+    type: expression
+  - designation: 'symb.: B'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: d07f043d-df2d-5ca8-8b91-85470d049742
+status: valid

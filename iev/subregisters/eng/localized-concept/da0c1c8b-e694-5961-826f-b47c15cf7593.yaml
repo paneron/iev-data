@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: actinic dose, using the erythema spectral weighting function, that produces
+    a just noticeable actinic erythema on a single individual's previously unexposed
+    skin
+  examples: []
+  id: 845-26-068
+  language_code: eng
+  notes:
+  - 'The minimal erythema dose is a subjective measure based on the reddening of the
+    skin; it depends on many variables, e.g. individual sensitivity to <a href="IEV845-21-008">ultraviolet
+    radiation</a>, radiometric characteristics of the source, skin pigmentation, anatomic
+    site, elapsed time between irradiation and observation of the reddening (typical
+    value: 24 h). Since the minimal erythema dose varies with each individual, the
+    use of this quantity should be reserved solely for observational studies in humans
+    and other animals.'
+  - See also "<a href="IEV845-26-069">standard erythema dose</a>".
+  - The minimal erythema dose is expressed in joule per square metre (J·m^−2^).
+  - This entry was numbered 845-06-24 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: minimal erythema dose
+    normative_status: preferred
+    type: expression
+  - designation: MED
+    type: expression
+dateAccepted: 2020-12-01
+id: da0c1c8b-e694-5961-826f-b47c15cf7593
+status: valid

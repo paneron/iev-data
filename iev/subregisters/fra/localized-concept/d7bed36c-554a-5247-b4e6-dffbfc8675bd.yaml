@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'perméabilité complexe d''une substance saturée par un champ magnétique
+    statique lorsqu''elle est soumise à une onde électromagnétique dont le vecteur
+    `vec H` est polarisé circulairement dans le plan perpendiculaire au champ magnétostatique:
+    `μ`~+~ = `μ`~r~ + `κ`~r~ `μ`~−~ = `μ`~r~ − `κ`~r~ où `μ`~r~ et `κ`~r~ sont les
+    composantes de la perméabilité tensorielle de Polder'
+  examples: []
+  id: 221-03-04
+  language_code: fra
+  notes:
+  - L'indice de `μ` correspond au signe apparaissant dans l'expression mathématique;
+    `μ`~+~ et `μ`~−~ correspondent respectivement au cas où le vecteur `vec H` tourne
+    en fonction du temps dans le sens inverse des aiguilles d'une montre et au cas
+    où il tourne dans l'autre sens lorsqu'il est vu dans la direction du champ magnétostatique
+    appliqué.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: perméabilité scalaire pour des champs à polarisation circulaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: d7bed36c-554a-5247-b4e6-dffbfc8675bd
+status: valid

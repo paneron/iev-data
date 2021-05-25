@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 723-01-23
+      original: 723-01-23
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1994-08-01
+  definition: a radiocommunication service in which the transmissions from space stations
+    are intended for direct reception by the general public
+  examples: []
+  id: 725-12-42
+  language_code: eng
+  notes:
+  - Reception by the general public includes both individual reception and community
+    reception.
+  - 'Associated term: satellite television.
+
+
+    image::/assets/images/parts/725/725-12en.gif[]'
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: satellite broadcasting
+    normative_status: preferred
+    type: expression
+  - designation: direct broadcasting by satellite
+    type: expression
+  - designation: DBS
+    type: expression
+dateAccepted: 1994-08-01
+id: 50cb66a6-5301-5afb-a35c-bedd90699e65
+status: valid

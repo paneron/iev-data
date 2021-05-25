@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.47
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.47
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: sender of a message at the transport layer
+  examples: []
+  id: 811-37-87
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: producer
+    normative_status: preferred
+    type: expression
+    usage_info: in a train communication network
+dateAccepted: 2017-11-01
+id: ec7a1649-02c7-57ae-b877-a146bcc527ff
+status: valid

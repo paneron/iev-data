@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 701-01-02
+      original: 701-01-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: phénomène physique dont une ou plusieurs caractéristiques sont susceptibles
+    de varier en représentant des informations
+  examples: []
+  id: 704-01-02
+  language_code: fra
+  notes:
+  - Le phénomène physique peut être par exemple une onde électromagnétique ou une
+    onde acoustique, et la grandeur caractéristique peut être un champ électrique,
+    une tension électrique ou une pression acoustique.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: f85a93fc-279b-553c-a958-ad940e13e296
+status: valid

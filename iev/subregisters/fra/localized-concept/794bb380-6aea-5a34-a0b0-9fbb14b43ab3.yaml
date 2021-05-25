@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: espérance mathématique de la durée du temps de panne
+  examples: []
+  id: 192-07-23
+  language_code: fra
+  notes:
+  - Cette note ne concerne que la langue anglaise.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée moyenne de panne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée moyenne jusqu’à rétablissement
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: moyenne des temps pour la tâche de réparation
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 794bb380-6aea-5a34-a0b0-9fbb14b43ab3
+status: valid

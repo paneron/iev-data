@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: time integral of photon spherical irradiance, `E`~p,o~, at a given point
+    over a given duration, Δ`t` `H_((p,o)) = underset((Delta t))( int ) E_(p,o) d
+    t`
+  examples: []
+  id: 845-21-076
+  language_code: eng
+  notes:
+  - The photon spherical exposure is expressed in metre to the power minus two (m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photon spherical exposure
+    normative_status: preferred
+    type: expression
+  - designation: photon fluence
+    type: expression
+  - designation: '`H`~p,o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 523bf316-11ec-5a4b-8781-d202b126ef0b
+status: valid

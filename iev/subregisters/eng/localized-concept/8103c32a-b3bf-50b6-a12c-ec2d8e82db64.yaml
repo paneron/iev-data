@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.47'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.47 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: quotient of the pulse-intensity integral by the pulse duration at a
+    particular point in an acoustic field
+  examples: []
+  id: 802-01-17
+  language_code: eng
+  notes: []
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse-average intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~pa~'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: 8103c32a-b3bf-50b6-a12c-ec2d8e82db64
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: variation dans le temps de l'énergie rayonnante `Phi_e = ((d Q_e))/((d
+    t))` où `Q`~e~ est l'énergie rayonnante émise, transférée ou reçue, et `t` est
+    le temps
+  examples: []
+  id: 845-21-038
+  language_code: fra
+  notes:
+  - La grandeur photométrique correspondante est le "flux lumineux". La grandeur correspondante
+    pour les photons est le "flux photonique".
+  - Le terme "flux énergétique" est le terme préférentiel pour la plupart des applications
+    radiométriques, à l'exception notable de la radiométrie laser pour laquelle le
+    terme "puissance rayonnante" est plus couramment utilisé.
+  - Le flux énergétique est exprimé en watt (W).
+  - Cet article était numéroté 845-01-24 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux énergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: puissance rayonnante
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5701ff10-8ef8-5c6c-8fbf-4cfbb5b19e00
+status: valid

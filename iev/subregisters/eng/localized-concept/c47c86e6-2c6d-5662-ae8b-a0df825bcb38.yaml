@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: in the case of a hop comprising only one ionospheric reflection at a
+    given ionospheric layer and for a given distance, the ratio of the basic MUF to
+    the critical frequency at the reflection point
+  examples: []
+  id: 705-07-93
+  language_code: eng
+  notes:
+  - 'The symbol `M` must be followed by the distance in kilometres, between parentheses
+    and by the name of the ionospheric layer.
+
+
+    Example: `M`(3000)F2.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (ionospheric) transmission factor
+    normative_status: preferred
+    type: expression
+  - designation: distance factor
+    type: expression
+  - designation: MUF factor
+    type: expression
+  - designation: 'symbole: `M`'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: c47c86e6-2c6d-5662-ae8b-a0df825bcb38
+status: valid

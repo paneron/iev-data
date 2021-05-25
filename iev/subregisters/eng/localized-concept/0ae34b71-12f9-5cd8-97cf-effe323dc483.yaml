@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 101-14-40
+      link: https://webstore.iec.ch/publication/159
+      original: IEC 60050-101:1998, 101-14-40, modified – The definition, and the
+        term in English, have been changed to adapt to usage in control technology.
+      ref: IEC 60050-101:1998
+      relationship:
+        modification: The definition, and the term in English, have been changed to
+          adapt to usage in control technology.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: 'for a linear time-invariant system with sinusoidal input variable in
+    steady state of the output variable the phase difference between the phase of
+    the output variable and the phase of the corresponding input variable at a given
+    angular frequency SEE: Figure 10.'
+  examples: []
+  id: 351-45-45
+  language_code: eng
+  notes:
+  - The phase angle is the argument of the frequency response at a given angular frequency.
+  - This entry was numbered 351-24-37 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase angle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 0ae34b71-12f9-5cd8-97cf-effe323dc483
+status: valid

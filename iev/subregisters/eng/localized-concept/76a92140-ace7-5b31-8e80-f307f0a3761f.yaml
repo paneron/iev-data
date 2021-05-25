@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: element in a functional diagram from which the same variable quantity
+    is connected to the inputs of more than one functional diagram elements
+  examples: []
+  id: 351-44-07
+  language_code: eng
+  notes:
+  - The branching point is represented by a dot (see Figure 2).
+  - 'This entry was numbered 351-23-07 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: branching point
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 76a92140-ace7-5b31-8e80-f307f0a3761f
+status: valid

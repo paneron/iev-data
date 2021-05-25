@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: 'a graded index profile with the square of refractive index in the core
+    decreasing according to a law involving a power of the distance from the axis.
+    `n`^2^ (`r`) = `n`^2^~1~ [1 – 2 Δ (`r` / `а`)^g^] `r` ≤ `a` where : `n`(`r`) is
+    the refractive index as a function of radius, `n`~1~ is the refractive index on
+    axis, `a` is the core radius, `g` is a parameter that defines the shape of the
+    profile and Δ is a parameter which is the same as the refractive index contrast
+    when the refractive index of the cladding is constant'
+  examples: []
+  id: 731-02-12
+  language_code: eng
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power-law index profile
+    normative_status: preferred
+    type: expression
+  - designation: alpha profile
+    type: expression
+dateAccepted: 1991-10-01
+id: 5cf7ffa0-4422-5ce0-a458-31d541787383
+status: valid

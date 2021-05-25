@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: période en heures définie par le constructeur, prenant en compte le
+    courant consommé par la source principale de lumière et, si cela est approprié,
+    le courant moyen consommé par tout accessoire au cours de la même période, au
+    cours de laquelle la source principale de lumière de la lampe-chapeau peut être
+    utilisée en continu et satisfait aux exigences minimales d'intensité lumineuse
+    de la norme appliquée
+  examples: []
+  id: 426-22-04
+  language_code: fra
+  notes:
+  - IEC 60079-35-2 est la norme relative à la performance des lampes-chapeaux.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée utile du travail
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 33b5907c-e470-5dbb-aa13-4e3a038196ba
+status: valid

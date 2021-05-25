@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '7.3'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 7.3
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: body established within government or empowered by government to designate
+    {{conformity assessment bodies, IEV:902-01-05}}, suspend or withdraw their designation
+    or remove their suspension from {{designation, IEV:902-06-02}}
+  examples: []
+  id: 902-06-03
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: designating authority
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 14e57969-50e1-5b16-abca-1ad29694cf02
+status: valid

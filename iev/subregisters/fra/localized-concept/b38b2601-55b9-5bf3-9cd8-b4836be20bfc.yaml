@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: actions du système de commande (basées sur les paramètres du procédé)
+    prises pour arrêter immédiatement le {{système à pile à combustible, IEV:485-09-01}}
+    et toutes ses réactions, pour éviter des dommages de l'équipement, ou des risques
+    vis-à-vis des personnes, ou les deux
+  examples: []
+  id: 485-19-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: arrêt d'urgence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des piles à combustible
+dateAccepted: 2018-11-17
+id: b38b2601-55b9-5bf3-9cd8-b4836be20bfc
+status: valid

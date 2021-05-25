@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.17
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.17
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{composant, IEV:741-01-11}} qui expose ou utilise des {{interfaces,
+    IEV:741-01-23}} {{réseau, IEV:741-01-25}}'
+  examples: []
+  id: 741-01-17
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: interfaceur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1cc0941e-cc3a-522b-b944-67f34098739a
+status: valid

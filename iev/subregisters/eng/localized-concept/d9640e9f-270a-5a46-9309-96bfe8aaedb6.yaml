@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: current rating of a fuse as specified in fuse standards, or in the manufacturer's
+    specification
+  examples: []
+  id: 426-11-48
+  language_code: eng
+  notes:
+  - Fuse standards applied are typically IEC 60127 series or ANSI/UL 248 series.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fuse rating
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~n~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: d9640e9f-270a-5a46-9309-96bfe8aaedb6
+status: valid

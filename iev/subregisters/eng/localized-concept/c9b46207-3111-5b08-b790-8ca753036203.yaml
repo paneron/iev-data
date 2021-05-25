@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: 'one of the following two quotients: a) for transduction of an electric
+    signal into an acoustic signal, quotient of the resulting sound pressure in the
+    blocked acoustical system by the excitation voltage in the electrical system;
+    b) for transduction of an acoustic signal into an electric signal, quotient of
+    the resulting short-circuit current in the electrical system by the excitation
+    volume velocity in the acoustical system'
+  examples: []
+  id: 801-25-49
+  language_code: eng
+  notes:
+  - These definitions are best applied to a reciprocal electroacoustic transducer
+    with transformer coupling, for example an electrostatic or piezoelectric transducer,
+    in which case the two quotients have equal magnitude.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electroacoustic coupling coefficient (2)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: c9b46207-3111-5b08-b790-8ca753036203
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'in a magnetic core operating in the Rayleigh region, the tangent of
+    the magnetic loss angle due to hysteresis divided by the product of the peak current
+    `î` in, and the square root of the inductance `L` of, the measuring coil: `eta_i
+    = ((tan delta_h))/((î sqrt(L)))`'
+  examples: []
+  id: 221-03-34
+  language_code: eng
+  notes:
+  - 'The relation between the hysteresis material constant `η`~B~ and the hysteresis
+    core constant is:
+
+
+    `eta_i = eta_B sqrt(((mu_0 mu_e^3))/((V_e)))`
+
+
+    where `μ`~e~ is the effective permeability and `V`~e~ the effective volume.'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hysteresis core constant
+    normative_status: preferred
+    type: expression
+  - designation: '`η`~`i`~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 98d77195-acaa-580e-9d4a-0d5e0dcacd98
+status: valid

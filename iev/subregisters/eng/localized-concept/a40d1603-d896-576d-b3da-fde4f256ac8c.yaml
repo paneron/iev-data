@@ -1,0 +1,45 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: length of the path in the atmosphere that is required to attenuate by
+    95 % the luminous flux in a collimated beam from a source at a colour temperature
+    of 2 700 K
+  examples: []
+  id: 845-31-018
+  language_code: eng
+  notes:
+  - The value of the attenuation has been chosen so that the meteorological optical
+    range provides an approximate measure of the commonly used concept of meteorological
+    visibility.
+  - 'The meteorological optical range, `v`, is related to the atmospheric transmissivity,
+    `T`, assumed to be uniform, by the formula
+
+
+    `v = d_0 ((log 0,05))/((log T))` or `T = 0,05^(d_0 // v)`
+
+
+    where `d`~0~ is the length specified in the definition of atmospheric transmissivity.
+
+
+    These formulae are sometimes written
+
+
+    `v = ((log 0,05))/((log T))` or `T = 0,05^(1 // v)`
+
+
+    with `d`~0~ set to unity.'
+  - This entry was numbered 845-11-20 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: meteorological optical range
+    normative_status: preferred
+    type: expression
+  - designation: '`v`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: a40d1603-d896-576d-b3da-fde4f256ac8c
+status: valid

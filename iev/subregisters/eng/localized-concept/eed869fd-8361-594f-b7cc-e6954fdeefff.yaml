@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.11
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.11
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2019-05-01
+  definition: residual current operated circuit-breaker designed to perform the functions
+    of protection against overloads and/or short circuits
+  examples: []
+  id: 442-05-04
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: residual current operated circuit-breaker with integral overcurrent
+      protection
+    normative_status: preferred
+    type: expression
+  - designation: RCBO
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: eed869fd-8361-594f-b7cc-e6954fdeefff
+status: valid

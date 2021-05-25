@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-27
+      original: 601-01-27 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: voltage having a value above a conventionally adopted limit
+  examples: []
+  id: 151-15-05
+  language_code: eng
+  notes:
+  - An example is the set of upper voltage values used in bulk power systems.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: high voltage
+    normative_status: preferred
+    type: expression
+  - designation: high tension
+    normative_status: preferred
+    type: expression
+  - designation: HV
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: bc4a017c-e0ce-5fc5-a66f-865cc3ed5e6d
+status: valid

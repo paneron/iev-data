@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport logarithmique, exprimé en décibels, entre la puissance disponible
+    de la source donnée et la puissance délivrée par le dispositif à une impédance
+    de charge dans des conditions d'utilisation spécifiées
+  examples: []
+  id: 561-02-74
+  language_code: fra
+  notes:
+  - 'L’affaiblissement de transmission est exprimée par
+
+
+    `TL = 10 log ((P_a))/((P_L)) dB`
+
+
+    où
+
+
+    `P`~a~ est la puissance disponible
+
+
+    `P`~L~ est la puissance délivrée par le dispositif à une impédance de charge'
+  - Cet article était numéroté 561-03-20 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement de transmission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e79e98d2-292c-5b86-9555-62f34986b3cb
+status: valid

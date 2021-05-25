@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'mode normal pour lequel les indices `m` et `n` accolés à l''abréviation
+    ТЕ, sont déterminés par les variations spatiales, dans une section droite, du
+    vecteur champ élесtrique transversal, de la façon suivante: 1 – Dans un guide
+    d''ondes rectangulaire, les indices `m` et `n` pris dans cet ordre indiquent le
+    nombre de demi-périodes spatiales de la variation du module du vecteur de champ
+    essentiellement transversal le long de droites parallèles respectivement aux grande
+    et petite face du guide dans une section droite'
+  examples: []
+  id: 726-03-12
+  language_code: fra
+  notes:
+  - 'La notation inverse, où les droites correspondant à `m` et `n` sont parallèles
+    respectivement aux petite et grande face du guide, est déconseillée.
+
+
+    2 – Dans un guide d''ondes circulaire, l''indice `m` indique le nombre de périodes
+    spatiales de la variation du module du vecteur de champ transversal le long d''une
+    circonférence concentrique à la paroi, et l''indice `n` indique le nombre de changements
+    de signe, plus un, du même vecteur le long d''un rayon'
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mode TE~mn~
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mode Н~mn~
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: ce9b4413-4930-573f-98bc-65dd809c9715
+status: valid

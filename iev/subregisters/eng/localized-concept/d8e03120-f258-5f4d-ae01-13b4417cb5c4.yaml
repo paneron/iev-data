@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-29
+      original: 601-01-29 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: voltage between two line conductors at a given point of an electric
+    circuit
+  examples: []
+  id: 195-05-01
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: line-to-line voltage
+    normative_status: preferred
+    type: expression
+  - designation: phase-to-phase voltage
+    type: expression
+dateAccepted: 1998-08-01
+id: d8e03120-f258-5f4d-ae01-13b4417cb5c4
+status: valid

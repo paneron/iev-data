@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '3.50'
+      original: IEC 60664-2-1:2011, 3.50, modifié – Modifié pour conformité avec le
+        concept fondamental "adsorption" (IEV 113-02-14).
+      ref: IEC 60664-2-1:2011
+      relationship:
+        modification: Modifié pour conformité avec le concept fondamental "adsorption"
+          (IEV 113-02-14).
+        type: modified
+  definition: '{{adsorption, IEV:113-02-14}} de l''eau à la surface d''un matériau
+    isolant'
+  examples: []
+  id: 212-11-63
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: adsorption d’eau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: du matériau isolant
+dateAccepted: 2018-11-17
+id: 8eedfb2b-9666-5e03-9012-725ab4047499
+status: valid

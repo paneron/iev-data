@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: plan dans lequel se situe la surface d'un échantillon ou d'un étalon
+    lors des mesurages
+  examples: []
+  id: 845-25-110
+  language_code: fra
+  notes:
+  - Pour les mesurages de réflexion, la géométrie est définie par rapport au plan
+    de référence. Pour les mesurages de transmission, il existe un plan de référence
+    pour la lumière incidente et un second plan de référence, déplacé par l'épaisseur
+    de l'échantillon, pour la lumière transmise.
+  reviewDecisionEvent: published
+  terms:
+  - designation: plan de référence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans les mesurages photométriques ou radiométriques
+dateAccepted: 2018-11-17
+id: 63c62b1f-2d04-5bbf-a0c3-9c1437c8b149
+status: valid

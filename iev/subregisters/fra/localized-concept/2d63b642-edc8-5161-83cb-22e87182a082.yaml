@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: puissance vocale telle que le volumètre de l'ARAEN indique —10 dans
+    des conditions spécifiées lorsqu'il est relié à la sortie du système émetteur
+    du nouveau système fondamental pour la détermination des équivalents de référence
+    ou NOSFER
+  examples: []
+  id: 722-16-27
+  language_code: fra
+  notes:
+  - Les conditions spécifiées sont définies dans les Recommandations P42 et P72 du
+    CCITT contenues dans le Tome V du Livre Rouge, 1985.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance vocale normale pour les mesures téléphonométriques
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: puissance vocale de référence pour le NOSFER
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 2d63b642-edc8-5161-83cb-22e87182a082
+status: valid

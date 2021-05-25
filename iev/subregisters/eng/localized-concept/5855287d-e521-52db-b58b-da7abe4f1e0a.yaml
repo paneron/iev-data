@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: change in <a href="IEV845-22-067">hue</a> produced by changing the luminance
+    (within the range of photopic vision) of a colour stimulus while keeping its chromaticity
+    constant
+  examples: []
+  id: 845-22-071
+  language_code: eng
+  notes:
+  - With certain monochromatic stimuli, hue remains constant over a wide range of
+    luminances (for a given condition of adaptation). The wavelengths of these stimuli
+    are sometimes referred to as "invariant wavelengths".
+  - With increasing intensity, below 510 nm hues shift more towards blue, and above
+    510 nm hues shift more towards yellow (reds become yellower with increasing brightness).
+  - This entry was numbered 845-02-39 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Bezold–Brücke phenomenon
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 5855287d-e521-52db-b58b-da7abe4f1e0a
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur la plus élevée de la {{grandeur d'alimentation, IEV:447-03-01}}
+    (valeur efficace en courant alternatif) qu'un {{relais de mesure, IEV:447-01-02}}
+    ou un {{équipement de protection, IEV:447-01-49}} peut supporter en permanence
+    dans des conditions spécifiées, tout en respectant les exigences spécifiées relatives
+    à l'échauffement
+  examples: []
+  id: 447-03-13
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de tenue thermique permanente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a5b8e991-b25f-5d8e-93dd-24eed9425649
+status: valid

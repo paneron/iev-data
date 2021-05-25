@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.8
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.8
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: one or more capabilities offered via {{cloud computing, IEV:741-01-07}}
+    invoked using a defined {{interface, IEV:741-01-23}}
+  examples: []
+  id: 741-01-08
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cloud service
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 3ea60113-8c8e-5ca7-9f3d-e1a80d0423fb
+status: valid

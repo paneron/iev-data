@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 'quantity `R`~eq~, having the dimensions of resistance, used to express
+    the equivalent noise voltage `E`~n~ of a one port device through the relationship:
+    `R_((eq)) = ((E_n^2))/((4 k T_0 Delta f))` where `T`~0~ is a reference thermodynamic
+    temperature, fixed by convention around 290 K, Δ`f` is the bandwidth considered
+    and `k` is Boltzmann''s constant'
+  examples: []
+  id: 702-08-52
+  language_code: eng
+  notes:
+  - A receiving antenna can be regarded as a one-port device when viewed from its
+    output port.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (equivalent) noise resistance
+    normative_status: preferred
+    type: expression
+  - designation: '`R`~eq~'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: 791c18e9-9c2c-5ae6-b014-0795d73b31ba
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: 'if `U` is the voltage at a given output derived from playing a reference
+    signal of 1 000 Hz recorded at a velocity of `v` cm/s, sensitivity at 1 000 Hz
+    is given by: `(U)/(v) mV // cm * s^(- 1)` where `U` and `v` are both either r.m.s.
+    or peak values'
+  examples: []
+  id: 806-14-70
+  language_code: eng
+  notes: []
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: channel sensitivity
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 33021fce-dbb4-5c9d-892f-5f22165c4095
+status: valid

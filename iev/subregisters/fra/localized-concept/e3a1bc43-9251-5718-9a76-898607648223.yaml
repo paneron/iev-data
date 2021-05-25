@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: données qui caractérisent l'importance du service assuré sur une ou
+    plusieurs lignes, pendant une certaine période
+  examples: []
+  id: 811-03-01
+  language_code: fra
+  notes:
+  - Le trafic s'exprime le plus souvent en trains-kilomètres, en tonnes-kilomètres
+    ou en voyageurs-kilomètres.
+  - On peut considérer soit la distance parcourue, soit la combinaison de la distance
+    parcourue et de la charge transportée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: trafic
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en ferroviaire
+dateAccepted: 2018-11-17
+id: e3a1bc43-9251-5718-9a76-898607648223
+status: valid

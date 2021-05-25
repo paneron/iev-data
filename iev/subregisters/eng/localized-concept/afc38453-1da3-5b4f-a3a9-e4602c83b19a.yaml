@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 191-12-01
+      original: 191-12-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1995-12-01
+  definition: the probability that a protection can perform a required function under
+    given conditions for a given time interval
+  examples: []
+  id: 448-12-05
+  language_code: eng
+  notes:
+  - 'The required function for protection is to operate when required to do so and
+    not to operate when not required to do so.
+
+
+    See figure 448-1.
+
+
+    image::/assets/images/parts/448/448-fig1-en.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reliability of protection
+    normative_status: preferred
+    type: expression
+  - designation: reliability of relay system
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: afc38453-1da3-5b4f-a3a9-e4602c83b19a
+status: valid

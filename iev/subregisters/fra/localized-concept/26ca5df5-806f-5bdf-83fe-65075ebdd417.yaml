@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: qui se reproduit identiquement pour des valeurs en progression arithmétique
+    de la variable indépendante
+  examples: []
+  id: 103-05-09
+  language_code: fra
+  notes:
+  - La fonction `f ( t )` est périodique lorsque `f ( t + T ) = f ( t )` pour un certain
+    `T` positif.
+  reviewDecisionEvent: published
+  terms:
+  - designation: périodique
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 26ca5df5-806f-5bdf-83fe-65075ebdd417
+status: valid

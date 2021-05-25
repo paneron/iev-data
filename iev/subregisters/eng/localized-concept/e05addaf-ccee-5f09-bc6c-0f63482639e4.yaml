@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the fractional change of permeability due to a change in temperature
+    divided by that change in temperature: `alpha_(mu) = ((mu_(theta) - mu_((ref))))/((mu_((ref))
+    ( theta - theta_((ref)) )))` where `µθ` and `µ`~ref~ are the permeabilities at
+    temperatures `θ` and `θ`~ref~ respectively'
+  examples: []
+  id: 221-02-50
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature coefficient of permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`αμ`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: e05addaf-ccee-5f09-bc6c-0f63482639e4
+status: valid

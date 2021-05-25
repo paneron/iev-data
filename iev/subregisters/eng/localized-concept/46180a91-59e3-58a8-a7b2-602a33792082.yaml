@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{electric relay, IEV:151-13-31}} directly energized by the current
+    or voltage in a main circuit, without any intermediate {{instrument transformer,
+    IEV:321-01-01}}, {{shunt, IEV:313-09-04}} or {{transducer, IEV:313-03-01}} Note
+    1 to entry: The main circuit includes all the conductive parts, and is intended
+    for transmitting electrical energy.'
+  examples: []
+  id: 447-01-20
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: primary relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 46180a91-59e3-58a8-a7b2-602a33792082
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 161-08-20
+      original: IEV 161-08-20, modified
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2016-02-01
+  definition: disappearance of the supply voltage for a time interval whose duration
+    is between two specified limits
+  examples: []
+  id: 614-01-26
+  language_code: eng
+  notes:
+  - In practice, a reduction of the supply voltage to less than 5 % or 10 % of the
+    nominal voltage is considered to be a short interruption, with the lower limit
+    of the duration typically a few tenths of a second and its upper limit typically
+    in the order of one minute (or in some cases up to three or five minutes).
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: short interruption
+    normative_status: preferred
+    type: expression
+    usage_info: of supply voltage
+dateAccepted: 2016-02-01
+id: 06f22745-541f-54c8-84dc-255dc09a4114
+status: valid

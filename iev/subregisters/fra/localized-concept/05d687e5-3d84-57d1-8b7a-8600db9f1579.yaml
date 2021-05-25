@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: radiance dans une direction donnée issue de l'émission à la surface
+    d'un milieu photoluminescent dans des conditions d'irradiation spécifiées, comparée
+    à la radiance dans la même direction par le diffuseur parfait par réflexion irradié
+    de manière identique
+  examples: []
+  id: 845-21-100
+  language_code: fra
+  notes:
+  - Le facteur de luminance énergétique par luminescence dépend de la répartition
+    spectrale d'énergie de l'irradiation et cette grandeur est généralement spécifiée
+    pour un illuminant CIE donné.
+  - L'unité de facteur de luminance énergétique par luminescence est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de luminance énergétique par luminescence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un matériau photoluminescent
+dateAccepted: 2018-11-17
+id: 05d687e5-3d84-57d1-8b7a-8600db9f1579
+status: valid

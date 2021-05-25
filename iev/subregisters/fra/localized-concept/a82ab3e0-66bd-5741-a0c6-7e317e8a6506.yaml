@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système de surveillance de l'exploitation du réacteur qui, lorsqu'il
+    détecte une situation anormale, déclenche automatiquement des actions visant à
+    empêcher l'apparition d'une situation dangereuse ou potentiellement dangereuse
+  examples: []
+  id: 395-07-55
+  language_code: fra
+  notes:
+  - Dans ce cas, le système inclut tous les dispositifs électriques et mécaniques
+    ainsi que les circuits des capteurs aux bornes d’entrée des dispositifs de déclenchement.
+  - Le système de protection peut aussi être actionné manuellement par l’équipe de
+    conduite si celle-ci estime que les informations sur l’état de l’installation
+    le nécessitent.
+  - Cet article était numéroté 394-34-08 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de protection
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réacteur nucléaire
+dateAccepted: 2018-11-17
+id: a82ab3e0-66bd-5741-a0c6-7e317e8a6506
+status: valid

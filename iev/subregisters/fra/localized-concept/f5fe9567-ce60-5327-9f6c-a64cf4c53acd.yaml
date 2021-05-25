@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '11.4'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 11.4
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{norme, IEV:901-02-02}} dont l''application est rendue obligatoire
+    en vertu d''une loi de portée générale ou d''une {{référence exclusive, IEV:901-06-18}}
+    dans un {{règlement, IEV:901-02-10}}'
+  examples: []
+  id: 901-06-20
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: norme obligatoire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f5fe9567-ce60-5327-9f6c-a64cf4c53acd
+status: valid

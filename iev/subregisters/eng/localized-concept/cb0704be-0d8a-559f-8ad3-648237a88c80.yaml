@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: the busy hour for a period of 24 consecutive hours
+  examples: []
+  id: 715-07-08
+  language_code: eng
+  notes:
+  - The peak busy hour may vary from day to day.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: peak busy hour
+    normative_status: preferred
+    type: expression
+  - designation: bouncing busy hour
+    type: expression
+  - designation: post selected busy hour
+    type: expression
+dateAccepted: 1996-12-01
+id: cb0704be-0d8a-559f-8ad3-648237a88c80
+status: valid

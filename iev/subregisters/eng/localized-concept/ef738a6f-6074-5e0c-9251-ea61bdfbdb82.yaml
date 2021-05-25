@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: duration of a maintenance action, excluding logistic delay image::/assets/images/parts/192/60050-192-F2en.png[Figure
+    2 - Maintenance times]
+  examples: []
+  id: 192-07-04
+  language_code: eng
+  notes:
+  - Technical delays are included in the active maintenance time.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: active maintenance time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: ef738a6f-6074-5e0c-9251-ea61bdfbdb82
+status: valid

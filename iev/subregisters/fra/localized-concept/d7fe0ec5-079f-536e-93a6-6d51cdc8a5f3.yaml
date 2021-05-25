@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '7.11'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 7.11
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  definition: relation entre deux parties où les deux ont les mêmes droits et obligations
+    l'une vers l'autre
+  examples: []
+  id: 902-06-11
+  language_code: fra
+  notes:
+  - La réciprocité peut exister au sein d'un {{arrangement multilatéral, IEV:902-06-09}}
+    comprenant un réseau de relations bilatérales réciproques.
+  - Bien que les droits et les obligations soient les mêmes, les possibilités offertes
+    peuvent être différentes; il peut en découler des relations inégales entre les
+    parties.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réciprocité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d7fe0ec5-079f-536e-93a6-6d51cdc8a5f3
+status: valid

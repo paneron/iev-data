@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: '{{system, IEV:192-01-03}} designed to provide <a href="IEV845-29-001">lighting</a>'
+  examples: []
+  id: 845-27-010
+  language_code: eng
+  notes:
+  - A lighting system can be dedicated to<ol type="a">. the support of one or more
+    specified visual tasks under specified conditions considering other requirements
+    such as human comfort, safety, the appearance of the surrounding environment and
+    energy consumption;. the support of other than human tasks.
+  - A lighting system can include a set of light sources, other physical components,
+    communication protocols, user interfaces, software and networks to provide control
+    and monitoring functions.
+  - The light source(s) and the related equipment can be integrated in a single item,
+    e.g. an LED module, a lamp or a luminaire.
+  - A lighting system can be networked to provide central or remote control and monitoring
+    functions.
+  - A lighting system can be connected to or integrated with other systems or devices.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lighting system
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 576bcb5e-4864-505a-897d-250efdb482de
+status: valid

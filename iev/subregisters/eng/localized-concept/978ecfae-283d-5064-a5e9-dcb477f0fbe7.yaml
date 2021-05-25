@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: numerical value characterizing the set of measurements available for
+    the state estimation of a network `r = (m)/((2 n - 1)) - 1` where `r` is the redundancy
+    factor `m` is the number of measurements in the network `n` is the number of nodes
+    of the network
+  examples: []
+  id: 603-02-40
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: redundancy factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 978ecfae-283d-5064-a5e9-dcb477f0fbe7
+status: valid

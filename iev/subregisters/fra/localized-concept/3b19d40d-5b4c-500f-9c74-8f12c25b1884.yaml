@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: composante sinusoïdale de la décomposition en série de Fourier d'une
+    grandeur périodique, dont le rang harmonique est un nombre rationnel non entier
+  examples: []
+  id: 103-07-27
+  language_code: fra
+  notes:
+  - Des interharmoniques n'existent que si le rang harmonique est défini par rapport
+    à une fréquence fondamentale de référence autre que la fréquence fondamentale.
+  reviewDecisionEvent: published
+  terms:
+  - designation: interharmonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: composante interharmonique
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3b19d40d-5b4c-500f-9c74-8f12c25b1884
+status: valid

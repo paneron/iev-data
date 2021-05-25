@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: that can have `n` different values or states or is based on `n` different
+    values or states
+  examples:
+  - '{{`n`-ary digit, IEV:702-05-05}}, {{`n`-ary digit rate, IEV:704-16-09}}.'
+  id: 171-02-02
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`n`-ary'
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-03-01
+id: 0bcf42b3-eeb3-5aea-84a8-8b356f7c6701
+status: valid

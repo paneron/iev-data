@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{outage occurrence, IEV:692-05-01}} caused by only one system component
+    image::/assets/images/parts/692/692-fig5-en.png[Figure 5 - Outage occurrence relationships]'
+  examples: []
+  id: 692-05-02
+  language_code: eng
+  notes: []
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: single-outage occurrence
+    normative_status: preferred
+    type: expression
+  - designation: single contingency
+    type: expression
+dateAccepted: 2017-12-01
+id: a815b373-56d5-5a63-af2e-32af6d54f3ad
+status: valid

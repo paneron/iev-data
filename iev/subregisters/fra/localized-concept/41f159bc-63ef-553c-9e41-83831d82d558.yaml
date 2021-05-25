@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1996-12-01
+  definition: pour un faisceau de circuits ou un indicatif de destination donnés et
+    pendant un intervalle de temps spécifié, rapport du nombre des tentatives de prises
+    qui aboutissent à un signal de réponse, au nombre total des tentatives de prise
+  examples: []
+  id: 715-02-21
+  language_code: fra
+  notes:
+  - En certains points du réseau ce rapport peut se montrer inférieur au taux de prises
+    avec réponse vu la possibilité de tentatives de prises infructueuses.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux de tentatives de prise avec réponse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TTPR
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 41f159bc-63ef-553c-9e41-83831d82d558
+status: valid

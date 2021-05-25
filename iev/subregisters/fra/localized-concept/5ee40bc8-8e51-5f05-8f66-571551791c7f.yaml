@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: contacteur muni d'un dispositif d'accrochage empêchant ses éléments
+    mobiles de retourner à leur position de repos quand on cesse d'actionner le dispositif
+    de commande
+  examples: []
+  id: 441-14-34
+  language_code: fra
+  notes:
+  - L'accrochage et le déclencheur d'accrochage peuvent être mécaniques, électromagnétiques,
+    pneumatiques, etc.
+  - Du fait de son accrochage, le contacteur à accrochage possède en fait une seconde
+    position de repos et, d'après la définition du contacteur il n'est pas à proprement
+    parler un contacteur. Cependant, étant donné que le contacteur à accrochage, tant
+    par son utilisation que par sa conception, se rapproche davantage d'un contacteur
+    en général que de toute autre sorte d'appareil de connexion, on admet qu'il réponde
+    aux spécifications des contacteurs dans la mesure du possible.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contacteur à accrochage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 5ee40bc8-8e51-5f05-8f66-571551791c7f
+status: valid

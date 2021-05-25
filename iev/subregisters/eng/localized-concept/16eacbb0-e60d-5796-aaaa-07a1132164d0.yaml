@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-04-01
+  definition: for an {{electromagnetic wave, IEV:121-11-63}} incident on a plane boundary
+    between two regions having different {{refractive indices, IEV:702-02-19}}, that
+    {{angle of incidence, IEV:705-04-03}} at which the {{reflectance, IEV:845-04-58}}
+    is zero for a wave that has one of its vectors of {{electric field, IEV:121-11-67}}
+    in the plane defined by the {{direction of propagation, IEV:103-10-05}} and the
+    normal to the surface
+  examples: []
+  id: 705-04-20
+  language_code: eng
+  notes:
+  - The vector of electric field is the electric field strength in optics, and the
+    electric flux density in {{radiocommunication, IEV:701-01-31}}.
+  - In radiocommunication, the term Brewster's angle is often used for the complement
+    of the angle defined above.
+  - For propagation from a medium of refractive index `n`~1~ to a medium of refractive
+    index `n`~2~, Brewster's angle is arctan (`n`~2~/`n`~1~).
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Brewster's angle
+    normative_status: preferred
+    type: expression
+  - designation: Brewster angle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 16eacbb0-e60d-5796-aaaa-07a1132164d0
+status: valid

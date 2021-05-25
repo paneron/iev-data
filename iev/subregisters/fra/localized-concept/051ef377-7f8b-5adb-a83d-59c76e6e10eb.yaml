@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: redondance telle qu'au moins `m` de `n` entités doivent fonctionner
+    afin de satisfaire aux exigences
+  examples: []
+  id: 192-10-12
+  language_code: fra
+  notes:
+  - Les symboles utilisés varient selon le contexte, par exemple, `k` parmi `n`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: redondance `m` parmi `n`
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 051ef377-7f8b-5adb-a83d-59c76e6e10eb
+status: valid

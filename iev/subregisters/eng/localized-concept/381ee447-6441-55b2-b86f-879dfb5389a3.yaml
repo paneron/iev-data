@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.6'
+      original: IEC Guide 104:2010, 3.6
+      ref: IEC Guide 104:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: task assigned to a {{product TC, IEV:903-02-04}} to prepare one or more
+    {{group safety publications, IEV:903-02-02}}
+  examples: []
+  id: 903-02-06
+  language_code: eng
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group safety function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 381ee447-6441-55b2-b86f-879dfb5389a3
+status: valid

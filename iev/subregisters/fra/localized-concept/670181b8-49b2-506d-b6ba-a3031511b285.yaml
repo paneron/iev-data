@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: récepteur thermique de <a href="IEV845-21-002">rayonnement optique</a>
+    dans lequel la force électromotrice produite par une seule jonction thermoélectrique
+    est utilisée pour mesurer l'échauffement produit par l'absorption du rayonnement
+  examples: []
+  id: 845-25-053
+  language_code: fra
+  notes:
+  - Cet article était numéroté 845-05-46 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: couple thermoélectrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour le rayonnement optique
+  - designation: thermocouple
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: pour le rayonnement optique
+dateAccepted: 2018-11-17
+id: 670181b8-49b2-506d-b6ba-a3031511b285
+status: valid

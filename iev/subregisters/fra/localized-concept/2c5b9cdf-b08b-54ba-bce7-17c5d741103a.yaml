@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-08-01
+  definition: en radiocommunication par signaux numériques, partie du signal représentant
+    un symbole, émise avec des caractéristiques distinctes de celles des autres parties
+    du même symbole, selon une loi déterminée
+  examples: []
+  id: 725-14-34
+  language_code: fra
+  notes:
+  - Dans la modulation à spectre étalé à séquence directe, une bribe correspond à
+    un élément de la suite pseudoaléatoire. Dans la modulation à spectre étalé à sauts
+    de fréquence rapides, une bribe correspond à l'intervalle de temps pendant lequel
+    le signal reste sur une des fréquences porteuses.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bribe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-08-01
+id: 2c5b9cdf-b08b-54ba-bce7-17c5d741103a
+status: valid

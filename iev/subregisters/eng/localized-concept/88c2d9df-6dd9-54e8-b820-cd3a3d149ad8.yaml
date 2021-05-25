@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: difference between maximum and minimum amplitude of the motor current
+    during a single cycle corresponding to one revolution of the driven load expressed
+    as a percentage of the average value of the current during this cycle
+  examples: []
+  id: 411-52-32
+  language_code: eng
+  notes:
+  - For AC motors, all currents in this definition are r.m.s. currents.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: current pulsation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 88c2d9df-6dd9-54e8-b820-cd3a3d149ad8
+status: valid

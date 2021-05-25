@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of incident radiant energy with respect to area at a point on
+    a real or imaginary surface `H_e = ((d Q_e))/((d A))` where `Q`~e~ is radiant
+    energy and `A` is the area on which the radiant energy is incident
+  examples: []
+  id: 845-21-071
+  language_code: eng
+  notes:
+  - The quantity "radiant exposure" defined here must not be confused with the quantity
+    named "exposure" which is used in the field of X- and γ-rays, the unit of which
+    is coulomb per kilogram (C·kg^−1^).
+  - The corresponding photometric quantity is "luminous exposure". The corresponding
+    quantity for photons is "photon exposure".
+  - The radiant exposure is expressed in joule per square metre (J·m^−2^ = W·s·m^−2^).
+  - This entry was numbered 845-01-42 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiant exposure
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~e~
+
+      `H`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1cb1a539-2aea-51ea-81ba-73102ecceffb
+status: valid

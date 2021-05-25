@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: essai des performances d'une {{cellule élémentaire à combustible, IEV:485-08-01}}
+    basé sur une {{cellule élémentaire, IEV:485-05-02}}
+  examples: []
+  id: 485-22-05
+  language_code: fra
+  notes:
+  - L'essai d'une cellule élémentaire est typiquement un essai à l'échelle d'un laboratoire
+    pendant lequel plusieurs variables peuvent être ajustées pour obtenir des données
+    sur une gamme étendue de conditions, telles que la température, la {{courant surfacique,
+    IEV:485-12-01}}, les débits de combustible et d'oxydant, etc. Le résultat d'un
+    essai d'une cellule élémentaire peut être une {{courbe de polarisation, IEV:485-15-06}},
+    une représentation de la stabilité en tension, ou d'autres données relatives aux
+    performances de la cellule élémentaire à combustible.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai d'une cellule élémentaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3fbf06c0-d23a-5875-b9bc-fa035fa030f2
+status: valid

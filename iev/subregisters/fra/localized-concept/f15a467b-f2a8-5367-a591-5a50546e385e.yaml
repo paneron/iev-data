@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: produit de la puissance fournie à une antenne, par son gain relatif
+    par rapport au doublet demi-onde dans une direction donnée
+  examples: []
+  id: 712-02-52
+  language_code: fra
+  notes:
+  - On doit préférer la notion de puissance isotrope rayonnée équivalente à celle
+    de puissance apparente rayonnée.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance apparente rayonnée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PAR
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: f15a467b-f2a8-5367-a591-5a50546e385e
+status: valid

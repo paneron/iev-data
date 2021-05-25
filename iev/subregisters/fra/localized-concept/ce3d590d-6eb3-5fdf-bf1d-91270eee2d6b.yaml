@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: produit de la luminance dans une direction spécifiée et de la zone apparente
+    de la pupille (naturelle ou artificielle) observée de cette direction
+  examples: []
+  id: 845-22-010
+  language_code: fra
+  notes:
+  - L'éclairement rétinien nominal s'applique aux situations dans lesquelles l'œil
+    observe une surface de luminance uniforme plus grande que la zone de la pupille
+    naturelle ou artificielle.
+  - L'éclairement rétinien nominal est exprimé en candela (cd), candela par mètre
+    carré fois millimètres carrés (cd·m^−2^·mm^2^), ou <a href="IEV845-22-038">troland</a>.
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement rétinien nominal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ce3d590d-6eb3-5fdf-bf1d-91270eee2d6b
+status: valid

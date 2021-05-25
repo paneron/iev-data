@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: intégration en fonction du temps du carré de la pression acoustique
+    instantanée pondérée suivant la pondération fréquentielle A, pendant un intervalle
+    de temps ou un évènement spécifiés, tel que le survol d'un aéronef. La pondération
+    fréquentielle peut être différente de la pondération A, s'il en est ainsi spécifié
+  examples: []
+  id: 801-21-23
+  language_code: fra
+  notes:
+  - La durée d'intégration est implicitement comprise dans l'intégrale et il n'est
+    pas nécessaire de la mentionner explicitement.
+  - L'unité d'exposition au bruit est le pascal сarré-sесоndе (Ра^2^s), si le temps
+    est exprimé en secondes ; le pascal carré-kiloseconde (Pa^2^ks), si le temps est
+    exprimé en kilosecondes ; le pascal carré-heure (Pa^2^h), si le temps est exprimé
+    en heures.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposition au bruit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 062ca900-55d7-5488-a008-7d62e01bbcfa
+status: valid

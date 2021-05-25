@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: traduire en {{langage machine, IEV:171-05-13}} un {{programme d'ordinateur,
+    IEV:171-05-05}} écrit en {{langage d'assemblage, IEV:171-05-15}} et éventuellement
+    {{relier, IEV:171-05-48}} les {{sous-programmes, IEV:171-05-43}}
+  examples: []
+  id: 171-05-16
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: assembler
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5aaee694-ee1e-5679-ad3d-0fc1f0a68782
+status: valid

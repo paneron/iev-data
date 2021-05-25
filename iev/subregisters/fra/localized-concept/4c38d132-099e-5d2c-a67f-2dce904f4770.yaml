@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.4
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.4
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{entité physique, IEV:741-01-26}} ou {{entité numérique, IEV:741-01-14}}
+    qui a une valeur pour un particulier, une {{organisation, IEV:901-03-02}} ou un
+    gouvernement'
+  examples: []
+  id: 741-01-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: actif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4c38d132-099e-5d2c-a67f-2dce904f4770
+status: valid

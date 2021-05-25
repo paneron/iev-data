@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '2.2'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 2.2
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: conformity assessment activity that is performed by the person or organization
+    that provides the object
+  examples: []
+  id: 902-01-02
+  language_code: eng
+  notes:
+  - The first-, second- and third-party descriptors used to characterize conformity
+    assessment activities with respect to a given object are not to be confused with
+    the legal identification of the relevant parties to a contract.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: first-party conformity assessment activity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 31ce93bc-cc54-5bdd-a0c2-63d6d14ee33d
+status: valid

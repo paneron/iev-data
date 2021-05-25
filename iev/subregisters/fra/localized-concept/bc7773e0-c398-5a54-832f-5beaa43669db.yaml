@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: quotient de la quantité de chaleur pénétrant dans un local à travers
+    le vitrage, par la quantité d'énergie rayonnante solaire reçue par ce vitrage
+  examples: []
+  id: 845-29-125
+  language_code: fra
+  notes:
+  - 'Le facteur solaire est la somme de deux grandeurs: le facteur de transmission
+    énergétique, `τ`~e~, du vitrage et la grandeur égale au quotient du gain thermique
+    par convection et par rayonnement provenant du vitrage et pénétrant dans le local,
+    `Q`~2~, par l''énergie rayonnante solaire, `Q`~1~, reçue par le vitrage:
+
+
+    `g` = `τ`~e~ + `Q`~2~ / `Q`~1~'
+  - L'unité de facteur solaire est un.
+  - Cet article était numéroté 845-09-106 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur solaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un vitrage
+  - designation: facteur de transmission total
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: d'un vitrage
+  - designation: facteur de transmission total en énergie
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: d'un vitrage
+dateAccepted: 2018-11-17
+id: bc7773e0-c398-5a54-832f-5beaa43669db
+status: valid

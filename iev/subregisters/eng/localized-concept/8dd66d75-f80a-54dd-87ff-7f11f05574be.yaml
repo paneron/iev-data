@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: average value of the instantaneous availability over a given time interval
+    (`t`~1~, `t`~2~)
+  examples: []
+  id: 192-08-05
+  language_code: eng
+  notes:
+  - 'The mean availability is related to the instantaneous availability `A`(`t`) as:
+
+
+    `bar A ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) A ( t ) d t`'
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean availability
+    normative_status: preferred
+    type: expression
+  - designation: average availability
+    normative_status: preferred
+    type: expression
+  - designation: '`bar A ( t_1 , t_2 )`'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: 8dd66d75-f80a-54dd-87ff-7f11f05574be
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.8
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.8
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: function consisting in bringing automatically the main contacts of the
+    residual current device from the closed position into the open position, thereby
+    interrupting the current(s) flowing through them
+  examples: []
+  id: 442-05-26
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interruption
+    normative_status: preferred
+    type: expression
+    usage_info: for a residual current device
+dateAccepted: 2019-05-01
+id: 6c006349-e618-5421-8c68-0a4d008499f8
+status: valid

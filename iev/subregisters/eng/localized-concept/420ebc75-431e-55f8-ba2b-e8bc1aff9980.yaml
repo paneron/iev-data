@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 3.4, modified – Note 3 to entry has been deleted.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: Note 3 to entry has been deleted.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: document that prescribes technical {{requirement, IEV:901-05-05}}s to
+    be fulfilled by a product, process or service
+  examples: []
+  id: 901-02-08
+  language_code: eng
+  notes:
+  - A technical specification should indicate, whenever appropriate, the procedure(s)
+    by means of which it may be determined whether the requirements given are fulfilled.
+  - A technical specification may be a {{standard, IEV:901-02-02}}, a part of a standard
+    or independent of a standard.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: technical specification
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 420ebc75-431e-55f8-ba2b-e8bc1aff9980
+status: valid

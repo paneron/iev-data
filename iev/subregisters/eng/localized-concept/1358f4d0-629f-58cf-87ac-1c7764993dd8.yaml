@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 881-04-40
+      link: https://webstore.iec.ch/publication/272
+      original: IEC 60050-881:1983, 881-04-40, modified
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: definition 724
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 724, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: average distance that particles of a given type travel between specific
+    interactions in a given medium
+  examples: []
+  id: 395-01-44
+  language_code: eng
+  notes:
+  - The mean free path may be specified for all interactions, i.e., total mean free
+    path, or for particular types of interaction such as scattering, capture, or ionization.
+  - The mean free path is the reciprocal of the macroscopic cross-section.
+  - This entry was numbered 393-14-86 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean free path
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 1358f4d0-629f-58cf-87ac-1c7764993dd8
+status: valid

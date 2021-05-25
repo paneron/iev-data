@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: traffic for which the bids for resources obey a Poisson process
+  examples: []
+  id: 715-05-19
+  language_code: eng
+  notes:
+  - The Poisson traffic is characterized by a peakedness factor equal to one.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Poisson traffic
+    normative_status: preferred
+    type: expression
+  - designation: random traffic
+    type: expression
+dateAccepted: 1996-12-01
+id: 8f940203-b29b-5cc8-a393-ef730ea8c670
+status: valid

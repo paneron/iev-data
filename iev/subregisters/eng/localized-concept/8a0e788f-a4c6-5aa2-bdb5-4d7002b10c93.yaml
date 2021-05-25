@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{dyadic Boolean operation, IEV:171-03-08}} whose result has the Boolean
+    value 1 if and only if the {{operands, IEV:171-03-04}} have different Boolean
+    values'
+  examples: []
+  id: 171-03-16
+  language_code: eng
+  notes:
+  - The exclusive-or operation applied to variables `a` and `b` is noted `a o+ b`
+    (U+2295). Other notations are also used like `a ≢ b` (U+2262), `a ↮ b` (U+21AE),
+    `a ⇎ b` (U+21CE), `a ⩒ b` (U+2A52), `a ⩡ b` (U+2A61).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exclusive-or operation
+    normative_status: preferred
+    type: expression
+  - designation: XOR
+    normative_status: preferred
+    type: expression
+  - designation: non-equivalence operation
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: 8a0e788f-a4c6-5aa2-bdb5-4d7002b10c93
+status: valid

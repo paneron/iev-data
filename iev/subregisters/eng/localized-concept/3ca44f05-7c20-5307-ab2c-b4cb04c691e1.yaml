@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: probability of not meeting the load during a given time interval, due
+    to a generation capacity shortfall
+  examples: []
+  id: 692-10-03
+  language_code: eng
+  notes:
+  - Generation capacity generally includes imports over interconnections with other
+    {{bulk electric systems, IEV:692-01-04}}.
+  - This entry was numbered 191-29-03 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loss-of-load probability
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+  - designation: LOLP
+    type: expression
+dateAccepted: 2017-12-01
+id: 3ca44f05-7c20-5307-ab2c-b4cb04c691e1
+status: valid

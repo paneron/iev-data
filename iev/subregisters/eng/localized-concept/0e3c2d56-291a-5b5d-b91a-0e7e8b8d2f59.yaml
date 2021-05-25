@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: 'measure of dispersion equal to the sum of the squared deviations from
+    the mean value divided by the number of deviations or by that number minus 1,
+    depending upon the cases considered: (1) variance of the whole population of `N`
+    items: `(1)/(N) sum_((j = 1))^N ( x_j - bar X )^2` (2) variance of the sample
+    of `n` observations: `(1)/(n) sum_((j = 1))^n ( x_j - bar X )^2` (3) estimate
+    of the variance of the population from a sample: `(1)/((n - 1)) sum_((j = 1))^n
+    ( x_j - bar X )^2` where `bar X` is the mean value of the items of observation
+    `x_j` considered'
+  examples: []
+  id: 103-08-12
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variance
+    normative_status: preferred
+    type: expression
+    usage_info: in statistics
+dateAccepted: 2009-12-01
+id: 0e3c2d56-291a-5b5d-b91a-0e7e8b8d2f59
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-11-01
+  definition: valeur de la tension phase/neutre ou phase/phase assignée par le constructeur
+    du dispositif de connexion, celui-ci étant prévu pour être utilisé dans des installations
+    dont la tension d'alimentation ne dépasse pas la tension d'isolement assignée
+    du dispositif de connexion lui-même
+  examples: []
+  id: 442-06-39
+  language_code: fra
+  notes:
+  - La tension d'isolement assignée est toujours comprise comme la tension entre parties
+    sous tension et non entre parties sous tension et terre.
+  reviewDate: 1998-11-01
+  reviewDecisionDate: 1998-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension d'isolement assignée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-11-01
+id: b49d38fe-b824-523e-b2ad-a185397c6fa4
+status: valid

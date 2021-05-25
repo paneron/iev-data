@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: probabilité de fonctionner tel que requis pendant l'intervalle de temps
+    (`t`~1~, `t`~2~), dans des conditions données
+  examples: []
+  id: 192-05-05
+  language_code: fra
+  notes:
+  - 'Les conditions données incluent les aspects ayant un impact sur la fiabilité,
+    tels que: le mode de fonctionnement, les niveaux de contrainte, les conditions
+    environnementales et la maintenance, le cas échéant.'
+  - En règle générale, l’entité est supposée se trouver dans un état lui permettant
+    d’accomplir la fonction requise au début de l’intervalle de temps.
+  - Si `t`~1~= 0 et `t`~2~ = `t`, alors `R`(0, `t`) est noté simplement `R`(`t`) et
+    est appelé fonction de fiabilité ou fonction de survie de l’entité. Voir l'IEC
+    61703, _Expressions mathématiques pour les termes de fiabilité, de disponibilité,
+    de maintenabilité et de logistique de maintenance_, pour plus de détails.
+  - Voir aussi fiabilité, &lt;d’une entité&gt; ({{192-01-24, IEV:192-01-24}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: fiabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: mesure
+dateAccepted: 2018-11-17
+id: aed737cf-7bbe-5ca5-98be-a166512b71c4
+status: valid

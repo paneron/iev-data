@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: alimentation électrique pour laquelle la tension de sortie et le courant
+    de sortie ont une relation non linéaire
+  examples: []
+  id: 426-11-41
+  language_code: fra
+  notes:
+  - Par exemple, une alimentation régulée par des semiconducteurs avec une tension
+    de sortie constante pouvant atteindre un courant limite constant.
+  reviewDecisionEvent: published
+  terms:
+  - designation: alimentation non linéaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0b824e97-40bb-5dd8-b700-b666df85ee41
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: RMS value of the current required to heat up the conductor within 1
+    s from the temperature reached in rated service at the maximum ambient temperature
+    to a temperature not exceeding the limiting temperature
+  examples: []
+  id: 426-08-07
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated short-time thermal current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~th~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: 8da952c9-2219-5c0a-9089-b1074e4a7620
+status: valid

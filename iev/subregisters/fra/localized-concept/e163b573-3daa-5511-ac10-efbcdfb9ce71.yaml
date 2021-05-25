@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 151-13-02
+      original: 151-13-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-09-01
+  definition: électrode capable d'émettre des porteurs de charge positifs vers le
+    milieu de plus faible conductivité ou de collecter des porteurs de charge négatifs
+    qui en proviennent
+  examples: []
+  id: 841-22-31
+  language_code: fra
+  notes:
+  - Le sens du courant électrique va du circuit extérieur vers le milieu de plus faible
+    conductivité à travers l’anode.
+  - Dans certains cas (par exemple pour les éléments électrochimiques), le terme "anode"
+    désigne l’une ou l’autre électrode selon le régime électrique du dispositif. Dans
+    d’autres cas (par exemple pour les tubes électroniques et les dispositifs semi-conducteurs),
+    le terme "anode" désigne une électrode particulière.
+  reviewDate: 2004-09-01
+  reviewDecisionDate: 2004-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: anode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-09-01
+id: e163b573-3daa-5511-ac10-efbcdfb9ce71
+status: valid

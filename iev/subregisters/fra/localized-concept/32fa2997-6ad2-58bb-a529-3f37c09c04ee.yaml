@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: '{{bruit, IEV:702-08-03}} dont les valeurs à des instants donnés sont
+    imprévisibles'
+  examples: []
+  id: 161-02-14
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit aléatoire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bruit erratique
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 32fa2997-6ad2-58bb-a529-3f37c09c04ee
+status: valid

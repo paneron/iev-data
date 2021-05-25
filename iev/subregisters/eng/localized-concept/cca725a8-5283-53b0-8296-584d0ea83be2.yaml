@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for a square matrix *`A`* of order `n` with the elements `Aij`, scalar
+    denoted by det *`A`*, equal to the algebraic sum of the products obtained by taking
+    as factors in all possible ways one and only one element from each row and each
+    column, each product with the sign plus or minus depending whether the total number
+    of inversions of the two subscripts is even or odd `det A = underset(sigma)( sum
+    ) ( - 1 )^(epsilon ( sigma )) A_((1 sigma ( 1 ))) A_((2 sigma ( 2 ))) ... A_((n
+    sigma ( n )))` where `σ` = (`σ`(1), `σ`(2), …, `σ`(`n`)) is a permutation of the
+    subscripts (1, 2, …, `n`), `ε`(`σ`) is the number of inversions in permutation
+    `σ`, and the sum denoted by Σ is for all permutations
+  examples: []
+  id: 102-06-20
+  language_code: eng
+  notes:
+  - The determinant of a matrix is equal to the determinant of the `n` vectors, the
+    coordinates of which are the elements of the rows or of the columns.
+  - The determinant of the matrix `A = ( [[A_((11)),cdots,A_((1 n))],[vdots,ddots,vdots],[A_((n
+    1)),cdots,A_((n n))]] )` is denoted *`A`* or `| [[A_((11)),cdots,A_((1 n))],[vdots,ddots,vdots],[A_((n
+    1)),cdots,A_((n n))]] |`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: determinant
+    normative_status: preferred
+    type: expression
+    usage_info: of a matrix
+dateAccepted: 2008-08-01
+id: cca725a8-5283-53b0-8296-584d0ea83be2
+status: valid

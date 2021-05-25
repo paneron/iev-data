@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2013-11-01
+  definition: 'différence entre la variable de référence et la variable de réaction
+    VOIR: Figure 2.'
+  examples: []
+  id: 351-48-04
+  language_code: fra
+  notes:
+  - Comme la variable désignée en ce point est équivalente à l’opposée de la grandeur
+    désignée erreur de mesure ou erreur comme utilisée en métrologie (voir point 3.10
+    du Vocabulaire international de métrologie – Concepts fondamentaux et généraux
+    et termes associés (VIM), 3ème édition 2007) et de la grandeur désignée erreur
+    absolue comme utilisée également en métrologie (voir l'article 311-01-05 de la
+    CEI60050-300:2001), le terme variable d’erreur est déconseillé en technologie
+    de commande et de régulation (voir CEI 60027-6:2006).
+  - 'Cet article était numéroté 351-27-04 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variable de différence de régulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: variable d’erreur
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 992f5f36-f31e-5a12-9ce7-3c0597290cfd
+status: valid

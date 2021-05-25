@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: limit, if it exists, of the quotient of the conditional probability
+    that the repair is completed within time interval (`t`, `t` + Δ`t`) and Δ`t`,
+    when Δ`t` tends to zero, given that the repair started at `t` = 0 and had not
+    been completed before time `t`
+  examples: []
+  id: 192-07-20
+  language_code: eng
+  notes:
+  - The instantaneous repair rate is related to repair time ({{192-07-19, IEV:192-07-19}})
+    and its constituent parts.
+  - The unit of measurement of instantaneous repair rate is the unit of time to the
+    power −1.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous repair rate
+    normative_status: preferred
+    type: expression
+  - designation: repair rate
+    type: expression
+  - designation: '`μ`(`t`)'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: 9e4e6ec0-3f9c-5f74-b981-f34bb4866c67
+status: valid

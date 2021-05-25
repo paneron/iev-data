@@ -1,0 +1,53 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: factor by which the readings of a physical photometer can be multiplied
+    in order to correct for the error caused by differences between the relative spectral
+    responsivity of the photometer and the <a href="IEV845-21-035">spectral luminous
+    efficiency</a> for photopic vision, `V`(`λ`), that it is intended to simulate
+    when the photometer is used to measure a source having a <a href="IEV845-21-030">relative
+    spectral distribution</a> different from that of the source with which the photometer
+    was calibrated
+  examples: []
+  id: 845-25-115
+  language_code: eng
+  notes:
+  - 'Most photometers are designed to simulate the spectral luminous efficiency for
+    photopic vision, `V`(`λ`), and are calibrated using a source corresponding to
+    <a href="IEV845-23-021">CIE standard illuminant</a> A. For such a photometer,
+    the spectral mismatch correction factor can be calculated using the equation:
+
+
+    `F^( * ) = ((underset(lambda)( int ) S ( lambda ) V ( lambda ) d lambda))/((underset(lambda)(
+    int ) S ( lambda ) s_((rel)) ( lambda ) d lambda)) ((underset(lambda)( int ) S_A
+    ( lambda ) s_((rel)) ( lambda ) d lambda))/((underset(lambda)( int ) S_A ( lambda
+    ) V ( lambda ) d lambda))`
+
+
+    where `s`~rel~(`λ`) is the relative spectral responsivity of the photometer and
+    `S`(`λ`) and `S`~A~(`λ`) are the respective relative spectral power distributions
+    of the source to be measured and CIE standard illuminant A.'
+  - The term "colour correction factor" is no longer used.
+  - The term spectral mismatch correction factor can also be applied to other detectors
+    whose response is intended to simulate a particular observer function, such as
+    actinic radiometers.
+  - The spectral mismatch correction factor has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral mismatch correction factor
+    normative_status: preferred
+    type: expression
+    usage_info: for a photometer
+  - designation: colour correction factor
+    normative_status: deprecated
+    type: expression
+  - designation: '`F`^*^'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 79a10a0d-f461-5c95-8dee-9fcead16fb25
+status: valid

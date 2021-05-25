@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: complex quantity `underset(_)(gamma) = alpha + j beta` appearing in
+    the complex representation of a wave `A_0 exp ( - underset(_)(gamma) x + j omega
+    t + j vartheta_0 )`, where its real part `A_0 exp ( - alpha x ) cos ( - beta x
+    + omega t + vartheta_0 )` represents, along a line parallel to the `x`-axis, a
+    characteristic quantity of a guided sinusoidal wave or a plane sinusoidal wave,
+    at angular frequency `ω` and initial phase `vartheta_0`
+  examples: []
+  id: 103-10-18
+  language_code: eng
+  notes:
+  - The concept of propagation coefficient has a meaning only when `A_0` and `underset(_)(gamma)`
+    are substantially independent of `x.`
+  - The propagation coefficient has the dimension of reciprocal length and is usually
+    a function of frequency.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: propagation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`underset(_)(gamma)`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 6b75cd39-a048-5f51-bb5f-75b913c6ee01
+status: valid

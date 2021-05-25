@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: entirety of means of providing {{telecommunication services, IEV:716-02-01}}
+    between a number of locations where {{installations, IEV:151-11-26}} provide access
+    to these services
+  examples: []
+  id: 701-02-07
+  language_code: eng
+  notes:
+  - The internal organization of a telecommunication network can allow identification
+    of distinct parts of the telecommunication network, each of them relating to a
+    particular service or group of services.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: telecommunication network
+    normative_status: preferred
+    type: expression
+  - designation: telecommunication system
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: c18f819c-f2a1-56ac-b840-400cba246994
+status: valid

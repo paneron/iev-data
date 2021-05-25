@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: the part of the blocked traffic which does not result in repeated call
+    attempts
+  examples: []
+  id: 715-05-09
+  language_code: eng
+  notes:
+  - This term should not be designated as "lost traffic" in view of the possible confusion
+    with the general definition of loss mode of operation.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: abandoned traffic
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: bac08461-6573-525b-817e-ed3612b74665
+status: valid

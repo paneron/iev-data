@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: output circuit in which one output terminal is directly earthed; this
+    terminal is often the common point
+  examples: []
+  id: 312-06-14
+  language_code: eng
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earthed output circuit
+    normative_status: preferred
+    type: expression
+  - designation: grounded output
+    type: expression
+  - designation: single-ended output
+    type: expression
+dateAccepted: 2001-07-01
+id: 0c58daae-a34a-58aa-8b6a-d3aad31b48b7
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble des conducteurs qui constituent l'itinéraire prévu pour le
+    courant de retour de traction et le courant dans des conditions de défaut
+  examples: []
+  id: 811-35-01
+  language_code: fra
+  notes:
+  - Les conducteurs peuvent être par exemple:* les rails de roulement;* les rails
+    de retour de courant;* les conducteurs de retour;* les câbles de retour.
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit de retour
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0d712a87-5735-592f-a028-d37801974d32
+status: valid

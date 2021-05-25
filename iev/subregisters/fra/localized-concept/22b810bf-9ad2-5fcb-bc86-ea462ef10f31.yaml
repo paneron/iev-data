@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.9
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.9, modifié
+      ref: IEC 62267:2009
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: mode d'exploitation du train dans lequel le conducteur est entièrement
+    responsable et aucun système technique n'est utilisé pour superviser ses activités,
+    mais où les aiguillages et les voies uniques peuvent être supervisées en partie
+    par le système
+  examples: []
+  id: 821-09-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: exploitation en conduite à vue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: GOA0
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TOS
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 22b810bf-9ad2-5fcb-bc86-ea462ef10f31
+status: valid

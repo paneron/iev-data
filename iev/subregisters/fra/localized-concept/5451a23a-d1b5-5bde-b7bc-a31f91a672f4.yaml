@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: récepteur thermique de <a href="IEV845-21-002">rayonnement optique</a>
+    dans lequel la force électromotrice produite par plusieurs jonctions thermoélectriques
+    est utilisée pour mesurer l'échauffement produit par l'absorption du rayonnement
+  examples: []
+  id: 845-25-054
+  language_code: fra
+  notes:
+  - Cet article était numéroté 845-05-47 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermopile
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour le rayonnement optique
+  - designation: pile thermoélectrique
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: pour le rayonnement optique
+dateAccepted: 2018-11-17
+id: 5451a23a-d1b5-5bde-b7bc-a31f91a672f4
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: departure of the {{output voltage, IEV:485-13-03}} of a {{fuel cell,
+    IEV:485-08-01}} from the thermodynamic value as a consequence of irreversible
+    processes within the components of the fuel cell
+  examples: []
+  id: 485-15-01
+  language_code: eng
+  notes:
+  - Polarization gives rise to loss of {{efficiency, IEV:485-10-01}} and increases
+    with {{faradaic current, IEV:485-12-04}} passing through the cell.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarization
+    normative_status: preferred
+    type: expression
+    usage_info: of a fuel cell
+  - designation: fuel cell polarization
+    type: expression
+dateAccepted: 2020-02-01
+id: 56243885-78d8-544c-a432-202e3340ecbe
+status: valid

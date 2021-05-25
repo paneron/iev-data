@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: function having a constant value for all negative values of the independent
+    variable and a value increased by one unit for all positive values
+  examples: []
+  id: 103-03-02
+  language_code: eng
+  notes:
+  - '`c + epsilon ( x )` denotes a general unit step function where `c` is a constant
+    and `epsilon ( x )` is the unit step function.'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: general unit step function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: cbc55c0b-01d9-5116-a477-43757607e1fa
+status: valid

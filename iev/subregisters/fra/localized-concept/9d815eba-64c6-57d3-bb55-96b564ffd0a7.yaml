@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: 'si l''on désigne par `U` la tension à des bornes de sortie données,
+    produite à la lecture d''un signal de fréquence de référence 1 000 Hz, enregistré
+    à une vélocité `v` cm/s, la sensibilité d''une voie à 1 000 Hz est donné par l''expression:
+    `(U)/(v) mV // cm * s^(- 1)` où `U` et `v` sont l''une et l''autre des valeurs
+    efficaces ou des valeurs de crête'
+  examples: []
+  id: 806-14-70
+  language_code: fra
+  notes: []
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité d'une voie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 9d815eba-64c6-57d3-bb55-96b564ffd0a7
+status: valid

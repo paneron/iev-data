@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: for an electromagnetic wave incident from a given direction, a quantity
+    which characterizes the power back-scattered by hydrometeors existing in the atmosphere
+  examples: []
+  id: 705-05-24
+  language_code: eng
+  notes:
+  - 'For homogeneous rain precipitation, the radar reflectivity factor is given by
+    the expression:
+
+
+    `Z = ((sum N_i D_i^6))/(V)`
+
+
+    where `N`~`i`~ is the number of particles of diameter `D`~`i`~ in a volume `V`.
+    The factor `Z` is generally expressed in mm^6^/m^3^.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radar reflectivity factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 2551ffab-d9e7-5b12-b51d-eaa1050753ac
+status: valid

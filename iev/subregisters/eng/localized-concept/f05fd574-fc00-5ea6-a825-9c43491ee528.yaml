@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.5
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.5
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: device which stores and forwards frames from one bus to another on the
+    base of their link layer addresses
+  examples: []
+  id: 811-37-09
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bridge
+    normative_status: preferred
+    type: expression
+    usage_info: in a train communication network
+dateAccepted: 2017-11-01
+id: f05fd574-fc00-5ea6-a825-9c43491ee528
+status: valid

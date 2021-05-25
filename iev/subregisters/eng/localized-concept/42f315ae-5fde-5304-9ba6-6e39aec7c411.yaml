@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-04-01
+  definition: specified voltage of a battery at which the battery discharge is terminated
+  examples: []
+  id: 482-03-30
+  language_code: eng
+  notes: []
+  reviewDate: 2004-04-01
+  reviewDecisionDate: 2004-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: end-of-discharge voltage
+    normative_status: preferred
+    type: expression
+  - designation: final voltage
+    type: expression
+  - designation: cut-off voltage
+    type: expression
+  - designation: end-point voltage
+    type: expression
+dateAccepted: 2004-04-01
+id: 42f315ae-5fde-5304-9ba6-6e39aec7c411
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'scalar quantity equal to the flux of the electric current density *`J`*
+    through a given directed surface S: `I = underset(S)( int ) J * e_n d A` where
+    `*e*`~n~d`A` is the vector surface element'
+  examples: []
+  id: 121-11-13
+  language_code: eng
+  notes:
+  - The electric current through a surface is equal to the limit of the quotient of
+    the electric charge transferred through that surface during a time interval by
+    the duration of this interval when this duration tends to zero.
+  - For charge carriers confined to a surface, the electric current is defined through
+    a curve of this surface (see the note to term “lineic electric current”).
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (electric) current
+    normative_status: preferred
+    type: expression
+  - designation: (conduction) current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 2862b929-34c1-5537-87b0-a01be1b8cd3d
+status: valid

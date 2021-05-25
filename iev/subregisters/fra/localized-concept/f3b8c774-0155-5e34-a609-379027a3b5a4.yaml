@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: temps écoulé entre les instants où la grandeur de l'impulsion aux bornes
+    de sortie atteint des limites respectivement supérieure et inférieure spécifiées
+    quand un dispositif à semi-conducteurs est commuté de son état conducteur à son
+    état non conducteur
+  examples: []
+  id: 521-05-24
+  language_code: fra
+  notes:
+  - Les limites supérieure et inférieure sont habituellement respectivement 90 % et
+    10 % de l’amplitude initiale de l’impulsion de sortie.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de décroissance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: f3b8c774-0155-5e34-a609-379027a3b5a4
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: rapport de l'amplitude maximale a l'amplitude minimale adjacente, le
+    long de l'axe d'une ligne de transmission ou d'un guide d'ondes, d'une composante
+    particulière du champ électromagnétique d'une onde stationnaire
+  examples: []
+  id: 726-07-09
+  language_code: fra
+  notes:
+  - Ce rapport est égal à (1 + `r`) / (1 — `r`) où `r` est le module du facteur de
+    réflexion complexe.
+  - On emploie parfois, comme rapport d'onde stationnaire, l'inverse du rapport ci-dessus,
+    mais cet usage doit être évité.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport d'onde stationnaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ROS
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: d10693fb-fb5e-57a6-bfb8-9838ec257d7e
+status: valid

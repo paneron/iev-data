@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: en {{régime sinusoïdal, IEV:131-11-28}}, dans un milieu tel qu'une relation
+    linéaire existe en chaque point entre les {{phaseurs, IEV:131-11-26}} <u>`*D*`</u>
+    et <u>`*E*`</u> représentant respectivement l'{{induction électrique, IEV:121-11-40}}
+    et le {{champ électrique, IEV:121-11-18}}, grandeur complexe `ε`~ r~ définie par
+    la relation <u>`*D*`</u> = `ε`~0~`ε`~ r~ <u>`*E*`</u> où `ε`~0~ est la {{constante
+    électrique, IEV:121-11-03}}
+  examples: []
+  id: 121-12-14
+  language_code: fra
+  notes:
+  - La permittivité relative complexe, généralement fonction de la fréquence, est
+    une {{grandeur scalaire, IEV:102-02-19}} dans un milieu isotrope, une {{grandeur
+    tensorielle, IEV:102-03-40}} dans un milieu anisotrope.
+  - On écrit en général `ε`~ r~ = `ε'`~r~ − j`ε''`~r~, où `ε'`~r~ est la {{permittivité
+    relative réelle, IEV:121-12-15}} et `ε''`~r~ est l'{{indice de pertes diélectriques,
+    IEV:121-12-16}} qui caractérise les {{pertes diélectriques, IEV:121-12-11}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: permittivité relative complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bbcff588-ed63-56c0-b8c4-65c60e1ee0df
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: 1. an assembly, obtained by frequency division multiplexing of a specified
+    number of groups, normally 5, in adjacent positions in a frequency band of specified
+    width 2. a frequency band of standardized width, 240 kHz, in a multichannel carrier
+    system and occupying one of a number of specified positions in the spectrum
+  examples: []
+  id: 704-10-15
+  language_code: eng
+  notes:
+  - A supergroup is normally an assembly of 60 FDM telephone channels.
+  - Signals, other than those derived from an assembly of groups but having specified
+    characteristics, may occupy the whole or a part of a frequency band assigned to
+    a supergroup.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: supergroup
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 8ebb73c7-09cf-59d5-a6b9-bad0b8193f43
+status: valid

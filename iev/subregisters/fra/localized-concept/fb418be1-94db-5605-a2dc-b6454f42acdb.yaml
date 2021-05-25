@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: angle de la direction d'observation avec la perpendiculaire de la surface
+    observée
+  examples: []
+  id: 845-25-079
+  language_code: fra
+  notes:
+  - L'angle d'incidence est exprimé en radian (rad) ou degré (°).
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle d'observation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: angle de vision
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fb418be1-94db-5605-a2dc-b6454f42acdb
+status: valid

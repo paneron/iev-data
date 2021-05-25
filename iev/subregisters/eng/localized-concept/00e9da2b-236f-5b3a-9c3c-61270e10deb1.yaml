@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: display technology that modulates the light from a backlight to make
+    a grey scale image and uses red, green, and blue colour filters to make a colour
+    image
+  examples: []
+  id: 845-32-037
+  language_code: eng
+  notes:
+  - The modulator consists of a liquid crystal layer that can change the polarization
+    of the light and two (in most cases crossed) polarizers that block the light from
+    the backlight in the off state.
+  - This entry was numbered 845-04-99 in IEC 60050-845:1987.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: LCD
+    normative_status: preferred
+    type: expression
+  - designation: liquid crystal display
+    type: expression
+dateAccepted: 2020-12-01
+id: 00e9da2b-236f-5b3a-9c3c-61270e10deb1
+status: valid

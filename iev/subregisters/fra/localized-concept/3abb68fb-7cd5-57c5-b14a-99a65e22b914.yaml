@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{état stable, IEV:692-02-02}} dans lequel un {{événement plausible,
+    IEV:692-01-08}} peut occasionner des {{pertes de charge, IEV:692-01-16}}, des
+    fonctionnements d''éléments au-delà de leurs caractéristiques assignées, des tensions
+    de jeux de barres ou la fréquence du réseau hors des plages de tolérances, des
+    {{déclenchements en cascade, IEV:692-03-08}} ou de l''instabilité image::/assets/images/parts/692/692-fig2-fr.png[Figure
+    2 - États d''un réseau d''énergie électrique] <simg></simg>'
+  examples: []
+  id: 692-02-07
+  language_code: fra
+  notes:
+  - 'Les flèches indiquent les transitions d’état les plus importantes induites par
+    des événements plausibles. Les transitions de récupération, dans les directions
+    opposées, résultent des interventions des opérateurs.
+
+
+    *Figure 3 – Exemples de transitions internes aux états d’un réseau d’énergie électrique*
+
+
+    image::/assets/images/parts/692/692-fig6-fr.png[Figure 6 - Exemples d’états d’un
+    réseau d’énergie électrique et de la situation de fonctionnement correspondante]'
+  - En état d’alerte, un événement plausible supplémentaire peut entraîner un {{état
+    instable, IEV:692-02-03}}.
+  - Cet article portait le numéro 191-22-06 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: état d’alerte
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+  - designation: état vulnérable
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: 3abb68fb-7cd5-57c5-b14a-99a65e22b914
+status: valid

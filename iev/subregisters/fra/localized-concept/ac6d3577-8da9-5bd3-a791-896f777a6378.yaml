@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température de l'air ou d'un autre milieu au voisinage du dispositif
+    en essai
+  examples: []
+  id: 845-27-110
+  language_code: fra
+  notes:
+  - La température ambiante est exprimée en degré Celsius (°C).
+  - Pendant le mesurage de la température ambiante, il convient que l'instrument ou
+    la sonde de mesure soit protégé(e) contre les courants d'air et la chaleur rayonnée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: température ambiante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ac6d3577-8da9-5bd3-a791-896f777a6378
+status: valid

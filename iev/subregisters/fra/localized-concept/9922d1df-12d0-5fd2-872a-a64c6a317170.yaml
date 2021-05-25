@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique spectral absorbé entre les faces internes
+    d'entrée et de sortie de la couche par le flux spectral qui pénètre dans la couche
+    après traversée de la face d'entrée
+  examples: []
+  id: 845-24-089
+  language_code: fra
+  notes:
+  - Pour une couche donnée, le facteur d'absorption interne spectral dépend de la
+    longueur du trajet du rayonnement dans la couche, donc en particulier de l'angle
+    d'incidence.
+  - L'unité de facteur d'absorption interne spectral est un.
+  - Cet article était numéroté 845-04-82 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur d'absorption interne spectral
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une couche homogène non diffusante
+dateAccepted: 2018-11-17
+id: 9922d1df-12d0-5fd2-872a-a64c6a317170
+status: valid

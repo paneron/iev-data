@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: loi associant l'éclairement lumineux `E`~v~, produit sur une surface
+    (perpendiculairement à la direction de la source de lumière et à une distance
+    suffisante pour que la source de lumière soit considérée comme <a href="IEV845-21-033">source
+    ponctuelle</a>) par une source de lumière, à l'intensité lumineuse `I`~v~, de
+    la source de lumière dans la direction de la surface, par rapport à la distance,
+    `d`, entre la surface et la source de lumière, et la transmissivité atmosphérique,
+    `T`, réputée uniforme `E_v = ((I_v))/((d^2)) T^(d // d_0)` où `d`~0~ est la longueur
+    spécifiée dans la définition de `T`
+  examples: []
+  id: 845-31-025
+  language_code: fra
+  notes:
+  - 'La formule dans la définition est parfois écrite sous la forme:
+
+
+    `E_v = ((I_v))/((d^2)) T^(delta)`
+
+
+    où l''exposant, `δ`, dans `Tδ` est la valeur numérique de la distance, `d,` mesurée
+    avec `d`~0~ comme "unité".'
+  - 'Compte tenu de la relation entre la transmissivité atmosphérique `T`, et la <a
+    href="IEV845-31-018">portée optique météorologique</a>, `v`, donnée à la Note
+    2 à l''article de la définition "portée optique météorologique", la loi d''Allard
+    peut aussi s''écrire sous la forme:
+
+
+    `E_v = ((I_v))/((d^2)) ( 0,05^(d // v) )`.'
+  - Cet article était numéroté 845-11-27 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi d'Allard
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6ecb5af8-5aee-5b2e-94d8-b0196d32f845
+status: valid

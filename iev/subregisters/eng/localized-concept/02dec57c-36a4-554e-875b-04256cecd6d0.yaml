@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: an incorrect operation of protection caused by a mistake in the planning
+    or design or setting or application of the protection
+  examples: []
+  id: 448-12-10
+  language_code: eng
+  notes:
+  - This kind of failure cannot normally be discovered by maintenance testing.
+  - 'A failure attributable to software in a digital relay is a principle failure.
+
+
+    See figure 448-2.
+
+
+    image::/assets/images/parts/448/448-fig2-en.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: principle failure
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: 02dec57c-36a4-554e-875b-04256cecd6d0
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: valeur de la charge non satisfaite par suite de limitations liées au
+    réseau d'énergie électrique
+  examples: []
+  id: 692-09-01
+  language_code: fra
+  notes:
+  - La charge non desservie recouvre l’{{interruption de fourniture, IEV:692-07-01}},
+    ainsi que la {{réduction de fourniture, IEV:692-01-07}} résultant d'actions de
+    délestage ou de {{réduction de charge, IEV:692-09-05}}.
+  - Cet article portait le numéro 191-28-01 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge non alimentée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: charge non desservie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7c5fcfe3-9686-56c7-b3e5-e4260b2342ad
+status: valid

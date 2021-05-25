@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: code à disparité compensée, employant un signal numérique ternaire pour
+    transmettre des éléments binaires et selon lequel les états binaires 1 sont représentés
+    par des éléments de signal qui ont normalement des polarités positive et négative
+    alternées avec des valeurs absolues identiques, les états binaires 0 étant représentés
+    par des éléments de signal de valeur zéro
+  examples: []
+  id: 704-17-13
+  language_code: fra
+  notes:
+  - En télégraphie et en communication de données, les états binaires 1 et 0 sont
+    respectivement appelés état Z et état A.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code bipolaire (alternant)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: code bipolaire (strict)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: AMI
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 8a089260-d90f-50d0-9115-178ed6f10469
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: at a point in a {{transmission channel, IEV:701-02-01}}, the ratio (generally
+    expressed in decibels) of the signal energy per transmitted {{binary digit, IEV:702-05-03}}
+    to the noise {{power spectral density, IEV:702-04-50}}
+  examples: []
+  id: 702-08-62
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bit energy to noise spectral density ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`E`/`N`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2016-12-01
+id: 0750368c-bc2c-5332-8de2-7535a2cfc81f
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: small localized wave, represented by a function having a zero mean value
+    and a practically finite duration
+  examples: []
+  id: 103-04-11
+  language_code: eng
+  notes:
+  - 'From a mother wavelet `psi ( t )`, daughter wavelets are obtained through shifting
+    and scaling (expansion or compression): `psi_((a , b)) ( t ) = (1)/((sqrt(a)))
+    psi ( ((t - b))/(a) )`, where `a` is a scale parameter and `b` a position parameter.'
+  - "Examples (see Figures 3 and 4):\n\n\n\n* Haar wavelet: `psi ( t ) = - 1` for\
+    \ −1/2 &lt; `t` &lt; 0, `psi ( t ) = 1` for 0 &lt; `t` &lt; 1/2, `psi ( t ) =\
+    \ 0` outside; \n\n* Morlet wavelet: `psi ( t ) = e^(- t^2 // 2) e^(- j omega t)`\
+    \ (example of exponential damping; Figure 4 gives the real part). \n\n\nimage::/assets/images/parts/103/103-04-118.png[Figure\
+    \ 4 - Morlet wavelet ; Ondelette de Morlet]"
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: wavelet
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 7f07cc0c-5fac-5f99-955f-a218c22368fc
+status: valid

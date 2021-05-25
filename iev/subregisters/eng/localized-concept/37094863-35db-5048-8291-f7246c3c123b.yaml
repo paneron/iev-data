@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: operation performed on a set for which a commutative multiplication
+    is defined, the result of which, for elements `a` and `b` of the set, is the unique
+    element `q`, if it exists in the set, such that `b * q = a`
+  examples: []
+  id: 102-01-21
+  language_code: eng
+  notes:
+  - Division is defined for rational numbers and extended to other classes of numbers,
+    except the division by zero, and to mathematical entities such as polynomials,
+    and also to quantities and units.
+  - In a division `a // b`, the first element `a` is called "dividend" and the second
+    is called "divisor".
+  - The division of entities `a` and `b` is expressed by the words "`a` divided by
+    `b`" or "`a` by `b`" and denoted by `(a)/(b)`, `a // b` or `a b^(- 1)`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: division
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 37094863-35db-5048-8291-f7246c3c123b
+status: valid

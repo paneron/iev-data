@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: variation relative de la permittivité due à une variation de la température
+    divisée par la variation de température `T C epsilon = ((epsilon_T – epsilon_((ref))))/((epsilon_((ref))
+    ( T – T_((ref)) )))` où `ε`~`T`~ est la permittivité à la température `T`; `ε`~ref~
+    est la permittivité à la température de référence `T`~ref~
+  examples: []
+  id: 561-06-07
+  language_code: fra
+  notes:
+  - Le coefficient de température de la permittivité s’exprime généralement en mégakelvin
+    à la puissance moins un (1/MK).
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de température de la permittivité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e201742-745e-512e-b779-e142748ef28c
+status: valid

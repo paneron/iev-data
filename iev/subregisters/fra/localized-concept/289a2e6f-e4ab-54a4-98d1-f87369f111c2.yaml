@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: limite, si elle existe, de la disponibilité instantanée lorsque le temps
+    tend vers l'infini
+  examples: []
+  id: 192-08-07
+  language_code: fra
+  notes:
+  - Dans certaines conditions, la disponibilité en régime établi peut être exprimée
+    comme le quotient du temps moyen de disponibilité par la somme des temps moyens
+    de disponibilité et d’indisponibilité. Voir l'IEC 61703, _Expressions mathématiques
+    pour les termes de fiabilité, de disponibilité, de maintenabilité et de logistique
+    de maintenance_.
+  reviewDecisionEvent: published
+  terms:
+  - designation: disponibilité en régime établi
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: disponibilité asymptotique
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 289a2e6f-e4ab-54a4-98d1-f87369f111c2
+status: valid

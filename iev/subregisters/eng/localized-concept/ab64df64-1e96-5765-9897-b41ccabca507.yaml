@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2016-12-01
+  definition: See {{IEV 701-02-03, IEV:701-02-03}}
+  examples: []
+  id: 714-01-06
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: telecommunication circuit
+    normative_status: preferred
+    type: expression
+  - designation: communication channel
+    normative_status: deprecated
+    type: expression
+  - designation: channel
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2016-12-01
+id: ab64df64-1e96-5765-9897-b41ccabca507
+status: valid

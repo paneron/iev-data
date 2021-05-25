@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 702-07-27
+      original: MOD 702-07-27
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: quotient de deux grandeurs complexes caractérisant en fonction de la
+    fréquence un signal à la sortie d'un dispositif et le signal correspondant à l'entrée
+  examples: []
+  id: 731-01-53
+  language_code: fra
+  notes:
+  - La fonction de transfert peut être prise comme le rapport des transformées de
+    Fourier ou de Laplace des grandeurs de sortie et d'entrée exprimées en fonction
+    du temps. Le terme réponse en fréquence désigne essentiellement le rapport des
+    transformées de Fourier.
+  - La fonction de transfert est la transformée de Laplace ou de Fourier de la réponse
+    impulsionnelle.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de transfert
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réponse en fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 7de6cdb2-a5f2-56cd-8765-b202ab470931
+status: valid

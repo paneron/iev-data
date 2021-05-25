@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: rapport de la valeur complexe d'une composante donnée du champ électrique
+    de l'onde réfléchie à celle de la composante correspondante de l'onde incidente,
+    en un point voisin d'une surface lisse réfléchissante
+  examples: []
+  id: 705-04-16
+  language_code: fra
+  notes:
+  - Dans le cas des transmissions sur lignes, un facteur de réflexion est défini de
+    façon analogue par le rapport des composantes de l'"onde réfléchie" et de l'"onde
+    directe", à un accès ou sur une section droite.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion (complexe)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient de réflexion (complexe)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 4b228a3c-9956-5417-a12b-b43b6f7c712a
+status: valid

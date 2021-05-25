@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the efficiency of a luminaire at a given {{instant, IEV:113-01-08}}
+    and the initial efficiency value
+  examples: []
+  id: 845-29-148
+  language_code: eng
+  notes:
+  - The luminaire maintenance factor does not include depreciation in the luminous
+    flux output of the light source.
+  - The luminaire maintenance factor has unit one.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminaire maintenance factor
+    normative_status: preferred
+    type: expression
+  - designation: LMF
+    type: expression
+  - designation: '`f`~LM~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 9c35c572-2476-560a-9364-3d32f1f7dcb0
+status: valid

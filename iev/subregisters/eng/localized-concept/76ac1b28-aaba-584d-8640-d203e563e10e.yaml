@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: wavelength of the monochromatic stimulus that, when additively mixed
+    in suitable proportions with the specified achromatic stimulus, matches the colour
+    stimulus considered in the CIE 1931 `x`, `y` chromaticity diagram
+  examples: []
+  id: 845-23-062
+  language_code: eng
+  notes:
+  - In the case of purple stimuli, the dominant wavelength is replaced by the complementary
+    wavelength.
+  - The dominant wavelength is expressed in nanometre (nm).
+  - This entry was numbered 845-03-44 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dominant wavelength
+    normative_status: preferred
+    type: expression
+    usage_info: of a colour stimulus
+  - designation: '`λ`~d~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 76ac1b28-aaba-584d-8640-d203e563e10e
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: luminance of a comparison field in which radiation of {{frequency, IEV:103-06-02}}
+    540 × 10^12^ Hz has the same brightness as the field considered under the specified
+    photometric conditions of measurement, where the comparison field must have a
+    specified size and shape which can be different from that of the field considered
+  examples: []
+  id: 845-21-095
+  language_code: eng
+  notes:
+  - Radiation at a frequency of 540 × 10^12^ Hz has a wavelength in standard air of
+    approximately 555,017 nm.
+  - A comparison field can also be used in which the radiation has any <a href="IEV845-21-030">relative
+    spectral distribution</a>, if the equivalent luminance of this field is known
+    under the same conditions of measurement.
+  - The equivalent luminance is expressed in candela per square metre (cd·m^−2^).
+  - This entry was numbered 845-01-58 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent luminance
+    normative_status: preferred
+    type: expression
+    usage_info: for radiation of arbitrary relative spectral distribution
+  - designation: '`L`~eq~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 342d39e1-6157-52c1-b83d-235996b03735
+status: valid

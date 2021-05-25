@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '151'
+      original: ITU RR 151 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: the average power supplied to the antenna feed line by a radio transmitter
+    during one radio-frequency cycle at the peak value of the modulating signal, taken
+    under normal operating conditions
+  examples: []
+  id: 713-09-17
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: peak envelope power
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: e8bd4a43-935d-5048-af76-12dc1dae8731
+status: valid

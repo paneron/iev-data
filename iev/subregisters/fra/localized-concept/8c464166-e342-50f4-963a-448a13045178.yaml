@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: loi de Lambert pour un élément de surface dont la luminance énergétique
+    ou lumineuse est la même dans toutes les directions de l'hémisphère au-dessus
+    de la surface
+  examples: []
+  id: 845-24-062
+  language_code: fra
+  notes:
+  - 'La loi du cosinus de Lambert peut être exprimée par
+
+
+    `I`(`θ`) = `I`~n ~cos `θ`
+
+
+    où `I`(`θ`) et `I`~n~ sont les intensités énergétiques ou lumineuses de l''élément
+    de surface dans une direction faisant un angle, `θ`, avec la perpendiculaire à
+    la surface et dans la direction de cette perpendiculaire, respectivement.'
+  - Cet article était numéroté 845-04-56 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi du cosinus de Lambert
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8c464166-e342-50f4-963a-448a13045178
+status: valid

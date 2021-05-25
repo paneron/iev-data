@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: entité qui ne peut pas, dans des conditions données après une défaillance,
+    être remise dans un état lui permettant de fonctionner tel que requis
+  examples: []
+  id: 192-01-12
+  language_code: fra
+  notes:
+  - Les «conditions données» peuvent inclure des considérations techniques, économiques
+    et autres.
+  - Une entité non réparable dans certaines conditions données peut être réparable
+    dans d’autres conditions.
+  reviewDecisionEvent: published
+  terms:
+  - designation: entité non réparable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: entité non réparée
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7b373918-c001-575c-8043-a678effb0247
+status: valid

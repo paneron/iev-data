@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 111-13-17
+      link: https://webstore.iec.ch/publication/12421
+      original: IEC 60050-111:1996, 111-13-17, modified
+      ref: IEC 60050-111:1996
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: mass of a particle excluding any mass increase due to kinetic energy
+  examples: []
+  id: 395-01-03
+  language_code: eng
+  notes:
+  - This entry was numbered 393-14-10 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rest mass
+    normative_status: preferred
+    type: expression
+  - designation: '`m`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: bb8c7611-e788-5276-957b-8253af1415fb
+status: valid

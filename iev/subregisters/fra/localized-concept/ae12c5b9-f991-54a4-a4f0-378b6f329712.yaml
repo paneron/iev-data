@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fraction du volume total à pores ouverts d'un composant poreux de {{cellule
+    élémentaire à combustible, IEV:485-08-01}} (par exemple, l'{{électrode, IEV:485-02-01}}
+    ou la {{matrice d'électrolyte, IEV:485-03-05}}), occupé par l'{{électrolyte, IEV:485-03-01}}
+    liquide
+  examples: []
+  id: 485-03-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de remplissage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ae12c5b9-f991-54a4-a4f0-378b6f329712
+status: valid

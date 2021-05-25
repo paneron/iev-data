@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité de courant critique obtenue en mesurant l'aimantation et en
+    s'appuyant sur un modèle théorique (modèle d'état critique)
+  examples: []
+  id: 815-12-09
+  language_code: fra
+  notes:
+  - Si le matériau est non-homogène ou anisotrope, `J`~cm~ est différent de la densité
+    de courant critique de transport `J`~ct~.
+  - '`J`~cm~ renvoie parfois à des valeurs plus faibles que celles de `J`~ct~ en raison
+    de la différence de champ électrique causée par le fluage de flux, notamment pour
+    les supraconducteurs haute température.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité de courant critique d'aimantation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b57a4535-b4b4-5022-b18e-0f0e33a1f720
+status: valid

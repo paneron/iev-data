@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: produit de la constante de Planck et de la {{fréquence, IEV:103-06-02}}
+    `Q`~p~ = `h`·`ν` où `h` est la constante de Planck et `ν` est la fréquence de
+    l'onde électromagnétique correspondante
+  examples: []
+  id: 845-21-042
+  language_code: fra
+  notes:
+  - L'énergie photonique peut être émise, transférée ou reçue.
+  - L'énergie de <a href="IEV845-21-014">radiation monochromatique</a>, `Q`~PF~, par
+    un flux photonique de fréquence `ν` est égale au nombre de photons, `N`~p~, multiplié
+    par l'énergie photonique (`Q`~PF~ = `N`~p~·`h`·`ν`).
+  - La grandeur radiométrique correspondante est l'"énergie rayonnante". La grandeur
+    photométrique correspondante est l'"<a href="IEV845-21-037">énergie lumineuse</a>".
+  - L'énergie photonique est exprimée en joule (J = W·s).
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie photonique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 13e79849-38fe-58da-af5d-fab3187adb83
+status: valid

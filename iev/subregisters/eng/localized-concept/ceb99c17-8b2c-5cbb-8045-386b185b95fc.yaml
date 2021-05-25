@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-03-01
+  definition: ratio of the power produced by fusion in the plasma and the power required
+    to supply plasma to bring it to the required temperature
+  examples: []
+  id: 395-02-54
+  language_code: eng
+  notes:
+  - 'Q = 1: plasma provides as much energy as it has to provide to produce fusion;
+    Q &gt; 1: the power supplied by the plasma is sufficient to maintain the plasma
+    in the right conditions.'
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Q factor
+    normative_status: preferred
+    type: expression
+  - designation: amplification factor of the plasma
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: ceb99c17-8b2c-5cbb-8045-386b185b95fc
+status: valid

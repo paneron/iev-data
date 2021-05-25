@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: surface idéale pour laquelle le rayonnement provenant de cette surface
+    a une répartition angulaire conforme à la loi du cosinus de Lambert
+  examples: []
+  id: 845-24-063
+  language_code: fra
+  notes:
+  - Pour une surface Lambertienne, `M` = π`L` où `M` est l'exitance énergétique ou
+    lumineuse, et `L` la luminance énergétique ou lumineuse.
+  - Cet article était numéroté 845-04-57 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface Lambertienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d7955d0-38f9-5cd9-ae2b-afff3cf2c842
+status: valid

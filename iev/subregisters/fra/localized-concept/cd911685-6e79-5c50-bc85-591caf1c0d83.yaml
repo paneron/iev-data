@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un ensemble ordonné de `n` vecteurs dans un espace à `n` dimensions
+    muni d'une base donnée, scalaire attribué à cet ensemble par la seule forme multilinéaire
+    qui prend la valeur 0 lorsque les vecteurs sont linéairement dépendants et la
+    valeur 1 pour les vecteurs de base
+  examples: []
+  id: 102-03-37
+  language_code: fra
+  notes:
+  - 'Lorsque les coordonnées des `n` vecteurs `U_1 , U_2 , ... , U_n` sont disposés
+    selon les colonnes ou les lignes d''une matrice `n xx n` , le déterminant des
+    vecteurs est égal au déterminant de la matrice:
+
+
+    `det ( U_1 , U_2 , ... , U_n ) = | [[U_((11)),U_((12)),cdots,U_((1 n))],[U_((21)),U_((22)),cdots,U_((2
+    n))],[vdots,vdots,ddots,vdots],[U_((n 1)),U_((n 2)),cdots,U_((n n))]] |`'
+  - Selon le signe du déterminant, l'ensemble de vecteurs et la base donnée ont la
+    même orientation ou des orientations contraires.
+  - Pour l'espace euclidien à trois dimensions, le déterminant de trois vecteurs est
+    le produit mixte des vecteurs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: déterminant
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de <i
+dateAccepted: 2018-11-17
+id: cd911685-6e79-5c50-bc85-591caf1c0d83
+status: valid

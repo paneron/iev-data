@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: in a set of radio channels arranged in the ascending order of their
+    centre frequencies, refers to a change of the position in the spectrum of a radio-frequency
+    channel, in relation to its normal position, by a specific value which is generally
+    small compared to the channel spacing
+  examples: []
+  id: 713-06-27
+  language_code: eng
+  notes:
+  - A channel may be offset as a means of avoiding or minimizing interference.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: offset
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 1998-04-01
+id: 0d5f4e5d-a2a0-5197-afb4-f526391d79b6
+status: valid

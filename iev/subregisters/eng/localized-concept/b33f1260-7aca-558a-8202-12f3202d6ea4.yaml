@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-01-01
+  definition: qualifies a {{quantity name, IEV:112-01-02}} to indicate the quotient
+    of that quantity by the volume
+  examples:
+  - '{{mass density, IEV:113-03-07}}, also called density or volumic mass; electric
+    charge density or volumic electric charge (see {{IEV 121-11-07, IEV:121-11-07}}).'
+  id: 112-03-11
+  language_code: eng
+  notes:
+  - See also "{{volume concentration, IEV:112-03-17}}".
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: … density
+    normative_status: preferred
+    type: expression
+    usage_info: per volume
+  - designation: volumic
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-01-01
+id: b33f1260-7aca-558a-8202-12f3202d6ea4
+status: valid

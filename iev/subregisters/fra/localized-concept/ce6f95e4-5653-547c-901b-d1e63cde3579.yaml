@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{multiplexage, IEV:701-03-09}} selon lequel des {{intervalles de temps,
+    IEV:113-01-10}} distincts sont attribués périodiquement à plusieurs {{signaux,
+    IEV:701-01-02}} indépendants en vue de leur {{transmission, IEV:701-01-03}} sur
+    une {{voie de transmission, IEV:701-02-01}} commune'
+  examples: []
+  id: 704-08-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplexage temporel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: multiplexage par répartition dans le temps
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MRT
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ce6f95e4-5653-547c-901b-d1e63cde3579
+status: valid

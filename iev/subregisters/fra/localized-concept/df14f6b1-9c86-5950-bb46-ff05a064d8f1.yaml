@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: perte de l'aptitude à fonctionner tel que requis
+  examples: []
+  id: 192-03-01
+  language_code: fra
+  notes:
+  - 'La défaillance d’une entité est un événement qui provoque une panne de cette
+    entité: voir "panne" ({{IEV 192-04-01, IEV:192-04-01}}).'
+  - Des qualificatifs tels que catastrophique, critique, majeur, mineur, marginal
+    et non significative peuvent être utilisés pour classer les défaillances en fonction
+    de la gravité des conséquences, selon des critères de gravité dont le choix et
+    les définitions dépendent du domaine d’application.
+  - Des compléments tels que «par mauvais emploi», «par fausse manœuvre» et «par fragilité»
+    peuvent être utilisés pour classer les défaillances selon leur cause.
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: df14f6b1-9c86-5950-bb46-ff05a064d8f1
+status: valid

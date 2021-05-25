@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 195-04-14
+      original: IEV 195-04-14, modified
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2016-02-01
+  definition: occurrence of an accidental conductive path between a live conductor
+    and the earth
+  examples: []
+  id: 614-02-16
+  language_code: eng
+  notes:
+  - The conductive path can pass through a faulty insulation, through structures (e.g.
+    poles, scaffoldings, cranes, ladders), or through vegetation (e.g. trees, bushes)
+    and can have a significant impedance.
+  - Earth faults with negligible fault impedance in a solidly earthed neutral system
+    or in a low-impedance earthed neutral system are also named line-to-earth short-circuits.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earth fault
+    normative_status: preferred
+    type: expression
+  - designation: ground fault
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: dc1d109b-aed7-5674-95ff-2b3cea924e36
+status: valid

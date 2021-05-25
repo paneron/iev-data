@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: RMS withstand voltage value assigned by the manufacturer to the equipment
+    or to a part of it, characterizing the specified (long-term) withstand capability
+    of its insulation
+  examples: []
+  id: 426-04-50
+  language_code: eng
+  notes:
+  - The rated insulation voltage is not necessarily equal to the rated voltage of
+    equipment which is primarily related to functional performance.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated insulation voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: 58071eda-b32e-568b-944f-a68e8eb9ad4d
+status: valid

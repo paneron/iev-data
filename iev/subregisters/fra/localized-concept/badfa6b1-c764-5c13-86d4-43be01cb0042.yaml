@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - - clause: 13-25
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-25, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  classification: Deprecated
+  definition: espérance mathématique de la {{quantité d'information, IEV:171-07-14}}
+    des événements d'un ensemble exhaustif d'événements s'excluant mutuellement `H
+    = sum_((i = 1))^n p ( x_i ) * I ( x_i ) = sum_((i = 1))^n p ( x_i ) * log ( (1)/((p
+    ( x_i ))) )` où `X = { x_1 , ... , x_n }` est l'ensemble des événements `x_i (
+    i = 1, ... , n )`, `I ( x_i )` sont leurs quantités d'information et `p ( x_i
+    )` leurs probabilités de réalisation, avec `sum_((i = 1))^n p ( x_i ) = 1`
+  examples:
+  - Soit `{ a , b , c }` un jeu de trois événements dont les probabilités de réalisation
+    sont `p ( a ) = 0,5`, `p ( b ) = 0,25` et `p ( c ) = 0,25`. L'entropie de ce jeu
+    est `H ( X ) = p ( a ) * I ( a ) + p ( b ) * I ( b ) + p ( c ) * I ( c ) = 1,5
+    Sh`.
+  id: 171-07-15
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: entropie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en théorie de l’information
+  - designation: néguentropie
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: badfa6b1-c764-5c13-86d4-43be01cb0042
+status: valid

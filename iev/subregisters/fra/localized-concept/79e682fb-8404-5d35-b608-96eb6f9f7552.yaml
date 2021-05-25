@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: '{{rapport, IEV:102-01-23}} de la pression partielle `p` de la vapeur
+    d''eau présente dans l''air humide à sa pression partielle `p`~sat~ à saturation,
+    à la même température `φ` = `p`/`p`~sat~'
+  examples: []
+  id: 113-04-65
+  language_code: fra
+  notes:
+  - L’humidité relative est souvent exprimée en pourcentage.
+  reviewDecisionEvent: published
+  terms:
+  - designation: humidité relative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: degré hygrométrique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: taux d’humidité
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 79e682fb-8404-5d35-b608-96eb6f9f7552
+status: valid

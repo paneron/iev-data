@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: résistance entre deux électrodes en contact avec la surface à mesurer,
+    exprimée en ohms
+  examples: []
+  id: 426-25-06
+  language_code: fra
+  notes:
+  - 'Une configuration commune (donnée, par exemple, dans l''IEC 60079-0, _Atmosphères
+    explosives – Partie 0: Matériel – Exigences générales_) utilise des électrodes
+    parallèles, de 100 mm de long et espacées de 10 mm.'
+  - La résistance superficielle dépend de la configuration des électrodes. La résistance
+    superficielle mesurée avec la configuration d'électrodes citée en exemple est
+    dix fois inférieure à la résistivité superficielle.
+  - Il est préférable d'utiliser des électrodes conductrices revêtues de bandes de
+    caoutchouc plutôt que des électrodes revêtues d'une peinture argentée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: résistance superficielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour atmosphères explosives
+dateAccepted: 2018-11-17
+id: 912f4c8c-ab8e-52cf-8509-4e12103c4ba6
+status: valid

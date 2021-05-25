@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-11-01
+  definition: voltage at which partial discharges are extinguished in the test arrangement
+    when the voltage applied to the test object is gradually decreased from a higher
+    value at which such discharges are observed
+  examples: []
+  id: 411-36-21
+  language_code: eng
+  notes:
+  - With sinusoidal applied voltage, the partial discharge extinction voltage is defined
+    as the r.m.s. value of the voltage. With impulse voltages, the partial discharge
+    extinction voltage is defined as the peak-to-peak voltage.
+  reviewDate: 2007-11-01
+  reviewDecisionDate: 2007-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: partial discharge extinction voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01
+id: 4a001ce5-bbe3-5549-967e-3fd9550629b4
+status: valid

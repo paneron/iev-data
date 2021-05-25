@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: lowest {{net electric power, IEV:485-14-03}} at which a {{fuel cell
+    power system, IEV:485-09-01}} is able to operate continuously in a stable manner
+  examples: []
+  id: 485-14-02
+  language_code: eng
+  notes:
+  - The minimum power is expressed in W.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: minimum power
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: 3d9f5fcd-eedc-5cfe-9837-ac9825b51f46
+status: valid

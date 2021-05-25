@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a transmission channel normally handling signals which leave a given
+    point
+  examples: []
+  id: 704-04-04
+  language_code: eng
+  notes:
+  - These qualifications are usually highly localized, for example a channel referred
+    to as a go channel at one point in a network may be referred to as a return channel
+    at another point.
+  - In telephony, the English qualifiers "go" and "transmit" may be considered to
+    be synonymous. In certain applications, for example in television transmission,
+    only the transmit channel will exist. In this case, the use of the term "go channel"
+    is not applicable.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: go channel
+    normative_status: preferred
+    type: expression
+  - designation: transmit channel
+    type: expression
+dateAccepted: 1993-08-01
+id: 17f76145-f861-5c6a-aa89-a4104ff0a256
+status: valid

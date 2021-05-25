@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: telecommunication facility between two points provided by means of {{radio
+    waves, IEV:701-02-12}}
+  examples:
+  - '{{radio-relay system, IEV:713-02-11}}, {{satellite link, IEV:713-02-22}}'
+  id: 704-04-09
+  language_code: eng
+  notes:
+  - A radio link can be {{unidirectional, IEV:701-03-18}} or {{bidirectional, IEV:701-03-19}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radio link
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: fd8b7dcf-1807-5b36-8d3f-b8def02f6e5a
+status: valid

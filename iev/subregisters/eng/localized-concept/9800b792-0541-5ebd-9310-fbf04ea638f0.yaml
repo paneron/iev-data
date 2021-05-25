@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: continuous function, zero for all negative values of the independent
+    variable and increasing linearly with a slope equal to one for positive values
+    of the independent variable
+  examples: []
+  id: 103-03-03
+  language_code: eng
+  notes:
+  - The unit ramp may be denoted `x * epsilon ( x )`, where `epsilon ( x )` is the
+    unit step function.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit ramp
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 9800b792-0541-5ebd-9310-fbf04ea638f0
+status: valid

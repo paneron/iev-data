@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of that part of the illuminance at a point on a given plane
+    in an interior which is received directly from internal reflecting surfaces illuminated
+    directly or indirectly by a sky of assumed or known luminance distribution and
+    the illuminance on a horizontal plane due to an unobstructed hemisphere of this
+    sky, where the contribution of direct sunlight to both illuminances is excluded
+  examples: []
+  id: 845-29-124
+  language_code: eng
+  notes:
+  - When calculating the lighting of interiors, the contribution of direct sunlight
+    has to be considered separately.
+  - The internally reflected component of daylight factor has unit one.
+  - This entry was numbered 845-09-100 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: internally reflected component of daylight factor
+    normative_status: preferred
+    type: expression
+  - designation: '`D`~i~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: df698973-f531-5b78-b0e6-5b5e1b803e83
+status: valid

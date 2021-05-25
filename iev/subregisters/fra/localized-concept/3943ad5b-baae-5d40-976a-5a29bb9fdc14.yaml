@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: qualifie un mode d'exploitation selon lequel le transfert des {{informations,
+    IEV:701-01-01}} peut avoir lieu dans les deux sens, mais non simultanément, entre
+    deux points
+  examples: []
+  id: 701-03-161
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: simplex
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: à l'alternat
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: semi-duplex
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2021-01-01
+id: 3943ad5b-baae-5d40-976a-5a29bb9fdc14
+status: valid

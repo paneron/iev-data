@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: nonpermanent access to an Internet service provider by means of a switched
+    network
+  examples: []
+  id: 732-07-21
+  language_code: eng
+  notes:
+  - The switched network may be the telephone network or the ISDN.
+  - Protocols for dialup access are PPP (”point-to-point protocol”) and SLIP (”serial
+    line Internet protocol”).
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: IP dialup access
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: adffa452-0671-5c0a-ae17-3ad1e655f685
+status: valid

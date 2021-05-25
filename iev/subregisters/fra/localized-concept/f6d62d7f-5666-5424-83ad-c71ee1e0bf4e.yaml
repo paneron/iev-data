@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: rapport des deux valeurs d'une grandeur aléatoire caractéristique de
+    la transmission, qui correspondent à une même probabilité de dépassement de ces
+    valeurs, avec et sans réception en diversité
+  examples: []
+  id: 713-10-25
+  language_code: fra
+  notes:
+  - La grandeur caractéristique peut être, par exemple, la puissance reçue, l'affaiblissement
+    de transmission, la puissance de bruit ou le taux d'erreurs.
+  - L'ordre des deux valeurs est choisi de façon à obtenir un rapport supérieur à
+    l'unité.
+  - Le gain en diversité est généralement exprimé en décibels si la grandeur est une
+    puissance ou un affaiblissement.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gain de diversité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: f6d62d7f-5666-5424-83ad-c71ee1e0bf4e
+status: valid

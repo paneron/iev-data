@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: borne supérieure, si elle existe, des longueurs de toutes les courbes
+    polygonales déterminées par des point successifs de la courbe entre les deux points
+    correspondant aux valeurs limites de l'intervalle du paramètre
+  examples: []
+  id: 102-04-18
+  language_code: fra
+  notes:
+  - Pour une courbe de A à B définie par le rayon vecteur `r = f ( u )` en fonction
+    du paramètre `u` dans l'intervalle &amp;lsqb;`a`, `b`&amp;rsqb; où `a &lt;= b`,
+    la longueur de la courbe est l'intégrale curviligne `int_A^B | d r | = int_a^b
+    | ((d f))/((d u)) | d u`.
+  - Dans l'espace géométrique usuel, la longueur d'une courbe est une grandeur ayant
+    la dimension d'une longueur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: longueur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une courbe
+dateAccepted: 2018-11-17
+id: 530d0927-5034-57b4-9b57-cddae5a75919
+status: valid

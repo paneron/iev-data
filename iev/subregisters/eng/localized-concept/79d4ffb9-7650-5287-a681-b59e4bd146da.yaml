@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.13
+      link: https://webstore.iec.ch/publication/22781
+      original: IEC 62279:2015, 3.1.13
+      ref: IEC 62279:2015
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: software stored in read-only memory or in semi-permanent storage such
+    as flash memory, in a way that is functionally independent of applicative software
+  examples: []
+  id: 821-12-24
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: firmware
+    normative_status: preferred
+    type: expression
+    usage_info: in signalling
+dateAccepted: 2017-11-01
+id: 79d4ffb9-7650-5287-a681-b59e4bd146da
+status: valid

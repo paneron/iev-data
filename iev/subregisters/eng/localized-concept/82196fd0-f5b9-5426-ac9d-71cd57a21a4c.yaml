@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: electrical circuit which has the same characteristics as a piezoelectric
+    resonator in the immediate neighbourhood of resonance
+  examples:
+  - 'A one-port piezoelectric resonator (see Figure 2) consists of series elements
+    `L`~1~, `C`~1~, `R`~1~ in parallel with `C`~0~, where `L`~1~, `C`~1~, `R`~1~ represent
+    the motional inductance, capacitance and resistance respectively and `C`~0~ the
+    shunt capacitance. The circuit of Figure 2 has the same impedance as a piezoelectric
+    resonator in the neighbourhood of resonance.
+
+
+    image::/assets/images/parts/561/561-fig2-en.png[]
+
+
+    *Figure 2 – Equivalent circuit of a piezoelectric vibrator (one-port resonator)*'
+  id: 561-01-24
+  language_code: eng
+  notes:
+  - This entry was numbered 561-02-07 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent circuit
+    normative_status: preferred
+    type: expression
+    usage_info: of a piezoelectric resonator
+dateAccepted: 2014-11-01
+id: 82196fd0-f5b9-5426-ac9d-71cd57a21a4c
+status: valid

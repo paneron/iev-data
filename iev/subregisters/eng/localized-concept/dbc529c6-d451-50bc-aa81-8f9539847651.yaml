@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'of a material saturated by a magnetostatic field, the complex permeability
+    when it is subjected to an electromagnetic wave having a circularly polarized
+    `vec H` field component in the plane perpendicular to the magnetostatic field
+    strength: `μ`~+~ = `μ`~r~ + `κ`~r~ `μ`~−~ = `μ`~r~ − `κ`~r~ where `μ`~r~ and `κ`~r~
+    are components of Polder''s tensor permeability'
+  examples: []
+  id: 221-03-04
+  language_code: eng
+  notes:
+  - The subscript of `µ` corresponds to the sign in the mathematical expression; `μ`~+~
+    is applicable where the `vec H` field rotates counterclockwise as a function of
+    time when seen in the direction of the applied magnetostatic field; `μ`~−~ is
+    applicable to the reverse rotation.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar permeability for circularly polarized fields
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`~+~,  `μ`~−~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: dbc529c6-d451-50bc-aa81-8f9539847651
+status: valid

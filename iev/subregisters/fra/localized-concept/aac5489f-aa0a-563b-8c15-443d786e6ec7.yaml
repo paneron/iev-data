@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: se dit d'un configuration de points de l'espace euclidien à trois dimensions
+    lorsque la configuration est invariante par une application donnée de l'espace
+    dans lui-même qui conserve les distances euclidiennes
+  examples:
+  - "* symétrique par translation pour une configuration périodique, \n\n* symétrique\
+    \ par rotation de 2π/`n`, où `n` est un entier, ou par toute rotation, \n\n* symétrique\
+    \ par rapport à un plan, \n\n* et leurs combinaisons."
+  id: 102-04-49
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: symétrique
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: aac5489f-aa0a-563b-8c15-443d786e6ec7
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: spherical irradiance spectrally weighted with a stated photobiological
+    action spectrum
+  examples: []
+  id: 845-26-039
+  language_code: eng
+  notes:
+  - This definition is based on the assumption that an action spectrum is adopted
+    for the photobiological effect considered, and that its maximum value is 1.
+  - It is essential to specify which action spectrum is used, as the unit is the same
+    for any action spectrum.
+  - The photobiological fluence rate is expressed in watt per square metre (W·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photobiological fluence rate
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~eff,o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 34bc0f07-3c99-5dff-9de5-109f4c0e2ab8
+status: valid

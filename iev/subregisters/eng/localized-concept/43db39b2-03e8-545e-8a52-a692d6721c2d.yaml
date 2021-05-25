@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: state of being able to perform as required
+  examples: []
+  id: 192-02-01
+  language_code: eng
+  notes:
+  - The absence of necessary external resources may prevent operation, but do not
+    affect the up state. See externally disabled state ({{192-02-23, IEV:192-02-23}}).
+  - Up state relates to the availability of the item.
+  - An item may be considered to be in an up state for some functions and in a down
+    state for others, concurrently.
+  - The adjectives "up" and “available” designate an item in an up state.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: up state
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+  - designation: available state
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 43db39b2-03e8-545e-8a52-a692d6721c2d
+status: valid

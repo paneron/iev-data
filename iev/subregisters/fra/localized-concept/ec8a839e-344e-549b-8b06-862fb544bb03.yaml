@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.8
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.8, modifié
+      ref: IEC 62267:2009
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: mode d'exploitation du train dans lequel le conducteur est dans la cabine
+    à l'avant du train pour surveiller la voie et stopper le train en cas de situation
+    dangereuse et commander l'accélération et le freinage conformément aux signaux
+    en voie ou à la signalisation de cabine
+  examples: []
+  id: 821-09-11
+  language_code: fra
+  notes:
+  - Le système de signalisation supervise les activités du conducteur. Cette supervision
+    peut être ponctuelle, semi continue ou continue. Le départ en sécurité du train
+    à quai, y compris la fermeture des portes, est pris en charge par le personnel
+    exploitant, soit à bord du train soit sur le quai.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exploitation non automatisée des trains
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: GOA1
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: NTO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ec8a839e-344e-549b-8b06-862fb544bb03
+status: valid

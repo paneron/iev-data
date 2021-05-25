@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: preventive maintenance based on the assessment of physical condition
+  examples: []
+  id: 192-06-07
+  language_code: eng
+  notes:
+  - The condition assessment may be by operator observation, conducted according to
+    a schedule, or by condition monitoring ({{192-06-28, IEV:192-06-28}}) of system
+    parameters.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: condition-based maintenance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 7fd6cc11-efe3-55d2-93af-5f3e22e258f2
+status: valid

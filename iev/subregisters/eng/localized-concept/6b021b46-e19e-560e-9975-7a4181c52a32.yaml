@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: accumulative duration of the time intervals that the {{fuel cells, IEV:485-08-01}}
+    of a {{fuel cell power system, IEV:485-09-01}} spend in the normal operating temperature
+    range, independently of the actual power
+  examples: []
+  id: 485-20-02
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hot time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 6b021b46-e19e-560e-9975-7a4181c52a32
+status: valid

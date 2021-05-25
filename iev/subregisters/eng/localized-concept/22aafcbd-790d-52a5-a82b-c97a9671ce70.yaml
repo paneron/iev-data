@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/21912
+      original: IEC 62047-16:2015, 3.1
+      ref: IEC 62047-16:2015
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: stress that remains after the original cause of the stresses (external
+    forces, heat source) has been removed
+  examples: []
+  id: 523-03-16
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: residual stress
+    normative_status: preferred
+    type: expression
+  - designation: '`σ`~f~'
+    international: true
+    type: symbol
+dateAccepted: 2018-12-01
+id: 22aafcbd-790d-52a5-a82b-c97a9671ce70
+status: valid

@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: '3.17'
+      original: 'IEC Guide 116:2010, 3.17, modified – The definition has been revised
+        to be more broad: "low voltage equipment" has been replaced by "product, process
+        or service". Figure 1 has been added. In the Note to entry, "See A.2," has
+        been replaced by "See IEC Guide 116:2010, A.2,".'
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: 'The definition has been revised to be more broad: "low voltage
+          equipment" has been replaced by "product, process or service". Figure 1
+          has been added. In the Note to entry, "See A.2," has been replaced by "See
+          IEC Guide 116:2010, A.2,".'
+        type: modified
+  dateAmended: 2013-06-01
+  definition: application of the "3-step-methodology" (see Figure 1) to reduce the
+    {{residual risk, IEV:903-01-11}} of a product, process or service below the level
+    of {{tolerable risk, IEV:903-01-12}} <simg acos-guide116_2010_f1_en></simg>
+  examples: []
+  id: 903-01-20
+  language_code: eng
+  notes:
+  - 'Sometimes it is possible that tolerable risk is already achieved by applying
+    step 1 or steps 1 and 2.
+
+
+    *Figure 1 – Principle of safety integration*'
+  - See IEC Guide 116:2010, A.2, for further information.
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: safety integration
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: cef682bb-4667-55fe-a90f-9fcc091031ab
+status: valid

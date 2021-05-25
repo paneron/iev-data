@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 195-02-19
+      original: 195-02-19
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: conductor or conductive part intended to be energized in normal operation,
+    including a neutral conductor, but by convention not a PEN conductor or PEM conductor
+    or PEL conductor
+  examples: []
+  id: 826-12-08
+  language_code: eng
+  notes:
+  - This concept does not necessarily imply a risk of electric shock.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: live part
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01
+id: 115cf1b2-2dc3-5016-a213-79e6e2d7ea5f
+status: valid

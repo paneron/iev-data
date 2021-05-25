@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.03
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.03
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  dateAmended: 2019-03-01
+  definition: part of a communication system in which {{messages, IEV:171-07-04}}
+    are considered to be received
+  examples: []
+  id: 171-07-06
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: message sink
+    normative_status: preferred
+    type: expression
+  - designation: information sink
+    type: expression
+dateAccepted: 2019-03-01
+id: c0e2523d-6f90-593c-83ba-4ce0d0beec54
+status: valid

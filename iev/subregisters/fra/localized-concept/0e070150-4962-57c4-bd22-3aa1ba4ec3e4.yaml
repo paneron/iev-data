@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: état dans lequel le réseau, s'il n'est soumis à aucune {{perturbation,
+    IEV:692-01-09}}, reste en {{régime établi, IEV:692-02-01}} ou revient à un {{régime
+    établi, IEV:692-02-01}} après avoir été soumis à une {{perturbation, IEV:692-01-09}}
+    d'amplitude prescrite image::/assets/images/parts/692/692-fig2-fr.png[Figure 2
+    - États d'un réseau d'énergie électrique] <simg></simg>
+  examples: []
+  id: 692-02-02
+  language_code: fra
+  notes:
+  - 'Les flèches indiquent les transitions d’état les plus importantes induites par
+    des événements plausibles. Les transitions de récupération, dans les directions
+    opposées, résultent des interventions des opérateurs.
+
+
+    *Figure 3 – Exemples de transitions internes aux états d’un réseau d’énergie électrique*'
+  - Cet article portait le numéro 191-22-01 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: état stable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: 0e070150-4962-57c4-bd22-3aa1ba4ec3e4
+status: valid

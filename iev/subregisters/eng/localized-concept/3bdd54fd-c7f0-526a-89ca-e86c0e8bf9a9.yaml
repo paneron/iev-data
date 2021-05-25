@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: difference between the highest and lowest points within each site of
+    a clamped wafer
+  examples: []
+  id: 561-07-18
+  language_code: eng
+  notes:
+  - A site map example is shown in Figure 23. The value is always a positive number
+    and is defined for each site as the difference between the highest and lowest
+    points within each site, as shown in Figure 24. For a wafer to meet a local thickness
+    variation specification, all sites must have local thickness variation values
+    less than the specified value.
+  - 'This note applies to the French language only.
+
+
+    <simg></simg>'
+  - 'All sites have their centres within the fixed quality area.
+
+
+    *Figure 23 – Example of site distribution for local thickness variation measurement*
+
+
+    image::/assets/images/parts/561/561-fig24-en.png[]'
+  - 'Local thickness variation is a positive number.
+
+
+    *Figure 24 – Local thickness variation measured at each site*'
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: LTV
+    normative_status: preferred
+    type: expression
+  - designation: local thickness variation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 3bdd54fd-c7f0-526a-89ca-e86c0e8bf9a9
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: definition 403
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 403, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: quotient of the radiant energy d`R` incident on a sphere of cross-sectional
+    area d`a` `Ψ` = d`R`/d`a`
+  examples: []
+  id: 395-01-17
+  language_code: eng
+  notes:
+  - It is the time-integral of the energy flux.
+  - This quantity is expressed in joules per square metre (J/m^2^).
+  - This entry was numbered 393-14-28 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energy fluence
+    normative_status: preferred
+    type: expression
+  - designation: '`Ψ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 6aee8ec7-fdcb-5cf7-859e-abf8a287153e
+status: valid

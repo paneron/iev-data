@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.18.1
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.18.1
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  definition: charge électrique qu'il est possible de mesurer à la borne du spécimen
+    en essai
+  examples: []
+  id: 442-09-06
+  language_code: fra
+  notes:
+  - La charge apparente est inférieure à la décharge partielle.
+  - La mesure de la charge apparente nécessite un état de court-circuit aux bornes
+    du spécimen en essai.
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge apparente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: eba94dcd-9250-5c27-9f1a-8f593ec2a829
+status: valid

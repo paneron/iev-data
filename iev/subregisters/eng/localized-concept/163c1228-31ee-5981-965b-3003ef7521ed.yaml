@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 881-14-14
+      link: https://webstore.iec.ch/publication/272
+      original: IEC 60050-881:1983, 881-14-14, modified
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: definition 382
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 382, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: sum over all exposed tissues of the products of the dose equivalent
+    in a tissue and the tissue weighting factor for that tissue
+  examples: []
+  id: 395-05-42
+  language_code: eng
+  notes:
+  - This entry was numbered 393-14-94 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective dose equivalent
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 163c1228-31ee-5981-965b-3003ef7521ed
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: dispositif destiné à produire un {{signal de rythme, IEV:702-04-10}}
+  examples: []
+  id: 702-09-30
+  language_code: fra
+  notes:
+  - Lorsque plusieurs sources sont utilisées pour assurer la {{fiabilité, IEV:192-01-24}},
+    leur assemblage est considéré comme une horloge unique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: horloge
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: générateur de rythme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4077a4b1-e51c-55eb-860b-ad2eaaf33dde
+status: valid

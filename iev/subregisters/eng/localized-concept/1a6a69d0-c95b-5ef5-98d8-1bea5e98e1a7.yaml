@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '152'
+      original: ITU RR 152 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: the average power supplied to the antenna feed line by a radio transmitter
+    during an interval of time sufficiently long compared with the period of the lowest
+    frequency encountered in the modulation, taken under normal operating conditions
+  examples: []
+  id: 713-09-18
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean power
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 1a6a69d0-c95b-5ef5-98d8-1bea5e98e1a7
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{data item, IEV:171-01-02}} that is considered to be indivisible in
+    a certain context'
+  examples:
+  - Name of a person or of a quantity.
+  id: 171-02-01
+  language_code: eng
+  notes:
+  - In digital technology, usual data elements are the {{binary digit, IEV:171-02-10}}
+    and the {{byte, IEV:171-02-12}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: data element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: fee10219-6d5d-5381-af0b-2942cee9ff15
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-08-01
+  definition: paramètres permettant de définir la forme, les dimensions et la position
+    de l'orbite d'un corps dans l'espace par rapport à un système de référence spécifié
+  examples: []
+  id: 725-11-10
+  language_code: fra
+  notes:
+  - Pour déterminer la position d'un corps dans l'espace à tout instant, il est nécessaire
+    de connaître, outre les éléments de son orbite, la position sur cette orbite de
+    son centre de masse à un instant donné.
+  - Le système de référence employé est en général un trièdre trirectangle direct
+    OXYZ ayant son sommet au centre de masse du corps principal et dont le troisième
+    axe OZ est perpendiculaire au plan fondamental.
+  - Pour un satellite artificiel de la Terre, le plan fondamental est le plan équatorial
+    de la Terre, et le troisième axe OZ est orienté du sud au nord.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: éléments orbitaux
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 1994-08-01
+id: e67fe49c-6d18-56f0-b08d-62d8e564f6cf
+status: valid

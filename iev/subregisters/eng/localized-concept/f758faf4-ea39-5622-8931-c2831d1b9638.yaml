@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a trigger circuit that has two stable states
+  examples: []
+  id: 702-09-26
+  language_code: eng
+  notes:
+  - The term "flip-flop" has been used in the USA with the meaning "bistable circuit"
+    and in the United-Kingdom with the meaning "monostable circuit", to avoid confusion,
+    it is strongly deprecated with any meaning.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bistable trigger circuit
+    normative_status: preferred
+    type: expression
+  - designation: bistable latch
+    type: expression
+  - designation: bistable circuit
+    type: expression
+  - designation: bistable trigger
+    type: expression
+dateAccepted: 1992-03-01
+id: f758faf4-ea39-5622-8931-c2831d1b9638
+status: valid

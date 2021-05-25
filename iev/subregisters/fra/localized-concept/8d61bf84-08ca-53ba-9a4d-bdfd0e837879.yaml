@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      original: 'IEC Guide 116:2010, 3.4, modifiée –  La définition a été révisée
+        pour être plus large: l''expression "d''un équipement basse tension" a été
+        remplacée par "d''un produit, procédé ou service".'
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: 'La définition a été révisée pour être plus large: l''expression
+          "d''un équipement basse tension" a été remplacée par "d''un produit, procédé
+          ou service".'
+        type: modified
+  dateAmended: 2013-06-01
+  definition: tout espace à l'intérieur ou autour d'un produit, procédé ou service
+    dans lequel des personnes, et ou du bétail peuvent être exposés à un {{phénomène
+    dangereux, IEV:903-01-02}}
+  examples: []
+  id: 903-01-03
+  language_code: fra
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de danger
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: 8d61bf84-08ca-53ba-9a4d-bdfd0e837879
+status: valid

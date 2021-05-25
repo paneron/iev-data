@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{périphérique, IEV:171-04-07}} qui assure une sortie vers l''environnement
+    au moyen de signaux'
+  examples: []
+  id: 171-04-37
+  language_code: fra
+  notes:
+  - L’environnement peut être un autre dispositif, un processus technique ou une personne.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif de sortie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en informatique
+  - designation: unité de sortie
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: en informatique
+dateAccepted: 2018-11-17
+id: 155e1402-7a7b-580a-bd1e-10ab2d9e8161
+status: valid

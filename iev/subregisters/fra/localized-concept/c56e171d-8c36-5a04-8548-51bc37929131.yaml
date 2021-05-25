@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: nom de domaine d'une ressource Internet, indiquant le type ou les fonctions
+    de cette ressource
+  examples: []
+  id: 732-07-11
+  language_code: fra
+  notes:
+  - Une ressource Internet peut avoir plusieurs noms de domaine, et l’un d’entre eux
+    est le nom préféré.
+  - 'Par exemple: « www.isi.edu » désigne un hôte contenant un serveur Web.'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nom canonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: c56e171d-8c36-5a04-8548-51bc37929131
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the real part of the propagation coefficient
+  examples: []
+  id: 702-02-14
+  language_code: eng
+  notes:
+  - The attenuation coefficient of a transmission line or waveguide is the limit of
+    the attenuation between two points on the axis of the guide, divided by the distance
+    between the points when this distance tends to zero.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: attenuation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: attenuation constant
+    type: expression
+  - designation: 'symb.: `α`'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: 09a13639-8dff-5241-8eb1-7800b38b898b
+status: valid

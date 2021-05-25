@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: flat portion of wafer perimeter indicating the crystal orientation image::/assets/images/parts/561/561-fig25-en.png[]
+    *Figure 25 – Wafer indication and measurement points for the thickness variation
+    for five points*
+  examples: []
+  id: 561-07-20
+  language_code: eng
+  notes:
+  - Generally, the orientation flat corresponds to the SAW propagation direction.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: orientation flat
+    normative_status: preferred
+    type: expression
+  - designation: OF
+    normative_status: preferred
+    type: expression
+  - designation: primary flat
+    normative_status: admitted
+    type: expression
+dateAccepted: 2014-11-01
+id: ef5b20de-7517-5d88-af34-32bc034f3c1b
+status: valid

@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: nombre moyen des répétitions demandées par les correspondants pendant
+    un intervalle de temps donné au cours d'une conversation téléphonique courante
+    ou d'une conversation d'essai écoulée dans des conditions imitant celles du service
+    normal
+  examples: []
+  id: 722-17-02
+  language_code: fra
+  notes:
+  - L'intervalle de temps adopté est généralement de 100 secondes.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence des répétitions
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient de répétition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taux de répétition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 01df85b7-3e74-51f4-8053-4a7792de8642
+status: valid

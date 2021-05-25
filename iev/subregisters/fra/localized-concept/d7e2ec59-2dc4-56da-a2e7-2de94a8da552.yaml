@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: élément de circuit électrique à plus de deux bornes
+  examples: []
+  id: 131-11-13
+  language_code: fra
+  notes:
+  - 'Pour un multipôle élémentaire à `n` bornes:
+
+
+    1) la somme algébrique des courants électriques entrant dans l''élément par les
+    bornes est nulle à tout instant;
+
+
+    2) il y a `n` – 1 relations indépendantes entre les grandeurs intégrales.'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multipôle élémentaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: d7e2ec59-2dc4-56da-a2e7-2de94a8da552
+status: valid

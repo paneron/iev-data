@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '3.48'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.48 of IEC 62127-1
+      ref: IEC 62127-1
+      relationship:
+        type: identical
+  dateAmended: 2011-01-01
+  definition: 1,25 times the interval between the times when the time integral of
+    the square of the instantaneous acoustic pressure at a point reaches 10 % and
+    when it reaches 90 % of its final value
+  examples: []
+  id: 802-01-11
+  language_code: eng
+  notes:
+  - The final value of the time integral of the square of the instantaneous acoustic
+    pressure is the pulse-pressure-squared integral.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse duration
+    normative_status: preferred
+    type: expression
+  - designation: '`t`~d~'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: ff2c9556-525e-5628-975a-5e11cf36ab01
+status: valid

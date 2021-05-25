@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: element the output variable of which may assume any of a set of discrete
+    values
+  examples: []
+  id: 351-50-20
+  language_code: eng
+  notes:
+  - The change of the output variable can occur at a pair of switching values, that
+    is at different values of the input variable depending on direction of change;
+    the difference in these values is called the differential gap (see 351-50-25).
+  - This entry was numbered 351-28-31 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multi-position element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 47e0c4a9-9629-5fbb-a59c-a404b14a5982
+status: valid

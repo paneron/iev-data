@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.114
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.114
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: adresse d'un nœud sur le bus de train (6 bits), égal aux 6 bits de poids
+    faible de l'adresse de dispositif codée sur 8 bits sur le bus de train filaire
+  examples: []
+  id: 811-37-75
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse de nœud
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b5689dc4-4919-5ff6-8b8b-a3e13cb3b3b7
+status: valid

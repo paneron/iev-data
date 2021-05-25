@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: exchangeable noise {{power spectral density, IEV:702-04-50}} at a given
+    {{frequency, IEV:103-06-02}} of a {{one-port, IEV:131-12-64}} divided by Boltzmann's
+    constant
+  examples: []
+  id: 702-08-54
+  language_code: eng
+  notes:
+  - This definition assumes that quantum effects are negligible.
+  - The spot noise temperature has the sign of the real part of the one-port {{impedance,
+    IEV:131-12-43}}. When the real part is positive, the {{exchangeable power, IEV:702-07-11}}
+    becomes the {{available power, IEV:702-07-10}}.
+  - If the one-port has an impedance with a positive real part, its spot noise temperature
+    at a given frequency equals the {{thermodynamic temperature, IEV:113-04-14}} to
+    which a {{resistor, IEV:151-13-19}} equal in value to the real part of the impedance
+    should be brought in order to obtain an available power of {{thermal noise, IEV:702-08-45}}
+    equal to the available noise power of the one-port at the same frequency.
+  - A receiving antenna can be regarded as a one-port when viewed from its {{output
+    port, IEV:131-12-62}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spot noise temperature
+    normative_status: preferred
+    type: expression
+    usage_info: of a one-port
+dateAccepted: 2019-10-01
+id: 373533b9-60d9-5170-bb31-ed2e472a84cf
+status: valid

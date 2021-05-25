@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.9.1
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.9.1
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-04-01
+  definition: location where electrical energy can cause ignition
+  examples: []
+  id: 903-04-04
+  language_code: eng
+  notes:
+  - This note applies to the French language only.
+  reviewDate: 2014-04-01
+  reviewDecisionDate: 2014-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: potential ignition source
+    normative_status: preferred
+    type: expression
+  - designation: PIS
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01
+id: cffc3f39-0469-5c37-9e0d-2ce31d910bb3
+status: valid

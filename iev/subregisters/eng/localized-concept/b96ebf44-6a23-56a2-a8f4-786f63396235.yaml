@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '6.4'
+      original: VIM 6.4
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: standard that is designated or widely acknowledged as having the highest
+    metrological qualities and whose value is accepted without reference to other
+    standards of the same quantity
+  examples: []
+  id: 311-04-02
+  language_code: eng
+  notes:
+  - The concept of a primary standard is equally valid for base quantities and derived
+    quantities.
+  - A primary standard is never used directly for measurement other than for comparison
+    with other primary standards or reference standards.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: primary standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: b96ebf44-6a23-56a2-a8f4-786f63396235
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.1
+      link: https://webstore.iec.ch/publication/611
+      original: IEC 60077-4:2003, 3.2.1
+      ref: IEC 60077-4:2003
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: device which releases the holding means and permits the opening or closing
+    of the circuit-breaker
+  examples: []
+  id: 811-29-44
+  language_code: eng
+  notes:
+  - A circuit-breaker can be activated by several releases each becoming operational
+    according to specified conditions.
+  - These releases can be mechanically or electrically connected to the switching
+    device.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: release
+    normative_status: preferred
+    type: expression
+    usage_info: for a circuit-breaker
+dateAccepted: 2017-11-01
+id: 2434d163-f0a1-5f1d-af85-89893cbfb18d
+status: valid

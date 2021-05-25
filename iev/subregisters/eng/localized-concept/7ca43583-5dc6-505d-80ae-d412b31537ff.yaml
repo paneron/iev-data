@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.32
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.32, modified
+      ref: IEC 62280:2014
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: cryptographic function of the whole message and a secret or public key
+  examples: []
+  id: 821-11-30
+  language_code: eng
+  notes:
+  - The expression "the whole message" is meant to include any implicit data of the
+    message which is not sent to the transmission system.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: message authentication code
+    normative_status: preferred
+    type: expression
+  - designation: MAC
+    type: expression
+dateAccepted: 2017-11-01
+id: 7ca43583-5dc6-505d-80ae-d412b31537ff
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température à laquelle certains paramètres de performance de l'oscillateur
+    sont mesurés
+  examples: []
+  id: 561-03-25
+  language_code: fra
+  notes:
+  - La température de référence est en général de 25 °C ± 2 °C.
+  - Cet article était numéroté 561-02-24 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de référence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un oscillateur
+dateAccepted: 2018-11-17
+id: e7b806bc-a03d-53f8-8bb8-cafe7b02414d
+status: valid

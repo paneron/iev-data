@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: the improvement of signal-to-noise ratio at the output of a demodulator
+    due to a modulation type compared to a reference modulation
+  examples: []
+  id: 713-10-43
+  language_code: eng
+  notes:
+  - The modulation gain is expressed by the signal to noise ratio at the demodulator
+    output, divided by the carrier-to-noise ratio at the input.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation gain
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: a2dc99bd-c45c-57ac-a657-d70bdd24fa53
+status: valid

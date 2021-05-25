@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un bipôle résistif, élémentaire ou non, de bornes A et B, quotient
+    du courant électrique `i` dans le bipôle par la tension électrique `u`~AB~ ({{131-11-56,
+    IEV:131-11-56}}) entre les bornes `G = (i)/((u_((AB))))` où le courant est positif
+    si le sens du courant est de A vers B et négatif si son sens est de B vers A
+  examples: []
+  id: 131-12-06
+  language_code: fra
+  notes:
+  - La conductance d'un bipôle est l'inverse de sa résistance.
+  - Le terme «conductance» désigne aussi elliptiquement la conductance en courant
+    alternatif ({{131-12-53, IEV:131-12-53}}).
+  - L’unité SI cohérente de résistance est le siemens, S.
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b8828c65-3d43-582c-96f5-050e757f13b8
+status: valid

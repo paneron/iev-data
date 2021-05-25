@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 881-14-05
+      link: https://webstore.iec.ch/publication/272
+      original: IEC 60050-881:1983, 881-14-05, modified
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: definition 1129
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1129, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: SI unit of dose equivalent 1 Sv = 1 J·kg^–1^
+  examples: []
+  id: 395-01-37
+  language_code: eng
+  notes:
+  - The sievert has replaced the rem (1 Sv = 100 rem).
+  - This entry was numbered 393-14-73 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sievert
+    normative_status: preferred
+    type: expression
+  - designation: Sv
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 263aad6f-5d73-507a-a337-2a36b3a51ca2
+status: valid

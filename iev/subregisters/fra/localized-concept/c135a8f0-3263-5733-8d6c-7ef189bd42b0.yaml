@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: propriété d'une fonction `f ( t )` pour une valeur `t`~0~ de son argument,
+    caractérisée par l'existence d'un nombre positif `ε` tel que `f ( t_0 ) f ( t
+    )` pour tout `t` tel que `0 | t - t_0 | epsilon`
+  examples: []
+  id: 103-05-16
+  language_code: fra
+  notes:
+  - Si la condition `f ( t_0 ) f ( t )` est remplacée par `f ( t_0 ) &lt;= f ( t )`,
+    la propriété peut exister dans un intervalle de valeurs de l'argument.
+  reviewDecisionEvent: published
+  terms:
+  - designation: minimum local
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c135a8f0-3263-5733-8d6c-7ef189bd42b0
+status: valid

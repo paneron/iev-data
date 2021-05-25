@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: logiciel installé dans un système, dont l'objectif principal n'est pas
+    d'effectuer des calculs
+  examples:
+  - Le logiciel présent dans le système de gestion du moteur ou le système de commande
+    de freinage d’un véhicule à moteur.
+  id: 192-01-36
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: logiciel intégré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: logiciel enfoui
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2c9295c5-bf0d-5b09-a631-5a5b78900118
+status: valid

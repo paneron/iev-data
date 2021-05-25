@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: somme du facteur de luminance énergétique spectrale par réflexion, `β`~R~(`λ`),
+    et du facteur de luminance énergétique spectrale par luminescence, `β`~L~(`λ`)
+    `β`~T~(`λ`) = `β`~R~(`λ`) + `β`~L~(`λ`)
+  examples: []
+  id: 845-24-076
+  language_code: fra
+  notes:
+  - Pour les applications colorimétriques par fluorescence, la grandeur utilisée dans
+    les calculs colorimétriques est implicitement le facteur total de luminance énergétique,
+    l'omission de l'indice T étant par ailleurs courante.
+  - L'unité de facteur total de luminance énergétique spectrale est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur total de luminance énergétique spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d9b8dae9-2c28-5a59-afd0-40f23fbfa024
+status: valid

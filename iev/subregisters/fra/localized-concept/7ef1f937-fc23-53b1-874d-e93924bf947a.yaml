@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: dans un serveur de noms de domaine, enregistrement décrivant une ressource
+    Internet
+  examples: []
+  id: 732-07-17
+  language_code: fra
+  notes:
+  - L’enregistrement de ressource comprend essentiellement un nom de domaine, son
+    type et une valeur.
+  - « VAXA.ISI.EDU A 10.2.0.27 » est un enregistrement de type « A » (adressage) et
+    contient un nom d’hôte et une valeur qui est l’adresse IP de l’hôte.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: enregistrement de ressource
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 7ef1f937-fc23-53b1-874d-e93924bf947a
+status: valid

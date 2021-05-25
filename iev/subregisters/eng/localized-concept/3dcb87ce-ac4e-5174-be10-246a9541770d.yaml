@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: reciprocal of the {{period, IEV:103-06-01}}
+  examples: []
+  id: 103-06-02
+  language_code: eng
+  notes:
+  - The symbol `f` is mainly used when the period is a time. The symbol `ν` (nu) is
+    mainly used in optics.
+  - The coherent SI unit of frequency is the {{hertz, IEV:103-06-18}}, Hz.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`f`
+
+      `v`'
+    international: true
+    type: symbol
+dateAccepted: 2017-07-01
+id: 3dcb87ce-ac4e-5174-be10-246a9541770d
+status: valid

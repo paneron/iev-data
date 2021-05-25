@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 195-02-19
+      original: 195-02-19
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: conducteur ou partie conductrice destiné à être sous tension en service
+    normal, y compris le conducteur de neutre, mais par convention, excepté le conducteur
+    PEN, le conducteur PEM ou le conducteur PEL
+  examples: []
+  id: 826-12-08
+  language_code: fra
+  notes:
+  - La notion n'implique pas nécessairement un risque de choc électrique.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: partie active
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: beab06d6-bf6f-5082-b925-f86769fc22a9
+status: valid

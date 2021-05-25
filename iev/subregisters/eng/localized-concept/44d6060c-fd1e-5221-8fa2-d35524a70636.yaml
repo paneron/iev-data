@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the number of digits per second provided by a time-slot, equal to the
+    product of the number of digit time-slots and the number of repetitions of that
+    time-slot per second
+  examples: []
+  id: 704-16-10
+  language_code: eng
+  notes:
+  - The term may be qualified, for example, "effective bit rate".
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective digit rate
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 44d6060c-fd1e-5221-8fa2-d35524a70636
+status: valid

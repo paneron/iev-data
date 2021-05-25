@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: square matrix *`E`* the elements of which are the Kronecker deltas `Eij`
+    = δ`ij`
+  examples: []
+  id: 102-06-13
+  language_code: eng
+  notes:
+  - 'The unit matrix is the unit element for the multiplication: *`AE`* = *`EA`* =
+    *`A`* for every square matrix *`A`* of a given order.'
+  - The unit matrix of order `n` is denoted by *`E`*`n` or *`I`*`n`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 41287c18-4b5c-5ec8-9c33-ff46d9ffde41
+status: valid

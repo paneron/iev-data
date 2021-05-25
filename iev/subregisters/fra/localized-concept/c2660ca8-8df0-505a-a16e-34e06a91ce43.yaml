@@ -1,0 +1,50 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: rayonnement optique dont les longueurs d'onde sont inférieures à celles
+    du <a href="IEV845-21-003">rayonnement visible</a>
+  examples: []
+  id: 845-21-008
+  language_code: fra
+  notes:
+  - 'Le domaine entre 100 nm et 400 nm est généralement divisé en:
+
+
+    * UV-A: 315 nm à 400 nm;
+
+
+    * UV-B: 280 nm à 315 nm;
+
+
+    * UV-C: 100 nm à 280 nm.'
+  - Une limite précise entre rayonnement ultraviolet et rayonnement visible ne peut
+    pas être définie dans la mesure où une sensation visuelle à des longueurs d'onde
+    inférieures à 400 nm est constatée pour des sources très claires.
+  - Dans certaines applications, le spectre ultraviolet a également été divisé en
+    ultraviolet "lointain", "du vide" et "proche"; toutefois, les limites varient
+    nécessairement avec l'application (par exemple, météorologie, conception optique,
+    photochimie, et physique thermique).
+  - Cet article était numéroté 845-01-05 dans l'IEC 60050-845:1987.
+  - Le terme abrégé "UVR" est dérivé du terme anglais développé correspondant "ultraviolet
+    radiation".
+  reviewDecisionEvent: published
+  terms:
+  - designation: rayonnement ultraviolet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rayonnement UV
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: UVR
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c2660ca8-8df0-505a-a16e-34e06a91ce43
+status: valid

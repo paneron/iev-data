@@ -1,0 +1,24 @@
+data:
+  identifier: 714-01-01
+  localizedConcepts:
+    ara: c00aab85-fceb-5b02-94b1-4132065e1ba2
+    deu: 3d16d6fc-d3d0-544b-bf11-b43ec079f447
+    eng: 76ad40c1-9898-520d-b5f5-2d1d38fd49d8
+    fra: 47fed7b2-ef47-52a5-9d49-c7d0c3b2f93b
+    ita: 0b48d6ae-e26b-5271-a1b3-a9a637826d93
+    jpn: e70b7343-be63-55a6-8984-af80140d5140
+    kor: eabbfd02-99bf-5716-85fa-c8b64e6fd143
+    pol: cef60a37-63dd-5a78-8a9e-734ce268ac9d
+    por: c1f9d4d2-f7f4-5b03-ac76-e65fa5432bf2
+    spa: a5ebfc24-959d-5c8c-ac97-c2076cf5bb61
+    swe: 3f12cf91-ca88-5cfd-8b32-d32cb3fd401d
+    zho: bec9d610-8d92-5143-8ac5-10b4db83fb9e
+dateAccepted: 2018-11-17
+id: eb469c21-212e-56f3-a48f-4faae8149265
+related:
+- ref:
+    id: 714-01-01
+    source: IEV
+    version: 1992-04
+  type: supersedes
+status: valid

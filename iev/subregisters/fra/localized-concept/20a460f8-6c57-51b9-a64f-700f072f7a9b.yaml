@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-09-01
+  definition: 'entre deux bornes A et B, grandeur `u`~AB~ égale à la différence des
+    potentiels électriques `v`~A~ en A et `v`~B~ en B: `u`~AB~ = `v`~A~ – `v`~B~'
+  examples: []
+  id: 131-11-56
+  language_code: fra
+  notes:
+  - En théorie des circuits, le champ électrique est supposé irrotationnel. C’est
+    pourquoi cette définition est compatible avec celle donnée en électromagnétisme
+    pour un cas plus général [121-11-27].
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: 20a460f8-6c57-51b9-a64f-700f072f7a9b
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: transition pendant laquelle une dérivation est utilisée pour maintenir
+    en circuit un certain nombre de moteurs, pendant que le courant est supprimé dans
+    les autres moteurs
+  examples: []
+  id: 811-30-18
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: transition par dérivation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transition par shunt
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: transition par court-circuit
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 79172b5a-ce54-55fd-9af4-1226d0f34a43
+status: valid

@@ -1,0 +1,50 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: mean value of irradiance on the outer curved surface of a very small
+    (real or imaginary) sphere at a point in space
+  examples: []
+  id: 845-21-054
+  language_code: eng
+  notes:
+  - 'The spherical irradiance can be expressed by
+
+
+    `E_((e,o)) = int_((4 pi)) L_e d omega`
+
+
+    where `Ω` is solid angle and `L`~e~ is radiance.'
+  - The spherical irradiance is the quotient of the radiant flux of all the radiation
+    incident on the outer surface of an infinitely small sphere centred at the specified
+    point and the area of the diametrical cross-section of that sphere.
+  - The analogous quantities "spherical illuminance", `E`~v,o~, and "photon spherical
+    irradiance", `E`~p,o~, are defined in a similar way, replacing radiance, `L`~e~,
+    by luminance, `L`~v~, and photon radiance, `L`~p~, respectively.
+  - The spherical irradiance is the appropriate radiometric quantity for describing
+    a dose rate for a photobiological or photochemical effect in a scattering medium
+    (e.g. light in skin). The spherical irradiance is also the appropriate quantity
+    for describing the irradiation of microorganisms. The spherical irradiance is
+    frequently used incorrectly as a substitute for irradiance in some publications.
+  - The spherical irradiance is expressed in watt per square metre (W·m^−2^).
+  - This entry was numbered 845-01-40 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spherical irradiance
+    normative_status: preferred
+    type: expression
+  - designation: fluence rate
+    type: expression
+  - designation: radiant fluence rate
+    normative_status: admitted
+    type: expression
+  - designation: '`E`~e,o~
+
+      `E`~o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ea751533-7012-57ef-a9ac-8b3997a97f49
+status: valid

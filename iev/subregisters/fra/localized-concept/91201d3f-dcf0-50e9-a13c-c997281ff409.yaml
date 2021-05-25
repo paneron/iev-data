@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble des programmes, des procédures, des règles, de la documentation
+    et des données d'un système de traitement de l'information
+  examples:
+  - Exigences fonctionnelles et spécifications de conception; listage du code source;
+    listes de contrôle et commentaires; texte d’aide et messages d’affichage sur l’interface
+    homme-ordinateur; instructions d’installation et d’utilisation; guides pour la
+    maintenance du matériel et du logiciel.
+  id: 192-01-07
+  language_code: fra
+  notes:
+  - Le logiciel est une création intellectuelle indépendante du support sur lequel
+    il est enregistré.
+  - Le logiciel requiert la présence de dispositifs matériels pour exécuter des programmes
+    et pour stocker et transmettre des données.
+  - Les micrologiciels, les logiciels d’exploitation et les logiciels d’application
+    sont des types de logiciel.
+  reviewDecisionEvent: published
+  terms:
+  - designation: logiciel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 91201d3f-dcf0-50e9-a13c-c997281ff409
+status: valid

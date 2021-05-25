@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the diffusely reflected part of the (whole) reflected flux
+    and the incident flux
+  examples: []
+  id: 845-24-068
+  language_code: eng
+  notes:
+  - 'Reflectance, `ρ`, is the sum of regular reflectance, `ρ`~r~, and diffuse reflectance,
+    `ρ`~d~: `ρ` = `ρ`~r~ + `ρ`~d~.'
+  - The diffuse reflectance has unit one.
+  - This entry was numbered 845-04-62 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diffuse reflectance
+    normative_status: preferred
+    type: expression
+  - designation: '`ρ`~d~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: d14d3782-80fb-521b-aa37-3c043d919256
+status: valid

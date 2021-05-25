@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: radio network using a random multiple access and packet transmission
+    consisting of many stations contending over one radio channel for access to a
+    central station and being serviced by the central station on a broadcast channel
+  examples: []
+  id: 713-12-04
+  language_code: eng
+  notes:
+  - In case of concurrent transmission over the access channel, the packets are generally
+    considered as destroyed.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ALOHA system
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 55173456-2226-55d3-be53-90db144cc89a
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: exponent obtained in a specific range of electric field strength or
+    resistivity when the voltage/current `U`(`I`) curve is approximated by the equation
+    `U` ∝ `In`
+  examples: []
+  id: 815-12-10
+  language_code: eng
+  notes: []
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`n`-value'
+    normative_status: preferred
+    type: expression
+    usage_info: superconductor
+  - designation: '`n`'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 17b8dbf6-cb0d-5eaa-b43b-473c8357b735
+status: valid

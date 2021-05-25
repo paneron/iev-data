@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: minimum current in a test circuit that causes ignition of the explosive
+    test mixture in the spark test apparatus
+  examples: []
+  id: 426-02-12
+  language_code: eng
+  notes:
+  - This note applies to the French language only.
+  - 'The test circuit is specified in ISO/IEC 80079-20-1, _Explosive atmospheres –
+    Part 20-1: Material characteristics for gas and vapour classification – Test methods
+    and data_.'
+  - 'The spark test apparatus is specified in IEC 60079-11, _Explosive atmospheres
+    – Part 11: Equipment protection by intrinsic safety "i"_.'
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: minimum igniting current
+    normative_status: preferred
+    type: expression
+  - designation: MIC
+    type: expression
+dateAccepted: 2020-03-01
+id: 302fc618-868a-58b3-ba3e-7fb3755df895
+status: valid

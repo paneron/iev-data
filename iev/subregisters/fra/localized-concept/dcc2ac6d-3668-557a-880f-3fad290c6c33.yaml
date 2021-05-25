@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: situation anormale d'un réseau d'énergie qui implique ou résulte d'une
+    défaillance d'un circuit, d'un ouvrage, d'un matériel ou d'un appareil du réseau
+    et qui nécessite normalement de déconnecter immédiatement du réseau d'énergie
+    le circuit, l'ouvrage, le matériel ou l'appareil en défaut, par le déclenchement
+    des disjoncteurs appropriés
+  examples: []
+  id: 448-13-02
+  language_code: fra
+  notes:
+  - 'Les défauts dans les réseaux d''énergie peuvent être des défauts shunt, série
+    et combinés.
+
+
+    Voir figure 448-3.
+
+
+    image::/assets/images/parts/448/448-fig3-fr.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaut dans un réseau d'énergie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: dcc2ac6d-3668-557a-880f-3fad290c6c33
+status: valid

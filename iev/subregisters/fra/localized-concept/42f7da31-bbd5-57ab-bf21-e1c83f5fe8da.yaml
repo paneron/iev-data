@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: train comportant un ou plusieurs éléments automoteurs pouvant être commandés
+    simultanément d'une même cabine de conduite et pouvant circuler, sans modification
+    de la composition, dans les deux sens de marche, à vitesse normale
+  examples: []
+  id: 811-02-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: train à unités multiples
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rame automotrice réversible
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 42f7da31-bbd5-57ab-bf21-e1c83f5fe8da
+status: valid

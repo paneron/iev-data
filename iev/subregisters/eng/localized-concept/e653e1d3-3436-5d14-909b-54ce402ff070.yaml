@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: plane in which the surface of a sample or standard is placed during
+    measurements
+  examples: []
+  id: 845-25-110
+  language_code: eng
+  notes:
+  - For reflection measurements, the geometry is defined with respect to the reference
+    plane. For transmission measurements, there is a reference plane for the incident
+    light and a second reference plane, displaced by the sample thickness, for the
+    transmitted light.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference plane
+    normative_status: preferred
+    type: expression
+    usage_info: in photometric or radiometric measurements
+dateAccepted: 2020-12-01
+id: e653e1d3-3436-5d14-909b-54ce402ff070
+status: valid

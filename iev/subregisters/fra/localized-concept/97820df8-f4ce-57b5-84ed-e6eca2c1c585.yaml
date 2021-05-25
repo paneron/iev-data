@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: fonction égale au quotient des transformées de Fourier des signaux qui
+    se correspondent à la sortie et à l'entrée d'un biporte linéaire invariable dans
+    le temps
+  examples: []
+  id: 702-07-29
+  language_code: fra
+  notes:
+  - La fonction de transfert isochrone coïncide avec la fonction de transfert isomorphe
+    pour les valeurs imaginaires de la fréquence complexe qui est la variable de la
+    transformée de Laplace. C'est la transformée de Fourier de la réponse impulsionnelle
+    du biporte.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de transfert isochrone
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réponse en fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmittance isochrone
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmittance cissoïdale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 97820df8-f4ce-57b5-84ed-e6eca2c1c585
+status: valid

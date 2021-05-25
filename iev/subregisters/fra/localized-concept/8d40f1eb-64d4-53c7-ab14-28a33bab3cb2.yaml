@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 725-14-30
+      original: 725-14-30 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: modulation dans laquelle la valeur moyenne de la densité spectrale de
+    puissance du signal émis est répartie d'une manière aléatoire ou quasi aléatoire
+    sur une largeur de bande beaucoup plus grande que celle strictement nécessaire
+    à la transmission des informations
+  examples: []
+  id: 713-07-01
+  language_code: fra
+  notes:
+  - La modulation à spectre étalé permet l'accès multiple à une voie de transmission
+    et accroît l'immunité au bruit et au brouillage radioélectriques.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation à spectre étalé
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: modulation à étalement du spectre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 8d40f1eb-64d4-53c7-ab14-28a33bab3cb2
+status: valid

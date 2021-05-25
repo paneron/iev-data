@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'in a graphic representation of the relation between the magnetic flux
+    density and the magnetic field strength relation in a material, a region near
+    the origin within which the flux density can be described by a quadratic function
+    of the field strength: `(B)/((mu_0)) = ( mu_i + v hat H ) H +- (v)/(2) ( hat H^2
+    - H^2 )` where `B` is the magnetic flux density `µ`~0~ is the magnetic constant
+    `µ`~i~ is the initial permeability `H` is the magnetic field strength `hat H`
+    is the peak value of `H` and `v` is the Rayleigh hysteresis coefficient'
+  examples: []
+  id: 221-03-32
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Rayleigh region
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: e6c4f779-e243-51f5-995f-5eca3adf7ce5
+status: valid

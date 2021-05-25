@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport du volume d'un composé spécifié à la somme des volumes de tous
+    les composés d'un mélange gazeux avant le mélange, tous les volumes étant exprimés
+    à la pression et la température du mélange gazeux
+  examples: []
+  id: 426-24-71
+  language_code: fra
+  notes:
+  - Le titre volumique et la concentration volumique ont la même valeur si dans les
+    mêmes conditions d'état, la somme des volumes des composants avant mélange et
+    le volume du mélange sont égaux. Cependant, du fait qu'un mélange de deux ou plusieurs
+    gaz dans les mêmes conditions d'état est généralement accompagné d'une légère
+    contraction, ou moins fréquemment d'une légère expansion, ce n'est généralement
+    pas le cas.
+  reviewDecisionEvent: published
+  terms:
+  - designation: titre volumique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 03972c1c-1a07-50d8-9346-c9e7e063aea6
+status: valid

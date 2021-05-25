@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la valeur efficace de la composante alternative d'une grandeur
+    {{ondulée, IEV:103-06-07}} à la valeur efficace de la grandeur elle-même
+  examples: []
+  id: 103-06-11
+  language_code: fra
+  notes:
+  - Pour une grandeur ondulée `x` de valeur efficace `X_((e f f))` et de composante
+    alternative `x_( ∼ )`, le taux d'ondulation est `s = X_( ∼ ) ()_((eff)) // X_((eff))`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux d'ondulation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fb6d4533-149d-5411-a9fb-a0e9ad44d5e6
+status: valid

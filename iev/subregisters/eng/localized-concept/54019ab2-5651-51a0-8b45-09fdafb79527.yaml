@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the fractional change in the amplitude permeability between two specified
+    peak values of the sinusoidal magnetic field strength, divided by the difference
+    in the peak values of the field strength: `delta_H = ((mu_((a 2)) - mu_((a 1))))/((mu_((a
+    1)) ( hat H_2 - hat H_1 )))`'
+  examples: []
+  id: 221-03-12
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: permeability rise factor
+    normative_status: preferred
+    type: expression
+  - designation: '`δH`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 54019ab2-5651-51a0-8b45-09fdafb79527
+status: valid

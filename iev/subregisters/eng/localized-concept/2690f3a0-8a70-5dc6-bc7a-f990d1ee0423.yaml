@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: a flow control such that the rate at which data are transmitted from
+    one data terminal equipment is not more than the rate at which they can be received
+    by the remote terminal
+  examples: []
+  id: 721-19-31
+  language_code: eng
+  notes:
+  - This procedure may apply between a data terminal equipment and the adjacent data
+    switching exchange or between two data terminals. In the latter case the transfer
+    rate may be controlled due to network or remote data terminal equipment requirements.
+  - This procedure may operate independently in the two directions of data transfer
+    thus permitting different data transfer rates in these directions.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmit flow control
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 2690f3a0-8a70-5dc6-bc7a-f990d1ee0423
+status: valid

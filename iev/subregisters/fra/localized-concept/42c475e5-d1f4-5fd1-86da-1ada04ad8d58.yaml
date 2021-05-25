@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^50^ d''une unité de mesure'
+  examples:
+  - Un pébibit = 1 Pibit = (1 024)^5^ bit.
+  id: 171-02-18
+  language_code: fra
+  notes:
+  - Le préfixe pébi a pour origine pétabinaire, (2^10^)^5^, dérivé du préfixe SI péta,
+    (10^3^)^5^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pébi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 42c475e5-d1f4-5fd1-86da-1ada04ad8d58
+status: valid

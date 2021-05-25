@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '1.19'
+      original: VIM 1.19
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: value consistent with the definition of a given particular quantity
+  examples: []
+  id: 311-01-04
+  language_code: eng
+  notes:
+  - This term is used in the "true value" approach.
+  - This is a value that would be obtained by a perfect measurement.
+  - True values are by nature indeterminate.
+  - The indefinite article "a", rather than the definite article "the", is used in
+    conjunction with "true value" because there can be many values consistent with
+    the definition of a given particular quantity.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: true value (of a quantity)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 6098ba51-fe38-51ca-9e7e-751d4ffdfdb7
+status: valid

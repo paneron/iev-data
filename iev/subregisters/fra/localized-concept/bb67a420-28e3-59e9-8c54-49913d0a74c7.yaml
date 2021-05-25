@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour deux matrices *`A`* de format `m` × `p` et *`B`* de format `p`
+    × `n`, dont les éléments sont respectivement `Aik` et `Bkj`, matrice *`AB`* de
+    format `m` × `n` dont les éléments sont `(( A B ))_((i j)) = sum_((k = 1))^p A_((i
+    k)) B_(k j)^()`.
+  examples: []
+  id: 102-06-08
+  language_code: fra
+  notes:
+  - Le produit n'existe que si le nombre de colonnes de la première matrice est égal
+    au nombre de lignes de la deuxième matrice.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit de deux matrices
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bb67a420-28e3-59e9-8c54-49913d0a74c7
+status: valid

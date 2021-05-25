@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: pour un circuit résonant fonctionnant à une fréquence donnée, 2π fois
+    le rapport de l'énergie emmagasinée dans le circuit au début d'un cycle à l'énergie
+    dissipée pendant le cycle
+  examples: []
+  id: 151-15-46
+  language_code: fra
+  notes:
+  - Le facteur de qualité caractérise l'acuité de la résonance.
+  - En français, le terme «facteur de surtension» est d’usage courant, même en l’absence
+    de surtension.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de qualité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un circuit résonant
+  - designation: facteur de surtension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un circuit résonant
+dateAccepted: 2018-11-17
+id: ce132519-49a2-5e71-90a8-5cf66116a41b
+status: valid

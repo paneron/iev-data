@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.45
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.45
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: type of message error in which the order of messages in the message
+    stream is changed
+  examples: []
+  id: 821-11-43
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: resequenced message
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: ada7b296-6ec2-58d3-9bc7-d0de074fd8ab
+status: valid

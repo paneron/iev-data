@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/169
+      original: voir la partie 121 de l'IEV
+      ref: IEC 60050-121
+      relationship:
+        type: related
+  dateAmended: 1990-10-01
+  definition: composante d'un champ électromagnétique caractérisée par le vecteur
+    champ magnétique `vec H` et par le vecteur induction magnétique `vec B`
+  examples: []
+  id: 221-01-01
+  language_code: fra
+  notes:
+  - En français, le terme "champ magnétique" désigne généralement le vecteur champ
+    magnétique.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ magnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: e8d6c1f8-d332-51b5-9364-0c1d3013ea59
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.15
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.15
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{entité numérique, IEV:741-01-14}} qui utilise un {{système IdO, IEV:741-02-07}}'
+  examples: []
+  id: 741-01-15
+  language_code: fra
+  notes:
+  - L'utilisateur numérique inclut les {{services, IEV:741-01-28}} d'automatisation
+    qui agissent pour le compte d'{{utilisateurs humains, IEV:741-01-20}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: utilisateur numérique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2f57bbd9-36fe-59ed-9456-1b4d591d10bb
+status: valid

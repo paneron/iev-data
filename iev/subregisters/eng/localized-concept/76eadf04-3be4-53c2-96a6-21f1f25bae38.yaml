@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: sinusoidal component of the Fourier series of a periodic quantity having
+    the frequency to which all other components are referred and which is not the
+    fundamental component
+  examples: []
+  id: 551-20-02
+  language_code: eng
+  notes:
+  - If it is clearly stated in a context that the reference fundamental component
+    is used, the word “reference” may be omitted, but this standard does not recommend
+    such practice.
+  - For practical analysis, an approximation of the periodicity may be necessary.
+  - In power electronics often the component having the frequency of the AC supply
+    system or of the converter output quantities is chosen as reference fundamental
+    component.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference fundamental component
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 76eadf04-3be4-53c2-96a6-21f1f25bae38
+status: valid

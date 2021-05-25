@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: relation entre deux variables ou plus exprimée sous la forme d'une égalité
+  examples: []
+  id: 103-01-07
+  language_code: fra
+  notes:
+  - '`F ( x , y , z ) = 0` est une relation fonctionnelle entre les variables `x ,
+    y , z`. Toute fonction de `n` variables est une relation fonctionnelle entre `n`
+    + 1 variables.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: relation fonctionnelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2bf5cd70-c17e-5c0d-82e0-107fc4f8328d
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: élément d'un diagramme fonctionnel qui participe à la définition de
+    l'état du système à un instant donné, cet élément pouvant alors être soit actif
+    ou inactif
+  examples: []
+  id: 351-53-09
+  language_code: fra
+  notes:
+  - Les étapes sont séparées par des transitions.
+  - L'ensemble des étapes actives définit l’état du système considéré.
+  - Des ordres ou des actions peuvent être associés à chaque étape. Une étape ne peut
+    activer un ordre que si elle est active.
+  - Cet article était numéroté 351-29-23 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: étape
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 03e856a3-4289-54d7-9a2d-32c08426b756
+status: valid

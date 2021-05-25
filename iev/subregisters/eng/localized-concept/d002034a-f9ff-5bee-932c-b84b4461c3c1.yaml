@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity `C` = d`Q`/d`T`, when the thermodynamic temperature of a system
+    is increased by d`T` as a result of the addition of a amount of heat d`Q`, under
+    given condition
+  examples: []
+  id: 113-04-47
+  language_code: eng
+  notes:
+  - 1 Examples of condition might be constant volume or constant pressure for a gas.
+  - 2 The coherent SI unit of heat capacity is joule per kelvin, J/K.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: heat capacity
+    normative_status: preferred
+    type: expression
+  - designation: '`C`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: d002034a-f9ff-5bee-932c-b84b4461c3c1
+status: valid

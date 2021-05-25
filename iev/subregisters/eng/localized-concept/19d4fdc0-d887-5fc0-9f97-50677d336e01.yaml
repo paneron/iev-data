@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: maximum continuous electric power output that a {{fuel cell power system,
+    IEV:485-09-01}} is designed to achieve under normal operating conditions specified
+    by the manufacturer
+  examples: []
+  id: 485-14-04
+  language_code: eng
+  notes:
+  - The rated power is expressed in W.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated power
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: 19d4fdc0-d887-5fc0-9f97-50677d336e01
+status: valid

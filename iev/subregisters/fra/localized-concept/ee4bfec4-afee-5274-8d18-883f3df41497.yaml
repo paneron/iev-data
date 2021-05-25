@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: rapport du phaseur représentant le courant réfléchi au phaseur représentant
+    le courant incident à un accès d'un réseau électrique ou en un point proche d'une
+    discontinuité d'une ligne de transmission
+  examples: []
+  id: 131-15-32
+  language_code: fra
+  notes:
+  - 'Si on peut définir des impédances, le facteur de réflexion complexe du courant
+    est égal à
+
+
+    `(underset(_)(r))_I = ((underset(_)(Z) - underset(_)(Z) ''))/((underset(_)(Z)
+    + underset(_)(Z) ''))`
+
+
+    où <u>`Z`</u> est l''impédance caractéristique de la ligne avant la discontinuité
+    ou l''impédance de la source, et <u>`Z`</u>′ est l''impédance après la discontinuité
+    ou l''impédance de la charge vue de l''accès commun à la source et à la charge.'
+  - Dans un contexte approprié, on peut abréger le terme "facteur de réflexion complexe
+    du courant" par omission de l'adjectif "complexe".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion complexe du courant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient de réflexion complexe du courant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: ee4bfec4-afee-5274-8d18-883f3df41497
+status: valid

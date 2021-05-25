@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: pertaining to alternating electric quantities such as voltage or current,
+    to devices operated with these, or to quantities associated with these devices
+  examples: []
+  id: 151-15-01
+  language_code: eng
+  notes:
+  - The notation "AC" is preferred in English to the notation "a.c." which is an abbreviation
+    of "alternating current" (see IEC 60050-131).
+  - French language uses also the expression "courant alternatif" with an appropriate
+    preposition such as "en", "de", "à" or "pour", or only the adjective "alternatif".
+  - 'For the marking of electric equipment, either the notation AC (see IEC 61293)
+    or the graphical symbol ~ (see IEC 60417 item 5032) may be used. Example: AC 500
+    V or ~ 500 V.'
+  - 'According to ISO 31-0 and IEC 60027-1, unit names and unit symbols shall not
+    be qualified by "AC" as an attachment. Example: `U`~AC~ = 500 V is correct, `U`
+    = 500 V~AC~ or `U` = 500 V AC are incorrect.'
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: AC
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: b77b48fb-21cb-5fac-a621-fa4a417b4f98
+status: valid

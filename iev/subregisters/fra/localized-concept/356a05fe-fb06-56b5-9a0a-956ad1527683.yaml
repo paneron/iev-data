@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.94
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.94
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: équipement qui envoie de manière spontanée des informations sur un bus
+    à destination de plusieurs dispositifs esclaves
+  examples: []
+  id: 811-37-62
+  language_code: fra
+  notes:
+  - Le maître peut autoriser un esclave à transmettre une trame esclave uniquement
+    dans un certain laps de temps.
+  reviewDecisionEvent: published
+  terms:
+  - designation: maître
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 356a05fe-fb06-56b5-9a0a-956ad1527683
+status: valid

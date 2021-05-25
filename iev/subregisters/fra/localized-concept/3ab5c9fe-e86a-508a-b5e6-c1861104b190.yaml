@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: séquence finie d'instructions complètement déterminée par laquelle la
+    valeur des variables de sortie peut être calculée à partir de la valeur des variables
+    d'entrée
+  examples: []
+  id: 351-42-27
+  language_code: fra
+  notes:
+  - Le comportement d'un système à variables d'entrée et de sortie discrètes (par
+    exemple un système de commutation) peut être entièrement décrit par un algorithme.
+    Pour un système à variables d'entrée et de sortie continues et à temps continu,
+    l'algorithme est donné par – ou dérivé de – la relation mathématique entre les
+    variables d'entrée et de sortie.
+  - Cet article était numéroté 351-21-37 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: algorithme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 3ab5c9fe-e86a-508a-b5e6-c1861104b190
+status: valid

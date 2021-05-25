@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-12-01
+  definition: sum of the {{operating time, IEV:692-06-02}} and the {{standby time,
+    IEV:692-06-01}} within a specified period of time
+  examples: []
+  id: 692-06-03
+  language_code: eng
+  notes:
+  - See also the related term "up state" ({{IEV 192-02-01, IEV:192-02-01}}).
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: up state duration
+    normative_status: preferred
+    type: expression
+  - designation: up duration
+    normative_status: preferred
+    type: expression
+  - designation: up time
+    normative_status: admitted
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: 9ed89bf9-730b-5ce3-b637-4bf9379273b4
+status: valid

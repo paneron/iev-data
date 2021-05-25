@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4.12'
+      original: ≠ VIM 4.12
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: ensemble des composants d'un appareil de mesure destiné à indiquer la
+    valeur du mesurande
+  examples: []
+  id: 311-05-02
+  language_code: fra
+  notes:
+  - 'Par extension: dispositif d''affichage ou de réglage d''un appareil de mesure
+    tel que mesure matérialisée ou générateur de signaux.'
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif indicateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: ef4518d1-2d67-5b2c-be75-020fc8c84e03
+status: valid

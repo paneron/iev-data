@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: énergie des ondes électromagnétiques pondérées par l'<a href="IEV845-21-035">efficacité
+    lumineuse relative spectrale</a>, multipliée par l'efficacité lumineuse maximale
+    d'une condition photométrique spécifiée
+  examples: []
+  id: 845-21-037
+  language_code: fra
+  notes:
+  - 'L''énergie lumineuse pour la vision photopique est exprimée par
+
+
+    `Q_v = K_m int_0^(oo) Q_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    où `Q`~e,`λ`~(`λ`) est l''énergie rayonnante spectrale à la longueur d''onde `λ`,
+    `V`(`λ`) est l''efficacité lumineuse spectrale, et `K`~m~ est l''efficacité lumineuse
+    maximale.'
+  - Le terme "quantité de lumière" n'est plus usité.
+  - L'énergie lumineuse peut être émise, transférée ou reçue.
+  - 'L''énergie lumineuse peut être exprimée par l''intégrale par rapport au temps
+    du flux lumineux, `Φ`~v~, pendant une durée donnée, Δ`t`:
+
+
+    `Q_v = int_((Delta t)) Phi_v d t`'
+  - La grandeur radiométrique correspondante est l'"énergie rayonnante". La grandeur
+    correspondante pour les photons est l'"énergie photonique".
+  - L'énergie lumineuse est exprimée en lumen seconde (lm·s) ou lumen heure (lm·h).
+  - Cet article était numéroté 845-01-28 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie lumineuse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: quantité de lumière
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d7ebcdac-b3a1-57b5-bbb2-26a945e4e580
+status: valid

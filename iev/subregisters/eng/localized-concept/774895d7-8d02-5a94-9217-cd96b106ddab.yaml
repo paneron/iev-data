@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: function, zero for all negative values of the independent variable and
+    equal to one for all positive values
+  examples: []
+  id: 103-03-01
+  language_code: eng
+  notes:
+  - See Figure 1 below for a graphical representation of ε(`t`). The value ε(0) may
+    remain undefined or may be defined according to the context.
+  - ε(`x` − `x`~0~) denotes a unit step at the value `x`~0~ of the independent variable
+    `x`.
+  - 'Notation H(`x`) is also used. Notation ϑ(`t`) is used for the unit step function
+    of time. Notation ϒ(`x`) has also been used.
+
+
+    image::/assets/images/parts/103/103-03-015.png[Figure 1 - Représentation graphique
+    de ε(`t`); Graphical representation of ε(`t`)]'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit step function
+    normative_status: preferred
+    type: expression
+  - designation: Heaviside function
+    type: expression
+  - designation: ε
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 774895d7-8d02-5a94-9217-cd96b106ddab
+status: valid

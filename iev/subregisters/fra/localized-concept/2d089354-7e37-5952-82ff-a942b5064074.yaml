@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir {{IEV 121-11-03, IEV:121-11-03}}
+  examples: []
+  id: 705-03-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: permittivité du vide
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: pouvoir inducteur spécifique du vide
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2d089354-7e37-5952-82ff-a942b5064074
+status: valid

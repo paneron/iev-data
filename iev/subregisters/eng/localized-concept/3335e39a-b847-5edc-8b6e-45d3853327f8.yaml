@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: restoration without corrective maintenance
+  examples: []
+  id: 192-06-24
+  language_code: eng
+  notes:
+  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) identified
+    the term “recovery” as a synonym of “restoration” ({{192-06-23, IEV:192-06-23}}),
+    but this is not true in all cases.
+  - See also self-recovery ({{192-06-25, IEV:192-06-25}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recovery
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 3335e39a-b847-5edc-8b6e-45d3853327f8
+status: valid

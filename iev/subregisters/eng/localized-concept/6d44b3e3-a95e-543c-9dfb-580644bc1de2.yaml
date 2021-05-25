@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 714-02-11
+      original: 714-02-11 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1996-12-01
+  definition: pertaining to a resource that is not being used, but is not faulty
+  examples: []
+  id: 715-02-06
+  language_code: eng
+  notes:
+  - An idle resource may be either free or busied out.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: idle
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 6d44b3e3-a95e-543c-9dfb-580644bc1de2
+status: valid

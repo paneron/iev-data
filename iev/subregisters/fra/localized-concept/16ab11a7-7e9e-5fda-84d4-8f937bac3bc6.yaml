@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{équipement, IEV:651-21-16}} comprenant des tuyaux, des buses et un
+    système d''alimentation tel que pompe ou aspiration, utilisant un moyen de nettoyage
+    humide ou sec sous des conditions déterminées'
+  examples: []
+  id: 651-22-30
+  language_code: fra
+  notes:
+  - L’équipement de nettoyage sous tension est généralement utilisé sur des installations
+    {{sous tension, IEV:651-21-08}} pour enlever la poussière et la contamination
+    des parties conductrices et/ou isolantes.
+  - L'équipement de nettoyage sous tension peut être fixe, mobile ou portable, en
+    contact ou à distance de pièces sous tension.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équipement de nettoyage sous tension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 16ab11a7-7e9e-5fda-84d4-8f937bac3bc6
+status: valid

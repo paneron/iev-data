@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: pour une surface plane S et un axe spécifié perpendiculaire au plan
+    de la surface, grandeur scalaire additive égale à l'intégrale `I_p = int_S R^2
+    d A`, où `R` est la distance entre un élément de surface d'aire d`A` et l'axe
+  examples: []
+  id: 113-03-30
+  language_code: fra
+  notes:
+  - 1 Le moment quadratique polaire d'une aire plane est parfois appelé incorrectement
+    «moment d'inertie», mais ne doit pas être confondu avec la grandeur «moment d'inertie».
+  - 2 L'unité SI cohérente de moment quadratique polaire d'une aire plane est le mètre
+    à la puissance quatre, m^4^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moment quadratique polaire d'une aire plane
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 097f6cdc-9170-5303-8f35-30da5f7fb4f5
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: illuminance produced by direct sunlight on a surface on the Earth that
+    is perpendicular to the direction of illumination by the Sun
+  examples: []
+  id: 845-29-129
+  language_code: eng
+  notes:
+  - Normal solar illuminance is not the same as direct solar illuminance, which is
+    measured on a horizontal surface on the Earth, not necessarily perpendicular to
+    the direction of illumination by the Sun.
+  - The normal solar illuminance is expressed in lux (lx = lm·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: normal solar illuminance
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~v,n~
+
+      `E`~n~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 74d1fb39-cd93-53c8-9df2-1187455d9259
+status: valid

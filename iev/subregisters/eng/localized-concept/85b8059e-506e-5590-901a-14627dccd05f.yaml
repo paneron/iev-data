@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2015-02-01
+  definition: non-operating up state during non-required time
+  examples: []
+  id: 192-02-14
+  language_code: eng
+  notes:
+  - The adjective “idle” designates an item in an idle state.
+  - In some applications, an item in an idle state has some functioning subsystems,
+    and is therefore considered to be operating.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: idle state
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+  - designation: free state
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: 85b8059e-506e-5590-901a-14627dccd05f
+status: valid

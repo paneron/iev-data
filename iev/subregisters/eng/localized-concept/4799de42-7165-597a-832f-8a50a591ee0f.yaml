@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{polarization, IEV:485-15-01}} caused by slow electrode kinetics'
+  examples: []
+  id: 485-15-02
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: activation polarization
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+  - designation: activation loss
+    type: expression
+dateAccepted: 2020-02-01
+id: 4799de42-7165-597a-832f-8a50a591ee0f
+status: valid

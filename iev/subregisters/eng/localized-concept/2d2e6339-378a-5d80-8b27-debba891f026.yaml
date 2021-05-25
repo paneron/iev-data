@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: a light ray that is close to and nearly parallel with the fibre axis
+  examples: []
+  id: 731-03-69
+  language_code: eng
+  notes:
+  - For purposes of computation, the angle, `θ`, between the ray and the optical axis
+    is small enough for sin `θ` or tan `θ` to be replaced by `θ` (radians).
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: paraxial ray
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 2d2e6339-378a-5d80-8b27-debba891f026
+status: valid

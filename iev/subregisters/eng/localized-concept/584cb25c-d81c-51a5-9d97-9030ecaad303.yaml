@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: ideal surface for which the radiation coming from that surface is distributed
+    angularly according to Lambert's cosine law
+  examples: []
+  id: 845-24-063
+  language_code: eng
+  notes:
+  - For a Lambertian surface, `M` = π`L` where `M` is the radiant exitance or luminous
+    exitance, and `L` the radiance or luminance.
+  - This entry was numbered 845-04-57 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Lambertian surface
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 584cb25c-d81c-51a5-9d97-9030ecaad303
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une surface admettant en tout point un plan tangent, propriété
+    déterminée par le choix, continûment de point en point, de l'un des deux vecteurs
+    unités normaux en chaque point
+  examples: []
+  id: 102-04-36
+  language_code: fra
+  notes:
+  - L'orientation d'une surface fermée est vers l'intérieur ou vers l'extérieur. Pour
+    certaines surfaces, par exemple le ruban de Möbius, l'orientation n'est définie
+    que localement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: orientation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une surface
+dateAccepted: 2018-11-17
+id: 975ac248-4ea6-5dac-8b24-805b5384504e
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 702-04-17
+      original: 702-04-17
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: qualifie chacun de deux phénomènes variables dans le temps, de deux
+    trames temporelles ou de deux signaux dont les instants significatifs homologues
+    sont séparés par des intervalles de temps de même durée voulue
+  examples: []
+  id: 704-13-15
+  language_code: fra
+  notes:
+  - En pratique, les variations des intervalles de temps sont maintenues entre des
+    limites fixées.
+  - Deux phénomènes, trames temporelles ou signaux peuvent être synchrones sans être
+    isochrones.
+  - Lorsque les phénomènes, trames temporelles ou signaux sont périodiques, les instants
+    significatifs homologues apparaissent en moyenne à la même cadence.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: synchrone
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 1993-08-01
+id: 5fb4fd5b-d44f-55d0-b915-037b971f39d9
+status: valid

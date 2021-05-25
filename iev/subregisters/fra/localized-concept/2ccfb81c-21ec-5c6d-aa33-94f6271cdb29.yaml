@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: déplacement saccadé et irrégulier d'une image dû à un défaut de {{synchronisation,
+    IEV:704-13-17}}
+  examples: []
+  id: 723-06-09
+  language_code: fra
+  notes:
+  - En anglais, le terme "jitter" a des sens différents pour des signaux (voir {{IEV
+    702-07-74, IEV:702-07-74}} et {{IEV 704-16-13, IEV:704-16-13}}) et en vidéo (voir
+    {{IEV 806-17-23, IEV:806-17-23}}).
+  - En français, le terme "gigue" a un sens différent en télévision (voir {{IEV 723-06-11,
+    IEV:723-06-11}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: instabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'image
+dateAccepted: 2018-11-17
+id: 2ccfb81c-21ec-5c6d-aa33-94f6271cdb29
+status: valid

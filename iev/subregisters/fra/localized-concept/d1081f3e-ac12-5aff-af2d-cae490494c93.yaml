@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: somme de l'énergie électrique, thermique, mécanique et chimique (combustible)
+    demandée par un {{système à pile à combustible, IEV:485-09-01}} pendant le {{temps
+    de démarrage, IEV:485-20-05}}
+  examples: []
+  id: 485-18-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie de démarrage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des piles à combustible
+dateAccepted: 2018-11-17
+id: d1081f3e-ac12-5aff-af2d-cae490494c93
+status: valid

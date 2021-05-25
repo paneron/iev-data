@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the controlled loss or gain of a set of consecutive digit time-slots
+    in a digital signal to enable it to accord with a digit rate different from its
+    own digit rate, and in which this loss or gain of digit time-slots cannot be corrected
+  examples: []
+  id: 704-18-13
+  language_code: eng
+  notes:
+  - The term may be qualified, for example, controlled octet slip, controlled frame
+    slip.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: controlled slip
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: da4c97ea-49ad-5e72-8a12-8b4f24052cc6
+status: valid

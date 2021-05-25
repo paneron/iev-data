@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble de conditions reproductibles spécifiques liées au fonctionnement,
+    à la maintenance et à l'environnement, régulièrement répétées pendant un essai
+  examples: []
+  id: 192-09-16
+  language_code: fra
+  notes:
+  - On fait varier les conditions de fonctionnement afin de simuler la variation dans
+    le temps des conditions de fonctionnement et d’environnement de l’utilisation
+    prévue.
+  reviewDecisionEvent: published
+  terms:
+  - designation: cycle d’essai
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 42cc8417-2c95-50a5-866a-56294ad4aa41
+status: valid

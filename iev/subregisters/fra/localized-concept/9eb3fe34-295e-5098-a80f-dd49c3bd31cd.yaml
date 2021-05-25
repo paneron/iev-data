@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: vitesse maximale autorisée sur un parcours donné, limitée par des facteurs
+    tels que la constitution ou l'état de la voie et de la signalisation
+  examples: []
+  id: 811-11-16
+  language_code: fra
+  notes:
+  - Il peut arriver qu'une section de ligne possède plusieurs vitesses limites, chacune
+    s'appliquant à une catégorie particulière de véhicule.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse limite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: sur une section de ligne
+dateAccepted: 2018-11-17
+id: 9eb3fe34-295e-5098-a80f-dd49c3bd31cd
+status: valid

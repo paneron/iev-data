@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: an n-ary digit appended to an array of n-ary digits to make the sum
+    modulo n of all the digits always equal to zero or to any predetermined digit
+  examples: []
+  id: 721-08-53
+  language_code: eng
+  notes:
+  - In the binary case the parity digit becomes parity bit.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parity digit
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 2c04830c-d4a4-5856-8034-8b49f3e7bc7e
+status: valid

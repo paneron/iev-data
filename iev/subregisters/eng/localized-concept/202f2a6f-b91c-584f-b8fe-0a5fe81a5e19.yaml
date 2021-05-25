@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: pertaining to a mode of operation in which the call set-ups occur in
+    both directions
+  examples: []
+  id: 701-03-21
+  language_code: eng
+  notes:
+  - The volume of traffic flowing is not necessarily the same in both directions.
+  - The terms "both-way" and "two-way" should not be used to describe the direction
+    of transfer of users’ information (which is described by the term "{{bidirectional,
+    IEV:701-03-19}}").
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: both-way
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: two-way
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2016-12-01
+id: 202f2a6f-b91c-584f-b8fe-0a5fe81a5e19
+status: valid

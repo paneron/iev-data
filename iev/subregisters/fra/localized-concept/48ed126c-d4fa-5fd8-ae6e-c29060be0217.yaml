@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: message non désiré envoyé à la fois à un grand nombre de destinataires,
+    le plus souvent sous forme de courriel
+  examples: []
+  id: 732-06-08
+  language_code: fra
+  notes:
+  - Les spams sont par exemple des messages publicitaires non désirés.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spam
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: message non sollicité
+    gender: m
+    plurality: singular
+    type: expression
+  - designation: pourriel CA
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 48ed126c-d4fa-5fd8-ae6e-c29060be0217
+status: valid

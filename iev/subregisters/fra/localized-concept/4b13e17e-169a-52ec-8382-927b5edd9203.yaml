@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un élément réluctant, quotient du flux magnétique `Φ` par la tension
+    magnétique `V`~m~ `Lambda = (Phi)/((V_m))`
+  examples: []
+  id: 131-12-29
+  language_code: fra
+  notes:
+  - La perméance est l'inverse de la réluctance.
+  - L’unité SI cohérente de perméance est le henry, H.
+  - Dans un circuit équivalent électrique, les perméances sont représentées par des
+    conductances, les flux magnétiques par des courants électriques et les tensions
+    magnétiques par des tensions électriques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: perméance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4b13e17e-169a-52ec-8382-927b5edd9203
+status: valid

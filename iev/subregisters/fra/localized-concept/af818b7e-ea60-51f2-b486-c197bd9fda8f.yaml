@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de l'{{énergie non fournie, IEV:692-09-06}}, pendant un intervalle
+    de temps donné, par la puissance consommée moyenne
+  examples: []
+  id: 692-11-02
+  language_code: fra
+  notes:
+  - Cette grandeur est généralement exprimée en minutes.
+  - Cet article portait le numéro 191-30-02 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée de coupure moyenne équivalente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: af818b7e-ea60-51f2-b486-c197bd9fda8f
+status: valid

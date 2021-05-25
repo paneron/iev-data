@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: quotient représenté par la réponse impulsionnelle Δ`v`~δ~(`t`) divisé
+    par la zone impulsionnelle `K`~δ~ de la fonction impulsion, le quotient étant
+    décrit par `g ( t ) = (1)/((K_(delta))) * Delta v_(delta) ( t )`
+  examples: []
+  id: 351-45-29
+  language_code: fra
+  notes:
+  - 'La réponse impulsionnelle unité `g`(`t`) d’un système contient toutes les propriétés
+    du système et est utilisée pour calculer la réponse Δ`v`(`t`) du système à une
+    variable d’entrée Δ`u`(`t`) par l’intégrale de convolution
+
+
+    `Delta v ( t ) = int_((- oo))^(oo) g ( tau ) * Delta u ( t - tau ) d tau`.'
+  - 'La réponse en fréquence du système `G ( j * omega )` peut être calculée par la
+    transformation de Fourier de `g`(`t`):
+
+
+    `G ( j * omega ) = ℱ { g ( t ) }`.'
+  - La réponse impulsionnelle unité d’un système peut mathématiquement être considérée
+    comme le résultat de l’application d’une impulsion unitaire à une variable d’entrée.
+  - Cet article était numéroté 351-24-19 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse impulsionnelle unité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fonction de pondération
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: b360ee69-a6c3-591a-b587-4aa5fc7213c6
+status: valid

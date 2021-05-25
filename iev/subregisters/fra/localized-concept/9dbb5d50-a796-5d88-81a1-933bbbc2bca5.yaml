@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'pour une matrice complexe *`A`* d''éléments `Aij`, matrice notée *`A`**
+    dont les éléments (*`A`**)~`ij`~ sont les conjugués de ceux de la matrice donnée:
+    `(( A^( * ) ))_((i j)) = A_(i j)^( * )`'
+  examples: []
+  id: 102-06-18
+  language_code: fra
+  notes:
+  - La matrice conjuguée d’une matrice *`A`* est notée *`A`**. La notation `bar A`
+    est aussi employée en mathématiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice conjuguée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9dbb5d50-a796-5d88-81a1-933bbbc2bca5
+status: valid

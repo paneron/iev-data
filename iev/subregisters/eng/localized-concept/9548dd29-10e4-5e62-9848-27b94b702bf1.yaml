@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: time base which, for each sweep, is initiated by a trigger signal and,
+    therefore, has a rest position
+  examples: []
+  id: 314-06-05
+  language_code: eng
+  notes:
+  - The duration of the sweep is not dependent on the period of the observed quantity.
+  - The repetition rate is not necessarily periodic.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: triggered time base
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 9548dd29-10e4-5e62-9848-27b94b702bf1
+status: valid

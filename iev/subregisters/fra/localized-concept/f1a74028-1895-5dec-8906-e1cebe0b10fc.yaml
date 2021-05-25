@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: logarithme du rapport de la valeur d'une accélération acoustique donnée
+    à la valeur de l'accélération acoustique prise comme référence. Exprimé en décibels,
+    le niveau d'accélération acoustique est égal à 20 fois le logarithme décimal de
+    ce rapport
+  examples: []
+  id: 801-22-09
+  language_code: fra
+  notes:
+  - Sauf spécification contraire, l'accélération de référence est 1 μm/s^2^.
+  - Sauf spécification contraire, les accélérations sont exprimées en valeurs efficaces.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau d'accélération acoustique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: f1a74028-1895-5dec-8906-e1cebe0b10fc
+status: valid

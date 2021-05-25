@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'vector field quantity `*B*` which exerts on any charged particle having
+    velocity `*v*` a force `*F*` equal to the product of the vector product `*v*`
+    x `*B*` and the electric charge `Q` of the particle: `*F*` = `Q*v*` x `*B*`'
+  examples: []
+  id: 121-11-19
+  language_code: eng
+  notes:
+  - 'The divergence of `*B*`  is zero at all points:
+
+
+    div `*B*` = 0'
+  - The magnetic flux density `*B*` is sometimes called “magnetic field”, risking
+    confusion with the magnetic field strength `*H*` .
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic flux density
+    normative_status: preferred
+    type: expression
+  - designation: magnetic induction
+    type: expression
+  - designation: '`*B*`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 4272d0ac-c9f3-5d32-91c8-f63c1b267787
+status: valid

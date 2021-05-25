@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 603-02-22
+      original: IEV 603-02-22, modifié
+      ref: IEV
+      relationship:
+        type: modified
+  definition: impédance à l'endroit du défaut entre le conducteur de la phase en défaut
+    et la terre ou entre les conducteurs des phases en défaut
+  examples:
+  - Résistance d'arc.
+  id: 614-02-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance de défaut
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7c3a7450-f874-53ee-a151-22b684d1a675
+status: valid

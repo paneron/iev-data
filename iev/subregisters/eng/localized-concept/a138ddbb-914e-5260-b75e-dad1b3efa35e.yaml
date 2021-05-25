@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: if applicable, power (for DC) or apparent power (for AC) absorbed, under
+    {{reference conditions, IEV:447-06-03}}, by a given {{input circuit, IEV:447-03-07}}
+    of a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    and determined under specified conditions
+  examples: []
+  id: 447-03-17
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated power of an input circuit
+    normative_status: preferred
+    type: expression
+  - designation: rated burden of an input circuit
+    type: expression
+dateAccepted: 2020-05-01
+id: a138ddbb-914e-5260-b75e-dad1b3efa35e
+status: valid

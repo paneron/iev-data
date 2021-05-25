@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.2.3
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.2.3
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  definition: '{{enveloppe, IEV:195-02-35}} assurant la protection contre la propagation
+    du feu depuis l''intérieur de l''enveloppe vers l''extérieur de l''enveloppe'
+  examples: []
+  id: 903-04-10
+  language_code: fra
+  notes:
+  - Certaines normes en anglais utilisent le terme "safeguard" au lieu de "protection".
+  reviewDecisionEvent: published
+  terms:
+  - designation: enveloppe ignifuge
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a5e32181-1007-5003-ac93-f3b4cd7f6965
+status: valid

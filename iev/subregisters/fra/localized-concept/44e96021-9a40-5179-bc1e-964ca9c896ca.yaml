@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.21.1
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.21.1
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: pôle muni d'un déclencheur à maximum de courant
+  examples: []
+  id: 442-05-40
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: pôle d'un disjoncteur protégé contre les surintensités
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: pôle protégé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 44e96021-9a40-5179-bc1e-964ca9c896ca
+status: valid

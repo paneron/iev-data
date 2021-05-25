@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: différence de phase entre deux {{instants significatifs, IEV:704-13-03}}
+    d'une {{trame temporelle cyclique, IEV:702-04-12}} ou entre instants significatifs
+    homologues de deux trames temporelles cycliques
+  examples: []
+  id: 704-13-04
+  language_code: fra
+  notes:
+  - Suivant les besoins, la relation de phase peut être exprimée également en unités
+    de temps ou en valeur relative, comme pourcentage de la durée du cycle.
+  reviewDecisionEvent: published
+  terms:
+  - designation: relation de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en transmission
+dateAccepted: 2018-11-17
+id: 3fa30b20-0892-5e86-b5aa-e18895689ba2
+status: valid

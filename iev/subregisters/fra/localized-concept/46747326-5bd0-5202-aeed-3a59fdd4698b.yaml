@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: composante sinusoïdale de la décomposition en série de Fourier d'une
+    grandeur périodique, dont la fréquence est celle à laquelle toutes les autres
+    composantes sont référencées et qui n'est pas la composante fondamentale
+  examples: []
+  id: 551-20-02
+  language_code: fra
+  notes:
+  - Lorsqu'il est clairement établi dans le contexte qu'il est question de la composante
+    fondamentale de référence, on peut omettre le qualificatif "de référence", mais
+    cette norme ne recommande pas cet usage.
+  - Pour l'analyse pratique, il peut être nécessaire de procéder à une approximation
+    de la périodicité.
+  - En électronique de puissance, la composante à la fréquence du réseau d'alimentation
+    à courant alternatif ou à la fréquence des grandeurs de sortie du convertisseur
+    est souvent choisie comme composante fondamentale de référence.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: composante fondamentale de référence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 46747326-5bd0-5202-aeed-3a59fdd4698b
+status: valid

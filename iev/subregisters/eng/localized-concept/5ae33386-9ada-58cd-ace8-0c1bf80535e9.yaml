@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: for a linear time-invariant system described by the second order differential
+    equation `((d^2 x))/((d t^2)) + 2 * vartheta * omega_0 * ((d x))/((d t)) + omega_0^2
+    * x = 0` the value of the coefficient `vartheta`, where <table> <tr> <td>`t`</td>
+    <td>is the time;</td> </tr> <tr> <td>`x`</td> <td>is a state variable of the system;</td>
+    </tr> <tr> <td> `ω`~0~ </td> <td>is the characteristic angular frequency of the
+    system</td> </tr> </table>
+  examples: []
+  id: 351-45-19
+  language_code: eng
+  notes:
+  - When `vartheta 1`, `omega_d = omega_0 * sqrt(1 - vartheta^2)` is the eigen angular
+    frequency of the system.
+  - This entry was numbered 351-24-18 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: damping ratio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 5ae33386-9ada-58cd-ace8-0c1bf80535e9
+status: valid

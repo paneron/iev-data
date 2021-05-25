@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système de coordonnées utilisé couramment dans la photométrie des luminaires
+    dans laquelle les plans C sont des demi-plans qui tournent autour de la verticale
+    par le centre photométrique du luminaire, et les angles γ sont mesurés jusqu'à
+    180° par rapport à la direction de la perpendiculaire à l'axe de rotation des
+    plans C
+  examples: []
+  id: 845-25-090
+  language_code: fra
+  notes:
+  - Il existe également d'autres systèmes de coordonnées &amp;lsqb;système de coordonnées
+    (A, α) et système de coordonnées (B, β)&amp;rsqb;. Voir CIE 121, _The Photometry
+    and Goniophotometry of Luminaires_.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de coordonnées (C, γ)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8d3b065e-78e2-5ff3-a822-8f0fde9c1347
+status: valid

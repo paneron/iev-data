@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dose qui produit l'effet pris en considération
+  examples: []
+  id: 845-26-034
+  language_code: fra
+  notes:
+  - Cette définition est basée sur l'hypothèse selon laquelle un spectre d'action
+    est adopté pour l'effet pris en considération, et selon laquelle sa valeur maximale
+    est égale à 1.
+  - Il est essentiel de spécifier quel spectre d'action est utilisé, dans la mesure
+    où l'unité est la même pour tout spectre d'action.
+  - La dose effective est exprimée en joule par mètre carré (J·m^−2^).
+  - Cet article était numéroté 845-06-22 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose effective
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ce59465-0716-5cda-bba0-b5cd46744ffc
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dispositif construit pour réduire le plus possible le risque d'occurrence
+    d'arcs ou d'étincelles susceptibles de provoquer un risque d'inflammation en service
+    normal
+  examples: []
+  id: 426-13-02
+  language_code: fra
+  notes:
+  - Un service normal est censé exclure la dépose ou l'insertion de composants avec
+    le circuit sous tension.
+  - '"nA" a été remplacé par "ec" dans l''IEC 60079-7, _Atmosphères explosives – Partie
+    7: Protection du matériel par sécurité augmentée "e"_.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif ne produisant pas d'étincelles "nA"
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c74a742c-cfd8-56fc-8835-38eccb86f024
+status: valid

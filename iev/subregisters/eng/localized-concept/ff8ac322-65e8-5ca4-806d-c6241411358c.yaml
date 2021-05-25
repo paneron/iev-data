@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'functional unit that generates the manipulated variable at its output
+    from the command variable in open-loop control and from the reference-variable
+    and the feedback variable in closed-loop control SEE: Figures 1 and 2.'
+  examples: []
+  id: 351-49-02
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-28-02 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: controlling system
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: ff8ac322-65e8-5ca4-806d-c6241411358c
+status: valid

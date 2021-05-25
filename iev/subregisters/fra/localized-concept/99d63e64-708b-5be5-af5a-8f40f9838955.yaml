@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un bipôle résistif, élémentaire ou non, de bornes A et B, quotient
+    de la tension électrique ({{131-11-56, IEV:131-11-56}}) `u`~AB~ entre les bornes
+    par le courant électrique `i` dans le bipôle `R = ((u_((AB))))/(i)` où le courant
+    est positif si le sens du courant est de A vers B et négatif si son sens est de
+    B vers A
+  examples: []
+  id: 131-12-04
+  language_code: fra
+  notes:
+  - Une résistance ne peut pas être négative.
+  - Le terme «résistance» désigne aussi elliptiquement la résistance en courant alternatif
+    ({{131-12-45, IEV:131-12-45}}).
+  - En français, le terme «résistance» désigne aussi un dispositif, en anglais «resistor»
+    (voir {{151-13-19, IEV:151-13-19}}).
+  - L’unité SI cohérente de résistance est l’ohm, Ω.
+  reviewDecisionEvent: published
+  terms:
+  - designation: résistance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 99d63e64-708b-5be5-af5a-8f40f9838955
+status: valid

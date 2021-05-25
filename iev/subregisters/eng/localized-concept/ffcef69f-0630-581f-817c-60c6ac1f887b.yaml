@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: '{{signal, IEV:701-01-02}} composed of successive elements in time,
+    each element having one or more characteristic quantities that can convey {{information,
+    IEV:701-01-01}}, for example its {{duration, IEV:113-01-13}}, its position in
+    time, its waveform, its magnitude'
+  examples: []
+  id: 702-04-04
+  language_code: eng
+  notes: []
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: discretely timed signal
+    normative_status: preferred
+    type: expression
+  - designation: discrete signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: ffcef69f-0630-581f-817c-60c6ac1f887b
+status: valid

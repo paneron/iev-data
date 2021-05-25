@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: simultaneous line sequential colour television system using, in baseband,
+    a composite colour signal comprising a luminance signal and two chrominance components
+    each of which is transmitted sequentially, as frequency modulation of a separate
+    subcarrier. The receiver is provided with a line period delay line to permit the
+    simultaneous display of the three colour components
+  examples: []
+  id: 723-08-11
+  language_code: eng
+  notes:
+  - In most applications of SECAM, the scanning system uses 625 lines and 50 fields/second.
+    The colour signal is transmitted using vestigial sideband amplitude modulation,
+    and the sound is transmitted as amplitude or frequency modulation of a separate
+    radio-frequency carrier.
+  - SECAМ is derived from "Sequential Couleur à Мémоire".
+  - There are different versions of SECAM defined in CCIR Report 624.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: SECAM (colour television) system
+    normative_status: preferred
+    type: expression
+  - designation: SECAM
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 3bacfdcd-6d48-5fd7-bca9-b36cdda68cf2
+status: valid

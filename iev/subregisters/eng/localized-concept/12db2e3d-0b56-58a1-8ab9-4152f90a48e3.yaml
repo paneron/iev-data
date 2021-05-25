@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - - clause: '2.2'
+      original: SI Brochure, 9th edition, 2019, 2.2, modified – The definition in
+        the SI Brochure has been revised to comply with the IEV rules.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: The definition in the SI Brochure has been revised to comply
+          with the IEV rules.
+        type: modified
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: conventional physical constant which relates the {{amount of substance,
+    IEV:113-02-07}} to the number of entities in a given sample, the value of which
+    is set to 6,022 140 76 × 10^23^ {{mol, IEV:112-02-09}}^−1^
+  examples: []
+  id: 113-02-08
+  language_code: eng
+  notes:
+  - 'The definition of the Avogadro constant in IEV 113-02-08:2014-05 was: "fundamental
+    physical constant equal to the number `N` of elementary entities in a given sample
+    of matter, divided by the amount of substance `n` of that sample, `N`~A~=`N`/`n`",
+    incorrectly describing the Avogadro constant as a "fundamental physical constant".'
+  - The Avogadro constant is used in the {{SI, IEV:112-02-02}} to define the {{mole,
+    IEV:112-02-09}}.
+  - The term “Avogadro number” is deprecated since a number is a quantity with unit
+    one, and it is used for a different concept (see {{IEV 113-02-18, IEV:113-02-18}}).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Avogadro constant
+    normative_status: preferred
+    type: expression
+  - designation: Avogadro number
+    normative_status: deprecated
+    type: expression
+  - designation: '`N`~A~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 12db2e3d-0b56-58a1-8ab9-4152f90a48e3
+status: valid

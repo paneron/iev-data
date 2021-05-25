@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: composante d'un moment de force *`M`* le long d'un axe donné passant
+    par le point origine, soit `T` = *`M`* ⋅ *`e`*, où *`e`* est le vecteur unitaire
+    de l'axe
+  examples: []
+  id: 113-03-26
+  language_code: fra
+  notes:
+  - Le couple est la composante du moment de force par rapport à l'axe longitudinal
+    d'une poutre ou d'un arbre de machine.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: couple
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: moment de torsion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: a89515be-3346-5486-848d-b05c130e539e
+status: valid

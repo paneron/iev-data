@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for a square matrix *`A`* of order `n`, sum of the elements of the main
+    diagonal `t r A = sum_((i = 1))^n A_((i i))`
+  examples: []
+  id: 102-06-21
+  language_code: eng
+  notes: []
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: trace
+    normative_status: preferred
+    type: expression
+    usage_info: of a matrix
+dateAccepted: 2008-08-01
+id: 0e54c09e-2d64-52fa-9a39-8cd829433f9e
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'under steady-state conditions, the r.m.s. value of the difference between:
+    . the instantaneous values of the primary current, and . the instantaneous values
+    of the actual secondary current multiplied by the rated transformation ratio,
+    the positive signs of the primary and secondary currents corresponding to the
+    convention for terminal markings'
+  examples: []
+  id: 321-02-26
+  language_code: eng
+  notes:
+  - The composite error is generally expressed as a percentage of the r.m.s. value
+    of the primary current.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: composite error
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 0d9d08cf-685b-55eb-a9eb-dc2148068832
+status: valid

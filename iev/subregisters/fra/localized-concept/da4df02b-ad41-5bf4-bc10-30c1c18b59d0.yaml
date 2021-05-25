@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'pour un réseau contenant `n` noeuds et `b` branches, dont chacune est
+    munie d''un sens de référence, matrice de format `n` × `b` dont l''élément `a`~`ij`~
+    est égal à <ul style="list-style: none;"> * 0 si la branche `j` n''est pas incidente
+    au noeud `i` * 1 si la branche `j` est orientée à partir du noeud `i` * −1 si
+    la branche `j` est orientée vers le noeud `i`'
+  examples: []
+  id: 131-13-21
+  language_code: fra
+  notes:
+  - '– La figure ci-dessous représente un réseau et la matrice d''incidence branche-noeud
+    correspondante.
+
+
+    image::/assets/images/parts/131/131-13-21.gif[]'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice d'incidence branche-noeud
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: da4df02b-ad41-5bf4-bc10-30c1c18b59d0
+status: valid

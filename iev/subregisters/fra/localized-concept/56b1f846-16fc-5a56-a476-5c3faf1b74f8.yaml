@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la partie régulièrement réfléchie du flux (total) réfléchi
+    par le flux incident
+  examples: []
+  id: 845-24-066
+  language_code: fra
+  notes:
+  - 'Le facteur de réflexion, `ρ`, est la somme du facteur de réflexion régulière,
+    `ρ`~r~, et du facteur de réflexion diffuse, `ρ`~d~: `ρ` = `ρ`~r~ + `ρ`~d~.'
+  - L'unité de facteur de réflexion régulière est un.
+  - Cet article était numéroté 845-04-60 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion régulière
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56b1f846-16fc-5a56-a476-5c3faf1b74f8
+status: valid

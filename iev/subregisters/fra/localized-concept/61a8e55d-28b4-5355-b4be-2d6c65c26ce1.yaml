@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: commande en boucle ouverte, fonctionnant avec signal d'horloge, dans
+    laquelle les variations des variables de sortie sont induites par des variations
+    des variables d'entrée, mais uniquement lorsque le signal d'horloge autorise ces
+    variations
+  examples: []
+  id: 351-47-24
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-38 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande cadencée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 61a8e55d-28b4-5355-b4be-2d6c65c26ce1
+status: valid

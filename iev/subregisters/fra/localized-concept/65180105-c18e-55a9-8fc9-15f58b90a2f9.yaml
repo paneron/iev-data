@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: démarrage lorsque la température du {{système à pile à combustible,
+    IEV:485-09-01}} est supérieure à la température ambiante mais inférieure à sa
+    gamme de températures en fonctionnement normal
+  examples: []
+  id: 485-18-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: démarrage à température plus chaude que la température ambiante
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des piles à combustible
+dateAccepted: 2018-11-17
+id: 65180105-c18e-55a9-8fc9-15f58b90a2f9
+status: valid

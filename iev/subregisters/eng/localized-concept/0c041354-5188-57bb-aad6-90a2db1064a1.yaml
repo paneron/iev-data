@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: ability to recover from a failure, without external action
+  examples: []
+  id: 192-01-26
+  language_code: eng
+  notes:
+  - Self-recoverability is a special case of recoverability ({{192-01-25, IEV:192-01-25}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: self-recoverability
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 0c041354-5188-57bb-aad6-90a2db1064a1
+status: valid

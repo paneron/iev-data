@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifie un élément de circuit ou un circuit pour lequel les relations
+    entre les grandeurs intégrales sont linéaires
+  examples: []
+  id: 131-11-18
+  language_code: fra
+  notes:
+  - 'Une relation `y` = `F(x)` entre deux grandeurs `x` et `y`, où `F` est un opérateur,
+    est linéaire si
+
+
+    `F`(`α` `x`~1~ + `βx`~2~) = `α` `F`(`x`~1~) + `β` `F`(`x`~2~)
+
+
+    `α` et `ß` étant des nombres réels ou complexes.'
+  - En anglais, le terme "linear" a un autre sens dans IEV {{112-03-14:2010, IEV:112-03-14}}
+    et {{113-06-41:2011, IEV:113-06-41}}. En français, le terme équivalent est "linéique".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linéaire
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2002-06-01
+id: ea8d778c-3b72-5e5a-8cb2-d8b9587a85b2
+status: valid

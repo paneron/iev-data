@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: quotient of the relative change of saturation magnetic polarization
+    due to a change in temperature by that change in temperature `alpha_((J s)) =
+    ((J_((s Theta)) - J_((sref))))/((J_((sref)) ( Theta - Theta_((ref)) )))` where
+    `J`~s`Θ`~ and `J`~sref~ are the saturation magnetizations at temperatures of `Θ`
+    and `Θ`~ref~ respectively
+  examples: []
+  id: 221-02-64
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature coefficient of saturation magnetic polarization
+    normative_status: preferred
+    type: expression
+  - designation: '`α`~`J`s~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 0b5e176f-0e48-5c70-a7c0-99840d8b360f
+status: valid

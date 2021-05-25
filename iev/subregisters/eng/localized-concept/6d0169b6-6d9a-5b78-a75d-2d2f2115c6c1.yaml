@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-04-01
+  definition: variation in the magnitude of an {{electromagnetic field, IEV:121-11-61}}
+    or in the power of a {{signal, IEV:701-01-02}}, due to time variations in the
+    propagation conditions
+  examples: []
+  id: 705-08-11
+  language_code: eng
+  notes:
+  - When a reference value, such as the free space value, is used, the term “fading”
+    can be restricted to a temporary and significant decrease in the magnitude of
+    the electromagnetic field or in the power of the signal relative to this reference
+    value.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fading
+    normative_status: preferred
+    type: expression
+    usage_info: of electromagnetic waves
+dateAccepted: 2020-04-01
+id: 6d0169b6-6d9a-5b78-a75d-2d2f2115c6c1
+status: valid

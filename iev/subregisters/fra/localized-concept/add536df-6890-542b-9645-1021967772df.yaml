@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{donnée, IEV:171-01-02}} considérée comme indivisible dans un certain
+    contexte'
+  examples:
+  - Nom d’une personne ou d’une grandeur.
+  id: 171-02-01
+  language_code: fra
+  notes:
+  - Dans les technologies numériques, des éléments de données usuels sont l’{{élément
+    binaire, IEV:171-02-10}} et l’{{octet, IEV:171-02-12}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de données
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: add536df-6890-542b-9645-1021967772df
+status: valid

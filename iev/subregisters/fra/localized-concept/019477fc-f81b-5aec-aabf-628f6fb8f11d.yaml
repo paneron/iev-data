@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la valeur absolue maximale à la {{valeur efficace, IEV:103-02-03}}
+    d'une grandeur {{alternative, IEV:103-06-03}}
+  examples: []
+  id: 103-06-15
+  language_code: fra
+  notes:
+  - Pour une grandeur alternative `x`, le facteur de crête est égal à `x_((m a x))
+    // X_((e f f))`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de crête
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 019477fc-f81b-5aec-aabf-628f6fb8f11d
+status: valid

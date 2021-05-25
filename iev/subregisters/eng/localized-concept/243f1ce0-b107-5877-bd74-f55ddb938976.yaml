@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: quotient of d`E`~tr~ by d`m` where d`E`~tr~ is the sum of the initial
+    kinetic energies of all charged ionizing particles liberated by uncharged ionizing
+    particles in a mass d`m` of material `K` = d`E`~tr~/d`m`
+  examples: []
+  id: 395-01-36
+  language_code: eng
+  notes:
+  - The unit for kerma is gray (1 Gy = 1 J kg^−1^).
+  - Kerma is derived from “kinetic energy released per unit mass”.
+  - In the case where the material is air the name is air kerma.
+  - This entry was numbered 393-14-65 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: kerma
+    normative_status: preferred
+    type: expression
+  - designation: '`K`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 243f1ce0-b107-5877-bd74-f55ddb938976
+status: valid

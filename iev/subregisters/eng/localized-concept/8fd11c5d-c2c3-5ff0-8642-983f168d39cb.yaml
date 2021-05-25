@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.3.3
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.3.3
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  dateAmended: 2014-04-01
+  definition: equipment that is * either limited in mass and not fixed in place, *
+    or provided with wheels, casters, or other means to facilitate movement by an
+    {{ordinary person, IEV:195-04-03}} as required to perform its intended use
+  examples: []
+  id: 903-04-06
+  language_code: eng
+  notes:
+  - In some domains, "limited in mass" is considered to be "18 kg or less in mass".
+  reviewDate: 2014-04-01
+  reviewDecisionDate: 2014-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: movable equipment
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01
+id: 8fd11c5d-c2c3-5ff0-8642-983f168d39cb
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.17
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.17
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  definition: pouvoir de coupure pour lequel les conditions de fonctionnement prescrites
+    suivant une séquence d'essai spécifiée ne comprennent pas l'aptitude du disjoncteur
+    différentiel résiduel avec protection incorporée contre les surintensités à être
+    parcouru par un courant égal à 0,85 fois son courant de non-déclenchement pendant
+    le temps conventionnel
+  examples: []
+  id: 442-05-49
+  language_code: fra
+  notes:
+  - Pour le temps conventionnel, voir {{IEV 442-05-54, IEV:442-05-54}} et {{IEV 442-05-55,
+    IEV:442-05-55}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pouvoir de coupure limite en court-circuit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 806d3462-d415-5497-95b9-1d8a36f67605
+status: valid

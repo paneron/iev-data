@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir {{IEV 702-05-03, IEV:702-05-03}}
+  examples: []
+  id: 723-10-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément binaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: digit
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: élément unitaire, m
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: 'DÉCONSEILLÉ: moment'
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: af469dbd-d1f2-5b0b-a3ad-dca6d6e922ad
+status: valid

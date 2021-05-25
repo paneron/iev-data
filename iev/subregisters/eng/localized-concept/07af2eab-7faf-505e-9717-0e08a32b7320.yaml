@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: at a given point of a given surface, area of a surface element containing
+    the point and contained in a sphere of infinitesimal radius
+  examples: []
+  id: 102-05-06
+  language_code: eng
+  notes:
+  - 'For a surface defined by *`r`* = *`f`*(`u`, `v`) where `( u , v ) in U sube R^2`,
+    the scalar surface element is given by
+
+
+    `| ((del f))/((del u)) xx ((del f))/((del v)) | * d u d v`.'
+  - 'For a surface defined by the equation `z` = `f`(`x`, `y`), the scalar surface
+    element is given by
+
+
+    `sqrt(1 + ( ((del f))/((del x)) )^2 + ( ((del f))/((del y)) )^2) d x d y`.'
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar surface element
+    normative_status: preferred
+    type: expression
+  - designation: d`A`
+    international: true
+    type: symbol
+dateAccepted: 2008-08-01
+id: 07af2eab-7faf-505e-9717-0e08a32b7320
+status: valid

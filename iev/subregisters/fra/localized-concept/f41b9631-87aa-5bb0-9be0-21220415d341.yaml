@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 702-07-29
+      original: 702-07-29 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2002-06-01
+  definition: fonction de transfert pour laquelle les grandeurs complexes sont les
+    transformées de Fourier des grandeurs fonctions du temps
+  examples: []
+  id: 131-15-21
+  language_code: fra
+  notes:
+  - La réponse en fréquence est la transformée de Fourier de la réponse impulsionnelle.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse en fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fonction de transfert isochrone
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: f41b9631-87aa-5bb0-9be0-21220415d341
+status: valid

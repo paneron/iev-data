@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la sensibilité spectrale, `s`(`λ`), du récepteur à la longueur
+    d'onde, `λ`, par une valeur de référence spécifiée, `s`~m~ `s_r ( lambda ) = ((s
+    ( lambda )))/((s_m))`
+  examples: []
+  id: 845-25-064
+  language_code: fra
+  notes:
+  - La valeur de référence spécifiée, `s`~m~, peut être une valeur moyenne, une valeur
+    maximale ou une valeur arbitrairement choisie de `s`(`λ`).
+  - L'unité de sensibilité spectrale relative est un.
+  - Cet article était numéroté 845-05-57 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité spectrale relative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+dateAccepted: 2018-11-17
+id: e72e4235-34aa-5465-b6bc-7bba7fdc6230
+status: valid

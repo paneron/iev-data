@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: number of different {{significant conditions, IEV:702-05-21}} that a
+    {{signal element, IEV:702-05-01}} can assume in accordance with a {{code, IEV:101-12-04}}
+  examples: []
+  id: 702-05-22
+  language_code: eng
+  notes:
+  - Qualifiers such as “two-condition”, “three-condition” are used in accordance with
+    the number of significant conditions.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: number of significant conditions
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: a317b710-270b-578c-98cb-4a9be041f94f
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée, en secondes, nécessaire pour qu'un enroulement d'induit alimenté
+    en courant alternatif atteigne, sous son courant initial de démarrage `I`~A~,
+    la température limite en partant de la température d'équilibre au régime assigné
+    à la température ambiante maximale
+  examples: []
+  id: 426-08-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée `t`~E~
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d71ae5ce-d2ff-5c10-a14d-b8f0711e3e30
+status: valid

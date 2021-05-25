@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.05
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.05
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  dateAmended: 2019-03-01
+  definition: '{{channel, IEV:171-07-07}} that is designed to convey messages consisting
+    of binary characters and that has the property that the conditional probabilities
+    of changing any one binary character to the other binary character are equal'
+  examples: []
+  id: 171-07-08
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: symmetric binary channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: de9cbf68-7d46-558b-be2c-404f31ad468f
+status: valid

@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 434
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 434, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: quotient of d`Q` by d`m`, where d`Q` is the absolute value of the total
+    charge of the ions of one sign produced in air when all the electrons and positrons
+    liberated or created by photons in air of mass dm are completely stopped `X` =
+    d`Q`/d`m`
+  examples: []
+  id: 395-01-32
+  language_code: eng
+  notes:
+  - This quantity is expressed in coulombs per kilogram (C/kg). Formerly it was expressed
+    in roentgens R (1 R = 2,58 x 10^−4^ C·kg ^−1^).
+  - This term is used in the metrology of ionizing radiation.
+  - This entry was numbered 393-14-57 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposure
+    normative_status: preferred
+    type: expression
+  - designation: '`X`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 7db985e3-4719-5bf6-9c47-94e41fcee91c
+status: valid

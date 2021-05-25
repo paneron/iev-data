@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      link: https://webstore.iec.ch/publication/6357
+      original: IEC 62047-12:2011, 3.5
+      ref: IEC 62047-12:2011
+      relationship:
+        type: identical
+  definition: '{{résistance à une défaillance, IEV:523-03-13}} au cours d''un essai
+    quasi-statique ou d''un essai aux vibrations à la résonance pour une augmentation
+    rapide de l''{{amplitude, IEV:523-03-11}}'
+  examples: []
+  id: 523-03-14
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: résistance à une défaillance instantanée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cd07729d-25c8-5a9c-baa3-30c9727a3a86
+status: valid

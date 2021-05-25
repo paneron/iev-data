@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{perturbation électromagnétique, IEV:161-01-05}} se manifestant aux
+    {{radiofréquences, IEV:702-01-10}}'
+  examples: []
+  id: 161-01-13
+  language_code: fra
+  notes:
+  - Une perturbation radioélectrique peut être du {{bruit radioélectrique, IEV:161-01-12}},
+    un {{signal non désiré, IEV:161-01-03}} ou une modification du milieu de propagation
+    lui-même.
+  - Selon {{IEV 701-02-12, IEV:701-02-12}}, la fréquence des radiofréquences est par
+    convention inférieure à 3 000 GHz.
+  reviewDecisionEvent: published
+  terms:
+  - designation: perturbation radioélectrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: parasite radioélectrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: perturbation radio
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: parasite radio, m
+    normative_status: admitted
+    type: expression
+  - designation: parasite, &lt;en radiofréquence&gt; m
+    normative_status: admitted
+    type: expression
+dateAccepted: 2018-11-17
+id: 1e3a2aab-b661-58d2-af80-0a24300caaca
+status: valid

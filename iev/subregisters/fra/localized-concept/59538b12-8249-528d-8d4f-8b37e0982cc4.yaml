@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{angle d''incidence, IEV:705-04-03}} sur la surface de séparation
+    de deux milieux d''{{indices de réfraction, IEV:702-02-19}} différents, tel que
+    le {{facteur de réflexion, IEV:845-04-58}} est nul pour une {{onde électromagnétique,
+    IEV:121-11-63}} dont l''un de ses vecteurs de {{champ électrique, IEV:121-11-67}}
+    est situé dans le plan défini par la {{direction de propagation, IEV:103-10-05}}
+    et la normale à la surface'
+  examples: []
+  id: 705-04-20
+  language_code: fra
+  notes:
+  - Le vecteur de champ électrique est le champ électrique en optique, et l'induction
+    électrique en {{radiocommunication, IEV:701-01-31}}.
+  - En radiocommunication, on appelle souvent angle de Brewster le complément de l'angle
+    ainsi défini.
+  - Pour une propagation d'un milieu d'indice `n`~1~, vers un milieu d'indice `n`~2~,
+    l'angle de Brewster est égal à arctan (`n`~2~/`n`~1~).
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle de Brewster
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 59538b12-8249-528d-8d4f-8b37e0982cc4
+status: valid

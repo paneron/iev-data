@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'type de régulation dans laquelle des variables d''état déterminées
+    par un observateur sont utilisées, si les variables d''état, relatives à la régulation
+    à rétroaction d''état, ne peuvent pas être mesurées VOIR: Figure 16.'
+  examples: []
+  id: 351-47-32
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-26-27 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig16.png[]
+
+
+    *Figure 16 – Observer-based control*
+
+
+    *Figure 16 – Régulation basée sur l''observation*'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: régulation basée sur l'observation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: ca025f8f-6a76-5ef4-950a-1ff7a93516eb
+status: valid

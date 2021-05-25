@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: voltage across the {{stack terminals, IEV:485-06-08}} of a {{fuel cell,
+    IEV:485-08-01}} with fuel and oxidant present and in the absence of external current
+    flow
+  examples: []
+  id: 485-13-02
+  language_code: eng
+  notes:
+  - The open-circuit voltage is expressed in V.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: open-circuit voltage
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+  - designation: OCV
+    type: expression
+  - designation: no-load voltage
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-02-01
+id: 1fe0ec77-e8c8-5187-804c-17352471dd4d
+status: valid

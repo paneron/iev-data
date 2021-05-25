@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.25
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.25
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: infrastructure that connects a set of {{endpoints, IEV:741-01-17}},
+    enabling communication of data [ISO 14641:2018, 3.10] between the {{digital entities,
+    IEV:741-01-14}} reachable through them
+  examples: []
+  id: 741-01-25
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: network
+    normative_status: preferred
+    type: expression
+    usage_info: Internet of Things
+dateAccepted: 2020-04-01
+id: 59191337-a2db-5488-8e55-55c325d66f38
+status: valid

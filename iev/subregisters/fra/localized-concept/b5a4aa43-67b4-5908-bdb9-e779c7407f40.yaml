@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: procédé de placement des {{cellules élémentaires à combustible, IEV:485-08-01}}
+    individuelles adjacentes les unes par rapport aux autres pour former la {{pile
+    à combustible, IEV:485-06-01}}
+  examples: []
+  id: 485-06-16
+  language_code: fra
+  notes:
+  - Généralement, les cellules élémentaires à combustible individuelles sont connectées
+    en série.
+  - Voir "{{connexion série, IEV:485-06-09}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: empilement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des cellules élémentaires à combustible
+dateAccepted: 2018-11-17
+id: b5a4aa43-67b4-5908-bdb9-e779c7407f40
+status: valid

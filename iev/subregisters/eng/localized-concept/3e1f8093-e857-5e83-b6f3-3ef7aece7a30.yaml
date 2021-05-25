@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 482-02-28
+      link: https://webstore.iec.ch/publication/215
+      original: IEC 60050-482:2004, 482-02-28, modified – Definition adapted for the
+        context of fuel cell technologies and note deleted
+      ref: IEC 60050-482:2004
+      relationship:
+        modification: Definition adapted for the context of fuel cell technologies
+          and note deleted
+        type: modified
+  dateAmended: 2020-02-01
+  definition: '{{electrode, IEV:485-02-01}} at which the reduction of the oxidant
+    takes place'
+  examples: []
+  id: 485-02-05
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cathode
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: 3e1f8093-e857-5e83-b6f3-3ef7aece7a30
+status: valid

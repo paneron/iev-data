@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matrice de format donné dont tous les éléments sont nuls
+  examples: []
+  id: 102-06-07
+  language_code: fra
+  notes:
+  - La matrice nulle est l'élément neutre pour l'addition des matrices.
+  - Si une matrice a au moins un élément non nul, elle est appelée «matrice non nulle».
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice nulle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1af64140-c28e-55c4-99c8-0cdebaceb68d
+status: valid

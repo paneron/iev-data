@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-11-01
+  definition: value of deceleration `γ`~e~ obtained by dividing the difference of
+    the squares of the initial and final speeds by twice the distance travelled while
+    the reduction of speed is taking place `gamma_e = ((V_i^2 - V_t^2))/((2 l))` where
+    `l` is the distance between the position of the train or vehicle at the moment
+    of the operation of the brake control and its position when the final speed is
+    attained; `V`~i~ is the initial speed measured at the moment of operation of the
+    control device for the brake; `V`~t~ is the final speed obtained at the end of
+    the braking
+  examples: []
+  id: 811-06-42
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective deceleration as a function of distance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 9b7df2c9-5352-5601-8c83-a23f7485aa4b
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: smallest value of a function in a given interval of values of its argument
+  examples: []
+  id: 103-05-18
+  language_code: eng
+  notes:
+  - For a periodic function, the given interval has a range equal to the period.
+  - The term valley value is mostly used for the global minimum value of a function
+    of time.
+  - A global minimum value of function `f` is denoted by `f_v` or `overset(⌣)(overset(⌣)(f))`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: global minimum value
+    normative_status: preferred
+    type: expression
+  - designation: valley value
+    type: expression
+dateAccepted: 2009-12-01
+id: b3de95ac-9112-56c0-beda-d4effcea780f
+status: valid

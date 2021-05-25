@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: time interval between the application of the specified input voltage
+    to a bistable relay in the operate condition and the change of state of the last
+    output circuit, bounce time not included (see Figure 1) <simg></simg>
+  examples: []
+  id: 444-05-03
+  language_code: eng
+  notes: []
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reset time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-01-01
+id: 14ab0761-e53b-5425-9ec8-c4d862f5c46e
+status: valid

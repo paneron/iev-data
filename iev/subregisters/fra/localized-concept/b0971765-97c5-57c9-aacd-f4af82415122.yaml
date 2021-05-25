@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 726-07-12
+      original: 726-07-12 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - link: https://webstore.iec.ch/publication/30633
+      original: voir la CEI 60027-2
+      ref: IEC 60027-2
+      relationship:
+        type: related
+  dateAmended: 2002-06-01
+  definition: pour un biporte ou un multiporte, matrice exprimant des grandeurs complexes
+    associées aux ondes sortantes en fonction des grandeurs homologues associées aux
+    ondes incidentes
+  examples: []
+  id: 131-14-35
+  language_code: fra
+  notes:
+  - Les éléments de la matrice de répartition sont des facteurs de réflexion complexes
+    ou des facteurs de transfert d'onde.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice de répartition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: b0971765-97c5-57c9-aacd-f4af82415122
+status: valid

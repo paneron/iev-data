@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1246
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1246, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: range of power level within which the nuclear reactor control is primarily
+    based upon time constant measurement (nuclear reactor period) rather than the
+    reactor power
+  examples: []
+  id: 395-07-23
+  language_code: eng
+  notes:
+  - In nuclear power plant technology, this concept is often called "intermediate
+    range" or "logarithmic range".
+  - This entry was numbered 393-17-48 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time constant range
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 4a02f503-2415-5d3d-b314-c6fe224f9e42
+status: valid

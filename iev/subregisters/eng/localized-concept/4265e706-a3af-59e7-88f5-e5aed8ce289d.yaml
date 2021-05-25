@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: time relay in which the output immediately switches to the operate condition
+    when applying the power supply; the time delay starts when the power supply is
+    removed; the output switches to the release condition after the setting time has
+    elapsed (see Figure 2) image::/assets/images/parts/445/445-01-03en.gif[]
+  examples: []
+  id: 445-01-03
+  language_code: eng
+  notes: []
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power off-delay relay
+    normative_status: preferred
+    type: expression
+  - designation: true off-delay relay
+    type: expression
+dateAccepted: 2010-10-01
+id: 4265e706-a3af-59e7-88f5-e5aed8ce289d
+status: valid

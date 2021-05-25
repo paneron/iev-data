@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-01-01
+  definition: intervalle de temps entre l'instant d'application de la tension d'entrée
+    spécifiée à un relais à l'état de repos et l'instant du changement d'état du dernier
+    circuit de sortie, temps de rebondissement exclu (voir Figure 1) <simg></simg>
+  examples: []
+  id: 444-05-01
+  language_code: fra
+  notes: []
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de fonctionnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps d'action
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 59fb832c-bf2e-524b-9166-2862327b432c
+status: valid

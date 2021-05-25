@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: 'at a given point of a body, tensor quantity `vec vec tau` characterizing
+    the relation between the force d*`F`* acting on a surface element containing that
+    point with the area d`A` of the element: `d F = vec vec tau * e \ d A`, where
+    *`e`* d`A` is the vector surface element'
+  examples: []
+  id: 113-03-62
+  language_code: eng
+  notes:
+  - 1 If d*`F`* and *`e`* d`A` are parallel, stress may be described by a scalar.
+  - 2 The coherent SI unit of stress is pascal, Pa.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stress
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: a1bc1780-f1a3-5dfd-8c4c-42a50e53862a
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: montant à payer par unité d'énergie (kilowattheure) consommée
+  examples: []
+  id: 691-03-01
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: prix du kilowattheure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: prix de l'énergie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: prix proportionnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: fa1a9aca-2c6d-5e0f-baae-c03d02eb1212
+status: valid

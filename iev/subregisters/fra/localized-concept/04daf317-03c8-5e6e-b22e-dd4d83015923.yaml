@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{opération booléenne monadique, IEV:171-03-09}} dont le résultat a
+    une valeur booléenne opposée à celle de l''{{opérande, IEV:171-03-04}}'
+  examples: []
+  id: 171-03-10
+  language_code: fra
+  notes:
+  - La négation de la variable `a` est généralement notée `not a` ou "non `a`".
+  reviewDecisionEvent: published
+  terms:
+  - designation: négation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: opération non
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: non
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 04daf317-03c8-5e6e-b22e-dd4d83015923
+status: valid

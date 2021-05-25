@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a square array of complex numbers consisting of the amplitude transmission
+    factors and the amplitude reflection factors at the ports of a multiport structure
+  examples: []
+  id: 726-07-12
+  language_code: eng
+  notes:
+  - The scattering matrix is the array of the coefficients of the linear equations
+    which express the normalized complex wave amplitudes of the transmitted wave and
+    the reflected wave at each port 1, 2, i, ... `n` considered as an output port
+    in terms of the normalized complex wave amplitudes of the incident waves to the
+    ports 1, 2, j, ... `n` considered as input ports.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scattering matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 306ad2f3-ca00-540a-a24b-5e3bce3cbde6
+status: valid

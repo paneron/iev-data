@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a channel that has a standardized effective digit rate suitable for
+    the transmission of telephone quality speech in multichannel PCM transmission,
+    and that occupies one of a number of channel time-slots in the frame
+  examples: []
+  id: 704-26-01
+  language_code: eng
+  notes:
+  - In most multichannel PCM systems using basic pulse code modulation the standardized
+    effective digit rate is 64 kbit/s.
+  - Signals, other than speech signals, having appropriate specified characteristics
+    may occupy the whole or part of a PCM telephone channel.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (PCM) (telephone) channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 1d9a6082-8fdd-52ed-a6d6-84f441ce37c2
+status: valid

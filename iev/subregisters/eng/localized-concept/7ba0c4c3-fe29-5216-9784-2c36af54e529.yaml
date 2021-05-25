@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: one type of error correction code in the product codes for a double
+    stage error correction scheme.
+  examples: []
+  id: 807-01-21
+  language_code: eng
+  notes:
+  - In the recording process the inner error correction code is formed after formation
+    of the outer error correction code
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inner (error correction) code
+    normative_status: preferred
+    type: expression
+  - designation: inner ECC
+    type: expression
+dateAccepted: 1998-04-01
+id: 7ba0c4c3-fe29-5216-9784-2c36af54e529
+status: valid

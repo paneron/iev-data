@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: ratio of the RMS value of the fundamental component or the reference
+    fundamental component to the RMS value of an alternating quantity
+  examples: []
+  id: 551-20-17
+  language_code: eng
+  notes:
+  - The fundamental factor depends on the choice of the fundamental component. If
+    it is not clear from the context which one is used, an indication should be given.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fundamental factor
+    normative_status: preferred
+    type: expression
+    usage_info: in power electronics
+dateAccepted: 2017-07-01
+id: 87258a32-bce8-5ec5-8cbd-1a14a7cf3518
+status: valid

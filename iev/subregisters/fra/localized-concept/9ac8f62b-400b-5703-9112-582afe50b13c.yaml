@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.13'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.13
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: rapport de la {{force minimale, IEV:523-03-02}} (ou de la contrainte
+    minimale) à la {{force maximale, IEV:523-03-01}} (ou à la contrainte maximale)
+  examples: []
+  id: 523-03-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport des forces
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport des contraintes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9ac8f62b-400b-5703-9112-582afe50b13c
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 101-14-38
+      original: 101-14-38
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: argument of the cosine function in the representation of a sinusoidal
+    quantity
+  examples: []
+  id: 141-01-01
+  language_code: eng
+  notes:
+  - The term "instantaneous phase" is only used when the independent variable is time.
+  - For the quantity `A`~m~ cos (`ωt` + `θ`~0~ )  the phase `θ`  is equal to `ωt`
+    + `θ`~0~ .
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase
+    normative_status: preferred
+    type: expression
+  - designation: instantaneous phase
+    type: expression
+  - designation: '`θ`'
+    international: true
+    type: symbol
+dateAccepted: 2004-08-01
+id: 23c6460a-b041-57f8-90a2-70ae1ff90007
+status: valid

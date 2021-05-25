@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'under periodic conditions, ratio of the absolute value of the active
+    power `P` to the apparent power `S`: `lambda = ((| P |))/(S)`'
+  examples: []
+  id: 131-11-46
+  language_code: eng
+  notes:
+  - Under sinusoidal conditions, the power factor is the absolute value of the active
+    factor.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power factor
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 9baa7fbc-a019-5080-9ff8-ac052e3b6ea4
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: time response of a linear time-invariant system, which initially is
+    in steady state `U`~0~, `V`~0~, produced by application of a ramp function Δ`u`~ρ~(`t`)
+    = `K`~ρ~·δ(`t`) to one of the input variables, where Δ`v`~ρ~(`t`) = `v`(`t`) –
+    `V`~0~ and Δ`u`~ρ~(`t`) = `u`(`t`) – `U`~0~
+  examples: []
+  id: 351-45-28
+  language_code: eng
+  notes:
+  - The ramp response of a linear time-invariant system is proportional to the time
+    integral of its step response.
+  - This entry was numbered 351-24-22 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ramp response
+    normative_status: preferred
+    type: expression
+  - designation: Δ`v`~ρ~(`t`)
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 0b4e0a82-032c-59da-812e-c07d85c4f09d
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: identité résultant de l'application du théorème de la divergence au
+    champ vectoriel `f_1 grad f_2 - f_2 grad f_1`, où `f`~1~ et `f`~2~ sont deux champs
+    scalaires donnés en tout point d'un domaine tridimensionnel V délimité par une
+    surface fermée S `underset(V)( ∭ ) ( f_1 Delta f_2 - f_2 Delta f_1 ) d V = underset(S)(
+    ∯ ) ( f_1 grad f_2 - f_2 grad f_1 ) * e_n d A` où d`V` est l'élément de volume,
+    *`e`*~n~d`A` est l'élément vectoriel de surface et Δ est l'opérateur laplacien
+  examples: []
+  id: 102-05-33
+  language_code: fra
+  notes:
+  - La formule de Green est symétrique par rapport à `f`~1~ et `f`~2~.
+  reviewDecisionEvent: published
+  terms:
+  - designation: formule de Green
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: deuxième formule de Green
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: be94fbbd-17fb-5c73-b181-bebffc82f893
+status: valid

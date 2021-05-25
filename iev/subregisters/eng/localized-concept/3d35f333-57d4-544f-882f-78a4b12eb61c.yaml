@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: time interval of one hour duration, starting at the same time each day,
+    for which the average, taken on several days, of the traffic carried intensity
+    is greatest
+  examples: []
+  id: 715-07-10
+  language_code: eng
+  notes: []
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time consistent busy hour
+    normative_status: preferred
+    type: expression
+  - designation: mean busy hour
+    type: expression
+dateAccepted: 1996-12-01
+id: 3d35f333-57d4-544f-882f-78a4b12eb61c
+status: valid

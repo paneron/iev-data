@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 398
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 398, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2014-03-01
+  definition: fast emergency shutdown of a nuclear reactor to prevent or minimize
+    a hazardous situation
+  examples: []
+  id: 395-07-19
+  language_code: eng
+  notes:
+  - The scram is produced automatically by a dedicated circuit or manually by an action
+    on a special button.
+  - SCRAM is an acronym derived from “safety control rod axe man” in the first nuclear
+    reactor CP-1 in Chicago 1942.
+  - This entry was numbered 393-17-43 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scram
+    normative_status: preferred
+    type: expression
+  - designation: safety shutdown
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: fb056273-7c34-5ed1-a43a-767cf6e70517
+status: valid

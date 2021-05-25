@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1999-04-01
+  definition: vitesse moyenne du vent la plus élevée, moyennée sur `t` sec, susceptible
+    d'être rencontrée dans une période (temps de répétition) de `T` ans
+  examples: []
+  id: 415-03-10
+  language_code: fra
+  notes:
+  - Des temps de répétition de `T` = 50 ans et de `T` = 1 an et des temps de moyennage
+    de `t` = 3 et `t` = 10 min sont utilisés dans nombre de normes. En langage courant
+    on utilise souvent le terme moins précis de "vitesse de survie". En pratique cependant
+    l'aérogénérateur est conçu en utilisant la vitesse de vent extrême pour les hypothèses
+    de charge à la conception.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de vent extrême
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1999-04-01
+id: f50b5e3c-15d3-51e9-8f34-7bba4a7f477d
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '4.2'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 4.2, modified – The references to other terms
+        within ISO/IEC 17000 have been replaced by hyperlinks to entries in the IEV.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: The references to other terms within ISO/IEC 17000 have been
+          replaced by hyperlinks to entries in the IEV.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: determination of one or more characteristics of an object of conformity
+    assessment, according to a {{procedure, IEV:902-02-02}}
+  examples: []
+  id: 902-03-02
+  language_code: eng
+  notes:
+  - “Testing” typically applies to materials, {{products, IEV:902-02-03}} or processes.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: testing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 7e266160-d382-5541-bd7d-9e1ca2ee9a20
+status: valid

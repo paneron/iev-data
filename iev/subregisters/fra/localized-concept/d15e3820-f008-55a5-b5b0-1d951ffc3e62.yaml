@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rejet direct ou indirect dans l'environnement à partir d'un produit
+    ou d'un processus
+  examples:
+  - Le rejet est susceptible de comporter une ou plusieurs substances, de la chaleur,
+    de la lumière, du son, des champs électromagnétiques, etc.
+  id: 904-01-11
+  language_code: fra
+  notes:
+  - Le terme "émission" désigne également la production d'ondes et de signaux (voir
+    {{IEV 161-01-09, IEV:161-01-09}}) en radiocommunication, la production de toutes
+    ondes ou particules (voir {{IEV 702-02-03, IEV:702-02-03}}), un processus en radiocommunication
+    (voir {{IEV 702-02-05, IEV:702-02-05}}), les signaux ou ondes radioélectriques
+    produits par un émetteur de radiodiffusion (voir {{IEV 723-01-02, IEV:723-01-02}})
+    et est employé en tant que synonyme du terme "{{programme, IEV:723-01-02}}" en
+    radiodiffusion et en télédistribution.
+  - Le terme français "{{émission, IEV:702-02-04}}" s'applique également au concept
+    représenté par le terme anglais "{{sending, IEV:702-02-04}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans l'environnement
+dateAccepted: 2018-11-17
+id: d15e3820-f008-55a5-b5b0-1d951ffc3e62
+status: valid

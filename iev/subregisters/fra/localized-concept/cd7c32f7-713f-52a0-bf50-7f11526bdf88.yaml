@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 221-01-07
+      original: 221-01-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: pour une substance contenue dans un domaine, grandeur vectorielle égale
+    à l'intégrale de volume de la polarisation magnétique
+  examples: []
+  id: 121-11-55
+  language_code: fra
+  notes:
+  - 'Le moment magnétique coulombien est lié au moment magnétique `*m*` ou moment
+    magnétique ampérien, par la formule
+
+
+    `*j*` = `μ`~0~ `*m*`
+
+
+    où `μ`~0~ est la constante magnétique.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moment magnétique coulombien
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: cd7c32f7-713f-52a0-bf50-7f11526bdf88
+status: valid

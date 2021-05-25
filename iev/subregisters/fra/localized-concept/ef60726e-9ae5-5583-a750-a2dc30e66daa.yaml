@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: pour un élément à action par dérivation, quantité égale au coefficient
+    d'action par dérivation, si ses variables d'entrée et de sortie sont des grandeurs
+    variables de même nature
+  examples: []
+  id: 351-50-15
+  language_code: fra
+  notes:
+  - La constante de temps de dérivation est alors donnée par `T`~D~ = `K`~D~, où `K`~D~
+    est le coefficient d'action par dérivation.
+  - La constante de temps de dérivation peut également être donnée comme la durée
+    de l'intervalle de temps nécessaire pour qu'une variation en rampe de la variable
+    d'entrée d’un élément par dérivation atteigne la même valeur que la variation
+    en échelon de la variable de sortie correspondante.
+  - Cet article était numéroté 351-28-26 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de temps de dérivation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: ef60726e-9ae5-5583-a750-a2dc30e66daa
+status: valid

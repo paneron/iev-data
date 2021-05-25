@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: temperature scale adopted by the International Committee on Weights
+    and Measures (CIPM) in 1989 for the purpose of practical measurements
+  examples: []
+  id: 113-04-18
+  language_code: eng
+  notes:
+  - 1 The quantities corresponding to thermodynamic temperature and Celsius temperature
+    defined by this scale are denoted `T`~90~ and `t`~90~, respectively, where `t`~90~
+    = `T`~90~ − `T`~0~ with `T`~0~:= 273,15 K.
+  - 2 The units of `T`~90~ and `t`~90~ are the kelvin, symbol K, and the degree Celsius,
+    symbol °C, respectively.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: International Temperature Scale of 1990
+    normative_status: preferred
+    type: expression
+  - designation: ITS-90
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: ae287e8d-d9a5-54e4-a45a-449845c2630a
+status: valid

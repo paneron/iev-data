@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: the temperature, usually expressed in kelvins, of a resistor having
+    an available thermal noise power per unit bandwidth equal to that at the output
+    port of a given antenna at a specified frequency and in specified conditions of
+    installation and operation
+  examples: []
+  id: 712-02-54
+  language_code: eng
+  notes:
+  - The noise temperature of an antenna depends on the intrinsic noise of the antenna
+    and on noise from external sources.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: noise temperature
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: 53a67913-93a8-5a4f-9e0a-c8b73161ab68
+status: valid

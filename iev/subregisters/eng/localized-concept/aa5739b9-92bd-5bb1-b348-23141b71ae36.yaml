@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: filter derived from an active RC filter in which ideal resistors are
+    replaced by electric circuits made up of ideal capacitors and periodic switches
+  examples: []
+  id: 131-15-45
+  language_code: eng
+  notes:
+  - A simulated resistance is generally a function of the ratio of two capacitances
+    because this ratio is better controlled in an integrated circuit than the capacitances
+    themselves.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: switched capacitor filter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-09-01
+id: aa5739b9-92bd-5bb1-b348-23141b71ae36
+status: valid

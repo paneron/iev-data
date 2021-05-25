@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: grandeur dont le carré est proportionnel à une puissance
+  examples: []
+  id: 702-02-08
+  language_code: fra
+  notes:
+  - Le terme «grandeur racine de puissance» a été introduit dans l’Annexe C (normative)
+    de l’ISO 80000-1:2009.
+  - Le terme anglais «field quantity» désigne un concept différent en {{IEV 102-05-17,
+    IEV:102-05-17}}, en français «champ».
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur racine de puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: grandeur de champ
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 44997be1-1340-5dad-ad1a-59b478942afc
+status: valid

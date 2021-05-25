@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: moitié de la somme, étendue aux différents types d'ions d'une solution,
+    des produits de leur molalité `b`~`i`~ par le carré de leur nombre de charge `z`~`i`~
+    `I = (1)/(2) sum z_i^2 b_i`
+  examples: []
+  id: 114-01-24
+  language_code: fra
+  notes:
+  - Le nombre de charge est une grandeur sans dimension définie en 113-05-17.
+  - L’unité SI cohérente de force ionique est la mole par kilogramme, mol/kg.
+  - 'Cet article était numéroté 111-15-29 dans la CEI 60050-111:1996. Il a été modifié
+    comme suit: une formule a été ajoutée.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: force ionique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 717a95e2-7a94-579f-be6f-a929a4480933
+status: valid

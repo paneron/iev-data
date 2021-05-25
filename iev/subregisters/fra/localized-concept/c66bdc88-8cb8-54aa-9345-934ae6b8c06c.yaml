@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: unité fonctionnelle avec deux entrées et une sortie; la valeur instantanée
+    de la variable de sortie est égale au quotient des valeurs instantanées des variables
+    d'entrée (dividende et diviseur) multipliées par des coefficients de pondération,
+    suivant la formule `v ( t ) = K_0 * ((K_1 * u_1 ( t )))/((K_2 * u_2 ( t )))` où<table>
+    <tr> <td>`t`</td> <td>est le temps;</td> </tr> <tr> <td> `K`~0~, `K`~1~ ...</td>
+    <td>sont les facteurs de pondération;</td> </tr> <tr> <td> `u`~1~, `u`~2~ </td>
+    <td>sont les variables d'entrée;</td> </tr> <tr> <td>`v`</td> <td>est le résultat
+    de division.</td> </tr> </table>
+  examples: []
+  id: 351-50-34
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-18 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément diviseur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: c66bdc88-8cb8-54aa-9345-934ae6b8c06c
+status: valid

@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - - clause: 13-35
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-35, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  classification: Preferred
+  definition: excès de la {{quantité d'information, IEV:171-07-14}} `I`(`x`) apportée
+    par la réalisation d'un événement `x` sur la quantité d'information conditionnelle
+    `I ( x | y )` liée à cette réalisation lorsque l'on connaît la réalisation d'un
+    autre événement `y` `T ( x , y ) = I ( x ) - I ( x | y )`
+  examples: []
+  id: 171-07-26
+  language_code: fra
+  notes:
+  - Les deux événements sont en particulier un message émis par la source de messages
+    d'un canal et un message reçu par le collecteur de messages du canal.
+  - 'La transinformation peut aussi être exprimée par: `T ( x , y ) = I ( x ) + I
+    ( y ) - I ( x , y )` où `I`(`y`) est la quantité d''information de l''événement
+    `y`. Il en résulte qu''elle est symétrique en `x` et `y`: `T ( x , y ) = T ( y
+    , x )`.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: transinformation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: quantité d'information mutuelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: information mutuelle
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e639625b-709c-5eb7-b0f4-8586c759bc16
+status: valid

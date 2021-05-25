@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.5
+      original: IEC TS 80004-9:2017, 3.1.5, modified – In the definition "where" has
+        been corrected to "in which". Note 1 to entry has been revised to refer to
+        the term "nanomaterial".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: In the definition "where" has been corrected to "in which".
+          Note 1 to entry has been revised to refer to the term "nanomaterial".
+        type: modified
+  dateAmended: 2018-04-01
+  definition: '{{device, IEV:511-01-01}} in which the material elements or assembly
+    of such elements exhibit performance or function only possible with nanotechnology'
+  examples: []
+  id: 511-01-16
+  language_code: eng
+  notes:
+  - The material element is a {{nanomaterial, IEV:511-01-04}}.
+  - The performance or function exhibited is measurable and significant for the application
+    of the nano-enabled device.
+  - Applications of nano-enabled devices can include, but are not limited to, energy
+    storage devices ({{capacitors, IEV:151-13-28}}, materials for {{lithium ion battery,
+    IEV:482-05-07}}, fuel cell membrane, etc.), photovoltaic, {{organic electronics,
+    IEV:511-02-03}}, and electro-optical devices.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nano-enabled device
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 89cb21bb-4b6a-5ea6-863f-cb1ae6fed5c6
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: interharmonic component having harmonic order lower then one
+  examples: []
+  id: 103-07-29
+  language_code: eng
+  notes:
+  - Sub-harmonic components occur only when a harmonic order is defined in relation
+    to the reference fundamental frequency not identical to the fundamental frequency.
+  - In some applications, sub-harmonic components are restricted to orders being reciprocal
+    of integers.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sub-harmonic component
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: da525f9b-259f-5662-a55e-824987db0c9c
+status: valid

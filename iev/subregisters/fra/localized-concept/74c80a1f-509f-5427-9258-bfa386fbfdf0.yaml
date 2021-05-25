@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: signal émis par le {{circuit de sortie, IEV:447-04-01}}
+  examples:
+  - Signal analogique, signal binaire (ouverture ou fermeture d'un contact, état passant
+    ou bloqué d'un circuit électronique), signal numérique, flux d'éléments binaires
+    sur port de communication.
+  id: 447-04-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal de sortie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un relais de mesure ou d'un dispositif de protection
+dateAccepted: 2018-11-17
+id: 74c80a1f-509f-5427-9258-bfa386fbfdf0
+status: valid

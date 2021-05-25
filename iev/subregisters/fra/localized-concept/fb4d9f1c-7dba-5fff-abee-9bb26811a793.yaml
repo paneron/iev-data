@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'pour un réseau contenant `l` boucles orientées et `b` branches, chacune
+    des branches étant munie d''un sens de référence, matrice de format `l` × `b`
+    dont l''élément `a`~`ij`~ est égal à <ul style="list-style: none;"> * 0 si la
+    branche `j` n''est pas dans la boucle `i` * 1 si la branche `j` est dans la boucle
+    `i` avec le même sens * −1 si la branche `j` est dans la boucle `i` avec le sens
+    opposé'
+  examples: []
+  id: 131-13-22
+  language_code: fra
+  notes:
+  - '– La figure représente un réseau et la matrice d''incidence branche-maille correspondante
+    lorsque les deux boucles 1 et 2 sont orientées en sens contraire des aiguilles
+    d''une montre.
+
+
+    image::/assets/images/parts/131/131-13-22.gif[]'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice d'incidence branche-maille
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: fb4d9f1c-7dba-5fff-abee-9bb26811a793
+status: valid

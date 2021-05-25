@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: élément linéaire de transfert invariant dans le temps, dont la fonction
+    de transfert peut être écrite comme un quotient de deux polynômes en `s` `G (
+    s ) = ((V ( s )))/((U ( s ))) = ((b_0 + b_1 * s + ... + b_m * s^m))/((a_0 + a_1
+    * s + ... + a_n * s^n))` avec `aj` et `bj` réel, `an` ≠ 0, `bm` ≠ 0 oú<table>
+    <tr> <td> `ai`, `bi` </td> <td>sont les polynom coefficients;</td> </tr> <tr>
+    <td>`s`</td> <td>est la variable complexe de la transformée de Laplace;</td> </tr>
+    <tr> <td> `U`(`s`)</td> <td>est la transformée de la variable d'entrée;</td> </tr>
+    <tr> <td> `V`(`s`)</td> <td>est la transformée de la variable de sortie.</td>
+    </tr> </table>
+  examples: []
+  id: 351-45-51
+  language_code: fra
+  notes:
+  - Dans les systèmes commandés réels, `m` &lt; `n`. Eu égard à la dénomination mathématique,
+    ces éléments devraient être nommés "élément de transfert rationnel à fraction
+    propre" mais ce terme n’est pas usité.
+  - Un élément avec temps mort est un exemple d'élément de transfert non-rationnel.
+  - Cet article était numéroté 351-24-43 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de transfert rationnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: ea972fd0-6341-56d9-9a6f-443ee3ae871f
+status: valid

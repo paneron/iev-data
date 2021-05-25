@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: temps exigé pour que la réponse diminue d'un pourcentage élevé spécifié
+    à un pourcentage plus faible spécifié de la valeur maximale lors de la suppression
+    instantanée d'une excitation stationnaire
+  examples: []
+  id: 845-25-068
+  language_code: fra
+  notes:
+  - Une valeur de 90 % est habituelle pour le pourcentage élevé, tandis qu'une valeur
+    de 10 % est habituelle pour le pourcentage faible.
+  - Le temps de descente ou temps de décroissance est exprimé en secondes (s).
+  - Cet article était numéroté 845-05-61 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de descente
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+  - designation: temps de décroissance
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+dateAccepted: 2018-11-17
+id: f826211f-00b8-5ad0-aad0-122626fe55c6
+status: valid

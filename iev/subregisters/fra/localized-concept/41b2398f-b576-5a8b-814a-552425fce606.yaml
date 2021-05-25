@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dispositif électronique, faisant partie de l'appareillage de commande,
+    permettant de contrôler le courant, la tension ou l'alimentation dans les limites
+    de la conception, ne comportant pas d'autres fonctions de commande des LED
+  examples: []
+  id: 845-28-056
+  language_code: fra
+  notes:
+  - Dans le cas des modules LEDsi, l'alimentation de l'appareillage de commande est
+    éloignée du module LED.
+  - La source d'énergie d'une alimentation peut être soit une batterie, soit le système
+    d'alimentation électrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: alimentation de l'appareillage de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour une source de lumière LED
+dateAccepted: 2018-11-17
+id: 41b2398f-b576-5a8b-814a-552425fce606
+status: valid

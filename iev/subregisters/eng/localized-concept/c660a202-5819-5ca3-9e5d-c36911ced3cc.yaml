@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: client that provides access for a user to one or more news servers
+  examples: []
+  id: 732-03-16
+  language_code: eng
+  notes:
+  - The news reader formats and displays information from the server in a form suitable
+    to the user.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: news reader
+    normative_status: preferred
+    type: expression
+  - designation: news client
+    type: expression
+dateAccepted: 2010-06-01
+id: c660a202-5819-5ca3-9e5d-c36911ced3cc
+status: valid

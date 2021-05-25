@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: facteur par lequel la {{charge électrique, IEV:113-02-10}} à la décharge
+    doit être multipliée pour déterminer la charge électrique à la charge requise
+    par la batterie pour rétablir l'état de charge précédent
+  examples: []
+  id: 482-05-41
+  language_code: fra
+  notes:
+  - Le facteur de charge est l’inverse du rendement de charge.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de charge
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 45494070-641c-5669-a0c9-e952ae04fd53
+status: valid

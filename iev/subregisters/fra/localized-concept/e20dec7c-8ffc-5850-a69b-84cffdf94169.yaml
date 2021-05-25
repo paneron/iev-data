@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais électrique, IEV:151-13-31}} destiné à {{fonctionner, IEV:447-02-04}}
+    lorsque sa {{grandeur caractéristique, IEV:447-07-01}} atteint, avec une {{précision,
+    IEV:447-08-16}} spécifiée, sa {{valeur de fonctionnement, IEV:447-02-10}}'
+  examples: []
+  id: 447-01-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais de mesure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e20dec7c-8ffc-5850-a69b-84cffdf94169
+status: valid

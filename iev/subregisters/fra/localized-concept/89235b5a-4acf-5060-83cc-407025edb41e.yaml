@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité de courant électrique au courant critique utilisant soit la
+    section transversale du conducteur entier (section totale) soit celle de la partie
+    non stabilisatrice de ce conducteur, s'il y a un stabilisateur
+  examples: []
+  id: 815-12-03
+  language_code: fra
+  notes:
+  - 'La densité de courant totale est appelée en anglais: “engineering current density”
+    (symbole: `J`~e~).'
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité de courant critique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 89235b5a-4acf-5060-83cc-407025edb41e
+status: valid

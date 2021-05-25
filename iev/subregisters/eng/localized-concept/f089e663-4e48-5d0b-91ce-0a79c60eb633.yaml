@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{related multiple-outage occurrence, IEV:692-05-04}} with a single
+    external initiating event where the outages involved are not consequences of each
+    other image::/assets/images/parts/692/692-fig5-en.png[Figure 5 - Outage occurrence
+    relationships]'
+  examples: []
+  id: 692-05-05
+  language_code: eng
+  notes:
+  - A common-cause outage occurrence can be caused by a lightning strike and back-flashover
+    to both circuits of a double-circuit line, resulting in the outage of both circuits.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: common-cause outage occurrence
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: f089e663-4e48-5d0b-91ce-0a79c60eb633
+status: valid

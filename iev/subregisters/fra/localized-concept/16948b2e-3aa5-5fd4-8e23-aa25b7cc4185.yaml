@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.14'
+      link: https://webstore.iec.ch/publication/7077
+      original: IEC 62474:2012, définition 3.14
+      ref: IEC 62474:2012
+      relationship:
+        type: identical
+  definition: une ou plusieurs {{substance, IEV:904-02-01}}s qui, dans le cas de plusieurs
+    substances, partagent au moins une sous-structure chimique, ou une propriété physique
+    ou chimique sous un nom générique
+  examples: []
+  id: 904-02-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: groupe de substances
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 16948b2e-3aa5-5fd4-8e23-aa25b7cc4185
+status: valid

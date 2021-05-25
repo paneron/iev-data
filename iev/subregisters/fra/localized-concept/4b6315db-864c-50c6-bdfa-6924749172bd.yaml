@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: filtre passe-bande dont la bande passante est celle du groupe primaire
+    de base
+  examples: []
+  id: 704-11-09
+  language_code: fra
+  notes:
+  - Un filtre de transfert de groupe primaire peut servir à interconnecter deux sections
+    de groupe primaire consécutives.
+  - On définit de la même manière le "filtre de transfert de groupe secondaire le
+    "filtre de transfert de groupe tertiaire", le "filtre de transfert de groupe quaternaire",
+    le "filtre de transfert d'hypergroupe" ou "filtre de transfert d'assemblage de
+    15 groupes secondaires".
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: filtre de transfert de groupe primaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 4b6315db-864c-50c6-bdfa-6924749172bd
+status: valid

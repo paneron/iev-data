@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: vecteur *rot* `*U*` associé en tout point d'un domaine déterminé de
+    l'espace à un vecteur *`U`*, égal à la limite du quotient de l'intégrale, sur
+    une surface fermée S, du produit vectoriel de l'élément vectoriel de surface et
+    du vecteur *`U`*, par le volume de l'intérieur de la surface, lorsque celle-ci
+    est contenue dans une sphère dont le rayon tend vers zéro `rot U = underset((V
+    -> 0))((lim)) (1)/(V) underset(S)( ∯ ) e_n xx U d A` où *`e`*~n~d`A` est l'élément
+    vectoriel de surface orienté vers l'extérieur et `V` est le volume
+  examples: []
+  id: 102-05-22
+  language_code: fra
+  notes:
+  - 'En coordonnées cartésiennes orthonormées, les trois coordonnées du rotationnel
+    sont
+
+
+    `((del U_z))/((del y)) - ((del U_y))/((del z)) , ((del U_x))/((del z)) - ((del
+    U_z))/((del x)) , ((del U_y))/((del x)) - ((del U_x))/((del y))`.'
+  - Le rotationnel d'un vecteur polaire est un vecteur axial et celui d'un vecteur
+    axial est un vecteur polaire.
+  - Le rotationnel du champ vectoriel *`U`* est noté `rot U` ou `grad xx U`. Dans
+    certains textes anglais, il est noté `curl U`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rotationnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8f14c9cf-801e-5c16-adea-5a90bd2c6726
+status: valid

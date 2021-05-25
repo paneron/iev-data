@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-01-01
+  definition: '{{ratio, IEV:102-01-23}} smaller than one'
+  examples:
+  - mass fraction (see {{IEV 113-04-63, IEV:113-04-63}} and {{IEV 113-04-64, IEV:113-04-64}}),
+    {{void fraction, IEV:395-07-32}}.
+  id: 112-03-05
+  language_code: eng
+  notes:
+  - In practice, a fraction can be expressed in percentage.
+  - The term "fraction" is also defined in mathematics (see {{IEV 102-02-04, IEV:102-02-04}}).
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fraction
+    normative_status: preferred
+    type: expression
+    usage_info: ratio
+dateAccepted: 2019-01-01
+id: 7f1d48a5-3e56-52ed-80d3-2f66fe610a77
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'scalar or tensor quantity the product of which by the electric constant
+    `ε`~0~ and by the electric field strength `*E*` is equal to the electric polarization
+    `*P*`: `*P*` = `ε`~0~ `χ` `*E*`'
+  examples: []
+  id: 121-12-19
+  language_code: eng
+  notes:
+  - For an isotropic medium the electric susceptibility is a scalar; for an anisotropic
+    medium it is a tensor.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric susceptibility
+    normative_status: preferred
+    type: expression
+  - designation: '`χ`
+
+      `χ`~e~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 845e8a13-5113-5dea-813b-a84a0c05c0d6
+status: valid

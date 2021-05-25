@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.9
+      original: IEC TS 80004-9:2017, 3.1.9, modified – "nanoscale contact" replaced
+        by the preferred term "nanoscale electric contact".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: '"nanoscale contact" replaced by the preferred term "nanoscale
+          electric contact".'
+        type: modified
+  dateAmended: 2018-04-01
+  definition: electric resistance associated with a {{nanoscale electric contact,
+    IEV:511-01-19}}
+  examples: []
+  id: 511-01-20
+  language_code: eng
+  notes: []
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanoscale contact resistance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: d4de931f-481f-53b0-8c06-09c96099dd3e
+status: valid

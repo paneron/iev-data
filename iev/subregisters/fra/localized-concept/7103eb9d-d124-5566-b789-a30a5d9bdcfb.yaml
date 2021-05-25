@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la {{puissance électrique nette, IEV:485-14-03}} produite
+    par un {{système à pile à combustible, IEV:485-09-01}} et de l'enthalpie totale
+    fournie au système à pile à combustible
+  examples: []
+  id: 485-10-02
+  language_code: fra
+  notes:
+  - La valeur calorifique inférieure (LVH) est supposée, sauf indication contraire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7103eb9d-d124-5566-b789-a30a5d9bdcfb
+status: valid

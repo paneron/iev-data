@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the ratio, generally expressed in decibels, of the available power from
+    a specified source to the active power delivered to a load of given impedance
+    after insertion of a given two port device between the source and the load
+  examples: []
+  id: 702-07-16
+  language_code: eng
+  notes:
+  - If the ratio defining the transducer loss is less than one, its decibel value
+    is negative, and its converse or its opposite value in decibels called transducer
+    gain may be used.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transducer loss
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 0ef0907e-a7ce-5036-89ab-85cebb470f0a
+status: valid

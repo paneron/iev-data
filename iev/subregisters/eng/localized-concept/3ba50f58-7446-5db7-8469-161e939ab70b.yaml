@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the luminance, `L`~v~`,` of a road surface and the vertical
+    illuminance, `E`~v,v~, at a specific location in a tunnel
+  examples: []
+  id: 845-31-098
+  language_code: eng
+  notes:
+  - The contrast revealing coefficient is expressed in steradian to the power minus
+    one (sr^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrast revealing coefficient
+    normative_status: preferred
+    type: expression
+    usage_info: of a tunnel lighting installation
+  - designation: '`q`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 3ba50f58-7446-5db7-8469-161e939ab70b
+status: valid

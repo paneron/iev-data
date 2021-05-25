@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la luminance, `L`~v~`,` d'une surface routière par l'éclairement
+    lumineux vertical, `E`~v,v~, en un emplacement spécifique dans un tunnel
+  examples: []
+  id: 845-31-098
+  language_code: fra
+  notes:
+  - Le coefficient de révélation de contraste est exprimé en stéradian à la puissance
+    moins un (sr^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de révélation de contraste
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une installation d'éclairage de tunnel
+dateAccepted: 2018-11-17
+id: e623dc47-6fe3-509b-acc9-ad3c0a960215
+status: valid

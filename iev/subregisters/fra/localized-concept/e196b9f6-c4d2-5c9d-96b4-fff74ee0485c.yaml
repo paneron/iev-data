@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: commande dans laquelle le signal fourni à un organe commandé est maintenu
+    jusqu'à ce que le changement d'état soit exécuté ou jusqu'à la fin d'une temporisation
+    déterminée, plus longue que le temps de réponse de l'organe le plus lent; la durée
+    du signal fourni est indépendante de la durée du signal initial de commande
+  examples: []
+  id: 371-03-05
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande maintenue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: e196b9f6-c4d2-5c9d-96b4-fff74ee0485c
+status: valid

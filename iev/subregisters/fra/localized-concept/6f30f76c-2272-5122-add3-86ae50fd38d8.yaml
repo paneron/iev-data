@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: ensemble de lignes électriques constituant un parcours fermé à partir
+    d'un unique point d'alimentation
+  examples: []
+  id: 601-02-13
+  language_code: fra
+  notes:
+  - Une boucle peut être exploitée ouverte ou fermée.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: boucle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: maille
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 6f30f76c-2272-5122-add3-86ae50fd38d8
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: highest temperature which is attained in service under the most adverse
+    conditions (but within the specified tolerances) by any part or surface of {{Ex
+    Equipment, IEV:426-01-14}}
+  examples: []
+  id: 426-01-04
+  language_code: eng
+  notes:
+  - For Ex Equipment in an explosive gas atmosphere, this temperature may occur on
+    an internal component or on the external surface of the enclosure, depending upon
+    the Type of Protection employed.
+  - For Ex Equipment in an explosive dust atmosphere, this temperature occurs on the
+    external surface of the enclosure and may include a defined dust layer condition.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum surface temperature
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: fe03e322-9ff3-5c07-bb9f-a5e0701c8cbb
+status: valid

@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 441-14-11
+      original: 441-14-11 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 605-02-43
+      original: 605-02-43 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: mechanical switching device for earthing parts of an electric circuit,
+    capable of withstanding for a specified duration electric currents under abnormal
+    conditions such as those of short-circuit, but not required to carry electric
+    current under normal conditions of the electric circuit
+  examples: []
+  id: 195-02-34
+  language_code: eng
+  notes:
+  - An earthing switch can have a short circuit making capacity.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earthing switch
+    normative_status: preferred
+    type: expression
+  - designation: grounding switch
+    type: expression
+dateAccepted: 1998-08-01
+id: 37a94c64-62ea-57a3-9b76-8af6b353c117
+status: valid

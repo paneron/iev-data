@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '6.7'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 6.7, modifiée – La note du titre de l'Article
+        6 du Guide ISO/CEI 2:2004 a été rajouté à l'entrée.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: La note du titre de l'Article 6 du Guide ISO/CEI 2:2004 a été
+          rajouté à l'entrée.
+        type: modified
+  definition: '{{norme, IEV:901-02-02}}s harmonisées entre deux {{organismes à activités
+    normatives, IEV:901-03-03}}'
+  examples: []
+  id: 901-06-07
+  language_code: fra
+  notes:
+  - Les {{règlements techniques, IEV:901-02-11}} peuvent être harmonisés comme des
+    normes. Les termes et définitions correspondants sont obtenus en remplaçant «normes»
+    par «règlements techniques» dans les définitions {{IEV 901-06-01, IEV:901-06-01}}
+    à {{IEV 901-06-09, IEV:901-06-09}}, et «organismes à activités normatives» par
+    «autorités» dans la définition {{IEV 901-06-01, IEV:901-06-01}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: normes harmonisées bilatéralement
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: cfea709c-4d35-5e61-b982-5eb2efc15011
+status: valid

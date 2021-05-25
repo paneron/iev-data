@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 2.6.4
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.6.4
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: technique of {{bonding, IEV:523-06-01}} materials by heating them to
+    below their melting points and pressing them together to achieve solid state adherence
+    by the mutual diffusion of their atoms
+  examples: []
+  id: 523-06-03
+  language_code: eng
+  notes:
+  - As the materials are bonded in a solid state, far more accurate bonding is possible
+    than with fusion bonding. Diffusion bonding is mainly used for bonding metals
+    or bonding a ceramic to a metal. After bonding dissimilar materials, thermal stress
+    occurs during cooling because of the difference in the coefficients of the thermal
+    expansion of the materials. To avoid cracking caused by this stress, most diffusion
+    bonding research is concerned with ways of reducing thermal stress. Methods of
+    achieving this include sandwiching either a third material with a coefficient
+    of thermal expansion roughly halfway between that of the two bonding materials,
+    or a readily deformable material between them. Much research is being done into
+    the insertion of a material whose coefficient of thermal expansion changes gradually
+    across its thickness (functionally gradient material, i.e. FGM).
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diffusion bonding
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 34352e1c-10cf-5aaa-a09b-af20ca52e885
+status: valid

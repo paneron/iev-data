@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{output circuit, IEV:447-04-01}} that uses electronic components,
+    for example {{transistors, IEV:521-04-46}}, {{thyristors, IEV:521-04-61}} or {{opto-couplers,
+    IEV:521-04-45}}'
+  examples: []
+  id: 447-04-02
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electronic output circuit
+    normative_status: preferred
+    type: expression
+  - designation: solid state output circuit
+    type: expression
+dateAccepted: 2020-05-01
+id: f122459c-0a7b-5530-8cd1-c53e574f2941
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-11-01
+  definition: maximum steady-state asynchronous torque which the motor develops without
+    an abrupt drop in speed, when the motor is supplied at the rated voltage and frequency
+  examples: []
+  id: 411-48-43
+  language_code: eng
+  notes:
+  - This definition does not apply to motors with torques that continually decrease
+    with increase in speed.
+  reviewDate: 2007-11-01
+  reviewDecisionDate: 2007-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: breakdown torque
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01
+id: e78d57f1-809e-5c83-af19-4de2c69b27e3
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{input circuit, IEV:447-03-07}} other than the circuit concerning
+    the {{input energizing quantity(ies), IEV:447-03-02}}'
+  examples: []
+  id: 447-03-09
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: auxiliary circuit
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: c9c429df-b205-51bb-8f18-3dfa9cb823cb
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.11
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.11
+      ref: IEC 62290-1:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: product independent of applications, fulfilling predefined boundary
+    conditions, interfaces and functionality (black box)
+  examples:
+  - Examples include point machines, axle counters, real-time operating systems, and
+    fail-safe computer platform without application software.
+  id: 821-01-57
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: generic product
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 934357bf-762a-5c85-9c0e-6fabcdd5b947
+status: valid

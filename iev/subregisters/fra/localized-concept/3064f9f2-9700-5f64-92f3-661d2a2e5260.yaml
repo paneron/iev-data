@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: en un point d'une courbe sur l'interface entre deux fluides ou entre
+    un fluide et un solide, grandeur égale à la dérivée de la composante `F` de la
+    force, tangente à la surface et perpendiculaire à la courbe, par rapport à l'abscisse
+    curviligne `l`, soit `gamma = d F // d l`
+  examples: []
+  id: 113-03-42
+  language_code: fra
+  notes:
+  - 1 La tension superficielle est égale au quotient du travail Δ`W` nécessaire pour
+    accroître la surface d'une aire Δ`A`, par cette aire, soit `γ` = Δ`W` / Δ`A`.
+  - 2 L'unité SI cohérente de tension superficielle est le newton par mètre, N/m,
+    ou aussi bien le joule par mètre carré, J/m^2^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension superficielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 3064f9f2-9700-5f64-92f3-661d2a2e5260
+status: valid

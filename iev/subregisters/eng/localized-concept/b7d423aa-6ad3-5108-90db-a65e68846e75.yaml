@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a circuit-breaker with a break-time short enough to prevent the short-circuit
+    current reaching its otherwise attainable peak value
+  examples: []
+  id: 441-14-21
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: current-limiting circuit-breaker
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: b7d423aa-6ad3-5108-90db-a65e68846e75
+status: valid

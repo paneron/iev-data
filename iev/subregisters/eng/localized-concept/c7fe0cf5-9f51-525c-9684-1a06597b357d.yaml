@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: operation performed on a set for which an addition is defined, usually
+    denoted by the minus symbol −, the result of which, for elements `a` and `b` of
+    the set, is the unique element `a` − `b`, if it exists in the set, such that `b`
+    + (`a` − `b`) = `a`
+  examples: []
+  id: 102-01-13
+  language_code: eng
+  notes:
+  - Subtraction is defined for integers and extended to other classes of numbers and
+    to mathematical entities such as vectors and matrices, and also to quantities
+    of the same kind.
+  - The subtraction of entities `a` and `b` can be defined by `a` − `b` = `a` + (−`b`)
+    where −`b` is the negative of `b`.
+  - The subtraction of entities `a` and `b` is expressed by the words "`a` minus `b`".
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: subtraction
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: c7fe0cf5-9f51-525c-9684-1a06597b357d
+status: valid

@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - - clause: 221-05-02
+      original: 221-05-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: effet magnéto-optique selon lequel le vecteur induction électrique d'une
+    onde électromagnétique à polarisation rectiligne subit une rotation autour de
+    la direction de propagation lorsqu'elle passe à travers un milieu gyromagnétique
+    soumis à un champ magnétique statique ayant une composante suivant la direction
+    de propagation
+  examples: []
+  id: 121-12-100
+  language_code: fra
+  notes:
+  - L’effet Faraday est dû à une biréfringence où les indices de réfraction sont différents
+    pour deux ondes à polarisation circulaire dans des sens inverses. L’angle de rotation
+    est proportionnel à la norme du champ magnétique et à la distance parcourue. Le
+    coefficient de proportionnalité est appelé constante de Verdet.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effet Faraday
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rotation de Faraday
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: pouvoir rotatoire magnétique
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 6bca1969-cb30-58cf-b6db-1eb5fdf4c867
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: protocole de transmission en mode connexion, correspondant à peu près
+    à un protocole dans la couche transport du modèle de référence OSI
+  examples: []
+  id: 732-07-05
+  language_code: fra
+  notes:
+  - 1 – Le protocole TCP est défini dans le RFC 793.
+  - 2 – TCP est un sigle pour « Transmission Control Protocol ».
+  - '3 – Voir Figure 6.
+
+
+    image::/assets/images/parts/732/732-07-05fr.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protocole TCP
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: ef1e5c8d-10d8-59e7-a72f-519dd79e4d91
+status: valid

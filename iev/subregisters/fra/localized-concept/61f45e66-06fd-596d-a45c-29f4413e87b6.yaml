@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: panne provoquant des altérations des variables de sortie de l'équipement
+    de commande, bien que les conditions définies dans le programme concernant ces
+    altérations ne soient pas remplies
+  examples: []
+  id: 351-56-22
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-30 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne active dans un équipement de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: panne active
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 61f45e66-06fd-596d-a45c-29f4413e87b6
+status: valid

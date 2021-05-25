@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: an ideal dielectric medium in which a variable electric field produces
+    an electric current density vector `vec J` of zero magnitude in a given direction
+    in a particular frequency band
+  examples: []
+  id: 705-03-08
+  language_code: eng
+  notes:
+  - For a homogeneous medium, the medium is a perfect dielectric in a given direction
+    if the conductivity `σ` may be considered zero in this direction.
+  - Vacuum is a perfect dielectric at any frequency.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: perfect dielectric
+    normative_status: preferred
+    type: expression
+  - designation: ideal dielectric
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 1bd048db-709a-5f85-851d-026e1c61256f
+status: valid

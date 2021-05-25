@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: propriété d'un liquide résultant de la résistance interne qui s'oppose
+    au mouvement relatif des couches adjacentes
+  examples: []
+  id: 212-18-03
+  language_code: fra
+  notes:
+  - 'Dans l’ISO 80000-4, la viscosité (dynamique) <!--><i>`eta`</i> est définie au
+    moyen de l’équation
+
+
+    <i><!-->τ<!--><sub>xz</sub> = <!-->`ηdv`~x~ /`dz`
+
+
+    où _xz est la contrainte de cisaillement d’un fluide se déplaçant avec un gradient
+    de vitesse dvx/dz perpendiculaire au plan de cisaillement._'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: viscosité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: bea914ec-64b2-588b-b569-4429c79ffd37
+status: valid

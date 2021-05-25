@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur qui caractérise la variation du volume `V` d'un corps en fonction
+    de la température thermodynamique `T`, dans des conditions données, soit `alpha_V
+    = (1)/(V) ((d V))/((d T))`
+  examples: []
+  id: 113-04-28
+  language_code: fra
+  notes:
+  - 1 Il convient de donner la pression lorsqu'elle est pertinente, par exemple pour
+    un gaz.
+  - 2 L'unité SI cohérente de coefficient de dilatation volumique est le kelvin à
+    la puissance moins un, K^−1^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de dilatation volumique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 28e712c6-6642-5968-945d-62b9afb173bb
+status: valid

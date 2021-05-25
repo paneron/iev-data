@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: ratio of the amount of oxidant that electrochemically reacts to generate
+    the electric current of the {{fuel cell, IEV:485-08-01}} to the total amount of
+    oxidant entering the cell [`qm`(o~in~) − `qm`(o~out~)]/ `qm`(o~in~) where "o"
+    represents "oxidant", and `qm`(o~in~) and `qm`(o~out~) represent the oxidant molar
+    flow rate at the inlet and the outlet respectively
+  examples: []
+  id: 485-06-23
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: oxidant utilization
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: b5825e5d-c87b-5c35-ac8f-ff184dd90ddb
+status: valid

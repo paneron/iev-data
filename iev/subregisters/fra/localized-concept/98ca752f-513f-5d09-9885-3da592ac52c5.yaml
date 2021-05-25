@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: somme des composantes harmoniques d'une grandeur périodique
+  examples: []
+  id: 551-20-12
+  language_code: fra
+  notes:
+  - Le résidu harmonique est une fonction du temps.
+  - Pour l'analyse pratique, il peut être nécessaire de procéder à une approximation
+    de la périodicité.
+  - Le résidu harmonique dépend du choix de la composante fondamentale. En cas d'ambiguïté
+    dans le contexte on indique de quelle composante il s'agit.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: résidu harmonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 98ca752f-513f-5d09-9885-3da592ac52c5
+status: valid

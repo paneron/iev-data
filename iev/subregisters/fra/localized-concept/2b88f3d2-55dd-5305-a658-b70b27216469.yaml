@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: surface géométrique de l'{{assemblage membrane-électrode, IEV:485-04-01}}
+    entier perpendiculaire à la direction de la circulation du courant net, y compris
+    la {{surface active, IEV:485-02-08}} et les surfaces non catalysées de la membrane
+  examples: []
+  id: 485-04-02
+  language_code: fra
+  notes:
+  - La surface de l'assemblage membrane-électrode est exprimée en m^2^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface de l'assemblage membrane-électrode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: surface MEA
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2b88f3d2-55dd-5305-a658-b70b27216469
+status: valid

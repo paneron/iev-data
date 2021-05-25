@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-08-01
+  definition: point d'un réseau d'alimentation électrique, le plus proche électriquement
+    d'une charge particulière, auquel d'autres charges sont ou peuvent être connectées
+  examples: []
+  id: 161-07-15
+  language_code: fra
+  notes:
+  - Ces charges peuvent être soit des dispositifs, appareils ou systèmes, soit des
+    installations distinctes de clients.
+  - Pour certaines applications, le terme "point de couplage commun" s’applique uniquement
+    aux réseaux publics.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point de couplage commun
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PCC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: ec32ffa3-38b4-590d-9b38-171a9648c642
+status: valid

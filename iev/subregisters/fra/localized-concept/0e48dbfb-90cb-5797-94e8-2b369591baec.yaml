@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.24
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.24
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: méthode de détection d'erreurs (de transmission) reposant sur l'ajout
+    aux données utiles d'une somme de contrôle ou d'un contrôle de redondance cyclique
+    (CRC) calculé sur les données utiles
+  examples: []
+  id: 811-37-15
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: code détecteur d'erreur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0e48dbfb-90cb-5797-94e8-2b369591baec
+status: valid

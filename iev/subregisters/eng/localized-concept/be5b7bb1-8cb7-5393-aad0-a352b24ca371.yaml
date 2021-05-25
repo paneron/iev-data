@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: frequency band such that, below the lower and above the upper limits,
+    the mean powers emitted are each equal to a specified percentage `β`/2 of the
+    total mean power of a given emission
+  examples: []
+  id: 713-06-18
+  language_code: eng
+  notes:
+  - Unless otherwise specified for the appropriate class of emission, the value of
+    `β`/2 should be taken as 0,5%.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: occupied band
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: be5b7bb1-8cb7-5393-aad0-a352b24ca371
+status: valid

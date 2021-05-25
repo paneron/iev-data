@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.29
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.5.29
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: variation de la gravure ionique réactive (RIE) qui peut produire des
+    structures à {{rapport largeur/longueur, IEV:523-07-04}} élevé avec des parois
+    verticales
+  examples: []
+  id: 523-05-13
+  language_code: fra
+  notes:
+  - Par exemple, des structures à rapport largeur/longueur élevé peuvent être produites
+    en introduisant alternativement un gaz de gravure et un gaz de formation de film
+    de protection dans un équipement de gravure ionique réactive.
+  - Le terme abrégé "DRIE" est dérivé du terme anglais développé correspondant "deep
+    reactive ion etching".
+  reviewDecisionEvent: published
+  terms:
+  - designation: gravure ionique réactive profonde
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DRIE
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 324fe5d4-ecb2-55cd-933a-140207a88884
+status: valid

@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-44
+      original: 702-09-44 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 723-07-47
+      original: 723-07-47
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 723-10-91
+      original: voir 723-10-91
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 1997-03-01
+  definition: dispositif destiné à effectuer un décodage
+  examples: []
+  id: 723-10-17
+  language_code: fra
+  notes:
+  - Le terme décodeur a un sens particulier en télévision en couleur.
+  - En français, le terme est souvent employé en télévision pour désigner un désembrouilleur.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: décodeur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 4bc3cd49-a984-5424-824d-e1aa3a0bb3bb
+status: valid

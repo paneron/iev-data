@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: locus of points on a surface where the illuminance has the same value
+  examples: []
+  id: 845-29-078
+  language_code: eng
+  notes:
+  - The English terms "isolux curve" and "isolux line", and the French term "courbe
+    isolux" are no longer in use.
+  - This entry was numbered 845-09-57 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: iso-illuminance curve
+    normative_status: preferred
+    type: expression
+  - designation: iso-illuminance line
+    type: expression
+  - designation: isolux curve
+    normative_status: deprecated
+    type: expression
+  - designation: isolux line
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-12-01
+id: 99c11a62-45b9-58a0-8e3a-dfead2fa770b
+status: valid

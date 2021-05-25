@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.1
+      original: IEC TS 80004-9:2017, 3.2.1, modified – The definition has been replaced
+        by an edited version of the information previously in the Note 1 to entry;
+        Note 1 to entry has been deleted.
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: The definition has been replaced by an edited version of the
+          information previously in the Note 1 to entry; Note 1 to entry has been
+          deleted.
+        type: modified
+  classification: Preferred
+  dateAmended: 2018-04-01
+  definition: photovoltaic {{nano-enabled device, IEV:511-01-16}} wherein the anode
+    material is stained by a photo sensitizer
+  examples: []
+  id: 511-02-01
+  language_code: eng
+  notes: []
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dye-sensitized photovoltaic cell
+    normative_status: preferred
+    type: expression
+  - designation: DSSC
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 58d3e396-5fc9-50cf-acda-c0e46e9259ab
+status: valid

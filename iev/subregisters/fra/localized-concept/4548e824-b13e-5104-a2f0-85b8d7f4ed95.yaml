@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.32
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.32
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: véhicule unique ou groupe de véhicules qui ne sont pas séparés en exploitation
+    normale
+  examples: []
+  id: 811-37-20
+  language_code: fra
+  notes:
+  - Une rame peut contenir aucun, un seul ou plusieurs réseaux de rame.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rame
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4548e824-b13e-5104-a2f0-85b8d7f4ed95
+status: valid

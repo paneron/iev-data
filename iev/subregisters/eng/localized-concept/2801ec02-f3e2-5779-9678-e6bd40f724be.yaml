@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-04-01
+  definition: '{{polarization, IEV:705-01-13}} of a {{linearly polarized, IEV:726-04-08}}
+    wave for which the {{electric field strength, IEV:121-11-18}} at a given point
+    in space is normal to that of a reference linearly polarized wave of a different
+    or of the same {{direction of propagation, IEV:103-10-05}}'
+  examples: []
+  id: 726-04-15
+  language_code: eng
+  notes:
+  - In English, the term “cross polarization” has another connotation (see {{IEV 705-08-52,
+    IEV:705-08-52}}).
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: orthogonal polarization
+    normative_status: preferred
+    type: expression
+    usage_info: of a linearly polarized wave
+  - designation: cross polarization
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-04-01
+id: 2801ec02-f3e2-5779-9678-e6bd40f724be
+status: valid

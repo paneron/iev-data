@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.60
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.60
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  definition: information redondante, ajoutée au message de sécurité ou d'une autre
+    nature du système de transmission non sécurisé pour assurer l'intégrité du message
+    pendant la transmission
+  examples: []
+  id: 821-11-54
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: code de transmission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b533c24e-f1c6-5a54-b895-042e059feee5
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la {{valeur efficace, IEV:103-02-03}} du {{fondamental, IEV:103-07-19}}
+    d'une grandeur alternative à la valeur efficace de la grandeur
+  examples: []
+  id: 103-07-23
+  language_code: fra
+  notes:
+  - Pour une grandeur alternative `x` de valeur efficace `X_((eff))` dont le fondamental
+    a pour valeur efficace `X_((1 eff))`, le taux de fondamental est `g = X_((1 eff))
+    // X_((eff))`.
+  - L’extension à une {{composante fondamentale de référence, IEV:103-07-20}} est
+    donnée en {{IEV 551-20-17, IEV:551-20-17}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux de fondamental
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7b31cb36-1c4d-5000-acf2-9ecfa639b4c8
+status: valid

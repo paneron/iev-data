@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 195-01-07
+      original: 195-01-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 151-15-56
+      link: https://webstore.iec.ch/publication/169
+      original: voir la CEI 60050-121, 151-15-56.
+      ref: IEC 60050-121
+      relationship:
+        type: related
+  dateAmended: 2001-07-01
+  definition: élément destiné à assurer le passage d'un courant électrique
+  examples: []
+  id: 151-12-05
+  language_code: fra
+  notes:
+  - Le terme "conducteur" est souvent utilisé pour un élément dont la longueur est
+    grande par rapport aux dimensions de la section droite, par exemple les conducteurs
+    d'une ligne ou d'un câble.
+  - Le terme français "conducteur" et le terme anglais " conductor " ont aussi le
+    sens de "milieu conducteur".
+  - En français, le terme "conducteur" est aussi employé comme adjectif correspondant
+    à l'anglais "conductive".
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conducteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 5620f39e-8c7a-5731-b160-320ef11b58ab
+status: valid

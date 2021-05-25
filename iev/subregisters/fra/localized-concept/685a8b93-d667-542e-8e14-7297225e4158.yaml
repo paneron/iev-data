@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur minimale de la tension nécessaire pour obtenir le courant de
+    saturation dans une chambre d'ionisation
+  examples: []
+  id: 395-03-78
+  language_code: fra
+  notes:
+  - Par extension, on utilise en pratique les termes "tension de saturation à 95%
+    (ou à 90%)" pour désigner la tension nécessaire pour obtenir un courant égal à
+    95% (ou à 90%) du courant de saturation.
+  - Cet article était numéroté 394-38-31 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension de saturation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans une chambre d’ionisation
+dateAccepted: 2018-11-17
+id: 685a8b93-d667-542e-8e14-7297225e4158
+status: valid

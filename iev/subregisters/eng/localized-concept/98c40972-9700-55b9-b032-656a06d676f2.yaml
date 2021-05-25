@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: '{{quantization, IEV:702-04-07}} in which the {{quantizing intervals,
+    IEV:704-24-02}} lying between the outer bounds for the two extreme quantizing
+    intervals are not all equal in length'
+  examples: []
+  id: 704-24-08
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-uniform quantization
+    normative_status: preferred
+    type: expression
+  - designation: non-uniform quantizing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: 98c40972-9700-55b9-b032-656a06d676f2
+status: valid

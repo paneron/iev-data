@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: level in decibels of the time integral of the antilogarithm of one-tenth
+    of the tone-corrected perceived noise level, over the duration of an aircraft
+    flyover; the reference duration is 10 s
+  examples: []
+  id: 801-29-15
+  language_code: eng
+  notes:
+  - The integral is usually approximated by one-half the summation, over the top ten
+    decibels of an aircraft flyover, of the antilogarithms of one-tenth of the tone-corrected
+    perceived noise level in successive 0,5 s intervals.
+  - Effective perceived noise level purports to represent subjective noisiness.
+  - Effective perceived noise level of an aircraft flyover tends to be 2 dB or 3 dB
+    greater than A-weighted sound exposure level.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective perceived noise level
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: a53eb4d9-4f18-5b5a-90cd-9c2d48af482b
+status: valid

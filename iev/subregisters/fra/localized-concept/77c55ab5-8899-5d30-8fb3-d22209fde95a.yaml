@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: 'coefficient établi par détermination de la relation entre l''absorption
+    de deux longueurs d''onde: l''une avec absorption minimale en raison des impuretés
+    OH, l''autre avec absorption élevée en raison de la présence d''impuretés OH dans
+    le réseau cristallin `alpha = (1)/(t) (log)_((10)) ((T_1))/((T_2))` où `α `est
+    le coefficient d''absorption dans l''infrarouge; `t` est l''épaisseur de l''échantillon
+    de coupe Y, en centimètres; `T`~1~ est le pourcentage de transmission à un nombre
+    d''onde de 3 800 cm^–1^ ou 3 979 cm^–1^; `T`~2~ est le pourcentage de transmission
+    à un nombre d''onde de 3 410 cm^–1^, 3 500 cm^–1^ ou 3 585 cm^–1^'
+  examples: []
+  id: 561-04-16
+  language_code: fra
+  notes:
+  - Les impuretés OH sont à l’origine d’une perte mécanique dans les résonateurs et
+    leur présence est corrélée à celle d’autres impuretés induisant une perte. La
+    valeur `α` est une mesure de la concentration OH et est corrélée aux pertes mécaniques
+    prévues dues aux impuretés du matériau.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d’absorption dans l’infrarouge
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur `α`
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 77c55ab5-8899-5d30-8fb3-d22209fde95a
+status: valid

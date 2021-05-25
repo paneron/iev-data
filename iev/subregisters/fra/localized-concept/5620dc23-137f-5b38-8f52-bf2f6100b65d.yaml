@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{bus, IEV:351-56-10}} normalisé utilisant une {{transmission série,
+    IEV:721-11-16}}'
+  examples: []
+  id: 171-04-48
+  language_code: fra
+  notes:
+  - La norme USB définit les câbles, connecteurs et protocoles de communication pour
+    la connexion, la communication et l’alimentation électrique entre des {{ordinateurs,
+    IEV:171-01-25}} et des dispositifs électroniques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: bus série universel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: USB
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5620dc23-137f-5b38-8f52-bf2f6100b65d
+status: valid

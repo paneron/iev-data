@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.6'
+      link: https://webstore.iec.ch/publication/7005
+      original: IEC 62430:2009, definition 3.6
+      ref: IEC 62430:2009
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: systematic approach which takes into account {{environmental aspect,
+    IEV:904-01-02}}s in the {{design and development, IEV:904-01-12}} {{process, IEV:904-01-05}}
+    with the aim to reduce adverse {{environmental impact, IEV:904-01-03}}s
+  examples: []
+  id: 904-01-13
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: environmentally conscious design
+    normative_status: preferred
+    type: expression
+  - designation: ECD
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 6f13eb79-6aa2-5416-a116-bcf4edab6e94
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '2.5'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 2.5
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: generic description of a logical organization of operations used in
+    a measurement
+  examples: []
+  id: 112-04-04
+  language_code: eng
+  notes:
+  - 'Measurement methods may be qualified in various ways such as: substitution measurement
+    method, differential measurement method, and null measurement method; or direct
+    measurement method and indirect measurement method. See IEC 60050-300.'
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: measurement method
+    normative_status: preferred
+    type: expression
+  - designation: method of measurement
+    type: expression
+dateAccepted: 2010-01-01
+id: 5fffa4f7-a033-505e-83ef-12e6ca0322e0
+status: valid

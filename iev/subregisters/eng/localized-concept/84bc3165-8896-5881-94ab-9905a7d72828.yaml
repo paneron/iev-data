@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a linear passive two-terminal-pair network, load impedance such
+    that the impedance seen at the input port has the same value
+  examples: []
+  id: 131-15-24
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: iterative impedance
+    normative_status: preferred
+    type: expression
+  - designation: '`Z`~k~
+
+      `Z`~it~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 84bc3165-8896-5881-94ab-9905a7d72828
+status: valid

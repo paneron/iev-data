@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{character, IEV:702-05-10}} or {{string, IEV:171-02-26}} of characters,
+    used to identify or name a {{data item, IEV:171-01-02}}'
+  examples:
+  - '{{Key, IEV:171-02-36}}, {{label, IEV:171-02-37}}.'
+  id: 171-02-35
+  language_code: eng
+  notes:
+  - An identifier can also indicate certain properties of the data item.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: identifier
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: a08a61a7-3c4e-5e9a-888e-2ba214b1d729
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: free energy density difference between the normal state and the superconducting
+    state
+  examples: []
+  id: 815-10-20
+  language_code: eng
+  notes:
+  - At zero magnetic field strength and zero direct current, the superconducting condensation
+    energy is given by `( 1 // 2 ) mu_0 H_c^2`, where `mu_0` is the magnetic constant
+    and `H_c` is the critical field strength ({{815-10-21, IEV:815-10-21}}).
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: superconducting condensation energy
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 21310cce-1d64-5fa9-bb14-5f8e5064a5bc
+status: valid

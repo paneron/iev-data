@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: câble possédant une ou plusieurs âmes entourées de plus d'une couche
+    de fils disposés en hélice
+  examples: []
+  id: 815-13-12
+  language_code: fra
+  notes:
+  - 'Câble à pas constant: les couches ont toutes un pas égal, mais sont disposées
+    selon des directions alternées.'
+  - 'Câble à âme parallèle: câble possédant une ou plusieurs âmes entourées de couches
+    de brins parallèles et entourées par une couche de brins disposés en hélice.'
+  - 'Câble unidirectionnel: les couches sont toutes disposées selon la même direction,
+    mais leur pas s’accroît d’une couche à l’autre.'
+  - 'Câble à direction constante: les couches ont toutes le même pas et sont toutes
+    disposées selon la même direction.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: câble avec âme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7d73cbd8-04a1-50a3-a958-9cbd7236d97b
+status: valid

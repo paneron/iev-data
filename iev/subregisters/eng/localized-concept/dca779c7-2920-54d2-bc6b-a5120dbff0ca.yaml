@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: pseudo-scalar, denoted by (*`U`*,*`V`*,*`W`*), assigned to an ordered
+    set of three vectors *`U`*, *`V`*, *`W`* in the three-dimensional Euclidean space,
+    equal to the scalar product `U * ( V xx W )`
+  examples: []
+  id: 102-03-38
+  language_code: eng
+  notes:
+  - 'The scalar triple product of three vectors *`U`*, *`V`*, *`W`* is the determinant
+    of the vectors relative to a given orthonormal base:
+
+
+    `( U , ​ V , W ) = | [[U_1,U_2,U_3],[V_1,V_2,V_3],[W_1,W_2,W_3]] |`'
+  - The scalar triple product of three position vectors is the volume of the parallelepiped
+    built from the vectors with a sign depending on the space orientation.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar triple product
+    normative_status: preferred
+    type: expression
+  - designation: triple product
+    type: expression
+dateAccepted: 2008-08-01
+id: dca779c7-2920-54d2-bc6b-a5120dbff0ca
+status: valid

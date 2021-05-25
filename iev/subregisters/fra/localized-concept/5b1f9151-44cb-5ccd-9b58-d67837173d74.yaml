@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: défaillance d'un système provoquée par la défaillance d'une seule de
+    ses entités constituantes
+  examples: []
+  id: 192-10-01
+  language_code: fra
+  notes:
+  - Une conception tolérante aux pannes vise à limiter la vulnérabilité aux pannes
+    localisées d’un système.
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne localisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b1f9151-44cb-5ccd-9b58-d67837173d74
+status: valid

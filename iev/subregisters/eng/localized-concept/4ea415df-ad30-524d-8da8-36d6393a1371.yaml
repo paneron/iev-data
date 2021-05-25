@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: difference between the {{operate time, IEV:447-05-05}} of a {{measuring
+    relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}} at the specified
+    value of the {{characteristic quantity, IEV:447-07-01}} and the {{critical impulse
+    time, IEV:447-05-09}}
+  examples: []
+  id: 447-05-12
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overshoot time
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: 4ea415df-ad30-524d-8da8-36d6393a1371
+status: valid

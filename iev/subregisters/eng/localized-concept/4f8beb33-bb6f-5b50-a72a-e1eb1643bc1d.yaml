@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension one, equal to `- (V)/(p) (( ((del p))/((del V))
+    ))_S`, where `V` is volume, `p` is pressure, and `S` is entropy, that is kept
+    constant
+  examples: []
+  id: 113-04-52
+  language_code: eng
+  notes:
+  - For an ideal gas, isentropic exponent is equal to ratio of the specific heat capacities.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: isentropic exponent
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 4f8beb33-bb6f-5b50-a72a-e1eb1643bc1d
+status: valid

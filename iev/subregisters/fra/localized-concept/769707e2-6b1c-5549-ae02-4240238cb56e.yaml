@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dose effective avec laquelle l'exposition énergétique spectrale fait
+    l'objet d'une pondération spectrale avec un spectre d'action photobiologique énoncé
+  examples: []
+  id: 845-26-037
+  language_code: fra
+  notes:
+  - Cette définition est basée sur l'hypothèse selon laquelle un spectre d'action
+    est adopté pour l'effet photobiologique pris en considération, et selon laquelle
+    sa valeur maximale est égale à 1.
+  - Il est essentiel de spécifier quel spectre d'action actinique est utilisé, dans
+    la mesure où l'unité est la même pour tout spectre d'action.
+  - La dose photobiologique est exprimée en joule par mètre carré (J·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose photobiologique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 769707e2-6b1c-5549-ae02-4240238cb56e
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 581-06-01
+      original: 581-06-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: dispositif destiné à établir et à rompre une connexion par appariement
+    avec un composant complémentaire
+  examples: []
+  id: 151-12-19
+  language_code: fra
+  notes:
+  - Un connecteur est muni d’un ou plusieurs éléments de contact.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: connecteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: prise
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 87bf0e6c-0a63-5beb-bc35-7bd679dd12ae
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: portion of a straight line between two points of the line
+  examples: []
+  id: 102-04-03
+  language_code: eng
+  notes:
+  - If `r_A` and `r_B` are the position vectors of two points A and B, the straight-line
+    segment AB is the set of points P with position vectors `r_P = u r_A + ( 1 - u
+    ) r_B` where `0 &lt;= u &lt;= 1`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: straight-line segment
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 15427d7a-d109-5b31-8155-be2e7af3bd6c
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-03-01
+  definition: radiation detector filled with air, a suitable gas, or a gaseous mixture,
+    in which an electric field is provided for the total collection, at the electrodes,
+    of charges associated with the ions and the electrons produced in the sensitive
+    volume of the detector by the ionizing radiation
+  examples:
+  - '*  pulse ionization chamber, *  integration ionization chamber, *  current ionization
+    chamber, *  free air ionization chamber.'
+  id: 395-03-07
+  language_code: eng
+  notes:
+  - The electric field is not sufficient to produce gas multiplication.
+  - This entry was numbered 394-25-02 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ionization chamber
+    normative_status: preferred
+    type: expression
+  - designation: ion chamber
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: a87c7174-111b-5973-aeed-e986823413f3
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{indisponibilité, IEV:692-04-02}} qui n''a pas été programmée à l''avance
+    image::/assets/images/parts/692/692-fig4-fr.png[Figure 4 - Relations entre indisponibilités]'
+  examples: []
+  id: 692-04-04
+  language_code: fra
+  notes:
+  - L’indisponibilité non programmée est considérée se produire de manière aléatoire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité fortuite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: indisponibilité non programmée
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 75633145-9346-52ef-b5eb-5175d93b8517
+status: valid

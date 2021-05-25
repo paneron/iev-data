@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{dispositif de diagnostic, IEV:651-24-01}} utilisé pour fournir une
+    preuve indiscutable de la présence ou de l''absence de la bonne relation de phase
+    entre deux parties {{sous tension, IEV:651-21-08}} qui sont à la même tension
+    et à la même fréquence nominales'
+  examples: []
+  id: 651-24-03
+  language_code: fra
+  notes:
+  - Cet article était numéroté 651-10-07 dans la CEI 60050-651:1999. Il a été modifié
+    par l’utilisation d’un libellé plus approprié pour préciser l’objectif du {{dispositif,
+    IEV:651-21-15}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: comparateur de phase
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: contrôleur de phase
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 79986d66-6023-5523-8f1c-6c243df81056
+status: valid

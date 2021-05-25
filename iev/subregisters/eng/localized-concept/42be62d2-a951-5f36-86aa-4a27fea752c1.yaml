@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2014-11-01
+  definition: non-linear distortion in which the relative magnitudes of the spectral
+    components of the modulating signal waveform are modified
+  examples: []
+  id: 561-03-03
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude modulation distortion
+    normative_status: preferred
+    type: expression
+  - designation: frequency distortion
+    normative_status: admitted
+    type: expression
+  - designation: amplitude distortion
+    normative_status: admitted
+    type: expression
+  - designation: amplitude/frequency distortion
+    normative_status: admitted
+    type: expression
+dateAccepted: 2014-11-01
+id: 42be62d2-a951-5f36-86aa-4a27fea752c1
+status: valid

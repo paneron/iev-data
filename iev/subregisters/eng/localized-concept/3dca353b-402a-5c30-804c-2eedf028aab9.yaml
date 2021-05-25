@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the ratio, usually expressed in decibels, for a radio link, of the power
+    radiated by the transmitting antenna to the power that would be available at the
+    receiving antenna output if there were no loss in the radio-frequency circuits
+    of the antennas, it being assumed that the antenna radiation characteristics are
+    retained
+  examples: []
+  id: 705-08-03
+  language_code: eng
+  notes:
+  - Transmission loss is equal to system loss minus the loss in the radio-frequency
+    circuits which are integral parts of the antennas.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission loss
+    normative_status: preferred
+    type: expression
+  - designation: '`A`
+
+      ` L`'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 3dca353b-402a-5c30-804c-2eedf028aab9
+status: valid

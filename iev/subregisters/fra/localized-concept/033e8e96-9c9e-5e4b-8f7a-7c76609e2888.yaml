@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps pendant lequel une entité est dans un état d'indisponibilité
+    image::/assets/images/parts/192/60050-192-F1fr.png[Figure 1 - Temps liés au fonctionnement
+    et à la maintenance]
+  examples: []
+  id: 192-02-21
+  language_code: fra
+  notes:
+  - Le temps d’indisponibilité exclut le temps d’incapacité dû au manque de ressources
+    externes, mais inclut le temps de maintenance.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps d’indisponibilité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 033e8e96-9c9e-5e4b-8f7a-7c76609e2888
+status: valid

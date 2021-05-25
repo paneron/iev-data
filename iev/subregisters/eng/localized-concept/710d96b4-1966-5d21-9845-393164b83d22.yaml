@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 161-01-14
+      original: 161-01-14 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - original: ITU-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: degradation of the reception of a wanted signal caused by a radio-frequency
+    disturbance
+  examples: []
+  id: 713-11-05
+  language_code: eng
+  notes:
+  - The English words “interference” and “disturbance” are often used indiscriminately.
+    The expression “radio-frequency interference” is also commonly applied to a radio-frequency
+    disturbance or an unwanted signal.
+  - Various levels of interference are defined for administrative purposes in the
+    ITU Radio Regulations viz. permissible interference, accepted interference and
+    harmful interference.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radio-frequency interference
+    normative_status: preferred
+    type: expression
+  - designation: RFI
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 710d96b4-1966-5d21-9845-393164b83d22
+status: valid

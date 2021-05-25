@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.10'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.10
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: lowest value of the applied {{displacement, IEV:113-01-29}} in a {{cycle,
+    IEV:103-05-08}}
+  examples: []
+  id: 523-03-05
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: minimum displacement
+    normative_status: preferred
+    type: expression
+  - designation: '`δ`~min~'
+    international: true
+    type: symbol
+dateAccepted: 2018-12-01
+id: a89ef8f8-9964-5fac-bb9f-eba233e74ea2
+status: valid

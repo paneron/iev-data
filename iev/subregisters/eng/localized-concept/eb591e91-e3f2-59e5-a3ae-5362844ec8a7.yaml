@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: dose equivalent in soft tissue at a specified point in the human body
+    at a depth `d`
+  examples: []
+  id: 395-05-44
+  language_code: eng
+  notes:
+  - The recommended depths are 10 mm for penetrating radiation and 0,07 mm for superficial
+    radiation.
+  - This entry was numbered 393-14-97 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: personal dose equivalent
+    normative_status: preferred
+    type: expression
+  - designation: '`H`p(`d`)'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: eb591e91-e3f2-59e5-a3ae-5362844ec8a7
+status: valid

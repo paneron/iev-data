@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: définition 1006
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1006, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: 'grandeur telle que: `ρ` = 1 – (1/ `k`~eff~) où `k`~eff~ est le facteur
+    de multiplication effectif'
+  examples: []
+  id: 395-07-07
+  language_code: fra
+  notes:
+  - Le paramètre `ρ` traduit l’écart qui le sépare de la criticité, les valeurs positives
+    correspondant à un état sur-critique et les valeurs négatives à un état sous-critique.
+  - Cet article était numéroté 393-15-42 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réactivité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 894d64fb-9c54-5e2d-97dd-f29391763bd0
+status: valid

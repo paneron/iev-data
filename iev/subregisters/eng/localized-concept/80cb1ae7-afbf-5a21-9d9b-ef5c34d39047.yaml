@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: ratio of the {{RMS value, IEV:103-02-03}} of an {{alternating, IEV:103-06-03}}
+    quantity to its rectified value
+  examples: []
+  id: 103-06-14
+  language_code: eng
+  notes:
+  - For an alternating quantity `x` with RMS value `X_((e f f))`, the form factor
+    is `F = X_((e f f)) // bar | x |`.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: form factor
+    normative_status: preferred
+    type: expression
+  - designation: '`F`'
+    international: true
+    type: symbol
+dateAccepted: 2017-07-01
+id: 80cb1ae7-afbf-5a21-9d9b-ef5c34d39047
+status: valid

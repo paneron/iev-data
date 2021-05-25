@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      link: https://webstore.iec.ch/publication/2804
+      original: IEC 60664-4:2005, 3.4
+      ref: IEC 60664-4:2005
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: frequency at which the reduction of the breakdown voltage of a clearance
+    occurs
+  examples: []
+  id: 442-09-08
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~crit~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 3b74c706-7729-5f5d-872f-b05aa36bb78f
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-05-01
+  definition: hardware and software system in which {{application software, IEV:192-01-33}}
+    is executed
+  examples:
+  - A combination of an operating system and hardware on which software is executed,
+    a certain type of computer or computers of a certain architecture.
+  id: 871-05-07
+  language_code: eng
+  notes:
+  - In the AAL context an AAL IT platform is the interaction between hardware and
+    software components used by an AAL application.
+  reviewDate: 2018-05-01
+  reviewDecisionDate: 2018-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: IT platform
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-05-01
+id: 14cca28d-8944-5a5b-94b4-c134a3776762
+status: valid

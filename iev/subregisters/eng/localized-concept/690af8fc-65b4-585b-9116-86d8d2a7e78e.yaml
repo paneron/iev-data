@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 725-14-34
+      original: 725-14-34 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: in digital radiocommunication, time part of the signal which represents
+    one symbol, transmitted with characteristics which are distinct from those of
+    the other parts of the same signal, in accordance with a specified rule
+  examples: []
+  id: 713-07-04
+  language_code: eng
+  notes:
+  - In direct sequence spread spectrum modulation, a chip corresponds to a digit of
+    the pseudo-random sequence. In fast frequency-hopping spread spectrum modulation,
+    a chip corresponds to the period during which the signal remains on one carrier
+    frequency.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: chip
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 690af8fc-65b4-585b-9116-86d8d2a7e78e
+status: valid

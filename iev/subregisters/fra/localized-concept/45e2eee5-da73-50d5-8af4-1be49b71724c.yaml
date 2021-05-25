@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur compensé dont la structure électronique est
+    obtenue par dopage dû aux défauts créés par une irradiation préliminaire de haut
+    niveau de la substance semiconductrice
+  examples: []
+  id: 395-03-49
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-15 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur compensé par rayonnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur compensé par rayonnement
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 45e2eee5-da73-50d5-8af4-1be49b71724c
+status: valid

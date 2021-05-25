@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: dispositif comportant une entrée et deux sorties ou plus, qui fournit
+    la répartition voulue de la puissance transportée par la ligne d'alimentation
+    d'une antenne entre les divers éléments alimentés de cette antenne
+  examples: []
+  id: 712-06-11
+  language_code: fra
+  notes:
+  - Le terme "boîte de jonction" est utilisé dans le cas où un simple diviseur de
+    puissance est enfermé dans une enceinte protectrice.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: répartiteur de puissance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: boîte de jonction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 7c12cdff-3e2f-51c8-a694-47abb6a5e662
+status: valid

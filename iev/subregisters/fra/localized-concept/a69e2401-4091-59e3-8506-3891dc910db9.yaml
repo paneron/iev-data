@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2004-08-01
+  definition: bipôle destiné à être utilisé avec une des grandeurs de l'ensemble des
+    `m` grandeurs d'un système polyphasé
+  examples: []
+  id: 141-02-01
+  language_code: fra
+  notes:
+  - Le terme «élément» peut être remplacé par un élément de circuit plus spécifique,
+    par exemple dans «bobinage de phase», «impédance de phase».
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de phase
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: phase
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: a69e2401-4091-59e3-8506-3891dc910db9
+status: valid

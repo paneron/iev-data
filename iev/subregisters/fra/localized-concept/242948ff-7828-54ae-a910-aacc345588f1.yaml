@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur efficace ou, s'il y a lieu, valeur DC, de la tension existant
+    à un instant donné à un point de livraison, mesurée sur un intervalle de temps
+    donné
+  examples: []
+  id: 614-01-03
+  language_code: fra
+  notes:
+  - Si une tension d’alimentation est spécifiée, par exemple dans le contrat de fourniture,
+    elle est appelée tension d’alimentation déclarée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension de d’alimentation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 242948ff-7828-54ae-a910-aacc345588f1
+status: valid

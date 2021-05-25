@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: coherent SI unit of conductance, defined by the unit equation S ≔ 1/Ω,
+    where Ω is ohm
+  examples: []
+  id: 131-12-89
+  language_code: eng
+  notes:
+  - In terms of SI base units, S = m^–2^·s^3^·kg^–1^·A^2^.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: siemens
+    normative_status: preferred
+    type: expression
+  - designation: S
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 06b06e67-604e-5ab2-bfa2-ff8da73403d1
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection,
+    IEV:447-01-49}} à l'{{état de repos, IEV:447-02-02}}, la plus longue durée pendant
+    laquelle une modification spécifiée de la ou des {{grandeurs d'alimentation d'entrée,
+    IEV:447-03-02}}, qui le fera {{fonctionner, IEV:447-02-04}}, peut être appliquée
+    sans qu'il ne {{commute, IEV:447-02-09}}
+  examples: []
+  id: 447-05-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps critique de commande
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un relais de mesure ou d'un dispositif de protection
+dateAccepted: 2018-11-17
+id: 239b1554-3ee0-56ae-a67c-89477efea9a2
+status: valid

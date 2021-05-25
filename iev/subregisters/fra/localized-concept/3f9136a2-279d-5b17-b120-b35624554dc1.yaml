@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: pour une ligne de transmission uniforme, impédance de charge pour laquelle
+    l'impédance d'entrée est égale à l'impédance de charge
+  examples: []
+  id: 131-15-28
+  language_code: fra
+  notes:
+  - Pour un biporte symétrique, le terme peut s'appliquer à la valeur commune des
+    deux impédances images et des deux impédances itératives.
+  - Une autre définition est donnée dans la CEI 60050-726 et le terme a un autre sens
+    pour l’espace libre dans la CEI 60050-705.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance caractéristique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 3f9136a2-279d-5b17-b120-b35624554dc1
+status: valid

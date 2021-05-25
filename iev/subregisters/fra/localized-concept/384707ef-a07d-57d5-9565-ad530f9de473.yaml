@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matrice carrée *`E`* dont les éléments sont les symboles de Kronecker
+    `Eij` = δ`ij`
+  examples: []
+  id: 102-06-13
+  language_code: fra
+  notes:
+  - 'La matrice unité est l''élément unité pour la multiplication: *`AE`* = *`EA`*
+    = *`A`* pour toute matrice *`A`* d''ordre donné.'
+  - La matrice unité d’ordre `n` est notée *`E`*`n` ou *`I`*`n`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice unité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 384707ef-a07d-57d5-9565-ad530f9de473
+status: valid

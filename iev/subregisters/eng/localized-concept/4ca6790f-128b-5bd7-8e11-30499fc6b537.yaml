@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 461-15-01
+      original: 461-15-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: conductor usually laid along the cable route to provide a low impedance
+    connection between the earthing arrangements at the ends of the cable route
+  examples: []
+  id: 195-02-29
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallel-earthing-conductor
+    normative_status: preferred
+    type: expression
+  - designation: parallel-grounding-conductor
+    type: expression
+  - designation: parallel earth continuity conductor
+    type: expression
+dateAccepted: 1998-08-01
+id: 4ca6790f-128b-5bd7-8e11-30499fc6b537
+status: valid

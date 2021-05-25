@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{intervalle, IEV:103-01-12}} à l''intérieur duquel dans des conditions
+    spécifiées, un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection,
+    IEV:447-01-49}} est capable d''assurer sa ou ses fonctions prévues, conformément
+    aux exigences spécifiées Note 1 à l''article: Lorsque des exigences concernant
+    la {{précision, IEV:447-08-16}} doivent être respectées, voir {{"domaine de precision",
+    IEV:447-07-08}}.'
+  examples: []
+  id: 447-03-16
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: domaine de fonctionnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un relais de mesure ou d'un dispositif de protection
+dateAccepted: 2018-11-17
+id: 46b1545b-c816-5574-90d6-2a17ef5bc472
+status: valid

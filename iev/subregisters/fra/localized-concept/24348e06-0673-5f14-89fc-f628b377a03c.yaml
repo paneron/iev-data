@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '4.30'
+      original: ≠ VIM 4.30
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: ensemble des opérations réalisées sur un appareil de mesure pour qu'il
+    fournisse des indications données correspondant à des valeurs données du mesurande
+  examples: []
+  id: 311-03-16
+  language_code: fra
+  notes:
+  - Lorsque l’appareil est conçu pour donner une indication égale à zéro correspondant
+    à une valeur égale à zéro du mesurande, l’ensemble des opérations est appelé réglage
+    de zéro.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ajustage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 24348e06-0673-5f14-89fc-f628b377a03c
+status: valid

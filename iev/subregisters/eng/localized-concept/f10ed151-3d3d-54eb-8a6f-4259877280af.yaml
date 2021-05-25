@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: duration of the time interval between the instant of a set (OFF switching
+    operation) and the instant of the consecutive reset (ON switching operation) of
+    the thermal cut-out device
+  examples: []
+  id: 851-12-43
+  language_code: eng
+  notes: []
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reset time
+    normative_status: preferred
+    type: expression
+  - designation: '`t`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2008-06-01
+id: f10ed151-3d3d-54eb-8a6f-4259877280af
+status: valid

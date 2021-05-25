@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a four-port device intended to distribute the power fed into any one
+    port equally between two other ports, transferring minimum power, ideally zero,
+    to the fourth port
+  examples: []
+  id: 702-09-65
+  language_code: eng
+  notes:
+  - The ideal distribution of power usually requires that all ports be terminated
+    with matched impedances, the differential coupler being then said to be "balanced".
+  - A differential coupler may be used to combine two signals incident on two ports
+    and feeding a single output port.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: differential coupler
+    normative_status: preferred
+    type: expression
+  - designation: hybrid coupler
+    type: expression
+dateAccepted: 1992-03-01
+id: 07b224fc-5e93-587e-9df2-dd3cf4e5e592
+status: valid

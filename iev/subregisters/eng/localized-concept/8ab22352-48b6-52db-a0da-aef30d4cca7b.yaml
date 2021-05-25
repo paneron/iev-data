@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: a signal used to convey information relating to a particular circuit,
+    a particular call, or to the management of traffic
+  examples: []
+  id: 714-06-01
+  language_code: eng
+  notes:
+  - A signal may stem from the state or change of state of the system which sends
+    it.
+  - 'A signal may intentionally change the state of the system which receives it:
+    the state of the receiving system may be indeterminate whilst the signal is being
+    applied to it.'
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (signalling) signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: 8ab22352-48b6-52db-a0da-aef30d4cca7b
+status: valid

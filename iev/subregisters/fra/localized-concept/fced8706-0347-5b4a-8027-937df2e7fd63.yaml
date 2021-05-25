@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quantité du gaz ou de la vapeur considérée dans une quantité spécifiée
+    de mélange gazeux gaz ou d'air
+  examples: []
+  id: 426-24-10
+  language_code: fra
+  notes:
+  - Typiquement, ces unités incluent le titre volumique (`V`/`V`), le titre molaire
+    (moles par mole – m/m), le pourcentage de la LII d'une substance particulière,
+    la partie par million en volume (ppm) et la partie par milliard en volume (ppb).
+  reviewDecisionEvent: published
+  terms:
+  - designation: concentration
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: fced8706-0347-5b4a-8027-937df2e7fd63
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-09-01
+  definition: pertaining to an electrical network or device with two separate terminations
+    through which {{signals, IEV:101-12-02}} can enter or leave
+  examples: []
+  id: 702-09-10
+  language_code: eng
+  notes:
+  - The English term “two-port” and the French term “biporte” can also be used as
+    nouns (see {{IEV 131-12-65, IEV:131-12-65}}).
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: two-port
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-09-01
+id: 28e930bc-89fd-56b8-8f58-5be57cec8d41
+status: valid

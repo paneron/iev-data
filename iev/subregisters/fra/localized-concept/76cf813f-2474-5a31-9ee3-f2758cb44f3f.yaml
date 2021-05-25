@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport du volume de pores et du volume total d'un matériau d'{{électrode,
+    IEV:485-02-01}} ou d'une {{matrice d'électrolyte, IEV:485-03-05}}
+  examples: []
+  id: 485-02-13
+  language_code: fra
+  notes:
+  - Les caractéristiques de porosité, telles que la porosité totalement ouverte, la
+    forme des pores, la taille et la répartition des tailles, sont des propriétés
+    clefs de l'électrode de la pile à combustible et influencent de manière significative
+    sa performance.
+  reviewDecisionEvent: published
+  terms:
+  - designation: porosité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une électrode
+dateAccepted: 2018-11-17
+id: 76cf813f-2474-5a31-9ee3-f2758cb44f3f
+status: valid

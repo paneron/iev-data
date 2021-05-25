@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: test of the {{fuel cell, IEV:485-08-01}}'s performance based on a {{fuel
+    cell stack, IEV:485-06-01}}
+  examples: []
+  id: 485-22-06
+  language_code: eng
+  notes:
+  - The stack test involves variables that can be related to individual cells (temperature,
+    voltage) or the whole stack (such as temperature, {{current density, IEV:485-12-01}},
+    fuel and oxidant flow rates, etc.) and adjusted in order to obtain data over a
+    wide range of conditions. The outcome of a stack test can be a {{polarization
+    curve, IEV:485-15-06}}, a {{single cell, IEV:485-05-02}}'s voltages stability
+    plot, or other data related to fuel cell performance.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stack test
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 502f0765-964b-5b76-852c-7658609babfb
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the luminous intensity, `I`, of the retroreflector in the
+    direction of observation and the illuminance, `E_( _|_ )`, at the retroreflector
+    on a plane perpendicular to the direction of the incident light `R = (I)/((E_(
+    _|_ )))`
+  examples: []
+  id: 845-24-102
+  language_code: eng
+  notes:
+  - The coefficient of luminous intensity is expressed in candela per lux (cd·lx^−1^).
+  - This entry was numbered 845-04-96 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient of luminous intensity
+    normative_status: preferred
+    type: expression
+    usage_info: of a retroreflector
+  - designation: '`R`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: d1167657-88b2-5ccf-adce-a2948c5126f6
+status: valid

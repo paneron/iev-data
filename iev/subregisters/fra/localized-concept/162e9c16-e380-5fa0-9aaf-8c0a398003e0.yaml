@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matrice carrée d'ordre `n`, d'éléments `A`~`ij`~, pour laquelle les
+    `n` vecteurs *`V`*~`i`~ ayant pour coordonnées les éléments de la ligne `i`, soit
+    `A`~`ij`~ `A`~`i`1~, `A`~`i`2~, …, `A`~`in`~, sont linéairement indépendants
+  examples: []
+  id: 102-06-14
+  language_code: fra
+  notes:
+  - Il est équivalent de considérer les `n` vecteurs associés aux colonnes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice régulière
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 162e9c16-e380-5fa0-9aaf-8c0a398003e0
+status: valid

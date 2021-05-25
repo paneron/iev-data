@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: relation associating a single output variable with {{discrete values,
+    IEV:171-01-06}} to a finite number of input variables with discrete values
+  examples: []
+  id: 171-03-02
+  language_code: eng
+  notes:
+  - The term "operation" is a synonym of "function" in {{IEV 102-01-10, IEV:102-01-10}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: logic operation
+    normative_status: preferred
+    type: expression
+  - designation: logic function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: d416645a-23a6-5f9f-9f49-45ba8eb38c44
+status: valid

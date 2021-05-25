@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: technique de conception d'éclairage dans laquelle la lumière éclaire
+    les objets dans le sens de circulation
+  examples: []
+  id: 845-31-095
+  language_code: fra
+  notes:
+  - L'éclairage dans la direction du faisceau se caractérise par l'utilisation de
+    luminaires qui présentent une répartition de l'intensité lumineuse asymétrique
+    par rapport au plan C90-C270 (plan perpendiculaire au sens de circulation), dans
+    lequel la direction de ciblage de l'intensité lumineuse maximale est identique
+    au sens de circulation.
+  - Voir aussi "<a href="IEV845-31-097">éclairage symétrique</a>", "<a href="IEV845-31-096">éclairage
+    dans la direction contraire à celle du faisceau</a>".
+  - Le terme abrégé "PBL" est dérivé du terme anglais développé correspondant "pro-beam
+    lighting".
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairage dans la direction du faisceau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans un tunnel routier
+  - designation: PBL
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fadb8ab7-1e11-5d2b-b97e-a19b9fd86ca8
+status: valid

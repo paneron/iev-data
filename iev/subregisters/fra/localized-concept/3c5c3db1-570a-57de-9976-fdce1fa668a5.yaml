@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: défaut d'isolement affectant l'isolement entre deux ou plus de deux
+    conducteurs de phase, combiné ou non avec un défaut à la terre
+  examples: []
+  id: 614-02-17
+  language_code: fra
+  notes:
+  - Les défauts d’isolement entre phases d'impédance de défaut négligeable sont aussi
+    appelés court-circuits entre phases.
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaut d'isolement entre phases
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3c5c3db1-570a-57de-9976-fdce1fa668a5
+status: valid

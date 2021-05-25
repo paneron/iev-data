@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intégrale curviligne dont l'élément différentiel est le produit scalaire
+    d'un vecteur par l'élément vectoriel d'arc
+  examples: []
+  id: 102-05-04
+  language_code: fra
+  notes:
+  - La circulation du vecteur *`V`* le long de la courbe orientée Γ est notée `underset(Gamma)(
+    int ) V * d r`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: circulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: faf4915b-94b4-57cd-8deb-f0c4b2b5ce57
+status: valid

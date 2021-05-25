@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.130
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.130
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: sending of a master frame in order to receive a slave frame
+  examples: []
+  id: 811-37-82
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polling
+    normative_status: preferred
+    type: expression
+    usage_info: in a train communication network
+dateAccepted: 2017-11-01
+id: f0215ded-7751-5ba3-8875-67a09e4fc4d8
+status: valid

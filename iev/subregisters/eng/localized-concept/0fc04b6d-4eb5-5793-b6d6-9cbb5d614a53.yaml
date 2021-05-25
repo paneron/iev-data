@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the average radiant flux density or luminous flux density,
+    `Φ`~2~/`A`~2~ (or `Φ`~1~/`A`~1~), received over surface S~2~ (or S~1~) from surface
+    S~1~ (or S~2~) and the radiant exitance or luminous exitance, `M`~1~ (or `M`~2~),
+    of surface S~1~ (or S~2~) `f_((21)) = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))` or
+    `f_((12)) = ((Phi_1))/((A_1 M_2)) = (g)/((A_1))` with `A_2 f_((21)) = g = A_1
+    f_((12))` where `Φ`~2~ (or `Φ`~1~) is the radiant flux or luminous flux received
+    over surface S~2~ (or S~1~) from surface S~1~ (or S~2~), `A`~2~ (or `A`~1~) is
+    the area of surface S~2~ (or S~1~) and `g` is the mutual exchange coefficient
+  examples: []
+  id: 845-29-094
+  language_code: eng
+  notes:
+  - The form factor has unit one.
+  - This entry was numbered 845-09-73 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: form factor
+    normative_status: preferred
+    type: expression
+    usage_info: between two surfaces
+  - designation: '`f`~12
+
+      ~`f`~21~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 0fc04b6d-4eb5-5793-b6d6-9cbb5d614a53
+status: valid

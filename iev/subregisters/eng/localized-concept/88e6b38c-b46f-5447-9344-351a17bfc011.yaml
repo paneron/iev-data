@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}} intended to {{operate, IEV:447-02-04}}
+    when its {{characteristic quantity, IEV:447-07-01}} decreases to reach the {{setting
+    value of the characteristic quantity, IEV:447-07-02}}'
+  examples:
+  - Undervoltage relay.
+  id: 447-01-24
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: under... relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 88e6b38c-b46f-5447-9344-351a17bfc011
+status: valid

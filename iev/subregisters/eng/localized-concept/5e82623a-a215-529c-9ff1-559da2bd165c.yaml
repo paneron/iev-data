@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: angle a chosen reference direction makes with the vertical plane through
+    a given point on a road surface and the first axis of a luminaire, when the luminaire
+    is at its tilt during measurement
+  examples: []
+  id: 845-31-140
+  language_code: eng
+  notes:
+  - The reference direction for a straight road is by convention the longitudinal
+    direction.
+  - The installation azimuth is expressed in radian (rad) or degree (°).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: installation azimuth
+    normative_status: preferred
+    type: expression
+    usage_info: in road lighting
+  - designation: '`φ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 5e82623a-a215-529c-9ff1-559da2bd165c
+status: valid

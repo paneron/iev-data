@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: square matrix of order `n` with elements `A`~`ij`~, for which the `n`
+    vectors *`V`*~`i`~ with coordinates being the elements of row `i`, i.e. `A`~`i`1~,
+    `A`~`i`2~, …, `A`~`in`~, are linearly dependent
+  examples: []
+  id: 102-06-15
+  language_code: eng
+  notes:
+  - It is equivalent to consider the `n` vectors associated with the columns.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: singular matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 759aa112-d286-5423-bb4c-ac468864b788
+status: valid

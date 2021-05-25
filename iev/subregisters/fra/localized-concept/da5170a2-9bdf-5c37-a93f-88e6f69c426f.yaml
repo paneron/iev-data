@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: '3.711'
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC/IEEE 24765:2017, 3.711, modifié – Dans un souci de cohérence
+        avec la terminologie de l'ISO/IEC 20924:2018, le terme préférentiel "composant
+        de calcul" a été remplacé par "élément de calcul"
+      ref: ISO/IEC 20924:2018
+      relationship:
+        modification: Dans un souci de cohérence avec la terminologie de l'ISO/IEC
+          20924:2018, le terme préférentiel "composant de calcul" a été remplacé par
+          "élément de calcul"
+        type: modified
+  definition: composant spécifié d'un point de vue informatique qui possède une interface
+    de commande et des jeux déclarés . d'interfaces d'exploitation dans lesquelles
+    il joue un rôle de serveur (interfaces offertes), . d'interfaces d'exploitation
+    dans lesquelles il joue un rôle de client (interfaces requises), . d'interfaces
+    d'exploitation qui produisent des annonces qui transportent des notifications
+    d'événements affectés d'un type (sources d'événement), . d'interfaces d'exploitation
+    qui consomment des annonces qui transportent des notifications d'événements affectés
+    d'un type (collecteurs d'événement), et . d'interfaces d'exploitation qui prennent
+    en charge les accesseurs et les mutateurs pour les attribut (attributs)
+  examples: []
+  id: 741-02-501
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de calcul
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: da5170a2-9bdf-5c37-a93f-88e6f69c426f
+status: valid

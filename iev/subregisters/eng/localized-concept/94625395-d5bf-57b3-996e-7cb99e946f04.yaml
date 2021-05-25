@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: time interval for which the item is in an externally disabled state
+  examples: []
+  id: 192-02-24
+  language_code: eng
+  notes:
+  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) identified
+    “external loss time” as a synonym, which is not true in all applications.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: externally disabled time
+    normative_status: preferred
+    type: expression
+  - designation: external disabled time
+    normative_status: preferred
+    type: expression
+  - designation: external loss time
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: 94625395-d5bf-57b3-996e-7cb99e946f04
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: loi empirique exprimant la densité de force d'ancrage en fonction de
+    la température `T` et de l'induction magnétique, `B`
+  examples: []
+  id: 815-12-26
+  language_code: fra
+  notes:
+  - La densité de force d’ancrage, `F`~p~, est donnée généralement par `F`~p~ ∝ &amp;lsqb;`B`~c2~(`T`)&amp;rsqb;^`m`^`f`(`b`),
+    où `m` est un nombre réel, `f`(`b`) une fonction de l’induction magnétique réduite
+    `b` = `B`/`B`~c2~ et `B`~c2~ = `μ`~0~`H`~c2~, où `μ`~0~ est la constante magnétique
+    et `H`~c2~ le champ magnétique critique supérieur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi d'échelle pour la densité de force d'ancrage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: loi d’échelle pour la densité de la force de piégeage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 26f4c236-f26e-5487-ac5a-14cf4e908002
+status: valid

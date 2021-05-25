@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 characterizing losses in a flow of fluid, defined
+    by `E u = ((Delta p))/((rho v^2))`, where Δ`p` is the pressure drop, `ρ` is mass
+    density, and `v` is speed
+  examples: []
+  id: 113-03-40
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Euler number
+    normative_status: preferred
+    type: expression
+  - designation: '`Eu`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 4f0107a1-55b7-55dd-874f-88c12a9adc27
+status: valid

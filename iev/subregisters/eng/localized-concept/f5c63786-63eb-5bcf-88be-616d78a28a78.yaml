@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 841-01-24
+      original: 841-01-24 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: for an alternating electric current in a conductor, phenomenon in which
+    the current density is greater near the surface than in the interior of the conductor
+  examples: []
+  id: 121-13-18
+  language_code: eng
+  notes:
+  - The skin effect increases the resistance and decreases the inductance of a conductor
+    with the frequency of the electric current.
+  - The skin effect occurs also in the more general case of any time-varying current.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: skin effect
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: f5c63786-63eb-5bcf-88be-616d78a28a78
+status: valid

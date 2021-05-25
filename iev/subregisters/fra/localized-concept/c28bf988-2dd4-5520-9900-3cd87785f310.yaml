@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{adresse, IEV:171-05-35}} qui désigne l''emplacement de mémoire d''une
+    autre adresse'
+  examples: []
+  id: 171-05-38
+  language_code: fra
+  notes:
+  - L'emplacement de mémoire désigné peut contenir l'adresse de l'opérande souhaité
+    ou une autre adresse indirecte; cette chaîne d'adresses conduit finalement à l'opérande.
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse indirecte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c28bf988-2dd4-5520-9900-3cd87785f310
+status: valid

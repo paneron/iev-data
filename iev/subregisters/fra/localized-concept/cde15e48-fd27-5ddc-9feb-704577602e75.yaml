@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-04-01
+  definition: méthode de charge d'une batterie d'accumulateurs dans laquelle l'état
+    de charge est maintenu par un faible courant électrique constant régulé à long
+    terme
+  examples: []
+  id: 482-05-47
+  language_code: fra
+  notes:
+  - La charge d'entretien compense les effets d’auto-décharge et maintient la batterie
+    approximativement à l’état de charge complète.
+  - Cette méthode de charge n'est pas adaptée pour certaines batteries d'accumulateurs,
+    par exemple au lithium.
+  reviewDate: 2004-04-01
+  reviewDecisionDate: 2004-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge d’entretien
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-04-01
+id: cde15e48-fd27-5ddc-9feb-704577602e75
+status: valid

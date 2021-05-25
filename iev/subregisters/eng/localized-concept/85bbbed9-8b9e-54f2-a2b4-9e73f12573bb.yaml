@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.77
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.77
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: field in the HDLC frame which indicates the type of frame
+  examples: []
+  id: 811-37-53
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: link control
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 85bbbed9-8b9e-54f2-a2b4-9e73f12573bb
+status: valid

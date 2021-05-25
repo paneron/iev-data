@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: vecteur réel tangent à une courbe orientée donnée en un point donné,
+    dont la norme est la valeur absolue de l'élément scalaire d'arc au point donné
+    et dont la direction correspond à l'orientation de la courbe
+  examples: []
+  id: 102-05-02
+  language_code: fra
+  notes:
+  - Un élément vectoriel d'arc est désigné de préférence par `e_t d s` ou par `d r`,
+    ou parfois par `t d s`, où `e_t = t` est un vecteur unité tangent à la courbe,
+    `d s` un élément scalaire d'arc, `d r` la différentielle du rayon vecteur *`r`*
+    décrivant la courbe par rapport à un point origine.
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément vectoriel d'arc
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c4c8dfa7-7416-5219-a524-09507eb800f1
+status: valid

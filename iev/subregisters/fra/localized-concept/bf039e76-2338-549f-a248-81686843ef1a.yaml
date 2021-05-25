@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.66
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.66
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: ensemble de protocoles normalisés incluant l'ISO/IEC 13239 relative
+    à la transmission de données
+  examples: []
+  id: 811-37-47
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: HDLC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: commande de liaison de données à haut niveau
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bf039e76-2338-549f-a248-81686843ef1a
+status: valid

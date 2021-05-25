@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: connexions, y compris les joints, les fils et les pistes d'interconnexion
+    des circuits imprimés qui, ne sont pas considérées comme des circuits capables
+    de s'ouvrir en service ou en stockage
+  examples: []
+  id: 426-11-52
+  language_code: fra
+  notes:
+  - 'Les conditions spécifiques à prendre en compte sont spécifiées dans l''IEC 60079-11,
+    _Atmosphères explosives – Partie 11: Protection de l''équipement par sécurité
+    intrinsèque "i"_.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: connexions infaillibles
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: 17eec1de-78cd-518f-8424-9143cd0dc2b5
+status: valid

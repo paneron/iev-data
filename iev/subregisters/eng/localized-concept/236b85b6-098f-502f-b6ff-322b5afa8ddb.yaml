@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 441-15-10
+      original: IEC 60050-441:2000, 441-15-10, modified – In the definition, "switching
+        device" has been replaced by "residual current device", and Note 1 to entry
+        has been added.
+      ref: IEC 60050-441:2000
+      relationship:
+        modification: In the definition, "switching device" has been replaced by "residual
+          current device", and Note 1 to entry has been added.
+        type: modified
+  dateAmended: 2019-05-01
+  definition: contact included in an auxiliary circuit and mechanically operated by
+    the residual current device
+  examples: []
+  id: 442-05-30
+  language_code: eng
+  notes:
+  - An auxiliary contact can, for example, be operated to indicate the position of
+    the contacts.
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: auxiliary contact
+    normative_status: preferred
+    type: expression
+    usage_info: for a residual current device
+dateAccepted: 2019-05-01
+id: 236b85b6-098f-502f-b6ff-322b5afa8ddb
+status: valid

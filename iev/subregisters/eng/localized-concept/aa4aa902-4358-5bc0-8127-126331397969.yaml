@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: tensor of the second order with components `T_((i j)) = delta_((i j))`
+    where `delta_((i j))` is the Kronecker delta, equal to 1 if `i` = `j` and 0 if
+    `i` ≠ `j`
+  examples: []
+  id: 102-03-49
+  language_code: eng
+  notes:
+  - The components of the Kronecker tensor are independent of the base used. The inner
+    product of the Kronecker tensor and a tensor or a vector is equal to this tensor
+    or vector.
+  - When the properties of an anisotropic medium are represented at each point by
+    a tensor quantity of the second order, this quantity reduces, in an isotropic
+    medium, to the product of the Kronecker tensor and a scalar quantity. In practice,
+    the quantity is then considered as a scalar quantity.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Kronecker tensor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: aa4aa902-4358-5bc0-8127-126331397969
+status: valid

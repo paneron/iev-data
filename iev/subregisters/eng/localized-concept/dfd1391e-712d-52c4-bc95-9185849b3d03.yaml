@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: <a href="IEV845-27-018">electric discharge</a> characterized by a cathode
+    fall which is small compared to that in a glow discharge
+  examples: []
+  id: 845-27-023
+  language_code: eng
+  notes:
+  - The emission of the cathode results from various causes (thermionic emission,
+    field emission, etc.) acting simultaneously or separately; secondary emission
+    plays only a small part.
+  - This entry was numbered 845-07-16 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: arc discharge
+    normative_status: preferred
+    type: expression
+    usage_info: in a gas or in a vapour
+  - designation: electric arc
+    type: expression
+    usage_info: in a gas or in a vapour
+dateAccepted: 2020-12-01
+id: dfd1391e-712d-52c4-bc95-9185849b3d03
+status: valid

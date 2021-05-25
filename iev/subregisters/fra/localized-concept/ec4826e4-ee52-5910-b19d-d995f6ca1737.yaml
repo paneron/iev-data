@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: méthode employée pour réduire les effets des {{erreurs, IEV:192-03-02}}
+    d'enregistrement, de traitement ou de transmission qui affectent un {{signal numérique,
+    IEV:702-04-05}}
+  examples: []
+  id: 723-10-94
+  language_code: fra
+  notes:
+  - La protection contre les erreurs en télévision numérique peut faire appel à la
+    {{détection d'erreurs, IEV:702-07-41}}, à la {{correction d'erreurs, IEV:702-07-42}}
+    et au {{masquage d'erreurs, IEV:723-10-97}}, de manière séparée ou conjointe.
+  reviewDecisionEvent: published
+  terms:
+  - designation: protection contre les erreurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en télévision numérique
+dateAccepted: 2018-11-17
+id: ec4826e4-ee52-5910-b19d-d995f6ca1737
+status: valid

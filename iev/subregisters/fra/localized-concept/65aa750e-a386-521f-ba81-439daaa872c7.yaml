@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: une valeur de courant présumé qu'un appareil de connexion ou un fusible
+    est capable d'interrompre sous une tension fixée dans des conditions prescrites
+    d'emploi et de comportement
+  examples: []
+  id: 441-17-08
+  language_code: fra
+  notes:
+  - La tension à fixer et les conditions à prescrire sont précisées dans les publications
+    particulières.
+  - 'Pour les appareils de connexion, le pouvoir de coupure peut être dénommé suivant
+    le type de courant intervenant dans les conditions prescrites, par exemple: pouvoir
+    de coupure de lignes à vide, pouvoir de coupure de câbles à vide, pouvoir de coupure
+    d''une batterie de condensateurs unique, etc.'
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pouvoir de coupure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 65aa750e-a386-521f-ba81-439daaa872c7
+status: valid

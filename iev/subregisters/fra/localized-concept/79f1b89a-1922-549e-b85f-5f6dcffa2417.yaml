@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur de la {{grandeur caractéristique, IEV:447-07-01}} à laquelle
+    un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection, IEV:447-01-49}}
+    ne {{démarre, IEV:447-02-08}} (reprend) pas
+  examples: []
+  id: 447-02-21
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de non-démarrage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur de non-reprise
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 79f1b89a-1922-549e-b85f-5f6dcffa2417
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '9.6'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 9.6
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: modification, adjonction ou suppression de parties spécifiques du contenu
+    d'un {{document normatif, IEV:901-02-01}}
+  examples: []
+  id: 901-04-07
+  language_code: fra
+  notes:
+  - Les amendements sont habituellement présentés sur des feuilles additionnelles
+    séparées du document normatif.
+  reviewDecisionEvent: published
+  terms:
+  - designation: amendement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f61f0e35-024c-5260-bfbf-03e11211862c
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{signal, IEV:171-01-03}} qui est à la fois un {{signal à valeurs continues,
+    IEV:171-01-09}} et un {{signal à temps continu, IEV:171-01-10}}'
+  examples: []
+  id: 171-01-14
+  language_code: fra
+  notes:
+  - La caractéristique support d’informations peut à tout instant prendre une quelconque
+    des valeurs d'un intervalle continu. Par exemple, un signal analogique peut suivre
+    de façon continue les valeurs d'une autre grandeur physique représentant des informations
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal analogique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 54953754-aebc-57ca-92e8-e67c6f77db85
+status: valid

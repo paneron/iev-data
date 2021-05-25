@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction égale à une constante pour toute valeur négative de la variable
+    indépendante et égale à cette constante augmentée d'une unité pour toute valeur
+    positive
+  examples: []
+  id: 103-03-02
+  language_code: fra
+  notes:
+  - '`c + epsilon ( x )`, où `c` est une constante et `epsilon ( x )` est la fonction
+    échelon unité, représente un échelon unité généralisé.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: échelon unité généralisé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 12556d22-4f4f-551e-81fd-1c06ae82c963
+status: valid

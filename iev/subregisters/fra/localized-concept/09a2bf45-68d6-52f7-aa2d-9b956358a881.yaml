@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: itinéraire, reliant un commutateur d'origine au commutateur de destination
+    d'un courant de trafic donné, généralement soumis à des contraintes telles qu'un
+    nombre maximal de noeuds intermédiaires ou un ordre de choix imposé
+  examples: []
+  id: 715-07-04
+  language_code: fra
+  notes:
+  - L'optimisation du réseau n'est possible que lorsqu'il existe plus d'un acheminement
+    préférentiel entre un noeud d'origine et un noeud de destination.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: acheminement préférentiel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 09a2bf45-68d6-52f7-aa2d-9b956358a881
+status: valid

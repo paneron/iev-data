@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: ability to recover from a failure, without corrective maintenance
+  examples: []
+  id: 192-01-25
+  language_code: eng
+  notes:
+  - The ability to recover may or may not require external actions. For recovery where
+    no external actions are required, see self-recoverability ({{192-01-26, IEV:192-01-26}}).
+  - Recoverability may be quantified using measures such as the probability of recovery
+    within a specified time interval.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recoverability
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 31f7d8d3-c74f-5dcc-bb39-4b50c388d632
+status: valid

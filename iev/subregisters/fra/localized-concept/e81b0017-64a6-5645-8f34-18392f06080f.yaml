@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur moyenne de l'éclairement lumineux sur la surface courbe extérieure
+    d'un très petit cylindre (réel ou fictif) orienté verticalement en un point dans
+    l'espace
+  examples: []
+  id: 845-21-063
+  language_code: fra
+  notes:
+  - 'L''éclairement cylindrique est parfois également défini comme la moyenne arithmétique
+    de l''éclairement lumineux vertical `E`~v,v~ en un point
+
+
+    `E_((v ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((v ,v)) d phi`
+
+
+    où `E`~v,v~ est l''éclairement lumineux vertical d''un élément de surface avec
+    sa perpendiculaire dans la direction `φ`, et `φ` est l''angle dans le plan perpendiculaire
+    à l''axe du cylindre.'
+  - La grandeur radiométrique correspondante est l'"éclairement cylindrique énergétique".
+    La grandeur correspondante pour les photons est l'"éclairement cylindrique énergétique
+    photonique".
+  - L'éclairement lumineux cylindrique est exprimé en lux (lx = lm·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement cylindrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e81b0017-64a6-5645-8f34-18392f06080f
+status: valid

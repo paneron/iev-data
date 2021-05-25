@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-09-01
+  definition: rapport de la tension appliquée au diviseur capacitif à la tension intermédiaire
+    à circuit ouvert
+  examples: []
+  id: 436-04-05
+  language_code: fra
+  notes:
+  - Ce rapport correspond à la somme des capacités des condensateurs à haute tension
+    et à tension intermédiaire divisée par la capacité du condensateur à haute tension.
+  reviewDate: 1990-09-01
+  reviewDecisionDate: 1990-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport de tension (d'un diviseur capacitif)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-09-01
+id: 004e6285-28fe-5e17-8cd6-58071fc4d36f
+status: valid

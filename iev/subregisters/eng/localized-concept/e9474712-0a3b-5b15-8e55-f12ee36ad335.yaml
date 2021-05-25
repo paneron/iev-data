@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: time relay in which the time delay starts when applying the power supply
+    and the control signal; the output momentarily switches for an interval to the
+    operate condition after the setting time has elapsed (see Figure 9) image::/assets/images/parts/445/445-01-12en.gif[]
+  examples: []
+  id: 445-01-12
+  language_code: eng
+  notes:
+  - 1 – Cycling the control signal during the time delay will not retrigger the time
+    delay.
+  - 2 – Manufacturer should specify if interval is fixed or variable.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse delayed relay with control signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: e9474712-0a3b-5b15-8e55-f12ee36ad335
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the ratio of the number of digital errors in the output signal to the
+    number of digital errors in the input signal
+  examples: []
+  id: 704-18-06
+  language_code: eng
+  notes:
+  - The error multiplication factor may be expressed as an average value under defined
+    operating conditions, or else as the maximum value that could result from a single
+    digital error in the input signal.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error multiplication factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: bd01147f-1d1a-581b-b16c-d1daac4e95f1
+status: valid

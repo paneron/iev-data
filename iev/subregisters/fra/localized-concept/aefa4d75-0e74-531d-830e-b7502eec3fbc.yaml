@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un émetteur de photons, produit du débit d'exposition `overset(˙)(X)`,
+    à une distance donnée `l` d'une source de rayonnement ponctuelle de cet émetteur,
+    par le carré de cette distance, divisé par l'activité `A` de cette source de rayonnement,
+    l'atténuation étant négligée `Gamma = overset(˙)(X) ( l^2 // A )`
+  examples: []
+  id: 395-01-43
+  language_code: fra
+  notes:
+  - Cet article était numéroté 393-14-82 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de débit d’exposition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: aefa4d75-0e74-531d-830e-b7502eec3fbc
+status: valid

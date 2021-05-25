@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: ratio of the mass concentration of water vapour `v` to its mass concentration
+    at saturation `v`~sat~, at the same temperature, thus `ψ` = `v`/`v`~sat~
+  examples: []
+  id: 113-04-66
+  language_code: eng
+  notes:
+  - For normal cases, the relative humidity may be assumed to be equal to relative
+    mass concentration of vapour.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative mass concentration of water vapour
+    normative_status: preferred
+    type: expression
+  - designation: '`ψ`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 8968bcd2-c953-588b-9763-b1a40921cbcf
+status: valid

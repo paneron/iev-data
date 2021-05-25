@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: rapport, exprimé en décibels, de la tension du signal utile à la tension
+    de bruit, à la sortie d'un magnétophone
+  examples: []
+  id: 806-16-22
+  language_code: fra
+  notes:
+  - La tension de sortie du signal est exprimée en tenant compte d'un taux de distorsion
+    harmonique spécifié, obtenu par enregistrement d'une fréquence spécifiée sur un
+    support spécifié.
+  - La tension de bruit est mesurée en valeur pondérée ou non pondérée en l'absence
+    de signal utile.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport signal/bruit d'un magnétophone
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: f18cd43c-bc56-513e-8bbe-d5a96e351102
+status: valid

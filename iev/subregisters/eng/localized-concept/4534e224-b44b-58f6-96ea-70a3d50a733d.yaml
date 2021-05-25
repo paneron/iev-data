@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: temperature of the Planckian radiator for which the radiance at the
+    specified wavelength has the same spectral concentration as for the thermal radiator
+    considered
+  examples: []
+  id: 845-24-016
+  language_code: eng
+  notes:
+  - The radiance temperature is expressed in kelvin (K).
+  - This entry was numbered 845-04-13 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiance temperature
+    normative_status: preferred
+    type: expression
+    usage_info: of a thermal radiator, for a specified wavelength
+dateAccepted: 2020-12-01
+id: 4534e224-b44b-58f6-96ea-70a3d50a733d
+status: valid

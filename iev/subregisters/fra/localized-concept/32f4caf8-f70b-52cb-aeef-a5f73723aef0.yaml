@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: aptitude d'un équipement ou d'un système à fonctionner dans son {{environnement
+    électromagnétique, IEV:161-01-01}} de façon satisfaisante et sans produire lui-même
+    des {{perturbations électromagnétiques, IEV:161-01-05}} intolérables pour tout
+    ce qui se trouve dans cet environnement
+  examples: []
+  id: 161-01-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: compatibilité électromagnétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: CEM
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 32f4caf8-f70b-52cb-aeef-a5f73723aef0
+status: valid

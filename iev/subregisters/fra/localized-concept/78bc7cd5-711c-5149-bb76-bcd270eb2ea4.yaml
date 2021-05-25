@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: intégrale par rapport au temps de la luminance énergétique, `L`~e~,
+    pendant une durée donnée, Δ`t` `L_((e , t)) = underset((Delta t))( int ) L_e d
+    t`
+  examples: []
+  id: 845-21-067
+  language_code: fra
+  notes:
+  - La grandeur photométrique correspondante est la "dose de luminance". La grandeur
+    correspondante pour les photons est la "dose de luminance photonique".
+  - La dose de luminance énergétique est exprimée en joule par mètre carré par stéradian
+    (J·m^−2^·sr^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose de luminance énergétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: radiance intégrée
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: radiance à intégration temporelle
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 78bc7cd5-711c-5149-bb76-bcd270eb2ea4
+status: valid

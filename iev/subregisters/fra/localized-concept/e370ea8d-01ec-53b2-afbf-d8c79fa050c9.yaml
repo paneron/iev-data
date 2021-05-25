@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une fonction réelle `f`(`n`) d'une variable entière `n`, fonction
+    `F`(`z`) d'une variable complexe `z`, donnée par la transformation `F ( z ) =
+    sum_((n = 0))^(oo) f ( n ) z^(- n)`
+  examples: []
+  id: 103-04-09
+  language_code: fra
+  notes:
+  - La transformée en Z de la fonction `f` est notée aussi Z`f` ou ℨ`f`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transformée en Z
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e370ea8d-01ec-53b2-afbf-d8c79fa050c9
+status: valid

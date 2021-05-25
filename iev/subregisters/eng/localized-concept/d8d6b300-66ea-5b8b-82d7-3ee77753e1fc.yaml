@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: at a point of a surface, plane, if it exists, which contains all the
+    tangents at this point to the curves of the surface passing through the point
+  examples: []
+  id: 102-04-34
+  language_code: eng
+  notes:
+  - For a surface defined by `r = f ( u , v )`, where `( u , v ) in U sube R^2`, the
+    tangent plane at point *`r`*(`u`~0~, `v`~0~) is defined by the vectors `(( ((del
+    f))/((del u)) ))_([[u = u_0],[v = v_0]])` and `(( ((del f))/((del v)) ))_(([[u
+    = u_0],[v = v_0]]))` if they are linearly independent.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tangent plane
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: d8d6b300-66ea-5b8b-82d7-3ee77753e1fc
+status: valid

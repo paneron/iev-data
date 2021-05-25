@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://www.iso.org/standard/32893.html
+      original: Guide ISO/CEI 51:1999, <i>Aspects liés à la sécurité – Principes directeurs
+        pour les inclure dans les normes</i>, 3.1, modifiée – La définition a été
+        élargie et des notes à l'article ont été ajoutées.
+      ref: ISO/IEC Guide 51:1999
+      relationship:
+        modification: La définition a été élargie et des notes à l'article ont été
+          ajoutées.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: absence de risque inacceptable à l'extérieur des unités fonctionnelles
+    et physiques considérées
+  examples: []
+  id: 351-57-05
+  language_code: fra
+  notes:
+  - La définition de “sécurité” en combinaison avec d’autres mots peut progressivement
+    (comme dans “sécurité des produits”, “sécurité des machines”) ou complètement
+    (comme dans “sécurité des employés”, “ceinture de sécurité” ou “sécurité fonctionnelle”)
+    changer. Voir le Guide CEI 51, Article 4, concernant l’utilisation du mot sécurité.
+    [Guide ISO/CEI 2, _Normalisation et activités connexes – Vocabulaire général_]
+  - Dans le domaine de la normalisation, la sécurité des produits, processus et services
+    est généralement considérée en vue d’atteindre l’équilibre optimal d’un certain
+    nombre de facteurs, y compris les facteurs non techniques comme le comportement
+    humain qui élimineront les risques évitables de dommage pour les personnes et
+    biens à un degré acceptable. [Guide ISO/CEI 2]
+  - Dans de nombreuses langues autres que l’anglais, il existe un seul mot pour sécurité
+    et sûreté.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sécurité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 685601c4-65ea-5726-9876-52a0b9da9902
+status: valid

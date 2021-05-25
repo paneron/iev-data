@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: formal communications language specified at the application layer and
+    transported by an application {{protocol, IEV:716-01-17}}
+  examples: []
+  id: 732-10-03
+  language_code: eng
+  notes:
+  - The application layer is defined as layer 7 of the {{open systems interconnection
+    (OSI) reference model, IEV:716-01-20}}.
+  - An application language is specified with a syntax and semantics; the application
+    layer includes procedures for exchanging messages that are encoded using this
+    language.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: application language
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 91e9e8b8-181a-5631-b04c-1e097170f74a
+status: valid

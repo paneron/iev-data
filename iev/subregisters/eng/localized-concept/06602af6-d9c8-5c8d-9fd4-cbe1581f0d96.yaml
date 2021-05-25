@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: identity resulting from the divergence theorem applied to the vector
+    field `f_1 grad f_2`, where `f`~1~ and `f`~2~ are two scalar fields given at each
+    point of a three-dimensional domain V limited by a closed surface S `underset(V)(
+    ∭ ) ( grad f_1 * g r a d f_2 + f_1 Delta f_2 ) d V = underset(S)( ∯ ) f_1 g r
+    a d f_2 * e_n d A` where d`V` is the volume element, *`e`*~n~d`A` is the vector
+    surface element and Δ is the Laplacian operator
+  examples: []
+  id: 102-05-32
+  language_code: eng
+  notes:
+  - In English the first Green formula is sometimes called “first Green theorem” or
+    “first Green identity”.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: first Green formula
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 06602af6-d9c8-5c8d-9fd4-cbe1581f0d96
+status: valid

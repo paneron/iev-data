@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      original: IEC 60664-2-1:2011, 3.1
+      ref: IEC 60664-2-1:2011
+      relationship:
+        type: identical
+  definition: pour les fréquences dépassant 30 kHz, le champ électrique qui existe
+    lorsque le rayon de courbure des parties conductrices est égal ou supérieur à
+    20 % de la distance d'isolement
+  examples: []
+  id: 442-09-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ électrique approximativement homogène
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9dda10a2-9b18-5e50-9ba2-35fc66f346e7
+status: valid

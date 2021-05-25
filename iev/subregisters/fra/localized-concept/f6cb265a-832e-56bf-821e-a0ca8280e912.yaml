@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la profondeur de pénétration `λ` à la longueur de cohérence
+    `ξ` `kappa_((GL)) = lambda // xi`
+  examples: []
+  id: 815-10-34
+  language_code: fra
+  notes:
+  - Pour un supraconducteur de type II, `kappa_((GL)) &gt; 1 // sqrt(2)`; `kappa_((GL))
+    = H_((c2)) // ( sqrt(2) H_c )`, où `H_(c2)` est le champ magnétique critique supérieur
+    et `H_c` le champ magnétique critique.
+  - Pour un supraconducteur de type I, `kappa_((GL)) 1 // sqrt(2)`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: paramètre de Ginzburg-Landau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f6cb265a-832e-56bf-821e-a0ca8280e912
+status: valid

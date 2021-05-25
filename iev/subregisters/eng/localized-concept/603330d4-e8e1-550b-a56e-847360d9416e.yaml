@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: logarithm to base 10 of the reciprocal of the transmittance, `τ` `Dτ`
+    = −log~10~`τ`
+  examples: []
+  id: 845-24-072
+  language_code: eng
+  notes:
+  - The transmittance optical density has unit one.
+  - This entry was numbered 845-04-66 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmittance optical density
+    normative_status: preferred
+    type: expression
+  - designation: optical density
+    type: expression
+  - designation: transmittance density
+    normative_status: admitted
+    type: expression
+  - designation: decadic absorbance
+    normative_status: admitted
+    type: expression
+  - designation: '`Dτ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 603330d4-e8e1-550b-a56e-847360d9416e
+status: valid

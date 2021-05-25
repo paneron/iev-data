@@ -1,0 +1,48 @@
+data:
+  authoritativeSource:
+  - - clause: 725-12-34
+      original: 725-12-34 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '109'
+      original: ITU RR 109 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: radio link from an Earth station at a given location to a space station,
+    or vice-versa, conveying information for a space radiocommunication service other
+    than the fixed-satellite service
+  examples: []
+  id: 713-02-26
+  language_code: eng
+  notes:
+  - The fixed-satellite service is the radiocommunication service between Earth stations
+    at given positions. “Feeder link” is a regulatory term, used for radio links to
+    which frequencies in a frequency band allocated to the fixed-satellite service
+    may be assigned, although such links do not form a part of that service.
+  - The given location may be at a specified fixed point, or at any fixed point within
+    specified areas.
+  - 'Examples of feeder links:
+
+
+    – an up-link for a broadcasting satellite;
+
+
+    – the part of a forward link to a space station or a return link from a space
+    station which is between the Earth station and a data relay satellite;
+
+
+    – an up-link and down-link between a coast Earth station and a satellite in the
+    maritime mobile-satellite service.'
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: feeder link
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: ca041223-5a8b-5d4d-a4d3-9f52a01a5a84
+status: valid

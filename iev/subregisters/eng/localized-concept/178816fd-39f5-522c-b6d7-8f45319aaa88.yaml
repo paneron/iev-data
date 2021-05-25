@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the transmission loss, usually expressed in decibels, that would occur
+    if the antennas were replaced by isotropic antennas located in a perfectly dielectric,
+    homogeneous, isotropic and unlimited environment, the distance between the antennas
+    being retained
+  examples: []
+  id: 705-08-05
+  language_code: eng
+  notes:
+  - 'If the distance d between the antennas is much greater than the wavelength `λ`,
+    the free-space attenuation in decibels will be:
+
+
+    `A_0 = 20 log ( ((4 pi d))/(lambda) )`'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: free-space basic transmission loss
+    normative_status: preferred
+    type: expression
+  - designation: '`A`~o~
+
+      `L`~bf~'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 178816fd-39f5-522c-b6d7-8f45319aaa88
+status: valid

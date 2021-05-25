@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.21
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.21
+      ref: IEC 62267:2009
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: safety-related information indicating that the speed of the train is
+    below a pre-defined limit whereby the system considers the train as stopped
+  examples: []
+  id: 821-01-78
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zero speed status
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 7f9c5593-4d72-5692-b377-9627c19f47d2
+status: valid

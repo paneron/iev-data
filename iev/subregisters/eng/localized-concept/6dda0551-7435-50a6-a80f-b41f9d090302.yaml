@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 1. in linear amplitude modulation, the ratio, generally expressed as
+    a percentage, of the difference between the maximum and minimum amplitudes of
+    the modulated signal to the sum of these amplitudes
+  examples: []
+  id: 702-06-19
+  language_code: eng
+  notes:
+  - 'If the modulating signal is a symmetrical alternating signal, only one modulation
+    factor will exist. If the modulating signal is not a symmetrical alternating signal,
+    a value of the modulation factor may be determined for each spectral component
+    of the modulating signal.
+
+
+    2. in angle modulation, the ratio, generally expressed as a percentage, of the
+    peak frequency deviation or peak phase deviation produced by a specified modulating
+    signal to the maximum deviation specified for the given transmission system'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 6dda0551-7435-50a6-a80f-b41f9d090302
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: résistance volumique d'un cube de volume unité
+  examples: []
+  id: 212-11-11
+  language_code: fra
+  notes:
+  - Pour les matériaux isolants, la résistivité volumique est habituellement déterminée
+    au moyen d’électrodes de mesure disposées sur une feuille du matériau.
+  - 'La Partie 121 de l''IEV: Electromagnétisme, définit la “conductivité“ comme “grandeur
+    scalaire ou tensorielle dont le produit par le champ électrique dans un milieu
+    est égal à la densité du courant électrique“, et la “résistivité“ comme “l’inverse
+    de la conductivité lorsque cette inverse existe”. Mesurée de cette façon, la résistivité
+    volumique est une moyenne de la résistivité sur les hétérogénéités éventuelles
+    dans le volume incluses dans la mesure; elle comprend l''effet d''éventuels phénomènes
+    de polarisation aux électrodes.'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: résistivité volumique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 729c0637-5449-581a-8772-bfb3a62feeda
+status: valid

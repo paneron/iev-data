@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{Boolean operation, IEV:171-03-05}} associated with another Boolean
+    operation, whose result is the {{negation, IEV:171-03-10}} of the result of the
+    latter when the {{operands, IEV:171-03-04}} of the latter are replaced by their
+    negations'
+  examples:
+  - '{{Disjunction, IEV:171-03-19}} is the dual operation of {{conjunction, IEV:171-03-17}}.'
+  id: 171-03-12
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dual operation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 6d005ede-b174-5cc3-b02c-fee7582075e4
+status: valid

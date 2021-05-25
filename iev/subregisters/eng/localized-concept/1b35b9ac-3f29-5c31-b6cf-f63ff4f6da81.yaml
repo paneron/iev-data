@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: quality factor for the dielectric resonator with support and shielding
+    conductors, excluding the energy dissipated in the external circuits
+  examples: []
+  id: 561-01-95
+  language_code: eng
+  notes:
+  - This entry was numbered 561-07-25 in IEC 60050-561:1991, Amendment 2:1997.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unloaded quality factor
+    normative_status: preferred
+    type: expression
+    usage_info: of a dielectric resonator
+  - designation: '`Q`~u~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 1b35b9ac-3f29-5c31-b6cf-f63ff4f6da81
+status: valid

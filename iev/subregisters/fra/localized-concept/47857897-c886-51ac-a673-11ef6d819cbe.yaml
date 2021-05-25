@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1994-07-01
+  definition: valeur instantanée maximale du niveau de pression acoustique pondérée,
+    mesuré en utilisant une pondération fréquentielle normalisée dans un intervalle
+    de temps spécifié
+  examples: []
+  id: 801-22-15
+  language_code: fra
+  notes:
+  - Si la pondération fréquentielle n'est pas spécifiée, on supposera qu'il s'agit
+    de la pondération A.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de crête de pression acoustique pondérée (en fréquence)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: niveau sonore de crête
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 47857897-c886-51ac-a673-11ef6d819cbe
+status: valid

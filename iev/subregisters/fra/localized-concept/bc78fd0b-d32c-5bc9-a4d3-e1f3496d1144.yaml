@@ -1,0 +1,48 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: unité servant à exprimer le rapport de deux puissances par dix fois
+    le logarithme décimal de ce rapport
+  examples: []
+  id: 702-07-02
+  language_code: fra
+  notes:
+  - '1 – Le décibel permet aussi d''exprimer le rapport de deux grandeurs de champ.
+    Pour obtenir la même valeur numérique qu''avec le rapport des puissances correspondantes,
+    le logarithme du rapport des grandeurs de champ est multiplié par le facteur 20,
+    en supposant que les impédances soient égales.
+
+
+    Si `P`~1~ et `P`~2~ sont deux puissances, leur rapport exprimé en décibels est:
+
+
+    `10 lg ((P_1))/((P_2))`
+
+
+    La relation entre un rapport de grandeurs de champ et le rapport des puissances
+    correspondantes dépend des impédances.
+
+
+    Si `P`~1~ et `P`~2~ représentent les puissances dissipées par les courants `I`~1~
+    et `I`~2~ dans les résistances `R`~1~ et `R`~2~:
+
+
+    `10 lg ((P_1))/((P_2)) = 10 lg ((I_1^2))/((I_2^2)) ((R_1))/((R_2)) = 20 lg ((I_1))/((I_2))
+    + 10 lg ((R_1))/((R_2))`'
+  - 2 – Des directives pour l'emploi du décibel et de certains symboles pour désigner
+    les rapports de certaines quantités sont données dans la recommandation 574 du
+    CCIR, dans la recommandation B.12 du CCITT, ainsi que dans la publication 27-3
+    de la CEI.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: décibel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: bc78fd0b-d32c-5bc9-a4d3-e1f3496d1144
+status: valid

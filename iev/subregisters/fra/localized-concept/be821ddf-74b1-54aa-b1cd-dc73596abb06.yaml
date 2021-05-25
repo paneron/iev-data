@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '`delta ( epsilon ) = - ln ((Phi^( '' )_e))/((Phi_e))` où `Φ`~e~ est
+    le flux énergétique d''un faisceau collimaté entrant dans les couches de la limite
+    supérieure de l''atmosphère sous un angle `ε` avec la verticale, et `Phi^( ''
+    )_e` est le flux énergétique atténué de ce faisceau à son arrivée à la surface
+    de la Terre'
+  examples: []
+  id: 845-29-106
+  language_code: fra
+  notes:
+  - Voir aussi "<a href="IEV845-24-087">épaisseur optique spectrale</a>".
+  - L'unité d'épaisseur optique est un.
+  - Cet article était numéroté 845-09-86 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: épaisseur optique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de l'atmosphère
+dateAccepted: 2018-11-17
+id: be821ddf-74b1-54aa-b1cd-dc73596abb06
+status: valid

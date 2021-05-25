@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{cellule élémentaire à combustible, IEV:485-08-01}} dont l''{{électrolyte,
+    IEV:485-03-01}} est de type carbonates fondus'
+  examples: []
+  id: 485-08-06
+  language_code: fra
+  notes:
+  - Habituellement, des sels à carbonates fondus, soit de lithium/potassium, soit
+    de lithium/sodium, sont utilisés comme électrolyte.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pile à combustible à carbonates fondus
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MCFC
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 83dca2bd-3605-5661-8553-5a4b103e7710
+status: valid

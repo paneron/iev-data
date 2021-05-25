@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 448-13-15
+      original: IEV 448-13-15
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Deprecated
+  definition: intervalle de temps entre I'apparition d'un défaut et son élimination
+  examples: []
+  id: 614-02-26
+  language_code: fra
+  notes:
+  - Cette durée est la plus longue durée avant interruption du courant de défaut par
+    le ou les disjoncteurs concernés par l’élimination du courant de défaut dans l’ouvrage
+    en défaut.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d'élimination d'un défaut
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps d’élimination d’un défaut
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 01662767-54e6-5d17-b39c-5fe3c974bfbb
+status: valid

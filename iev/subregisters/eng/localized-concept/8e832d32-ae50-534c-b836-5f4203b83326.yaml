@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: sum of the times spent by individual persons to carry out a maintenance
+    action
+  examples: []
+  id: 192-07-03
+  language_code: eng
+  notes:
+  - Maintenance man-hours is a measure of resource use, either estimated or actual,
+    and not the real time duration of the maintenance action.
+  - In some applications, this measure is referred to as “maintenance person hours”.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenance man-hours
+    normative_status: preferred
+    type: expression
+  - designation: MMH
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 8e832d32-ae50-534c-b836-5f4203b83326
+status: valid

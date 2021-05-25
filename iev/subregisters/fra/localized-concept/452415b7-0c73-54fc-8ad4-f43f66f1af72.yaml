@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: générateur électrique à base de {{cellule élémentaire à combustible,
+    IEV:485-08-01}} fournissant une {{tension de sortie, IEV:485-13-03}} en courant
+    continu qui ne dépasse pas 60 V et une {{puissance électrique nette, IEV:485-14-03}}
+    continue qui ne dépasse pas 240 VA image::/assets/images/parts/485/485-09-22-Fig-fr.png
+    usemap="#image-map"[] <map name="image-map"> <area title="système à micro-pile
+    à combustible" href="http://www.electropedia.org/iev/iev.nsf/display?openform&amp;ievref=485-09-21"
+    shape="rect" coords="402,427,600,442" target="_self" alt="système à micro-pile
+    à combustible"> </map> *Légende* Cartouche de combustible – Elément amovible qui
+    contient et fournit le combustible au bloc d'alimentation électrique de la micro-pile
+    à combustible ou au réservoir interne, qui n'est pas à re-remplir par l'utilisateur.
+    Les versions possibles sont:* attachée – ayant sa propre enveloppe qui est reliée
+    au dispositif alimenté par le système à micro-pile à combustible;* extérieure
+    – ayant sa propre enveloppe qui forme une partie de l'enveloppe du dispositif
+    alimenté par le système à micro-pile à combustible;* insérée – ayant sa propre
+    enveloppe et étant installée dans l'enveloppe du dispositif alimenté par le système
+    à micro-pile à combustible;* satellite – destinée à être connectée et retirée
+    du bloc d'alimentation électrique de la micro-pile à combustible pour transférer
+    le combustible au réservoir interne du bloc d'alimentation électrique de la micro-pile
+    à combustible). Bloc d'alimentation électrique de la micro-pile à combustible
+    – Système à micro-pile à combustible sans ses cartouches de combustible Chaleur
+    résiduelle – Energie thermique libérée et non récupérée.
+  examples: []
+  id: 485-09-22
+  language_code: fra
+  notes:
+  - Le bloc d'alimentation électrique de la micro-pile à combustible n'inclut pas
+    de cartouche de combustible.
+  reviewDecisionEvent: published
+  terms:
+  - designation: bloc d'alimentation électrique de la micro-pile à combustible
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 452415b7-0c73-54fc-8ad4-f43f66f1af72
+status: valid

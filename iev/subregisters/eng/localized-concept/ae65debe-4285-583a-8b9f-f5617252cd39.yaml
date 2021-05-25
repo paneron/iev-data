@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: average road surface luminance at a specific location in the threshold
+    zone
+  examples: []
+  id: 845-31-089
+  language_code: eng
+  notes:
+  - The threshold zone luminance is expressed in candela per square metre (cd·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: threshold zone luminance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~th~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ae65debe-4285-583a-8b9f-f5617252cd39
+status: valid

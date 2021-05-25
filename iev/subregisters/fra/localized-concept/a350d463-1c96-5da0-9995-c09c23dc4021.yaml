@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: variation du courant de sortie en fonction de la tension appliquée,
+    pour une irradiation donnée, et permettant de déterminer la tension et le courant
+    de saturation
+  examples: []
+  id: 395-03-79
+  language_code: fra
+  notes:
+  - Cette courbe permet de déterminer le point de fonctionnement du détecteur.
+  - Cet article était numéroté 394-38-32 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courbe de saturation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans une chambre d’ionisation à courant
+dateAccepted: 2018-11-17
+id: a350d463-1c96-5da0-9995-c09c23dc4021
+status: valid

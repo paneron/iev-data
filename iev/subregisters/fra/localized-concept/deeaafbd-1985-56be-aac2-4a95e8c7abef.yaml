@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: mesure de la proportion des quantités du stimulus monochromatique et
+    du stimulus achromatique spécifié qui, mélangées additivement, égalisent le stimulus
+    de couleur pris en considération
+  examples: []
+  id: 845-23-064
+  language_code: fra
+  notes:
+  - Dans le cas de stimuli pourpres, le stimulus monochromatique est remplacé par
+    un stimulus dont la chromaticité est représentée par un point sur la limite des
+    pourpres.
+  - La proportion peut être mesurée de différentes façons (voir "<a href="IEV845-23-065">pureté
+    colorimétrique</a>" et "<a href="IEV845-23-065">pureté d'excitation</a>").
+  - Cet article était numéroté 845-03-46 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pureté
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un stimulus de couleur
+dateAccepted: 2018-11-17
+id: deeaafbd-1985-56be-aac2-4a95e8c7abef
+status: valid

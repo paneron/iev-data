@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'élément de transfert qui, à des instants spécifiques, observe la valeur
+    de la variable d''entrée et la convertit en une séquence de fonctions impulsions
+    VOIR: {{351-45-33, IEV:351-45-33}} et Figure 8c).'
+  examples: []
+  id: 351-50-28
+  language_code: fra
+  notes:
+  - Le convertisseur analogique-numérique d'un calculateur de processus agit comme
+    un échantillonneur.
+  - Dans la plupart des cas, les instants spécifiques sont équidistants.
+  - 'Cet article était numéroté 351-28-39 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig8.png[Figure 8 - Impulse-function sequence
+    c) and stepwise function d); Séquence de fonctions impulsions c) et fonction en
+    échelons d)]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: échantillonneur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: c3f88bde-6f1e-5f3a-97e6-8011ccbd1e2a
+status: valid

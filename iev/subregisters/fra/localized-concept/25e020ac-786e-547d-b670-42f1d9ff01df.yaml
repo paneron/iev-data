@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: dispositif d'un réseau local de lignes téléphoniques qui permet de relier
+    une ligne entrante à l'une quelconque des lignes sortantes
+  examples: []
+  id: 722-12-18
+  language_code: fra
+  notes:
+  - Les sous-répartiteurs sont dits primaires ou secondaires selon leur forme et leur
+    importance dans le réseau. Ils sont situés entre le répartiteur principal du commutateur
+    local et un certain nombre de points de concentration.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous-répartiteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: point de sous-répartition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 25e020ac-786e-547d-b670-42f1d9ff01df
+status: valid

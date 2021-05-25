@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: power system based on the integration of a {{fuel cell, IEV:485-08-01}},
+    usually a {{molten carbonate fuel cell, IEV:485-08-06}} or a {{solid oxide fuel
+    cell, IEV:485-08-10}}, and a gas turbine
+  examples: []
+  id: 485-09-19
+  language_code: eng
+  notes:
+  - The system operates by using the fuel cell's thermal energy and residual fuel
+    to drive a gas turbine.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fuel cell/gas turbine system
+    normative_status: preferred
+    type: expression
+  - designation: fuel cell/gas turbine hybrid system
+    type: expression
+dateAccepted: 2020-02-01
+id: b4c5ac87-ec32-5a38-bf9e-b68ce4b39fc6
+status: valid

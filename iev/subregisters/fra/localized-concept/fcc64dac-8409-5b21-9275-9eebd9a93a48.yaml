@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: énergie due à la position dans un champ de forces, égale à l'opposé
+    de la circulation d'une force conservative *`F`* le long d'un arc de courbe C,
+    soit `V = - int_C F * d r`, où d*`r`* est l'élément vectoriel d'arc
+  examples: []
+  id: 113-03-48
+  language_code: fra
+  notes:
+  - 1 Une force est conservative quand le champ *`F`*(*`r`*) est statique et irrotationnel,
+    c'est-à-dire que *rot* *`F`* = *0*, dans un domaine simplement connexe.
+  - 2 La force *`F`* est le gradient de l’énergie potentielle `V`, soit *`F`* = *grad*
+    `V`. Voir aussi «potentiel» (113-03-19).
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie potentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: fcc64dac-8409-5b21-9275-9eebd9a93a48
+status: valid

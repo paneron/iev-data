@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: source de rayonnement incohérent dont les dimensions sont assez petites,
+    par rapport à la distance entre la source et la surface irradiée, pour être négligeables
+    dans les calculs et les mesurages
+  examples: []
+  id: 845-21-033
+  language_code: fra
+  notes:
+  - Une source ponctuelle qui émet uniformément dans toutes les directions est appelée
+    <a href="IEV845-21-098">source ponctuelle uniforme</a> ou source ponctuelle isotrope.
+  - Cet article était numéroté 845-01-19 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: source ponctuelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e1080ec9-0291-55c3-9502-e02cd85362c8
+status: valid

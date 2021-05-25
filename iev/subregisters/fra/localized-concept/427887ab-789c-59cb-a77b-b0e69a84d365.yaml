@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: moyenne du taux instantané de défaillance sur un intervalle de temps
+    donné (`t`~1~, `t`~2~) `bar lambda ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^(
+    t_2) lambda ( t ) d t`
+  examples: []
+  id: 192-05-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux moyen de défaillance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 427887ab-789c-59cb-a77b-b0e69a84d365
+status: valid

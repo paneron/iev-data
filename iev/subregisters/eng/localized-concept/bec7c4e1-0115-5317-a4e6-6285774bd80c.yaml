@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the total radiant flux of all wavelengths emitted by the
+    fluorescent process for an excitation wavelength and the total radiant excitation
+    power irradiating the <a href="IEV845-24-041">fluorescent material</a>
+  examples: []
+  id: 845-21-088
+  language_code: eng
+  notes:
+  - This quantity is also measured in relative terms by comparison to the radiant
+    flux reflected from the perfect reflecting diffuser identically irradiated and
+    viewed for a given excitation wavelength.
+  - Fluorescence is understood to include both fluorescent and phosphorescent phenomena
+    with time constants short enough to be ignored for the application.
+  - The spectral external radiant efficiency of the fluorescent specimen has unit
+    one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral external radiant efficiency of the fluorescent specimen
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: bec7c4e1-0115-5317-a4e6-6285774bd80c
+status: valid

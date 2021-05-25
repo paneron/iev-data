@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: 'pour une matrice complexe *`A`* d''éléments `Aij`, matrice notée *`A`*^H^,
+    égale à la conjuguée de la transposée: *`A`*^H^ = (*`A`*^T^)* ou pour les éléments
+    `(( A^( H ) ))_((i j)) = A_(j i)^( * )`'
+  examples: []
+  id: 102-06-19
+  language_code: fra
+  notes:
+  - Si la matrice *`A`* est réelle, l'adjointe se réduit à la transposée.
+  - L'adjointe d’une matrice *`A`* est notée *`A`*^H^ ou parfois *`A`*^†^. La notation
+    *`A`** est aussi employée en mathématiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: adjointe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: matrice adjointe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f202e707-bdea-5df3-a802-ca81a1959e70
+status: valid

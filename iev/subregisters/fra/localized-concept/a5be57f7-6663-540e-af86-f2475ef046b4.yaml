@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/172
+      original: voir la CEI 60050-131
+      ref: IEC 60050-131
+      relationship:
+        type: related
+  dateAmended: 2001-07-01
+  definition: dispositif à plus de deux bornes
+  examples: []
+  id: 151-12-14
+  language_code: fra
+  notes:
+  - En français, le terme "multipôle" désigne aussi un élément de circuit, un circuit
+    électrique ou un réseau à `n` bornes. Lorsque `n` est spécifié, on emploie un
+    terme approprié tel que "multipôle à `n` bornes", "tripôle" ...
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multipôle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: a5be57f7-6663-540e-af86-f2475ef046b4
+status: valid

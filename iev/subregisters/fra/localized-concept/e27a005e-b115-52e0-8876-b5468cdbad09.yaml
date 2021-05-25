@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: plus petite valeur d'une fonction dans un intervalle donné de valeurs
+    de son argument
+  examples: []
+  id: 103-05-18
+  language_code: fra
+  notes:
+  - Dans le cas d'une fonction périodique, l'intervalle donné a une étendue égale
+    à la période.
+  - Le terme valeur de creux est surtout employé pour la valeur minimale globale d'une
+    fonction du temps.
+  - Une valeur minimale globale de la fonction `f` est notée `f_v` ou `overset(⌣)(overset(⌣)(f))`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur minimale globale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur de creux
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e27a005e-b115-52e0-8876-b5468cdbad09
+status: valid

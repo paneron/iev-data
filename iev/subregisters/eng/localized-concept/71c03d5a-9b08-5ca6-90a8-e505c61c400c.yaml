@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 441-17-17
+      original: 441-17-17
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2010-10-01
+  definition: current that a circuit or a switching device in the closed position
+    can carry during a specified short time under prescribed conditions of use and
+    behaviour
+  examples: []
+  id: 445-04-02
+  language_code: eng
+  notes: []
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: limiting short-time current
+    normative_status: preferred
+    type: expression
+  - designation: short-time withstand current
+    type: expression
+dateAccepted: 2010-10-01
+id: 71c03d5a-9b08-5ca6-90a8-e505c61c400c
+status: valid

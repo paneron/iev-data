@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the sum of the areas of the ceiling and the plane of the
+    luminaires and the sum of the area of the walls bounded by the ceiling and the
+    plane of the luminaires, used in the calculation of the utilization factor or
+    utilance
+  examples: []
+  id: 845-29-073
+  language_code: eng
+  notes:
+  - 'The ceiling cavity index is given by the formula
+
+
+    `K_c = ((a b))/((h_c ( a + b )))`
+
+
+    where `a` and `b` are the dimensions of the sides of the room and `h`~c~ is the
+    distance from the ceiling to the plane of the luminaires.'
+  - See also "<a href="IEV845-29-075">floor cavity index</a>" and "<a href="IEV845-29-071">room
+    index</a>".
+  - The ceiling cavity index has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ceiling cavity index
+    normative_status: preferred
+    type: expression
+  - designation: '`K`~c~
+
+      `K`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 73339aaf-3d4c-50bf-a6a3-7e227ffb63f8
+status: valid

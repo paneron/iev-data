@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: mode when the {{fuel cell power system, IEV:485-09-01}} is operated
+    at its {{rated power, IEV:485-14-04}}
+  examples: []
+  id: 485-11-04
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: full load operation
+    normative_status: preferred
+    type: expression
+  - designation: base load operation
+    type: expression
+dateAccepted: 2020-02-01
+id: 8ec18885-cd16-57df-b89e-8ff38b56919e
+status: valid

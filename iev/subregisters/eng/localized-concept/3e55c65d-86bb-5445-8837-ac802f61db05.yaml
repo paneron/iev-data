@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: matrix expressing the dependence of the branch currents towards the
+    nodes on the node electric potentials relative to a reference node
+  examples: []
+  id: 131-15-17
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bus admittance matrix
+    normative_status: preferred
+    type: expression
+  - designation: node admittance matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 3e55c65d-86bb-5445-8837-ac802f61db05
+status: valid

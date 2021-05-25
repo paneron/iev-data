@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: 'duration `t`~SU~ between the application of the supply voltage to the
+    oscillator and the time when the RF output signal of desired frequency controlled
+    by the quartz resonator fulfils the following specified conditions: . for quasi-sinusoidal
+    waveforms, the signal envelope is 90 % of the steady-state peak-to-peak amplitude;
+    . for pulse waveforms, the output pulse sequence is periodical near the steady-state
+    frequency while its low level `V`~LO~ remains below `V`~OL~ and its high level
+    `V`~HI~ exceeds `V`~OH~ permanently, where `V`~OH~ and `V`~OL~ are defined by
+    the applicable logic family'
+  examples: []
+  id: 561-03-34
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: start-up time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 18e3d866-cd09-59e9-9d92-cccce8ffad7a
+status: valid

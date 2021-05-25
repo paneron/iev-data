@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: rapport de la vitesse de la lumière dans le vide à la norme du vecteur
+    vitesse de groupe
+  examples: []
+  id: 731-03-30
+  language_code: fra
+  notes:
+  - 'L''indice de groupe est lié à l''indice de réfraction `n` par la formule:
+
+
+    `N = n - lambda ((d n))/((d lambda))`
+
+
+    où `λ` est la longueur d''onde.'
+  - Chaque mode d'un guide d'ondes a son propre indice de groupe.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de groupe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 03bbb040-a0d5-50cd-806c-57ff4327040a
+status: valid

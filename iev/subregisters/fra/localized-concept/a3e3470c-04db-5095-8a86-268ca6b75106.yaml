@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: entité appartenant à un ensemble donné
+  examples: []
+  id: 102-01-03
+  language_code: fra
+  notes:
+  - La notation `x` ∈ `A` exprime que l'entité `x` est un élément de l'ensemble `A`.
+    La notation `x` ∉ `A` exprime que l'entité `x` n'est pas un élément de l'ensemble
+    `A`. On dit aussi que `x` appartient à `A` ou n'appartient pas à `A`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément d'un ensemble
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: élément
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a3e3470c-04db-5095-8a86-268ca6b75106
+status: valid

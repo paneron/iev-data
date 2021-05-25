@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: '2.6'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 2.6 MOD
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: modified
+  dateAmended: 2010-01-01
+  definition: description détaillée d'un mesurage conformément à un ou plusieurs principes
+    de mesure et à une méthode de mesure donnée, fondée sur un modèle et incluant
+    tout calcul destiné à obtenir un résultat de mesure
+  examples: []
+  id: 112-04-05
+  language_code: fra
+  notes:
+  - Une procédure de mesure est habituellement documentée avec assez de détails pour
+    permettre à un opérateur d'effectuer un mesurage.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: procédure de mesure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: procédure opératoire
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: mode opératoire de mesure
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: cf01ca73-d1f4-5097-adcb-b94a0de1f31d
+status: valid

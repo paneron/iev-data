@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: effective radiant exposure with the spectral radiant exposure, `Hλ`,
+    spectrally weighted with the ultraviolet hazard spectral weighting function, `S`~UV~(`λ`)
+  examples: []
+  id: 845-26-053
+  language_code: eng
+  notes:
+  - The wavelength range for ultraviolet hazard radiant exposure is specified in ICNIRP-recommendations
+    as `λ`~1~ = 180 nm to `λ`~2~ = 400 nm.
+  - The ultraviolet hazard radiant exposure is expressed in joule per square metre
+    (J·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ultraviolet hazard radiant exposure
+    normative_status: preferred
+    type: expression
+  - designation: '`HS`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 081d3b44-7420-5924-90a7-dd220ad5bf0b
+status: valid

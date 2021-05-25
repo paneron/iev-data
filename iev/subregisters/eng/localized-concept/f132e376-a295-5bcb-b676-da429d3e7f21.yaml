@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '8.1'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 8.1, modified – The “domain” has been transferred
+        to the term attribute "specific use".
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: The “domain” has been transferred to the term attribute "specific
+          use".
+        type: modified
+  dateAmended: 2013-11-01
+  definition: set of {{provision, IEV:901-05-01}}s that comprises the substance of
+    a {{normative document, IEV:901-02-01}}
+  examples: []
+  id: 901-05-11
+  language_code: eng
+  notes:
+  - In the case of a {{standard, IEV:901-02-02}}, the body comprises general elements
+    relating to its subject and definitions, and main elements conveying provisions.
+  - Parts of the body of a normative document may take the form of annexes (“normative
+    annexes”) for reasons of convenience, but other (informative) annexes may be {{additional
+    elements, IEV:901-05-12}} only.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: body
+    normative_status: preferred
+    type: expression
+    usage_info: of a normative document
+dateAccepted: 2013-11-01
+id: f132e376-a295-5bcb-b676-da429d3e7f21
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} qui est prévu pour {{fonctionner,
+    IEV:447-02-04}} lorsque sa {{grandeur caractéristique, IEV:447-07-01}} varie d''une
+    quantité donnée par unité de temps'
+  examples:
+  - Relais à dérivée de fréquence.
+  id: 447-01-26
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais à dérivée de ...
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c27ea906-7681-5e03-bb50-bfb530db7ac7
+status: valid

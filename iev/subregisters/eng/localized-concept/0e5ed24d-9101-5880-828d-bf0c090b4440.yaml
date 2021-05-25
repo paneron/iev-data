@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'table of all consecutive states of a sequential circuit, listing for
+    any state and any value of the input variable the resulting following state and
+    the value of the output variable SEE: Figure 21.'
+  examples: []
+  id: 351-53-02
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-29-06 in IEC 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 21 – State transition table of a vending-machine*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: state transition table
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 0e5ed24d-9101-5880-828d-bf0c090b4440
+status: valid

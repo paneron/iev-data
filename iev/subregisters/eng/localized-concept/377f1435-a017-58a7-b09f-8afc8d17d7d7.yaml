@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'for a proportional plus integral element the input and output variable
+    of which are of the same kind, the duration of the time interval required by the
+    step response to reach twice the value that occurred immediately after the step
+    was applied SEE: Figure 17.'
+  examples: []
+  id: 351-50-12
+  language_code: eng
+  notes:
+  - "The reset time is given by\n\n`T_i = ((K_Ρ))/((K_I))`\n\nwhere<table>\r\n<tr>\n\
+    <td>\n`K`~I~\n</td>\n<td>is the integral action coefficient;</td>\n</tr>\r\n<tr>\n\
+    <td>\n`K`~P~\n</td>\n<td>is the proportional action coefficient;</td>\n</tr>\r\
+    \n<tr>\n<td>\n`T`~i~\n</td>\n<td>is the reset time.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-23 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reset time
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~i~'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 377f1435-a017-58a7-b09f-8afc8d17d7d7
+status: valid

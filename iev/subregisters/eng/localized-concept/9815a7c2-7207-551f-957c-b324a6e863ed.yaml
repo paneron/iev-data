@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: quantity `Κ = - (1)/(V) ((d V))/((d p))` characterizing the relative
+    variation of volume `V` with pressure `p` under given conditions
+  examples: []
+  id: 113-03-70
+  language_code: eng
+  notes:
+  - 1 See the thermodynamic concepts of isothermal compressibility and isentropic
+    compressibility.
+  - 2 The coherent SI unit of compressibility is pascal to the power minus one, Pa^−1^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: compressibility
+    normative_status: preferred
+    type: expression
+  - designation: bulk compressibility
+    normative_status: preferred
+    type: expression
+  - designation: '`Κ`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 9815a7c2-7207-551f-957c-b324a6e863ed
+status: valid

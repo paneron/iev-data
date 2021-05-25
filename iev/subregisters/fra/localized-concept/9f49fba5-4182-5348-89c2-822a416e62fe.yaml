@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: flux magnétique virtuel à travers une surface limitée par un contour
+    C `Phi_C = Phi + mu_0 lambda^2 underset(C)( int ) J * d l` où `Φ` est le flux
+    magnétique à travers la surface, `λ` la profondeur de pénétration, *`J`* la densité
+    de courant supraconducteur, `μ`~0~ la constante magnétique et d*`l`* un élément
+    vectoriel d'arc
+  examples: []
+  id: 815-10-15
+  language_code: fra
+  notes:
+  - Le fluxoïde dans un supraconducteur est un multiple du quantum de flux `Φ`~0~.
+  - Le fluxoïde est parfois utilisé à la place du fluxon qui est loin de la surface
+    d’un supraconducteur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fluxoïde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9f49fba5-4182-5348-89c2-822a416e62fe
+status: valid

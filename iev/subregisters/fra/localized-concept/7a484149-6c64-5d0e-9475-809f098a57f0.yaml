@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 704-01-03
+      link: https://webstore.iec.ch/publication/240
+      original: CEI 60050-704:1993, 704-01-03, modifiée – La définition a été reformulée
+        pour l'adapter à l'usage dans la technologie de commande.
+      ref: IEC 60050-704:1993
+      relationship:
+        modification: La définition a été reformulée pour l'adapter à l'usage dans
+          la technologie de commande.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: signal dont chaque paramètre informationnel représente directement la
+    grandeur variable respective
+  examples: []
+  id: 351-41-24
+  language_code: fra
+  notes:
+  - 'Un signal analogique peut être un signal continu ou discret ainsi qu’un signal
+    à temps continu ou à temps discret. Exemples: la pression dans un élément de commande
+    final pneumatique avec paramètre informationnel continu et à temps continu (valeur
+    de la pression) ainsi qu’un signal impulsionnel modulé en position comme signal
+    de sortie d’un régulateur informatisé.'
+  - Cet article était numéroté 351-21-53 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal analogique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 7a484149-6c64-5d0e-9475-809f098a57f0
+status: valid

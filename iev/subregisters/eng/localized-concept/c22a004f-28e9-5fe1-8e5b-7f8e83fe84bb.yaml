@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: relative decrease in radiant flux caused by absorption and scattering,
+    expressed by the relative density of the spectral radiant flux, `Φ`~e,~`λ`(`λ`),
+    with respect to propagation length, `l`, of a collimated beam at a point in an
+    absorbing and scattering medium `mu ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda
+    ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))`
+  examples: []
+  id: 845-24-083
+  language_code: eng
+  notes:
+  - The spectral linear attenuation coefficient is expressed in metre to the power
+    minus one (m^−1^).
+  - This entry was numbered 845-04-76 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral linear attenuation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: c22a004f-28e9-5fe1-8e5b-7f8e83fe84bb
+status: valid

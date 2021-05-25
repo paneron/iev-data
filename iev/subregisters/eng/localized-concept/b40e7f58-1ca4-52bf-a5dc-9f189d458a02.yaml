@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2013-11-01
+  definition: 'difference between the reference variable and the feedback variable
+    SEE: Figure 2.'
+  examples: []
+  id: 351-48-04
+  language_code: eng
+  notes:
+  - As the variable meant at this item is equivalent to the negative of the quantity
+    designated `error` `of` `measurement` or `error` as used in metrology (see item
+    3.10 of International Vocabulary of Basic and General Terms in Metrology (VIM),
+    3^rd^ Edition 2007) and of the quantity designated `absolute` `error` as used
+    as well in metrology (see entry 311-01-05 of IEC 60050-300:2001), the term `error`
+    `variable` is deprecated in control technology (see IEC 60027-6:2006-12).
+  - 'This entry was numbered 351-27-04 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control difference variable
+    normative_status: preferred
+    type: expression
+  - designation: error variable
+    normative_status: deprecated
+    type: expression
+  - designation: '`e`'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: b40e7f58-1ca4-52bf-a5dc-9f189d458a02
+status: valid

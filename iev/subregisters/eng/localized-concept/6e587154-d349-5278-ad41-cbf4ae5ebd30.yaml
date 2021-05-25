@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.7'
+      original: IEC Guide 116:2010, 3.7
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: past {{hazardous event, IEV:903-01-04}}
+  examples: []
+  id: 903-01-06
+  language_code: eng
+  notes:
+  - An incident that has occurred and resulted in harm can be referred to as an accident.
+    Whereas an incident that has occurred and that did not result in harm can be referred
+    to as a near miss occurrence.
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: incident
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 6e587154-d349-5278-ad41-cbf4ae5ebd30
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: intervalle de temps entre le début du défaut et la fin de la durée de
+    coupure du disjoncteur
+  examples: []
+  id: 448-13-14
+  language_code: fra
+  notes:
+  - 'La durée avant interruption d''un courant de défaut est constituée de la durée
+    de fonctionnement de la protection et de la durée de coupure du disjoncteur.
+
+
+    Se reporter à la figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-fr.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée avant interruption d'un courant de défaut
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 652f7cd8-e672-5444-a937-c5afe9dcdd19
+status: valid

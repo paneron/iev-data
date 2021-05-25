@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the exchangeable power at the terminals of a one port device due solely
+    to its sources of noise
+  examples: []
+  id: 702-08-53
+  language_code: eng
+  notes:
+  - A receiving antenna can be regarded as a one-port device when viewed from its
+    output port.
+  - If the impedance of the device has a constant real part at thermodynamic temperature
+    `T` and if quantum effects are neglected, the exchangeable noise power spectral
+    density due solely to thermal noise of the device is independent of frequency
+    and equal to `kT` where `k` is Boltzmann's constant.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (exchangeable) noise power
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: c440bc18-7848-5d5b-a114-5ba359781e13
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: nom ou adresse d'une ressource Internet, mémorisé sur le site d'un utilisateur
+    pour faciliter un accès ultérieur
+  examples: []
+  id: 732-08-15
+  language_code: fra
+  notes:
+  - Un signet contient généralement une adresse URL, un nom donné à la ressource par
+    l'utilisateur, et éventuellement des notes de celui-ci
+  - Les synonymes sont utilisés par des logiciels de navigation particuliers.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: favori
+    gender: m
+    plurality: singular
+    type: expression
+  - designation: marque-page
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: ab4f770a-2073-599e-b426-b7aaf85edc71
+status: valid

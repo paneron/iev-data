@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - - clause: 13-4
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-4
+      ref: IEC 80000-13:2008
+      relationship:
+        type: identical
+  definition: moyenne dans le temps de la longueur d'une {{file d'attente, IEV:171-02-33}}
+  examples: []
+  id: 171-02-34
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: longueur moyenne de file d'attente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a948aecf-ec2f-5c47-a1d4-b5caba4bf304
+status: valid

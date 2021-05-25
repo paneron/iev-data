@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: critère utilisé pour déterminer le courant critique `I`~c~, basé sur
+    le champ électrique `E` ou sur la résistivité `ρ`
+  examples: []
+  id: 815-12-02
+  language_code: fra
+  notes:
+  - On utilise souvent `E` = 10 μV/m ou `E` = 100 μV/m comme critère de champ électrique
+    et `ρ` = 10^−14^ Ω·m ou `ρ` = 10^−13^ Ω·m comme critère de résistivité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: critère de courant critique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0fb77d24-8d85-5117-9374-9b79a89c8de1
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: erreur qu'un transformateur de courant introduit dans la mesure d'un
+    courant et qui provient de ce que le rapport de transformation n'est pas égal
+    au rapport de transformation assigné
+  examples: []
+  id: 321-01-21
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: erreur de courant
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: erreur de rapport
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 5cc5cbc7-b366-5249-938b-615c2afad52d
+status: valid

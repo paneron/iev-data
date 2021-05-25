@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the tensor quantity giving the relation between the space vectors representing
+    the magnetic flux density and the magnetic field strength inside a material: `(
+    [[ mu_((xx)),mu_((xy)),mu_((xz))],[underset(_)(underset(_)(mu)) = mu_((yx)),mu_((yy)),mu_((yz))],[
+    mu_((zx)),mu_((zy)),mu_((zz))]] )`'
+  examples: []
+  id: 221-03-02
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tensor permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`underset(_)(underset(_)(mu))`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: e9f6fee8-c7de-526f-a8fd-fc5bdbb87c3b
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{polarisation, IEV:485-15-01}} causée par la diffusion lente des endroits
+    de réaction dans l''{{électrode, IEV:485-02-01}}, ou la diffusion lente des produits
+    provenant des électrodes de la {{cellule élémentaire à combustible, IEV:485-08-01}},
+    ou les deux'
+  examples: []
+  id: 485-15-05
+  language_code: fra
+  notes:
+  - La polarisation de concentration est plus importante aux densités de courant élevées
+    et peut conduire à une diminution soudaine de la tension de la pile.
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarisation de concentration
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans les piles à combustible
+  - designation: perte de transport de masse
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: perte de concentration
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3f152184-9cb8-539b-857c-a6b42cc755f6
+status: valid

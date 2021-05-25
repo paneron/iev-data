@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: essai au cours duquel des cas d'essai sont choisis uniquement par connaissance
+    de la spécification fonctionnelle de l'entité soumise à essai
+  examples: []
+  id: 192-09-13
+  language_code: fra
+  notes:
+  - Les essais fonctionnels ont pour objet d’atteindre un niveau défini de couverture
+    du domaine en entrée de l’entité soumise à essai.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai fonctionnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: essai par boîte noire
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 38a547cc-007d-581e-ae84-147f3c920ea2
+status: valid

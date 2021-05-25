@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: unité fonctionnelle qui fournit des valeurs de temps absolues, relatives
+    ou incrémentales
+  examples: []
+  id: 351-54-16
+  language_code: fra
+  notes:
+  - L'entrée des valeurs de temps dans le système à calculateur de processus peut
+    être faite par scrutation ou par interruption directe d'une tâche en cours d'exécution.
+  - Cet article était numéroté 351-30-18 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temporisateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: horloge en temps réel
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: d428e998-89a2-56a5-886f-1ad271004fd8
+status: valid

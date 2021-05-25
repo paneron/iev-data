@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: suite d'{{éléments de données, IEV:171-02-01}} de même nature, tels
+    des {{caractères, IEV:702-05-10}} ou des {{éléments binaires, IEV:171-02-10}},
+    traitée comme un tout
+  examples:
+  - '{{Octet, IEV:171-02-12}}, {{mot, IEV:171-02-27}}.'
+  id: 171-02-26
+  language_code: fra
+  notes:
+  - Une chaîne peut être vide ou peut contenir un seul élément.
+  - Une chaîne est en général placée entre des {{délimiteurs, IEV:171-02-39}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: chaîne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3f219eb6-becb-5184-a55e-c56619aba432
+status: valid

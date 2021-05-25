@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: qualifie un mode d'exploitation selon lequel l'établissement des communications
+    se fait dans les deux sens
+  examples: []
+  id: 701-03-21
+  language_code: fra
+  notes:
+  - Le volume de trafic écoulé n'est pas nécessairement le même dans les deux sens.
+  - Il convient de ne pas utiliser le terme "à double sens" pour qualifier le sens
+    de transfert des informations des usagers (qui est désigné par le terme "{{bilatéral,
+    IEV:701-03-19}}").
+  reviewDecisionEvent: published
+  terms:
+  - designation: à double sens
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: mixte
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 088f7407-9cd6-5030-8dc2-7a9eecad9d8f
+status: valid

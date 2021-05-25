@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: at a given frequency, quotient of a dynamic field quantity (such as
+    force, sound pressure) by a kinematic field quantity (such as vibration velocity,
+    particle velocity), or quotient of a voltage by a current
+  examples: []
+  id: 801-25-13
+  language_code: eng
+  notes:
+  - The term impedance is generally applied to a linear system and to steady sinusoidal
+    signals.
+  - In the case of a transient, impedance as a function of frequency is the quotient
+    of the respective Fourier or Laplace transforms.
+  - An impedance is the quotient of two quantities the product of which has the dimensions
+    of power or power per unit area.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impedance
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 116f64a0-990a-50c3-ad68-7a32ff7472dc
+status: valid

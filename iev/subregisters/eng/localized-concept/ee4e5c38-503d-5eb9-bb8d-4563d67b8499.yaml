@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-31
+      original: 601-01-31 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: voltage between a line conductor and reference earth at a given point
+    of an electric circuit
+  examples: []
+  id: 195-05-03
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: line-to-earth voltage
+    normative_status: preferred
+    type: expression
+  - designation: line-to-ground voltage
+    type: expression
+  - designation: phase-to-earth voltage
+    type: expression
+dateAccepted: 1998-08-01
+id: ee4e5c38-503d-5eb9-bb8d-4563d67b8499
+status: valid

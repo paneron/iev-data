@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: commande de flux telle que la rapidité à laquelle les données sont émises
+    d'un terminal de données soit au plus égale à la rapidité à laquelle les données
+    peuvent être reçues par le terminal opposé
+  examples: []
+  id: 721-19-31
+  language_code: fra
+  notes:
+  - Cette procédure peut s'appliquer entre un terminal de données et le centre de
+    commutation de données adjacent ou entre deux terminaux de données. Dans ce dernier
+    cas, la rapidité de transfert peut être commandée en fonction des exigences du
+    réseau ou du terminal de données opposé.
+  - Cette procédure peut être mise en oeuvre d'une façon indépendante sur les deux
+    sens de transmission de données, permettant ainsi des rapidités de transfert de
+    données différentes dans ces deux sens.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande de flux d'émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: bfd1745c-7b9f-5e47-86fe-a9b6f4c25616
+status: valid

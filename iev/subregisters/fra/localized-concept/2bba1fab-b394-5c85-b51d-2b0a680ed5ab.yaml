@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: quadripôle passif dont la puissance à l'accès de sortie est inférieure
+    à la puissance à l'accès d'entrée et dont le rapport des tensions ou des courants
+    électriques de sortie et d'entrée est constant
+  examples: []
+  id: 131-12-80
+  language_code: fra
+  notes:
+  - L'affaiblisseur ou atténuateur en tant que dispositif biporte est défini dans
+    la CEI 50050-726.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: atténuateur idéal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: affaiblisseur idéal
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 2bba1fab-b394-5c85-b51d-2b0a680ed5ab
+status: valid

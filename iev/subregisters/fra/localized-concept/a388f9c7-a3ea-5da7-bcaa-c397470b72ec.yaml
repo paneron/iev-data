@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: marque attribuée à un instant au moyen d'une échelle de temps spécifiée
+  examples: []
+  id: 113-01-12
+  language_code: fra
+  notes:
+  - 1 Sur une échelle de temps formée d'échelons successifs, deux instants distincts
+    peuvent être exprimés par la même date (voir la Note 1 du terme «échelle de temps»
+    en {{113-01-11, IEV:113-01-11}}).
+  - 2 Par rapport à l'échelle de temps spécifiée, on peut aussi considérer la date
+    d'un instant comme la durée entre l'origine de l'échelle de temps et cet instant.
+  - 3 Dans le langage courant, le terme «date» est principalement employé lorsque
+    l'échelle de temps est un calendrier en tant que suite de jours.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: date
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: a388f9c7-a3ea-5da7-bcaa-c397470b72ec
+status: valid

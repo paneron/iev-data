@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: perte ou gain irrémédiable d'un ensemble de créneaux temporels élémentaires
+    consécutifs dans un signal numérique, effectué par une commande afin que le signal
+    puisse s'accommoder d'un débit numérique différent de son débit initial propre
+  examples: []
+  id: 704-18-13
+  language_code: fra
+  notes:
+  - 'La longueur d''un glissement commandé peut être précisée, par exemple: glissement
+    d''octet commandé, glissement de trame commandé.'
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: glissement commandé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: saut
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: ec2d02e5-bc3e-591f-aa7e-9a0602df3c2c
+status: valid

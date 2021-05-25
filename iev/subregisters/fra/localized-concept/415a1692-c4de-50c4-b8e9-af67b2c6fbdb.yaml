@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: distance d'exposition par rapport à une lampe ou un système de lampes
+  examples: []
+  id: 845-26-070
+  language_code: fra
+  notes:
+  - Pour les évaluations de sécurité des lampes, la distance d'exposition est la distance
+    la plus proche conforme à l'application de la lampe ou du système de lampes. Pour
+    les lampes avec un rayonnement dans toutes les directions, la distance est mesurée
+    à partir du centre du filament ou de la source d'arc. Pour les lampes à réflecteur,
+    la distance est mesurée à partir du bord extérieur de la lentille ou du plan qui
+    définit l'extrémité du réflecteur dans le cas d'un réflecteur sans lentille.
+  - La distance d'exposition est exprimée en mètres (m).
+  reviewDecisionEvent: published
+  terms:
+  - designation: distance d'exposition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 415a1692-c4de-50c4-b8e9-af67b2c6fbdb
+status: valid

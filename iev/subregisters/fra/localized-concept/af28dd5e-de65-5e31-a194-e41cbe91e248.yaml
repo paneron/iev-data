@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{circuit superposé, IEV:704-03-05}} constitué en utilisant en parallèle
+    les deux conducteurs de chacun des deux circuits métalliques'
+  examples:
+  - Un {{circuit télégraphique, IEV:721-11-04}} superposé à deux {{circuits téléphoniques,
+    IEV:722-06-07}}.
+  id: 704-03-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit fantôme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: circuit combiné
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: af28dd5e-de65-5e31-a194-e41cbe91e248
+status: valid

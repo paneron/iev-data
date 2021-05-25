@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: electronic device, being part of the control gear, designed for controlling
+    the electric energy to the LED light source
+  examples: []
+  id: 845-28-057
+  language_code: eng
+  notes:
+  - The purpose of controlling the electric energy can be colour mixing, responding
+    to depreciating luminous flux, and other features.
+  - In LEDsi modules, the control unit of the control gear is part of the LED module
+    and separate from the power supply of the control gear.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control unit of the control gear
+    normative_status: preferred
+    type: expression
+    usage_info: for an LED light source
+  - designation: control unit of the controlgear
+    type: expression
+    usage_info: for an LED light source
+dateAccepted: 2020-12-01
+id: b8662d21-026e-5127-9084-7f94cfa0dd5d
+status: valid

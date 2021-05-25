@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.34
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.34
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: transmission of the same message to a group of receivers, identified
+    by their group address
+  examples: []
+  id: 811-37-66
+  language_code: eng
+  notes:
+  - The term "multicast" is used even if the group includes all receivers.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multicast
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 28858f76-59ad-54b7-aa77-b349778896f0
+status: valid

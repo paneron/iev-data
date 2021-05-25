@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: signal annonçant au conducteur d'une circulation en traction électrique
+    l'approche d'une section de ligne à franchir courant coupé, si nécessaire
+  examples: []
+  id: 821-02-120
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal à distance "coupez courant"
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: signal "sectionnement à ... mètres"
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f1de7f8e-4962-547b-b1a5-23813909355d
+status: valid

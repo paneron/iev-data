@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: mode when the {{fuel cell power system, IEV:485-09-01}} is isolated
+    from any utility power grid and individually operated
+  examples: []
+  id: 485-11-06
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grid-independent operation
+    normative_status: preferred
+    type: expression
+  - designation: isolated operation
+    type: expression
+dateAccepted: 2020-02-01
+id: adb85830-3ba3-5497-a50c-db9977215d56
+status: valid

@@ -1,0 +1,70 @@
+data:
+  authoritativeSource:
+  - - clause: '1.1'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC Guide 99:2007, 1.1, modified – Deletion of NOTE 3 and NOTE
+        4, and some changes in the other notes.
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        modification: Deletion of NOTE 3 and NOTE 4, and some changes in the other
+          notes.
+        type: modified
+  dateAmended: 2019-01-01
+  definition: property of a phenomenon, body, or substance, where the property has
+    a magnitude that can be expressed by means of a number and a reference
+  examples: []
+  id: 112-01-01
+  language_code: eng
+  notes:
+  - "The generic concept of quantity can be divided into several levels of specific\
+    \ concepts, as shown in the following table. The left hand side of the table shows\
+    \ specific concepts under ‘quantity’. These are generic concepts for the individual\
+    \ quantities in the right hand column\n\n<table style=\"width: 686px;\" border=\"\
+    solid\">\r\n<tbody>\r\n<tr>\r\n<td rowspan=\"2\" style=\"width: 99px;\">\n\nlength,\
+    \ `l`\r\n</td>\r\n<td style=\"width: 174px;\">\n\nradius, `r`\r\n</td>\r\n<td\
+    \ style=\"width: 370px;\">\n\nradius of circle A, `r`~A ~or `r`(A)\r\n</td>\r\n\
+    </tr>\r\n<tr>\r\n<td style=\"width: 174px;\">\n\nwavelength, `λ`\r\n</td>\r\n\
+    <td style=\"width: 370px;\">\n\nwavelength of the sodium D radiation, `λ`~D~ or\
+    \ `λ`(D; Na)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td rowspan=\"2\" style=\"width: 99px;\"\
+    >\n\nenergy, `E`\r\n</td>\r\n<td style=\"width: 174px;\">\n\nkinetic energy, `T`\r\
+    \n</td>\r\n<td style=\"width: 370px;\">\n\nkinetic energy of particle `i` in a\
+    \ given system, `Ti`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 174px;\"\
+    >\n\nheat, `Q`\r\n</td>\r\n<td style=\"width: 370px;\">\n\nheat transferred to\
+    \ a sample `i` of water, `Qi`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"2\" style=\"\
+    width: 273px;\">\n\nelectric charge, `Q`\r\n</td>\r\n<td style=\"width: 370px;\"\
+    >\n\nelectric charge of the proton, `e`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"\
+    2\" style=\"width: 273px;\">\n\nelectric resistance, `R`\r\n</td>\r\n<td style=\"\
+    width: 370px;\">\n\nelectric resistance of resistor `i`, `Ri`\r\n</td>\r\n</tr>\r\
+    \n<tr>\r\n<td colspan=\"2\" style=\"width: 273px;\">\n\namount-of-substance concentration\
+    \ of entity B, `c`~B~\r\n</td>\r\n<td style=\"width: 370px;\">\n\namount-of-substance\
+    \ concentration of ethanol in wine sample `i`, `ci`(C~2~H~5~OH)\r\n</td>\r\n</tr>\r\
+    \n<tr>\r\n<td colspan=\"2\" style=\"width: 273px;\">\n\nnumber of entities, `N`\r\
+    \n</td>\r\n<td style=\"width: 370px;\">\n\nnumber of turns in a given coil `i`,\
+    \ `Ni`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"2\" style=\"width: 273px;\"\
+    >\n\nRockwell C hardness, HRC\r\n</td>\r\n<td style=\"width: 370px;\">\n\nRockwell\
+    \ C hardness of steel sample `i`, HRC`i`\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+  - The reference can be a {{unit of measurement, IEV:112-01-14}}, a measurement procedure,
+    a reference material (ISO/IEC Guide 99:2007, 5.13), or a combination of such.
+    The magnitude of a quantity is called "value of the quantity" (see {{IEV 112-01-28,
+    IEV:112-01-28}}). In the frequent case of a unit of measurement, the magnitude
+    is the product of a number and the unit of measurement.
+  - A quantity as defined here is a {{scalar, IEV:102-02-18}}. However, a vector or
+    a tensor whose components are quantities is also considered to be a quantity (see
+    {{IEV 102-03-21, IEV:102-03-21}}, vector quantity, and {{IEV 102-03-40, IEV:102-03-40}},
+    tensor quantity).
+  - The concept of quantity may be generically divided into, e.g. physical quantity,
+    chemical quantity, biological quantity, etc., or {{base quantity, IEV:112-01-08}}
+    and {{derived quantity, IEV:112-01-10}}.
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantity
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`'
+    international: true
+    type: symbol
+dateAccepted: 2019-01-01
+id: f41d4e5a-351c-5765-8446-17325c670469
+status: valid

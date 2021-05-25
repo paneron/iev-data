@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: longueur décrivant la variation spatiale du paramètre d'ordre supraconducteur
+    dans la théorie de Ginzburg-Landau
+  examples: []
+  id: 815-10-32
+  language_code: fra
+  notes:
+  - '`ξ`, appelée longueur de cohérence Ginzburg-Landau, est fonction de la température
+    et sensiblement égale à la longueur de cohérence BCS, `ξ`~0~ à 0 K pour un supraconducteur
+    propre ({{815-10-35, IEV:815-10-35}}).'
+  - '`ξ` = (`Φ`~0~/2π`μ`~0~`H`~c2~)^1/2^, où `Φ`~0~ est le quantum de flux, `μ`~0~
+    est la constante magnétique et `H`~c2~ le champ magnétique critique supérieur.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: longueur de cohérence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 52922463-d492-513e-b37e-512398fe2812
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: inability to meet the load, due to a generation capacity shortfall or
+    other reasons
+  examples: []
+  id: 692-01-16
+  language_code: eng
+  notes:
+  - Generation capacity shortfall can result from {{forced outage, IEV:692-04-05}}
+    of a generating unit, or demand exceeding designed capacity.
+  - Definition {{IEV 603-04-43, IEV:603-04-43}} "sudden reduction of the power demand"
+    is inconsistent with this and related terms, e.g. loss of load probability.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loss of load
+    normative_status: preferred
+    type: expression
+    usage_info: in an electric power system
+dateAccepted: 2017-12-01
+id: 4dc3323f-f75a-5373-80e4-40e76d24cea8
+status: valid

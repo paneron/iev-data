@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '1.5'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.5 MOD
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: modified
+  dateAmended: 2010-01-01
+  definition: grandeur définie, dans un système de grandeurs, en fonction des grandeurs
+    de base
+  examples: []
+  id: 112-01-10
+  language_code: fra
+  notes:
+  - Par exemple, dans un système de grandeurs ayant pour grandeurs de base la longueur
+    et la masse, la masse volumique est une grandeur dérivée définie comme le quotient
+    d'une masse par un volume (longueur au cube).
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur dérivée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: 37a86c97-5bc9-5149-b336-2655ea15624a
+status: valid

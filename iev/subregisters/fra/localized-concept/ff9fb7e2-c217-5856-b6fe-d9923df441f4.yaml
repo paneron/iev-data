@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'pour un élément à action proportionnelle et par dérivation avec retard
+    additionnel du premier ordre, rapport du gain maximal résultant d''une action
+    proportionnelle et par dérivation, avec un retard du premier ordre, au gain dû
+    à la seule action proportionnelle VOIR: Figure 18.'
+  examples: []
+  id: 351-50-18
+  language_code: fra
+  notes:
+  - "La fonction de transfert d’un élément PD avec un retard du premier ordre est\n\
+    \n`((V ( s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + T_1 * s))`\n\net utilisant\
+    \ le gain d'action par dérivation `a` = `T`~d~/T~1~, la fonction de transfert\
+    \ peut être écrite\n\n`((V ( s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + ((T_d\
+    \ * s))/(a)))`\n\noù<table>\r\n<tr>\n<td>\n`K`~P~\n</td>\n<td>est le coefficient\
+    \ d’action proportionnelle;</td>\n</tr>\r\n<tr>\n<td>\n`T`~d~\n</td>\n<td>est\
+    \ le temps de dosage de dérivation;</td>\n</tr>\r\n<tr>\n<td>\n`T`~1~\n</td>\n\
+    <td>est la constante de temps;</td>\n</tr>\r\n<tr>\n<td>`a`</td>\n<td>est le gain\
+    \ d’action par dérivation, 1 &lt; `a` &lt; ∞;</td>\n</tr>\r\n<tr>\n<td>`s`</td>\n\
+    <td>est la variable complexe de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n\
+    <td>\n`U`(`s`)</td>\n<td>est la transformée de la variable d’entrée;</td>\n</tr>\r\
+    \n<tr>\n<td>\n`V`(`s`)</td>\n<td>est la transformée de la variable de sortie.</td>\n\
+    </tr>\r\n</table>"
+  - 'Cet article était numéroté 351-28-29 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig18.png[]
+
+
+    *Figure 18 – Step response of a proportional plus derivative element with additional
+    first order delay*
+
+
+    *Figure 18 – Réponse à un échelon d''un élément à action proportionnelle et par
+    dérivation avec retard additionnel du premier ordre*'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gain d'action par dérivation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: ff9fb7e2-c217-5856-b6fe-d9923df441f4
+status: valid

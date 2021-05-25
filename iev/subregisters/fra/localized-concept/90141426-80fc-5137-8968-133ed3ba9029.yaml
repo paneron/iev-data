@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dosimètre pour neutrons capable de mesurer la fraction réfléchie par
+    le corps humain de la fluence neutronique incidente sur ce même corps
+  examples: []
+  id: 395-05-12
+  language_code: fra
+  notes:
+  - Cette fraction, l’albédo, peut être utilisée pour estimer l’équivalent de dose
+    du porteur.
+  - Cet article était numéroté 394-31-17 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dosimètre à réflexion neutronique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: dosimètre à albédo de neutrons
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 90141426-80fc-5137-8968-133ed3ba9029
+status: valid

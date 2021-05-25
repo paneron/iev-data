@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: frequency at which the magnitude of a measured characteristic quantity
+    has decreased to a specified fraction of its low-frequency value
+  examples: []
+  id: 521-05-20
+  language_code: eng
+  notes:
+  - For a transistor, the cut-off frequency usually applies to the small-signal short-circuit
+    forward current transfer ratio for either the common-base or common-emitter configuration.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cut-off frequency
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-05-01
+id: d0fc6e42-fe1a-50ec-82e0-9332c8a85fb3
+status: valid

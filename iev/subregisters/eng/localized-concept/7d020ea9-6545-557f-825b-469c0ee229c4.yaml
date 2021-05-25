@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the spectral radiant flux absorbed between the internal
+    entry and exit surfaces of the layer and the spectral flux that enters into the
+    layer after crossing the entry surface
+  examples: []
+  id: 845-24-089
+  language_code: eng
+  notes:
+  - For a given layer the spectral internal absorptance depends on the path length
+    of the radiation in the layer, and hence, in particular, on the angle of incidence.
+  - The spectral internal absorptance has unit one.
+  - This entry was numbered 845-04-82 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral internal absorptance
+    normative_status: preferred
+    type: expression
+    usage_info: of a homogeneous non-diffusing layer
+  - designation: '`α`~i~(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7d020ea9-6545-557f-825b-469c0ee229c4
+status: valid

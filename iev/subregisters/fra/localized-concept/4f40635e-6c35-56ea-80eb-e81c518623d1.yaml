@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: fréquence la plus basse qui permet, à un moment donné, d'obtenir un
+    circuit radioélectrique de qualité acceptable par propagation des signaux via
+    l'ionosphère entre des stations terminales données situées au-dessous de l'ionosphère,
+    dans des conditions d'exploitation spécifiées
+  examples: []
+  id: 705-07-23
+  language_code: fra
+  notes:
+  - La qualité acceptable peut par exemple être exprimée par le taux d'erreur maximal
+    ou le rapport signal/bruit nécessaire.
+  - Les conditions d'exploitation spécifiées peuvent comprendre des facteurs tels
+    que les types d'antennes, la puissance d'émission, la classe d'émission, le débit
+    d'information nécessaire.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence minimale utilisable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: LUF
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 4f40635e-6c35-56ea-80eb-e81c518623d1
+status: valid

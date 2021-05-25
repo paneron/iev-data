@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble de nombres réels tel que, quel que soit le couple (`x`, `y`)
+    d'éléments de l'ensemble, tout nombre réel `z` compris entre `x` et `y` appartient
+    à l'ensemble
+  examples: []
+  id: 103-01-12
+  language_code: fra
+  notes:
+  - "On distingue plusieurs catégories d'intervalles:\n\n\n\n* intervalle fermé de\
+    \ `a` à `b`: `a , b = { x in R | a &lt;= x &lt;= b }` \n\n* intervalle ouvert\
+    \ de `a` à `b`: `a , b = { x in R | a x b }`\n\n* intervalles semi-ouverts: `a\
+    \ , b = { x in R | a x &lt;= b }` et `a , b = { x in R | a &lt;= x b }` \n\n*\
+    \ intervalle illimité fermé commençant en `a` ou finissant en `b`: `- oo , b =\
+    \ { x in R | x &lt;= b }` et `a , + oo = { x in R | a &lt;= x }` \n\n* intervalle\
+    \ illimité ouvert commençant en `a` ou finissant en `b`: `- oo , b = { x in R\
+    \ | x b }` et `a , + oo = { x in R | a x }`"
+  reviewDecisionEvent: published
+  terms:
+  - designation: intervalle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 476e0409-15a6-5967-913c-b502d8199494
+status: valid

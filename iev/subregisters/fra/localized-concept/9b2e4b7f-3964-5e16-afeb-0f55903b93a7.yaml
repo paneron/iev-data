@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: variation d'une grandeur fonction du temps entre deux instants consécutifs
+    correspondant à des valeurs égales de la grandeur
+  examples: []
+  id: 103-05-20
+  language_code: fra
+  notes:
+  - Une impulsion est définie indépendamment des valeurs de la grandeur en dehors
+    de l'intervalle de temps délimité par les deux instants.
+  - Dans la plupart des applications, la durée de l'impulsion est courte par rapport
+    aux autres durées caractéristiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: impulsion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9b2e4b7f-3964-5e16-afeb-0f55903b93a7
+status: valid

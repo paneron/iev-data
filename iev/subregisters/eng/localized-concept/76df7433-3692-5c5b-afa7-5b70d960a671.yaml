@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifies a passive circuit element or a passive circuit for which the
+    time integral of the instantaneous power is positive over any time interval containing
+    the instant of the first supply of electric energy
+  examples: []
+  id: 131-11-35
+  language_code: eng
+  notes:
+  - Under periodic conditions, the integration interval can comprise an integral number
+    of periods instead of beginning at minus infinity.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dissipative
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 76df7433-3692-5c5b-afa7-5b70d960a671
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'a tariff in which there is an increase in the rates when the demand
+    used by the consumer exceeds a limit fixed by agreement Example: kWh rate `p`~1~
+    within a demand limit of 10 kW, kWh rate `p`~2~ for each kilowatthour consumed
+    while the demand is above 10 kW, or: kWh rate `p`~1~ within the demand limit of
+    10 kW, kWh rate `p`~2~ for all kilowatthours consumed if the demand has exceeded
+    10 kW, or also: demand rate `p`~1~ per kW of subscribed demand, demand rate `p`~2~
+    per kW used in excess of the demand subscribed.'
+  examples: []
+  id: 691-05-13
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load/rate tariff
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 6682e12f-5998-5201-8ca3-5b00941412bb
+status: valid

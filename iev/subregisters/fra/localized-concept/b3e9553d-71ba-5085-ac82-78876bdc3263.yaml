@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: théorème de théorie des circuits en régime sinusoïdal, exprimant que,
+    lorsque l'impédance d'une branche d'un réseau linéaire change de valeur, la variation
+    du courant dans une branche quelconque est égale au courant qui serait produit
+    dans cette branche par une tension de source insérée dans la branche modifiée,
+    de valeur égale au produit du courant dans cette branche avant la variation d'impédance
+    par la variation d'impédance
+  examples: []
+  id: 131-15-15
+  language_code: fra
+  notes:
+  - On peut étendre le théorème de compensation à un régime non sinusoïdal.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: théorème de compensation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: b3e9553d-71ba-5085-ac82-78876bdc3263
+status: valid

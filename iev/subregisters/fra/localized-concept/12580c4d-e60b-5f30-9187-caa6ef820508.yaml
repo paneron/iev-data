@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: espace chromatique à trois dimensions approximativement uniforme, obtenu
+    en portant en coordonnées rectangulaires les grandeurs `L`^*^, `u`^*^, `v`^*^
+    définies par les équations:<ul style="list-style-type:none;">* `[[L^( ** ),=,116,f,(
+    Y // Y_n ),-,16],[u^( ** ),=,13,L^( ** ),( u^( ' ) - u^( ' )_n )],[v^( ** ),=,13,L^(
+    ** ),( v^( ' ) - v^( ' )_n )]]` où <ul style="list-style-type:none;"> * `f ( Y
+    // Y_n ) = ( Y // Y_n )^(1 // 3)` si `( Y // Y_n ) &gt; ( 6 // 29 )^3` * `f (
+    Y // Y_n ) = ( 841 // 108 ) ( Y // Y_n ) + 4 // 29` si `( Y // Y_n ) &lt;= ( 6
+    // 29 )^3` et `Y`, `u`′, `v`′ représentent le stimulus de couleur pris en considération
+    et `Y`~n~, `u′`~n~, `v′`~n~ représentent un stimulus achromatique spécifié de
+    couleur blanche
+  examples: []
+  id: 845-23-074
+  language_code: fra
+  notes:
+  - "Les correspondants approximatifs de clarté, saturation, chroma et teinte peuvent\
+    \ être calculés comme suit:\n\nclarté CIE 1976:<ul style=\"list-style-type:none;\"\
+    >* `L^( ** ) = 116 f ( Y // Y_n ) - 16`\n\noù<ul style=\"list-style-type:none;\"\
+    >\n* `f ( Y // Y_n ) = ( Y // Y_n )^(1 // 3)`\n\nsi `( Y // Y_n ) &gt; ( 6 //\
+    \ 29 )^3`\r\n\r\n* `f ( Y // Y_n ) = ( 841 // 108 ) ( Y // Y_n ) + 4 // 29` si\
+    \ `( Y // Y_n ) &lt;= ( 6 // 29 )^3`\n\n\nsaturation `u`, `v` CIE 1976:\n\n<ul\
+    \ style=\"list-style-type:none;\">* `s_((uv)) = 13 ( u^( ' ) - u^( ' )_n )^2 +\
+    \ ( v^( ' ) - v^( ' )_n )^2^(1 // 2)`\n\nchroma `u`, `v` CIE 1976:<ul style=\"\
+    list-style-type:none;\">* \r\n`Delta C_(uv)^( * ) = ( u^(* 2) + v^(* 2) )^(1 //\
+    \ 2) = L^( * ) s_((uv))`\r\n\n\nangle de teinte `u`, `v` CIE 1976:<ul style=\"\
+    list-style-type:none;\">* \r\n`h_((uv)) = arctan ( v^( ' ) - v^( ' )_n ) // (\
+    \ u^( ' ) - u^( ' )_n )^2 = arctan ( v^( * ) // u^( * ) )`"
+  - Voir aussi CIE 15, `Colorimetry.`
+  - 'Voir aussi ISO/CIE 11664-5, _Colorimetry – Part 5: CIE 1976 L*u*v* Colour Space
+    and u'', v'' Uniform Chromaticity Scale Diagram_.'
+  - Cet article était numéroté 845-03-54 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: espace chromatique L*u*v* CIE 1976
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: espace chromatique CIELUV
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 12580c4d-e60b-5f30-9187-caa6ef820508
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.06
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.06
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  definition: '{{source de messages, IEV:171-07-05}} dont chaque message a une probabilité
+    de réalisation indépendante de l''instant de cette réalisation'
+  examples: []
+  id: 171-07-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: source de messages stationnaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: source d’informations stationnaire
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a7875dc-c59a-527d-9f3e-de8ed3b6d2a4
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.15
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.15
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  definition: valeur de la composante alternative du courant présumé qu'un dispositif
+    de coupure différentiel, sans protection incorporée contre les courts-circuits,
+    mais protégé par un dispositif de protection contre les courts-circuits placé
+    en série, peut supporter dans des conditions spécifiées d'emploi et de comportement
+  examples: []
+  id: 442-05-28
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant conditionnel de court-circuit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour un dispositif de coupure différentiel
+dateAccepted: 2018-11-17
+id: 43d77c34-4456-5829-9c74-a21710431de8
+status: valid

@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - - clause: 604-04-04
+      original: 604-04-04 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 604-04-05
+      original: 604-04-05 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-04-04
+      original: 826-04-04 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: prise de terre suffisamment éloignée d'autres prises de terre pour que
+    son potentiel électrique ne soit pas sensiblement affecté par les courants électriques
+    entre la Terre et les autres électrodes de terre
+  examples: []
+  id: 195-02-02
+  language_code: fra
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: prise de terre indépendante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: électrode de terre indépendante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 5111a609-1411-5a9a-ad65-49411af51bef
+status: valid

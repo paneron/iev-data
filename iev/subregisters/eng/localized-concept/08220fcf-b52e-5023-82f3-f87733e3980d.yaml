@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for two matrices *`A`* and *`B`* of the same type, with elements `Aij`
+    and `Bij`, respectively, matrix *`A`* + *`B`* with the elements (*`A`* + *`B`*)~`ij`~
+    = `Aij` + `Bij`
+  examples: []
+  id: 102-06-06
+  language_code: eng
+  notes: []
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sum of two matrices
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 08220fcf-b52e-5023-82f3-f87733e3980d
+status: valid

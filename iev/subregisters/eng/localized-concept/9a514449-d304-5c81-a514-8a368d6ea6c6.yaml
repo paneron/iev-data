@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: 'three-dimensional, approximately uniform colour space produced by plotting
+    in rectangular coordinates `U`*, `V`*, `W`*, quantities defined by the equations:
+    <ul style="list-style-type:none;">* `[[W^( * ) = 25 Y^(1 // 3) - 17],[U^( * )
+    = 13 W^( * ) ( u - u_n )],[V^( * ) = 13 W^( * ) ( v - v_n )]]`'
+  examples: []
+  id: 845-23-078
+  language_code: eng
+  notes:
+  - '`Y`, `u`, `v` describe the colour stimulus considered, and `u`~n~, `v`~n~ describe
+    a specified white achromatic stimulus, where `u = u^( '' )`, `v = (2)/(3) v^(
+    '' )`; `u_n^() = u_n^( '' )`, `v_n = (2)/(3) v_n^( '' )`.
+
+
+    See also "<a href="IEV845-23-073">CIE 1976 uniform-chromaticity-scale diagram</a>".'
+  - "The difference between two stimuli, Δ`E`*, is defined as the Euclidean distance\
+    \ between the points representing them in `U`*`V`*`W`* space and calculated as:\r\
+    \n<ul style=\"list-style-type:none;\">* `Delta E_()^* = ( Delta U_()^* )^2 + (\
+    \ Delta V_()^* )^2 + ( Delta W_()^* )^2^(1 // 2)`."
+  - The CIE 1964 uniform colour space is obsolete (except that it is still used in
+    the calculation of the colour rendering index). The currently recommended object
+    colour spaces are the <a href="IEV845-23-076">CIE 1976 L*a*b* colour space</a>
+    and the <a href="IEV845-23-074">CIE 1976 L*u*v* colour space</a>.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: CIE 1964 uniform colour space
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 9a514449-d304-5c81-a514-8a368d6ea6c6
+status: valid

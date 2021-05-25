@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: 'transfer element which at specific instants observes the value of the
+    input variable and converts them into an impulse-function sequence SEE: {{351-45-33,
+    IEV:351-45-33}} and Figure 8c).'
+  examples: []
+  id: 351-50-28
+  language_code: eng
+  notes:
+  - The analog-to-digital converter of a process computer system operates as a sampling
+    element.
+  - In most cases the specific instants are equidistant.
+  - This entry was numbered 351-28-39 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sampling element
+    normative_status: preferred
+    type: expression
+  - designation: sampler
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 5bb77d4d-08dc-5a52-a0f4-b50b48e4e7bb
+status: valid

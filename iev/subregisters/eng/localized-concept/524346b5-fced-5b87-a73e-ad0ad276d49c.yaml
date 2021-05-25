@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: relation between any two elements of a given set, which is true for
+    some specified ordered pairs and false for the others
+  examples: []
+  id: 102-01-07
+  language_code: eng
+  notes:
+  - The binary relation is true or false according to whether the pair belongs or
+    not to a specified subset of the Cartesian product of the set by itself. There
+    is a one-to-one correspondence between binary relations in a set and the subsets
+    of this Cartesian product.
+  - A binary relation between elements `a` and `b` is denoted by `aℛb`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: binary relation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 524346b5-fced-5b87-a73e-ad0ad276d49c
+status: valid

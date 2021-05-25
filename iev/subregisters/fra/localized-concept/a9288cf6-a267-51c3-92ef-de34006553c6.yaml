@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: quotient de la lumière réfléchie par les surfaces d'un local après un
+    certain {{intervalle de temps, IEV:113-01-10}} par la lumière réfléchie lorsque
+    l'installation est considérée par convention comme neuve
+  examples: []
+  id: 845-29-150
+  language_code: fra
+  notes:
+  - L'unité de facteur de conservation des surfaces de locaux est un.
+  - Le facteur de conservation des surfaces de locaux est fondé sur un modèle simplifié
+    pour les effets de la détérioration des propriétés de réflectance des surfaces
+    de locaux et ne tient pas compte de façon précise de la géométrie et de la configuration
+    des locaux.
+  - Le terme abrégé "RSMF" est dérivé du terme anglais développé correspondant "room
+    surface maintenance factor".
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de conservation des surfaces de locaux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RSMF
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a9288cf6-a267-51c3-92ef-de34006553c6
+status: valid

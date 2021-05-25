@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '4.4'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 4.4, modified – The references to other terms
+        within ISO/IEC 17000 have been replaced by hyperlinks to entries in the IEV.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: The references to other terms within ISO/IEC 17000 have been
+          replaced by hyperlinks to entries in the IEV.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: systematic, independent, documented process for obtaining records, statements
+    of fact or other relevant information and assessing them objectively to determine
+    the extent to which {{specified requirements, IEV:902-02-01}} are fulfilled
+  examples: []
+  id: 902-03-04
+  language_code: eng
+  notes:
+  - Whilst “audit” applies to management systems, “assessment” applies to conformity
+    assessment bodies as well as more generally.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: audit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: b6f527b7-b611-5cca-9f14-6c09b22a383e
+status: valid

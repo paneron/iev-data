@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the addition of a constant number of signal elements at regular intervals
+    to a digital signal to increase the digit rate from its original value to a predetermined
+    higher value
+  examples: []
+  id: 704-16-23
+  language_code: eng
+  notes:
+  - The added signal elements are not normally used to transmit information.
+  - The ratio of the digit rates need not be an integer but must be a rational number,
+    e.g. 64/62.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digital filling
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: f1d54d70-79cb-5d50-91bf-c4a232aeeaf9
+status: valid

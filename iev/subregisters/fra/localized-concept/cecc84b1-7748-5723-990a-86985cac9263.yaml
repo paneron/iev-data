@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '4.1'
+      original: VIM 4.1
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: dispositif destiné à être utilisé pour faire des mesures, seul ou associé
+    à un ou plusieurs dispositifs annexes
+  examples: []
+  id: 311-03-01
+  language_code: fra
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: appareil de mesure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: instrument de mesure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: cecc84b1-7748-5723-990a-86985cac9263
+status: valid

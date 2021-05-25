@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-08-01
+  definition: 'for a matrix *`A`* of type `m` × `n`, matrix of type `n` × `m` denoted
+    by *`A`*^T^, the elements (*`A`*^T^)~`ij`~ of which are defined by: (*`A`*^T^)~`ij`~
+    = `Aji`'
+  examples: []
+  id: 102-06-17
+  language_code: eng
+  notes:
+  - The transpose matrix of a matrix *`A`* is denoted by *`A`*^T^ or sometimes `overset(˜)(A)`.
+    The notation ^t^*`A`* is also used in mathematics.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transpose matrix
+    normative_status: preferred
+    type: expression
+  - designation: transpose of a matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: e91417f3-70f4-506b-bc8d-c990620bb16d
+status: valid

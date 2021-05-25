@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: définition 6
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 6, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: pour une substance donnée, et pour un faisceau parallèle d'un rayonnement
+    déterminé, quantité `μ`abs dans l'expression `μ`~abs~Δ`x` de la fraction d'énergie
+    absorbée au cours du passage à travers une couche mince d'épaisseur Δ`x` de cette
+    substance
+  examples: []
+  id: 395-01-26
+  language_code: fra
+  notes:
+  - Le coefficient d’absorption est fonction de l’énergie du rayonnement.
+  - Selon que l’épaisseur Δ`x` est exprimée par une longueur ou bien par une masse,
+    une quantité de matière ou un nombre d’atomes par unité d’aires, il est appelé
+    coefficient d’absorption linéique, massique, molaire ou atomique.
+  - Cet article était numéroté 393-14-46 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'absorption
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bafc94e8-8345-596b-8af4-7375d625e769
+status: valid

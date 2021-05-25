@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: area intercepted on a unit sphere, centred at the point, by a cone having
+    the given area as its base and the point as its vertex
+  examples: []
+  id: 845-21-109
+  language_code: eng
+  notes:
+  - The solid angle is expressed in steradian (sr).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: solid angle
+    normative_status: preferred
+    type: expression
+    usage_info: of an area subtended at a point
+  - designation: '`Ω
+
+      ω`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 60babb8b-e8eb-553f-8a40-b6055138beea
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique pondéré par le danger de la lumière bleue
+    par le flux énergétique `eta_B = ((int Phi_((e , lambda)) ( lambda ) B ( lambda
+    ) d lambda))/((int Phi_((e , lambda)) ( lambda ) d lambda))`
+  examples: []
+  id: 845-26-063
+  language_code: fra
+  notes:
+  - L'efficacité de rayonnement avec danger de la lumière bleue, `η`~B~, est associée
+    à l'efficacité d'un rayonnement lumineux avec danger de la lumière bleue, `K`~B,v~,
+    par la relation `η`~B~ = `K·K`~B,v~, où `K` est l'efficacité lumineuse du rayonnement,
+    et au facteur du danger de la lumière bleue d'un rayonnement lumineux, `α`~B,v~,
+    par la relation `η`~B~ = `V·α`~B,v~, où `V` est l'efficacité lumineuse du rayonnement.
+  - Pour certaines applications, il peut être nécessaire d'indiquer à la fois l'efficacité
+    de rayonnement avec danger de la lumière bleue, `η`~B~, et l'efficacité d'un rayonnement
+    lumineux avec danger de la lumière bleue, `K`~B,v~.
+  - L‘unité d'efficacité de rayonnement avec danger de la lumière bleue est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: efficacité de rayonnement avec danger de la lumière bleue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5c775b59-8863-59b1-93b5-1aea5241ac7f
+status: valid

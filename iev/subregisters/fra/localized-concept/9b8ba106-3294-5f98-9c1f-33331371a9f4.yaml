@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 701-01-03
+      original: 701-01-03
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: transfert d'informations d'un point à un ou plusieurs autres à l'aide
+    de signaux
+  examples: []
+  id: 704-01-06
+  language_code: fra
+  notes:
+  - La transmission peut se faire directement, ou indirectement, avec ou sans enregistrement
+    intermédiaire.
+  - L'emploi en anglais du mot "transmission" dans le sens qu'a le mot anglais "emission"
+    en radiocommunication est déconseillé.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 9b8ba106-3294-5f98-9c1f-33331371a9f4
+status: valid

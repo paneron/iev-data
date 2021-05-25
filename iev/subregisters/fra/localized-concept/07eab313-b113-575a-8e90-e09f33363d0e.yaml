@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: qualifie des grandeurs électriques alternatives, telles que tension
+    ou courant, des dispositifs fonctionnant avec elles ou des grandeurs associées
+    à ces dispositifs
+  examples: []
+  id: 151-15-01
+  language_code: fra
+  notes:
+  - La notation "AC" est préférée en anglais à la notation "a.c.", qui est une abréviation
+    de l'expression "alternating current" (voir la CEI 60050-131).
+  - La langue française utilise également l'expression "courant alternatif" avec une
+    préposition appropriée telle que "en", "de", "à" ou "pour", ou seulement l'adjectif
+    "alternatif".
+  - 'Pour le marquage des matériels électriques, on peut employer soit la notation
+    AC (voir la CEI 61293), soit le symbole graphique ~ (voir la CEI 60417, N° 5032).
+    Exemple: AC 500 V ou ~ 500 V.'
+  - Conformément à l'ISO 31-0 et à la CEI 60027-1, les noms d'unité et leurs symboles
+    ne doivent pas être qualifiés par adjonction de "AC". Par exemple, `U`~AC~ = 500
+    V est correct, tandis `U` = 500 V~AC~ ou `U` = 500 V AC sont incorrects.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: AC
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 07eab313-b113-575a-8e90-e09f33363d0e
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '5.8'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 5.8
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{norme, IEV:901-02-02}} qui dresse une liste de caractéristiques dont
+    les valeurs ou autres données doivent être indiquées pour spécifier un produit,
+    processus ou service'
+  examples: []
+  id: 901-02-21
+  language_code: fra
+  notes:
+  - C'est ainsi que certaines normes prévoient les données qui doivent être indiquées
+    par les fournisseurs, d'autres, les données qui doivent être indiquées par les
+    acheteurs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: norme sur les données à fournir
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c179bc77-c906-5ec7-b6cc-b26ed11e8990
+status: valid

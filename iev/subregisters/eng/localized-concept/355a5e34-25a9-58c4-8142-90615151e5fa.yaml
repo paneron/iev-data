@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.11
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.11, modified
+      ref: IEC 62280:2014
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: cyclic code used to protect messages from the influence of data corruption
+  examples: []
+  id: 821-11-10
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cyclic redundancy check
+    normative_status: preferred
+    type: expression
+    usage_info: for communication in transmission systems
+  - designation: CRC
+    type: expression
+    usage_info: for communication in transmission systems
+dateAccepted: 2017-11-01
+id: 355a5e34-25a9-58c4-8142-90615151e5fa
+status: valid

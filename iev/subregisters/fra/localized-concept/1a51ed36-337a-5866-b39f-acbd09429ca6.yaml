@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 'impulsion unidirectionnelle définie en fonction du temps `t` par les
+    expressions: `y` = k sin^2^ (`π t`/2 `T`) pour 0 ≤ `t` ≤ 2 `T` `y` = 0 pour `t`
+    < 0 et `t` > 2`T` où: `y` est la valeur instantanée de la grandeur caractéristique,
+    k est la valeur de crête de l''impulsion, 2`T` est la durée totale de l''impulsion,
+    `T` étant la durée de l''intervalle de temps au cours duquel la grandeur caractéristique
+    de l''impulsion est supérieure à k/2'
+  examples: []
+  id: 702-03-13
+  language_code: fra
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impulsion en sinus carré
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 1a51ed36-337a-5866-b39f-acbd09429ca6
+status: valid

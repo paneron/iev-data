@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: facteur de transmission interne spectral d'une couche d'un matériau
+    absorbant telle que le trajet du rayonnement ait une longueur de référence, et
+    dans des conditions dans lesquelles les limites du matériau n'ont aucune influence
+  examples: []
+  id: 845-24-094
+  language_code: fra
+  notes:
+  - La longueur de référence doit être spécifiée. Si une nouvelle longueur de référence
+    est utilisée, qui est `k` fois plus grande que la longueur de référence initiale,
+    la valeur de `τ`~i,o~(`λ`) devient alors `tau^( ' )_(i ,o)^() ( lambda ) = tau_((i
+    ,o)) ( lambda )^k`.
+  - L'unité de transmissivité spectrale est un.
+  - Cet article était numéroté 845-04-87 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmissivité spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un matériau absorbant
+dateAccepted: 2018-11-17
+id: f119a9c1-6a95-5a79-97b1-efafc26aabb7
+status: valid

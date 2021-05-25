@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: possédant une résistivité ou résistance inférieure à la plage dissipative,
+    ce qui entraîne l'apparition d'arcs de courant vagabond et de chocs électriques
+  examples: []
+  id: 426-25-01
+  language_code: fra
+  notes:
+  - Les matériaux ou objets conducteurs ne sont ni dissipatifs ni isolants, et sont
+    incapables de retenir une charge électrostatique importante au contact avec la
+    terre.
+  - 'Des limites frontières concernant la plage conductrice sont données dans l''IEC
+    TS 60079-32-1, _Explosive atmospheres – Part 32-1: Electrostatic hazards, guidance_,
+    pour les matériaux solides, les enveloppes, certains objets et les matériaux en
+    vrac.'
+  - Les normes de produit et autres normes portant sur les propriétés électrostatiques
+    comportent souvent des définitions spécifiques du terme "conducteur", qui s'appliquent
+    uniquement aux éléments couverts par ces normes et qui peuvent être différentes
+    des définitions fournies dans le présent document. Se reporter, par exemple, aux
+    ISO 8031, _Tuyaux et flexibles en caoutchouc et en plastique – Détermination de
+    la résistance et de la conductivité électriques_, et ISO 8330, _Tuyaux et flexibles
+    en caoutchouc et en plastique – Vocabulaire_, pour les tuyaux et flexibles.
+  reviewDecisionEvent: published
+  terms:
+  - designation: conducteur
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+    usage_info: électrostatiquement
+  - designation: antistatique
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+    usage_info: electrostatiquement
+dateAccepted: 2018-11-17
+id: a06d7b62-5101-56c5-a7b9-94d2763c33d2
+status: valid

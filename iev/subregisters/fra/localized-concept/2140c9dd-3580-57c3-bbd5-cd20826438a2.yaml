@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: appareil mécanique de connexion dont les contacts mobiles reviennent
+    en position d'ouverture et y demeurent quand la manoeuvre d'ouverture est commandée
+    après le début de la manoeuvre de fermeture, même si l'ordre de fermeture est
+    maintenu
+  examples: []
+  id: 441-16-31
+  language_code: fra
+  notes:
+  - Afin d'assurer une interruption correcte du courant qui peut avoir été établi,
+    il peut être nécessaire que les contacts atteignent momentanément la position
+    de fermeture.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: appareil mécanique de connexion à déclenchement libre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 2140c9dd-3580-57c3-bbd5-cd20826438a2
+status: valid

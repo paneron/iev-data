@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-10-01
+  definition: time relay in which the output immediately changes to the operate condition
+    and the time delay starts when applying the power supply and removing the control
+    signal; the output switches to the release condition after the setting time has
+    elapsed (see Figure 13) image::/assets/images/parts/445/445-01-16en.gif[]
+  examples: []
+  id: 445-01-16
+  language_code: eng
+  notes:
+  - – Cycling the control signal during the time delay will retrigger the time delay.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: retriggerable interval relay with control signal off
+    normative_status: preferred
+    type: expression
+  - designation: fleeting off delay relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: 306b0c05-37c6-513a-875a-e38d211d2f48
+status: valid

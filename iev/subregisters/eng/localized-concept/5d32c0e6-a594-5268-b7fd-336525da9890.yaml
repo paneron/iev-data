@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: reciprocal of the tangent of the loss angle `Q_0 = epsilon^( ' ) //
+    epsilon^( ″ ) = 1 // tan delta`
+  examples: []
+  id: 561-06-06
+  language_code: eng
+  notes:
+  - The quality factor of a material is also defined as 2π times the ratio of the
+    stored electromagnetic energy to the energy dissipated in the material per cycle.
+    It is frequency dependent.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quality factor of a material
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 5d32c0e6-a594-5268-b7fd-336525da9890
+status: valid

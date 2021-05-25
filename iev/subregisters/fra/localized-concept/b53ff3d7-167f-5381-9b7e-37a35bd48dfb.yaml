@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: couple ordonné de nombres entiers représentant un nombre rationnel
+  examples: []
+  id: 102-02-04
+  language_code: fra
+  notes:
+  - Un nombre rationnel peut être représenté par une infinité de fractions.
+  - La fraction correspondant au couple ordonné (`p`, `q`) est notée `p`/`q` ou `(p)/(q)`.
+  - Dans une fraction `p`/`q`, le premier élément `p` est appelé «numérateur» et le
+    deuxième est appelé «dénominateur».
+  reviewDecisionEvent: published
+  terms:
+  - designation: fraction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b53ff3d7-167f-5381-9b7e-37a35bd48dfb
+status: valid

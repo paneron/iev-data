@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: time integral of the cylindrical irradiance, `E`~e,c~, at a given point
+    for a given direction, over a given duration, Δ`t` `H_((e,c)) = underset((Delta
+    t))( int ) E_(e,c) d t`
+  examples: []
+  id: 845-21-077
+  language_code: eng
+  notes:
+  - The radiant cylindrical exposure is expressed in joule per square metre (J·m^−2^ =
+    W·s·m^−2^).
+  - This entry was numbered 845-01-46 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiant cylindrical exposure
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~e,c~
+
+      `H`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7c15f89e-a4c2-5420-9825-48aabd141bdd
+status: valid

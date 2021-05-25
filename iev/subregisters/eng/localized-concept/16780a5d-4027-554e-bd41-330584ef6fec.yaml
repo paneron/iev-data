@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: for a real function `f`(`n`) of an integer variable `n`, function `F`(`z`)
+    of a complex variable `z` given by the transformation `F ( z ) = sum_((n = 0))^(oo)
+    f ( n ) z^(- n)`
+  examples: []
+  id: 103-04-09
+  language_code: eng
+  notes:
+  - The Z-transform of the function `f` is also denoted Z`f` or ℨ`f`.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Z-transform
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 16780a5d-4027-554e-bd41-330584ef6fec
+status: valid

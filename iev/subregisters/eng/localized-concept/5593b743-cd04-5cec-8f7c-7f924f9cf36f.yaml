@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: a tone which indicates that the called number cannot be reached because
+    of congestion within the network
+  examples: []
+  id: 714-08-08
+  language_code: eng
+  notes:
+  - In some systems, busy tone may be used for this purpose.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: congestion tone
+    normative_status: preferred
+    type: expression
+  - designation: channel-busy tone
+    type: expression
+dateAccepted: 1992-04-01
+id: 5593b743-cd04-5cec-8f7c-7f924f9cf36f
+status: valid

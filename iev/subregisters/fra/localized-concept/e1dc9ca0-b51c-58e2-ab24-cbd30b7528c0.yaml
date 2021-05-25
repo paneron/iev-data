@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: circuit d'entrée à trois bornes dans lequel les valeurs nominales des
+    impédances entre la borne commune et chacune des deux autres bornes sont égales
+  examples: []
+  id: 312-06-10
+  language_code: fra
+  notes:
+  - La borne commune de l'entrée et celle de la sortie ne sont pas nécessairement
+    toutes deux accessibles, ni toutes deux au même potentiel.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: entrée symétrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: entrée équilibrée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: e1dc9ca0-b51c-58e2-ab24-cbd30b7528c0
+status: valid

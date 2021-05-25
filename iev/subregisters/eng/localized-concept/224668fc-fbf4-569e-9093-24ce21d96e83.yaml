@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: average road surface luminance in a transverse section at a particular
+    location in the transition zone
+  examples: []
+  id: 845-31-090
+  language_code: eng
+  notes:
+  - The transition zone luminance is expressed in candela per square metre (cd·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transition zone luminance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~tr~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 224668fc-fbf4-569e-9093-24ce21d96e83
+status: valid

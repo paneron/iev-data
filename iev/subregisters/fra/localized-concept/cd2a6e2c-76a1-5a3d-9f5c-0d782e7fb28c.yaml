@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: temps `( T_(((1)/(2))) )` au cours duquel, dans un processus unique
+    de décroissance radioactive, l'activité d'un radionucléide déterminé est réduite
+    à la moitié de sa valeur initiale
+  examples: []
+  id: 881-04-46
+  language_code: fra
+  notes:
+  - 'La période radioactive est liée à la constante de désintégration par la relation:
+
+
+    `T_(((1)/(2))) = ((ln 2))/(lambda) ≃ ((0,693))/(lambda)`
+
+
+    `λ` = constante de désintégration'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: période radioactive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: cd2a6e2c-76a1-5a3d-9f5c-0d782e7fb28c
+status: valid

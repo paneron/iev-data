@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la {{puissance électrique nette, IEV:485-14-03}} produite
+    par un {{système à pile à combustible, IEV:485-09-01}} à l'exergie totale fournie
+    au système à pile à combustible, en faisant l'hypothèse que les produits de la
+    réaction sont à l'état gazeux
+  examples: []
+  id: 485-10-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement exergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ffd04942-0cfc-520b-b0c7-0f472b468273
+status: valid

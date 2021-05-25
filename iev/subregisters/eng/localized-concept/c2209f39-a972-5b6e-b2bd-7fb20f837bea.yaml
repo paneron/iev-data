@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: for a substance within a domain, vector quantity equal to the vector
+    sum of the electric dipole moments of all elementary electric dipoles included
+    in the domain
+  examples: []
+  id: 121-11-36
+  language_code: eng
+  notes:
+  - 'The electric dipole moment of a substance within a domain V is the volume integral
+    of the electric polarization *`P`*:
+
+
+    `p = underset(V)( int ) P d V`'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric dipole moment (2)
+    normative_status: preferred
+    type: expression
+  - designation: '`*p*`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: c2209f39-a972-5b6e-b2bd-7fb20f837bea
+status: valid

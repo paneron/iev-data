@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie du flux lumineux d'une source de lumière qui contribue essentiellement
+    à l'éclairage
+  examples: []
+  id: 845-21-111
+  language_code: fra
+  notes:
+  - Pour les sources de lumière non dirigée, le flux lumineux utile est le flux lumineux
+    total de la source de lumière.
+  - Pour les sources de lumière dirigée, le flux lumineux utile est le flux lumineux
+    partiel dans un angle conique défini, l'axe du cône étant l'axe optique du faisceau
+    de la source de lumière.
+  - L'angle conique, `α`, qui peut être exprimé soit en degré (°) soit en radian (rad),
+    est donné par l'angle conique complet et doit être précisé, par exemple `Φ`~u,90°~
+    ou `Φ`~u,π/2~.
+  - L'axe du faisceau optique d'une source de lumière est l'axe de symétrie essentielle
+    de l'intensité lumineuse.
+  - Le flux lumineux utile est exprimé en lumen (lm).
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux lumineux utile
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une source de lumière dirigée
+dateAccepted: 2018-11-17
+id: 51201570-c33e-53f1-b007-66e6c3991961
+status: valid

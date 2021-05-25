@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: terme non diagonal de la matrice des inductances
+  examples: []
+  id: 131-12-36
+  language_code: fra
+  notes:
+  - 'Pour des enroulements de `N`~`i`~ et `N`~`j`~  tours suivant les mêmes contours,
+    l''inductance mutuelle et la perméance mutuelle sont reliées par la formule :
+    `L`~`ij`~ = `N`~`i`~`N`~`j`~`Λ`~`ij`~'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductance mutuelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 158585c2-f235-56a9-9b08-6824cdc293dc
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: accès non permanent à un fournisseur d'accès à l'Internet, par l'intermédiaire
+    d'un réseau commuté
+  examples: []
+  id: 732-07-21
+  language_code: fra
+  notes:
+  - Le réseau commuté peut être le réseau téléphonique ou le RNIS.
+  - Des protocoles pour l’accès commuté sont PPP (« protocole point à point ») et
+    SLIP (« serial line Internet protocol »).
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accès commuté à l'Internet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 1de56077-8597-5d43-8238-e5622aad2709
+status: valid

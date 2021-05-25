@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: a vector quantity given by the volume integral of the magnetic polarization
+  examples: []
+  id: 221-01-07
+  language_code: eng
+  notes:
+  - The magnetic dipole moment is related to the magnetic area moment `m` by the expression
+    `j` =`μ`~0~ `m` where `m` is defined in part 121 and `μ`~0~ is the magnetic constant.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic dipole moment
+    normative_status: preferred
+    type: expression
+  - designation: '`j`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 222679ba-3aec-5e3f-9b31-34efddf6d2fc
+status: valid

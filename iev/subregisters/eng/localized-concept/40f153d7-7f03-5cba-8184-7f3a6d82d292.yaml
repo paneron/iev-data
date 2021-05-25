@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: within a specified period of time, the time during which an item was
+    not available to perform its function because it had been withdrawn from service
+    according to program
+  examples: []
+  id: 603-05-19
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: planned-outage duration
+    normative_status: preferred
+    type: expression
+  - designation: scheduled-outage duration
+    type: expression
+dateAccepted: 2021-01-01
+id: 40f153d7-7f03-5cba-8184-7f3a6d82d292
+status: valid

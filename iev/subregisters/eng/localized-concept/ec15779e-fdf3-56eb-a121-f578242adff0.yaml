@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: voltage across the specified output terminals of the instrument when
+    the load impedance is equal to the rated source impedance, the carrier wave not
+    being modulated
+  examples: []
+  id: 314-08-13
+  language_code: eng
+  notes:
+  - The value of the voltage is expressed as an r.m.s. value for sinewaves and as
+    a peak-to-valley value for waveforms which are intentionally non-sinusoidal.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matched output voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: ec15779e-fdf3-56eb-a121-f578242adff0
+status: valid

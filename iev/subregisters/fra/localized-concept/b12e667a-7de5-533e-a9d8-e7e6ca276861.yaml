@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour deux vecteurs *`U`* et *`V`* d'un espace euclidien à `n` dimensions,
+    tenseur du deuxième ordre défini par la forme bilinéaire `f ( X , Y ) = ( U *
+    X ) ( V * Y )`, où *`X`* et *`Y`* sont des vecteurs quelconques du même espace
+  examples: []
+  id: 102-03-41
+  language_code: fra
+  notes:
+  - 1 La forme bilinéaire peut être représentée par `f ( X , Y ) = ( underset(i)(
+    sum ) U_i X_i ) ( underset(j)( sum ) V_j Y_j ) = underset((i j))( sum ) U_i V_j
+    X_i Y_j` en fonction des coordonnées des vecteurs. Le produit tensoriel est donc
+    le tenseur de coordonnées `T_((i j)) = U_i V_j`.
+  - Le produit tensoriel est noté `U ox V` ou `U V`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit tensoriel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de deux vecteurs
+dateAccepted: 2018-11-17
+id: b12e667a-7de5-533e-a9d8-e7e6ca276861
+status: valid

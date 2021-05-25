@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: différence de phase entre les composantes fondamentales de l'induction
+    magnétique et du champ magnétique
+  examples: []
+  id: 221-03-28
+  language_code: fra
+  notes:
+  - Lorsqu'une différence de phase peut être associée aux pertes par courants de Foucault,
+    aux pertes par hystérésis ou aux pertes résiduelles, l'angle de pertes peut être
+    représenté par `δ`~F~ pour les pertes par courant de Foucault, `δ`~h~ pour les
+    pertes par hystérésis et `δ`~r~ pour les pertes résiduelles.
+  - 'La tangente de l''angle de perte est fréquemment utilisée pour exprimer les pertes
+    dans un matériau magnétique:
+
+
+    `tan delta_m = (mu^( ″ ))/(mu^( '' ))`
+
+
+    où `µ`′ et `µ`″ sont respectivement la partie réelle et la partie imaginaire de
+    la perméabilité complexe (symb.: `µ`).'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle de pertes (magnétiques)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: 7694a9ec-cdbc-5a49-9546-ef4ddb50fd2e
+status: valid

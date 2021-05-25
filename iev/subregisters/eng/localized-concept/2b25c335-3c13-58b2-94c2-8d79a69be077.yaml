@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a telecontrol configuration whereby the control centre or master station
+    is connected to more than one outstation by a common link in such a way that at
+    any time only one outstation may transmit data to the master station; the master
+    station may transmit data either to one or more selected outstations or global
+    messages to all outstations simultaneously
+  examples: []
+  id: 371-06-09
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multipoint-partyline configuration
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 2b25c335-3c13-58b2-94c2-8d79a69be077
+status: valid

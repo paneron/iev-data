@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'vector quantity obtained at a given point by subtracting the magnetization
+    `*M*` from the magnetic flux density `*B*` divided by the magnetic constant `μ`~0~:
+    `H = (B)/((mu_0)) - M`'
+  examples: []
+  id: 121-11-56
+  language_code: eng
+  notes:
+  - 'In vacuum, the magnetic field strength is at all points equal to the magnetic
+    flux density divided by the magnetic constant:
+
+
+    `H = (B)/((mu_0))`'
+  - 'The rotation of the magnetic field strength is the total current density *`J`*~t~:
+
+
+    *rot `H`* = *`J`*~t~'
+  - The magnetic flux density `*B*` is sometimes called “magnetic field”, risking
+    confusion with the magnetic field strength `*H*`.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic field strength
+    normative_status: preferred
+    type: expression
+  - designation: magnetizing field strength
+    normative_status: preferred
+    type: expression
+  - designation: '*`H`*'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 6aed229a-942e-5ff0-9dd7-d8dc34a6bba5
+status: valid

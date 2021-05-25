@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: for a plane surface S and a specified axis in the plane of the surface,
+    additive scalar quantity equal to the integral `I_a = int_S R^2 d A`, where `R`
+    is the distance between a surface element with area d`A` and the axis
+  examples: []
+  id: 113-03-29
+  language_code: eng
+  notes:
+  - 1 The second axial moment of area is sometimes given the wrong name "moment of
+    inertia" but should not to be confused with the quantity "moment of inertia".
+  - 2 The coherent SI unit of second axial moment of area is metre to the power four,
+    m^4^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: second axial moment of area
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~a~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: a68ae214-d961-5a02-9bd2-e49efd1eca7b
+status: valid

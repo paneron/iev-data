@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: time integral of the voltage `u`~AB~ ({{131-11-56, IEV:131-11-56}})
+    between two terminals A and B of a two-terminal or `n`-terminal element `Psi (
+    t ) = int_((t_0))^t u_((AB)) ( tau ) d tau` where `t`~0~ is any instant before
+    the first supply of electric energy
+  examples: []
+  id: 131-12-17
+  language_code: eng
+  notes:
+  - The concept is only useful in the case of an inductive element.
+  - The definition of linked flux in circuit theory is consistent with the more general
+    definition {{121-11-24, IEV:121-11-24}} given in electromagnetism. The linked
+    flux in circuit theory is described by inverting the procedure for calculating
+    induced voltage ({{121-11-28, IEV:121-11-28}}).
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linked flux
+    normative_status: preferred
+    type: expression
+    usage_info: circuit theory
+  - designation: '`Ψ`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: f79ddb06-5f49-5be3-a96d-63ae50fcf045
+status: valid

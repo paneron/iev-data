@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pourcentage de sites entrant dans la plage de valeurs spécifiées de
+    variation locale de l'épaisseur
+  examples: []
+  id: 561-07-21
+  language_code: fra
+  notes:
+  - A l’instar de la mesure de variation locale de l’épaisseur, il s’agit d’une mesure
+    sous contrainte.
+  - L’abréviation «PLTV» est dérivée du terme anglais développé correspondant «percent
+    local thickness variation».
+  reviewDecisionEvent: published
+  terms:
+  - designation: pourcentage de variation locale de l’épaisseur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PLTV
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7d3f0eee-e0c2-59f8-acc3-07c454762ca9
+status: valid

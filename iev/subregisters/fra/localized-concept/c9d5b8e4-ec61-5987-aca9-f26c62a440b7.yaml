@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{temps de propagation de groupe, IEV:702-02-20}} des {{composantes
+    spectrales, IEV:702-04-41}} significatives d''un {{signal, IEV:101-12-02}}, en
+    supposant que ce temps est sensiblement le même pour toutes ces composantes significatives'
+  examples: []
+  id: 702-02-21
+  language_code: fra
+  notes:
+  - La notion de temps de propagation de signal n'a de sens que si l'{{amplitude,
+    IEV:702-04-54}} du signal ne subit pas de distorsion appréciable dans le milieu
+    de propagation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de propagation de signal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps de propagation d'enveloppe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c9d5b8e4-ec61-5987-aca9-f26c62a440b7
+status: valid

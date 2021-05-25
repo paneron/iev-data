@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système conçu pour la mesure de la température du réfrigérant primaire,
+    du combustible et des structures du réacteur, utilisant des capteurs de température
+    en cœur
+  examples: []
+  id: 395-07-63
+  language_code: fra
+  notes:
+  - Ce système peut, soit faire partie du système général de surveillance du cœur
+    qui fournit les informations nécessaires au fonctionnement normal du réacteur,
+    soit être indépendant de ce système.
+  - Ce système peut être raccordé au dispositif de sûreté.
+  - Cet article était numéroté 394-35-11 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de mesure de la température du cœur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 78639d9d-1ad6-5140-b7f7-d7dcd01cd1cc
+status: valid

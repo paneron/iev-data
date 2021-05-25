@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the radiance of a surface element in a specified direction,
+    `L`~e,n~, and the radiance of the perfect reflecting diffuser or perfect transmitting
+    diffuser identically irradiated and viewed, `L`~e,d~ `beta_e = ((L_((e ,n))))/((L_((e
+    ,d))))`
+  examples: []
+  id: 845-24-075
+  language_code: eng
+  notes:
+  - The definition holds for a surface element of a non-self-radiating medium, in
+    a specified direction and under specified conditions of irradiation.
+  - Radiance factor is equivalent to reflectance factor or luminance factor when the
+    cone angle is infinitely small, and is equivalent to reflectance when the cone
+    angle is 2π sr. These quantities are also defined spectrally and called spectral
+    radiance factor, `β`(`λ`), and spectral reflectance factor, `R`(`λ`).
+  - The ideal isotropic (Lambertian) diffuser with reflectance or transmittance equal
+    to 1 is called a "perfect diffuser".
+  - 'For photoluminescent media, the radiance factor contains two components, the
+    reflected radiance factor, `β`~R~, and the luminescent radiance factor, `β`~L.~
+    The sum of reflected radiance factor and luminescent radiance factor is the total
+    radiance factor, `β`~T~: `β`~T~ = `β`~R~ + `β`~L~.
+
+
+    The subscript R is used here for the reflected radiance factor because it is more
+    intuitive than the traditional S and avoids confusion with the use of S to denote
+    a state of polarization.'
+  - The radiance factor has unit one.
+  - This entry was numbered 845-04-68 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiance factor
+    normative_status: preferred
+    type: expression
+  - designation: '`β`~e~
+
+      `β`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ff0890f3-7b3e-5beb-b6d1-674c0f8bdd05
+status: valid

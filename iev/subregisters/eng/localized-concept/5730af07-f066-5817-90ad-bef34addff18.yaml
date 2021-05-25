@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: element of a {{vector space, IEV:102-03-01}}
+  examples: []
+  id: 102-03-04
+  language_code: eng
+  notes:
+  - 'An `n`-dimensional vector is represented by an ordered set of `n` scalars, usually
+    real or complex numbers, which depend on the choice of the base. In matrix notation,
+    these scalars are usually represented as a column matrix:
+
+
+    `U = ( [[U_1],[U_2],[vdots],[U_n]] )`'
+  - A vector in a Euclidean space is characterized by its {{magnitude, IEV:102-03-23}}
+    and, if it is a non-zero vector, by its {{direction, IEV:102-03-12}}.
+  - "A complex vector *`U`* is defined by a real part and an imaginary part: \n`U\
+    \ = A + j B` where *`A`* and *`B`* are real vectors."
+  - 'A vector is indicated by a letter symbol in sloped boldface type or by an arrow
+    above a sloped lightface letter symbol: *`U`* or `vec U`. The vector *`U`* with
+    components `U_i` can be denoted `( U_i )`.'
+  - The term "vector" is also used for a {{vector quantity, IEV:102-03-21}}.
+  - In geometry, the term “vector” is often used for a directed line segment in a
+    {{point space, IEV:102-03-02}}.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vector
+    normative_status: preferred
+    type: expression
+    usage_info: mathematics
+dateAccepted: 2017-07-01
+id: 5730af07-f066-5817-90ad-bef34addff18
+status: valid

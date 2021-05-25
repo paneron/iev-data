@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '30'
+      original: UIT RR 30 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: service mobile destiné à assurer des liaisons avec des navires qui ne
+    sont pas amarrés en permanence, ou entre ces navires, ou entre stations de communications
+    de bord associées
+  examples: []
+  id: 713-03-13
+  language_code: fra
+  notes:
+  - Dans le Règlement des radiocommunications de l'UIT, le service mobile maritime
+    est un service de radiocommunication de Terre
+  - Les stations d'engin de sauvetage et les stations de radiobalise de localisation
+    des sinistres peuvent participer au service mobile maritime.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: service mobile maritime
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 7a75de8e-91ca-5821-8273-439bccbf3090
+status: valid

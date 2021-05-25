@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: parameter of a signal that represents information according to a rule
+  examples: []
+  id: 351-41-18
+  language_code: eng
+  notes:
+  - For many signals the value of a given physical quantity is identical with the
+    value of the information parameter. In this case it is usual, for the sake of
+    simplicity, to speak of the “value of a signal”.
+  - For an amplitude-modulated alternating voltage signal the information parameter
+    of the signal is the relationship between the actual amplitude to that amplitude
+    the voltage would have without amplitude-modulation. For a duration- or position-modulated
+    pulse signal the duration of each pulse or the position of each pulse within the
+    pulse period respectively is the information parameter of the signal.
+  - This entry was numbered 351-21-52 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: information parameter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 65fb50b4-c62f-5db3-8fdd-c0513eb6ce23
+status: valid

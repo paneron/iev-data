@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: natural (Napierian) logarithm of the reciprocal of the spectral internal
+    transmittance, `τ`~i~(`λ`) `A`~n~(`λ`) = `B`(`λ`) = − ln `τ`~i~(`λ`)
+  examples: []
+  id: 845-24-091
+  language_code: eng
+  notes:
+  - The Napierian spectral absorbance has unit one.
+  - This entry was numbered 845-04-84 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Napierian spectral absorbance
+    normative_status: preferred
+    type: expression
+    usage_info: of a homogeneous non-diffusing layer
+  - designation: Napierian spectral internal transmittance density
+    type: expression
+  - designation: '`A`~n~(`λ`)
+
+      `B`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 9c47d979-76fb-5e17-a169-b6c60f87282c
+status: valid

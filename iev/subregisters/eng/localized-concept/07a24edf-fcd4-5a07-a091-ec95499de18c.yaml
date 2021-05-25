@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: process permitting the conversion of the original binary signal into
+    a code matched to the characteristics of the recording medium or transmission
+    channel
+  examples: []
+  id: 807-01-11
+  language_code: eng
+  notes:
+  - The channel code (the result of channel encoding) may be, for example, non return
+    to zero (NRZ), duo-binary, or eight-to-fourteen modulation.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: channel encoding
+    normative_status: preferred
+    type: expression
+  - designation: channel coding
+    type: expression
+dateAccepted: 1998-04-01
+id: 07a24edf-fcd4-5a07-a091-ec95499de18c
+status: valid

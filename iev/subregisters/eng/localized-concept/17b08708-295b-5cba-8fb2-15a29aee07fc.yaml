@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-07-01
+  definition: frequency of an electromagnetic disturbance causing an unintended response
+    from a given equipment
+  examples: []
+  id: 161-06-06
+  language_code: eng
+  notes:
+  - 'In the case of a receiver tuned to frequency `f`~0~, many spurious frequencies
+    `f`~s~ can be found from the following formulae:
+
+
+    `f_s = (1)/(m) ( n f_L +- f_I )`
+
+
+    or
+
+
+    `f_s = ((f_0))/(h)`
+
+
+    where
+
+
+    `f`~L~ is the local oscillator frequency,
+
+
+    `f`~I~ is the intermediate frequency,
+
+
+    `m`, `n`, and `h` are integers.'
+  reviewDate: 2016-07-01
+  reviewDecisionDate: 2016-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spurious frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~s~'
+    international: true
+    type: symbol
+dateAccepted: 2016-07-01
+id: 17b08708-295b-5cba-8fb2-15a29aee07fc
+status: valid

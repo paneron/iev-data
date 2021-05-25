@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir {{ IEV 151-12-27, IEV:151-12-27}}
+  examples: []
+  id: 466-01-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: ligne électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ligne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour le transfert de l'énergie électrique
+dateAccepted: 2018-11-17
+id: 20f658d8-4859-59d7-841b-efb43fdb6004
+status: valid

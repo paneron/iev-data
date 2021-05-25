@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: 'graphical representation of the frequency response by polar coordinates
+    as a curve in the complex plane with the angular frequency as the curve parameter
+    SEE: Figure 9.'
+  examples: []
+  id: 351-45-49
+  language_code: eng
+  notes:
+  - At the frequency response locus the modulus (absolute value) of the polar coordinates
+    is the gain and its argument is the phase angle at a given angular frequency.
+  - This entry was numbered 351-24-41 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency response locus
+    normative_status: preferred
+    type: expression
+  - designation: Nyquist plot
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 56c8c202-4f05-5285-a35e-91428fffae08
+status: valid

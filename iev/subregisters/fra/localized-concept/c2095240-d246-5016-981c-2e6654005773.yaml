@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.38
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.38
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  definition: composants utilisés pour la configuration de réseaux de rame et de réseaux
+    de trains
+  examples: []
+  id: 811-37-70
+  language_code: fra
+  notes:
+  - Il peut s’agir de composants passifs tels que des câbles ou des connecteurs, de
+    composants actifs non gérés tels que des répéteurs, des convertisseurs de supports
+    ou des commutateurs (non gérés), ou de composants actifs gérés tels que des passerelles,
+    des routeurs et des commutateurs (gérés).
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif réseau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c2095240-d246-5016-981c-2e6654005773
+status: valid

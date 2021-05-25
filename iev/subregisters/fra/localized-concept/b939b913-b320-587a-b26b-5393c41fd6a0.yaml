@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur de l'énergie des neutrons au-dessous de laquelle ils seraient
+    fortement absorbés par un écran de cadmium et au-dessus de laquelle le milieu
+    est transparent à ces neutrons
+  examples: []
+  id: 395-02-19
+  language_code: fra
+  notes:
+  - En métrologie nucléaire, ce seuil est généralement fixé à 0,5 eV.
+  reviewDecisionEvent: published
+  terms:
+  - designation: seuil cadmium effectif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: seuil de coupure du cadmium
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b939b913-b320-587a-b26b-5393c41fd6a0
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      original: IEC Guide 117:2010, 3.3
+      ref: IEC Guide 117:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: '{{surface temperature, IEV:903-03-07}} defining the boundary between
+    no burn and a superficial partial thickness burn caused by contact of the skin
+    with a hot surface for a specified {{contact period, IEV:903-03-05}}'
+  examples: []
+  id: 903-03-08
+  language_code: eng
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: burn threshold
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 8677bc0a-ca4d-5082-952a-3c5c9fe9318e
+status: valid

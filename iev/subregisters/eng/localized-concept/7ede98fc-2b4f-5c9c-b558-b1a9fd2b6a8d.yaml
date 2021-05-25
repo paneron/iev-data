@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: electrical quantity which, when applied to the input circuit of an elementary
+    relay under specified conditions, enables it to fulfill its purpose
+  examples: []
+  id: 444-03-01
+  language_code: eng
+  notes:
+  - For elementary relays the energizing quantity is usually a voltage. Therefore,
+    the input voltage as energizing quantity is used in the definitions given below.
+    Where a relay is energized by a given current instead, the respective terms and
+    definitions apply with "current" used instead of "voltage".
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energizing quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-01-01
+id: 7ede98fc-2b4f-5c9c-b558-b1a9fd2b6a8d
+status: valid

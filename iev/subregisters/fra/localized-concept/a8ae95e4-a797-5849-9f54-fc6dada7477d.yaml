@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'grandeur vectorielle obtenue en un point donné en soustrayant l''aimantation
+    `*M*` du quotient de l''induction magnétique `*B*` par la constante magnétique
+    `μ`~0~: `H = (B)/((mu_0)) - M`'
+  examples: []
+  id: 121-11-56
+  language_code: fra
+  notes:
+  - 'Dans le vide le champ magnétique est en tout point égal au quotient de l''induction
+    magnétique par la constante magnétique:
+
+
+    `H = (B)/((mu_0))`'
+  - 'Le rotationnel du champ magnétique est égal à la densité de courant total *`J`*~t~:
+
+
+    *rot `H`* = *`J`*~t~'
+  - L’induction magnétique `*B*` est parfois appelée "champ magnétique", ce qui peut
+    entraîner une confusion avec le champ magnétique `*H*`.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ magnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: excitation magnétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: a8ae95e4-a797-5849-9f54-fc6dada7477d
+status: valid

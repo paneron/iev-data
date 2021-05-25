@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: temps de transfert dans le cas où le signal primaire se présente à l'entrée
+    de l'émetteur de téléconduite au moment le plus défavorable pour le système de
+    téléconduite
+  examples: []
+  id: 371-08-17
+  language_code: fra
+  notes:
+  - Dans un système cyclique, le temps de transfert maximal peut se produire lorsqu'une
+    information est présentée à l'émetteur juste après l'exploration de l'entrée correspondante;
+    dans un système déclenché, ce temps de transfert maximal peut se produire lorsque
+    l'information est présentée juste après le début de l'émission d'un autre bloc
+    d'information.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps maximal de transfert
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: e339e7b6-9c95-5a32-9b18-09c190ca89b1
+status: valid

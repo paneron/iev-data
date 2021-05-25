@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-05-01
+  definition: shortest distance or the sum of the shortest distances along the surface
+    on an insulator between two conductive parts which normally have the operating
+    voltage between them
+  examples: []
+  id: 471-01-04
+  language_code: eng
+  notes:
+  - The surface of cement or of any other non-insulating jointing material is not
+    considered as forming part of the creepage distance.
+  - If a high resistance coating is applied to parts of the insulating part of an
+    insulator, such parts are considered to be effective insulating surfaces and the
+    distance over them is included in the creepage distance.
+  reviewDate: 2007-05-01
+  reviewDecisionDate: 2007-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: creepage distance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-05-01
+id: 5fa47343-a7d1-5012-b2b2-d3183cd6ceb1
+status: valid

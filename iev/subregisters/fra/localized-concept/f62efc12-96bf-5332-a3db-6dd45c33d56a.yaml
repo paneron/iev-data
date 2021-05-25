@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur vectorielle axiale additive égale à l'intégrale du moment de
+    force *`M`* par rapport au temps `t` dans un intervalle de temps [`t`~1~, `t`~2~],
+    soit `H = int_(t_1)^(t_2) M d t`
+  examples: []
+  id: 113-03-28
+  language_code: fra
+  notes:
+  - 1 Pour un intervalle de temps &amp;lsqb;`t`~1~, `t`~2~&amp;rsqb;, l'impulsion
+    angulaire est égale à la variation du moment cinétique *`L`*, soit *`H`* = *`L`*(`t`~2~) − *`L`*(`t`~1~) = Δ*`L`*.
+  - 2 L'unité SI cohérente d’impulsion angulaire est le newton mètre seconde, N·m·s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impulsion angulaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: f62efc12-96bf-5332-a3db-6dd45c33d56a
+status: valid

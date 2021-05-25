@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity proportional to the number of elementary entities of a specified
+    nature which are contained in a given sample of matter, the proportionality coefficient
+    being the same for all samples
+  examples: []
+  id: 113-02-07
+  language_code: eng
+  notes:
+  - '1 The elementary entities must be specified and may be of any kind: atoms, molecules,
+    ions, electrons, holes, other particles or quasi-particles, groups of particles,
+    double bonds, etc.'
+  - 2 The proportionality coefficient in the definition is the reciprocal of the Avogadro
+    constant `N`~A~, thus `N` = `nN`~A~, where `N` is the number of elementary entities.
+  - 3 The term "amount of substance" is to be interpreted as a whole, not as a combination
+    of two terms. However, the words “of substance” could be replaced by words to
+    specify the substance concerned in any specific application, e.g. “amount of hydrogen
+    chloride, HCl”.
+  - 4 Amount of substance is one of the seven base quantities in the International
+    System of Quantities, ISQ, on which the International System of Units, SI, is
+    based. The coherent SI unit of amount of substance is mole, symbol mol (see IEC
+    60050-112:2010, {{112-02-09, IEV:112-02-09}}).
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amount of substance
+    normative_status: preferred
+    type: expression
+  - designation: '`n`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 248f42a4-8590-5a10-884e-63255cb4e360
+status: valid

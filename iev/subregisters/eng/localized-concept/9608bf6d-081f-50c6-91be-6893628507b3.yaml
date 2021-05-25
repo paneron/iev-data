@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-12-01
+  definition: automatic equipment which is designed to initiate the reclosing of circuit-breaker(s)
+    after operation of the protection on the associated circuit
+  examples: []
+  id: 448-16-02
+  language_code: eng
+  notes:
+  - 'If the autoreclose open time is of interest it should be mentioned after the
+    expression. Thus the term may be described as high speed, low speed, delayed,
+    as appropriate to the application.
+
+
+    Example: Automatic reclosing equipment with an autoreclose open time of 0,5 s.
+
+
+    See figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-en.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: automatic reclosing equipment
+    normative_status: preferred
+    type: expression
+  - designation: automatic reclosing relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: 9608bf6d-081f-50c6-91be-6893628507b3
+status: valid

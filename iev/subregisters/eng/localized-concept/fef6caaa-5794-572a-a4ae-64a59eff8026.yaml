@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: system which monitors the operation of a reactor and which, on sensing
+    an abnormal condition, automatically initiates actions to prevent an unsafe or
+    potentially unsafe condition
+  examples: []
+  id: 395-07-55
+  language_code: eng
+  notes:
+  - The “system” in this case encompasses all electrical and mechanical devices and
+    circuitry, from sensors to actuation device input terminals.
+  - This system can also be actuated manually by plant operators.
+  - This entry was numbered 394-34-08 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protection system
+    normative_status: preferred
+    type: expression
+    usage_info: of a nuclear reactor
+dateAccepted: 2014-03-01
+id: fef6caaa-5794-572a-a4ae-64a59eff8026
+status: valid

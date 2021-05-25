@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: unité fonctionnelle qui peut effectuer des opérations de gestion sur
+    des objets gérés et qui peut envoyer des notifications pour le compte d'objets
+    gérés
+  examples: []
+  id: 732-02-07
+  language_code: fra
+  notes:
+  - Un agent de réseau réside sur le système informatique contenant les objets gérés,
+    et communique avec un gestionnaire de réseau.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: agent de réseau (en gestion de réseau)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 3faceaae-daba-5bf0-9a2e-846874031b7b
+status: valid

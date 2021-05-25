@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.10'
+      link: https://webstore.iec.ch/publication/7002
+      original: IEC 62427:2007, 3.10, modified
+      ref: IEC 62427:2007
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: failure of an item of signalling equipment which results in a less restrictive
+    condition for the movement of traffic than is appropriate
+  examples: []
+  id: 821-05-81
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: wrong-side failure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 27b15d7e-d724-54b9-8617-7c04140fecd3
+status: valid

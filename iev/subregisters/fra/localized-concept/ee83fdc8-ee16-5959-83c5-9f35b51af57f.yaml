@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans l'espace euclidien à trois dimensions, ensemble ordonné de trois
+    vecteurs linéairement indépendants *`U`*, *`V`* et *`W`*, tel que, pour un observateur
+    regardant dans la direction de *`W`*, la rotation d'angle minimal qui amène *`U`*
+    sur *`V`* se fait dans le sens des aiguilles d'une montre
+  examples: []
+  id: 102-03-30
+  language_code: fra
+  notes:
+  - Les vecteurs d'un trièdre direct ont des directions qui correspondent respectivement
+    à celles du pouce (*`U`*), de l'index (*`V`*) et du majeur (*`W`*) de la main
+    droite, lorsque l'index est en extension et le majeur pointe à angle droit des
+    autres doigts.
+  reviewDecisionEvent: published
+  terms:
+  - designation: trièdre direct
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ee83fdc8-ee16-5959-83c5-9f35b51af57f
+status: valid

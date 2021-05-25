@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'inverse de la réponse en gain en boucle ouverte à la pulsation critique
+    VOIR: Figure 9.'
+  examples: []
+  id: 351-46-07
+  language_code: fra
+  notes:
+  - Dans la représentation logarithmique de la réponse en gain en boucle ouverte,
+    la valeur de la marge de gain `G`~m~ peut être lue comme le logarithme négatif
+    −lg`G`~m~ à la pulsation critique. `G`~m~ résulte de `G`~m~ = |`G`~0~(j`ω`~π~)|^–1^
+    (voir Figure 10).
+  - 'Cet article était numéroté 351-25-07 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig9.png[Figure 9 - Open-loop frequency response
+    locus; Nyquist plot; Lieu de la réponse en fréquence en boucle ouverte; diagramme
+    polaire; diagramme de Nyquist
+
+
+    <simg>
+
+
+    *Figure 10 – Open-loop frequency response characteristic; Bode diagram; Bode chart*
+
+
+    Figure 10 – Courbes de réponse en fréquence en boucle ouverte; diagramme de Bode]</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: marge de gain
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: f58c618d-4119-5da6-abcc-ddcfa4b84adb
+status: valid

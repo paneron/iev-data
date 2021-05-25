@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-04-01
+  definition: property of a {{sinusoidal, IEV:103-07-01}} {{electromagnetic wave,
+    IEV:121-11-63}} defined at a fixed point in space by the direction of the {{electric
+    field strength, IEV:121-11-18}} vector or of any specified field vector
+  examples: []
+  id: 705-01-13
+  language_code: eng
+  notes:
+  - When the direction of the vector varies with time, the property can be characterized
+    by the locus described by the extremity of the considered field vector.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarization
+    normative_status: preferred
+    type: expression
+    usage_info: of an electromagnetic wave
+dateAccepted: 2020-04-01
+id: 03ae2d90-7ae6-503a-888f-0bc0c9e30d5d
+status: valid

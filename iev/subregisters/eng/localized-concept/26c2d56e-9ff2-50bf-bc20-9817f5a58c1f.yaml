@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: series of complex coefficients obtained by the expansion in Fourier
+    series of the AC magnetization `M(t)`
+  examples: []
+  id: 815-17-13
+  language_code: eng
+  notes:
+  - 'The AC magnetization, `M(t),` under the magnetic field strength of `h_0 cos omega
+    t` is expanded as:
+
+
+    `M ( t ) = h_0 sum_((n = 0))^(oo) kappa_n^'' cos ( n omega t ) + kappa_n^″ sin
+    ( n omega t )`
+
+
+    where `kappa_n^''` and `kappa_n^″` are the real and imaginary parts of the AC
+    magnetic susceptibility for the order `n`.'
+  - The fundamental components `kappa_1^'` and `kappa_1^″` are mostly observed for
+    measurements of superconducting transition.
+  - 'The AC loss energy density `W` is given as:
+
+
+    `W = pi mu_0 h_0^2 kappa_1^″`'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: AC magnetic susceptibility
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 26c2d56e-9ff2-50bf-bc20-9817f5a58c1f
+status: valid

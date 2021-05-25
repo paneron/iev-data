@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: unit for evaluating the subjective degradation of a picture under specified
+    conditions of observation, derived from a reference image which has a medium rating
+    using a given quality scale or impairment scale
+  examples: []
+  id: 723-06-91
+  language_code: eng
+  notes:
+  - Under certain conditions the imp units are summable, in the sense that the subjective
+    degradation due to several non-correlated faults is the sum of the degradations
+    due to each fault considered separately.
+  - The method of use of imp units is described in CCIR Report 405.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: imp
+    normative_status: preferred
+    type: expression
+  - designation: impairment unit
+    type: expression
+dateAccepted: 1997-03-01
+id: 0a51b628-7a1d-5b29-9971-32b1fb9ec7b6
+status: valid

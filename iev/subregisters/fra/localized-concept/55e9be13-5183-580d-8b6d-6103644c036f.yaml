@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un intervalle fini de `a` à `b`, différence `b - a`
+  examples: []
+  id: 103-01-14
+  language_code: fra
+  notes:
+  - Par exemple, l'étendue d'un intervalle fermé de `a` à `b` est notée `r a , b`.
+  - Des termes spécifiques sont souvent employés à la place du terme étendue. Par
+    exemple, l’étendue d’un intervalle de temps est appelée «durée»; l’étendue d’une
+    bande de fréquences est appelée «largeur de bande».
+  reviewDecisionEvent: published
+  terms:
+  - designation: étendue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 55e9be13-5183-580d-8b6d-6103644c036f
+status: valid

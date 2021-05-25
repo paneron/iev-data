@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de d`N` par d`a` et d`t`, où d`N` est l'incrément du nombre
+    de particules incidentes sur une surface d'aire d`a` pendant un intervalle de
+    temps de durée d`t` `N`^0^ = d^2^`N`/d`a` d`t`
+  examples: []
+  id: 395-01-16
+  language_code: fra
+  notes:
+  - Le mot "particule" est habituellement remplacé par le nom d'une particule élémentaire
+    spécifique, par exemple flux de neutrons.
+  - Cette grandeur s'exprime en secondes à la puissance moins un par unité de surface
+    (m^−2^ s^−1^ or cm^−2^ s^−1^).
+  - Cet article était numéroté 393-14-27 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux de particules
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 21dd0ebe-9e2b-5bcd-bf43-5db50591b850
+status: valid

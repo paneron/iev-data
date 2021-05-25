@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      original: IEC Guide 117:2010, 3.3
+      ref: IEC Guide 117:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: '{{température de surface, IEV:903-03-07}} qui définit la limite entre
+    l''absence de brûlure et une brûlure superficielle partielle causée par le contact
+    de la peau avec une surface chaude pendant une {{durée de contact, IEV:903-03-05}}
+    spécifique'
+  examples: []
+  id: 903-03-08
+  language_code: fra
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: seuil de brûlure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: e09c39ae-3203-51cb-bf96-b666f6b70fff
+status: valid

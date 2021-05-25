@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: quotient of the amount of substance `n`~B~ of solute B by the mass `m`
+    of the solvent `b`~B~ = `n`~B~ / `m`
+  examples: []
+  id: 114-01-19
+  language_code: eng
+  notes:
+  - The alternative symbol `m`~B~ should be avoided in situations where it might be
+    mistaken for mass of substance B.
+  - The coherent SI unit of molality is mole per kilogram, mol/kg.
+  - 'This entry was numbered 111-15-28 in IEC 60050-111:1996. It has been modified
+    as follows: a formula has been added.'
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: molality
+    normative_status: preferred
+    type: expression
+  - designation: '`b`~B~
+
+      `m`~B~'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 04e3b962-c9f0-57f1-92d2-fc693d526253
+status: valid

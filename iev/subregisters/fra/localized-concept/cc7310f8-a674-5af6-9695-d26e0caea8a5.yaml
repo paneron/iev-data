@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 13-37
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-37, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: moyenne par {{caractère, IEV:702-05-10}} de l'{{entropie, IEV:171-07-15}},
+    étendue à tous les messages issus d'une {{source de messages stationnaire, IEV:171-07-09}}
+    `H^( ' ) = underset((m -> oo))((lim)) ((H_m))/(m)` où `Hm` est l'entropie de l'ensemble
+    de toutes les suites de `m` caractères issues de la source
+  examples: []
+  id: 171-07-28
+  language_code: fra
+  notes:
+  - L'entropie moyenne par caractère peut être exprimée à l'aide d'une unité telle
+    que le shannon par caractère.
+  - La limite pourrait ne pas exister si la source n'était pas stationnaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: entropie moyenne par caractère
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cc7310f8-a674-5af6-9695-d26e0caea8a5
+status: valid

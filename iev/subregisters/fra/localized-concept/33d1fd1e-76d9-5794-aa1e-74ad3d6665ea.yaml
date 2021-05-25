@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: poste dans lequel l'isolation entre phases et entre phase et terre est
+    assurée essentiellement par l'air à la pression atmosphérique et dans lequel certaines
+    des parties sous tension ne comportent pas d'enveloppe
+  examples: []
+  id: 605-02-13
+  language_code: fra
+  notes:
+  - Un poste ouvert peut être intérieur ou extérieur.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: poste ouvert
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: poste dans l'air
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 33d1fd1e-76d9-5794-aa1e-74ad3d6665ea
+status: valid

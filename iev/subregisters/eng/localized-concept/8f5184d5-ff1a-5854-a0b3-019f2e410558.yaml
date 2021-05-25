@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: ability to perform as and when required
+  examples: []
+  id: 192-01-22
+  language_code: eng
+  notes:
+  - Dependability includes availability ({{192-01-23, IEV:192-01-23}}), reliability
+    ({{192-01-24, IEV:192-01-24}}), recoverability ({{192-01-25, IEV:192-01-25}}),
+    maintainability ({{192-01-27, IEV:192-01-27}}), and maintenance support performance
+    ({{192-01-29, IEV:192-01-29}}), and, in some cases, other characteristics such
+    as durability ({{192-01-21, IEV:192-01-21}}), safety and security.
+  - Dependability is used as a collective term for the time-related quality characteristics
+    of an item.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dependability
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 8f5184d5-ff1a-5854-a0b3-019f2e410558
+status: valid

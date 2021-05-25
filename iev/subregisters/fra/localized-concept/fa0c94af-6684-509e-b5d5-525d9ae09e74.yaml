@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: correction d'erreurs employant un code détecteur d'erreurs, dans laquelle
+    toute mutilation décelée à la réception provoque l'envoi, vers l'émetteur, par
+    une voie de retour, d'un signal de fonction qui commande la répétition d'une suite
+    fiхéе des derniers signaux émis
+  examples: []
+  id: 721-08-21
+  language_code: fra
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: correction d'erreurs par détection et répétition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ARQ
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: fa0c94af-6684-509e-b5d5-525d9ae09e74
+status: valid

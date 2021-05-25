@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/172
+      original: see IEC 60050-131
+      ref: IEC 60050-131
+      relationship:
+        type: related
+  dateAmended: 2001-07-01
+  definition: device having two terminals, or device having more than two terminals
+    where only the performance at two terminals forming a pair is of interest
+  examples: []
+  id: 151-12-13
+  language_code: eng
+  notes:
+  - In French, the term "bipôle" is also used for a two-terminal element or a two-terminal
+    network in circuit theory.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: two-terminal device
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: f9365bda-bec8-5043-984b-cc9edfc405e3
+status: valid

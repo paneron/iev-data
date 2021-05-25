@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: voltage between a specified point and reference earth, for a given location
+    of the short-circuit and value of short-circuit current
+  examples: []
+  id: 195-05-05
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: voltage to earth during a short-circuit
+    normative_status: preferred
+    type: expression
+  - designation: voltage to ground during a short-circuit
+    type: expression
+dateAccepted: 1998-08-01
+id: 99441dd0-3104-542d-913e-591f381647cc
+status: valid

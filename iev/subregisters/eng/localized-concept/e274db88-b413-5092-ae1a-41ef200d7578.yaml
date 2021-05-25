@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: time required for the change in detector output to reach, after a step
+    variation of a steady detector input, a specified percentage of its final value
+  examples: []
+  id: 845-25-065
+  language_code: eng
+  notes:
+  - The response time is expressed in seconds (s).
+  - This entry was numbered 845-05-58 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: response time
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+dateAccepted: 2020-12-01
+id: e274db88-b413-5092-ae1a-41ef200d7578
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: bruit pondéré par un filtre dont la caractéristique amplitude-fréquence
+    reproduit la sensibilité de l'oreille humaine normale aux sons de différentes
+    fréquences
+  examples: []
+  id: 702-08-42
+  language_code: fra
+  notes:
+  - La loi de pondération est donnée dans la description du psophométre de la Recommandation
+    0.41 du CCITT pour la téléphonie commerciale et celui de la Recommandation 468
+    du CCIR pour la radiodiffusion sonore.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit psophométrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bruit psophométré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 8ef948f9-587a-5e35-aa4d-702d62bdc752
+status: valid

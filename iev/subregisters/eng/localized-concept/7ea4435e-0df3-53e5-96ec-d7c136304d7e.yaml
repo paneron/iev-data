@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: product of geometric extent and the squared refractive index of a medium
+    through which the beam propagates
+  examples: []
+  id: 845-21-048
+  language_code: eng
+  notes:
+  - The optical extent is invariant and remains constant when the beam is propagating
+    through successive non-diffusing media.
+  - See also "<a href="IEV845-21-047">geometric extent</a>".
+  - The optical extent is expressed in square metre times steradian (m^2^·sr).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: optical extent
+    normative_status: preferred
+    type: expression
+  - designation: etendue
+    type: expression
+dateAccepted: 2020-12-01
+id: 7ea4435e-0df3-53e5-96ec-d7c136304d7e
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: suspension of a process, such as the execution of a {{computer program,
+    IEV:171-05-05}}, caused by an event external to that process and performed in
+    such a way that the process can be resumed
+  examples: []
+  id: 171-05-30
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interrupt
+    normative_status: preferred
+    type: expression
+  - designation: interruption
+    type: expression
+dateAccepted: 2019-03-01
+id: 6f87eba2-f303-5efd-b3f3-6cebd5204d0f
+status: valid

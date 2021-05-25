@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'closed-loop control in which the manipulated variable, while still
+    depending on the controller output variable, is also made to depend on the measured
+    value of one or more disturbance variables SEE: Figure 13.'
+  examples: []
+  id: 351-47-09
+  language_code: eng
+  notes:
+  - This entry was numbered 351-26-09 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: disturbance feedforward control
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 7c22e302-6f99-5545-aef5-8c6838ec0dd4
+status: valid

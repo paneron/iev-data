@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps, après le temps d'échauffement du matériel, entre
+    l'instant auquel la variation instantanée entre air pur et gaz d'essai normalisé,
+    ou vice versa, se produit à l'entrée du matériel et l'instant auquel la réponse
+    atteint un pourcentage fixé (`x`) du signal stabilisé pour le gaz d'essai normalisé
+  examples: []
+  id: 426-24-67
+  language_code: fra
+  notes:
+  - Le temps de réponse ne s'applique pas aux matériels à lecture intermittente.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de réponse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: 5e0bdf3b-cf0e-5bb1-a91b-0a5b037e155d
+status: valid

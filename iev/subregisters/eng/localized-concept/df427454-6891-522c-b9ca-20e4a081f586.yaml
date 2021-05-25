@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: technique for moving {{data, IEV:171-01-02}} directly between the {{main
+    storage, IEV:171-04-21}} and {{peripheral equipment, IEV:171-04-07}} without requiring
+    the {{processing unit, IEV:171-04-04}}
+  examples: []
+  id: 171-04-33
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: direct memory access
+    normative_status: preferred
+    type: expression
+  - designation: DMA
+    type: expression
+dateAccepted: 2019-03-01
+id: df427454-6891-522c-b9ca-20e4a081f586
+status: valid

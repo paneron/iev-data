@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: variation des caractéristiques de propagation en fonction de la longueur
+    d'onde
+  examples: []
+  id: 731-03-74
+  language_code: fra
+  notes:
+  - La dispersion entraîne une distorsion du signal transmis.
+  - Dans une fibre optique unimodale, la dispersion est due à différents mécanismes,
+    tels que la dispersion du matériau, la dispersion de guidage, la dispersion de
+    profil.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispersion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: dispersion chromatique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: d04875cc-4272-5c01-a94d-759abc0655ef
+status: valid

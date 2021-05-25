@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: concentration de gaz ou de vapeur inflammable dans l'air, au-dessous
+    de laquelle une atmosphère explosive gazeuse ne se forme pas
+  examples: []
+  id: 426-02-09
+  language_code: fra
+  notes:
+  - Pour les besoins des {{Matériels Ex, IEV:426-01-14}}, cette limite était précédemment
+    appelée "limite inférieure d'explosivité" (LEL – lower explosive limit).
+  - La concentration peut être exprimée en titre volumique ou en masse volumique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: limite inférieure d'inflammabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: LII
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 780c25e9-92c8-57b5-95a0-56b876049e2e
+status: valid

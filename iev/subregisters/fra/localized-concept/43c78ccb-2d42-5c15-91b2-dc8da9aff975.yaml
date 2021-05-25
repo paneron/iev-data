@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'représentation graphique en coordonnées polaires du facteur de réflexion
+    complexe `r`, pour une ligne de transmission uniforme sans pertes, d''impédance
+    caractéristique `Z`~0~: `underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z)
+    + Z_0)) = ((underset(_)(Z) // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))` en fonction
+    de l''impédance complexe `Z` à l''aide de deux familles de cercles orthogonaux
+    sur chacun desquels soit le module `Z` soit l''argument `θ` a une valeur constante,
+    `Z` = `Z`/`θ` étant l''impédance complexe dans la direction de propagation de
+    l''onde incidente au point de détermination du facteur de réflexion complexe'
+  examples: []
+  id: 726-19-02
+  language_code: fra
+  notes:
+  - "L'abaque `Z`-Théta peut être employé avec des impédances `Z`, des admittances\
+    \ `underset(_)(Y) = (1)/(underset(_)(Z))`, des impédances normées `(underset(_)(Z))/((Z_0))`\
+    \ ou des admittances normées\r\n`(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))`."
+  - L'abaque `Z`-Théta est habituellement limité aux valeurs de `θ` comprises entre
+    `- (pi)/(2)` et `+ (pi)/(2)` qui correspondent aux valeurs positives de la partie
+    réelle de `Z`; tout l'abaque est alors compris à l'intérieur d'un cercle où le
+    module du facteur de réflexion est égal à l'unité.
+  - L'abaque `Z`-Théta a les mêmes propriétés et applications que l'abaque de Smith,
+    mais l'impédance complexe `Z` y est représentée à l'aide de deux familles de cercles
+    sur chacun desquels soit le module `Z`, soit l'argument `θ` a une valeur constante,
+    au lieu des parties réelle `R` et imaginaire `X` de `Z` employées avec l'abaque
+    de Smith.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: abaque `Z`-Théta
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 43c78ccb-2d42-5c15-91b2-dc8da9aff975
+status: valid

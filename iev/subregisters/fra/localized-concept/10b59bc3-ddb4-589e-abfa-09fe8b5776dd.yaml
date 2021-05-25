@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '5.3'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 5.3
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{norme, IEV:901-02-02}} qui donne des méthodes d''essais parfois accompagnées
+    d''autres {{disposition, IEV:901-05-01}}s concernant l''{{essai, IEV:902-03-02}}
+    telles qu''échantillonnage, emploi des méthodes statistiques, ordre des essais'
+  examples: []
+  id: 901-02-16
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: norme d'essai
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 10b59bc3-ddb4-589e-abfa-09fe8b5776dd
+status: valid

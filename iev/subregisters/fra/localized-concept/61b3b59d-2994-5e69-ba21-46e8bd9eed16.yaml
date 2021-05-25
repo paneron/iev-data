@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'rapport, dans des conditions spécifiées, donné par la relation: `R`
+    = `v` / `v`~c~ où `v` est la valeur de la grandeur à mesurer par l''équipement
+    ou l''ensemble soumis à essai et `v`~c~ est la valeur conventionnellement vraie
+    de cette grandeur'
+  examples: []
+  id: 395-03-72
+  language_code: fra
+  notes:
+  - Le signal d´entrée d´un système de mesure peut être appelé stimulus, et le signal
+    de sortie peut être appelé réponse (VIM).
+  - Le terme réponse peut avoir plusieurs définitions. A titre d’exemple est indiquée
+    la définition de la réponse d’un ensemble de mesure de rayonnement.
+  - Cet article était numéroté 394-40-21 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse d’un ensemble de mesure de rayonnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 61b3b59d-2994-5e69-ba21-46e8bd9eed16
+status: valid

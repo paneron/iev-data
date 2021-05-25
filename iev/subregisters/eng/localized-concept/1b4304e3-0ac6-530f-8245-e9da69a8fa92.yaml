@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: entity belonging to a given set
+  examples: []
+  id: 102-01-03
+  language_code: eng
+  notes:
+  - The notation `x` ∈ `A` expresses that the entity `x` is an element of the set
+    `A`. The notation `x` ∉ `A` expresses that the entity `x` is not an element of
+    the set `A`. Another wording is "`x` belongs to `A`" or "`x` does not belong to
+    `A`".
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: element of a set
+    normative_status: preferred
+    type: expression
+  - designation: element
+    type: expression
+dateAccepted: 2008-08-01
+id: 1b4304e3-0ac6-530f-8245-e9da69a8fa92
+status: valid

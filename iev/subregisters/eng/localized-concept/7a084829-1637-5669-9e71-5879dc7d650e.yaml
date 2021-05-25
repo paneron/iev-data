@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: logarithm to base 10 of the quotient of the luminance of the <a href="IEV845-32-058">adopted
+    white</a> of a scene or original, `Y`~adopted white~, and the luminance of a measured
+    area of the scene or original, `Y`~measured area~ `D_v = (log)_((10)) ((Y_((adopted
+    white))))/((Y_((measured area))))`
+  examples: []
+  id: 845-24-125
+  language_code: eng
+  notes:
+  - The effective visual density has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective visual density
+    normative_status: preferred
+    type: expression
+  - designation: effective luminous density
+    type: expression
+  - designation: '`D`~v~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7a084829-1637-5669-9e71-5879dc7d650e
+status: valid

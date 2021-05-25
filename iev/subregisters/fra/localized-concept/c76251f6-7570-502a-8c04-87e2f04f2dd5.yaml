@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: mesurage des grandeurs se rapportant au rayonnement tel qu'il est évalué
+    selon une <a href="IEV845-21-035">efficacité lumineuse relative spectrale</a>
+    donnée, par exemple, `V`(`λ`) ou `V`′(`λ`)
+  examples: []
+  id: 845-25-013
+  language_code: fra
+  notes:
+  - Le terme "photométrie" est parfois utilisé dans un sens plus large de science
+    de mesure des <a href="IEV845-21-002">rayonnements optiques</a> (<a href="IEV845-25-005">radiométrie</a>),
+    cet emploi étant toutefois déconseillé.
+  - Cet article était numéroté 845-05-09 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: photométrie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c76251f6-7570-502a-8c04-87e2f04f2dd5
+status: valid

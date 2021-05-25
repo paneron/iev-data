@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{bruit électromagnétique, IEV:161-01-02}} dû à la nature corpusculaire
+    du {{rayonnement électromagnétique, IEV:161-01-10}}'
+  examples: []
+  id: 702-08-49
+  language_code: fra
+  notes:
+  - À la température ordinaire, le bruit quantique n'a d'importance que pour les {{fréquences,
+    IEV:103-06-02}} extrêmement élevées, telles que celles du {{rayonnement optique,
+    IEV:731-01-03}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit photonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bruit quantique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 41ee963d-7080-556c-acbf-92709aa6f05d
+status: valid

@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-01
+      original: 705-03-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: scalar constant `ε`~0~ linking the electric quantities and the mechanical
+    quantities, obtained from the relation `F = (1)/((4 pi epsilon_0)) * ((| Q_1 Q_2
+    |))/((r^2))` based on Coulomb's law in vacuum, where `F` is the magnitude of the
+    force between two particles with electric charges `Q`~1~ and `Q`~2~ respectively,
+    placed at a distance `r` apart
+  examples: []
+  id: 121-11-03
+  language_code: eng
+  notes:
+  - 'In vacuum, the product of the electric constant and the electric field strength
+    *`E`*  is equal to the electric flux density *`D`*:
+
+
+    *`D`* = `ε`~0~*`E`*'
+  - 'The electric constant is related to the magnetic constant `μ`~0~ and to the speed
+    of light in vacuum `c`~0~ by the relation
+
+
+    `ε`~0~`μ`~0~`c`~0~^2^ = 1'
+  - 'The value of the electric constant is exactly equal to
+
+
+    `((10^7))/((4 pi xx 299 792 458^2)) m^(- 3) kg^(- 1) s^4 A^2 = 8 , 854 187 817
+    ... pF // m`'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric constant
+    normative_status: preferred
+    type: expression
+  - designation: permittivity of vacuum
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`~0~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: fd36113a-30db-52fc-ae63-e9040834c2fe
+status: valid

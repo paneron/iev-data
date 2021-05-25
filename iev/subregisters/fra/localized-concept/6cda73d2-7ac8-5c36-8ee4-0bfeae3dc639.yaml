@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: produit du nombre total de conducteurs périphériques de l'enroulement
+    par le courant, en ampères, qui les parcourt
+  examples: []
+  id: 411-46-01
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant totalisé (d'un enroulement réparti)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: solénation (d'un enroulement réparti)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ampères-conducteurs (d'un enroulement réparti)
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2021-01-01
+id: 6cda73d2-7ac8-5c36-8ee4-0bfeae3dc639
+status: valid

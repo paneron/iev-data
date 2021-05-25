@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.2
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.2
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  definition: couche supérieure du modèle OSI ({{IEV 716-01-20, IEV:716-01-20}}) en
+    interface directe avec l'application
+  examples: []
+  id: 811-37-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: couche application
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0a5e8cb1-188b-567b-9019-a284bdb9baa4
+status: valid

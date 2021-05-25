@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: radio-relay system for which the direct radio path between two adjacent
+    stations is sufficiently clear from obstacles for diffraction to have a negligible
+    effect during most of the time, taking in account tropospheric refraction
+  examples: []
+  id: 713-02-12
+  language_code: eng
+  notes:
+  - The English term “microwave link” is used only above 1 Ghz.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (line-of-sight) radio-relay system
+    normative_status: preferred
+    type: expression
+  - designation: (line-of-sight) radio-relay link
+    type: expression
+  - designation: LOSRRL
+    type: expression
+  - designation: microwave link
+    type: expression
+dateAccepted: 1998-04-01
+id: 6204a8f2-a5c0-5631-9629-7dde29db74d9
+status: valid

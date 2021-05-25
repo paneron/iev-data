@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'binary relation ℛ between elements `a` and `b` of a given set having
+    the following properties: * reflexivity: `a`ℛ`a`, * symmetry: if `a`ℛ`b` then
+    `b`ℛ`a`, * transitivity: if `a`ℛ`b` and `b`ℛ`c` then `a`ℛ`c` for any elements
+    `a`, `b` and `c` of the given set'
+  examples: []
+  id: 102-01-08
+  language_code: eng
+  notes:
+  - Examples are the equality of elements of a set, the parallelism of straight lines
+    in a point space, the relation between integers whose difference is even.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalence relation
+    normative_status: preferred
+    type: expression
+  - designation: equivalence
+    type: expression
+dateAccepted: 2008-08-01
+id: a300f23f-50f7-5d2e-9807-3069a8e21604
+status: valid

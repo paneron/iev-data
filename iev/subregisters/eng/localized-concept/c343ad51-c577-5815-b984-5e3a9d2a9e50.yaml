@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: process of placing individual {{fuel cells, IEV:485-08-01}} adjacent
+    to one another to form a {{fuel cell stack, IEV:485-06-01}}
+  examples: []
+  id: 485-06-16
+  language_code: eng
+  notes:
+  - Normally, the individual fuel cells are connected in series.
+  - See "{{series connection, IEV:485-06-09}}".
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stacking
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: c343ad51-c577-5815-b984-5e3a9d2a9e50
+status: valid

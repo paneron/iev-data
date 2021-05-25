@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux transmis par un échantillon dans un système optique
+    donné par le flux transmis lorsque l'échantillon est retiré de l'ouverture d'échantillonnage
+  examples:
+  - Comparaison du rayonnement qui pénètre une diapositive dans un <a href="IEV845-30-030">projecteur</a>
+    et qui atteint un écran avec le rayonnement lorsque la diapositive est retirée
+    du projecteur et uniquement une monture pour diapositives vide est installée dans
+    le projecteur.
+  id: 845-24-074
+  language_code: fra
+  notes:
+  - L'unité de facteur de luminance élargi, par transmission, est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de luminance élargi, par transmission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d349fb38-34e6-547e-a5c7-e84bd3b487ef
+status: valid

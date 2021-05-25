@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-09-01
+  definition: '{{modulation, IEV:701-03-08}} of the {{carrier, IEV:702-06-03}} of
+    a {{wanted signal, IEV:702-08-01}} by an {{unwanted signal, IEV:161-01-03}} produced
+    by interaction of the signals in {{non-linear, IEV:131-11-19}} equipment, {{electric
+    networks, IEV:151-12-02}} or {{transmission media, IEV:704-02-01}}'
+  examples: []
+  id: 161-06-19
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cross-modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-09-01
+id: 8906ab92-51d4-53fc-8680-47b343afe3f6
+status: valid

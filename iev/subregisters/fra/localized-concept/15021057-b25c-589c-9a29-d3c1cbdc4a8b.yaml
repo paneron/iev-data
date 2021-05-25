@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{mémoire, IEV:171-04-14}} adressable directement commandée par un
+    {{processeur, IEV:171-04-01}}'
+  examples: []
+  id: 171-04-18
+  language_code: fra
+  notes:
+  - La mémoire interne est utilisée pour stocker les programmes en cours de traitement.
+  - La mémoire interne englobe la {{mémoire centrale, IEV:171-04-21}} et éventuellement
+    d’autres types de mémoires, comme la mémoire cache et les registres.
+  reviewDecisionEvent: published
+  terms:
+  - designation: mémoire interne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 15021057-b25c-589c-9a29-d3c1cbdc4a8b
+status: valid

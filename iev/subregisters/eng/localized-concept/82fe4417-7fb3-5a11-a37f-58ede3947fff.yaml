@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 415-03-15
+      original: see 415-03-15
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 1999-04-01
+  definition: a probability distribution often used for wind speeds, the distribution
+    function of which depends on one adjustable parameter – the scale parameter, which
+    controls the average wind speed of the distribution
+  examples: []
+  id: 415-03-14
+  language_code: eng
+  notes:
+  - The Rayleigh distribution is identical to a Weibull distribution with shape parameter
+    2.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Rayleigh distribution
+    normative_status: preferred
+    type: expression
+dateAccepted: 1999-04-01
+id: 82fe4417-7fb3-5a11-a37f-58ede3947fff
+status: valid

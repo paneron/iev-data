@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.48'
+      link: https://webstore.iec.ch/publication/6486
+      original: définition 3.48 de la CEI 62127-1
+      ref: IEC 62127-1
+      relationship:
+        type: identical
+  dateAmended: 2011-01-01
+  definition: 1,25 fois l'intervalle entre les instants auxquels l'intégrale de temps
+    du carré de la pression acoustique instantanée en un point atteint 10 % et respectivement
+    90 % de sa valeur finale
+  examples: []
+  id: 802-01-11
+  language_code: fra
+  notes:
+  - La valeur finale de l'intégrale de temps du carré de la pression acoustique instantanée
+    est l'intégrale de pression d'impulsion au carré.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d'impulsion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-01-01
+id: 0f124876-794d-5c01-b50f-d4a443ceaa23
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 702-04-02
+      original: 702-04-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: a signal in which the characteristic quantity representing information
+    may assume, at any instant, any value within a continuous interval
+  examples: []
+  id: 704-01-03
+  language_code: eng
+  notes:
+  - For example, an analogue signal may continuously follow the values of another
+    physical quantity representing information.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: analogue signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: f95a0de9-c735-56ae-9f5e-21f0848ef024
+status: valid

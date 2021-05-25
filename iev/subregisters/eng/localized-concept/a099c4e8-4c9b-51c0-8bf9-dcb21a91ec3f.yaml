@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: 1. an assembly, obtained by frequency division multiplexing, of 15 supergroups
+    in adjacent positions in a frequency band of specified width, with guard bands
+    between adjacent supergroups 2. a frequency band of standardized width, 3 716
+    kHz, in a multichannel carrier system and occupying one of a number of specified
+    positions in the spectrum
+  examples: []
+  id: 704-10-27
+  language_code: eng
+  notes:
+  - '"15-supergroup assembly" is the only term in use by the CCITT.'
+  - The French word "hypergroupe" or the English word "hypergroup" is sometimes used
+    for a supergroup assembly different from that standardized by CCITT. Accordingly,
+    this term should be qualified by the number of super-groups used in each application.
+  - A 15-supergroup assembly is normally an assembly of 900 FDM telephone channels.
+  - Signals, other than those derived from an assembly of supergroups but having specified
+    characteristics, may occupy the whole or a part of a frequency band assigned to
+    a 15-supergroup assembly.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: 15-supergroup assembly
+    normative_status: preferred
+    type: expression
+  - designation: (15-supergroup) hypergroup
+    type: expression
+dateAccepted: 1993-08-01
+id: a099c4e8-4c9b-51c0-8bf9-dcb21a91ec3f
+status: valid

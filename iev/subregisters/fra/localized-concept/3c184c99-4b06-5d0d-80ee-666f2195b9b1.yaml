@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: maintenance effectuée à un endroit différent de celui où l'entité est
+    utilisée
+  examples:
+  - Réparation effectuée dans un centre de maintenance.
+  id: 192-06-27
+  language_code: fra
+  notes:
+  - La maintenance hors site peut s’appliquer aux entités stockées.
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenance hors site
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3c184c99-4b06-5d0d-80ee-666f2195b9b1
+status: valid

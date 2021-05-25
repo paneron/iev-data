@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 702-04-11
+      original: 702-04-11
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1991-11-01
+  definition: suite d'intervalles de temps contigus prédéterminés
+  examples: []
+  id: 721-16-16
+  language_code: fra
+  notes:
+  - Les intervalles de temps successifs d'une trame temporelle n'ont pas tous nécessairement
+    la même durée.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: trame temporelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: 729e1dc6-25cb-530d-a50b-9311e5633da2
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'for a network containing `l` directed loops and `b` branches, and in
+    which a reference direction is chosen for each branch, matrix of type `l` × `b`
+    where the element `a`~`ij`~ is: <ul style="list-style: none;"> * 0 if branch `j`
+    is not in loop `i` * 1 if branch `j` is in loop `i` with the same direction *
+    −1 if branch `j` is in loop `i` with opposite direction'
+  examples: []
+  id: 131-13-22
+  language_code: eng
+  notes:
+  - – The figure gives a network and the corresponding branch-mesh incidence matrix
+    when both loops 1 and 2 are directed anticlockwise.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: branch-mesh incidence matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 1b97adaf-606d-5df1-a786-565087a02dbe
+status: valid

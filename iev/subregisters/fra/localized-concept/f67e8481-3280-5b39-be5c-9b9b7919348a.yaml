@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: définition 282
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 282, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: quotient du nombre d`N` de désintégrations d'un {{noyau atomique, IEV:113-05-21}},
+    pendant un court intervalle de temps, par la durée d`t` de cet intervalle et par
+    le nombre `N` de noyaux existants au même instant `t` `lambda = - (1)/(N) xx ((d
+    N))/((d t))`
+  examples: []
+  id: 395-01-11
+  language_code: fra
+  notes:
+  - Cette grandeur s'exprime en secondes à la puissance moins un (s^−1^).
+  - La constante de désintégration est la probabilité totale de décroissance radioactive
+    (désintégration ou transition nucléaire).
+  - Cet article était numéroté 393-14-18 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de désintégration
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f67e8481-3280-5b39-be5c-9b9b7919348a
+status: valid

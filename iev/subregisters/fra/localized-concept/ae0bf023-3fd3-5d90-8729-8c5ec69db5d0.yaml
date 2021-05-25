@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: angle compris entre deux lignes imaginaires situées dans un plan contenant
+    l'axe optique du faisceau, de sorte que ces lignes passent par le centre de la
+    face avant du dispositif et par les points auxquels l'intensité lumineuse est
+    égale à 50 % de l'intensité dans l'axe du faisceau
+  examples: []
+  id: 845-27-077
+  language_code: fra
+  notes:
+  - L'angle du faisceau est la mesure d'un angle plein et non d'un demi-angle.
+  - L'angle du faisceau est exprimé en degré (°).
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle du faisceau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ae0bf023-3fd3-5d90-8729-8c5ec69db5d0
+status: valid

@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'scalaire, noté `U * V^( * )`, attribué à tout couple de vecteurs *`U`*
+    et *`V`* d''un espace vectoriel complexe par une fonction donnée, avec les propriétés
+    suivantes: * `V * U^( * ) = ( U * V^( * ) )^( * )`, * `( alpha U ) * V^( * ) =
+    alpha ( U * V^( * ) )` et `U * ( beta V )^( * ) = beta^( * ) ( U * V^( * ) )`
+    où `α` et `β` sont des scalaires complexes, * `( U + V ) * W^( * ) = U * W^( *
+    ) + V * W^( * )` pour tout vecteur *`W`* du même espace vectoriel, * `U * U^(
+    * ) > 0` pour `U != 0`, où l''astérisque indique le vecteur conjugué'
+  examples: []
+  id: 102-03-18
+  language_code: fra
+  notes:
+  - 'Dans un espace à `n` dimensions muni de vecteurs de base orthonormés, le produit
+    hermitien de deux vecteurs *`U`* et *`V`* est la somme des produits de chaque
+    coordonnée `U_i` du vecteur *`U`* par le conjugué de la coordonnée correspondante
+    `V_i` du vecteur *`V`*:
+
+
+    `U * V^( * ) = underset(i)( sum ) U_i V_i ^( * )`'
+  - Pour deux vecteurs complexes ou deux grandeurs vectorielles complexes *`U`* et
+    *`V`*, on peut selon l'application utiliser soit le produit hermitien `U * V^(
+    * )`, soit un produit hermitien conjugué `U^( * ) * V`. Le produit hermitien `U
+    * U^( * )` ou `U^( * ) * U` est respectivement un scalaire réel ou une grandeur
+    scalaire réelle.
+  - Le produit hermitien est indiqué par un point à mi-hauteur (·) entre les deux
+    symboles représentant l'un des vecteurs et le conjugué de l'autre.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit hermitien
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5034a440-76e9-5400-89b0-fd7b3adb5621
+status: valid

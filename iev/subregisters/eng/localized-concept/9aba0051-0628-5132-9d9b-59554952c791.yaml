@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: for a polyphase line consisting of `m` line conductors and one neutral
+    conductor, sum of the `m` instantaneous powers expressed for each line conductor
+    by the product of the polyphase line-to-neutral voltage and the corresponding
+    line current
+  examples: []
+  id: 141-03-10
+  language_code: eng
+  notes:
+  - If there is no neutral conductor, the voltages between the line conductors and
+    any reference point have to be used instead of the polyphase line-to-neutral voltages.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous power
+    normative_status: preferred
+    type: expression
+    usage_info: for a polyphase line
+  - designation: '`p`'
+    international: true
+    type: symbol
+dateAccepted: 2004-08-01
+id: 9aba0051-0628-5132-9d9b-59554952c791
+status: valid

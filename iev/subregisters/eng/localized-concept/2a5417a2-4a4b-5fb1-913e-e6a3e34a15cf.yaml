@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.7
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.7
+      ref: IEC 62290-1:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: process to keep the output of the system within defined parameters using
+    commands for non-safety-related control or safety-related control
+  examples:
+  - An example of non-safety-related control is the process of commanding acceleration
+    or braking to maintain speed at `x` km/h ± `y` km/h. An example of safety-related
+    control is the process of commanding the emergency brakes if the speed exceeds
+    the predefined speed limit.
+  id: 821-01-28
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control
+    normative_status: preferred
+    type: expression
+    usage_info: in signalling
+dateAccepted: 2017-11-01
+id: 2a5417a2-4a4b-5fb1-913e-e6a3e34a15cf
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: temps qui s'écoule entre le moment où débute un changement de la valeur
+    de sortie de la puissance électrique ou thermique et le moment où la puissance
+    de sortie électrique ou thermique atteint la valeur du {{régime permanent, IEV:485-21-05}}
+    à la tolérance près
+  examples: []
+  id: 485-20-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de réponse en puissance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9403b5b5-6b45-5434-9279-5f0aebb4442b
+status: valid

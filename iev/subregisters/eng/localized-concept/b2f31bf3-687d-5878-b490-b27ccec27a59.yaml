@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'switching system the values of the output variables of which at a specified
+    instant depend on the values of the input variables and the values of the state
+    variables at this instant, whereas the values of the state variables of the system
+    at a following instant depend on the values of the state variables and the values
+    of the input variables at the specified instant SEE: Figure 22.'
+  examples: []
+  id: 351-52-04
+  language_code: eng
+  notes:
+  - "A sequential circuit is described by the equations<table>\r\n<tr>\n<td>*`x`*~`i`+1~\
+    \ = *`f`*(*`x`*~`i`~, *`u`*~`i`~)</td>\n<td>transition function, consisting of\
+    \ a finite number of state variables</td>\n</tr>\r\n<tr>\n<td>*`v`*~`i`~ = *`g`*(*`x`*~`i`~,\
+    \ *`u`*~`i`~)</td>\n<td>output function</td>\n</tr>\r\n</table>\n\nwhere<table>\r\
+    \n<tr>\n<td>*`x`*~`i`~</td>\n<td>is the state vector at instant `ti`;</td>\n</tr>\r\
+    \n<tr>\n<td>*`x`*~`i`+1~</td>\n<td>is the state vector at instant `t`~`i`+1~;</td>\n\
+    </tr>\r\n<tr>\n<td>*`u`*~`i`~</td>\n<td>is the input vector at instant `ti`;</td>\n\
+    </tr>\r\n<tr>\n<td>*`v`*~`i`~</td>\n<td>is the output vector at instant `ti`.</td>\n\
+    </tr>\r\n</table>"
+  - For the sequential circuit a specific stability does exist. This stability means
+    the property that the input variable which has caused the transition to a specific
+    state cannot interact with this state or cannot cause another transition when
+    interacting with this state.
+  - This entry was numbered 351-29-05 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sequential circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: b2f31bf3-687d-5878-b490-b27ccec27a59
+status: valid

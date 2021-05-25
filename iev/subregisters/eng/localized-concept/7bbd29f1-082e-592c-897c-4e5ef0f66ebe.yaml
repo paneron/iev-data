@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.2'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.2
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: lowest value of the applied force in a {{cycle, IEV:103-05-08}}
+  examples: []
+  id: 523-03-02
+  language_code: eng
+  notes:
+  - This definition is a modified version of a definition in ASTM E 1823-05a.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: minimum force
+    normative_status: preferred
+    type: expression
+    usage_info: in a cycle
+  - designation: '`P`~min~'
+    international: true
+    type: symbol
+dateAccepted: 2018-12-01
+id: 7bbd29f1-082e-592c-897c-4e5ef0f66ebe
+status: valid

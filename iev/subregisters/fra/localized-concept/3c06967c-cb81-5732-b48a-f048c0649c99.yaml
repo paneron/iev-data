@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie du temps de maintenance active consacré à effectuer une maintenance
+    préventive image::/assets/images/parts/192/60050-192-F2fr.png[Figure 2 - Temps
+    de maintenance]
+  examples: []
+  id: 192-07-08
+  language_code: fra
+  notes:
+  - Le temps de maintenance préventive active comprend le délai technique, la durée
+    des tâches de maintenance préventive et le temps d’essai de fonctionnement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de maintenance préventive active
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3c06967c-cb81-5732-b48a-f048c0649c99
+status: valid

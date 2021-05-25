@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée exigée pour que la réponse se modifie, à la suite du passage brusque
+    d'une excitation stationnaire à une autre, de la fraction (1 − 1/e) de la variation
+    totale de sa valeur, lorsque cette variation est la différence entre la valeur
+    initiale et la valeur (asymptote) finale
+  examples: []
+  id: 845-25-066
+  language_code: fra
+  notes:
+  - La constante de temps est exprimée en secondes (s).
+  - Cet article était numéroté 845-05-59 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de temps
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur dont la réponse varie exponentiellement avec le temps
+dateAccepted: 2018-11-17
+id: 997bc007-adbe-5f3e-9a3f-482b0b072e57
+status: valid

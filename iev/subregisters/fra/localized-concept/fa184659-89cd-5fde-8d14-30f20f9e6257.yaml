@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: définition 1111
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1111, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: grandeur liée à l'énergie minimale requise pour séparer une quantité
+    donnée de matière de teneur isotopique donnée en deux fractions de teneurs isotopiques
+    différentes
+  examples: []
+  id: 395-08-11
+  language_code: fra
+  notes:
+  - La teneur de l’une est plus élevée que la teneur initiale, l’autre plus faible.
+  - Cette quantité est exprimée en UTS, unité qui a la dimension d’une masse.
+  reviewDecisionEvent: published
+  terms:
+  - designation: travail de séparation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fa184659-89cd-5fde-8d14-30f20f9e6257
+status: valid

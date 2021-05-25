@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: within the Internet, a distributed database that provides the correspondence
+    between a host name and the associated IP address
+  examples: []
+  id: 732-07-13
+  language_code: eng
+  notes:
+  - The domain name system contains a kind of naming tree for domains and hosts which
+    identifies each Internet node unambiguously.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: domain name system
+    normative_status: preferred
+    type: expression
+  - designation: DNS
+    type: expression
+dateAccepted: 2010-06-01
+id: e8a7e1c1-09fb-56e8-b907-87a7a9b4ca48
+status: valid

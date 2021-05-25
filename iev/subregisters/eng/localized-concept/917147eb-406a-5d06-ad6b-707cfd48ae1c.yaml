@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: vector quantity *`a`* = d*`v`*/d`t`, where *`v`* is velocity and `t`
+    is time
+  examples: []
+  id: 113-01-38
+  language_code: eng
+  notes:
+  - 1 The acceleration is related to a point described by its position vector. The
+    point may localize a particle, or be attached to any other object such as a body
+    or a wave.
+  - 2 The acceleration depends on the chosen reference frame.
+  - 3 The coherent SI unit of acceleration is metre per second squared, m/s^2^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: acceleration
+    normative_status: preferred
+    type: expression
+  - designation: '*`a`*'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 917147eb-406a-5d06-ad6b-707cfd48ae1c
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: puissance de sortie électrique continue maximale, dans les conditions
+    normales de fonctionnement spécifiées par le fabricant, pour laquelle un {{système
+    à pile à combustible, IEV:485-09-01}} est conçu
+  examples: []
+  id: 485-14-04
+  language_code: fra
+  notes:
+  - La puissance assignée est exprimée en W.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance assignée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des piles à combustible
+dateAccepted: 2018-11-17
+id: 71a386dc-e8f9-57db-82ed-eb4b2049c261
+status: valid

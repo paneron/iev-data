@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{outages, IEV:692-04-02}}, forced or unintended disconnection, or
+    failed re-connection as a result of {{faults, IEV:692-01-06}} in the {{electric
+    power system, IEV:692-01-02}}'
+  examples: []
+  id: 692-01-09
+  language_code: eng
+  notes:
+  - Disturbance in an electric power system can lead to overvoltage, undervoltage,
+    surge, flicker, {{interruption, IEV:692-04-01}}, harmonics, transients, etc. in
+    the system.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: disturbance
+    normative_status: preferred
+    type: expression
+    usage_info: in an electric power system
+dateAccepted: 2017-12-01
+id: d3314370-856b-5434-bfa2-9f2f7dc4b220
+status: valid

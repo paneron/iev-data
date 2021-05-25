@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: appareil qui ne fournit pas la valeur du mesurande lorsqu'elle est inférieure
+    en valeur absolue à une certaine limite
+  examples: []
+  id: 312-02-03
+  language_code: fra
+  notes:
+  - La suppression de zéro peut concerner aussi bien le zéro mécanique que le zéro
+    électrique.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: appareil à zéro supprimé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: c81948bd-aa69-5479-a082-21db42a061ab
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-30
+      original: 601-01-30 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: voltage between a line conductor and the neutral conductor at a given
+    point of an AC circuit
+  examples: []
+  id: 195-05-02
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: line-to-neutral voltage
+    normative_status: preferred
+    type: expression
+  - designation: phase-to-neutral voltage
+    type: expression
+dateAccepted: 1998-08-01
+id: 55a52d4b-7857-5cbc-bbd8-dcbd8655d32e
+status: valid

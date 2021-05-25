@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'variable d''entrée d''un comparateur dans un système de régulation
+    qui détermine la valeur prescrite de la variable commandée et qui est déduite
+    de la variable de consigne VOIR: Figure 2.'
+  examples: []
+  id: 351-48-02
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-27-02 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variable de référence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: cf4d3280-0fa4-509a-b5a6-22c461c2771a
+status: valid

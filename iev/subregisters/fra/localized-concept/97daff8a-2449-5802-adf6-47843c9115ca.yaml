@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: rapport, généralement exprimé en décibels, de la puissance rayonnée
+    par l'antenne d'émission d'une liaison radioélectrique à la puissance qui serait
+    disponible à la sortie de l'antenne de réception s'il n'y avait aucune perte dans
+    les circuits radiofréquences des antennes, en supposant que les caractéristiques
+    de directivité des antennes sont conservées
+  examples: []
+  id: 705-08-03
+  language_code: fra
+  notes:
+  - L'affaiblissement de transmission est égal à l'affaiblissement entre bornes d'antennes
+    diminué de l'affaiblissement dû aux pertes dans les circuits radiofréquences qui
+    font partie intégrante des antennes.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement de transmission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 97daff8a-2449-5802-adf6-47843c9115ca
+status: valid

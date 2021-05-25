@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: polyphase system in which the `m` quantities have the same amplitude
+    and initial phases given by `vartheta_0 - 2 pi ((( i - 1 ) k))/(m)` where `vartheta_0`
+    is the initial phase of one of the quantities which is arbitrarily chosen out
+    of the set `i` = 1, 2, ..., `m`, and `k` is a characteristic of the system, equal
+    to one of the integers 0, 1, 2, ..., `m` − 1
+  examples: []
+  id: 141-01-05
+  language_code: eng
+  notes:
+  - The symmetric polyphase system is a degenerated polyphase system for `k` = 0 and
+    for some combinations of `k` and `m`.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: symmetric polyphase system
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01
+id: d62ae67b-e86b-5a19-8751-55ee1dfe1f13
+status: valid

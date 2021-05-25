@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: rapport du nombre d'éléments erronés dans un message reçu au nombre
+    total d'éléments émis pendant un {{intervalle de temps, IEV:113-01-10}} déterminé
+  examples:
+  - '{{taux d''erreur binaire, IEV:704-18-04}}, {{taux d''erreurs sur les éléments
+    numériques, IEV:721-08-11}}, {{taux d''erreurs sur les blocs, IEV:721-08-13}}'
+  id: 702-07-39
+  language_code: fra
+  notes:
+  - Les éléments peuvent être, par exemple, des {{éléments numériques, IEV:702-05-02}},
+    des {{codets, IEV:702-05-17}} ou des {{blocs, IEV:721-03-11}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux d'erreurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport d'erreur
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f627b8ca-77e5-5fc5-b78a-463d84ecd83e
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: ignition protection where mechanical or electrical devices are used
+    in conjunction with non-electrical equipment to manually or automatically reduce
+    the likelihood of a potential ignition source from becoming an effective ignition
+    source
+  examples: []
+  id: 426-28-11
+  language_code: eng
+  notes:
+  - This might, for example, be a level sensor used to indicate loss of oil, a temperature
+    sensor to indicate a hot bearing, or a speed sensor to indicate overspeed.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control of ignition source "b"
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: 4e1621c7-0604-5eb4-bae4-b3eab279efdc
+status: valid

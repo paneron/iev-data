@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: en régime sinusoïdal, dans un milieu tel qu'une relation linéaire existe
+    en chaque point entre les phaseurs `B` et `H` représentant respectivement l'induction
+    magnétique et le champ magnétique, grandeur complexe `μ`~r~ définie par la relation
+    `B` = `μ`~0~`μ`~r~ `H` où `μ`~0~ est la constante magnétique
+  examples: []
+  id: 121-12-30
+  language_code: fra
+  notes:
+  - La perméabilité relative complexe, généralement fonction de la fréquence, est
+    une grandeur scalaire dans un milieu isotrope, une grandeur tensorielle dans un
+    milieu anisotrope.
+  - On écrit en général `μ`~r~ = `μ`'~r~ − j`μ`''~r~ où `μ`'~r~ est la perméabilité
+    relative réelle et `μ`''~r~ est l'indice de pertes magnétiques qui caractérise
+    l'ensemble des pertes magnétiques.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: perméabilité relative complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 5d28460d-33a4-5b75-a372-933c8a7a4088
+status: valid

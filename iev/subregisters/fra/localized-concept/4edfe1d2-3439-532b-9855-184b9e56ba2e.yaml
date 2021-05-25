@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: partie centrale d'un {{système d'exploitation, IEV:171-05-01}} qui gère
+    les ressources de l'ordinateur et permet aux différents composants de communiquer
+    entre eux
+  examples: []
+  id: 171-05-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: noyau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un système d’exploitation
+  - designation: programme superviseur
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: superviseur
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4edfe1d2-3439-532b-9855-184b9e56ba2e
+status: valid

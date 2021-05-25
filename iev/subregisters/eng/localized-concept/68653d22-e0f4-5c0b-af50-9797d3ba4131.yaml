@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-09-01
+  definition: jerky and irregular displacement of the picture due to a fault of {{synchronization,
+    IEV:704-13-17}}
+  examples: []
+  id: 723-06-09
+  language_code: eng
+  notes:
+  - In English, the term "jitter" has different meanings for signals (see {{IEV 702-07-74,
+    IEV:702-07-74}} and {{IEV 704-16-13, IEV:704-16-13}}) and in video technology
+    (see {{IEV 806-17-23, IEV:806-17-23}}).
+  - In French, the term "gigue" has a different meaning in television (see {{IEV 723-06-11,
+    IEV:723-06-11}}).
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: jitter
+    normative_status: preferred
+    type: expression
+    usage_info: in television
+dateAccepted: 2018-09-01
+id: 68653d22-e0f4-5c0b-af50-9797d3ba4131
+status: valid

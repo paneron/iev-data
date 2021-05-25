@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2008-06-01
+  definition: conducteur séparé ou câble à un conducteur posé parallèlement le long
+    d'un câble ou d'un circuit de câbles et faisant lui-même partie d'un circuit fermé
+    dans lequel peuvent circuler des courants induits dont le champ magnétique s'oppose
+    à celui produit par les courants circulant dans le ou les câbles
+  examples: []
+  id: 461-12-01
+  language_code: fra
+  notes: []
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conducteur écran
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conducteur de protection
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: 9af59920-e8f2-5d01-a107-ab629c7f92bd
+status: valid

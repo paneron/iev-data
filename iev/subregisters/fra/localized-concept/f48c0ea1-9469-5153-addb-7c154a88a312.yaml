@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'pour un quadripôle linéaire passif fermé sur ses impédances images,
+    demi-logarithme népérien du rapport du produit des phaseurs <u>`U`</u>~1~ et <u>`I`</u>~1~
+    représentant la tension et le courant à l''entrée au produit des phaseurs <u>`U`</u>~2~
+    et <u>`I`</u>~2~ représentant la tension et le courant à la sortie : `(1)/(2)
+    ln (((underset(_)(U))_1 (underset(_)(I))_1))/(((underset(_)(U))_2 (underset(_)(I))_2))`'
+  examples: []
+  id: 131-15-25
+  language_code: fra
+  notes:
+  - La partie imaginaire du logarithme doit être convenablement choisie.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposant de transfert sur images
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: f48c0ea1-9469-5153-addb-7c154a88a312
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.141
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.141
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: mémoire stockant un ensemble ordonné de trames selon une stratégie premier
+    arrivé, premier servi
+  examples: []
+  id: 811-37-89
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: queue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 89eae68a-a314-5107-bf16-c132d3ee4a7c
+status: valid

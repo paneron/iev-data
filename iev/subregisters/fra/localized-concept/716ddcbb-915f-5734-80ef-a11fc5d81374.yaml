@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: position d'équilibre vers laquelle tend le dispositif indicateur d'un
+    appareil de mesure, sous la seule action des forces mécaniques antagonistes, lorsque
+    l'élément de mesure n'est pas alimenté
+  examples: []
+  id: 311-05-05
+  language_code: fra
+  notes:
+  - Dans les appareils à zéro supprimé mécaniquement, la position d'équilibre est
+    en dehors de la graduation.
+  - Dans certains appareils tels que fluxmètres et quotientmètres, le zéro mécanique
+    est indéterminé.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zéro mécanique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 716ddcbb-915f-5734-80ef-a11fc5d81374
+status: valid

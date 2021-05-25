@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.10
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.10
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: property of deserving of trust or confidence within the entire lifecycle
+    of an {{Internet of Things, IEV:741-02-01}} implementation to ensure {{information
+    security, IEV:871-04-16}}, {{privacy, IEV:871-04-23}}, {{safety, IEV:903-01-19}},
+    <a href="IEV741-02-500">reliability</a> and resiliency
+  examples: []
+  id: 741-02-10
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: IoT trustworthiness
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 04607954-49c8-5712-a8ae-fa2abfd5c7c8
+status: valid

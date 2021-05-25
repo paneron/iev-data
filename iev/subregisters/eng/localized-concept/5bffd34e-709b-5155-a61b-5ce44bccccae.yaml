@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: sequence of {{data elements, IEV:171-02-01}} of the same nature, such
+    as {{characters, IEV:702-05-10}} or {{binary digits, IEV:171-02-10}}, treated
+    as a whole
+  examples:
+  - '{{Byte, IEV:171-02-12}}, {{word, IEV:171-02-27}}.'
+  id: 171-02-26
+  language_code: eng
+  notes:
+  - A string can be empty or contain only one element.
+  - Usually a string is enclosed by {{delimiters, IEV:171-02-39}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: string
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 5bffd34e-709b-5155-a61b-5ce44bccccae
+status: valid

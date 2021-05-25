@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient `γ`~e~ de la différence des carrés de la vitesse initiale et
+    de la vitesse finale par le double de la distance de ralentissement parcourue
+    `gamma_e = ((V_i^2 - V_t^2))/((2 l))` où `l` est la distance qui sépare la position
+    du train ou du véhicule, au moment de l'action sur la commande de frein, de sa
+    position lorsque la vitesse finale est atteinte; `V`~i~ est la vitesse initiale
+    mesurée à l'instant où l'organe de commande de freinage a été actionné; `V`~t~
+    est la vitesse finale atteinte à l'issue du freinage
+  examples: []
+  id: 811-06-42
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: décélération effective en fonction de la distance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fc772203-6a5d-55d9-82a3-e17433a8f59c
+status: valid

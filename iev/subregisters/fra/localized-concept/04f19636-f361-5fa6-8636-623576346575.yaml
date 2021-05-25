@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: degré de distorsion arythmique déterminé en prenant l'intervalle unitaire
+    qui correspond à la rapidité de modulation nominale
+  examples: []
+  id: 721-07-08
+  language_code: fra
+  notes:
+  - Le degré de distorsion arythmique globale peut être affecté du signe positif ou
+    négatif suivant que l'instant significatif est postérieur ou antérieur à l'instant
+    idéal.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: degré de distorsion arythmique globale
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taux de distorsion arythmique globale
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: 04f19636-f361-5fa6-8636-623576346575
+status: valid

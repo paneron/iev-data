@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: puissance active maximale que peut théoriquement fournir à une fréquence
+    donnée une source donnée, dont l'impédance a une partie réelle positive, à une
+    charge connectée directement, lorsque l'on fait varier sans limitation l'impédance
+    de cette charge
+  examples: []
+  id: 702-07-10
+  language_code: fra
+  notes:
+  - La puissance disponible est obtenue lorsque les impédances de la source et de
+    la charge ont des parties réelles égales et des parties imaginaires opposées.
+  - Dans certains cas, des phénomènes tels que échauffement ou surtension ne permettent
+    pas d'atteindre la puissance disponible.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance disponible
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 76a6c26b-2314-5052-81c4-c4fba15ab3b0
+status: valid

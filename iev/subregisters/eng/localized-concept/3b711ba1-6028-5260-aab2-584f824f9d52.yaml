@@ -1,0 +1,77 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: place value within a ranking order that determines at the moment of
+    decision which action is to be performed next, when several actions are requested
+    simultaneously
+  examples: []
+  id: 351-55-07
+  language_code: eng
+  notes:
+  - 'The most important control functions acting on a process usually get the following
+    sequence of priorities. <table cellspacing="10">
+
+    <tr>
+
+    <td>Required control function</td>
+
+    <td>Priority</td>
+
+    </tr>
+
+    <tr>
+
+    <td>safeguarding</td>
+
+    <td>1</td>
+
+    </tr>
+
+    <tr>
+
+    <td>intervention</td>
+
+    <td>2</td>
+
+    </tr>
+
+    <tr>
+
+    <td>open-loop control</td>
+
+    <td>3</td>
+
+    </tr>
+
+    <tr>
+
+    <td>closed-loop control</td>
+
+    <td>4</td>
+
+    </tr>
+
+    <tr>
+
+    <td>optimizing</td>
+
+    <td>5</td>
+
+    </tr>
+
+    </table>
+
+
+    In this table the control function with the lower number has the higher priority.'
+  - This entry was numbered 351-31-07 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: priority
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 3b711ba1-6028-5260-aab2-584f824f9d52
+status: valid

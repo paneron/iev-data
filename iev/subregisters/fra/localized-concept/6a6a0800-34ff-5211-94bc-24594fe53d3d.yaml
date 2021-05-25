@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-22
+      original: 702-02-22
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1991-10-01
+  definition: vecteur vitesse de déplacement, en un point d'un milieu de propagation,
+    d'un signal qui peut être représenté idéalement par la superposition de deux ondes
+    sinusoïdales de même amplitude dont les fréquences tendent vers une limite commune
+  examples: []
+  id: 731-03-29
+  language_code: fra
+  notes:
+  - La norme du vecteur vitesse de groupe est égale à la dérivée de la fréquence par
+    rapport à l'inverse de la longueur d'onde dans le milieu.
+  - Dans un milieu isotrope, la vitesse de groupe est égale à la vitesse de phase
+    si le déphasage linéique ou le nombre d'onde est une fonction linéaire de la fréquence.
+  - Chaque mode d'un guide d'ondes a sa propre vitesse de groupe.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de groupe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 6a6a0800-34ff-5211-94bc-24594fe53d3d
+status: valid

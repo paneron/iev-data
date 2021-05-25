@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: essai au cours duquel des cas d'essai sont choisis par connaissance
+    de la structure interne de l'entité soumise à essai
+  examples: []
+  id: 192-09-14
+  language_code: fra
+  notes:
+  - Les essais structuraux ont pour objet d’obtenir un niveau défini de couverture
+    de la structure interne de l’entité soumise à essai et de corriger toutes les
+    pannes révélées. En règle générale, la technique s’applique aux logiciels, mais
+    la même approche peut être utilisée pour le matériel.
+  - La couverture logicielle peut être mesurée à différents niveaux, par exemple la
+    proportion d’instructions, de branches ou de chemins à travers le code qui ont
+    été exécutés.
+  - En général, les essais structuraux sont effectués à des niveaux inférieurs d’essai
+    logiciel, par exemple pour un essai d’unité ou d’intégration.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai structural
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: essai structurel
+    gender: m
+    plurality: singular
+    type: expression
+  - designation: essai par boîte blanche
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c3b9defa-2be1-559a-8981-f2a5fc8b34c6
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 221-01-20
+      original: 221-01-20 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: physical constant equal to `eh`/4π`m`~e~ where `e` is the elementary
+    charge, `h` is the Planck constant and `m`~e~ is the electron rest mass; its value
+    is approximately equal to 9,274 015 x 10^-24^ Am^2^
+  examples: []
+  id: 121-11-51
+  language_code: eng
+  notes:
+  - The magnetic area moment of a free electron due to its spin is approximately equal
+    to 1,001 159 652 `μ`~B~.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Bohr magneton
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`~B~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: ea3ad20b-572c-5e18-b309-34dca9661150
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: <a href="IEV845-27-058">module LED</a> dont le fonctionnement nécessite
+    un circuit ou un appareillage de commande distinct
+  examples: []
+  id: 845-27-061
+  language_code: fra
+  notes:
+  - Un ou plusieurs boîtiers LED sur une carte de circuits imprimés ou un substrat
+    dans une structure géométrique sont considérés comme un réseau LED. Ce ou ces
+    ensembles ne comportent aucun autre composant de type électrique, optique, mécanique
+    et thermique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: module LED non intégré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: module LEDni
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d9159275-e331-534f-872f-671813f2e293
+status: valid

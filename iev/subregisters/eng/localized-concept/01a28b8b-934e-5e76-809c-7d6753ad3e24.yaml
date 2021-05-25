@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: sum of the electric, thermal, mechanical and chemical (fuel) energy
+    required by a {{fuel cell power system, IEV:485-09-01}} during the {{start-up
+    time, IEV:485-20-05}}
+  examples: []
+  id: 485-18-05
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: start-up energy
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: 01a28b8b-934e-5e76-809c-7d6753ad3e24
+status: valid

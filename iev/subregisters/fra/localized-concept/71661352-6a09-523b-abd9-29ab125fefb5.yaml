@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la luminance d'un champ par l'éclairement lumineux dans
+    le plan de ce champ, dans le cas d'un <a href="IEV845-29-020">éclairage diffusé</a>
+    et pour une direction d'observation formant un {{angle d'inclinaison, IEV:705-04-04}}
+    avec la surface de la route
+  examples: []
+  id: 845-31-146
+  language_code: fra
+  notes:
+  - Le coefficient de luminance en éclairage diffusé est exprimé en candela par mètre
+    carré par lux (cd·m^−2^·lx^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de luminance en éclairage diffus
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 71661352-6a09-523b-abd9-29ab125fefb5
+status: valid

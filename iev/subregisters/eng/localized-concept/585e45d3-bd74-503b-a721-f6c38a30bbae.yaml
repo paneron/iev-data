@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: for a number `p` between 0 and 1, value of a random variable for which
+    the distribution function equals `p` or jumps from a value less than or equal
+    to `p` to a value greater than `p`
+  examples: []
+  id: 103-08-14
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`p`-fractile'
+    normative_status: preferred
+    type: expression
+    usage_info: of a probability distribution
+  - designation: '`p`-quantile'
+    type: expression
+    usage_info: of a probability distribution
+dateAccepted: 2009-12-01
+id: 585e45d3-bd74-503b-a721-f6c38a30bbae
+status: valid

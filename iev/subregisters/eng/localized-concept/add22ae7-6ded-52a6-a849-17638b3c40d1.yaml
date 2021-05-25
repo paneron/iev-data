@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: approximate time constant for the diffusion of a magnetic disturbance
+    into the superconducting region which has a dimension along the direction of penetration
+    `d` and a magnetic diffusivity `D`~m~ `τ`~m~ = `d`^2^/`D`~m~
+  examples: []
+  id: 815-15-24
+  language_code: eng
+  notes: []
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic diffusion time constant
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`~m~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: add22ae7-6ded-52a6-a849-17638b3c40d1
+status: valid

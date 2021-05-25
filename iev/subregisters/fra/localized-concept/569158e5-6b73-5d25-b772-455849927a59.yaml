@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: circuit électrique à plus de deux bornes
+  examples: []
+  id: 131-11-14
+  language_code: fra
+  notes:
+  - Lorsque `n` est spécifié, un terme plus spécifique est employé en français, par
+    exemple, "multipôle à `n` bornes", "tripôle", etc.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multipôle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 569158e5-6b73-5d25-b772-455849927a59
+status: valid

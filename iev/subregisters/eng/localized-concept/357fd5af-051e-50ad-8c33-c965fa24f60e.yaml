@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.10
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.10
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: '{{characteristic, IEV:741-01-06}} of conformance to rules, such as
+    those defined by a law, a {{regulation, IEV:901-02-10}}, a {{standard, IEV:901-02-02}},
+    or a policy'
+  examples: []
+  id: 741-01-10
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: compliance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 357fd5af-051e-50ad-8c33-c965fa24f60e
+status: valid

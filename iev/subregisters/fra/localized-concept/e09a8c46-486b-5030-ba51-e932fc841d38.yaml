@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{grandeur d''alimentation, IEV:447-03-01}} autre que la {{grandeur
+    d''alimentation d''entrée, IEV:447-03-02}}'
+  examples:
+  - '* Tension pour un relais différentiel de ligne;* {{grandeur de la source d''alimentation
+    auxiliaire, IEV:447-03-05}}.'
+  id: 447-03-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur d'alimentation auxiliaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e09a8c46-486b-5030-ba51-e932fc841d38
+status: valid

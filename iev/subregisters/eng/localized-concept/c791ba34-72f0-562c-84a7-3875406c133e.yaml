@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: an effect caused at a signalling terminal when the two signalling channels
+    in opposite directions in the same signalling link are not synchronized to each
+    other, and in which there is not a one-to-one correspondence between transmitted
+    and received signal units over a long period; additionally, where signal units
+    are assembled into blocks, there is not a one-to-one correspondence between transmitted
+    and received blocks
+  examples: []
+  id: 714-13-16
+  language_code: eng
+  notes: []
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: drift
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: c791ba34-72f0-562c-84a7-3875406c133e
+status: valid

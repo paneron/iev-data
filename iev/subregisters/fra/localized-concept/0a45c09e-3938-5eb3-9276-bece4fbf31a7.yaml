@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 131-13-03
+      original: voir 131-13-03
+      ref: IEV
+      relationship:
+        type: related
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: circuit formé seulement d'{{éléments de circuit électriques, IEV:131-11-04}}
+  examples: []
+  id: 131-11-07
+  language_code: fra
+  notes:
+  - Dans la CEI 60050-151, les termes "circuit électrique" et "réseau électrique"
+    ont des sens appropriés à des dispositifs et milieux.
+  - Le terme "réseau" non qualifié est employé en topologie des réseaux.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réseau électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 0a45c09e-3938-5eb3-9276-bece4fbf31a7
+status: valid

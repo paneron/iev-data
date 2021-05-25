@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: definition 561
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 561, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: nuclear reactor operated with inert gases as reactor coolant and extensive
+    use of refractory materials in the nuclear reactor core under high outlet temperatures
+    of the reactor coolant
+  examples: []
+  id: 395-07-142
+  language_code: eng
+  notes:
+  - Typically, the outlet temperature is included above 900°C.
+  - This type of reactor is one of the six reactors of generation IV.
+  - This entry was numbered 393-16-28 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: very high temperature reactor
+    normative_status: preferred
+    type: expression
+  - designation: VHTR
+    type: expression
+dateAccepted: 2014-03-01
+id: 8d06f2c1-8adf-554c-bfbc-f75ca3debda3
+status: valid

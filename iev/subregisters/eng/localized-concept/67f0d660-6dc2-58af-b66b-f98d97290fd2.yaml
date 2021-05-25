@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: minimum sampling frequency which theoretically permits the original
+    signal to be reconstituted without distortion
+  examples: []
+  id: 723-10-28
+  language_code: eng
+  notes:
+  - For a signal whose spectrum extends from zero frequency to a maximum frequency,
+    the Nyquist frequency is equal to twice this maximum frequency.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Nyquist frequency
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 67f0d660-6dc2-58af-b66b-f98d97290fd2
+status: valid

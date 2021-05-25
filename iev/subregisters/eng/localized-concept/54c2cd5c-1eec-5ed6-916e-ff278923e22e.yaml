@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.28
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.28
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: topology where the nodes are connected in series, with two nodes each
+    connected to only one other node and all others each connected to two other nodes
+    (i.e. connected in the shape of a line)
+  examples: []
+  id: 811-37-51
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linear topology
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 54c2cd5c-1eec-5ed6-916e-ff278923e22e
+status: valid

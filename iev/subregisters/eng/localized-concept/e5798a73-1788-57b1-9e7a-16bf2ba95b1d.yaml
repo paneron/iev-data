@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '7.6'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 7.6
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: '{{provision, IEV:901-05-01}} that indicates one or more means of compliance
+    with a {{requirement, IEV:901-05-05}} of a {{normative document, IEV:901-02-01}}'
+  examples: []
+  id: 901-05-08
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: deemed-to-satisfy provision
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: e5798a73-1788-57b1-9e7a-16bf2ba95b1d
+status: valid

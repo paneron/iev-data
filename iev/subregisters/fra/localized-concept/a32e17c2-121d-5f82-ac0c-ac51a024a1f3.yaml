@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: méthode employée pour réduire les effets des {{erreurs, IEV:192-03-02}}
+    d'enregistrement, de traitement ou de transmission des {{informations, IEV:101-12-01}}
+  examples: []
+  id: 702-07-40
+  language_code: fra
+  notes:
+  - "La protection contre les erreurs peut faire \r\nappel à la {{détection d'erreurs,\
+    \ IEV:702-07-41}},  à la {{correction d'erreurs, IEV:702-07-42}} et au {{masquage\
+    \ d'erreurs, IEV:723-10-97}}, séparément ou en combinaison."
+  reviewDecisionEvent: published
+  terms:
+  - designation: protection contre les erreurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a32e17c2-121d-5f82-ac0c-ac51a024a1f3
+status: valid

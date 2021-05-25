@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: cycle-related mean value of the failure distribution
+  examples: []
+  id: 444-07-07
+  language_code: eng
+  notes:
+  - MTBF~c~ is often used in place of MTBF to define the expectation of number of
+    cycles between consecutive failures in place of the operating time between failures.
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cycle-related mean operating time between failures
+    normative_status: preferred
+    type: expression
+  - designation: MTBF~c~
+    type: expression
+dateAccepted: 2002-01-01
+id: 002f1d4a-b503-5455-b412-d90f9d1ec4ad
+status: valid

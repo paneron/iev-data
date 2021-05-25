@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '5.7'
+      original: ≠ VIM 5.7
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: ensemble de valeurs et/ou de domaines de valeurs spécifiés des grandeurs
+    d'influence pour lequel les incertitudes, ou les limites d'erreur, admissibles
+    d'un appareil de mesure sont les plus petites
+  examples: []
+  id: 311-06-02
+  language_code: fra
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conditions de référence
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2001-07-01
+id: 4dbe0c4c-1a12-5dc6-87cc-0d9d17789ddc
+status: valid

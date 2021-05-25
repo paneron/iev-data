@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: quadripôle composé de deux branches ayant un noeud commun, l'un des
+    deux noeuds terminaux étant connecté à deux bornes équipotentielles, qui forment
+    la paire de bornes de sortie avec le noeud commun et la paire de bornes d'entrée
+    avec l'autre noeud terminal
+  examples: []
+  id: 131-13-24
+  language_code: fra
+  notes:
+  - 'Les termes "réseau en L inverti" et "réseau en Г inverti" sont utilisés selon
+    l''aspect de la représentation graphique usuelle.
+
+
+    image::/assets/images/parts/131/131-13-24.gif[]'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau en L inverti
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réseau en Γ inverti
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 4dbad65e-a577-58d5-b5a3-e74639d87817
+status: valid

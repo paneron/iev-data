@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '1.6'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.6
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: 'system of quantities based on the seven base quantities: length, mass,
+    time, electric current, thermodynamic temperature, amount of substance, and luminous
+    intensity'
+  examples: []
+  id: 112-02-01
+  language_code: eng
+  notes:
+  - The International System of Quantities is published in the International Standard
+    ISO/IEC 80000, Quantities and units.
+  - The International System of Units (SI) is based on the ISQ.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: International System of Quantities
+    normative_status: preferred
+    type: expression
+  - designation: ISQ
+    type: expression
+dateAccepted: 2010-01-01
+id: bf876fdf-d95a-5e86-9a4c-3542e1480cee
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2015-02-01
+  definition: item that cannot, under given conditions, after a failure, be returned
+    to a state in which it can perform as required
+  examples: []
+  id: 192-01-12
+  language_code: eng
+  notes:
+  - The “given conditions” may include technical, economic and other considerations.
+  - An item that is non-repairable under some conditions may be repairable under other
+    conditions.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-repairable item
+    normative_status: preferred
+    type: expression
+  - designation: non-repaired item
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: 32abbb03-d081-55b7-bac1-e4349ade3529
+status: valid

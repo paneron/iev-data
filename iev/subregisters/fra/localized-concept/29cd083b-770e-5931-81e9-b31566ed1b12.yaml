@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: rapports des coefficients de la forme linéaire qui représente un mode
+    dégénéré en fonction des modes de propagation indépendants dans un guide d'ondes
+  examples: []
+  id: 726-04-14
+  language_code: fra
+  notes:
+  - S'il y a exactement `n` modes de propagation indépendants, la polarisation d'un
+    mode dégénéré donné est déterminée entièrement par `n` —1 rapports de polarisation
+    au plus.
+  - Dans un guide d'ondes de section droite, carrée ou circulaire, il y a deux modes
+    de propagation indépendants, et la polarisation d'un mode dégénéré donné est déterminée
+    par un seul rapport de polarisation.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapports de polarisation
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2021-01-01
+id: 29cd083b-770e-5931-81e9-b31566ed1b12
+status: valid

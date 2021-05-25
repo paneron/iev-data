@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: éclairement énergétique effectif avec pondération spectrale de l'éclairement
+    énergétique de même nature par la fonction de pondération spectrale du danger
+    de la lumière bleue, `B`(`λ`)
+  examples: []
+  id: 845-26-056
+  language_code: fra
+  notes:
+  - L'éclairement énergétique avec danger de la lumière bleue présente généralement
+    un intérêt pour les petites sources qui présentent un angle de sous-tension de
+    moins de 0,011 rad.
+  - 'La plage de longueurs d''onde pour l''éclairement énergétique avec danger de
+    la lumière bleue est spécifiée dans les recommandations de l''ICNIRP comme suit:
+    `λ` = 300 nm à `λ` = 700 nm.'
+  - Cette définition est basée sur l'hypothèse selon laquelle un spectre d'action
+    est adopté pour l'effet actinique pris en considération, et selon laquelle sa
+    valeur maximale est égale à 1.
+  - Il est essentiel de spécifier quel spectre d'action actinique est utilisé, dans
+    la mesure où l'unité est la même pour tout spectre d'action.
+  - L'éclairement énergétique avec danger de la lumière bleue est exprimé en watt
+    par mètre carré (W·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement énergétique avec danger de la lumière bleue
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3fa79e58-e1c0-5e98-bef9-f421ef5e73f7
+status: valid

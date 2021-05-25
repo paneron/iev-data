@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{angle, IEV:102-03-29}} des vecteurs associés à deux {{droites, IEV:102-04-02}}'
+  examples: []
+  id: 102-04-14
+  language_code: fra
+  notes:
+  - 'L''unité SI d''angle est le radian (symbole rad). D''autres unités sont le degré
+    (symbole °), la minute (symbole ′) et la seconde (symbole ″): 1° = (π/180) rad,
+    1′ = (1/60)°, 1″ = (1/60)′.'
+  - Le terme «angle plan» n'est employé à la place du terme «angle» que pour le distinguer
+    du terme «{{angle solide, IEV:102-04-46}}».
+  - L’angle d’une droite et d’un plan et l’angle de deux plans sont définis respectivement
+    en {{IEV 102-04-56, IEV:102-04-56}} et {{IEV 102-04-57, IEV:102-04-57}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de deux droites
+  - designation: angle plan
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 67933ff6-198c-5b60-a779-58f6d369b49b
+status: valid

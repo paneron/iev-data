@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: conducteur du circuit de commande reliant l'organe de conduite aux lignes
+    de train du véhicule
+  examples: []
+  id: 811-25-20
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: fil de conduite
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de lignes de train
+  - designation: fil de commande
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+    usage_info: de lignes de train
+dateAccepted: 2018-11-17
+id: c4c41c7c-0786-5597-8b2b-e20add86650d
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-08-01
+  definition: reciprocal of the {{quality factor, IEV:151-15-45}} `Q` of a two-terminal
+    element or circuit or of a resonant circuit `d`=1/`Q`
+  examples: []
+  id: 151-15-47
+  language_code: eng
+  notes: []
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dissipation factor
+    normative_status: preferred
+    type: expression
+  - designation: loss factor
+    normative_status: preferred
+    type: expression
+  - designation: '`d`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 8b44a5c9-f964-5293-bc43-14ccd40d12d0
+status: valid

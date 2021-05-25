@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'élément d''un vecteur *`x`*(`t`) dans un système d''équations différentielles
+    <table> <tr> <td>`overset(˙)(x) ( t ) = f x ( t ) , u ( t )`</td> <td>équation
+    d''état</td> </tr> <tr> <td>`v ( t ) = g x ( t ) , u ( t )`</td> <td>équation
+    de sortie,</td> </tr> </table> et pour les systèmes linéaires <table> <tr> <td>`overset(˙)(x)
+    ( t ) = A * x ( t ) + B * u ( t )`</td> <td>équation d''état</td> </tr> <tr> <td>`v
+    ( t ) = C * x ( t ) + D * u ( t )`</td> <td>équation de sortie,</td> </tr> </table>
+    à partir desquelles la course des éléments du vecteur de sortie *`v`*(`t`) peut
+    être calculée, avec des valeurs initiales connues des éléments du vecteur `x`(`t`)
+    à tout instant `t`~0~ (souvent avec `t`~0~ = 0), avec une course connue des éléments
+    du vecteur d''entrée *`u`*(`t`), et en partant de `t`~0~ VOIR: Figure 3.'
+  examples: []
+  id: 351-41-08
+  language_code: fra
+  notes:
+  - "En cas de variables à temps discret, les équations sont les suivantes:\n\n<table>\r\
+    \n<tr>\n<td>*`x`*~`i`+1~ = *`f`* (*`x`*~`i`~, *`u`*~`i`~)</td>\n<td>équation d'état</td>\n\
+    </tr>\r\n<tr>\n<td>*`v`*~`i`~ = *`g`* (*`x`*~`i`~, *`u`*~`i`~)</td>\n<td>équation\
+    \ de sortie,</td>\n</tr>\r\n</table>\n\net pour les systèmes linéaires\n\n<table>\r\
+    \n<tr>\n<td>*`x`*~`i`+1~ = *`Φ`*·*`x`*~`i`~ + *`H`*·*`u`*~`i`~</td>\n<td>équation\
+    \ d'état</td>\n</tr>\r\n<tr>\n<td>*`v`*~`i`~ = *`C`*·*`x`*~`i`~ + *`D`*·*`u`*~`i`~</td>\n\
+    <td>équation de sortie.</td>\n</tr>\r\n</table>"
+  - 'Cet article était numéroté 351-21-08 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig3.png[Figure 3 - Linear transfer system
+    with state variables; Système de transfert linéaire avec variables d''état]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variable d'état
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: c893a27d-56f3-51d9-a169-e75988b37bc4
+status: valid

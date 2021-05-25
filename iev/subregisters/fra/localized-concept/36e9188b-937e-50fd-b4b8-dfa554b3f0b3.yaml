@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: durée qui s'écoule entre l'instant où un signal de verrouillage de trame
+    valable se présente au terminal de réception et celui où le verrouillage de trame
+    est établi
+  examples: []
+  id: 704-14-08
+  language_code: fra
+  notes:
+  - Le temps de reprise du verrouillage de trame comprend la durée nécessaire à une
+    vérification répétée de la validité du signal de verrouillage de trame.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de reprise du verrouillage de trame
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 36e9188b-937e-50fd-b4b8-dfa554b3f0b3
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'variable quantity, which represents the controlled variable and is
+    returned to the comparing element SEE: Figure 2.'
+  examples: []
+  id: 351-48-03
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-27-03 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: feedback variable
+    normative_status: preferred
+    type: expression
+  - designation: '`r`'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: ca4ea4e9-33c6-5e4d-9d69-98cfce818292
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: valeur maximale du rapport de l'effort tangentiel à l'effort suivant
+    la normale au contact entre roue et rail
+  examples: []
+  id: 811-07-02
+  language_code: fra
+  notes:
+  - Les valeurs du taux d’adhérence sont différentes pour la traction et le freinage.
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux d’adhérence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient d'adhérence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ebc05d56-ec19-5c58-b82c-c7b3edf346f5
+status: valid

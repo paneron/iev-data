@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - original: AIEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  definition: évènement non lié au fonctionnement d'une installation ou d'une activité
+    pouvant influer sur l'installation ou sur l'activité
+  examples: []
+  id: 395-07-117
+  language_code: fra
+  notes:
+  - Des exemples typiques dans le cas des installations nucléaires incluent les tremblements
+    de terre, tornades, tsunamis ou accidents d’aéronefs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: événement extérieur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4bc341e1-2e04-592a-97d7-8e9df1710d8b
+status: valid

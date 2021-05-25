@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the apparent decrease of the sum of the gains, expressed in decibels,
+    of a transmitting antenna and the associated receiving antenna on a long propagation
+    path, when significant scattering effects occur on this path
+  examples: []
+  id: 705-05-60
+  language_code: eng
+  notes:
+  - The gain degradation is connected to the radiation characteristics of the antennas
+    and to the propagation characteristics along the transmission path.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gain degradation
+    normative_status: preferred
+    type: expression
+  - designation: antenna to medium coupling loss
+    type: expression
+dateAccepted: 1995-09-01
+id: cdc40a82-cd76-50c4-8ddf-601a45082b7d
+status: valid

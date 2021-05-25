@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: échantillonnage d'une image dans lequel les points qui correspondent
+    aux instants d'échantillonnage sur les lignes de balayage ne sont pas alignés
+    dans l'image selon des droites perpendiculaires aux lignes de balayage
+  examples: []
+  id: 723-10-25
+  language_code: fra
+  notes:
+  - En balayage progressif, les points d'une ligne de balayage ne sont pas alignés
+    avec ceux des lignes adjacentes de la même trame ; en balayage entrelacé, ils
+    ne sont pas alignés avec ceux des lignes spatialement adjacentes de la trame précédente.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: échantillonnage non orthogonal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: fc53dffe-0411-576d-812d-66e704a61959
+status: valid

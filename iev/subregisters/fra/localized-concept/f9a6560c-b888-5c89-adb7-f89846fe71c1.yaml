@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 195-05-14
+      original: IEV 195-05-14
+      ref: IEV
+      relationship:
+        type: identical
+  definition: en un emplacement donné d'un réseau triphasé, et pour un schéma d'exploitation
+    donné de ce réseau, rapport entre d'une part la tension efficace la plus élevée,
+    à la fréquence du réseau, entre un conducteur de ligne sain et la terre pendant
+    un défaut à la terre affectant un ou plusieurs conducteurs de ligne en un point
+    quelconque du réseau, et d'autre part la valeur efficace de la tension phase-terre
+    à la fréquence du réseau qui serait obtenue à l'emplacement considéré en l'absence
+    d'un tel défaut à la terre
+  examples: []
+  id: 614-03-06
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de court-circuit à la terre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f9a6560c-b888-5c89-adb7-f89846fe71c1
+status: valid

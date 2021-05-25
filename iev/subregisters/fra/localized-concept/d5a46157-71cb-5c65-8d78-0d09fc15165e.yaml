@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: en un point donné d'une surface donnée, aire d'un élément de cette surface
+    contenant le point et contenu dans une sphère de rayon infinitésimal
+  examples: []
+  id: 102-05-06
+  language_code: fra
+  notes:
+  - 'Pour une surface définie par *`r`* = *`f`*(`u`, `v`), où `( u , v ) in U sube
+    R^2`, l''élément scalaire de surface est
+
+
+    `| ((del f))/((del u)) xx ((del f))/((del v)) | * d u d v`.'
+  - 'Pour une surface définie par l''équation `z` = `f`(`x`, `y`), l''élément scalaire
+    de surface est
+
+
+    `sqrt(1 + ( ((del f))/((del x)) )^2 + ( ((del f))/((del y)) )^2) d x d y`.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément scalaire de surface
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d5a46157-71cb-5c65-8d78-0d09fc15165e
+status: valid

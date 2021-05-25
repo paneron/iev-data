@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: reactor that converts, by water gas shift reaction, carbon monoxide
+    produced by {{steam reforming, IEV:485-07-10}} into carbon dioxide and hydrogen
+  examples: []
+  id: 485-07-11
+  language_code: eng
+  notes:
+  - The reaction works downstream of the {{reformer, IEV:485-07-03}}.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shift converter
+    normative_status: preferred
+    type: expression
+  - designation: water gas shift converter
+    type: expression
+dateAccepted: 2020-02-01
+id: e9048a33-52bf-588f-8dd5-01d73e77cacb
+status: valid

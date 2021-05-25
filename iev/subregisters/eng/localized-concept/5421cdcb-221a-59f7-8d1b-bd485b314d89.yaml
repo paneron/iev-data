@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: value below which the average illuminance over a specified surface is
+    not permitted to fall
+  examples: []
+  id: 845-29-157
+  language_code: eng
+  notes:
+  - The maintained average illuminance is the average illuminance over the specified
+    surface at the time maintenance should be carried out.
+  - The maintained average illuminance is expressed in lux (lx &amp;equals; lm·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintained average illuminance
+    normative_status: preferred
+    type: expression
+  - designation: "`E_((v ,av ,m))`\n`bar E_((v ,m))` \n`E_((av ,m))`\r\n\n`bar E_((m))`"
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 5421cdcb-221a-59f7-8d1b-bd485b314d89
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-07-01
+  definition: unbiased estimate of the preferred definition in the time domain of
+    the short-term stability characteristic of the oscillator output frequency given
+    by `sigma_y ^2 ( tau ) tilde= (1)/((M – 1)) sum_((k = 1))^((M – 1)) ((( Y_((k
+    + 1)) – Y_k )^2))/(2)` where `Y`~`k`~ are the average fractional frequency fluctuations
+    obtained sequentially, with no systematic dead time between measurements; `τ`
+    is the sample time over which the measurements are averaged; `M` is the number
+    of measurements
+  examples: []
+  id: 561-03-02
+  language_code: eng
+  notes:
+  - The confidence of the estimate improves as `M` increases.
+  - This entry was numbered 561-04-18 in IEC 60050-561:1991.
+  reviewDate: 2016-07-01
+  reviewDecisionDate: 2016-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Allan variance of fractional frequency fluctuation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-07-01
+id: c7b98fa8-3ef8-5b5f-87a6-00b6bf06ea58
+status: valid

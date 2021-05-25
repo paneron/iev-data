@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité du flux énergétique exitant par rapport à l'aire en un point
+    d'une surface réelle ou fictive `M_e = ((d Phi_e))/((d A))` où `Φ`~e~ est le flux
+    énergétique et `A` est l'aire de laquelle part ce flux
+  examples: []
+  id: 845-21-080
+  language_code: fra
+  notes:
+  - Pour le rayonnement de Planck, `M`~e~ = `σT`^4^ où `σ` est la constante de Stefan-Boltzmann
+    et `T` est la température thermodynamique.
+  - La grandeur photométrique correspondante est l'"exitance lumineuse". La grandeur
+    photonique correspondante est l'"exitance photonique".
+  - L'exitance énergétique est exprimée en watt par mètre carré (W·m^−2^).
+  - Cet article était numéroté 845-01-47 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exitance énergétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5dd358d5-cde0-53c0-b00a-69dd24cc3465
+status: valid

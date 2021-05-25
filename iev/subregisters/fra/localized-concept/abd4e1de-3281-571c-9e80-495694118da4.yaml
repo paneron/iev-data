@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: combinaison d'éléments numériques représentant une valeur quantifiée
+    en modulation par impulsions et codage ordinaire ou en modulation par impulsions
+    et codage différentiel
+  examples: []
+  id: 704-25-05
+  language_code: fra
+  notes:
+  - Une combinaison d'éléments de signal représentant un mot de code est parfois appelée
+    "signal de caractère" par analogie avec la télégraphie et la communication de
+    données, mais cet emploi est déconseillé.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mot de code
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mot MIC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: abd4e1de-3281-571c-9e80-495694118da4
+status: valid

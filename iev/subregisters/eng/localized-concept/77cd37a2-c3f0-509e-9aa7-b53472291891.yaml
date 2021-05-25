@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the justification ratio that occurs when the digit rate of the original
+    digital signal is at its lower tolerance limit and the digit rate of the channel
+    provided for conveying it by justification is at its upper tolerance limit
+  examples: []
+  id: 704-21-14
+  language_code: eng
+  notes:
+  - The maximum justification ratio is the limiting value that can actually occur
+    under practical operating conditions.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum justification ratio
+    normative_status: preferred
+    type: expression
+  - designation: maximum stuffing ratio
+    type: expression
+dateAccepted: 1993-08-01
+id: 77cd37a2-c3f0-509e-9aa7-b53472291891
+status: valid

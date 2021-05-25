@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a two-port or `n`-port network, matrix expressing the dependence
+    of the scattering variables at the input ports on the scattering variables at
+    the output ports
+  examples: []
+  id: 131-14-38
+  language_code: eng
+  notes:
+  - Symbols for the elements of the wave chain matrix are given in IEC 60027-2.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: wave chain matrix
+    normative_status: preferred
+    type: expression
+  - designation: '`*T*`'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 356a6f73-719d-5ce1-882d-84a2408aca7e
+status: valid

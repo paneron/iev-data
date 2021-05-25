@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: in an optical fibre, a mode whose field decays monotonically in the
+    transverse direction everywhere external to the core and which does not lose power
+    to radiation
+  examples: []
+  id: 731-03-53
+  language_code: eng
+  notes:
+  - 'Where the refractive index decreases with distance from the axis and where there
+    is no central refractive index dip a bound mode is one for which :
+
+
+    `n`(`a`)`k` ≤ `β` ≤ `n`(0)`k`
+
+
+    where `β` is the imaginary part (phase coefficient) of the axial propagation coefficient,
+
+
+    `n`(`a`) is the refractive index at `r` = `a`, the radius,
+
+
+    `n`(0) is the refractive index at `r` = 0,
+
+
+    `k` is the angular free space wavenumber 2 π/λ and λ is the wavelength.'
+  - Bound modes correspond to guided light rays in the terminology of geometric optics.
+  - In a multimode fibre, the power in bound modes is predominantly contained in the
+    core of the fibre.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bound mode
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: d0977435-fc04-58b9-aa5c-2a91e8cee7e0
+status: valid

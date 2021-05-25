@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: means of transmission of telegraph signals in one direction between
+    two points
+  examples: []
+  id: 721-11-01
+  language_code: eng
+  notes:
+  - 'A telegraph channel can be qualified by the number of significant conditions
+    and by the modulation rate it is designed to admit.
+
+
+    Example: A 50 baud channel for two-condition modulation.'
+  - Several telegraph channels can share a common path; for example each channel is
+    allocated a particular frequency band or a particular time-slot.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: telegraph channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 6bfcd15a-c455-5baf-a63d-45a23fde5ac2
+status: valid

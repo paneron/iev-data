@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 192-02-05
+      link: https://webstore.iec.ch/publication/21886
+      original: IEC 60050-192:2015, 192-02-05, modified – Term "operating duration"
+        added as a synonym, the words “duration of the” inserted at the beginning
+        of the definition, and Note 1 to entry added
+      ref: IEC 60050-192:2015
+      relationship:
+        modification: Term "operating duration" added as a synonym, the words “duration
+          of the” inserted at the beginning of the definition, and Note 1 to entry
+          added
+        type: modified
+  dateAmended: 2017-12-01
+  definition: duration of the time interval for which the item is in an operating
+    state
+  examples: []
+  id: 692-06-02
+  language_code: eng
+  notes:
+  - This entry was numbered 603-05-15 in IEC 60050-603:1986.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: operating time
+    normative_status: preferred
+    type: expression
+  - designation: operating duration
+    type: expression
+dateAccepted: 2017-12-01
+id: 68c20686-1542-5029-afe3-ff2cc325ee33
+status: valid

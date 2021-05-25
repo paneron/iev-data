@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{opération booléenne, IEV:171-03-05}} dont le résultat a la valeur
+    0 si et seulement si tous les {{opérandes, IEV:171-03-04}} ont la valeur booléenne
+    0'
+  examples: []
+  id: 171-03-19
+  language_code: fra
+  notes:
+  - La disjonction des variables `a` et `b` est notée `a vv b` (U+2228) (`a` ou `b`).
+  reviewDecisionEvent: published
+  terms:
+  - designation: disjonction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: OU
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: OU inclusif
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: réunion
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f72d6892-4fa6-5297-aee8-3fcb4d037af7
+status: valid

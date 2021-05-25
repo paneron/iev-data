@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 521-05-30
+      link: https://webstore.iec.ch/publication/216
+      original: IEC 60050-521:2002, 521-05-30, modified – Term qualified by "LED",
+        synonym "chip" omitted, "(or whole)" omitted and "a function or functions"
+        replaced by "as LED" in the definition, and Note 1 to entry added.
+      ref: IEC 60050-521:2002
+      relationship:
+        modification: Term qualified by "LED", synonym "chip" omitted, "(or whole)"
+          omitted and "a function or functions" replaced by "as LED" in the definition,
+          and Note 1 to entry added.
+        type: modified
+  dateAmended: 2020-12-01
+  definition: separated part of a wafer intended to perform as an LED in a device
+  examples: []
+  id: 845-27-051
+  language_code: eng
+  notes:
+  - A device can be an LED package.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: LED die
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 42376d96-2a57-56c4-8848-517909912ace
+status: valid

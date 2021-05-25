@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: opération destinée à convertir un signal numérique en un signal analogique
+    qui représente essentiellement les mêmes informations
+  examples: []
+  id: 704-22-02
+  language_code: fra
+  notes:
+  - Il n'y a pas normalement de perte sensible d'information dans une conversion numérique-analogique.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conversion numérique-analogique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conversion N/A
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 8444f6d5-2224-5d3a-8079-d001dc46558a
+status: valid

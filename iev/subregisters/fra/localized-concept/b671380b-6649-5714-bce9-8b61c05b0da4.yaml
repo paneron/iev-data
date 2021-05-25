@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: plus petite différence de luminance perceptible de deux champs adjacents
+  examples: []
+  id: 845-22-088
+  language_code: fra
+  notes:
+  - Un champ superposé sur un deuxième champ plus grand (un fond) peut être considéré
+    également comme deux champs adjacents.
+  - La valeur du seuil différentiel de luminance dépend de la méthodologie, de la
+    luminance et des conditions d'observation, y compris l'état d'adaptation.
+  - Le seuil différentiel de luminance est exprimé en candela par mètre carré (cd·m^−2^ =
+    lm·m^−2^·sr^−1^).
+  - Cet article était numéroté 845-02-46 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: seuil différentiel de luminance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b671380b-6649-5714-bce9-8b61c05b0da4
+status: valid

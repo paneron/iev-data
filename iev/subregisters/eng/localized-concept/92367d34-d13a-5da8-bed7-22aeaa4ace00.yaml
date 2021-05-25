@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the distortion due to peak limiting in a DPCM quantizer
+  examples: []
+  id: 704-24-15
+  language_code: eng
+  notes:
+  - Slope overload distortion arises from the inability of the quantizer to respond
+    adequately to large differences among a succession of samples applied to the input
+    of the DPCM system.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: slope overload distortion
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 92367d34-d13a-5da8-bed7-22aeaa4ace00
+status: valid

@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'at a given point within a domain of quasi-infinitesimal volume `V`,
+    vector quantity equal to the magnetic area moment `*m*` of the substance contained
+    within the domain divided by the volume `V`: `M = (m)/(V)`'
+  examples: []
+  id: 121-11-52
+  language_code: eng
+  notes:
+  - 'The magnetization `*M*` satisfies the relation
+
+
+    `*B*` = `μ`~0~(`*H*` + `*M*`)
+
+
+    where `*B*` is the magnetic flux density, `*H*`  the magnetic field strength and
+    `μ`~0~ the magnetic constant.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetization
+    normative_status: preferred
+    type: expression
+  - designation: '`*M*`
+
+      `*H*`~i~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 5b9a23ce-b9a5-5f17-8939-a641df650f38
+status: valid

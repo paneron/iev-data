@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: angle subtended at the point of incidence by a given ray in the viewing
+    direction and the specular direction defined by the incident ray and the surface
+    normal
+  examples: []
+  id: 845-25-081
+  language_code: eng
+  notes:
+  - The incident and viewing rays, the surface normal and the specular direction all
+    lie in a common plane.
+  - 'The aspecular angle is calculated as the difference between the viewing direction
+    and the specular direction and is understood to be positive when it lies between
+    the specular direction and the incident (illuminating) ray (see the figure below).
+
+
+    image::/assets/images/parts/845/845-25-081-en.png[]'
+  - The aspecular angle is measured in radian (rad) or degree (°).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: aspecular angle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: bb254272-f10e-5c26-87a4-1c4fc8e6b328
+status: valid

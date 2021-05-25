@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: active two-terminal-pair network in which the output power at one port
+    is greater than the input power at the other port and in which the ratio of the
+    output to the input voltages or currents is fixed
+  examples: []
+  id: 131-12-81
+  language_code: eng
+  notes:
+  - The amplifier as a device is defined in IEC 60050-151.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ideal amplifier
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 86434419-bbf8-5c40-896d-68e5f4a29eb6
+status: valid

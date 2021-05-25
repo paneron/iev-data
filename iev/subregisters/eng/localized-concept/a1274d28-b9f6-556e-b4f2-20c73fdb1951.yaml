@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: functional unit that provides absolute, relative or incremental time
+    values
+  examples: []
+  id: 351-54-16
+  language_code: eng
+  notes:
+  - The input of the time values to the process computer system may be done by polling
+    or by direct interruption of a running task.
+  - This entry was numbered 351-30-18 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: timer
+    normative_status: preferred
+    type: expression
+  - designation: real-time clock
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: a1274d28-b9f6-556e-b4f2-20c73fdb1951
+status: valid

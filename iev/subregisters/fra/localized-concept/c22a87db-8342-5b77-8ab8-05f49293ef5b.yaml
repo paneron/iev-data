@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intégrale de la puissance instantanée `p` sur un intervalle de temps
+    [`t`~1~, `t`~2~] `W = int_(t_1)^(t_2) p d t`
+  examples: []
+  id: 131-11-57
+  language_code: fra
+  notes:
+  - L’unité SI cohérente d’énergie active est le joule, J. Une autre unité est le
+    wattheure ({{131-11-58, IEV:131-11-58}}). Son multiple kilowattheure, kWh, est
+    communément utilisé pour facturer les consommateurs d’énergie électrique et est
+    donc indiqué sur les compteurs d’énergie électrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie active
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c22a87db-8342-5b77-8ab8-05f49293ef5b
+status: valid

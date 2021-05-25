@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-09-01
+  definition: 'smallest positive {{difference, IEV:102-01-17}} `T` between two values
+    of the independent {{variable, IEV:103-01-05}} `t` of a {{function, IEV:102-01-10}}
+    `f`(`t`) at which the function''s values are identical for any value of `t`: `f`(`t`+`T`)
+    = `f`(`t`)'
+  examples: []
+  id: 103-06-01
+  language_code: eng
+  notes:
+  - If `f`(`t`) describes the variation of a  {{quantity, IEV:112-01-01}} with {{time,
+    IEV:113-01-03}}, the period is sometimes called "period duration" in English.
+  reviewDate: 2020-09-01
+  reviewDecisionDate: 2020-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: period
+    normative_status: preferred
+    type: expression
+  - designation: '`T`'
+    international: true
+    type: symbol
+dateAccepted: 2020-09-01
+id: 1bba5c9e-6259-5987-b93d-4963258fbf66
+status: valid

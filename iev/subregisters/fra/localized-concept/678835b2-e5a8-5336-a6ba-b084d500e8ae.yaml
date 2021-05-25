@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: en régime sinusoïdal, produit du phaseur `underset(_)(U)` représentant
+    la tension électrique aux bornes d'un bipôle linéaire, élémentaire ou non, et
+    du conjugué du phaseur `underset(_)(I)` représentant le courant électrique dans
+    le bipôle `underset(_)(S) = underset(_)(U) underset(_)(I) *`
+  examples: []
+  id: 131-11-39
+  language_code: fra
+  notes:
+  - La puissance complexe est égale à `P + j Q`, où `P` est la puissance active et
+    `Q` la puissance réactive.
+  - L’unité SI cohérente de puissance complexe est le voltampère, VA.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: puissance complexe apparente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 678835b2-e5a8-5336-a6ba-b084d500e8ae
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.183
+      link: https://webstore.iec.ch/publication/5402
+      original: IEC 61375-3-1:2012, 3.1.183
+      ref: IEC 61375-3-1:2012
+      relationship:
+        type: identical
+  definition: données transmises sur un bus uniquement dans le cadre de la supervision
+    de la couche de liaison
+  examples:
+  - Pour l’arbitrage sur le MVB ou l’inauguration sur le bus de train filaire.
+  id: 811-37-100
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: données de supervision
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56e36f61-f9a5-5624-87c7-95a984bc8cc8
+status: valid

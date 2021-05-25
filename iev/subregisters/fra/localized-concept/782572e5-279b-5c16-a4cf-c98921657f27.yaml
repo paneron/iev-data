@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: <a href="IEV845-24-003">radiateur thermique</a> idéal qui absorbe complètement
+    toutes les radiations incidentes, quelles que soient leur longueur d'onde, leur
+    direction ou leur polarisation
+  examples: []
+  id: 845-24-004
+  language_code: fra
+  notes:
+  - Un radiateur de Planck a, pour toutes les longueurs d'ondes et dans toutes les
+    directions, la <a href="IEV845-21-029">répartition spectrale</a> maximale de luminance
+    énergétique pour un radiateur thermique en équilibre thermique à une température
+    donnée.
+  - Cet article était numéroté 845-04-04 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiateur de Planck
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: corps noir
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 782572e5-279b-5c16-a4cf-c98921657f27
+status: valid

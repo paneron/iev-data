@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 221-04-04
+      original: 221-04-04 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: pour un corps uniformément aimanté, rapport du champ d'autodésaimantation
+    à l'aimantation
+  examples: []
+  id: 121-12-63
+  language_code: fra
+  notes:
+  - Pour désigner le facteur de désaimantation, le symbole `N` est utilisé dans la
+    partie 221 de l'IEV mais il n'est pas normalisé dans la norme CEI 60027-1.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de désaimantation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 0cd3adb1-e0b5-550b-b5da-a25c8ddf0655
+status: valid

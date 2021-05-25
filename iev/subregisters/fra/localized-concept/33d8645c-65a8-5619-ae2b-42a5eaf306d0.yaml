@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.5
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.2.5
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  definition: valeur du courant différentiel pour laquelle, et au-dessous de laquelle,
+    le dispositif de coupure différentiel ne fonctionne pas dans des conditions spécifiées
+  examples: []
+  id: 442-05-21
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant différentiel de non-fonctionnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 33d8645c-65a8-5619-ae2b-42a5eaf306d0
+status: valid

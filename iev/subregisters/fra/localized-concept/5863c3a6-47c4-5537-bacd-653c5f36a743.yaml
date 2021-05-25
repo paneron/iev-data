@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^30^ d''une unité de mesure'
+  examples:
+  - Un gibibit = 1 Gibit = (1 024)^3^ bit.
+  id: 171-02-16
+  language_code: fra
+  notes:
+  - Le préfixe gibi a pour origine gigabinaire, (2^10^)^3^, dérivé du préfixe SI giga,
+    (10^3^)^3^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: gibi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5863c3a6-47c4-5537-bacd-653c5f36a743
+status: valid

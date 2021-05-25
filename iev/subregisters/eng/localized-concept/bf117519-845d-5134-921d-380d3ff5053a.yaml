@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: speed of rotation of a rotating welding power source when the external
+    welding circuit is open
+  examples: []
+  id: 851-12-16
+  language_code: eng
+  notes:
+  - If an engine is fitted with a device to reduce the speed when not welding, `n`~0~
+    will be measured before the speed reduction device has operated.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated no-load speed
+    normative_status: preferred
+    type: expression
+  - designation: '`n`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2008-06-01
+id: bf117519-845d-5134-921d-380d3ff5053a
+status: valid

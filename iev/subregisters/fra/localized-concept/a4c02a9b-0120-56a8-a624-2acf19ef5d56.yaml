@@ -1,0 +1,53 @@
+data:
+  authoritativeSource:
+  - - clause: 13-36
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-36, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  classification: Preferred
+  definition: espérance mathématique de la {{transinformation, IEV:171-07-26}} `T`(`xi`,`yj`)
+    de deux événements `xi` et `yj`, appartenant respectivement à deux ensembles finis
+    et exhaustifs d'événements s'excluant mutuellement `T ( X , Y ) = sum_((i = 1))^n
+    sum_((j = 1))^m p ( x_i , y_j ) * T ( x_i , y_j )` où `X` = {`x`~1~, …, `x`~`n`~}
+    est l'ensemble d'événements `xi` (`i` = 1, …, `n`), `Y` = {`y`~1~, …, `y`~`m`~}
+    est l'ensemble d'événements `yj` (`j` = 1, …, `m`) et `p`(`xi`,`yj`) est la probabilité
+    de réalisation simultanée des deux événements
+  examples: []
+  id: 171-07-27
+  language_code: fra
+  notes:
+  - 'La transinformation moyenne est symétrique par rapport à `X` et `Y`. Elle est
+    aussi égale à l''excès de l''{{entropie, IEV:171-07-15}} de l''un des ensembles
+    d''événements sur l''{{entropie conditionnelle, IEV:171-07-23}} de cet ensemble
+    par rapport à l''autre: `T ( X | Y ) = H ( X ) - H ( X | Y ) = H ( Y ) - H ( Y
+    | X ) = T ( X | Y )`.'
+  - La transinformation moyenne est une mesure quantitative de l'information transmise
+    à travers un canal, lorsque `X` est un ensemble déterminé de messages émis par
+    la source de messages et `Y` un ensemble déterminé de messages reçus par le collecteur
+    de messages. Elle est égale à l'excès de l'entropie à la source sur l'{{équivoque,
+    IEV:171-07-24}} ou à l'excès de l'entropie au collecteur sur l'{{altération, IEV:171-07-25}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transinformation moyenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: quantité d'information mutuelle moyenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: information mutuelle moyenne
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a4c02a9b-0120-56a8-a624-2acf19ef5d56
+status: valid

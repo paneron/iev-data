@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: curve giving the cut-off current as a function of the prospective current,
+    under stated conditions of operation
+  examples: []
+  id: 441-17-14
+  language_code: eng
+  notes:
+  - In the case of alternating currents, the values of the cut-off currents are the
+    maximum values which can be reached whatever the degree of asymmetry. In the case
+    of direct currents, the values of the cut-off currents are the maximum values
+    reached related to the time constant as specified.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cut-off (current) characteristic
+    normative_status: preferred
+    type: expression
+  - designation: let-through (current) characteristic
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: e93bc846-2bdb-58fb-a49f-fc048a0b943d
+status: valid

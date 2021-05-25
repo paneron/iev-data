@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: définition 434
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 434, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: quotient de d`Q` par d`m`, où d`Q` est égale à la valeur absolue de
+    la charge totale d'ions d'un même signe, libérée dans l'air quand tous les électrons
+    et positons libérés dans une masse d'air dm par des photons ont été complètement
+    arrêtés `X` = d`Q`/d`m`
+  examples: []
+  id: 395-01-32
+  language_code: fra
+  notes:
+  - Cette grandeur s'exprime en coulombs par kilogramme (C/kg). Elle était précédemment
+    exprimée en röntgens R (1 R = 2,58 x 10^−4^ C·kg^−1^).
+  - Ce terme est utilisé en métrologie des rayonnements ionisants.
+  - Cet article était numéroté 393-14-57 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3e9fa395-35c2-5517-a35c-6e1dcba5f99e
+status: valid

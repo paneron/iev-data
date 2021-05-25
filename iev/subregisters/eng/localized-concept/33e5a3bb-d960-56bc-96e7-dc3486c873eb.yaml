@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: for a reflector antenna, the ratio of the power intercepted by a reflector
+    to the power that is radiated to this reflector from its feed
+  examples: []
+  id: 712-05-43
+  language_code: eng
+  notes:
+  - If an antenna includes a succession of reflectors, a spill-over factor may be
+    considered for each reflector.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spill-over factor
+    normative_status: preferred
+    type: expression
+  - designation: feed efficiency
+    type: expression
+dateAccepted: 1992-04-01
+id: 33e5a3bb-d960-56bc-96e7-dc3486c873eb
+status: valid

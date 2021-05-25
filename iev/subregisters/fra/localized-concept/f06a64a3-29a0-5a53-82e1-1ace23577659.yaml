@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '3.76'
+      link: https://webstore.iec.ch/publication/2606
+      original: IEC 60601-1:2005, 3.76, modifié – L’expression "être vivant (personne
+        ou animal)" a été remplacée par le terme "personne", l’expression "chirurgicale
+        ou dentaire" a été remplacée par l’expression "clinique, diagnostique ou thérapeutique"
+        et les Notes 1 et 2 à l’article ont été ajoutées.
+      ref: IEC 60601-1:2005
+      relationship:
+        modification: L’expression "être vivant (personne ou animal)" a été remplacée
+          par le terme "personne", l’expression "chirurgicale ou dentaire" a été remplacée
+          par l’expression "clinique, diagnostique ou thérapeutique" et les Notes
+          1 et 2 à l’article ont été ajoutées.
+        type: modified
+  definition: personne soumise à une procédure médicale, clinique, diagnostique ou
+    thérapeutique
+  examples: []
+  id: 871-02-12
+  language_code: fra
+  notes:
+  - Un patient peut être un {{utilisateur AAD, IEV:871-02-05}}.
+  - Un utilisateur AAD n’est pas nécessairement un patient.
+  reviewDecisionEvent: published
+  terms:
+  - designation: patient
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en AAD
+dateAccepted: 2018-11-17
+id: f06a64a3-29a0-5a53-82e1-1ace23577659
+status: valid

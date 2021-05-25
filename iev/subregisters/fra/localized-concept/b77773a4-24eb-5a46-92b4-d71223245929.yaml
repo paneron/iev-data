@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: moyenne de l'indisponibilité instantanée sur un intervalle de temps
+    donné (`t`~1~, `t`~2~)
+  examples: []
+  id: 192-08-06
+  language_code: fra
+  notes:
+  - 'L’indisponibilité moyenne est liée à l’indisponibilité instantanée `U`(`t`) par
+    la formule:
+
+
+    `bar U ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) U ( t ) d t`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité moyenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b77773a4-24eb-5a46-92b4-d71223245929
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: item under consideration defined according to construction or configuration
+  examples: []
+  id: 351-56-03
+  language_code: eng
+  notes:
+  - One or several functional units may be implemented in a single physical unit.
+    The corresponding functional unit(s) is/are in some cases not explicitly designated.
+  - The various parts of a physical unit need not be functionally interrelated. For
+    example, a physical unit may be in the form of an integrated circuit with four
+    independent AND modules.
+  - If compound terms are used to designate physical units, the following, should
+    be used as the last word (in ascending order of rank),* component,* assembly,*
+    device,* plant.
+  - This entry was numbered 351-32-03 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: physical unit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: f36f8603-7397-55cc-9d7d-9fcb3fd196dd
+status: valid

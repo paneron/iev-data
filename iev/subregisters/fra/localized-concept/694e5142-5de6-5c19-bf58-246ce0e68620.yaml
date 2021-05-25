@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: manière selon laquelle une défaillance se produit
+  examples: []
+  id: 192-03-17
+  language_code: fra
+  notes:
+  - Un mode de défaillance peut être défini par la fonction perdue ou par la transition
+    d’état qui s’est produite.
+  reviewDecisionEvent: published
+  terms:
+  - designation: mode de défaillance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mode de panne
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 694e5142-5de6-5c19-bf58-246ce0e68620
+status: valid

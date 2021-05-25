@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: asymmetric resistive two-terminal element characterized by zero voltage
+    between the terminals when the electric current in it is directed from one terminal
+    denoted A to the other denoted B and zero electric current when the electric potential
+    at terminal A is less than or equal to the potential at terminal B
+  examples: []
+  id: 131-12-08
+  language_code: eng
+  notes:
+  - 'The functional relation between voltage `u`~AB~ and electric current `i` is:
+
+
+    `u`~AB~ = 0 when `i` ≥ 0
+
+
+    `i` = 0 when `u`~AB~ ≤ 0
+
+
+    where the reference direction for the electric current is from A to B.'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ideal diode
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 42bd2dcc-235b-5057-9fc8-f16932b387c8
+status: valid

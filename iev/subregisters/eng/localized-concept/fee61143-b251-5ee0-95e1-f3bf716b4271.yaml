@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: qualifies a {{field, IEV:102-05-12}} or a physical medium in which the
+    relevant properties depend on the position in the field or medium
+  examples: []
+  id: 113-02-02
+  language_code: eng
+  notes:
+  - Crystals are generally inhomogeneous media. Fields in general are inhomogeneous.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inhomogeneous
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: heterogeneous
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-10-01
+id: fee61143-b251-5ee0-95e1-f3bf716b4271
+status: valid

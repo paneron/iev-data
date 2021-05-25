@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - - clause: 2.3.1
+      original: SI Brochure, 9th edition, 2019, 2.3.1, modified – The definition in
+        the SI Brochure has been revised to comply with the IEV rules. Notes 1 to
+        3 to entry have been added.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: The definition in the SI Brochure has been revised to comply
+          with the IEV rules. Notes 1 to 3 to entry have been added.
+        type: modified
+  dateAmended: 2020-12-01
+  definition: '{{SI, IEV:112-02-02}} {{unit, IEV:112-01-14}} of {{mass, IEV:113-03-03}},
+    taking the fixed numerical value of the {{Planck constant, IEV:113-05-07}} `h`
+    to be 6,626 070 15 × 10^−34^ when expressed in the unit s^−1^ m^2^ kg, where the
+    {{metre, IEV:112-02-05}} and the {{second, IEV:112-02-04}} are chosen as units
+    of {{length, IEV:113-01-19}} and {{time, IEV:113-01-13}}, respectively'
+  examples: []
+  id: 112-02-06
+  language_code: eng
+  notes:
+  - 'The definition in the SI Brochure is: "The kilogram, symbol kg, is the SI unit
+    of mass. It is defined by taking the fixed numerical value of the Planck constant
+    `h` to be 6,626 070 15 × 10^−34^ when expressed in the unit J s, which is equal
+    to kg m^2^ s^−1^, where the metre and the second are defined in terms of `c` and
+    Δ`ν`~Cs~."'
+  - 'The definition of the kilogram in IEV 112-02-06:2010-01 was: "SI unit of mass,
+    equal to the mass of the object called the “international prototype of the kilogram”
+    kept at the International Bureau of Weights and Measures (BIPM)."'
+  - 'The kilogram is one of the seven SI {{base units, IEV:112-01-18}}: {{second,
+    IEV:112-02-04}} (s), {{metre, IEV:112-02-05}} (m), kilogram (kg), {{ampere, IEV:112-02-07}}
+    (A), {{kelvin, IEV:112-02-08}} (K), {{mole, IEV:112-02-09}} (mol) and {{candela,
+    IEV:112-02-10}} (cd).'
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: kilogram
+    normative_status: preferred
+    type: expression
+  - designation: kg
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: d84d40e3-8687-5d78-88c8-88adefed105a
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: completely determined finite sequence of instructions by which the values
+    of the output variables may be calculated from the values of the input variables
+  examples: []
+  id: 351-42-27
+  language_code: eng
+  notes:
+  - The behaviour of a system with discrete-value input and output variables (for
+    example a switching system) may be described completely by an algorithm. For a
+    system with continuous-value and continuous-time input and output variables the
+    algorithm is given by or derived from the mathematical relationship between the
+    input and output variables.
+  - This entry was numbered 351-21-37 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: algorithm
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 11470f25-ccb6-53de-977e-15a746b8c9e8
+status: valid

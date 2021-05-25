@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-04-01
+  definition: '{{ratio, IEV:102-01-23}} of the partial pressure `p` of water vapour
+    in moist air to its partial pressure `p`~sat~ at saturation, at the same temperature
+    `φ` = `p`/`p`~sat~'
+  examples: []
+  id: 113-04-65
+  language_code: eng
+  notes:
+  - The relative humidity is often expressed in per cent.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative humidity
+    normative_status: preferred
+    type: expression
+  - designation: relative partial pressure
+    normative_status: preferred
+    type: expression
+    usage_info: of water vapour
+  - designation: RH
+    normative_status: admitted
+    type: expression
+  - designation: '`φ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-04-01
+id: 259a7403-a44c-516e-9e47-13eb03f392ad
+status: valid

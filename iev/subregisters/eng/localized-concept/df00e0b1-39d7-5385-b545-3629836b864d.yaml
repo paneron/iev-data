@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-05-01
+  definition: patient-related data, measured by devices connected to the patient or
+    collected otherwise by the patient
+  examples:
+  - Pulse rate, blood glucose level, blood pressure and body temperature.
+  id: 871-06-12
+  language_code: eng
+  notes: []
+  reviewDate: 2018-05-01
+  reviewDecisionDate: 2018-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vital signs and metabolic data
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-05-01
+id: df00e0b1-39d7-5385-b545-3629836b864d
+status: valid

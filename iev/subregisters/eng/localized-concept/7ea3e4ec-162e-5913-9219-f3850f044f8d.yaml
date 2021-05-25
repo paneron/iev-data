@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the value of the coercive field strength in a material when the magnetic
+    flux density, magnetic polarization or magnetization is alternating at an amplitude
+    corresponding to the saturation hysteresis loop
+  examples: []
+  id: 221-02-37
+  language_code: eng
+  notes:
+  - 'The relevant parameter should be stated, and the appropriate symbol used as follows
+    : `H''`~c`B`~ for the cyclic coercivity relating to the flux density, `H''`~c`J`~
+    for the cyclic coercivity relating to the polarization, `H''`~c`M`~ for the cyclic
+    coercivity relating to the magnetization. The first two symbols supersede `BH''`~c~
+    and `JH''`~c~.'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cyclic coercivity
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 7ea3e4ec-162e-5913-9219-f3850f044f8d
+status: valid

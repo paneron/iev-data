@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-08-01
+  definition: for a tensor of the second order `T = ( T_((i j)) )` and a vector *`U`*
+    = (`Uk`), vector the components of which are given by `(( T * U ))_i = underset(m)(
+    sum ) T_((i m)) U_m`
+  examples: []
+  id: 102-03-47
+  language_code: eng
+  notes:
+  - The inner product of two vectors is their scalar product, because a tensor of
+    the first order is considered as a vector.
+  - An example is the relation `D = vec vec epsilon * E` between the electric field
+    strength *`E`* and the electric flux density *`D`*, where `vec vec epsilon` is
+    the absolute permittivity of an anisotropic medium.
+  - The inner product of a tensor and a vector is denoted by a half-high dot (·) between
+    the two symbols.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inner product
+    normative_status: preferred
+    type: expression
+    usage_info: of a tensor and a vector
+  - designation: contracted product
+    normative_status: preferred
+    type: expression
+    usage_info: of a tensor and a vector
+dateAccepted: 2008-08-01
+id: 4f40ec25-9830-5f5d-a089-d21d2238a631
+status: valid

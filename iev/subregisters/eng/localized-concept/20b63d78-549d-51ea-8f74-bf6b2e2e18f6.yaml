@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-07-01
+  definition: relative change in permittivity due to a change in temperature divided
+    by the change in temperature `T C epsilon = ((epsilon_T – epsilon_((ref))))/((epsilon_((ref))
+    ( T – T_((ref)) )))` where `ε`~`T`~ is the permittivity at temperature `T`; `ε`~ref~
+    is the permittivity at reference temperature `T`~ref~
+  examples: []
+  id: 561-06-07
+  language_code: eng
+  notes:
+  - The temperature coefficient of permittivity is generally expressed in megakelvins
+    to the power minus one (1/MK).
+  reviewDate: 2016-07-01
+  reviewDecisionDate: 2016-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature coefficient of permittivity
+    normative_status: preferred
+    type: expression
+  - designation: '`TCε`'
+    international: true
+    type: symbol
+dateAccepted: 2016-07-01
+id: 20b63d78-549d-51ea-8f74-bf6b2e2e18f6
+status: valid

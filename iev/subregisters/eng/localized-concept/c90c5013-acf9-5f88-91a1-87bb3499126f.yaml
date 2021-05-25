@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: plane used as a reference for spatial measurements
+  examples: []
+  id: 561-07-27
+  language_code: eng
+  notes:
+  - "The reference plane may be one of the following types:\n\n. for clamped measurements,\
+    \ the flat chuck surface that contacts the back surface of the wafer; \n\n. three\
+    \ points at specified locations on the front surface within the fixed quality\
+    \ area; \n\n. the least-squares fit to the front surface using all measured points\
+    \ within the fixed quality area; \n\n. the least-squares fit to the front surface\
+    \ using all measured points within one site."
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference plane
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: c90c5013-acf9-5f88-91a1-87bb3499126f
+status: valid

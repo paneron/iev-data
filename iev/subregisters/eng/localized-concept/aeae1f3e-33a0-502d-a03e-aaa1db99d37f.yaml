@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the minimum luminance at a point and the average road surface
+    luminance over an evaluation area
+  examples: []
+  id: 845-31-142
+  language_code: eng
+  notes:
+  - Where the luminance value refers only to the carriageway part of the road it can
+    be known as "carriageway luminance".
+  - The overall uniformity of road surface luminance has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overall uniformity of road surface luminance
+    normative_status: preferred
+    type: expression
+  - designation: '`U`~o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: aeae1f3e-33a0-502d-a03e-aaa1db99d37f
+status: valid

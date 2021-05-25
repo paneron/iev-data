@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: grandeur d'état égale à la différence entre l'énergie totale d'un système
+    et la somme de l'énergie cinétique macroscopique et de l'énergie potentielle macroscopique
+    du système
+  examples: []
+  id: 113-04-20
+  language_code: fra
+  notes:
+  - 1 L’énergie interne peut être exprimée en fonction des grandeurs d’état du système
+    telles que la température, la pression, le volume, les masses ou les quantités
+    de matière.
+  - 2 Pour un système thermodynamique fermé, Δ`U` = `Q` + `W`, où `Q` est la quantité
+    de chaleur transférée au système et `W` est le travail effectué sur le système
+    sous réserve qu’il ne se produise pas de réactions chimiques.
+  - 3 L’énergie interne massique est notée `u`.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie interne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: énergie thermodynamique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: df1a65e9-f606-553e-b8a6-1bc6e240743a
+status: valid

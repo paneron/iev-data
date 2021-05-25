@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 3.6.2
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.6.2
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: current coordinate of the intersection between the maximum break-time–current
+    characteristics of two overcurrent protective devices
+  examples: []
+  id: 442-05-61
+  language_code: eng
+  notes:
+  - The take-over current is a limiting value of current above which, in the presence
+    of two overcurrent protective devices in series, the protective device generally,
+    but not necessarily, on the supply side, provides back-up operation for the other
+    protective device.
+  - '{{`I`^2^`t` characteristics, IEV:442-05-59}} can be used instead of time–current
+    characteristics.'
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: take-over current
+    normative_status: preferred
+    type: expression
+    usage_info: of two overcurrent protective devices
+  - designation: '`I`~B~'
+    international: true
+    type: symbol
+dateAccepted: 2019-05-01
+id: fd8ea0c3-f4e1-5324-ade1-6c18744ce605
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans un ensemble muni d'une multiplication, élément unique `u`, s'il
+    existe, tel que `a * u = u * a = a` pour tout élément `a`
+  examples: []
+  id: 102-01-19
+  language_code: fra
+  notes:
+  - Pour les nombres, l'élément neutre pour la multiplication est le nombre un, noté
+    1. Pour les matrices carrées, l'élément neutre est la matrice unité de même ordre.
+    Pour les grandeurs, l'élément neutre est une grandeur sans dimension (ou grandeur
+    de dimension un) dont la valeur numérique est le nombre un. Pour les {{dimensions,
+    IEV:112-01-11}} de grandeurs, l'élément neutre est la dimension des grandeurs
+    sans dimension, notée par le symbole 1.
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément neutre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour la multiplication
+dateAccepted: 2018-11-17
+id: a82cfa46-a104-5610-b255-28b92ce02071
+status: valid

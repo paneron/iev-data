@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: for a sinusoidal quantity `a ( t ) = hat A cos ( omega t + vartheta_0
+    )`, complex quantity `underset(_)(a) ( t ) = hat A cos ( omega t + vartheta_0
+    ) + j s i n ( omega t + vartheta_0 ) = hat A exp j ( omega t + vartheta_0 ) =
+    hat A exp ( j omega t ) exp ( j vartheta_0 )` where j is the imaginary unit, `hat
+    A` is complex amplitude, `omega` is angular frequency, and `vartheta_0` is initial
+    phase
+  examples: []
+  id: 103-07-12
+  language_code: eng
+  notes:
+  - The instantaneous value of the quantity is the real part of its complex representation.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous complex value
+    normative_status: preferred
+    type: expression
+  - designation: rotating phasor
+    normative_status: preferred
+    type: expression
+  - designation: complex representation
+    normative_status: preferred
+    type: expression
+    usage_info: of a sinusoidal quantity
+dateAccepted: 2009-12-01
+id: 712cb0b0-792c-5ecb-b7c3-a3b23b26add3
+status: valid

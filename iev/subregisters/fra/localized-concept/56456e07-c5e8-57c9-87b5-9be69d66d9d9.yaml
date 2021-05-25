@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 113-06-48
+      original: CEI 60050-113:1996, 113-06-48
+      ref: IEC 60050-113:1996
+      relationship:
+        type: identical
+  definition: milieu gazeux conducteur constitué d'électrons libres, d'ions, d'atomes
+    ou de molécules neutres, ces particules étant en proportion telles que le milieu
+    soit macroscopiquement neutre au point de vue électrique
+  examples: []
+  id: 395-02-24
+  language_code: fra
+  notes:
+  - Dans le domaine thermonucléaire, on appelle plasma chaud un plasma dont l’évolution
+    est gouvernée par le rayonnement et plasma froid un plasma dans lequel on néglige
+    l’agitation thermique des particules.
+  - Cet article était numéroté 393-13-46 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: plasma
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56456e07-c5e8-57c9-87b5-9be69d66d9d9
+status: valid

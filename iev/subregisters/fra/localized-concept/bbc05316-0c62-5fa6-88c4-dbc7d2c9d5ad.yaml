@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: transformation de {{données, IEV:171-01-02}} afin de cacher leur contenu
+    sémantique en utilisant la {{cryptographie, IEV:171-08-08}}
+  examples: []
+  id: 171-08-09
+  language_code: fra
+  notes:
+  - L'opération inverse est appelée {{déchiffrement, IEV:171-08-10}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: chiffrement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cryptage
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bbc05316-0c62-5fa6-88c4-dbc7d2c9d5ad
+status: valid

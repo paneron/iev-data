@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: processus par lequel un réseau d'énergie électrique est fractionné en
+    deux ou plus de deux réseaux séparés
+  examples: []
+  id: 603-04-31
+  language_code: fra
+  notes:
+  - Le passage en réseau séparé est soit une mesure d'urgence volontaire, soit le
+    résultat d'actions de conduite ou d'automates de protection, soit le résultat
+    d'une erreur humaine.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: passage en réseau séparé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fractionnement de réseau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: îlotage d'un réseau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 64c11e7a-76d6-5407-b5f6-9809d7a6c5a6
+status: valid

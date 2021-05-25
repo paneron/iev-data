@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-02-01
+  definition: overvoltage with a duration of a few milliseconds or less, oscillatory
+    or non-oscillatory, usually highly damped
+  examples: []
+  id: 614-03-14
+  language_code: eng
+  notes:
+  - Transient overvoltages may be immediately followed by temporary overvoltages.
+    In such cases the two overvoltages are considered as separate events.
+  - IEC 60071-1 defines three types of transient overvoltages, namely slow-front overvoltages,
+    fast-front overvoltages and very fast-front overvoltages according to their time
+    to peak, tail or total duration, and possible superimposed oscillations.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transient overvoltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: 61b081a2-a3ed-58dc-88f8-49aaef210b3b
+status: valid

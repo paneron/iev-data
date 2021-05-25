@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: time interval for which an item is in an operating state
+  examples: []
+  id: 192-02-05
+  language_code: eng
+  notes:
+  - The duration of operating time may be expressed in units appropriate to the item
+    concerned, e.g. calendar time, operating cycles, distance run, etc., and the units
+    should always be clearly stated.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: operating time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 5f9562f8-29d6-5aa6-b3a8-2c00364b4367
+status: valid

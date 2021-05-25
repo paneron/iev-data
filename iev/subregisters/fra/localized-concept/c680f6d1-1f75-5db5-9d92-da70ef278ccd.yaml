@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{unité de traitement, IEV:171-04-04}} qui commande le fonctionnement
+    d''un ordinateur'
+  examples: []
+  id: 171-04-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: unité centrale de traitement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: UCT
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: unité centrale
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c680f6d1-1f75-5db5-9d92-da70ef278ccd
+status: valid

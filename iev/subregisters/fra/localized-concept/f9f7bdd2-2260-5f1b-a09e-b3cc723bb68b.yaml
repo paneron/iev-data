@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: vitesse de rotation d'une source de courant de soudage tournante lorsque
+    le circuit de soudage extérieur est ouvert
+  examples: []
+  id: 851-12-16
+  language_code: fra
+  notes:
+  - Si un moteur thermique est équipé d'un dispositif réducteur de vitesse en l'absence
+    de soudage, `n`~0~ sera mesurée avant fonctionnement de ce dispositif.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de rotation assignée à vide
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: f9f7bdd2-2260-5f1b-a09e-b3cc723bb68b
+status: valid

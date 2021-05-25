@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: the ratio of the number of bits, unit elements, characters or blocks
+    incorrectly received but undetected or uncorrected by the error control equipment,
+    to the total number of corresponding elements sent
+  examples: []
+  id: 721-08-56
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: residual error-rate
+    normative_status: preferred
+    type: expression
+  - designation: undetected error-rate
+    type: expression
+dateAccepted: 1991-11-01
+id: e9c151e6-1196-510b-833c-44cd63c0e11d
+status: valid

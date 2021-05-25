@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: différence de temps entre le temps de fin, `t`~e~, et le temps de début,
+    `t`~s~, d'une exposition à un <a href="IEV845-21-002">rayonnement optique</a>
+  examples: []
+  id: 845-26-071
+  language_code: fra
+  notes:
+  - Pour une impulsion unique, la durée d'exposition est la durée entre le point de
+    puissance de demi-crête du bord avant et le point correspondant du bord arrière.
+    Pour un train d'impulsions (ou de sous-sections d'un train d'impulsions), la durée
+    d'exposition est la durée entre le premier point de puissance de demi-crête de
+    la première impulsion et le dernier point de puissance de demi-crête de la dernière
+    impulsion.
+  - La durée d'exposition est exprimée en secondes (s).
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d'exposition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ae33f8f-6444-5c21-8887-b2501a4e7393
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for two vectors *`U`* and *`V`* in an `n`-dimensional Euclidean space,
+    tensor of the second order defined by the bilinear form `f ( X , Y ) = ( U * X
+    ) ( V * Y )`, where *`X`* and *`Y`* are any vectors in the same space
+  examples: []
+  id: 102-03-41
+  language_code: eng
+  notes:
+  - The bilinear form can be represented by `f ( X , Y ) = ( underset(i)( sum ) U_i
+    X_i ) ( underset(j)( sum ) V_j Y_j ) = underset((i j))( sum ) U_i V_j X_i Y_j`
+    in terms of the coordinates of the vectors. The dyadic product is then the tensor
+    with components `T_((i j)) = U_i V_j`.
+  - The dyadic product of two vectors is denoted by `U ox V` or `U V`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dyadic product
+    normative_status: preferred
+    type: expression
+  - designation: tensor product
+    type: expression
+    usage_info: of two vectors
+dateAccepted: 2008-08-01
+id: 1d781357-aafb-5473-828b-49d0a19c9d84
+status: valid

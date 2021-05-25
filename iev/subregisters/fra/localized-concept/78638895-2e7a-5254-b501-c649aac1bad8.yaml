@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: composant ou ensemble de composants qui est considéré comme non sujet
+    à certains modes de défaillance spécifiques
+  examples: []
+  id: 426-11-28
+  language_code: fra
+  notes:
+  - 'Les conditions sont spécifiées dans l''IEC 60079-11, _Atmosphères explosives
+    – Partie 11: Protection de l''équipement par sécurité intrinsèque "i"_'
+  reviewDecisionEvent: published
+  terms:
+  - designation: composant infaillible
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ensemble infaillible de composants
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 78638895-2e7a-5254-b501-c649aac1bad8
+status: valid

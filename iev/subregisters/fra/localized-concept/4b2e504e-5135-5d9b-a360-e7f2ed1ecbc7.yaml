@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tableau de `mn` scalaires disposés en `m` lignes et `n` colonnes
+  examples: []
+  id: 102-06-01
+  language_code: fra
+  notes:
+  - Les scalaires du tableau sont appelés éléments de la matrice.
+  - On emploie aussi la notation matricielle avec des grandeurs scalaires à la place
+    des scalaires, ces grandeurs n'étant pas nécessairement de même nature. Des exemples
+    sont la matrice d'impédance et la matrice `H` (voir IEC 60027-2). Une notation
+    matricielle est parfois employée pour des opérateurs. Il convient qu’ellel soit
+    être justifiée dans chaque cas.
+  - 'Une matrice est représentée par un symbole littéral en italique gras ou par le
+    tableau des éléments entre parenthèses: *`A`* ou `( [[A_((11)),cdots,A_((1 n))],[vdots,ddots,vdots],[A_((m
+    1)),cdots,A_((m n))]] )`. La notation (`Aij`) est aussi utilisée, par exemple
+    pour distinguer la matrice *`A`* d''un vecteur *`A`*. Les crochets sont aussi
+    utilisés au lieu des parenthèses. Pour une matrice *`A`*, l''élément de la ligne
+    `i` et de la colonne `j` peut être noté (*`A`*)~ij~, ou `Aij` s''il n''y a pas
+    d''ambiguïté.'
+  - Une matrice est complexe si ses éléments sont des nombres complexes ou des grandeurs
+    complexes. On peut noter une matrice complexe *`A`* et ses éléments (*`A`*)~`ij`~
+    ou *`A`*~`ij`~.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4b2e504e-5135-5d9b-a360-e7f2ed1ecbc7
+status: valid

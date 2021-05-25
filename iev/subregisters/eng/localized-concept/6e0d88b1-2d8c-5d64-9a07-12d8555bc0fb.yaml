@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: limit, as the bandwidth approaches zero, of the mean square value of
+    a field quantity divided by bandwidth. The kind of field quantity must be specified,
+    such as sound pressure, particle velocity, particle acceleration
+  examples: []
+  id: 801-21-43
+  language_code: eng
+  notes: []
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral density
+    normative_status: preferred
+    type: expression
+  - designation: spectrum density
+    type: expression
+dateAccepted: 1994-07-01
+id: 6e0d88b1-2d8c-5d64-9a07-12d8555bc0fb
+status: valid

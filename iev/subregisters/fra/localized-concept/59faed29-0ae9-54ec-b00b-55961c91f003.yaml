@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: méthode de protection contre les erreurs utilisant un code cyclique,
+    principalement en vue de la détection d'erreurs
+  examples: []
+  id: 723-10-100
+  language_code: fra
+  notes:
+  - Les éléments binaires du bloc à protéger sont pris comme coefficients d'un polynôme
+    que l'on divise modulo 2 par un polynôme générateur spécifié ; les coefficients
+    du reste de cette division sont ajoutés au bloc initial sous forme d'un bloc de
+    contrôle.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrôle de redondance cyclique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: CRC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 59faed29-0ae9-54ec-b00b-55961c91f003
+status: valid

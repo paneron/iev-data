@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: quotient of `d bar epsilon` by d`m`, where `d bar epsilon` is the mean
+    energy imparted by ionizing radiation to matter of mass d`m` `D = d bar epsilon
+    // d m`
+  examples: []
+  id: 395-01-35
+  language_code: eng
+  notes:
+  - This quantity is expressed in gray (Gy) (1 Gy = 1 J kg^−1^) (formerly expressed
+    in rad (rad)).
+  - This entry was numbered 393-14-64 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absorbed dose
+    normative_status: preferred
+    type: expression
+  - designation: '`D`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 75c27f38-bdec-5408-90b9-cca8719ab217
+status: valid

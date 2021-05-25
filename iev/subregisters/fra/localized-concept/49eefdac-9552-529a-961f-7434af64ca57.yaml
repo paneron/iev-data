@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: pour un signal d'entrée constitué d'une oscillation sinusoïdale de faible
+    amplitude superposée à une composante continue, distorsion de non-linéarité caractérisée
+    par la variation gênante du rapport de l'amplitude de la composante fondamentale
+    de l'oscillation de sortie à l'amplitude de l'oscillation d'entrée, en fonction
+    de la valeur de la composante continue d'entrée
+  examples: []
+  id: 702-07-60
+  language_code: fra
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: distorsion d'amplitude différentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: distorsion de gain différentiel
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 49eefdac-9552-529a-961f-7434af64ca57
+status: valid

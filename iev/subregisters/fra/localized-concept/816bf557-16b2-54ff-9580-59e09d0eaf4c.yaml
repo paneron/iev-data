@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension caractérisant l'importance relative de la convection
+    libre et de la conduction thermique, définie par `R a = ((l^3 rho^2 c_p g alpha_V
+    Delta T))/((eta lambda)) = ((l^3 g alpha_V Delta T))/((nu alpha))`, où `l` est
+    une longueur spécifiée, `ρ` est la masse volumique, `c`~`p`~ est la capacité thermique
+    massique à pression constante, `g` est l'accélération due à la pesanteur, `α`~`v`~
+    est le coefficient de dilatation volumique, `T` est la température thermodynamique,
+    `η` est la viscosité dynamique, `λ` est la conductivité thermique, et `α` est
+    la diffusivité thermique
+  examples: []
+  id: 113-04-58
+  language_code: fra
+  notes:
+  - 'Le nombre de Rayleigh est le produit du nombre de Grashof `Gr` et du nombre de
+    Prandtl `Pr`, soit: `Ra` = `Gr` ⋅ `Pr`.'
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de Rayleigh
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 816bf557-16b2-54ff-9580-59e09d0eaf4c
+status: valid

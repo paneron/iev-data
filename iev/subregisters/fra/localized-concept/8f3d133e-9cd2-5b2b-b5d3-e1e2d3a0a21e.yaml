@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: composante sinusoïdale de la décomposition en série de Fourier d'une
+    grandeur périodique, dont le rang harmonique est un nombre entier plus grand que
+    un
+  examples: []
+  id: 103-07-25
+  language_code: fra
+  notes:
+  - Une composante de rang harmonique `n` (avec `n` &gt;1) est généralement appelée
+    `n`-ième harmonique. Il n'est pas recommander de désigner le fondamental comme
+    premier harmonique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: harmonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: composante harmonique
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8f3d133e-9cd2-5b2b-b5d3-e1e2d3a0a21e
+status: valid

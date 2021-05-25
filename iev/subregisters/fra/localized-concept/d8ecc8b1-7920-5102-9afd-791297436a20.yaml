@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la luminance énergétique de l'élément de surface dans une
+    direction spécifiée, `L`~e,n~, par celle d'un diffuseur parfait par réflexion
+    ou par transmission irradié et observé dans les mêmes conditions, `L`~e,d~ `beta_e
+    = ((L_((e ,n))))/((L_((e ,d))))`
+  examples: []
+  id: 845-24-075
+  language_code: fra
+  notes:
+  - La définition s'applique à un élément de surface d'un milieu non rayonnant par
+    lui-même, dans une direction spécifiée et dans les conditions d'irradiation spécifiées.
+  - Le facteur de luminance énergétique est équivalent au facteur moyen de luminance
+    ou au facteur de luminance lorsque l'angle conique est infiniment petit, et est
+    équivalent au facteur de réflexion lorsque ce même angle est de 2π sr. Ces grandeurs
+    sont également définies spectralement et appelées facteur de luminance énergétique
+    spectrale, `β`(`λ`), et facteur moyen de luminance spectrale, `R`(`λ`).
+  - Le diffuseur (de Lambert) isotrope idéal avec un facteur de réflexion ou de transmission
+    égal à 1 est appelé "diffuseur parfait".
+  - 'Dans le cas de milieux photoluminescents, le facteur de luminance énergétique
+    contient deux composantes, le facteur de luminance énergétique par réflexion,
+    `β`~R~, et le facteur de luminance énergétique par luminescence, `β`~L.~ La somme
+    de ces deux facteurs correspond au facteur total de luminance énergétique, `β`~T~:
+    `β`~T~ = `β`~R~ + `β`~L~.
+
+
+    L''indice R est utilisé ici pour le facteur de luminance énergétique par réflexion
+    parce qu''il est plus intuitif que l''indice S conventionnel et évite toute confusion
+    de l''utilisation de la lettre S pour désigner un état de polarisation.'
+  - L'unité de facteur de luminance énergétique est un.
+  - Cet article était numéroté 845-04-68 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de luminance énergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d8ecc8b1-7920-5102-9afd-791297436a20
+status: valid

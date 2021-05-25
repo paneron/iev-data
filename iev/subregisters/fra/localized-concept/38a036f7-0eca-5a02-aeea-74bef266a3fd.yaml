@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un champ vectoriel *`U`* qui est donné en tout point d'un domaine
+    tridimensionnel V délimité par une surface fermée S orientée vers l'extérieur,
+    théorème énonçant que l'intégrale de volume étendue à V de la divergence du champ
+    *`U`* est égale au flux de ce champ à travers la surface S `underset(V)( ∭ ) div
+    U d V = underset(S)( ∯ ) U * e_n d A` où d`V` est l'élément de volume et *`e`*~n~d`A`
+    est l'élément vectoriel de surface
+  examples: []
+  id: 102-05-30
+  language_code: fra
+  notes:
+  - Le théorème de la divergence peut être généralisé à l'espace euclidien à `n` dimensions.
+  - En électrostatique, le théorème de la divergence est appliqué pour exprimer que
+    le flux électrique sortant d'une surface fermée est égal à la charge électrique
+    totale contenue dans le domaine délimité par la surface. Il est alors appelé «théorème
+    de Gauss».
+  reviewDecisionEvent: published
+  terms:
+  - designation: théorème de la divergence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: théorème d'Ostrogradski
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 38a036f7-0eca-5a02-aeea-74bef266a3fd
+status: valid

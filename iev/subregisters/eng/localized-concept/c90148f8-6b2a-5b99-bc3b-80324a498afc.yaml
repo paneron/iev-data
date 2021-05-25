@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: host computer that in a screened subnetwork performs the functions of
+    a firewall
+  examples: []
+  id: 732-06-05
+  language_code: eng
+  notes:
+  - '– See Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-05en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bastion host
+    normative_status: preferred
+    type: expression
+  - designation: screened-host gateway
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: c90148f8-6b2a-5b99-bc3b-80324a498afc
+status: valid

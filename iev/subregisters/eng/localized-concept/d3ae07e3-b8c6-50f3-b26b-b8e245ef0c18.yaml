@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-01-01
+  definition: term designating a {{unit of measurement, IEV:112-01-14}}
+  examples: []
+  id: 112-01-15
+  language_code: eng
+  notes:
+  - Names of derived units are special or compound. Rules for the formation of compound
+    names are given in ISO 80000-1 and IEC 60027-1. For example, the derived unit
+    of resistivity is the ohm metre, the derived unit of speed is the metre per second.
+  - Unit names are given in the various parts of ISO 80000, IEC 80000, and IEC 60027
+    and also in the brochure The International System of Units, published by the BIPM.
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit name
+    normative_status: preferred
+    type: expression
+  - designation: name of unit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-01-01
+id: d3ae07e3-b8c6-50f3-b26b-b8e245ef0c18
+status: valid

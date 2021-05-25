@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.10'
+      link: https://www.iso.org/standard/32893.html
+      original: ISO/IEC Guide 51:1999, 3.10
+      ref: ISO/IEC Guide 51:1999
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: systematic use of available information to identify {{hazards, IEV:903-01-02}}
+    and to estimate the {{risk, IEV:903-01-07}}
+  examples: []
+  id: 903-01-08
+  language_code: eng
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: risk analysis
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 2aed4405-da92-5b47-9744-1861df7b32c1
+status: valid

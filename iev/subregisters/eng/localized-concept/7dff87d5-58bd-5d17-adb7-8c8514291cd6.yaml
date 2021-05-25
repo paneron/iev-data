@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{stable state, IEV:692-02-02}} that is not an {{alert state, IEV:692-02-07}}
+    image::/assets/images/parts/692/692-fig2-en.png[Figure 2 - Electric power system
+    states] <simg></simg>'
+  examples: []
+  id: 692-02-10
+  language_code: eng
+  notes:
+  - 'The arrows indicate the most important state transitions caused by credible events.
+    Recovery transitions, in opposite directions, are effected by operator intervention.
+
+
+    *Figure 3 – Examples of transitions within electric power system states*'
+  - In North America, the term "secure state" is used for a stable state that is not
+    a {{potentially unstable state, IEV:692-02-08}}.
+  - This entry was numbered 191-22-09 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: secure state
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+  - designation: normal state
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: 7dff87d5-58bd-5d17-adb7-8c8514291cd6
+status: valid

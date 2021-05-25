@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: distorsion d'un signal qui résulte d'un écrêtage par le quantificateur
+    dans une modulation par impulsions et codage différentiel
+  examples: []
+  id: 704-24-15
+  language_code: fra
+  notes:
+  - La distorsion de dépassement de pente est due à l'incapacité du quantificateur
+    à suivre correctement de grandes différences entre les échantillons successifs
+    appliqués à l'entrée.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: distorsion de dépassement de pente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 0b286486-3a34-5924-8a7d-3a89f66f546f
+status: valid

@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'unité fonctionnelle qui génère la variable réglante, nécessaire pour
+    piloter l''élément de commande final, à partir de la variable de sortie de l''élément
+    de commande VOIR: Figures 1 et 2.'
+  examples:
+  - ': Un exemple pratique d''un actionneur agissant directement sur l''élément de
+    commande final est une commande de courant continu. L''unité de commande prend
+    la fonction d''un actionneur. L''élément de commande final est constitué d''un
+    dispositif à thyristor qui fournit une tension continue variable, en tant que
+    variable de sortie. L''ensemble unité de commande et dispositif à thyristor, constitue
+    l''équipement de commande final.'
+  id: 351-49-07
+  language_code: fra
+  notes:
+  - Si l’élément de commande final est actionné mécaniquement, il est commandé via
+    une commande d’actionnement. Dans ce cas, l'actionneur pilote la commande d'actionnement.
+  - 'Cet article était numéroté 351-28-07 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: actionneur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 130f64cd-2859-59ff-9488-3f8eaedc7937
+status: valid

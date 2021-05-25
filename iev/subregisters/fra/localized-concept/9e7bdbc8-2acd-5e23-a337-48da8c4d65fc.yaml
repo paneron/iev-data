@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 415-03-02
+      original: voir vitesse vectorielle du vent en 415-03-02
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 1999-04-01
+  definition: en un point spécifié de l'espace, vitesse de déplacement d'une minuscule
+    quantité d'air entourant ce point
+  examples: []
+  id: 415-03-01
+  language_code: fra
+  notes:
+  - La vitesse du vent est aussi égale à la norme de la vitesse vectorielle locale
+    du vent.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse du vent
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1999-04-01
+id: 9e7bdbc8-2acd-5e23-a337-48da8c4d65fc
+status: valid

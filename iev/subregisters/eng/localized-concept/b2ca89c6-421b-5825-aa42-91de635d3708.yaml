@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-03-01
+  definition: source of electric energy and all associated interface equipment able
+    to be connected to a regular electric circuit in a low-voltage electrical installation
+    and designed to operate in parallel with a public low-voltage distribution network
+  examples: []
+  id: 617-04-10
+  language_code: eng
+  notes:
+  - Typically, a SSEG is connected at low voltage and rated up to and including 16
+    A per phase.
+  reviewDate: 2009-03-01
+  reviewDecisionDate: 2009-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: small scale embedded generator
+    normative_status: preferred
+    type: expression
+  - designation: micro-generator
+    normative_status: preferred
+    type: expression
+  - designation: SSEG
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-03-01
+id: b2ca89c6-421b-5825-aa42-91de635d3708
+status: valid

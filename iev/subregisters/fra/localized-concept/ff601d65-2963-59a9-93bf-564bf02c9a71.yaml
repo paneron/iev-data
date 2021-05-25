@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.29
+      link: https://webstore.iec.ch/publication/26973
+      original: CEI 60947-1, définition 2.5.29 MOD
+      ref: IEC 60947-1
+      relationship:
+        type: modified
+  dateAmended: 2010-10-01
+  definition: courant électrique présumé qu'un circuit de contact, protégé par un
+    dispositif de protection spécifié contre les courts-circuits, est capable de supporter
+    de manière satisfaisante pendant la durée totale de coupure de ce dispositif de
+    protection dans des conditions spécifiées d'utilisation et de comportement
+  examples: []
+  id: 445-04-03
+  language_code: fra
+  notes: []
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant de court-circuit conditionnel d'un circuit de sortie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-10-01
+id: ff601d65-2963-59a9-93bf-564bf02c9a71
+status: valid

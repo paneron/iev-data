@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 702-06-64
+      original: 702-06-64
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: transfert dans le spectre de fréquences de l'ensemble des composantes
+    spectrales d'un signal de façon que les différences des fréquences des composantes
+    de tout couple de composantes soient conservées, ainsi que leurs amplitudes relatives
+    et leurs phases relatives
+  examples: []
+  id: 704-10-01
+  language_code: fra
+  notes:
+  - La transposition en fréquence peut être accompagnée d'une inversion dans laquelle
+    le signe des différences de fréquences est changé pour tous les couples de composantes.
+  - Un signal composite formé par un multiplexage en fréquence peut lui-même être
+    soumis à une transposition en fréquence ultérieure.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transposition en fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: daf970dc-757a-5830-8523-95176f6117eb
+status: valid

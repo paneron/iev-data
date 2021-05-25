@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: angle between the {{phasors, IEV:103-07-14}} representing two of the
+    {{input energizing quantities, IEV:447-03-02}} of a {{measuring relay, IEV:447-01-02}}
+    or {{protection equipment, IEV:447-01-49}} that is used to declare it
+  examples: []
+  id: 447-07-09
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: characteristic angle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 50a7c65f-df8d-5356-b91c-93940771d55d
+status: valid

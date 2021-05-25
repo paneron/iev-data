@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour tout élément `a` d'un ensemble pour lequel une multiplication avec
+    un élément neutre `u` est définie, élément unique `a^(- 1)` de l'ensemble, s'il
+    existe, tel que `a * a^(- 1) = a^(- 1) * a = u`
+  examples: []
+  id: 102-01-24
+  language_code: fra
+  notes:
+  - En anglais, le terme «reciprocal» est préféré pour les nombres.
+  - L'inverse de l'élément `a` est noté `a^(- 1)`. Pour un nombre non nul, ou pour
+    une grandeur ou une unité, on peut aussi noter l'inverse `1 // a` ou `(1)/(a)`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: inverse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cfb6c3ad-9410-50df-8f92-dd59773b5c70
+status: valid

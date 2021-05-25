@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: longueur d'onde du stimulus monochromatique qui, mélangé additivement
+    dans des proportions convenables au stimulus achromatique spécifié, égalise le
+    stimulus de couleur pris en considération dans le diagramme de chromaticité `x`,
+    `y` CIE 1931
+  examples: []
+  id: 845-23-062
+  language_code: fra
+  notes:
+  - Dans le cas des stimuli pourpres, la longueur d'onde dominante est remplacée par
+    la longueur d'onde complémentaire.
+  - La longueur d'onde dominante est exprimée en nanomètre (nm).
+  - Cet article était numéroté 845-03-44 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: longueur d'onde dominante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un stimulus de couleur
+dateAccepted: 2018-11-17
+id: 11782967-5e32-553d-afec-5d4e50a42893
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: distance entre les deux points d'un diamètre d'une fibre optique unimodale
+    où la puissance surfacique est réduite à la fraction 1 /e^ 2^ de sa valeur sur
+    l'axe de la fibre, en supposant que la puissance surfacique le long d'un diamètre
+    est répartie suivant une fonction gaussienne
+  examples: []
+  id: 731-03-65
+  language_code: fra
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diamètre du champ de mode
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: diamètre du faisceau guidé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 226a7d46-7801-569e-bfb6-9d25065305ac
+status: valid

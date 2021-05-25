@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - - clause: 448-11-03
+      link: https://webstore.iec.ch/publication/211
+      original: IEC 60050-448:1995, 448-11-03, modified – The example is positioned
+        before the Note 1 to entry. Reference to <a href=IEV448-11-04>IEV 448-11-04</a>
+        added for "protection system".
+      ref: IEC 60050-448:1995
+      relationship:
+        modification: The example is positioned before the Note 1 to entry. Reference
+          to <a href=IEV448-11-04>IEV 448-11-04</a> added for "protection system".
+        type: modified
+  dateAmended: 2020-05-01
+  definition: equipment incorporating one or more {{protection relays, IEV:447-01-14}}
+    and, if necessary, logic elements intended to perform one or more specified protection
+    functions
+  examples:
+  - 'Distance protection equipment, phase comparison protection equipment.
+
+
+    Note 1 to entry: "Protection equipment" is part of a {{"protection system", IEV:448-11-04}}.
+    For example, phase comparison equipment is part of one line-end of a phase comparison
+    protection system.'
+  id: 447-01-49
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protection equipment
+    normative_status: preferred
+    type: expression
+  - designation: relay system
+    geographical_area: US
+    type: expression
+dateAccepted: 2020-05-01
+id: 1626c122-39a2-57fc-9824-aac88f54de9d
+status: valid

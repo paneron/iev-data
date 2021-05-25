@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the ratio, along a transmission line, of a maximum to an adjacent minimum
+    magnitude of a particular field component of a standing wave
+  examples: []
+  id: 726-07-09
+  language_code: eng
+  notes:
+  - 'This ratio is equal to: (1 + `r`) / (1 — `r`) where `r` is the modulus of the
+    amplitude reflection factor.'
+  - The standing-wave ratio expressed as the reciprocal of the ratio defined above
+    is occasionally used, but this usage is deprecated.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: standing-wave ratio
+    normative_status: preferred
+    type: expression
+  - designation: SWR
+    type: expression
+  - designation: voltage standingwave ratio
+    type: expression
+  - designation: VSWR
+    type: expression
+dateAccepted: 2021-01-01
+id: e74a9147-f673-5fee-8162-fd635e49eab7
+status: valid

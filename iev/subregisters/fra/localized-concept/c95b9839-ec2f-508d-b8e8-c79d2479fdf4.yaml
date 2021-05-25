@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: niveau de pression acoustique pondérée, exprimé en décibels, obtenu
+    selon une méthode de calcul qui utilise les niveaux de pression acoustique dans
+    les 24 bandes de tiers d'octave centrées de 50 Hz à 10 kHz
+  examples: []
+  id: 801-29-11
+  language_code: fra
+  notes:
+  - 'La méthode de calcul est spécifiée dans l''ISO 3891-1978: Méthode de représentation
+    du bruit produit par un aéronef perçu au sol.'
+  - Le niveau de bruit perçu calculé est censé être une approximation du niveau de
+    bruit perçu estimé.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de bruit perçu calculé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: c95b9839-ec2f-508d-b8e8-c79d2479fdf4
+status: valid

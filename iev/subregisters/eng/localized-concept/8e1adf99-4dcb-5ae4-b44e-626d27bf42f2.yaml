@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: set of `m` interrelated sinusoidal integral quantities of the same kind,
+    where `m` is an integer greater than one, all quantities having the same period
+    but usually different phases
+  examples: []
+  id: 141-01-03
+  language_code: eng
+  notes:
+  - In some cases the phases differ by an integral multiple, including zero, of 2`π`
+    .
+  - Polyphase systems of voltages, electric currents and linked fluxes are commonly
+    used.
+  - The qualifiers two-phase, three-phase, four-phase, six-phase and twelve-phase
+    are used for `m` = 2, 3, 4, 6, 12, respectively.
+  - The concept of polyphase system can, under certain conditions, be extended to
+    non-sinusoidal periodic quantities.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polyphase system
+    normative_status: preferred
+    type: expression
+  - designation: '`m`-phase system'
+    type: expression
+dateAccepted: 2004-08-01
+id: 8e1adf99-4dcb-5ae4-b44e-626d27bf42f2
+status: valid

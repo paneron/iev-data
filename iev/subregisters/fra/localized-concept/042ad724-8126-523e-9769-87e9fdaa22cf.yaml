@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: partie plane du périmètre de la plaquette indiquant l'orientation du
+    cristal image::/assets/images/parts/561/561-fig25-fr.png[] *Figure 25 – Indication
+    de la plaquette et points de mesure de variation de l'épaisseur pour cinq points*
+  examples: []
+  id: 561-07-20
+  language_code: fra
+  notes:
+  - En règle générale, le plan d’orientation correspond au sens de propagation OAS.
+  reviewDecisionEvent: published
+  terms:
+  - designation: plan d’orientation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: plan principal
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 042ad724-8126-523e-9769-87e9fdaa22cf
+status: valid

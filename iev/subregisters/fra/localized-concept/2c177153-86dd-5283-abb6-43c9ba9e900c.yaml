@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: fréquence pour laquelle le module d'une grandeur caractéristique mesurée
+    a décru jusqu'à une fraction spécifiée de sa valeur aux basses fréquences
+  examples: []
+  id: 521-05-20
+  language_code: fra
+  notes:
+  - Pour un transistor, la fréquence de coupure s’applique en général au rapport de
+    transfert direct du courant en petits signaux, avec sortie en court-circuit en
+    base commune ou en émetteur commun.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence de coupure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: 2c177153-86dd-5283-abb6-43c9ba9e900c
+status: valid

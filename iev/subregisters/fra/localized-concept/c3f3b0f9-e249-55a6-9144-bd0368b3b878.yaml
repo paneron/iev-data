@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 448-14-01
+      link: https://webstore.iec.ch/publication/211
+      original: IEC 60050-448:1995, 448-14-01, modifié –"protection à sélectivité
+        relative de section" a été remplacé par "relais de mesure" et "du défaut"
+        a été remplacé par "d'un défaut dans un réseau d'énergie"
+      ref: IEC 60050-448:1995
+      relationship:
+        modification: –"protection à sélectivité relative de section" a été remplacé
+          par "relais de mesure" et "du défaut" a été remplacé par "d'un défaut dans
+          un réseau d'énergie"
+        type: modified
+  definition: '{{relais de mesure, IEV:447-01-02}}, dont le fonctionnement et la sélectivité
+    dépendent de la mesure locale de grandeurs électriques à partir desquelles la
+    distance équivalente d''un {{défaut dans un réseaux d''énergie, IEV:448-13-02}}
+    est évaluée par comparaison avec des {{valeurs de réglage, IEV:447-07-02}} de
+    zones'
+  examples: []
+  id: 447-01-32
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais de distance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c3f3b0f9-e249-55a6-9144-bd0368b3b878
+status: valid

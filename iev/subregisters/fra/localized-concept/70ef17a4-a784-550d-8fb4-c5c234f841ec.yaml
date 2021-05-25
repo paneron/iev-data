@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre permettant de chiffrer le caractère acide ou basique d'une solution,
+    égal à l'opposé du logarithme décimal de l'activité ionique `a`~H+~ du cation
+    hydrogène H^+^ pH = −10 lg `a`~H+~
+  examples: []
+  id: 114-01-21
+  language_code: fra
+  notes:
+  - "A une température voisine de 25 °C, les solutions aqueuses sont:  *  acides lorsque\
+    \ pH &lt; 7; *  neutres lorsque pH = 7; *  basiques lorsque pH &gt; 7. \n\nA des\
+    \ températures éloignées de 25 °C, le pH d'une solution neutre s'écarte sensiblement\
+    \ de 7."
+  - Pour plus de détails, voir l’ISO 80000-9:2009, Annexe C.
+  - Cet article était numéroté 111-15-37 dans la CEI 60050-111:1996. Il a été modifié.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pH
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 70ef17a4-a784-550d-8fb4-c5c234f841ec
+status: valid

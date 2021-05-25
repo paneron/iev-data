@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: portée fictive dans laquelle les variations de la tension mécanique,
+    dues aux variations de la charge et de la température, sont sensiblement égales
+    à celles des portées réelles du canton
+  examples: []
+  id: 466-03-12
+  language_code: fra
+  notes:
+  - 'La valeur approchée `a`~c~ de la portée équivalente est:
+
+
+    `a_c ≃ sqrt(((sum a_i^3))/((sum a_i)))`
+
+
+    où `a`~`i`~ est la longueur (de la `i`^e^ portée) du canton.'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: portée équivalente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: c9b6e608-610b-51e5-b0b7-90036a044f28
+status: valid

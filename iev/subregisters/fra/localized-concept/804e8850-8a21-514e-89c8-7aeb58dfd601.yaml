@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: rapport, généralement exprimé en décibels, du gain isotrope partiel
+    d'une antenne, dans une direction donnée et pour une polarisation rectiligne spécifiée,
+    au gain isotrope maximal d'un doublet demi-onde isolé dans l'espace et orienté
+    parallèlement au vecteur induction électrique qui caractérise la polarisation
+    spécifiée dans la direction donnée
+  examples: []
+  id: 713-09-23
+  language_code: fra
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle dans laquelle l'intensité
+    de rayonnement de l'antenne est maximale.
+  - Lorsque le gain par rapport à un doublet demi-onde est exprimé en décibels, la
+    notation dBd est recommandée par l'Union internationale des télécommunications
+    comme symbole d'unité.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gain par rapport à un doublet demi-onde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 804e8850-8a21-514e-89c8-7aeb58dfd601
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: ordered set of `n` linearly independent vectors `a_1 , a_2 , ... , a_n`
+    in an `n`-dimensional {{vector space, IEV:102-03-01}}, which is chosen to express
+    any vector *`U`* as a unique linear combination of these `n` vectors `U = U_1
+    a_1 + U_2 a_2 + ... + U_n a_n`, where `U_1 , U_2 , ... , U_n` are scalars
+  examples: []
+  id: 102-03-08
+  language_code: eng
+  notes:
+  - In an Euclidean or Hermitian vector space, an orthonormal base is generally chosen.
+    In the vector space formed by a set of `n-`bit words (see Note 1 to entry in {{IEV
+    102-03-01, IEV:102-03-01}}, vector space) a base is the set of `n-`bit words having
+    only one non-zero bit.
+  - Any vector of a base is called "base vector".
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: base
+    normative_status: preferred
+    type: expression
+    usage_info: in linear algebra
+  - designation: basis
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: a49a99f2-771d-55f6-a6a0-828fe29e06fd
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 604-04-22
+      original: 604-04-22 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 891-02-70
+      original: 891-02-70
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1998-08-01
+  definition: for a stated frequency and wave form, minimum value of electric current
+    for which an insuperable, involuntary, sustained muscular contraction is produced
+  examples: []
+  id: 195-03-08
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tetanization threshold (current)
+    normative_status: preferred
+    type: expression
+  - designation: freezing current
+    type: expression
+dateAccepted: 1998-08-01
+id: cbf7e3d3-5679-5bd9-ae57-c780d71bbc10
+status: valid

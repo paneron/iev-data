@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: test in which the applied stress is increased, after each specified
+    interval, until failure occurs or a predetermined stress level is reached
+  examples: []
+  id: 192-09-10
+  language_code: eng
+  notes:
+  - The “interval” could be specified in terms of number of stress applications, durations,
+    or test sequences.
+  - The test should not alter the basic failure modes, failure mechanisms, or their
+    relative prevalence.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: step stress test
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: ea077cf1-ca36-5611-8bf1-c1148cd663d4
+status: valid

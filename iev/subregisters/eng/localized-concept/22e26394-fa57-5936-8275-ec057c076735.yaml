@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - link: https://www.iso.org/standard/2306.html
+      original: ISO 140/6
+      ref: ISO 140-6
+      relationship:
+        type: identical
+  dateAmended: 1994-07-01
+  definition: the average sound pressure level in a specified frequency band in the
+    receiving room when the floor under test is excited by the standardized impact
+    sound source
+  examples: []
+  id: 801-31-41
+  language_code: eng
+  notes:
+  - The standardized impact sound source is a tapping machine specified in ISO 140/6,
+    which causes hammers whose effective mass each is 0,5 kg to fall 40 mm at the
+    rate of 10 impacts per second.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impact sound pressure level
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 22e26394-fa57-5936-8275-ec057c076735
+status: valid

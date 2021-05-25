@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.51'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.51 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: time interval between equivalent points in two successive pulses of
+    the same shape
+  examples: []
+  id: 802-01-12
+  language_code: eng
+  notes:
+  - Pulses can include tone bursts.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse-repetition period
+    normative_status: preferred
+    type: expression
+  - designation: '`prp`'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: 37407eac-a4ef-53e4-b723-b56ee368171d
+status: valid

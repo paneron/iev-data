@@ -1,0 +1,47 @@
+data:
+  authoritativeSource:
+  - - clause: 13-25
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-25, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: mean value of the {{information content, IEV:171-07-14}} of the events
+    in a finite set of mutually exclusive and jointly exhaustive events `H = sum_((i
+    = 1))^n p ( x_i ) * I ( x_i ) = sum_((i = 1))^n p ( x_i ) * log ( (1)/((p ( x_i
+    ))) )` where `X = { x_1 , ... , x_n }` is the set of events `x_i ( i = 1, ...
+    , n )`, `I ( x_i )` are their information contents and `p ( x_i )` the probabilities
+    of their occurrences, subject to `sum_((i = 1))^n p ( x_i ) = 1`
+  examples:
+  - Let `{ a , b , c }` be a set of three events and let `p ( a ) = 0,5`, `p ( b )
+    = 0,25` and `p ( c ) = 0,25` be the probabilities of their occurrences. The entropy
+    of this set is `H ( X ) = p ( a ) * I ( a ) + p ( b ) * I ( b ) + p ( c ) * I
+    ( c ) = 1,5 Sh`.
+  id: 171-07-15
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: entropy
+    normative_status: preferred
+    type: expression
+    usage_info: in information theory
+  - designation: average information content
+    normative_status: preferred
+    type: expression
+  - designation: negentropy
+    normative_status: deprecated
+    type: expression
+  - designation: '`H`(`X`)'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 14946c33-5b30-599a-a6b3-1a12cfab19f8
+status: valid

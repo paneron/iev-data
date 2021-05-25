@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-12-01
+  definition: standardized unit of measure of erythemal radiation
+  examples: []
+  id: 845-26-069
+  language_code: eng
+  notes:
+  - One standard erythema dose (1 SED) is equivalent to an erythemal radiant exposure
+    of 100 J·m^−2^.
+  - See also "<a href="IEV845-26-068">minimal erythema dose</a>".
+  - See also ISO/CIE 17166, _Erythema Reference Action Spectrum and Standard Erythema
+    Dose_.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: standard erythema dose
+    normative_status: preferred
+    type: expression
+  - designation: SED
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: aadd3893-9a91-5a0f-8b54-0407bc3ff546
+status: valid

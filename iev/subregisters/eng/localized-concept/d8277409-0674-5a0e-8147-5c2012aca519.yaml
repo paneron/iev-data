@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: difference between the scalar magnetic potentials at two points
+  examples: []
+  id: 121-11-59
+  language_code: eng
+  notes:
+  - The difference between the scalar potential of an irrotational magnetic field
+    strength at a point b and that at a point a is equal to the negative of the line
+    integral of the magnetic field strength along any path linking points a and b.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic potential difference
+    normative_status: preferred
+    type: expression
+  - designation: '`U`, `U`~m~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: d8277409-0674-5a0e-8147-5c2012aca519
+status: valid

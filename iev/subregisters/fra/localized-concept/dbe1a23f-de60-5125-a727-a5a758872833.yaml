@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre complexe déduit d'un nombre complexe donné en remplaçant la partie
+    imaginaire par son opposée
+  examples: []
+  id: 102-02-14
+  language_code: fra
+  notes:
+  - Le conjugué du nombre complexe `c = a + j b = | c | e^(j phi)` est `c * = a -
+    j b = | c | e^(- j phi)`. En mathématiques, le conjugué de `c` est souvent noté
+    `bar c`.
+  - Le concept de conjugué peut s'appliquer aux grandeurs scalaires, vectorielles
+    ou tensorielles complexes et aux matrices d'éléments complexes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: conjugué
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dbe1a23f-de60-5125-a727-a5a758872833
+status: valid

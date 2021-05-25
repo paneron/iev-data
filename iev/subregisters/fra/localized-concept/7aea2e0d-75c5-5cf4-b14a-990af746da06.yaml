@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'unité fonctionnelle qui génère la variable de référence en sortie commandé
+    en boucle fermée à partir de la variable commandée, appliquée à l''entrée VOIR:
+    Figure 2.'
+  examples:
+  - '1: Générateur électronique de fonction en rampe, dont le signal de sortie ne
+    suit les variations du signal d''entrée que jusqu''à une vitesse de variation
+    maximale autorisée. Si la vitesse de variation du signal d''entrée dépasse la
+    limite autorisée, le signal de sortie ne suit qu''à la vitesse de variation maximale
+    préétablie.'
+  - '2: Un dispositif de mesure de température d''une paroi de turbine garantit que
+    la puissance de sortie de la turbine est modifiée à une vitesse telle que la différence
+    de température entre les diverses zones de la paroi de la turbine ne dépasse pas
+    les valeurs autorisées.'
+  id: 351-49-10
+  language_code: fra
+  notes:
+  - Les éléments générateurs de variables de référence sont utilisés, dans nombre
+    de cas, pour prévenir le dépassement des valeurs limites critiques de la variable
+    de référence, de ses dérivées ou d'autres variables du processus.
+  - 'Cet article était numéroté 351-28-10 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément générateur de variable de référence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 7aea2e0d-75c5-5cf4-b14a-990af746da06
+status: valid

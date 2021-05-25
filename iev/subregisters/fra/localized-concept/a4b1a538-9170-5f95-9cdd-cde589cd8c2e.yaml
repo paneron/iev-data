@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'en régime sinusoïdal de pulsation `ω`, produit vectoriel: `(1)/(2)
+    vec underset(_)(E) xx vec underset(_)(H)^( ** )` lorsque le vecteur champ électrique
+    `vec E ( t )` et le vecteur champ magnétique `vec H ( t )` sont représentés au
+    même point, en notation complexe, par les expressions: `vec E ( t ) = Re ( underset(_)((vec
+    E)) e^(j omega t) )` `vec H ( t ) = Re ( underset(_)((vec H)) e^(j omega t) )`
+    où `vec underset(_)(E)` et `vec underset(_)(H)` sont indépendants du temps généralement
+    complexes, `vec underset(_)(H)^( ** )` désignant le vecteur complexe conjugué
+    de `vec underset(_)(H)`'
+  examples: []
+  id: 705-02-10
+  language_code: fra
+  notes:
+  - La partie réelle du vecteur de Poynting complexe est la moyenne du vecteur de
+    Poynting pendant une période.
+  - La partie imaginaire du vecteur de Poynting complexe est un vecteur dont on peut,
+    sous certains réserves, considérer la direction comme celle de la propagation
+    de l'énergie réactive, et le module, affecté d'un signe conventionnel, comme le
+    flux de la puissance réactive par unité de surface perpendiculaire à cette direction.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vecteur de Poynting complexe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: a4b1a538-9170-5f95-9cdd-cde589cd8c2e
+status: valid

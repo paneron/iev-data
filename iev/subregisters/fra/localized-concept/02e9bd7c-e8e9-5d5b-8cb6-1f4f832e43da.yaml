@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: réaction de reformage qui se produit dans la structure de la {{pile
+    à combustible, IEV:485-06-01}}
+  examples: []
+  id: 485-07-08
+  language_code: fra
+  notes:
+  - La section de reformage peut être séparée mais adjacente à l'{{anode, IEV:485-02-04}}
+    de la pile à combustible (interne indirecte), ou peut être l'anode elle-même (interne
+    directe).
+  reviewDecisionEvent: published
+  terms:
+  - designation: reformage interne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 02e9bd7c-e8e9-5d5b-8cb6-1f4f832e43da
+status: valid

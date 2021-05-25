@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: élément de transfert linéaire invariant dans le temps dont la fonction
+    de transfert a exactement un pôle de valeur réelle négative et pas de zéro
+  examples: []
+  id: 351-50-02
+  language_code: fra
+  notes:
+  - "La fonction de transfert d'un élément de retard de premier ordre est donnée par\n\
+    \n`((V ( s )))/((U ( s ))) = ((K_Ρ))/((1 + T_1 * s))`\n\noù<table>\r\n<tr>\n<td>\n\
+    `K`~P~\n</td>\n<td>est le coefficient d’action proportionnelle;</td>\n</tr>\r\n\
+    <tr>\n<td>\n`T`~1~\n</td>\n<td>est la constante de temps;</td>\n</tr>\r\n<tr>\n\
+    <td>`s`</td>\n<td>est la variable complexe de la transformée de Laplace;</td>\n\
+    </tr>\r\n<tr>\n<td>\n`U`(`s`)</td>\n<td>est la transformée de la variable d’entrée;</td>\n\
+    </tr>\r\n<tr>\n<td>\n`V`(`s`)</td>\n<td>est la transformée de la variable de sortie.</td>\n\
+    </tr>\r\n</table>"
+  - Cet article était numéroté 351-28-13 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de retard du premier ordre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: de22e3e6-8272-5114-a908-27ca854c58b6
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intégrale curviligne le long d'une courbe fermée, dont l'élément différentiel
+    est le produit scalaire d'un vecteur par l'élément vectoriel d'arc
+  examples: []
+  id: 102-05-05
+  language_code: fra
+  notes:
+  - La circulation du vecteur *`V`* le long de la courbe fermée orientée Γ est notée
+    `underset(Gamma)( oint ) V * d r`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: circulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: courbe fermée
+dateAccepted: 2018-11-17
+id: 004bb347-5299-5e87-93ce-1f5fd86a34fc
+status: valid

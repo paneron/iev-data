@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: instant auquel est réalisée une opération de justification consistant
+    à transmettre zéro, un ou deux éléments numériques du signal numérique original,
+    selon la relation temporelle qui existe à cet instant entre les créneaux temporels
+    élémentaires de ce signal et les créneaux temporels élémentaires destinés à sa
+    transmission
+  examples: []
+  id: 704-21-02
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instant justifiable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: instant de justification
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 41fb3c89-db81-5ba7-954a-98011e0087a2
+status: valid

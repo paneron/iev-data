@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: transformateur de tension destiné à transmettre un signal d'information
+    à des dispositifs de protection ou de commande
+  examples: []
+  id: 321-03-05
+  language_code: fra
+  notes:
+  - La classe de précision d'un transformateur de tension pour protection est désignée
+    par l'indice de classe, suivi de la lettre "P" (signifiant "protection"). L'indice
+    de classe indique la limite supérieure de la valeur absolue de l'erreur de tension,
+    admissible entre 5% de la tension assignée et la valeur de la tension correspondant
+    au facteur de tension assigné.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transformateur de tension pour protection
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 53164e0f-c630-58a2-84d5-b0d1acae81ea
+status: valid

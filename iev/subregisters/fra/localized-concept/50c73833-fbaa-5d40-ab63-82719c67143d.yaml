@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: suite de cycles de service identiques comprenant chacun une période
+    de fonctionnement à charge constante et une période de fonctionnement à vide.
+    Il n'existe pas de période de repos
+  examples: []
+  id: 411-51-19
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: service ininterrompu périodique à charge intermittente
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: service type S6
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 50c73833-fbaa-5d40-ab63-82719c67143d
+status: valid

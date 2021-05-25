@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.17
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.17, modifié
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: méthode, préconisée par l'ISO/IEC 13239 pour éviter le risque de confusion
+    entre les données de trame et un délimiteur, qui consiste à insérer un "0" supplémentaire
+    après chaque séquence de cinq "1" consécutifs, et à supprimer ce "0" lors de la
+    réception
+  examples: []
+  id: 811-37-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: bit de bourrage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bit-stuffing
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 84b6e488-5390-5380-a805-0baa0b461dc4
+status: valid

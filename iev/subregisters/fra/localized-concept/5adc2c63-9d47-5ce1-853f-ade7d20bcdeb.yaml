@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: fonction donnant la probabilité que la valeur d'une variable aléatoire
+    soit inférieure ou égale à une valeur choisie
+  examples: []
+  id: 192-13-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de répartition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fonction de distribution
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5adc2c63-9d47-5ce1-853f-ade7d20bcdeb
+status: valid

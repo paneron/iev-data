@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: trois valeurs d'un ensemble de fonctions d'égalisation de couleur à
+    une longueur d'onde donnée
+  examples: []
+  id: 845-23-032
+  language_code: fra
+  notes:
+  - Le terme "composantes trichromatiques spectrales" n'est plus usité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficients d'égalisation de couleur
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+  - designation: composantes trichromatiques spectrales
+    gender: f
+    normative_status: deprecated
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: 7cb6971c-2671-5460-b421-5758381f1fee
+status: valid

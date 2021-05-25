@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: system failure caused by the failure of only one of its constituent
+    items
+  examples: []
+  id: 192-10-01
+  language_code: eng
+  notes:
+  - Fault-tolerant design aims to minimise the vulnerability to single-point failures
+    in a system.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: single-point failure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 79f0397e-3a48-5b2f-a914-8f02b09ce878
+status: valid

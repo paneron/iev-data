@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2000-07-01
+  definition: tension de rétablissement pendant le temps où elle présente un caractère
+    transitoire appréciable
+  examples: []
+  id: 441-17-26
+  language_code: fra
+  notes:
+  - La tension transitoire de rétablissement peut être oscillatoire ou non oscillatoire
+    ou être une combinaison de celles-ci selon les caractéristiques du circuit et
+    de l'appareil de connexion. Elle tient compte de la variation du potentiel du
+    point neutre du circuit polyphasé.
+  - Sauf spécification contraire, la tension transitoire de rétablissement pour les
+    circuits triphasés est la tension aux bornes du premier pôle qui coupe, car cette
+    tension est généralement plus élevée que celle qui apparaît aux bornes de chacun
+    des deux autres pôles.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension transitoire de rétablissement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: T.T.R.
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 9dfc0650-6f12-5980-80e9-3a50cab548b8
+status: valid

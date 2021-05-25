@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-12
+      original: 702-09-12 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2002-06-01
+  definition: dispositif ou réseau possédant plusieurs accès distincts, par exemple
+    en nombre `n` spécifié
+  examples: []
+  id: 131-12-68
+  language_code: fra
+  notes:
+  - En français, le terme "multiporte" peut aussi être employé comme adjectif synonyme
+    de "à `n` accès".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiporte
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réseau à `n` accès
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 24a4059e-48f3-50cb-ab5f-a718a968f6a8
+status: valid

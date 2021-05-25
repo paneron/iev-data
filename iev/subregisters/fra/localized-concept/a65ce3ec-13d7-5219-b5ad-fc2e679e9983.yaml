@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans une {{pile à combustible à électrolyte polymère, IEV:485-08-08}},
+    membrane dont les surfaces sont revêtues d'une {{couche catalytique, IEV:485-02-06}}
+    pour former la zone de réaction de l'{{électrode, IEV:485-02-01}}
+  examples: []
+  id: 485-04-03
+  language_code: fra
+  notes:
+  - Voir aussi "{{assemblage membrane-électrode, IEV:485-04-01}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: membrane revêtue d'un catalyseur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: CCM
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a65ce3ec-13d7-5219-b5ad-fc2e679e9983
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: computer capable of controlling network traffic according to the data
+    transferred
+  examples: []
+  id: 732-06-04
+  language_code: eng
+  notes:
+  - 1 – A screening router rejects the data which violate specified rules.
+  - 2 – In the Internet the control is based on the protocol type and the value of
+    the protocol field in each packet
+  - '3 – See Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-04en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: screening router
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 4478a851-d027-5f7b-9da4-8811b9d23f83
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-09-01
+  definition: width of a {{frequency band, IEV:103-09-01}} over which a given characteristic
+    of the {{transmission channel, IEV:701-02-01}} does not differ from its {{reference
+    value, IEV:311-07-01}} by more than a specified amount or ratio
+  examples: []
+  id: 161-06-09
+  language_code: eng
+  notes:
+  - The given characteristic can be, for example, the {{amplitude/frequency characteristic,
+    IEV:702-07-35}}, the {{phase/frequency characteristic, IEV:702-07-36}} or the
+    {{delay/frequency characteristic, IEV:702-07-37}}.
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bandwidth
+    normative_status: preferred
+    type: expression
+    usage_info: of a transmission channel
+dateAccepted: 2018-09-01
+id: d7c47d07-749d-5589-a14b-0331914d817c
+status: valid

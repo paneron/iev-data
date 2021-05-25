@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '145'
+      original: ITU RR 145 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: the maximum permissible departure by the centre frequency of the occupied
+    band of an emission from the assigned frequency or, more generally, by a characteristic
+    frequency of an emission from the corresponding reference frequency
+  examples: []
+  id: 713-06-13
+  language_code: eng
+  notes:
+  - The frequency tolerance is expressed in hertz or in relative value, e.g. in parts
+    in 10^6^.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency tolerance
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 9ef81b2f-083a-59cb-b416-6aa1e242ab9f
+status: valid

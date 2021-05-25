@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: erreur qu'un transformateur de tension introduit dans la mesure d'une
+    tension et qui provient de ce que le rapport de transformation n'est pas égal
+    au rapport de transformation assigné
+  examples: []
+  id: 321-01-22
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: erreur de tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: erreur de rapport
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 7cb854f5-7be0-5bfa-a7ab-497c0752a913
+status: valid

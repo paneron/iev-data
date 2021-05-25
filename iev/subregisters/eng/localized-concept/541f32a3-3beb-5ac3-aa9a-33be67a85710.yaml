@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity defined as the difference of the thermodynamic temperature
+    `T` and the value 273,15 K, thus `t` = `T` − 273,15 K
+  examples: []
+  id: 113-04-16
+  language_code: eng
+  notes:
+  - Celsius temperature is conventionally expressed in degrees Celsius, °C. The Celsius
+    temperature of the triple point of water is 0,01 °C.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Celsius temperature
+    normative_status: preferred
+    type: expression
+  - designation: '`t`
+
+      `ϑ`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 541f32a3-3beb-5ac3-aa9a-33be67a85710
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: tension en charge d'une source de courant de soudage, liée au courant
+    conventionnel de soudage par une relation linéaire spécifiée
+  examples: []
+  id: 851-12-30
+  language_code: fra
+  notes:
+  - Les valeurs de `U`~2~ sont données en valeurs efficaces pour le courant alternatif
+    et en valeurs moyennes arithmétiques pour le courant continu.
+  - La tension conventionnelle en charge à une relation linéaire spécifiée avec le
+    courant de soudage conventionnel. La relation linéaire spécifiée varie suivant
+    le procédé de soudage.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension conventionnelle en charge
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: 9fe789dd-f136-5112-8b39-958fb0229dc5
+status: valid

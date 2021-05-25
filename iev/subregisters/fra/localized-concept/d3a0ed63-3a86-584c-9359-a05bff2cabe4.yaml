@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: unité fonctionnelle qui génère une variable de sortie dont la valeur
+    dépend du signe de la valeur de sa variable d'entrée, suivant la formule `v (
+    t ) = { [[V_1],[0],[- V_1]] [[ pour u ( t ) > 0],[ pour u ( t ) = 0],[ pour u
+    ( t ) 0]]` où<table> <tr> <td>`t`</td> <td>est le temps;</td> </tr> <tr> <td>
+    `u`(`t`)</td> <td>est la variable d'entrée;</td> </tr> <tr> <td> `v`(`t`)</td>
+    <td>est la variable de sortie;</td> </tr> <tr> <td> `V`~1~ </td> <td>est une valeur
+    constant de la variable de sortie.</td> </tr> </table>
+  examples: []
+  id: 351-50-39
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-23 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de signe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: d3a0ed63-3a86-584c-9359-a05bff2cabe4
+status: valid

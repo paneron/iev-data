@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: longueur d'un trajet dans l'atmosphère exigée pour réduire le flux lumineux
+    d'un faisceau quasi parallèle de rayonnement, émanant d'une lampe à incandescence
+    de température de couleur 2 700 K, de 95 % par rapport à sa valeur s'origine
+  examples: []
+  id: 426-24-33
+  language_code: fra
+  notes:
+  - Le terme abrégé "MOR" est dérivé du terme anglais développé correspondant "meteorological
+    optical range".
+  reviewDecisionEvent: published
+  terms:
+  - designation: portée optique météorologique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+  - designation: MOR
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: 245ddbfb-400e-5ba8-9a22-77aa0f9d45c2
+status: valid

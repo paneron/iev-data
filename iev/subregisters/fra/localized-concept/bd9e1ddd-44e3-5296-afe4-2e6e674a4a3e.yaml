@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: attente permettent le fonctionnement immédiat sur demande
+  examples: []
+  id: 192-02-12
+  language_code: fra
+  notes:
+  - Une attente à chaud peut s’appliquer à des entités redondantes ou autonomes.
+  - Dans certaines applications, une entité en attente à chaud est considérée comme
+    étant en fonctionnement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: attente à chaud
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: bd9e1ddd-44e3-5296-afe4-2e6e674a4a3e
+status: valid

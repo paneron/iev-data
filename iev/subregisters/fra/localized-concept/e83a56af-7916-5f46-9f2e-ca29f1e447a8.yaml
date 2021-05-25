@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: dispositif à déclenchements ayant deux états stables
+  examples: []
+  id: 702-09-26
+  language_code: fra
+  notes:
+  - Le terme anglais "flip-flop" a été employé aux Etats-Unis dans le sens de "bascule
+    bistable" et au Royaume-Uni dans le sens de "bascule monostable"; pour éviter
+    toute ambiguïté son emploi est fortement déconseillé dans tous les sens.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bascule bistable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: circuit bistable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: e83a56af-7916-5f46-9f2e-ca29f1e447a8
+status: valid

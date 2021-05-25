@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity `Qi` such that the infinitesimal variation `δW` of work `W`
+    is equal to the sum Σ`Q`~`i`~`δq`~`i`~, where `δq`~`i`~ is the infinitesimal variation
+    of the generalized coordinate `qi`
+  examples: []
+  id: 113-03-75
+  language_code: eng
+  notes:
+  - The unit depends on the type of representation of the system.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: generalized force
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`~`i`~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 8e4a6791-a271-5f29-9d98-b271f44f62a4
+status: valid

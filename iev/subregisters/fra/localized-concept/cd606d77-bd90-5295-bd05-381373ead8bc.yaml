@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un nombre réel `a`, nombre positif ou nul égal à `a` si `a >= 0`
+    et à −`a` si `a 0`
+  examples: []
+  id: 102-02-06
+  language_code: fra
+  notes:
+  - La valeur absolue de `a` est notée `| a |`; `abs a` est aussi utilisé.
+  - La notion de valeur absolue peut s'appliquer aux grandeurs scalaires réelles.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur absolue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cd606d77-bd90-5295-bd05-381373ead8bc
+status: valid

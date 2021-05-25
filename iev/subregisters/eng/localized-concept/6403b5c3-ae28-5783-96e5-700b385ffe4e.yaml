@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: amplifier producing (almost) zero output for all inputs having an amplitude
+    below a threshold amplitude
+  examples: []
+  id: 395-04-18
+  language_code: eng
+  notes:
+  - A biased amplifier has a constant gain for that portion of the input signal that
+    has an amplitude above the bias threshold up to a specified maximum.
+  - This entry was numbered 394-23-16 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: biased amplifier
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 6403b5c3-ae28-5783-96e5-700b385ffe4e
+status: valid

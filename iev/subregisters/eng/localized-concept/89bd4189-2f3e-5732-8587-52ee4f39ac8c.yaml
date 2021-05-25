@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: '`kappa ( lambda ) = (lambda)/((4 pi)) a ( lambda )` where `a`(`λ`)
+    is the spectral linear absorption coefficient'
+  examples: []
+  id: 845-24-110
+  language_code: eng
+  notes:
+  - The spectral absorption index has unit one.
+  - This entry was numbered 845-04-102 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral absorption index
+    normative_status: preferred
+    type: expression
+    usage_info: of a heavily absorbing material
+  - designation: '`κ`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 89bd4189-2f3e-5732-8587-52ee4f39ac8c
+status: valid

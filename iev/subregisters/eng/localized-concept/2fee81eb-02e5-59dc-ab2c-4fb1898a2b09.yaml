@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the maximum active power that can be theoretically delivered at a given
+    frequency by a source having an impedance of positive real part to a directly
+    connected load when the impedance of the load is widely varied
+  examples: []
+  id: 702-07-10
+  language_code: eng
+  notes:
+  - The available power is obtained when the resistance of the load is equal to that
+    of the source and its reactance is equal in magnitude but of opposite sign.
+  - In some cases, conditions such as overheating or overvoltage prevent the available
+    power from being obtained.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: available power
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 2fee81eb-02e5-59dc-ab2c-4fb1898a2b09
+status: valid

@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 461-06-18
+      original: 461-06-18 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 604-04-03
+      original: 604-04-03 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-04-02
+      original: 826-04-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: conductive part, which may be embedded in a specific conductive medium,
+    e.g. concrete or coke, in electric contact with the Earth
+  examples: []
+  id: 195-02-01
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earth electrode
+    normative_status: preferred
+    type: expression
+  - designation: ground electrode
+    type: expression
+dateAccepted: 1998-08-01
+id: 39bff924-56d7-5a06-8567-ffe62093954e
+status: valid

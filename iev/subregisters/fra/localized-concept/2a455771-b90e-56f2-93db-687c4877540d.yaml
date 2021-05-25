@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{unité fonctionnelle, IEV:171-01-22}} capable d''effectuer un {{traitement
+    de données, IEV:171-01-17}}'
+  examples: []
+  id: 171-01-25
+  language_code: fra
+  notes:
+  - Le terme "calculateur" peut désigner toute unité fonctionnelle correspondant à
+    la définition. Le terme usuel "ordinateur" désigne un calculateur numérique commandé
+    par des programmes rangés dans une mémoire interne, aussi utilisée pour les données
+    numériques associées. Un ordinateur est généralement capable d’effectuer des programmes
+    demandés par l’utilisateur et des programmes se modifiant en cours d’utilisation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: ordinateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: calculateur
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2a455771-b90e-56f2-93db-687c4877540d
+status: valid

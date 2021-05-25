@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.61
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.61
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: in a master frame, indication of the request and the expected response
+    slave frame size
+  examples: []
+  id: 811-37-37
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: F code
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: bff6f232-6da5-59f1-8a85-4a9dd6765540
+status: valid

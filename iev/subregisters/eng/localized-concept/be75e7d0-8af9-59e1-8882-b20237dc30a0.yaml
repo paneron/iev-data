@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: property of a function `f ( t )` for a value `t`~0~ of its argument,
+    characterised by the existence of a positive number `ε` such that `f ( t_0 ) f
+    ( t )` for any `t` with `0 | t - t_0 | epsilon`
+  examples: []
+  id: 103-05-16
+  language_code: eng
+  notes:
+  - If the condition `f ( t_0 ) f ( t )` is replaced with `f ( t_0 ) &lt;= f ( t )`,
+    the property may occur for an interval of values of the argument.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: local minimum
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: be75e7d0-8af9-59e1-8882-b20237dc30a0
+status: valid

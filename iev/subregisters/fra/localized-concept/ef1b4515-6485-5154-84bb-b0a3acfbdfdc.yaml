@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: réaction inflammatoire de la cornée et de la conjonctive suite à une
+    exposition à des <a href="IEV845-21-008">rayonnements ultraviolets</a>
+  examples: []
+  id: 845-26-017
+  language_code: fra
+  notes:
+  - Les longueurs d'onde de moins de 320 nm sont les plus susceptibles de provoquer
+    une photokératoconjonctivite. La valeur crête du spectre d'action est de 270 nm
+    environ.
+  - Différents spectres d'action ont été publiés pour la photokératite et la photoconjonctivite
+    (CIE 106/2-1993 et CIE 106/3-1993). Toutefois, les études les plus récentes soutiennent
+    l'utilisation d'un spectre d'action unique pour les deux effets oculaires (CIE
+    106/1-1993). Voir CIE 106-1993, _CIE Collection in Photobiology and Photochemistry
+    (1993)._
+  reviewDecisionEvent: published
+  terms:
+  - designation: photokératoconjonctivite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conjonctivite des neiges
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: coup d'arc
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ef1b4515-6485-5154-84bb-b0a3acfbdfdc
+status: valid

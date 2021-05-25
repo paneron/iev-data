@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 704-16-03
+      link: https://webstore.iec.ch/publication/240
+      original: CEI 60050-704:1993, 704-16-03, modifiée – La définition originale
+        fait référence aux "signaux numériques" et "éléments de signal" plutôt qu'aux
+        "signaux discrets" et "paramètres informationnels".
+      ref: IEC 60050-704:1993
+      relationship:
+        modification: La définition originale fait référence aux "signaux numériques"
+          et "éléments de signal" plutôt qu'aux "signaux discrets" et "paramètres
+          informationnels".
+        type: modified
+  dateAmended: 2013-11-01
+  definition: signal discret dont chaque paramètre informationnel peut prendre une
+    de deux valeurs
+  examples: []
+  id: 351-41-21
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-21-55 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal binaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 55eadaec-feb4-5e7c-8b01-121ffd74cc92
+status: valid

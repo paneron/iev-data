@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: relation entre deux éléments quelconques d'un ensemble donné, qui est
+    vraie pour certains couples ordonnés spécifiés d'éléments et fausse pour les autres
+    couples
+  examples: []
+  id: 102-01-07
+  language_code: fra
+  notes:
+  - 1 La relation binaire est vraie ou fausse selon que le couple appartient ou non
+    à un sous-ensemble spécifié du produit cartésien de l'ensemble par lui-même. In
+    existe une correspondance biunivoque entre les relations binaires dans un ensemble
+    et les sous-ensembles de ce produit cartésien.
+  - 2 Une relation binaire entre les éléments `a` et `b` est notée `aℛb`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: relation binaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6e7683a6-ce17-59d5-9943-a3581c97459d
+status: valid

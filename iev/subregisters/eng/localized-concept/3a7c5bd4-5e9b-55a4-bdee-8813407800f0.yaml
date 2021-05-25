@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: representation in space, in the form of a surface expressed in polar
+    coordinates, of the angular distribution of (relative) radiant intensity or luminous
+    intensity or of (relative) radiance or luminance of an element of the surface
+    of a medium that diffuses by reflection or transmission
+  examples: []
+  id: 845-24-098
+  language_code: eng
+  notes:
+  - For a narrow incident beam of radiation, it is convenient to represent the scattering
+    indicatrix in Cartesian coordinates. If the angular distribution has rotational
+    symmetry, a meridian section of the surface is sufficient.
+  - The term "indicatrix" is often used to denote, instead of the surface, the curve
+    obtained in a similar manner in a plane normal to the element concerned.
+  - This entry was numbered 845-04-91 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scattering indicatrix
+    normative_status: preferred
+    type: expression
+    usage_info: for a specified incident beam
+  - designation: indicatrix of diffusion
+    type: expression
+    usage_info: for a specified incident beam
+dateAccepted: 2020-12-01
+id: 3a7c5bd4-5e9b-55a4-bdee-8813407800f0
+status: valid

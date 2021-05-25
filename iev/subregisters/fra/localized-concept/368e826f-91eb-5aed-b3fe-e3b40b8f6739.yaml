@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique pondéré par le danger de la lumière bleue,
+    `Φ`~B~, par le flux lumineux, `Φ`~v~ `K_((B ,v)) = ((Phi_B))/((Phi_v)) = ((int
+    Phi_((e , lambda)) ( lambda ) * B ( lambda ) * d lambda))/((K_m * int Phi_((e
+    , lambda)) ( lambda ) * V ( lambda ) * d lambda))` où `λ` est la longueur d'onde,
+    `Φ`~e,`λ`~(`λ`) est le flux énergétique spectral, `B`(`λ`) est la fonction de
+    pondération spectrale du danger de la lumière bleue, `V`(`λ`) est la fonction
+    d'<a href="IEV845-21-035">efficacité lumineuse relative spectrale</a> de la CIE
+    pour la vision photopique, et `K`~m~ est l'efficacité lumineuse maximale (≈ 683
+    lm·W^−1^)
+  examples: []
+  id: 845-26-061
+  language_code: fra
+  notes:
+  - Le terme "rayonnement lumineux" fait référence à un <a href="IEV845-21-002">rayonnement
+    optique</a> pondéré par la fonction d'efficacité lumineuse relative spectrale
+    de la CIE pour la vision photopique, `V`(`λ`).
+  - L'emploi de ce terme est raisonnable uniquement si des éléments constitutifs du
+    rayonnement optique se situent dans le domaine visible et ainsi `Φ`~v~ ≠ 0.
+  - L'efficacité d'un rayonnement lumineux avec danger de la lumière bleue est exprimée
+    en watt par lumen (W·lm^−1^), éventuellement avec un préfixe de mesure.
+  reviewDecisionEvent: published
+  terms:
+  - designation: efficacité d'un rayonnement lumineux avec danger de la lumière bleue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une source
+dateAccepted: 2018-11-17
+id: 368e826f-91eb-5aed-b3fe-e3b40b8f6739
+status: valid

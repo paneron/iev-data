@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: variation relative de la fréquence de sortie, résultant d'une variation
+    différentielle de la tension d'alimentation, les autres paramètres restant inchangés
+  examples: []
+  id: 561-03-11
+  language_code: fra
+  notes:
+  - Dans le cas des oscillateurs à quartz à enceinte à température régulée (OCXO),
+    un délai important peut s’écouler avant d’observer les effets de la variation
+    de la tension d’alimentation, la température de l’enceinte pouvant dériver progressivement
+    vers une nouvelle valeur suite à la perturbation de tension.
+  - Cet article était numéroté 561-04-14 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient fréquence/tension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56782b00-8ff4-5c94-863b-edc111592d7a
+status: valid

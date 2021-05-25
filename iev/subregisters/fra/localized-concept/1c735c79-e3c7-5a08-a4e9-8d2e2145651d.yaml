@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: échantillonnage non orthogonal dans lequel les instants d'échantillonnage
+    d'une ligne de balayage se trouvent dans l'image au milieu des intervalles entre
+    les instants d'échantillonnage des lignes adjacentes de la même trame
+  examples: []
+  id: 723-10-26
+  language_code: fra
+  notes:
+  - En balayage entrelacé, l'échantillonnage en quinconce-ligne est associé à un échantillonnage
+    en quinconce-trame.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: échantillonnage en quinconce-ligne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 1c735c79-e3c7-5a08-a4e9-8d2e2145651d
+status: valid

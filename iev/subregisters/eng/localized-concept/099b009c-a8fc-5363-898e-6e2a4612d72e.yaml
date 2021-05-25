@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the applied magnetic field strength necessary to bring magnetic flux
+    density, magnetic polarization or the magnetization of a magnetized material to
+    zero
+  examples: []
+  id: 221-02-35
+  language_code: eng
+  notes:
+  - In a graphical representation it is the value corresponding to any intersection
+    with `H`-axis of the magnetization curve (for flux density, polarization or magnetization).
+  - The coercive field strength may refer to the static or dynamic magnetization.
+    When unqualified, the static curve is assumed.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coercive field strength
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 099b009c-a8fc-5363-898e-6e2a4612d72e
+status: valid

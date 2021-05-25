@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'scalar quantity given by the flux of the total current density *`J`*~t~
+    through a given directed surface S: `I_t = underset(S)( int ) J_t * e_n d A` where
+    *`e`*~n~d`A` is the vector surface element'
+  examples: []
+  id: 121-11-45
+  language_code: eng
+  notes:
+  - 'The total electric current *`I`*~t~ is given by
+
+
+    *`I`*~t~ = *`I`* + *`I`*~`D`~
+
+
+    where *`I`* is the electric current and *`I`*~`D`~ the displacement current.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total electric current
+    normative_status: preferred
+    type: expression
+  - designation: '*`I`*~t~
+
+      *`I`*~tot~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 3b11f443-cd86-516d-9c2a-8ce6088719be
+status: valid

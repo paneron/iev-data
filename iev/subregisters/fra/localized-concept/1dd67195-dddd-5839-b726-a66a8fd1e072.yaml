@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: intégrale de temps de la luminance énergétique avec danger de la lumière
+    bleue, `L`~B~, intégrée par rapport à la durée d'exposition
+  examples: []
+  id: 845-26-058
+  language_code: fra
+  notes:
+  - Cette définition est basée sur l'hypothèse selon laquelle un spectre d'action
+    est adopté pour l'effet actinique pris en considération, et selon laquelle sa
+    valeur maximale est égale à 1.
+  - Il est essentiel de spécifier quel spectre d'action actinique est utilisé, dans
+    la mesure où l'unité est la même pour tout spectre d'action.
+  - Voir aussi "<a href="IEV845-21-067">dose de radiance</a>".
+  - La dose de luminance énergétique avec danger de la lumière bleue est exprimée
+    en joule par mètre carré par stéradian (J·m^−2^ sr^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose de luminance énergétique avec danger de la lumière bleue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: luminance énergétique à intégration temporelle avec danger de la
+      lumière bleue
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1dd67195-dddd-5839-b726-a66a8fd1e072
+status: valid

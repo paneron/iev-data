@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '6.3'
+      original: ≠ VIM 6.3
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: standard recognized by an official national decision as the basis for
+    fixing the values and uncertainties, in a country, of all other standards for
+    the given quantity
+  examples: []
+  id: 311-04-07
+  language_code: eng
+  notes:
+  - Generally, in a country, the national standard is also the primary standard.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: national standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: e806f370-636d-5f40-b1de-1e74ae70373d
+status: valid

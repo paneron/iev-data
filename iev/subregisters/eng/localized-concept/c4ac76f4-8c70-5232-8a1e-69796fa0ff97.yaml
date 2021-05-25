@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 characterizing the relative importance of forced
+    convection and thermal conduction, defined by `P e = ((rho c_p v l))/(lambda)
+    = ((v l))/(alpha)`, where `ρ` is mass density, `cp` is specific heat capacity
+    at constant pressure, `v` is speed, `l` is a specified length, `λ` is thermal
+    conductivity, and `α` is thermal diffusivity
+  examples: []
+  id: 113-04-57
+  language_code: eng
+  notes:
+  - The Péclet number is the product of the Reynolds number `Re` and the Prandtl number
+    `Pr`, thus `Pe` = `Re` ⋅ `Pr`.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Péclet number
+    normative_status: preferred
+    type: expression
+  - designation: '`Pe`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: c4ac76f4-8c70-5232-8a1e-69796fa0ff97
+status: valid

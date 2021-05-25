@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: milieu diélectrique idéal dans lequel un champ électrique variable produit
+    un vecteur densité de courant électrique `vec J`, dont la projection selon une
+    direction donnée est nulle dans une bande de fréquences déterminée
+  examples: []
+  id: 705-03-08
+  language_code: fra
+  notes:
+  - Dans un milieu homogène, la propriété d'être diélectrique parfait dans une direction
+    se traduit par le fait que la conductivité `σ` peut être considérée comme nulle
+    dans cette direction.
+  - Le vide est un milieu diélectrique parfait à toute fréquence.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (milieu) diélectrique parfait
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 569dc85d-a650-5662-abed-55dc0165fc3c
+status: valid

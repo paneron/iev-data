@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the basic entity of frequency division multiplex transmission, for transmitted
+    source signals occupying a specified frequency band, comprising the whole of the
+    means of transmission, over a given transmission medium, between two consecutive
+    separation points at this frequency band
+  examples: []
+  id: 704-11-04
+  language_code: eng
+  notes:
+  - An FDM link provides transmission in both directions unless otherwise specified.
+  - An FDM link never includes a direct through-connection filter.
+  - In such cases as optical fibre transmission, radio-relay transmission, etc, the
+    appropriate terminal equipment is included within the FDM link.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: FDM link
+    normative_status: preferred
+    type: expression
+  - designation: line link
+    type: expression
+dateAccepted: 1993-08-01
+id: 62a220f7-004f-5deb-8f74-adb1a17425be
+status: valid

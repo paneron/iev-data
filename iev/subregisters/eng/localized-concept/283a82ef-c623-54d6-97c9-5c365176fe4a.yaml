@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'for a network containing `n` nodes and `b` branches and in which a
+    reference direction is chosen for each branch, matrix of type `n` × `b` where
+    the element `a`~`ij`~ is: <ul style="list-style: none;"> * 0 if branch `j` is
+    not incident at node `i` * 1 if branch `j` is pointing away from node `i` * −1
+    if branch `j` is pointing towards node `i`'
+  examples: []
+  id: 131-13-21
+  language_code: eng
+  notes:
+  - – The figure below gives a network and the corresponding branch-node incidence
+    matrix.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: branch-node incidence matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 283a82ef-c623-54d6-97c9-5c365176fe4a
+status: valid

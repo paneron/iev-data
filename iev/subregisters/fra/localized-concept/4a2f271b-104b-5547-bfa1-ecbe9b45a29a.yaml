@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: valeur minimale du champ d'un émetteur permettant en un point donné
+    une réception ayant la qualité voulue, dans des conditions spécifiées d'installation
+    et d'exploitation, en présence de bruits et de brouillages soit existant dans
+    la réalité, soit déterminés conventionnellement ou par des plans de fréquence
+  examples: []
+  id: 705-08-32
+  language_code: fra
+  notes:
+  - Lorsque les bruits et brouillages peuvent être affectés de fluctuations, on doit
+    spécifier le pourcentage de temps pendant lequel la qualité voulue doit être assurée.
+  - 'Les conditions spécifiées comprennent entre autres:
+
+
+    - le type de transmission, le type de service et la bande de fréquences utilisés;
+
+
+    - les caractéristiques de l''installation de réception: gain de l''antenne, bande
+    passante du récepteur, lieu d''installation;
+
+
+    - les conditions d''exploitation du récepteur, en particulier la zone géographique,
+    l''heure et la saison.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ utilisable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: champ nécessaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 4a2f271b-104b-5547-bfa1-ecbe9b45a29a
+status: valid

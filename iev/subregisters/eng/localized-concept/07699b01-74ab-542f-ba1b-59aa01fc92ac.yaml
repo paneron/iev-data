@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-08-01
+  definition: real part of an admittance `underset(_)(Y)` `G = Re ( underset(_)(Y)
+    )`
+  examples: []
+  id: 131-12-53
+  language_code: eng
+  notes:
+  - The term "conductance" has a related meaning in {{131-12-06, IEV:131-12-06}}.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductance for alternating current
+    normative_status: preferred
+    type: expression
+  - designation: conductance
+    normative_status: preferred
+    type: expression
+  - designation: '`G`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 07699b01-74ab-542f-ba1b-59aa01fc92ac
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: transducteur OAS composé d'une combinaison d'au moins trois TID image::/assets/images/parts/561/561-fig10-fr.png[]
+    *Figure 10 – Transducteur interdigité imbriqué (TIDI)*
+  examples: []
+  id: 561-02-19
+  language_code: fra
+  notes:
+  - Les filtres de résonateur TIDI (ou transducteur multi-interdigité) sont des filtres
+    de résonateur OAS composés d’un certain nombre de TID pour l’entrée et la sortie
+    dans une ligne, en alternant avec des réflecteurs de diffraction confirmant la
+    structure de transducteur interdigité aux deux extrémités.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transducteur interdigité imbriqué
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TIDI
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dc158a0b-5f6f-5a05-b10a-1df86d89d8d6
+status: valid

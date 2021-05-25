@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: valeur numérique de la température en degrés Celsius, jusqu'à laquelle
+    un matériau possède des aptitudes en service connues et satisfaisantes dans une
+    application spécifiée
+  examples: []
+  id: 212-12-15
+  language_code: fra
+  notes:
+  - Un matériau avec un indice d’endurance thermique évalué  connu peut être utilisé
+    comme matériau de contrôle dans des essais comparatifs de matériaux sans indice
+    d’endurance thermique évalué établi.
+  - La valeur d’indice d’endurance thermique évalué peut varier entre différentes
+    applications pour un même matériau.
+  - L’indice d’endurance thermique évalué est parfois désignée sous le nom d’indice
+    d’endurance thermique ”absolue”.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice d’endurance thermique évalué
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 8610175c-7f7b-5ee9-bc29-8644f50c4478
+status: valid

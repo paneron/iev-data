@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 7.5.1
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 7.5.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  classification: Deprecated
+  dateAmended: 2013-11-01
+  definition: '{{requirement, IEV:901-05-05}} of a {{normative document, IEV:901-02-01}}
+    that must necessarily be fulfilled in order to comply with that document'
+  examples: []
+  id: 901-05-06
+  language_code: eng
+  notes:
+  - The term “mandatory requirement” should be used to mean only a requirement made
+    compulsory by law or {{regulation, IEV:901-02-10}}.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exclusive requirement
+    normative_status: preferred
+    type: expression
+  - designation: mandatory requirement
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2013-11-01
+id: f385a624-a82d-5870-8d81-086f4a418e49
+status: valid

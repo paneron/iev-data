@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      link: https://webstore.iec.ch/publication/6361
+      original: IEC 62047-19:2013, 3.4
+      ref: IEC 62047-19:2013
+      relationship:
+        type: identical
+  definition: '{{e-compas, IEV:523-04-21}} qui utilise un {{capteur, IEV:151-13-48}}
+    magnétique à 2 axes comme élément de détection de géomagnétisme'
+  examples: []
+  id: 523-04-22
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: e-compas à 2 axes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 05b87b05-dcaf-5aa5-948b-cbd59f305e77
+status: valid

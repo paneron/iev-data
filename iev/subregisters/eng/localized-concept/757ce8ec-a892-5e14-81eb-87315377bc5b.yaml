@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '1.27'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.27
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2010-01-01
+  definition: ordered set of values of quantities of a given kind used in ranking,
+    according to magnitude, quantities of that kind
+  examples: []
+  id: 112-01-36
+  language_code: eng
+  notes:
+  - 'Examples: Celsius temperature scale, timescale ({{IEV 113-01-11, IEV:113-01-11}}),
+    Rockwell C hardness scale.'
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantity-value scale
+    normative_status: preferred
+    type: expression
+  - designation: measurement scale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 757ce8ec-a892-5e14-81eb-87315377bc5b
+status: valid

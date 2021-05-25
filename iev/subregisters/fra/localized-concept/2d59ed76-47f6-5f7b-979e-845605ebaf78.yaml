@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: répartition dans l'espace des valeurs d'une grandeur qui caractérise
+    le champ électromagnétique produit par une antenne
+  examples: []
+  id: 712-02-12
+  language_code: fra
+  notes:
+  - On considère le plus souvent la caractéristique de rayonnement dans la région
+    de champ lointain.
+  - La grandeur qui caractérise le champ est, par exemple, l'amplitude d'une composante
+    spécifiée du champ électromagnétique ou de la force cymomotrice, l'intensité de
+    rayonnement, la directivité, le gain isotrope, ou un gain relatif.
+  - En français, le terme "caractéristique de directivité" est le terme préféré lorsque
+    la grandeur utilisée pour caractériser le champ est indépendante de la puissance
+    d'alimentation.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: caractéristique de rayonnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: caractéristique de directivité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 2d59ed76-47f6-5f7b-979e-845605ebaf78
+status: valid

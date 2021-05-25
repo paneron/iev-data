@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.25
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.25
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: infrastructure qui relie un ensemble d'{{interfaceurs, IEV:741-01-17}},
+    ce qui permet la communication de données [ISO 14641:2018, 3.10] entre les {{entités
+    numériques, IEV:741-01-14}} qui peuvent être atteintes par leur intermédiaire
+  examples: []
+  id: 741-01-25
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: Internet des Objets
+dateAccepted: 2018-11-17
+id: 8d8b244a-bdf1-5a4b-b79f-7be8c244a504
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-12-01
+  definition: non-unit protection in which signals are transmitted by telecommunication
+    to trip permissively or to intertrip remote circuit-breaker(s) for an internal
+    fault or to block tripping for an external fault Refer to figures 448-5 to 448-10
+    inclusive. image::/assets/images/parts/448/448-fig5-en.gif[] image::/assets/images/parts/448/448-fig6-en.gif[]
+    image::/assets/images/parts/448/448-fig7-en.gif[] image::/assets/images/parts/448/448-fig8-en.gif[]
+    image::/assets/images/parts/448/448-fig9-en.gif[] image::/assets/images/parts/448/448-fig10-en.gif[]
+  examples: []
+  id: 448-15-02
+  language_code: eng
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-unit protection using telecommunication
+    normative_status: preferred
+    type: expression
+  - designation: directional comparison protection
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: 2d44fdfa-a588-500d-8c34-a4e7d00130b9
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{interruption de fourniture, IEV:692-07-01}} pour laquelle le rétablissement
+    du service est réalisé en moins d''une durée spécifiée'
+  examples: []
+  id: 692-07-03
+  language_code: fra
+  notes:
+  - Selon les conventions de la régie d’électricité, la durée spécifiée peut varier
+    entre trois et cinq minutes.
+  - Une interruption momentanée est parfois désignée comme une interruption courte.
+  reviewDecisionEvent: published
+  terms:
+  - designation: interruption momentanée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e9cf271-8cbb-5c06-98e4-64d5ba2f807c
+status: valid

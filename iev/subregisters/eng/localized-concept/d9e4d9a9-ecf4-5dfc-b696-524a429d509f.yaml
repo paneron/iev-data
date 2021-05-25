@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: failures of different items characterized by the same failure mode
+  examples: []
+  id: 192-03-19
+  language_code: eng
+  notes:
+  - Common mode failures can have different causes.
+  - Common mode failures can also be common cause failures ({{IEV 192-03-18, IEV:192-03-18}}).
+  - The potential for common mode failures reduces the effectiveness of system redundancy.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: common mode failures
+    normative_status: preferred
+    plurality: plural
+    type: expression
+    usage_info: within a system
+dateAccepted: 2015-02-01
+id: d9e4d9a9-ecf4-5dfc-b696-524a429d509f
+status: valid

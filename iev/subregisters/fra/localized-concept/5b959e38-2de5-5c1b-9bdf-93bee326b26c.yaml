@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{dégradation, IEV:161-01-19}} du fonctionnement de l''équipement,
+    de la {{voie de transmission, IEV:701-02-01}} ou du système par une {{perturbation
+    électromagnétique, IEV:161-01-05}}'
+  examples: []
+  id: 161-01-06
+  language_code: fra
+  notes:
+  - En français, les termes "{{perturbation électromagnétique, IEV:161-01-05}}" et
+    "{{brouillage électromagnétique, IEV:161-01-06}}" désignent respectivement la
+    cause et l’effet et ne devraient pas être utilisés l’un pour l’autre.
+  - En anglais, les termes "{{electromagnetic disturbance, IEV:161-01-05}}" et "{{electromagnetic
+    interference, IEV:161-01-06}}" désignent respectivement la cause et l’effet, et
+    ne devraient pas être utilisés l’un pour l’autre.
+  reviewDecisionEvent: published
+  terms:
+  - designation: brouillage électromagnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b959e38-2de5-5c1b-9bdf-93bee326b26c
+status: valid

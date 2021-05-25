@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.1
+      original: IEC TS 80004-9:2017, 3.3.1
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  dateAmended: 2018-04-01
+  definition: '{{nanomaterial, IEV:511-01-04}} that can emit visible light by electric
+    or optical excitation'
+  examples: []
+  id: 511-03-02
+  language_code: eng
+  notes:
+  - Luminescent nanomaterials include luminescent {{nano-objects, IEV:511-01-07}}
+    and {{quantum dots, IEV:511-03-01}}.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminescent nanomaterial
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 97b01dcf-fec9-5c5e-b7f1-7ac7a6aa6541
+status: valid

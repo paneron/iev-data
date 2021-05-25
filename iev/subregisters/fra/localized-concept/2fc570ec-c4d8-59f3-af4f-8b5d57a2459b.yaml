@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: vitesse de rotation maximale à laquelle sont essayés, en plate-forme,
+    les moteurs de traction et les machines tournantes entrant dans l'équipement électrique,
+    pour vérifier leur tenue mécanique
+  examples: []
+  id: 811-13-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse d'emballement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une machine électrique tournante
+  - designation: survitesse
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2fc570ec-c4d8-59f3-af4f-8b5d57a2459b
+status: valid

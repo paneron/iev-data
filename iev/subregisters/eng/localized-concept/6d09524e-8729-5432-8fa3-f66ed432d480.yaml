@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: ratio of the {{rated power, IEV:485-14-04}} to the mass of a {{fuel
+    cell power system, IEV:485-09-01}}
+  examples: []
+  id: 485-14-05
+  language_code: eng
+  notes:
+  - The specific power is expressed in W/kg.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: specific power
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: 6d09524e-8729-5432-8fa3-f66ed432d480
+status: valid

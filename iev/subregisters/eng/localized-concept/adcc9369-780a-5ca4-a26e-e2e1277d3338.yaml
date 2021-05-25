@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-10-01
+  definition: under {{sinusoidal conditions, IEV:131-11-28}} in a medium where the
+    {{phasors, IEV:131-11-26}} <u>`*D*`</u> and <u>`*E*`</u> representing respectively
+    the {{electric flux density, IEV:121-11-40}} and the {{electric field strength,
+    IEV:121-11-18}} are linearly related, complex quantity `ε`~ r~ defined by the
+    relation <u>`*D*`</u> = `ε`~0~`ε`~ r~ <u>`*E*`</u> where `ε`~0~ is the {{electric
+    constant, IEV:121-11-03}}
+  examples: []
+  id: 121-12-14
+  language_code: eng
+  notes:
+  - The complex relative permittivity is generally frequency dependent. For an isotropic
+    medium, the complex relative permittivity is a {{scalar quantity, IEV:102-02-19}};
+    for an anisotropic medium, it is a {{tensor quantity, IEV:102-03-40}}.
+  - Generally, `ε`~r~  is expressed as `ε`~ r~ = `ε'`~ r~ − j`ε''`~r~  where `ε'`~r~
+    is the {{real relative permittivity, IEV:121-12-15}} and `ε''`~r~ is the {{dielectric
+    loss index, IEV:121-12-16}}, which represents {{dielectric losses, IEV:121-12-11}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex relative permittivity
+    normative_status: preferred
+    type: expression
+  - designation: relative complex dielectric constant
+    normative_status: deprecated
+    type: expression
+  - designation: '`ε`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2019-10-01
+id: adcc9369-780a-5ca4-a26e-e2e1277d3338
+status: valid

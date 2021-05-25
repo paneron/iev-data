@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: valeur de la tension variable qui doit être appliquée entre grille et
+    cathode pour augmenter le courant de faisceau ou la luminance du spot de la valeur
+    de blocage jusqu'à une valeur donnée
+  examples: []
+  id: 531-42-03
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension d'attaque grille-cathode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tension de modulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: ad276093-e1a5-5307-a712-8c6ddaef0666
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the time duration during which a given fading depth is exceeded
+  examples: []
+  id: 705-08-13
+  language_code: eng
+  notes:
+  - For a series of fading events, a statistical distribution of their durations may
+    be considered.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fading duration
+    normative_status: preferred
+    type: expression
+  - designation: fading time
+    type: expression
+dateAccepted: 1995-09-01
+id: b462d86b-20cb-5d8f-bbdd-70b0d0b171a8
+status: valid

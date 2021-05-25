@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'operation performed on a set, assigning a unique element of the set
+    to any ordered pair of elements `a` and `b` of the set, with the following properties:
+    * associativity: `a * ( b * c ) = ( a * b ) * c`, where `c` is also an element
+    of the set, * if an addition is performed on the set, distributivity: `a * ( b
+    + c ) = a * b + a * c` and `( a + b ) * c = a * c + b * c`'
+  examples: []
+  id: 102-01-18
+  language_code: eng
+  notes:
+  - Multiplication is defined for natural numbers and extended to other classes of
+    numbers and to mathematical entities such as polynomials and matrices. Multiplication
+    is also defined for quantities and units, even if they are not of the same kind,
+    so that addition cannot be defined.
+  - Multiplication is not necessarily commutative, for example in the case of matrices.
+  - Each element in a multiplication of two or more elements is called a factor. The
+    term "factor" is also used for a quotient of two quantities of the same kind (see
+    {{IEV 112-01-04, IEV:112-01-04}}). In the multiplication of two elements, the
+    first is called "multiplier" and the second "multiplicator".
+  - The multiplication of entities `a` and `b` is expressed by the words "`a` multiplied
+    by `b`" or "`a` times `b`" and denoted by `a` ⋅ `b`, `a` × `b`, or `ab`. The symbol
+    ∏ is used to denote successive multiplications, for example `a`~2~ ⋅ `a`~3~ ⋅
+    `a`~4~ ⋅ `a`~5~ ⋅ `a`~6~ ⋅ `a`~7~ is denoted by `prod_((i = 2))^7 a_i`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplication
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: e05a765e-ae87-51e6-8017-9f3ad6ffd2de
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the peak value of a prospective current during the transient period
+    following initiation
+  examples: []
+  id: 441-17-02
+  language_code: eng
+  notes:
+  - The definition assumes that the current is made by an ideal switching device,
+    i.e. with instantaneous transition from infinite to zero impedance. For circuits
+    where the current can follow several different paths, e.g. polyphase circuits,
+    it further assumes that the current is made simultaneously in all poles, even
+    if only the current in one pole is considered.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: prospective peak current
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 0d2ef084-160e-5f9c-9fc7-e2b1190b3e47
+status: valid

@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: pour un bipôle linéaire passif, élémentaire ou non, de bornes A et B,
+    en régime sinusoïdal, quotient du phaseur `underset(_)(I)` représentant le courant
+    électrique dans le bipôle par le phaseur `(underset(_)(U))_((A B))` représentant
+    la tension électrique ({{131-11-56, IEV:131-11-56}}) entre les bornes `underset(_)(Y)
+    = ((underset(_)(I)))/(((underset(_)(U))_((A B))))` où le courant sinusoïdal représenté
+    par le phaseur `underset(_)(I)` est positif si son sens est de A vers B et négatif
+    si son sens est de B vers A et où la tension sinusoïdale `u_((AB)) = v_A - v_B`
+    représentée par le phaseur `(underset(_)(U))_((A B))` est la différence des potentiels
+    électriques `v_A` en A et `v_B` en B
+  examples: []
+  id: 131-12-51
+  language_code: fra
+  notes:
+  - L’admittance d'un bipôle est l’inverse de son impédance. Elle est égale à `underset(_)(Y)
+    = G + j B = Y e^(- j phi)`, où `G` est la conductance en courant alternatif, `B`
+    est la susceptance, `Y` est l’admittance apparente et `φ` est le déphasage tension-courant.
+  - L’unité SI cohérente d’admittance est le siemens, S.
+  reviewDecisionEvent: published
+  terms:
+  - designation: admittance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: admittance complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8e255902-3ec6-5853-adfa-37f17ab8b86d
+status: valid

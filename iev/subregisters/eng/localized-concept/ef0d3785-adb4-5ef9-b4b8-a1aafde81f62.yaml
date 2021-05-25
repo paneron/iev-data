@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: logarithm to base 10 of the reciprocal of the reflectance factor, `R`
+    `DR` = −log~10~`R`
+  examples: []
+  id: 845-24-073
+  language_code: eng
+  notes:
+  - The reflectance factor optical density has unit one.
+  - This entry was numbered 845-04-67 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reflectance factor optical density
+    normative_status: preferred
+    type: expression
+  - designation: reflectance factor density
+    type: expression
+  - designation: '`DR`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ef0d3785-adb4-5ef9-b4b8-a1aafde81f62
+status: valid

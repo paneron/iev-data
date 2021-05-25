@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: for two sinusoidal quantities of the same frequency in a given order,
+    difference between their initial phases with possible addition of a multiple of
+    2π so that the difference is greater than −π and not greater than π
+  examples: []
+  id: 103-07-06
+  language_code: eng
+  notes:
+  - For the quantities `a^( ' ) ( t ) = hat A^( ' ) cos ( omega t + vartheta^( ' )_0
+    )` and `a^( ″ ) ( t ) = hat A^( ″ ) cos ( omega t + vartheta^( ″ )_0 )`, the phase
+    difference is `varphi = vartheta^( ″ )_0 - vartheta^( ' )_0 + 2 pi n`, where `n`
+    is an integer, chosen so that `- pi varphi &lt;= pi`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase difference
+    normative_status: preferred
+    type: expression
+  - designation: '`φ`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: b048db7c-3f67-5c90-8f46-6d84554e39b7
+status: valid

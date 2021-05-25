@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 725-12-03
+      original: 725-12-03 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '60'
+      original: UIT RR 60 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: station radioélectrique située soit sur la surface de la Terre, soit
+    dans la partie principale de l'atmosphère terrestre, et destinée à communiquer
+    avec une ou plusieurs stations spatiales, ou avec une ou plusieurs stations de
+    même nature à l'aide d'un ou plusieurs satellites réflecteurs ou d'autres objets
+    spatiaux
+  examples: []
+  id: 713-02-05
+  language_code: fra
+  notes:
+  - En français, les termes "station terrienne", "station terrestre" et "station de
+    Terre" dérivent de la même racine, mais représentent des notions différentes.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: station terrienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: dd5c0b0d-e39d-51ae-bc96-ffcf015a38b0
+status: valid

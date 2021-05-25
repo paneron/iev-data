@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: in a set of radio channels arranged in the ascending order of their
+    centre frequencies, the channel whose rank is next above or next below that of
+    a given channel
+  examples: []
+  id: 713-06-21
+  language_code: eng
+  notes:
+  - The adjacent channel above the given channel is known as the “upper adjacent channel”
+    and the one below it as the “lower adjacent channel”.
+  - Two adjacent channels may have a common part and this may be referred to as frequency
+    overlap.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adjacent channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 43f23876-e320-5727-8cb0-6295bb7f9758
+status: valid

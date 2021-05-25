@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '5.6'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 5.6
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: '{{standard, IEV:901-02-02}} that specifies {{requirement, IEV:901-05-05}}s
+    to be fulfilled by a service, to establish its {{fitness for purpose, IEV:901-01-12}}'
+  examples: []
+  id: 901-02-19
+  language_code: eng
+  notes:
+  - Service standards may be prepared in fields such as laundering, hotel-keeping,
+    transport, car-servicing, telecommunications, insurance, banking, trading.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: service standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 3918d413-65e6-5dc8-8cdb-0ce0b45efc2e
+status: valid

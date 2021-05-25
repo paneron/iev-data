@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température maximale qui assure la stabilité et l'intégrité du matériel
+    pour la durée de vie prévue pour le matériel, ou la pièce, dans l'application
+    à laquelle il est destiné
+  examples: []
+  id: 426-04-26
+  language_code: fra
+  notes:
+  - Le terme abrégé "COT" est dérivé du terme anglais développé correspondant "continuous
+    operating temperature".
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de fonctionnement continu
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: COT
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1a6aaf12-e296-5245-b43a-cebb33bccaab
+status: valid

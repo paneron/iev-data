@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: strain in percent defined as `ε` = 100(`l` − `l`~0~)/`l`~0~ on the tensile
+    test, where `l`~0~ and `l` are the specimen lengths before and after straining
+  examples: []
+  id: 815-17-02
+  language_code: eng
+  notes: []
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nominal engineering strain
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: b16d5171-11eb-5024-a8b2-367f0917df63
+status: valid

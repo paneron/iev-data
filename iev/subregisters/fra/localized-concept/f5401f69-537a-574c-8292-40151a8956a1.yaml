@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: processus suivant lequel il y a absorption ou émission de gaz par un
+    isolant liquide lorsqu'il subit une contrainte électrique d'une intensité suffisante
+    pour provoquer une décharge électrique à travers une phase gazeuse dans le voisinage
+    immédiat d'une surface du liquide
+  examples: []
+  id: 212-18-23
+  language_code: fra
+  notes:
+  - Les résultats d'essais de gazéification sont exprimés soit en volume soit en vitesse.
+    Conventionnellement, la valeur est positive s'il y a émission de gaz pendant l'essai,
+    négative s'il y a absorption.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gazéification
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: gassing
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: f5401f69-537a-574c-8292-40151a8956a1
+status: valid

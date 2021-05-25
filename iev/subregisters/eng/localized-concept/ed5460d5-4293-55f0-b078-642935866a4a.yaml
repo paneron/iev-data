@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a two-terminal-pair network or an `n`-terminal-pair network, matrix
+    expressing the electric dependence of the port currents on the port voltages
+  examples: []
+  id: 131-14-25
+  language_code: eng
+  notes:
+  - Names and symbols for the elements of the admittance matrix are given in IEC 60027-2.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: admittance matrix
+    normative_status: preferred
+    type: expression
+  - designation: '*`Y`*'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: ed5460d5-4293-55f0-b078-642935866a4a
+status: valid

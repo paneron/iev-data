@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: temps nécessaire pour que la composante à amortissement rapide du courant
+    transversal dans l'induit en court-circuit, présente dans les toutes premières
+    périodes qui suivent un changement brusque des conditions de fonctionnement, décroisse
+    jusqu'à 1/e, c'est-à-dire 0,368 fois sa valeur initiale, la machine tournant à
+    sa vitesse assignée
+  examples: []
+  id: 411-48-35
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de temps subtransitoire transversale en court-circuit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: d9acaa2c-0ddb-5df4-97a4-51274ec9e3aa
+status: valid

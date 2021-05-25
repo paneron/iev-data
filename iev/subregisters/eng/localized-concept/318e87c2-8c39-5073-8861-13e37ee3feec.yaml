@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: fraction of the total open pore volume of a {{fuel cell, IEV:485-08-01}}'s
+    porous component (e.g. {{electrode, IEV:485-02-01}} or {{electrolyte matrix, IEV:485-03-05}})
+    that is occupied by a liquid {{electrolyte, IEV:485-03-01}}
+  examples: []
+  id: 485-03-02
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: filling level
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 318e87c2-8c39-5073-8861-13e37ee3feec
+status: valid

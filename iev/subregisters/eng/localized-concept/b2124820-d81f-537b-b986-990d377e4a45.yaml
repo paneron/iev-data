@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: the ratio, usually expressed in logarithmic units, of the absolute gain
+    `G` of an antenna to its noise temperature `T` referred to the antenna terminals
+    at a specified frequency and in specified conditions of installation and operation
+  examples: []
+  id: 712-02-55
+  language_code: eng
+  notes:
+  - If the noise temperature is expressed in kelvins and the gain as a power ratio,
+    the quantity 10 lg `G/T` is expressed in a unit designated by the symbol dBK.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: figure of merit
+    normative_status: preferred
+    type: expression
+  - designation: '`G`/`T`'
+    international: true
+    type: symbol
+dateAccepted: 1992-04-01
+id: b2124820-d81f-537b-b986-990d377e4a45
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: chaussures assurant qu'une personne se tenant debout sur un sol conducteur
+    ou sur un sol dissipatif a une résistance de mise à la terre suffisamment faible
+    pour assurer une dissipation des charges électrostatiques, mais suffisamment élevée
+    pour réduire le risque de choc électrique dangereux
+  examples: []
+  id: 426-25-16
+  language_code: fra
+  notes:
+  - 'Voir l''IEC 61340-4-3, _Électrostatique – Partie 4-3: Méthodes d''essai normalisées
+    pour des applications spécifiques – Chaussures_, et l''IEC 61340-4-5, _Électrostatique
+    – Partie 4-5: Méthodes d''essai normalisées pour des applications spécifiques
+    – Méthodes de caractérisation de la protection électrostatique des chaussures
+    et des revêtements de sol par rapport à une personne_.'
+  - Les chaussures antistatiques décrites dans l'ISO 20345, _Équipement de protection
+    individuelle – Chaussures de sécurité, peuvent remplir cette fonction_.
+  reviewDecisionEvent: published
+  terms:
+  - designation: chaussures dissipatives
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: 103f9334-c730-5cee-ac76-3be1f0f0f650
+status: valid

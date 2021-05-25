@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2007-11-01
+  definition: test in which the mechanical power is determined by measuring the shaft
+    torque, together with the rotational speed
+  examples: []
+  id: 411-53-14
+  language_code: eng
+  notes:
+  - Applies to a machine acting as a motor using a brake, dynamometer, or other suitable
+    device to determine the output power.
+  - Applies to a machine acting as a generator using a dynamometer or other suitable
+    device to determine the input power.
+  reviewDate: 2007-11-01
+  reviewDecisionDate: 2007-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: torque meter test
+    normative_status: preferred
+    type: expression
+  - designation: brake test
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01
+id: c694d8de-d09a-539d-981a-ce97b0a26ff3
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: '{{error control, IEV:702-07-40}} with a view to correcting some types
+    of message recognized as erroneous'
+  examples: []
+  id: 702-07-42
+  language_code: eng
+  notes:
+  - Error correction makes use of either an {{error correcting code, IEV:702-05-20}}
+    or an {{error detecting code, IEV:702-05-19}} or a {{loop checking, IEV:721-08-18}}
+    with, in the last two cases, automatic repetition of the signals recognized as
+    being erroneous.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error correction
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: aeddf8b9-ed4f-54a5-9968-694700310197
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'potentiel scalaire `V` du vecteur irrotationnel `( E + ((del A))/((del
+    t)) )`, où `*E*` est le champ électrique, `*A*` un potentiel vecteur magnétique
+    et `t` le temps: `- grad V = E + ((del A))/((del t))`'
+  examples: []
+  id: 121-11-25
+  language_code: fra
+  notes:
+  - Le potentiel électrique n'est pas unique puisqu’une grandeur scalaire constante
+    quelconque peut être ajoutée à un potentiel électrique donné sans changer son
+    gradient.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: potentiel électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 72230963-22af-5c27-8b3e-2422b87f261b
+status: valid

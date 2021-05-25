@@ -1,0 +1,24 @@
+data:
+  identifier: 705-04-24
+  localizedConcepts:
+    ara: 54f97114-66e0-56cd-903a-6dab5a0864bf
+    deu: 1c25cf92-fbbf-5e7a-bfb8-e63edf2e3acf
+    eng: fd777639-1e3c-55d2-8b5c-c6361ce0deb1
+    fra: 8c5d9aee-c1b4-598b-b313-3dc40bbbd529
+    ita: 22e66f0e-e05c-535e-808b-8e1d71a52ccd
+    jpn: c1ccdde9-ce48-5be9-836d-0be6d0a98c4b
+    kor: 0a2cf8bb-cc96-50c6-b635-cd27daded4dd
+    pol: 0f2c4ca6-9979-5a45-a8fc-bedc011c5e62
+    por: bcea8c13-0df0-5df0-a9c9-c3e11f241e33
+    spa: 1609ca2c-fbbb-530e-bcf8-8fea93650d5f
+    swe: f9c2fe3a-141b-5116-a28d-4a5f940b5873
+    zho: 23899ced-88ac-5d82-a09c-2cf922886a80
+dateAccepted: 2018-11-17
+id: 1e29e400-df69-54da-8669-976905211a8d
+related:
+- ref:
+    id: 705-04-24
+    source: IEV
+    version: 1995-09
+  type: supersedes
+status: valid

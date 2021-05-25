@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: any real or complex number for which the product by itself is equal
+    to a given real or complex number
+  examples: []
+  id: 102-02-15
+  language_code: eng
+  notes:
+  - Every non-zero real or complex number has two square roots, each being the negative
+    of the other. For a non-negative real number `a`, the non-negative square root
+    is denoted by `a^(1 // 2)` or `sqrt(a)`. For a negative real number `a`, the number
+    `- a` is positive and the two square roots are imaginary numbers, conjugate of
+    each others, denoted by `j sqrt(- a)` and `- j sqrt(- a)`. For a complex number
+    `c = | c | e^(j phi)`, the two square roots are `sqrt(| c |) e^(j phi // 2)` and
+    `sqrt(| c |) e^(j ( (phi)/(2) + pi ))`.
+  - The concept of square root may be applied to scalar quantities.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: square root
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 230e2c30-9dfa-5edb-8872-986d0c5bf100
+status: valid

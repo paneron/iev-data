@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: 'the quotient of the energy d`E`~col~ lost by a charged particle of
+    specified energy, by collision in traversing a path length d`l` in a material:
+    `S_((col)) = (( ((d E))/((d l)) ))_((col))`'
+  examples: []
+  id: 881-12-47
+  language_code: eng
+  notes:
+  - The energy losses included are those that produce excitation and ionization of
+    atoms as well as those producing recoil atoms.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linear collision stopping power
+    normative_status: preferred
+    type: expression
+  - designation: '`S`~col~'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 10237dd0-856d-50cf-a8b9-ad00fcb5f217
+status: valid

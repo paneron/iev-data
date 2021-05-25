@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.115
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.115
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: structure de données de 24 bits permettant de coder la période de nœud
+    et la clé de nœud d'un nœud
+  examples: []
+  id: 811-37-76
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: descripteur de nœud
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2b607c3a-2e49-56cb-869c-9b96a19652df
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: fonction égale au quotient des transformées de Laplace des signaux qui
+    se correspondent à la sortie et à l'entrée d'un biporte linéaire invariable dans
+    le temps
+  examples: []
+  id: 702-07-28
+  language_code: fra
+  notes:
+  - La fonction de transfert isomorphe d'un biporte est la transformée de Laplace
+    de sa réponse impulsionnelle.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de transfert isomorphe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmittance isomorphe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 6af55d67-53ec-5bac-9569-1b11584031cf
+status: valid

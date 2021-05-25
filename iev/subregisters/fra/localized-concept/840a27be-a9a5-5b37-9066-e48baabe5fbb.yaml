@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.7
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.7
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{système, IEV:151-11-27}} qui fournit les fonctionnalités de l''{{Internet
+    des Objets, IEV:741-02-01}}'
+  examples: []
+  id: 741-02-07
+  language_code: fra
+  notes:
+  - Le système IdO englobe les {{dispositifs IdO, IEV:741-02-04}}, les {{passerelles
+    IdO, IEV:741-02-06}}, les {{capteurs, IEV:741-02-09}}, et les actionneurs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système IdO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 840a27be-a9a5-5b37-9066-e48baabe5fbb
+status: valid

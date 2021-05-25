@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.3
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.5.3, modifié – Dans la seconde phrase de la Note
+        1 à l'article, "Ces couches" a été remplacé par "Les couches épaisses".
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: Dans la seconde phrase de la Note 1 à l'article, "Ces couches"
+          a été remplacé par "Les couches épaisses".
+        type: modified
+  definition: technologie formant des couches épaisses sur le {{substrat, IEV:521-05-28}}
+  examples: []
+  id: 523-05-01
+  language_code: fra
+  notes:
+  - Une couche épaisse est une couche d’une épaisseur d’environ 5 µm ou plus, formée
+    par le revêtement d’une pâte à l’encre ou d’une impression par pulvérisation,
+    et d’un étuvage postérieur. Les couches épaisses sont appliquées dans la fabrication
+    des {{actionneurs, IEV:151-13-49}} piézoélectriques ou magnétiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: technologie de couches épaisses
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c4002121-b3d4-5e90-85ec-44c2b07cba84
+status: valid

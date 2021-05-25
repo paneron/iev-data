@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-10-01
+  definition: pour un noyau magnétique de géométrie donnée, décomposable en une suite
+    d'éléments de section transversale constante, somme des quotients des longueurs
+    `l` des éléments mesurés le long d'un chemin magnétique moyen convenu, par les
+    carrés des sections transversales correspondantes `A` `C_2 = sum (l)/((A^2))`
+  examples: []
+  id: 221-04-30
+  language_code: fra
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de noyau `C`~2~
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: paramètre hystérétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: 900c823f-1c9b-57ca-a4bd-64f0abe031de
+status: valid

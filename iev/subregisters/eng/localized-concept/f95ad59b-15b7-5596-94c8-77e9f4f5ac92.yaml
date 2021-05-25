@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1983-01-01
+  definition: 'the quotient of d`φ` by d`t` where d`φ` is the increment of particle
+    fluence in the time interval d`t`: `phi = ((d phi))/((d t))`'
+  examples: []
+  id: 881-04-19
+  language_code: eng
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fluence rate
+    normative_status: preferred
+    type: expression
+  - designation: flux density
+    normative_status: preferred
+    type: expression
+  - designation: '`φ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: f95ad59b-15b7-5596-94c8-77e9f4f5ac92
+status: valid

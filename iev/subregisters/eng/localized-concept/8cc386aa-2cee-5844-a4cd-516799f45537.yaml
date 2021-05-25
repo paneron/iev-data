@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{Boolean operation, IEV:171-03-05}} whose result has the Boolean value
+    1 if and only if all the {{operands, IEV:171-03-04}} do not have the same Boolean
+    value'
+  examples: []
+  id: 171-03-14
+  language_code: eng
+  notes:
+  - A non-identity operation on two operands is an {{exclusive-or operation, IEV:171-03-16}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-identity operation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 8cc386aa-2cee-5844-a4cd-516799f45537
+status: valid

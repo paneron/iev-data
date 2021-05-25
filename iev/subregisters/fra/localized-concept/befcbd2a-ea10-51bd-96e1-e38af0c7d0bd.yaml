@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de l'énergie rayonnante par l'énergie photonique `N_p = ((Q_e))/((h
+    nu))` où `Q`~e~ est l'énergie rayonnante, `h` est la constante de Planck, et `ν`
+    est la {{fréquence, IEV:103-06-02}} de l'onde électromagnétique correspondante
+  examples: []
+  id: 845-21-043
+  language_code: fra
+  notes:
+  - 'Le nombre de photons peut également être exprimé par l''intégrale par rapport
+    au temps du flux photonique, `Φ`~p~, pendant une durée donnée, Δ`t`:
+
+
+    `N_p = int_((Delta t)) Phi_p d t`'
+  - L'unité de nombre de photons est un.
+  - Cet article était numéroté 845-01-29 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de photons
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: befcbd2a-ea10-51bd-96e1-e38af0c7d0bd
+status: valid

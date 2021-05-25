@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 704-16-03
+      link: https://webstore.iec.ch/publication/240
+      original: IEC 60050-704:1993, 704-16-03, modified – The source definition refers
+        to "digital signals" and "signal elements" rather than "discrete-value signals"
+        and "information parameters.
+      ref: IEC 60050-704:1993
+      relationship:
+        modification: The source definition refers to "digital signals" and "signal
+          elements" rather than "discrete-value signals" and "information parameters.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: discrete-value signal each information parameter of which may assume
+    one of two values
+  examples: []
+  id: 351-41-21
+  language_code: eng
+  notes:
+  - This entry was numbered 351-21-55 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: binary signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 4212ed24-47f1-5807-84a7-2d0fdfbdf64b
+status: valid

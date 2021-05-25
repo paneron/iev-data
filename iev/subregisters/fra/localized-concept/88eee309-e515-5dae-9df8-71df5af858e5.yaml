@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: plus petit éclairement (éclat apparent), produit sur l'œil d'un observateur
+    regardant une source de lumière en vision ponctuelle, qui assure la perception
+    de la source sur un fond de luminance donnée, où l'éclairement pris en considération
+    est celui que reçoit un élément de surface perpendiculairement aux rayons incidents
+    et situé à l'emplacement de l'œil
+  examples: []
+  id: 845-31-024
+  language_code: fra
+  notes:
+  - En signalisation visuelle, la source de lumière doit être reconnaissable, et un
+    seuil d'éclairement supérieur doit donc être attendu.
+  - Cet article était numéroté 845-11-26 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: seuil d'éclairement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: seuil de visibilité
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: en vision ponctuelle
+dateAccepted: 2018-11-17
+id: 88eee309-e515-5dae-9df8-71df5af858e5
+status: valid

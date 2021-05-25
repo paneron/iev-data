@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: the totality of digits and possibly other characters at a point in the
+    network which locate the called party, or those digits which are necessary for
+    forward routing
+  examples: []
+  id: 715-01-15
+  language_code: eng
+  notes:
+  - The digits comprising the address information sent by the calling party may be
+    changed by translation and/or digit absorption as a connection is progressively
+    set up through the network, but the new and/or remaining digits at each point
+    constitute the address information at this point.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: address (information)
+    normative_status: preferred
+    type: expression
+  - designation: address
+    type: expression
+dateAccepted: 1996-12-01
+id: 5b35a589-5419-5908-8813-29e99dc62f92
+status: valid

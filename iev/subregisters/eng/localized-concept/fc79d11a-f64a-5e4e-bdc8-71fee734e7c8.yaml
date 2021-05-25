@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the lowest frequency that would permit acceptable performance of a radio
+    circuit by signal propagation via the ionosphere between given terminals below
+    the ionosphere at a given time, under specified working conditions
+  examples: []
+  id: 705-07-23
+  language_code: eng
+  notes:
+  - Acceptable performance may for example be quoted in terms of maximum error ratio
+    or required signal/noise ratio.
+  - Specified working conditions may include such factors as antenna types, transmitter
+    power, class of emission and required information rate.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lowest usable frequency
+    normative_status: preferred
+    type: expression
+  - designation: LUF
+    type: expression
+dateAccepted: 1995-09-01
+id: fc79d11a-f64a-5e4e-bdc8-71fee734e7c8
+status: valid

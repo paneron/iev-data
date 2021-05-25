@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: symbolic notation expressed formally as a vector, used to denote scalar
+    or vector differential operators operating at each point of a given space region
+    on scalars or vectors, and which, in orthonormal Cartesian coordinates, is represented
+    by `grad = e_x ( del )/((del x)) + e_y ( del )/((del y)) + e_z ( del )/((del z))`
+    where `e_x , e_y , e_z` are unit vectors along the `x`, `y`, `z` axes
+  examples: []
+  id: 102-05-18
+  language_code: eng
+  notes:
+  - It is recommended to print the symbol *∇* in boldface.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nabla operator
+    normative_status: preferred
+    type: expression
+  - designation: nabla
+    type: expression
+  - designation: ∇
+    international: true
+    type: symbol
+dateAccepted: 2008-08-01
+id: 18a67c97-bb8a-5eab-8e9c-5a60b501afef
+status: valid

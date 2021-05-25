@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: address of a host computer used in the Internet Protocol
+  examples: []
+  id: 732-07-06
+  language_code: eng
+  notes:
+  - 'The IP address corresponds to a fully qualified domain name. At present, it consists
+    of 32 bits and is generally represented by a sequence of four decimal numbers
+    (each in the range from 0 to 255), separated by dots. The IP address of a computer
+    usually comprises two parts: a part corresponding to the network number of the
+    network on which this computer is located, and a part identifying the computer
+    within its network. In the new version IPv6 of the Internet Protocol, the IP address
+    consists of 128 bits'
+  - The Internet Protocol is not limited to the Internet, and may be used on other
+    networks.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: IP address
+    normative_status: preferred
+    type: expression
+  - designation: dot address
+    type: expression
+  - designation: dotted decimal notation
+    type: expression
+  - designation: IP number
+    type: expression
+dateAccepted: 2010-06-01
+id: a8091237-8dd9-51bc-9bff-f8d131977128
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: regular square matrix *`A`* with complex elements for which the inverse
+    *`A`*^−1^ is equal to the Hermitian conjugate matrix *`A`*^H^
+  examples: []
+  id: 102-06-28
+  language_code: eng
+  notes:
+  - 'For a unitary matrix with elements `Aij`:
+
+
+    `underset(i)( sum ) A_((i j)) A_(i k)^( * ) = delta_((j k))` and `underset(k)(
+    sum ) A_((i k)) A_(j k)^( * ) = delta_((i j))`
+
+
+    where `delta_((j k))` and `delta_((i j))` are Kronecker deltas.'
+  - Any orthogonal matrix with real elements is a unitary matrix.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unitary matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 8c8fb81b-750f-557c-bb62-c1022e40009e
+status: valid

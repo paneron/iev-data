@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'quotient de la variation relative de la perméabilité due à une variation
+    de température par cette variation de température: `alpha_(mu) = ((mu_(theta)
+    - mu_((ref))))/((mu_((ref)) ( theta - theta_((ref)) )))` où `µθ` et `µ`~ref~ sont
+    respectivement les perméabilités aux températures `θ` et `θ`~ref~'
+  examples: []
+  id: 221-02-50
+  language_code: fra
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de température de la perméabilité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: cb5004a9-38f1-5e48-943f-3b8da0a29754
+status: valid

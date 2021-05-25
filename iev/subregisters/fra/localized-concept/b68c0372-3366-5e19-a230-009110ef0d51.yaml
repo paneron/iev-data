@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/6747
+      original: IEC 62278:2002, 3.1, modifié
+      ref: IEC 62278:2002
+      relationship:
+        type: modified
+  definition: processus par lequel les objectifs de FDMS d'un système sont subdivisés
+    entre les différents éléments de ce système pour fournir des objectifs individuels
+    spécifiques
+  examples: []
+  id: 821-12-03
+  language_code: fra
+  notes:
+  - L'acronyme FDMS signifie une combinaison de «Fiabilité, Disponibilité, Maintenabilité
+    et Sécurité».
+  reviewDecisionEvent: published
+  terms:
+  - designation: allocation d'objectifs spécifiques
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b68c0372-3366-5e19-a230-009110ef0d51
+status: valid

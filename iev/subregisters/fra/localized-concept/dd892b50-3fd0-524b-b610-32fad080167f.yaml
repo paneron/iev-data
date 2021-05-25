@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.15
+      original: IEC TR 62907:2014, 3.1.15, modifié – Traduit à partir de l'anglais
+        (l'IEC TR 62907 est monolingue). Le terme préféré "cas d'utilisation AAD"
+        a été ajouté; dans le synonyme anglais, le mot "ambient" a été remplacé par
+        "active"; dans la définition anglaise, "hypothetically possible" a été remplacé
+        par "typical" et "where AAL concepts, products and services may improve the
+        quality of life" a été remplacé par "in which active assisted living can be
+        realized"; la note a été modifiée à des fins de clarté.
+      ref: IEC/TR 62907:2014
+      relationship:
+        modification: Traduit à partir de l'anglais (l'IEC TR 62907 est monolingue).
+          Le terme préféré "cas d'utilisation AAD" a été ajouté; dans le synonyme
+          anglais, le mot "ambient" a été remplacé par "active"; dans la définition
+          anglaise, "hypothetically possible" a été remplacé par "typical" et "where
+          AAL concepts, products and services may improve the quality of life" a été
+          remplacé par "in which active assisted living can be realized"; la note
+          a été modifiée à des fins de clarté.
+        type: modified
+  definition: description d'une situation ou d'une série d'événements typique dans
+    laquelle l'assistance à l'autonomie à domicile peut être réalisée
+  examples: []
+  id: 871-01-07
+  language_code: fra
+  notes:
+  - L’objectif d’un cas d’utilisation AAD est de décrire un scénario problématique
+    de manière à mettre en évidence la dimension temporelle, spatiale et technique
+    des approches AAD des solutions.
+  reviewDecisionEvent: published
+  terms:
+  - designation: cas d’utilisation AAD
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cas d’utilisation d’assistance à l’autonomie à domicile
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dd892b50-3fd0-524b-b610-32fad080167f
+status: valid

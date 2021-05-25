@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: tarif comportant une redevance d'abonnement et un ou plusieurs prix
+    du kilowattheure
+  examples: []
+  id: 691-05-09
+  language_code: fra
+  notes:
+  - La redevance et les prix du kilowattheure peuvent être différents selon l'importance
+    de la fourniture.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif à redevance d'abonnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tarif à redevance fixe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 19f172fb-0ebf-571d-9497-534e962e09a8
+status: valid

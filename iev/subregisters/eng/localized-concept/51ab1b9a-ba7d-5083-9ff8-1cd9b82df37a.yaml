@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: orientation of the crystal element with respect to the crystallographic
+    axes of the crystal
+  examples: []
+  id: 561-03-04
+  language_code: eng
+  notes:
+  - It may be desirable to specify the crystal cut (and hence the general form of
+    the frequency/temperature performance) of a crystal unit used in an oscillator
+    application. The choice of the crystal cut will imply certain attributes of the
+    oscillator which may not otherwise appear in the detail specification.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: crystal cut
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 51ab1b9a-ba7d-5083-9ff8-1cd9b82df37a
+status: valid

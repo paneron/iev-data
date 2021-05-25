@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: passive `n`-terminal circuit element characterized by `n` − 1 functional
+    relations between the voltages ({{131-11-56, IEV:131-11-56}}) between each of
+    `n` − 1 terminals and the remaining terminal, and the electric charges ({{131-12-11,
+    IEV:131-12-11}}) at these `n` − 1 terminals
+  examples: []
+  id: 131-12-09
+  language_code: eng
+  notes:
+  - The electric energy absorbed by a capacitive n-terminal element is stored in electrostatic
+    form and is completely recoverable.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacitive `n`-terminal element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-09-01
+id: dff008fc-5a68-550f-a2d0-2edb31bbbfef
+status: valid

@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 13-42
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-42, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: valeur maximale du {{débit moyen de transinformation, IEV:171-07-31}},
+    qui peut être atteinte avec une {{probabilité d'erreur, IEV:171-06-08}} arbitrairement
+    faible grâce à l'emploi d'un {{code, IEV:171-01-15}} approprié
+  examples: []
+  id: 171-07-33
+  language_code: fra
+  notes:
+  - La capacité temporelle de canal est un moyen d’exprimer quantitativement l'aptitude
+    d'un canal soumis à des contraintes spécifiées à transmettre les messages d'une
+    source de messages donnée.
+  - La capacité temporelle de canal peut être exprimée à l'aide d'une unité telle
+    que le shannon par seconde (Sh/s).
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité temporelle de canal
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: capacité de canal
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1cceda61-4d9e-5182-8ee7-d20a4fb1804f
+status: valid

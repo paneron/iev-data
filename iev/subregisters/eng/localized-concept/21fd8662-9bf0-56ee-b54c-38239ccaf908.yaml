@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 725-14-32
+      original: 725-14-32 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: form of spread spectrum modulation in which the carrier frequency is
+    automatically changed at short intervals, selection being made in a pseudo-random
+    way from a set of frequencies covering a frequency band much wider than the bandwidth
+    required for the information to be transmitted
+  examples: []
+  id: 713-07-03
+  language_code: eng
+  notes:
+  - The rate at which the frequency is changed may be faster or slower than the bit
+    rate of the information signal.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency hopping spread spectrum modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 21fd8662-9bf0-56ee-b54c-38239ccaf908
+status: valid

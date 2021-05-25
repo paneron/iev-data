@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: extraction ou rangement de données dans une {{mémoire, IEV:171-04-14}},
+    effectué de façon à dépendre seulement de l'emplacement qui lui est affecté, et
+    non des emplacements affectés aux données extraites ou rangées auparavant
+  examples: []
+  id: 171-04-24
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: accès direct
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: accès sélectif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: accès aléatoire
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0afea066-843b-5441-a1d6-57ae1bf3f957
+status: valid

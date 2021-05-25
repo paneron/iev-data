@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'under sinusoidal conditions, product of the phasor `U` representing
+    the voltage between the terminals of a linear two-terminal element or two-terminal
+    element circuit and the phasor `I` representing the electric current in the element
+    or circuit: `S`~∼~ = `U` `I`'
+  examples: []
+  id: 131-11-40
+  language_code: eng
+  notes:
+  - The SI unit for complex alternating power is the voltampere.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex alternating power
+    normative_status: preferred
+    type: expression
+  - designation: alternating power
+    type: expression
+  - designation: '`S`~∼~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: e1ff00ab-4de0-5c15-a2fa-af06970029c4
+status: valid

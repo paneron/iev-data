@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: situation dans laquelle certaines crêtes du {{signal modulant, IEV:702-06-04}}
+    dépassent la valeur maximale prévue pour le {{système de transmission, IEV:704-04-19}}
+    ou l'équipement considéré
+  examples: []
+  id: 702-06-20
+  language_code: fra
+  notes:
+  - En {{modulation d'amplitude, IEV:702-06-17}} {{à porteuse complète, IEV:702-06-22}},
+    la valeur maximale est celle qui correspond à un {{taux de modulation, IEV:702-06-19}},
+    définition 1, de 100 %.
+  reviewDecisionEvent: published
+  terms:
+  - designation: surmodulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 52975882-f7f3-5301-a57a-71b851017fdd
+status: valid

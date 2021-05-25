@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'an atmosphere in which the refractivity is determined by the equation:
+    `N (h)` = 315 exp (-0,136 `h`) where `h` is the altitude in kilometres above sea-level'
+  examples: []
+  id: 705-05-18
+  language_code: eng
+  notes:
+  - Up to a height of 1 km, the reference atmosphere for refraction may in practice
+    be regarded as identical to the standard radio atmosphere.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference atmosphere for refraction
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: ffaf8098-bd22-5f06-9aad-cb612c508931
+status: valid

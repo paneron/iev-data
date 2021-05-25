@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aptitude à continuer à fonctionner malgré la présence de certaines pannes
+  examples: []
+  id: 192-10-09
+  language_code: fra
+  notes:
+  - Les pannes se situent invariablement à un niveau dans l’arborescence inférieur
+    à celui de l’entité considérée.
+  - Voir aussi masquage de panne ({{192-10-21, IEV:192-10-21}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: tolérance aux pannes
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un système
+dateAccepted: 2018-11-17
+id: 65a59b83-57a0-598a-8ec1-0f1339d07e5f
+status: valid

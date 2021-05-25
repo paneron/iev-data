@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-11-01
+  definition: time which elapses between the start of a level crossing warning by
+    a train and its arrival at the level crossing
+  examples: []
+  id: 821-07-11
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cycle duration
+    normative_status: preferred
+    type: expression
+  - designation: train approach warning duration
+    type: expression
+  - designation: approach warning time
+    type: expression
+dateAccepted: 2017-11-01
+id: e18ec8d5-f8e1-5cca-8c71-bdaa4e8fc1f4
+status: valid

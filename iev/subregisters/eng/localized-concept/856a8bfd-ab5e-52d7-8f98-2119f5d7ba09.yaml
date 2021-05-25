@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: process whereby one variable quantity, namely the controlled variable
+    is continuously or sequentially measured*,* compared with another variable quantity,
+    namely the reference variable, and influenced in such a manner as to adjust to
+    the reference variable
+  examples: []
+  id: 351-47-01
+  language_code: eng
+  notes:
+  - Characteristic for closed-loop control is the closed action in which the controlled
+    variable continuously or sequentially influences itself in the action path of
+    the closed loop.
+  - This entry was numbered 351-26-01 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: closed-loop control
+    normative_status: preferred
+    type: expression
+  - designation: feedback control
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 856a8bfd-ab5e-52d7-8f98-2119f5d7ba09
+status: valid

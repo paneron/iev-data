@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: traffic intensity of the traffic served by a particular pool resources
+  examples: []
+  id: 715-05-04
+  language_code: eng
+  notes:
+  - General practice is to estimate the traffic intensity as an average over a specified
+    time interval, for example the busy hour.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: traffic carried (intensity)
+    normative_status: preferred
+    type: expression
+  - designation: traffic load
+    type: expression
+dateAccepted: 1996-12-01
+id: 49439edc-dda3-5448-87ae-06db14b98e6c
+status: valid

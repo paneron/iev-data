@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: 'difference between two colour stimuli, defined as the Euclidean distance
+    between the points representing them in the u′, v′ chromaticity diagram and calculated
+    as: Δ`c` = [(Δ`u`′)^2^ + (Δ`v`′)^2^]^1/2^'
+  examples: []
+  id: 845-23-080
+  language_code: eng
+  notes: []
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: CIE 1976 u′,v′ chromaticity difference
+    normative_status: preferred
+    type: expression
+  - designation: Δ`c`
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: a4a5a3e4-a4f6-5716-8be0-1cd7050725cb
+status: valid

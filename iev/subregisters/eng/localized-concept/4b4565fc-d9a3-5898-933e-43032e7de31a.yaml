@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.50
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.50
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: number which indicates the required degree of confidence that a system
+    will meet its specified safety functions with respect to systematic failures
+  examples: []
+  id: 821-11-46
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: safety integrity level
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 4b4565fc-d9a3-5898-933e-43032e7de31a
+status: valid

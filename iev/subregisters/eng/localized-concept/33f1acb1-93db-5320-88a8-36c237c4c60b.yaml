@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{instruction, IEV:171-05-08}} that can be directly executed by a computer
+    without interpretation'
+  examples: []
+  id: 171-05-09
+  language_code: eng
+  notes:
+  - A machine instruction is an element of a {{machine language, IEV:171-05-13}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: machine instruction
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 33f1acb1-93db-5320-88a8-36c237c4c60b
+status: valid

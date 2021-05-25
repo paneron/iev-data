@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: en un point d'une surface, plan, s'il existe, qui contient toutes les
+    tangentes en ce point aux courbes de la surface passant par le point
+  examples: []
+  id: 102-04-34
+  language_code: fra
+  notes:
+  - Pour une surface définie par `r = f ( u , v )`, où `( u , v ) in U sube R^2`,
+    le plan tangent en *`r`*(`u`~0~, `v`~0~) est défini par les vecteurs `(( ((del
+    f))/((del u)) ))_([[u = u_0],[v = v_0]])` et `(( ((del f))/((del v)) ))_(([[u
+    = u_0],[v = v_0]]))` s'ils sont linéairement indépendants.
+  reviewDecisionEvent: published
+  terms:
+  - designation: plan tangent
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bfb1a808-f01c-5a59-9bc0-ffea2ef36e1d
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: in a radio receiver or repeater, the frequency corresponding to the
+    carrier frequency or another characteristic frequency of an input radio-frequency
+    signal in a signal resulting from each frequency translation
+  examples: []
+  id: 713-10-11
+  language_code: eng
+  notes:
+  - A receiver may use more than one frequency translation and so have several intermediate
+    frequencies.
+  - This expression or the abbreviation “IF” is used to identify the frequency band
+    translated from the radio-frequency band or a device operating in this band.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intermediate frequency
+    normative_status: preferred
+    type: expression
+  - designation: IF
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 6a561cab-e0e2-5dc0-a42a-adaa25747eed
+status: valid

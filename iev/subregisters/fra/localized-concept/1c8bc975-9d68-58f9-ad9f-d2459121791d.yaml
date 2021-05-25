@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: longueur du chemin qui serait parcouru à la {{vitesse de la lumière
+    dans le vide, IEV:113-01-34}} dans une {{durée, IEV:113-01-13}} égale au {{temps
+    de propagation de phase, IEV:702-02-16}} d'une {{onde électromagnétique, IEV:121-11-63}}
+    donnée entre deux points spécifiés
+  examples: []
+  id: 705-02-14
+  language_code: fra
+  notes:
+  - 'Entre deux points d''un même trajet, le chemin optique est égal à l''{{intégrale
+    curviligne, IEV:102-05-03}} de l''{{indice de réfraction, IEV:702-02-19}} prise
+    le long du trajet:
+
+
+    `underset(c)( int ) n d s`
+
+
+    où `n` est l''indice de réfraction du milieu en un point dans la direction du
+    trajet et d`s` l''élément de longueur dans la direction de ce trajet.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: chemin optique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: longueur de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 1c8bc975-9d68-58f9-ad9f-d2459121791d
+status: valid

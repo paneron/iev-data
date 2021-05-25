@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.46
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.46
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: séquence qui termine la trame avant que le support ne retourne au repos
+  examples: []
+  id: 811-37-32
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: délimiteur de fin de trame
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ff4e1584-fed0-50cb-b3b0-024410c581d7
+status: valid

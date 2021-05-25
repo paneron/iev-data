@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      link: https://webstore.iec.ch/publication/6361
+      original: IEC 62047-19:2013, 3.4
+      ref: IEC 62047-19:2013
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: '{{e-compass, IEV:523-04-21}} that uses a 2-axis magnetic sensor {{sensor,
+    IEV:151-13-48}} as a geomagnetism detection element'
+  examples: []
+  id: 523-04-22
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: 2-axis e-compass
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 595f1d84-19c8-5779-8b93-b739a8c5690f
+status: valid

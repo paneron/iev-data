@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-12-01
+  definition: protection, generally distance protection, using telecommunication,
+    with underreach protection at each section end and in which a signal is transmitted
+    when a fault is detected by the underreach protection. Receipt of the signal at
+    the other end permits a sequential measurement by an overreach zone to initiate
+    tripping See figure 448-7. image::/assets/images/parts/448/448-fig7-en.gif[]
+  examples: []
+  id: 448-15-13
+  language_code: eng
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accelerated underreach protection
+    normative_status: preferred
+    type: expression
+  - designation: AUP
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: e413a7b1-b743-5f02-ab0d-346dd56ba191
+status: valid

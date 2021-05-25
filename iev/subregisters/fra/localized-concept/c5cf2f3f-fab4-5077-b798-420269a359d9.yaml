@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'pour une matrice carrée régulière *`A`*, matrice carrée *`A`*^−1^ telle
+    que: *`AA`*^−1^ = *`A`*^−1^*`A`* = *`E`*, où *`E`* est la matrice unité'
+  examples: []
+  id: 102-06-16
+  language_code: fra
+  notes:
+  - L'inverse d'une matrice carrée *`A`* = (`Aij`) est notée *`A`*^−1^ = (`Aij`)^−1^
+    et ses éléments (*`A`*^−1^)~`ij`~. La notation (`Aij`^−1^) ne doit pas être utilisée
+    parce qu'elle correspond à la matrice formée des inverses des éléments de *`A`*.
+  reviewDecisionEvent: published
+  terms:
+  - designation: inverse d’une matrice carrée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c5cf2f3f-fab4-5077-b798-420269a359d9
+status: valid

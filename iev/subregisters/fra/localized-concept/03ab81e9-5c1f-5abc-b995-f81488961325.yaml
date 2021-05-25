@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: puissance générée par le {{système à pile à combustible, IEV:485-09-01}}
+    disponible pour une utilisation externe
+  examples: []
+  id: 485-14-03
+  language_code: fra
+  notes:
+  - La puissance électrique nette est exprimée en W.
+  - La puissance électrique nette est la différence entre la {{puissance brute, IEV:485-14-01}}
+    et la puissance consommée par des auxiliaires.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance électrique nette
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 03ab81e9-5c1f-5abc-b995-f81488961325
+status: valid

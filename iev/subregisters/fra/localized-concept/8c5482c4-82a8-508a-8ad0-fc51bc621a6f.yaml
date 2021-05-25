@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: équivalent de référence du trajet suivi par un écho calculé en additionnant
+    l'équivalent de référence à l'émission, l'équivalent de référence à la réception
+    et l'affaiblissement du trajet suivi par cet écho entre le système émetteur et
+    le système récepteur
+  examples: []
+  id: 722-17-20
+  language_code: fra
+  notes:
+  - L'affaiblissement sur un trajet d'écho dépend habituellement de la fréquence et
+    sa contribution à l'équivalent de référence pour l'écho est déterminée par une
+    pondération en fréquence décrite dans la Recommandation G.122 du CCITT, Annexe
+    B.5, contenue dans le fascicule III.1 du Livre Rouge, 1985.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivalent de référence pour l'écho
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 8c5482c4-82a8-508a-8ad0-fc51bc621a6f
+status: valid

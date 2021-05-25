@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: définition 288
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 288, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+    - original: AIEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  definition: rapport de la concentration initiale en substance radioactive contaminante
+    à la concentration finale à la suite d'un processus de décontamination
+  examples: []
+  id: 395-08-34
+  language_code: fra
+  notes:
+  - Ce rapport peut concerner un nucléide particulier ou l’activité totale.
+  - Cet article était numéroté 393-18-47 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de décontamination
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 36a5305f-0954-5658-a31e-030ea4ae84a1
+status: valid

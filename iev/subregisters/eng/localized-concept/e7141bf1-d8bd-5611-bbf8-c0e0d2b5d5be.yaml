@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: a transformer where the packets of laminations forming the core and
+    yokes surround the windings and enclose generally the major parts of them
+  examples: []
+  id: 421-01-09
+  language_code: eng
+  notes:
+  - Generally, shell-type transformers incorporate sandwich windings.
+  - Since there are types of transformer which do not come clearly within the categories
+    of "core-type" and "shell-type", the use of these terms is deprecated. Generally
+    they can be avoided by indicating the type of windings, i.e. "concentric" or "sandwich",
+    and/or whether or not the magnetic circuit has unwound magnetic return paths.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shell-type transformer
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: e7141bf1-d8bd-5611-bbf8-c0e0d2b5d5be
+status: valid

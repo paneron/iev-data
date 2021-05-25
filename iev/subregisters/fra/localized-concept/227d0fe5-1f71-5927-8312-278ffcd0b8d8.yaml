@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{langage lié à l''ordinateur, IEV:171-05-12}} dans lequel la plupart
+    des instructions sont en correspondance biunivoque avec des {{instructions machine,
+    IEV:171-05-09}} et qui peut, en outre, comporter d''autres possibilités telles
+    que l''usage de {{macro-instructions, IEV:171-05-49}}'
+  examples: []
+  id: 171-05-15
+  language_code: fra
+  notes:
+  - Un langage d’assemblage utilise généralement des noms symboliques pour désigner
+    les opérations et les emplacements.
+  reviewDecisionEvent: published
+  terms:
+  - designation: langage d’assemblage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 227d0fe5-1f71-5927-8312-278ffcd0b8d8
+status: valid

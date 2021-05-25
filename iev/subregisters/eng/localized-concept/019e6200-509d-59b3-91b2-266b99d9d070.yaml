@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: under sinusoidal conditions, circuit-theory theorem stating that, when
+    the value of the impedance of a branch of a passive linear network is changed,
+    the electric current change in any branch is equal to the current that would be
+    produced by a source voltage inserted in the modified branch, the value of which
+    is the product of the current in this branch before the impedance is changed by
+    the impedance change
+  examples: []
+  id: 131-15-15
+  language_code: eng
+  notes:
+  - The compensation theorem can be generalized to non-sinusoidal conditions.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: compensation theorem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 019e6200-509d-59b3-91b2-266b99d9d070
+status: valid

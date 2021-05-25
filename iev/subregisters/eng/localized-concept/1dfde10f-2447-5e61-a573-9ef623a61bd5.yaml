@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: 1. the assembly, obtained by frequency division multiplexing of a specified
+    number of FDM telephone channels, normally 12, in adjacent positions in a frequency
+    band of specified width, constituting the first level in the standardized frequency
+    division multiplex hierarchy 2. a frequency band of standardized width, 48 kHz,
+    in a multichannel carrier system and occupying one of a number of specified positions
+    in the spectrum
+  examples: []
+  id: 704-10-09
+  language_code: eng
+  notes:
+  - A group is normally an assembly of 12 FDM telephone channels, each of 4 kHz bandwidth.
+    But in some systems, for example those systems used over submarine cables, a group
+    is an assembly of 16 FDM telephone channels, each of 3 kHz bandwidth.
+  - Signals, other than those derived from FDM telephone channels, may occupy the
+    whole or a part of the frequency band normally assigned to a group.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 1dfde10f-2447-5e61-a573-9ef623a61bd5
+status: valid

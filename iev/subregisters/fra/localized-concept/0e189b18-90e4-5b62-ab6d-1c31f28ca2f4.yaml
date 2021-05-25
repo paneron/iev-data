@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 221-01-20
+      original: 221-01-20 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: constante physique égale à `eh`/4π`m`~e~ où `e` est la charge électrique
+    élémentaire, `h` la constante de Planck et `m`~e~ la masse de l'électron au repos;
+    sa valeur est approximativement égale à 9,274 015 x 10^-24^ Am^2^
+  examples: []
+  id: 121-11-51
+  language_code: fra
+  notes:
+  - Le moment magnétique d'un électron libre résultant de son spin est approximativement
+    égal à 1,001 159 652 `μ`~B~.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnéton de Bohr
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 0e189b18-90e4-5b62-ab6d-1c31f28ca2f4
+status: valid

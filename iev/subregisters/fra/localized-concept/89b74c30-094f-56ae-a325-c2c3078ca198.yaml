@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur complexe pour laquelle la partie réelle est l'indice de réfraction
+    et la partie imaginaire associée à l'indice d'absorption spectral `hat n ( lambda
+    ) = n ( lambda ) - i kappa ( lambda )` où `n`(`λ`) est l'indice de réfraction
+    à la longueur d'onde `λ`, `κ`(`λ`) est l'indice d'absorption spectral et `i =
+    sqrt(- 1)`
+  examples: []
+  id: 845-24-111
+  language_code: fra
+  notes:
+  - L'unité d'indice de réfraction complexe est un.
+  - Cet article était numéroté 845-04-103 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de réfraction complexe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 89b74c30-094f-56ae-a325-c2c3078ca198
+status: valid

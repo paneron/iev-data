@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: 'a fundamental reference system of the CCITT comprising: the reference
+    apparatus for the determination of transmission performance ratings or ARAEN;
+    a band-pass filter cutting off at 300 and 3400 Hz; a device allowing specified
+    electrical background noise to be injected at the input of the receiving system
+    of the ARAEN'
+  examples: []
+  id: 722-16-23
+  language_code: eng
+  notes:
+  - The SRAEN is described in the CCITT Recommendation P44 from the Volume V of the
+    Yellow Book, 1981.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference system for the determination of AEN
+    normative_status: preferred
+    type: expression
+  - designation: SRAEN
+    type: expression
+dateAccepted: 1992-11-01
+id: 9d8f2337-f88d-5963-9b56-bbcdbc66ed53
+status: valid

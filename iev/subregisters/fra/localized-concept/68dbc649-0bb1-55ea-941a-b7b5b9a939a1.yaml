@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: loi associant le contraste apparent `Cd`, d'un objet sur un fond de
+    ciel à une distance d'observation donnée, `d`, au contraste propre `C`~0~, de
+    cet objet et à la transmissivité atmosphérique `T` réputée uniforme `C_d = C_0
+    T^(d // d_0)` où `d`~0~ est la longueur spécifiée pour la définition de `T`
+  examples: []
+  id: 845-31-020
+  language_code: fra
+  notes:
+  - 'La formule est parfois écrite sous la forme
+
+
+    `C_d = C_0 T^(delta)`
+
+
+    où l''exposant, `δ`, dans `Tδ` est la valeur numérique de `d` mesurée avec `d`~0~
+    comme "unité".'
+  - 'Compte tenu de la relation entre la transmissivité atmosphérique `T`, et la portée
+    optique météorologique, `v`, donnée à la Note 2 à l''article de la définition
+    "<a href="IEV845-31-018">portée optique météorologique</a>", la loi de Koschmieder
+    peut aussi s''écrire sous la forme
+
+
+    `C_d = C_0 ( 0,05^(d // v) )`'
+  - Le contraste est considéré comme étant le quotient de la différence entre la luminance
+    de l'objet et la luminance du fond par la luminance du fond.
+  - Cet article était numéroté 845-11-22 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi de Koschmieder
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 68dbc649-0bb1-55ea-941a-b7b5b9a939a1
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 151-13-03
+      original: 151-13-03
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-09-01
+  definition: électrode capable d'émettre des porteurs de charge négatifs vers le
+    milieu de plus faible conductivité ou de collecter des porteurs de charge positifs
+    qui en proviennent
+  examples: []
+  id: 841-22-32
+  language_code: fra
+  notes:
+  - Le sens du courant électrique va du milieu de plus faible conductivité vers le
+    circuit extérieur à travers la cathode.
+  - Dans certains cas (par exemple pour les éléments électrochimiques), le terme "cathode"
+    désigne l’une ou l’autre électrode selon le régime électrique du dispositif. Dans
+    d’autres cas (par exemple pour les tubes électroniques et les dispositifs semi-conducteurs),
+    le terme "cathode" désigne une électrode particulière.
+  reviewDate: 2004-09-01
+  reviewDecisionDate: 2004-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cathode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-09-01
+id: d648b146-f8ec-53be-a603-f03c7347ced3
+status: valid

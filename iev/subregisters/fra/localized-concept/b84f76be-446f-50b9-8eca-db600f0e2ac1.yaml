@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: '3.19'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 3.19, modifié –  Le terme "organisme" a été remplacé
+        par "organisation" pour compatibilité avec l'IEV. "partie intéressée" a été
+        spécifié comme synonyme et note à l'article respectif a été supprimé.
+      ref: IEC 62542:2013
+      relationship:
+        modification: Le terme "organisme" a été remplacé par "organisation" pour
+          compatibilité avec l'IEV. "partie intéressée" a été spécifié comme synonyme
+          et note à l'article respectif a été supprimé.
+        type: modified
+  classification: Preferred
+  definition: individu, groupe ou {{organisation, IEV:901-03-02}} qui a un intérêt
+    dans une organisation ou une activité
+  examples: []
+  id: 904-01-10
+  language_code: fra
+  notes:
+  - Généralement, une partie prenante peut influencer ou est influencée par l'organisation
+    ou l'activité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: partie prenante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: partie intéressée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b84f76be-446f-50b9-8eca-db600f0e2ac1
+status: valid

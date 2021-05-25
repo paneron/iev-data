@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: ratio of the {{RMS value, IEV:103-02-03}} of the {{fundamental component,
+    IEV:103-07-19}} of an alternating quantity to the RMS value of the quantity
+  examples: []
+  id: 103-07-23
+  language_code: eng
+  notes:
+  - For an alternating quantity `x` with RMS value `X_((eff))` and RMS fundamental
+    component `X_((1 eff))`, the fundamental factor is `g = X_((1 eff)) // X_((eff))`.
+  - The extension to a {{reference fundamental component, IEV:103-07-20}} is given
+    in {{IEV 551-20-17, IEV:551-20-17}}.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fundamental factor
+    normative_status: preferred
+    type: expression
+  - designation: relative fundamental content
+    normative_status: preferred
+    type: expression
+  - designation: '`g`'
+    international: true
+    type: symbol
+dateAccepted: 2017-07-01
+id: 4c8b2c38-9810-5137-a7c8-58487247b79e
+status: valid

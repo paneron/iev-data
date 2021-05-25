@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: multiplexing in which several independent signals are allotted orthogonal
+    signals for transmission over a common channel
+  examples: []
+  id: 704-08-08
+  language_code: eng
+  notes:
+  - In code division multiplexing, the signal elements allotted to distinguish the
+    channels are so shaped that they can be easily distinguished and separated by
+    using an appropriate operation although they may overlap in time and frequency
+    when transmitted over a common channel.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code division multiplexing
+    normative_status: preferred
+    type: expression
+  - designation: CDM
+    type: expression
+dateAccepted: 1993-08-01
+id: ebf9fbb6-5a7b-564c-a7fb-f59945be32c7
+status: valid

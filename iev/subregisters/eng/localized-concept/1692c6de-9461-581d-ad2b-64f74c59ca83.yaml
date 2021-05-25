@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: logarithm of the ratio of a given (vibratory) acceleration to the reference
+    acceleration. Acceleration level in decibels is 20 times the logarithm to the
+    base ten of the ratio
+  examples: []
+  id: 801-22-09
+  language_code: eng
+  notes:
+  - Unless otherwise specified, the reference acceleration is 1 μm/s^2^.
+  - Unless otherwise specified, the accelerations are understood to be expressed in
+    root-mean-square values.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (vibratory) acceleration level
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 1692c6de-9461-581d-ad2b-64f74c59ca83
+status: valid

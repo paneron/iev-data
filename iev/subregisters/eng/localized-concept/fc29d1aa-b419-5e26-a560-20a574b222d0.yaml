@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: winding in a synchronous, DC or single-phase commutator machine which,
+    in service, receives active power from or delivers active power to the external
+    electrical system
+  examples: []
+  id: 411-37-02
+  language_code: eng
+  notes:
+  - This definition applies also to a synchronous compensator if the term "active
+    power" is replaced by "reactive power".
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: armature winding
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: fc29d1aa-b419-5e26-a560-20a574b222d0
+status: valid

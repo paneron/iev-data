@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: an exchange which is necessarily working whenever any terminal of a
+    given set, said to be connected to this exchange, is involved in a communication;
+    this exchange usually provides an interface between the signalling particular
+    to the terminals and other types of signalling
+  examples: []
+  id: 715-08-11
+  language_code: eng
+  notes:
+  - There is at least one, and generally only one, serving connection exchange to
+    which a given terminal is interconnected by a set of lines in parallel.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: serving connection exchange
+    normative_status: preferred
+    type: expression
+  - designation: local switching exchange
+    type: expression
+dateAccepted: 1996-12-01
+id: a48aa6d5-495a-57e0-8d7c-f431c967102e
+status: valid

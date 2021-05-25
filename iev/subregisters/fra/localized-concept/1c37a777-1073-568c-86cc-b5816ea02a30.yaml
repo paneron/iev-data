@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: modèle mathématique utilisé pour la prévision ou l'estimation des mesures
+    de fiabilité
+  examples: []
+  id: 192-11-02
+  language_code: fra
+  notes:
+  - Voir l'IEC 61703, _Expressions mathématiques pour les termes de fiabilité, de
+    disponibilité, de maintenabilité et de logistique de maintenance,_ pour plus de
+    détails sur la modélisation de la fiabilité.
+  - Les techniques de modélisation peuvent s’appliquer à d’autres caractéristiques
+    de sûreté de fonctionnement, telles que la maintenabilité et la disponibilité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: modèle de fiabilité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1c37a777-1073-568c-86cc-b5816ea02a30
+status: valid

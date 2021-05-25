@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: porous region adjacent to either side of the {{electrolyte, IEV:485-03-01}},
+    containing the {{electrocatalyst, IEV:485-01-02}}, typically with ionic and electronic
+    conductivity
+  examples: []
+  id: 485-02-06
+  language_code: eng
+  notes:
+  - The catalyst layer comprises the spatial region where the electrochemical reactions
+    take place.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: catalyst layer
+    normative_status: preferred
+    type: expression
+  - designation: active layer
+    type: expression
+dateAccepted: 2020-02-01
+id: a5053ab4-320c-5bfe-91e8-45a495148f47
+status: valid

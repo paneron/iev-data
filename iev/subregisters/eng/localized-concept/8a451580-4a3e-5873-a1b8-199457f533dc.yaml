@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: equipment which typically draws more than one sample, conditions them
+    as necessary, and presents them to a sensor in aspirated equipment
+  examples: []
+  id: 426-24-50
+  language_code: eng
+  notes:
+  - This usually refers to fixed equipment where multiple samples from different detection
+    points are presented sequentially to one or more sensors.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sample system
+    normative_status: preferred
+    type: expression
+    usage_info: gas detection
+  - designation: sampling system
+    type: expression
+    usage_info: gas detection
+dateAccepted: 2020-03-01
+id: 8a451580-4a3e-5873-a1b8-199457f533dc
+status: valid

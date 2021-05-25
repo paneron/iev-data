@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-08-01
+  definition: point of a power supply network, electrically nearest to a particular
+    load, at which other loads are, or may be, connected
+  examples: []
+  id: 161-07-15
+  language_code: eng
+  notes:
+  - These loads can be either devices, equipment or systems, or distinct customer's
+    installations.
+  - In some applications, the term “point of common coupling” is restricted to public
+    networks.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point of common coupling
+    normative_status: preferred
+    type: expression
+  - designation: PCC
+    type: expression
+dateAccepted: 1990-08-01
+id: 0082ca4e-fa49-5837-bd17-4a4db753092c
+status: valid

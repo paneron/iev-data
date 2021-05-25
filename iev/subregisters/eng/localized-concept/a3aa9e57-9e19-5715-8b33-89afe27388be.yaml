@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: ratio of change produced in the equipment by a known concentration of
+    gas or vapour
+  examples: []
+  id: 426-24-57
+  language_code: eng
+  notes:
+  - Depending on context, this can refer to the minimum change in concentration of
+    gas or vapour that the equipment will detect.
+  - High sensitivity implies that low concentrations can be measured.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensitivity
+    normative_status: preferred
+    type: expression
+    usage_info: gas detectors
+dateAccepted: 2020-03-01
+id: a3aa9e57-9e19-5715-8b33-89afe27388be
+status: valid

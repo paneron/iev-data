@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a non-zero signal element, in an alternate mark inversion signal, having
+    the same polarity as the previous non-zero signal element
+  examples: []
+  id: 704-17-15
+  language_code: eng
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: alternate mark inversion violation
+    normative_status: preferred
+    type: expression
+  - designation: AMI violation
+    type: expression
+  - designation: bipolar violation
+    type: expression
+dateAccepted: 1993-08-01
+id: 6738fbb7-6671-538a-a3b9-39ec220535ff
+status: valid

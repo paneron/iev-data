@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '2.13'
+      link: https://www.iso.org/standard/57385.html
+      original: ISO/IEC Guide 71:2014, 2.13, modified – The note has been revised
+        to use the term rather than the definition and to take into consideration
+        the definition of accessibility in IEV 871-01-01
+      ref: ISO/IEC Guide 71:2014
+      relationship:
+        modification: The note has been revised to use the term rather than the definition
+          and to take into consideration the definition of accessibility in IEV 871-01-01
+        type: modified
+  dateAmended: 2018-05-01
+  definition: different ways of presenting information
+  examples: []
+  id: 871-04-20
+  language_code: eng
+  notes:
+  - Multiple means of presentation can improve {{accessibility, IEV:871-01-01}}.
+  reviewDate: 2018-05-01
+  reviewDecisionDate: 2018-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiple means of presentation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-05-01
+id: b60b37c4-9ec1-5dfb-8554-78db7b5dc738
+status: valid

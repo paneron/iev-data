@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: en un point donné d'une courbe orientée donnée, différentielle de l'abscisse
+    du point
+  examples: []
+  id: 102-05-01
+  language_code: fra
+  notes:
+  - Pour une courbe définie par le rayon vecteur *`r`* en fonction d'un paramètre
+    `u`, l'élément scalaire d'arc est `| ((d r))/((d u)) | d u`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément scalaire d'arc
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5faf452e-c725-560a-949c-8102203e8479
+status: valid

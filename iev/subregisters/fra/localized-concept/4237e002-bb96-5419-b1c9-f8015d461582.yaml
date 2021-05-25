@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} dont le changement d''état dépend
+    de la polarité en courant alternatif de sa {{grandeur d''alimentation, IEV:447-03-01}}'
+  examples:
+  - Relais directionnels à maximum de courant, {{relais mho, IEV:447-01-33}}.
+  id: 447-01-13
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais polarisé à courant alternatif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4237e002-bb96-5419-b1c9-f8015d461582
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 equal to the ratio of displacement Δ`x` of one
+    surface of a layer of thickness `d` to the other surface parallel to it, to this
+    thickness, thus `γ` = Δ`x` / `d`
+  examples: []
+  id: 113-03-59
+  language_code: eng
+  notes:
+  - In anisotropic media, shear strain may depend on the orientation of the layer
+    and may be described by a tensor.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shear strain
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: d147bbbd-040c-5475-add9-fbed904d3c9b
+status: valid

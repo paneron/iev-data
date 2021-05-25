@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: ratio of the phasor representing the reflected electric current to the
+    phasor representing the incident current at a port of an electric network or close
+    to a discontinuity in a transmission line
+  examples: []
+  id: 131-15-32
+  language_code: eng
+  notes:
+  - 'When impedances can be defined, the complex current reflection factor equals:
+
+
+    `(underset(_)(r))_I = ((underset(_)(Z) - underset(_)(Z) ''))/((underset(_)(Z)
+    + underset(_)(Z) ''))`
+
+
+    where <u>`Z`</u> is the characteristic impedance of the transmission line ahead
+    of the discontinuity or the impedance of the source, and <u>`Z`</u>′ is the impedance
+    after the discontinuity or the load impedance seen from the junction between the
+    source and the load.'
+  - The term "complex current reflection factor" may be shortened by omitting the
+    qualifier "complex" in an appropriate context.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex current reflection factor
+    normative_status: preferred
+    type: expression
+  - designation: complex current reflection coefficient
+    normative_status: preferred
+    type: expression
+  - designation: <u>`r`</u>~`I`~
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: b2181bba-d7f4-582c-ae29-0ed072d0baea
+status: valid

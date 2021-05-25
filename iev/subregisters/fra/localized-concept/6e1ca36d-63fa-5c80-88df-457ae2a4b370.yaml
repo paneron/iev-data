@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: biporte passif linéaire destiné à fournir un signal de sortie de puissance
+    inférieure à celle du signal d'entrée, sans modifier les autres caractéristiques
+    du signal
+  examples: []
+  id: 702-09-15
+  language_code: fra
+  notes:
+  - L'affaiblissement produit par un affaiblisseur peut être fixe ou réglable.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblisseur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: atténuateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 6e1ca36d-63fa-5c80-88df-457ae2a4b370
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: for a homogeneous isotropic medium of substantially infinite thickness
+    limited by a plane surface, the depth at which the electric field of a sinusoidal
+    uniform plane wave penetrating the medium and propagating normally to its surface
+    is attenuated in the ratio 1/e
+  examples: []
+  id: 705-03-25
+  language_code: eng
+  notes:
+  - The penetration depth expressed in metres is equal to the reciprocal of the attenuation
+    coefficient, expressed in neper per metre, in the medium that the wave penetrates.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: penetration depth
+    normative_status: preferred
+    type: expression
+  - designation: skin depth
+    type: expression
+dateAccepted: 1995-09-01
+id: 04c47439-e6fe-5d43-ac13-bea7952053da
+status: valid

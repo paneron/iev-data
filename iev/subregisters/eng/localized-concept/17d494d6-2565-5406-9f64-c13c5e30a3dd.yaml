@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: pertaining to an alternating quantity represented by the product of
+    a real constant and a sine or cosine function whose argument is a linear function
+    of the independent variable
+  examples: []
+  id: 103-07-01
+  language_code: eng
+  notes:
+  - The real constant may be a scalar, vector or tensor quantity.
+  - Examples are `a ( t ) = hat A cos ( omega t + vartheta_0 )` and `a ( x ) = hat
+    A cos k ( x - x_0 )`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sinusoidal
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2009-12-01
+id: 17d494d6-2565-5406-9f64-c13c5e30a3dd
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: maximum magnetic field strength below which a type II superconductor
+    is in the mixed state
+  examples: []
+  id: 815-10-24
+  language_code: eng
+  notes:
+  - '`H`~c2~ is a function of temperature.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: upper critical field strength
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~c2~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 986f41c8-1a9a-500c-a78b-89d17c3d0c7f
+status: valid

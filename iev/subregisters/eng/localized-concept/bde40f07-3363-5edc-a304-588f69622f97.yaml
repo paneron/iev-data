@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: capacitance which shunts the input port of the resonator equivalent
+    circuit image::/assets/images/parts/561/561-fig4-en.png[] *Figure 4 – Equivalent
+    circuit for a two-port SAW resonator*
+  examples: []
+  id: 561-01-39
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: input capacitance
+    normative_status: preferred
+    type: expression
+    usage_info: of a two-port SAW resonator
+  - designation: '`C`~in~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: bde40f07-3363-5edc-a304-588f69622f97
+status: valid

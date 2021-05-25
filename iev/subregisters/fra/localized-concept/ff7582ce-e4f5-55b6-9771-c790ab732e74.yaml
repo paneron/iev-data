@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: unité d'information quantique dans un système informatique quantique
+    composé de circuits supraconducteurs, notamment des jonctions Josephson
+  examples: []
+  id: 815-16-56
+  language_code: fra
+  notes:
+  - Il existe trois types de bits quantiques supraconducteurs, classés en fonction
+    des degrés de liberté quantique qu’ils utilisent. Le premier type utilise des
+    états déterminés par le nombre de paires de Cooper (bit quantique en charge);
+    le deuxième utilise la direction d’un courant persistant dans une boucle supraconductrice
+    (bit quantique en flux); le troisième utilise les états déterminés par l’oscillation
+    quantique de la différence de phase entre les électrodes d’une jonction Josephson
+    (bit quantique en phase).
+  reviewDecisionEvent: published
+  terms:
+  - designation: bit quantique supraconducteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: qubit supraconducteur
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ff7582ce-e4f5-55b6-9771-c790ab732e74
+status: valid

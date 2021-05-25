@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-05-01
+  definition: subspace of dimension 1 in a point space
+  examples: []
+  id: 102-04-02
+  language_code: eng
+  notes:
+  - A straight line passing through a point O is the set of points P with position
+    vector `r_P = alpha V`, where `α` is a scalar and *`V`* a non-zero vector of the
+    vector space associated with the point space.
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: straight line
+    normative_status: preferred
+    type: expression
+  - designation: line
+    normative_status: preferred
+    type: expression
+    usage_info: in mathematics
+dateAccepted: 2020-05-01
+id: f11d78d1-2117-5e36-b55b-a12e043715dc
+status: valid

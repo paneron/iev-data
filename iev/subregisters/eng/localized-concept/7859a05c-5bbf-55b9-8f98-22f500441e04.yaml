@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.14
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.14
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: <a href="IEV741-02-501">computational element</a> and/or {{data element,
+    IEV:171-02-01}}
+  examples: []
+  id: 741-01-14
+  language_code: eng
+  notes:
+  - A digital entity can exist as a {{cloud service, IEV:741-01-08}} or as a {{service,
+    IEV:741-01-28}} in a <a href="IEV741-01-501">data centre</a>, or as a {{network,
+    IEV:741-01-25}} element or as an {{IoT gateway, IEV:741-02-06}}.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digital entity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 7859a05c-5bbf-55b9-8f98-22f500441e04
+status: valid

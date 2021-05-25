@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: angle sous-tendu par un objet ou un détail au point d'observation
+  examples: []
+  id: 845-22-079
+  language_code: fra
+  notes:
+  - L'unité SI pour l'angle visuel est le rad, bien que celui-ci puisse également
+    être mesuré en milliradian, degré ou minute d'arc.
+  - Voir aussi "<a href="IEV845-25-085">étendue angulaire</a>".
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle visuel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 38c3b620-01cf-5508-a288-6135f9b78da5
+status: valid

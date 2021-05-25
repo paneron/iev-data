@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: pour un nucléide émetteur de rayonnement X ou gamma, quotient par l'activité
+    `A` d'une source ponctuelle de cet émetteur, du produit du débit d'exposition
+    (d`Х`/d`t`)~`δ`~ dû à des photons d'une énergie supérieure à `δ`, à une distance
+    donnée `l` de cette source par le carré de la distance `Gamma_(delta) = ((l^2))/(A)
+    (( ((d X))/((d t)) ))_(delta)` La constante de débit d'exposition s'exprime en
+    Rm^2^h^−1^Ci^−1^ ou un autre multiple approprié de cette unité.
+  examples: []
+  id: 881-04-54
+  language_code: fra
+  notes:
+  - On admet que l'atténuation dans la source et le long de la distance `l` est négligeable.
+    Dans le cas du radium, on détermine `Γ` pour une épaisseur de filtre de 0,5 mm
+    de platine. En outre, `Γ` se rapporte non pas à l'activité nucléaire, mais à la
+    masse de ^226^Ra; il s'exprime alors en Rm^2^h^−1^g^−1^ ou tout autre multiple
+    approprié de cette unité.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de débit d'exposition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 1f89c7f3-826d-56d3-bc74-9dc441b520ba
+status: valid

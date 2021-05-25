@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: mode of operation of a triggered time base in which the beginning of
+    every sweep coincides with a predetermined point of the displayed quantity, thus
+    producing a stable display when this quantity is periodic
+  examples: []
+  id: 314-06-12
+  language_code: eng
+  notes:
+  - In triggered sweep mode, the internal trigger signal can be produced to correspond
+    with any predetermined value of the displayed quantity on either the positive-going
+    or negative-going slopes.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: triggered sweep
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 018bb9ac-e70e-51a9-96ba-713ef3724392
+status: valid

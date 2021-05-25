@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 603-05-08
+      link: https://webstore.iec.ch/publication/227
+      original: IEC 60050-603:1986, 603-05-08, modifié – La définition a été révisée
+        afin de faire référence au concept indisponibilité fortuite défini en 692-04-04
+      ref: IEC 60050-603:1986
+      relationship:
+        modification: La définition a été révisée afin de faire référence au concept
+          indisponibilité fortuite défini en 692-04-04
+        type: modified
+  definition: '{{indisponibilité fortuite, IEV:692-04-04}} qui ne peut être différée
+    image::/assets/images/parts/692/692-fig4-fr.png[Figure 4 - Relations entre indisponibilités]'
+  examples: []
+  id: 692-04-05
+  language_code: fra
+  notes:
+  - Une indisponibilité non différable peut être déclenchée par des moyens automatiques
+    ou manuels. Dans le premier cas, elle est désignée comme une indisponibilité automatique
+    non différable et dans le second cas, comme une indisponibilité manuelle non différable.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité non différable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: indisponibilité forcée
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fff9845b-f287-5647-ae7d-1917759ffea1
+status: valid

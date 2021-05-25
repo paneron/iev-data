@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: '3.9'
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.9, modified – Note 2 to entry added. "value",
+        “supply” and “phase-to-phase voltage”  replaced by "rated value", "power supply"
+        and "line-to-line voltage" respectively for conformity with the IEV.
+      ref: IEC 60664-1:2007
+      relationship:
+        modification: Note 2 to entry added. "value", “supply” and “phase-to-phase
+          voltage”  replaced by "rated value", "power supply" and "line-to-line voltage"
+          respectively for conformity with the IEV.
+        type: modified
+  dateAmended: 2014-11-01
+  definition: '{{rated value, IEV:151-16-08}} of the voltage assigned by the manufacturer
+    to a component, device or equipment and to which operation and performance characteristics
+    are referred'
+  examples: []
+  id: 442-09-10
+  language_code: eng
+  notes:
+  - Equipment may have more than one rated voltage value or may have a rated voltage
+    range.
+  - For three-phase {{power supply, IEV:151-13-75}}, the {{line-to-line voltage, IEV:195-05-01}}
+    applies.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: f485139f-dee8-5db6-b946-0aad183f6b11
+status: valid

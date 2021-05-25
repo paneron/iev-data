@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{interval, IEV:103-01-12}} for which the {{measuring relay, IEV:447-01-02}}
+    or {{protection equipment, IEV:447-01-49}} under specified conditions is able
+    to perform its intended function(s) in accordance with the specified requirements
+    Note 1 to entry: When {{accuracy, IEV:447-08-16}} requirements have to be met,
+    see {{"effective range", IEV:447-07-08}}.'
+  examples: []
+  id: 447-03-16
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: operating range
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: b27a693f-a540-585f-91ce-780e8dc4add4
+status: valid

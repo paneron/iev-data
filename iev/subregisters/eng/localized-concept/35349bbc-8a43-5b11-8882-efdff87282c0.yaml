@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: member of a set of two elements used to represent {{information, IEV:701-01-01}}
+  examples: []
+  id: 702-05-03
+  language_code: eng
+  notes:
+  - The term “unit element” is defined in {{IEV 721-02-33, IEV:721-02-33}}.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: binary digit
+    normative_status: preferred
+    type: expression
+  - designation: bit
+    normative_status: preferred
+    type: expression
+  - designation: unit element
+    normative_status: deprecated
+    type: expression
+  - designation: unit
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2016-12-01
+id: 35349bbc-8a43-5b11-8882-efdff87282c0
+status: valid

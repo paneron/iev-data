@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: source idéale de tension ou source idéale de courant dont la grandeur
+    de sortie dépend d'une tension ou d'un courant extérieur
+  examples: []
+  id: 131-12-26
+  language_code: fra
+  notes:
+  - Un exemple de source dépendante est la source de courant commandée par un courant
+    dans le circuit équivalent à un transistor.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: source dépendante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: source commandée
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: be3f48e8-6be8-50a6-a48d-c82480023e02
+status: valid

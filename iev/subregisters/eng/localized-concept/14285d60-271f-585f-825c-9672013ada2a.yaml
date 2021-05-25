@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1983-01-01
+  definition: 'the quotient of d`Ψ` by d`t` where d`Ψ` is the increment of energy
+    fluence in the time interval d`t`: `Psi = ((d Psi))/((d t))`'
+  examples: []
+  id: 881-04-23
+  language_code: eng
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energy fluence rate
+    normative_status: preferred
+    type: expression
+  - designation: energy flux density
+    normative_status: preferred
+    type: expression
+  - designation: '`ψ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 14285d60-271f-585f-825c-9672013ada2a
+status: valid

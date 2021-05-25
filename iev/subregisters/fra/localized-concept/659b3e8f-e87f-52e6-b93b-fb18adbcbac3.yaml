@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: le plus grand débit de justification compatible avec un procédé de justification
+    donné
+  examples: []
+  id: 704-21-11
+  language_code: fra
+  notes:
+  - En pratique, les tolérances admises sur les débits numériques du signal numérique
+    original et de la suite des créneaux temporels élémentaires destinée à sa transmission
+    doivent être telles que le débit de justification soit toujours inférieur au débit
+    maximal de justification.
+  - En anglais, il est fortement conseillé de remplacer le terme "maximum justification
+    rate" par le terme "justification capacity" à cause de la confusion possible avec
+    le terme "maximum justification ratio", qui représente une notion différente.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit maximal de justification
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: capacité de justification
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 659b3e8f-e87f-52e6-b93b-fb18adbcbac3
+status: valid

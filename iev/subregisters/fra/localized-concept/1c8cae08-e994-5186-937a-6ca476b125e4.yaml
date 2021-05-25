@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: quotient de la longueur d'un trajet par le {{temps de propagation de
+    signal, IEV:702-02-21}} sur ce trajet
+  examples: []
+  id: 702-02-23
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de signal
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: vitesse d'enveloppe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1c8cae08-e994-5186-937a-6ca476b125e4
+status: valid

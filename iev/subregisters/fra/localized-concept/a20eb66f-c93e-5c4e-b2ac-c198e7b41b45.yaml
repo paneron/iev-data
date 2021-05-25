@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système basé sur l'intégration d'une {{cellule élémentaire à combustible,
+    IEV:485-08-01}}, généralement <a href="IEV485-08-0">pile à combustible à carbonates
+    fondus</a> ou {{pile à combustible à oxyde solide, IEV:485-08-10}}, et d'une turbine
+    à gaz
+  examples: []
+  id: 485-09-19
+  language_code: fra
+  notes:
+  - Le système fonctionne en utilisant l'énergie thermique de la pile à combustible
+    et le combustible résiduel pour faire fonctionner la turbine à gaz.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système à pile à combustible/turbine à gaz
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: système hybride pile à combustible/turbine à gaz
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a20eb66f-c93e-5c4e-b2ac-c198e7b41b45
+status: valid

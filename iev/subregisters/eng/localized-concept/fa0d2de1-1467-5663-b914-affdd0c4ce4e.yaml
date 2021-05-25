@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: state quantity of a system equal to its internal energy `U` decreased
+    by the product of thermodynamic temperature `T` and entropy `S`, thus `F` = `U`
+    − `TS`
+  examples: []
+  id: 113-04-24
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Helmholtz free energy
+    normative_status: preferred
+    type: expression
+  - designation: Helmholtz energy
+    normative_status: preferred
+    type: expression
+  - designation: free energy
+    normative_status: preferred
+    type: expression
+  - designation: Helmholtz function
+    normative_status: preferred
+    type: expression
+  - designation: '`F`
+
+      `A`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: fa0d2de1-1467-5663-b914-affdd0c4ce4e
+status: valid

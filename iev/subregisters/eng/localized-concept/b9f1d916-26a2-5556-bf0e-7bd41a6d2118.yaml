@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: physical constant used to express the magnetic moment of an electron
+    `e h`/4` π m` ≈ (9,274 078 ± 0,000 036) x 10^−24^ Am^2^ where `e` is the elementary
+    charge, `h` the Planck's constant, and `m` the electron rest mass
+  examples: []
+  id: 221-01-20
+  language_code: eng
+  notes:
+  - The numerical value quoted is that adopted by the International Union of Pure
+    and Applied Physics (IUPAP).
+  - The magnetic moment of a free electron due to its spin is approximately equal
+    to 1,001`μ`~B~.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Bohr magneton
+    normative_status: preferred
+    type: expression
+  - designation: '`µ`~B~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: b9f1d916-26a2-5556-bf0e-7bd41a6d2118
+status: valid

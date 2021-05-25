@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: méthode de synchronisation entre deux noeuds de synchronisation, telle
+    que la fréquence de l'horloge d'un seul de ces noeuds est influencée par une information
+    temporelle provenant de l'horloge de l'autre noeud
+  examples: []
+  id: 704-15-17
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: synchronisation unilatérale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: commande unilatérale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: ac0c10b0-c300-53ec-bcd9-071749ebec8d
+status: valid

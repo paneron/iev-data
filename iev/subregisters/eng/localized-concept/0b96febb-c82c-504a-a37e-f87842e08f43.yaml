@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: temperature, as measured on the enclosure, at which certain resonator
+    measurements are made
+  examples: []
+  id: 561-01-76
+  language_code: eng
+  notes:
+  - For controlled temperature resonators, the reference temperature is the mid-point
+    of the controlled temperature range. For non-controlled temperature resonators,
+    the reference temperature is normally 25 °C ± 2 °C.
+  - This entry was numbered 561-02-24 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference temperature
+    normative_status: preferred
+    type: expression
+    usage_info: of a resonator
+dateAccepted: 2014-11-01
+id: 0b96febb-c82c-504a-a37e-f87842e08f43
+status: valid

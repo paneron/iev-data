@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '3.10'
+      original: IEC Guide 116:2010, 3.10
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: 'measure intended to achieve adequate {{risk, IEV:903-01-07}} reduction,
+    implemented: * by the designer (inherent design, safeguarding and complementary
+    protective measures, information for use) and * by the user (organization: safe
+    working procedures, supervision, training; permit-to-work systems; provision and
+    use of additional safeguards; use of personal protective equipment)'
+  examples: []
+  id: 903-01-17
+  language_code: eng
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protective measure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: b6daeec4-cdea-5e89-8a42-41ab4c7764c8
+status: valid

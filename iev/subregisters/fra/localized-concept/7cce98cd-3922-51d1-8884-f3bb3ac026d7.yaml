@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: quantité numériquement égale à la plus petite fréquence de modulation
+    pour laquelle le module de la fonction de transfert en bande de base devient égal
+    à une fraction spécifiée, généralement la moitié, de sa valeur à la fréquence
+    zéro
+  examples: []
+  id: 731-01-52
+  language_code: fra
+  notes:
+  - La largeur de bande est principalement limitée dans les fibres multimodales par
+    la distorsion modale et la dispersion du matériau, dans les fibres unimodales
+    par la dispersion du matériau et la dispersion de guidage.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: largeur de bande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 7cce98cd-3922-51d1-8884-f3bb3ac026d7
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une matrice carrée *`A`* d'ordre `n` et d'éléments réels ou complexes
+    `Aij`, nombre non négatif `‖ A ‖ = sqrt(tr ( A A^H )) = sqrt(sum_((i , j = 1))^n
+    | A_((i j)) |^2)`
+  examples: []
+  id: 102-06-22
+  language_code: fra
+  notes:
+  - La norme décrite est la «norme euclidienne» ou la «norme hermitienne», pour des
+    éléments réels ou complexes, respectivement. Plusieurs autres normes de matrices
+    peuvent être définies. Toute norme de matrice a des propriétés semblables à celles
+    de la norme d'un vecteur (voir la Note 1 à l’article dans {{IEV 102-03-23, IEV:102-03-23}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: norme d’une matrice
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 891bf477-5fb4-54f4-b3cc-7c39d48faeb0
+status: valid

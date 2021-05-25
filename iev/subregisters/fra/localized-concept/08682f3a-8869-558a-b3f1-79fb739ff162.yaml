@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: élément d'un schéma fonctionnel à partir duquel une même grandeur variable
+    est reliée aux entrées de plusieurs éléments du schéma fonctionnel
+  examples: []
+  id: 351-44-07
+  language_code: fra
+  notes:
+  - Le point de branchement est représenté par un point (voir Figure 2).
+  - 'Cet article était numéroté 351-23-07 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point de branchement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 08682f3a-8869-558a-b3f1-79fb739ff162
+status: valid

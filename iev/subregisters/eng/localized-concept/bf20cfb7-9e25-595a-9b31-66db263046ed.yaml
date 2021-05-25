@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 604-04-23
+      original: 604-04-23 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 891-02-69
+      original: 891-02-69 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: maximum value of electric current through the body of a person at which
+    that person can release himself or herself
+  examples: []
+  id: 195-03-09
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: let-go threshold (current)
+    normative_status: preferred
+    type: expression
+  - designation: releasing current
+    type: expression
+  - designation: let-go current
+    type: expression
+dateAccepted: 1998-08-01
+id: bf20cfb7-9e25-595a-9b31-66db263046ed
+status: valid

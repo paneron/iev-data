@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.11
+      original: IEC TS 80004-9:2017, 3.1.11
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: montage en série de conducteurs ou de matériaux conducteurs interconnectés
+    par des contacts à l'{{échelle nanométrique, IEV:511-01-03}} qui peuvent transmettre
+    l'énergie électrique
+  examples: []
+  id: 511-01-22
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: interconnexion électrique à l'échelle nanométrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: interconnexion nanométrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 173077ad-4c12-58e4-99e6-0aa0d4800dd5
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.7
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.7
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: concept qui permet l'accès en {{réseau, IEV:741-01-25}} à un ensemble
+    modulable et variable de ressources physiques ou virtuelles partageables avec
+    autoapprovisionnement et administration à la demande
+  examples: []
+  id: 741-01-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: informatique en nuage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e2de3abc-bb7d-5644-a29e-da388aa188cc
+status: valid

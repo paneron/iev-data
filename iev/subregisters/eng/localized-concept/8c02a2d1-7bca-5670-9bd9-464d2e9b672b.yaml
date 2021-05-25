@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-08-01
+  definition: temperature below which a magnetic substance is ferromagnetic or ferrimagnetic
+    and above which it is paramagnetic
+  examples: []
+  id: 121-12-51
+  language_code: eng
+  notes:
+  - The term “Curie temperature” is also used to characterize a change of phase in
+    non-magnetic materials, e.g. in piezoelectric crystals and in piezoceramics. These
+    materials lose their piezoelectric behaviour above the Curie temperature, and
+    the process is only reversible under specific conditions.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Curie temperature
+    normative_status: preferred
+    type: expression
+  - designation: Curie point
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 8c02a2d1-7bca-5670-9bd9-464d2e9b672b
+status: valid

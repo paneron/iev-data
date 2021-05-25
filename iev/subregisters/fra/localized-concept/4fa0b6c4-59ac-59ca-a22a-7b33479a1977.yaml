@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux lumineux de fonctionnement de secours de la lampe électrique
+    alimentée par le ballast de fonctionnement de secours par le flux lumineux de
+    la même lampe fonctionnant avec le ballast de référence approprié à sa tension
+    et à sa fréquence assignées
+  examples: []
+  id: 845-29-083
+  language_code: fra
+  notes:
+  - Le facteur de flux lumineux d'un ballast en mode de fonctionnement de secours
+    représente la valeur minimale des valeurs mesurées entre le point d'interruption
+    de l'alimentation normale en continu et la fin de la durée assignée.
+  - L'unité de facteur de flux lumineux d'un ballast en mode de fonctionnement de
+    secours est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de flux lumineux d'un ballast en mode de fonctionnement de
+      secours
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4fa0b6c4-59ac-59ca-a22a-7b33479a1977
+status: valid

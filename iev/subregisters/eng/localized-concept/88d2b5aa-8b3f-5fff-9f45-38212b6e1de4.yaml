@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 151-11-27
+      link: https://webstore.iec.ch/publication/176
+      original: IEC 60050-151:2001, 151-11-27, modified by extension to suit the dependability
+        context
+      ref: IEC 60050-151:2001
+      relationship:
+        modification: by extension to suit the dependability context
+        type: modified
+  dateAmended: 2015-02-01
+  definition: set of interrelated items that collectively fulfil a requirement
+  examples: []
+  id: 192-01-03
+  language_code: eng
+  notes:
+  - A system is considered to have a defined real or abstract boundary.
+  - External resources (from outside the system boundary) may be required for the
+    system to operate.
+  - A system structure may be hierarchical, e.g. system, subsystem, component, etc.
+  - Conditions of use and maintenance should be expressed or implied within the requirement.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: system
+    normative_status: preferred
+    type: expression
+    usage_info: in dependability
+dateAccepted: 2015-02-01
+id: 88d2b5aa-8b3f-5fff-9f45-38212b6e1de4
+status: valid

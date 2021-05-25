@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: irradiation ou mesurage des matériaux réfléchissants selon un angle
+    de 8° par rapport à la perpendiculaire, à un angle d'azimut
+  examples: []
+  id: 845-25-095
+  language_code: fra
+  notes:
+  - La géométrie de degré huit permet de remplacer la géométrie directionnelle de
+    degré 0 dans de nombreuses applications pratiques de mesurages de réflexion, étant
+    donné qu'elle permet de différencier les mesurages des composants spéculaires
+    inclus des mesurages des composants spéculaires exclus.
+  - Cette géométrie se limite aux mesurages utilisant une sphère intégrante comme
+    cela est décrit dans la CIE 15, `Colorimetry`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: géométrie de degré huit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cfe499d9-f297-55b2-ad75-33582b5c42f4
+status: valid

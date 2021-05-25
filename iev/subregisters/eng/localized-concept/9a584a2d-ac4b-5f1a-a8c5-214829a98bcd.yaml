@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.5
+      original: IEC/PAS 62596:2009, definition 3.1.5, modified – to make wording compliant
+        with IEC rules, part of the original definition is now in the Note to entry
+        and part of the original NOTE is now in the definition.
+      ref: IEC/PAS 62596:2009
+      relationship:
+        modification: to make wording compliant with IEC rules, part of the original
+          definition is now in the Note to entry and part of the original NOTE is
+          now in the definition.
+        type: modified
+  dateAmended: 2014-11-01
+  definition: '{{process, IEV:904-01-05}} whereby an item is taken apart in such a
+    way that it could subsequently be reassembled and made operational'
+  examples: []
+  id: 904-04-01
+  language_code: eng
+  notes:
+  - The process typically uses simple tools, such as screwdrivers, pliers and wrenches.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: disassembly
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 9a584a2d-ac4b-5f1a-a8c5-214829a98bcd
+status: valid

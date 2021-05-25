@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: signal d'insertion employé pour la vérification de la qualité de transmission
+    des signaux d'image
+  examples: []
+  id: 723-05-85
+  language_code: fra
+  notes:
+  - Ces signaux peuvent êtrе utilisés pour la correction automatique de certains défauts.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal d'essai (d'insertion)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SEI
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: signal de référence (d'insertion)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SRI
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: b62b4e3b-a9ae-5829-bb43-14d37d062f69
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: reactive L-network derived from a prototype L-section filter in such
+    a way that the pass-band(s) and stop-band(s) are the same and that one and only
+    one image impedance is left unchanged with the same direction
+  examples: []
+  id: 131-15-40
+  language_code: eng
+  notes:
+  - Either the impedance of the series branch is multiplied by `m`, or the impedance
+    of the shunt branch is divided by `m`.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`m`-derived L-section filter'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 48ae5f08-1bac-5644-b9c4-97948f64b7f2
+status: valid

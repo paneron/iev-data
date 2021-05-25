@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: actions du système de commande, basées sur les paramètres du procédé,
+    prises pour éviter les conditions qui peuvent être dangereuses pour les personnes
+    ou peuvent causer des dommages sur la {{cellule élémentaire à combustible, IEV:485-08-01}}
+    ou son environnement
+  examples: []
+  id: 485-09-15
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: sécurité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des cellules élémentaires à combustible
+  - designation: garde-fou
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: des cellules élémentaires à combustible
+dateAccepted: 2018-11-17
+id: 0fd56a9e-f69e-52ec-b418-d4102a13c0d0
+status: valid

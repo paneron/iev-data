@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: light, reflected from an imaging medium, that has not been modulated
+    by the means used to produce the image
+  examples: []
+  id: 845-32-066
+  language_code: eng
+  notes:
+  - Veiling glare lightens and reduces the contrast of the darker parts of an image.
+  - Formerly the English term "ambient flare" and the French term "lumière parasite
+    ambiante" were used, but these terms are deprecated.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: veiling glare
+    normative_status: preferred
+    type: expression
+    usage_info: imaging
+  - designation: ambient flare
+    normative_status: deprecated
+    type: expression
+    usage_info: imaging
+dateAccepted: 2020-12-01
+id: e45b8cf9-24c4-5918-b0f7-8c3058fdac4b
+status: valid

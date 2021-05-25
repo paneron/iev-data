@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: défaut d'isolement affectant en un même point d'un circuit électrique
+    triphasé, l'ensemble des isolations des trois conducteurs de phase entre eux et
+    généralement à la terre
+  examples: []
+  id: 614-02-20
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaut d'isolement triphasé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: défaut symétrique
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6e3b278a-fb85-54a0-b623-6a9c80ffc732
+status: valid

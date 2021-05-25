@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{distance relay, IEV:447-01-32}}, whose characteristic, when plotted
+    on a rectangular coordinate system with {{resistance, IEV:131-12-04}} as X axis
+    and {{reactance, IEV:131-12-46}} as Y axis, is a circle, the circumference of
+    which does not pass through the origin Note 1 to entry: Other than in the designation
+    of relays, the term "mho" (reciprocal of the term "ohm") has been replaced by
+    "siemens" (1 S = 1 / Ω) as an SI unit of electric conductance.'
+  examples: []
+  id: 447-01-48
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: offset mho relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 1503ad4a-723d-5d16-9961-0e9123414683
+status: valid

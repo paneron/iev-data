@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: puissance en kVA empruntée au réseau d'alimentation par le groupe radiogène.
+    En monophasé, elle est égale au produit de la tension nominale d'alimentation
+    par le courant nominal d'alimentation. En triphasé, il faut multiplier ce produit
+    par √3
+  examples: []
+  id: 881-07-04
+  language_code: fra
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance nominale maximale au réseau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: fb2534ca-7c05-5fc8-bc15-11b65e087566
+status: valid

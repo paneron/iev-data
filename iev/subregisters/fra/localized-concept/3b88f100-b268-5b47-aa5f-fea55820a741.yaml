@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{circuit d''entrée, IEV:447-03-07}} autre que le circuit concernant
+    la ou les {{grandeurs d''alimentation d''entrée, IEV:447-03-02}}'
+  examples: []
+  id: 447-03-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit auxiliaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un relais de mesure ou d'un équipement de protection
+dateAccepted: 2018-11-17
+id: 3b88f100-b268-5b47-aa5f-fea55820a741
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{signal, IEV:701-01-02}} composé d''une suite temporelle d''éléments,
+    chacun ayant une ou plusieurs caractéristiques, telles que sa {{durée, IEV:113-01-13}},
+    sa position dans le temps, sa forme, sa hauteur, qui représentent des {{informations,
+    IEV:701-01-01}}'
+  examples: []
+  id: 702-04-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal temporel discret
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: signal discret
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 693f004f-6e48-5f7b-8236-fee0dad89cf4
+status: valid

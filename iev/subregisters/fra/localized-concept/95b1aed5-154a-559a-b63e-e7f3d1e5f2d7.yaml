@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: 'grandeur qui caractérise la dispersion du matériau par l''expression:
+    `M ( lambda ) = - (1)/((c_0)) ((d N))/((d lambda)) = ((lambda d^2 n))/((c_0 d
+    lambda^2))` où `N` est l''indice de groupe, `n` est l''indice de réfraction, `λ`
+    est la longueur d''onde dans le vide, `c`~0~ est la vitesse de la lumière dans
+    le vide'
+  examples: []
+  id: 731-03-76
+  language_code: fra
+  notes:
+  - Les fibres optiques sont généralement constituées de substances pour lesquelles
+    le coefficient de dispersion du matériau est nul à une longueur d'onde `λ`~0~
+    voisine de 1 300 nm. Par convention, la grandeur `M` est positive pour les longueurs
+    d'onde plus petites que `λ`~0~ et négative pour les longueurs d'onde plus grandes.
+  - L'élargissement d'une impulsion dû à la dispersion du matériau sur une longueur
+    unité de fibre optique est le produit de `M` par la largeur spectrale du rayonnement,
+    sauf au voisinage de `λ`~0~ où les termes du second degré par rapport à cette
+    largeur spectrale deviennent importants.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de dispersion du matériau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 95b1aed5-154a-559a-b63e-e7f3d1e5f2d7
+status: valid

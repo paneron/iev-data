@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: 'énergie communiquée par un rayonnement ionisant à un volume donné de
+    matière, égale à: `epsilon = sum epsilon_((in)) - sum epsilon_((ex)) + sum Q`
+    où Σ`ε`~in~ est la somme des énergies, à l''exclusion des énergies au repos, de
+    toutes les particules directement et indirectement ionisantes ayant pénétré dans
+    le volume; Σ`ε`~ex~ est la somme des énergies, à l''exclusion des énergies au
+    repos, de toutes les particules directement ou indirectement ionisantes ayant
+    quitté le volume; Σ`Q` est la somme de toutes les énergies développées dans les
+    réactions nucléaires, transformations et interactions entre particules élémentaires
+    qui ont eu lieu dans ce volume'
+  examples: []
+  id: 881-12-43
+  language_code: fra
+  notes:
+  - '`ε` est une grandeur aléatoire.'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie communiquée à la matière
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 6f7bb127-2cf5-5461-a58a-074b030272d4
+status: valid

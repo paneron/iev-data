@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: niveau de pression acoustique de la parole, mesuré dans une bande de
+    fréquences spécifiée, en utilisant la caractéristique de pondération temporelle
+    exponentielle F (rapide), pour lequel 50% des mots relativement simples sont clairement
+    reconnus
+  examples: []
+  id: 801-29-46
+  language_code: fra
+  notes:
+  - Pour la caractéristique de pondératiоn temporelle F, voir la CEI 651 (1979).
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: seuil d'intelligibilité vocale
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 83c3e0e0-6e21-52ce-980b-ca1fff140dc3
+status: valid

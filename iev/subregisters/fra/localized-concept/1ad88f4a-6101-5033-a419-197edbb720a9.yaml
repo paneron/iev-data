@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.13
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.5.13, modifié – La définition a été réécrite.
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: La définition a été réécrite.
+        type: modified
+  definition: procédé de création d'une microstructure qui peut être utilisé en tant
+    que moule en utilisant la lithographie profonde, basé sur des rayons X suivi d'un
+    électroformage
+  examples: []
+  id: 523-05-06
+  language_code: fra
+  notes:
+  - Le terme abrégé "LIGA" est dérivé du terme allemand développé correspondant "Lithographie,
+    Galvanoformung und Abformung", signifiant lithographie, {{électroformage, IEV:523-05-17}}
+    et moulage. Les caractéristiques du procédé LIGA incluent la capacité de produire
+    en masse des microstructures à {{rapport largeur/longueur, IEV:523-07-04}} élevé,
+    avec une largeur de trait de 1 µm à 10 µm et une hauteur de plusieurs centaines
+    de micromètres, l’utilisation potentielle d’une large gamme de matériaux, y compris
+    le plastique, les métaux et la céramique, et la combinaison possible avec les
+    éléments à {{semiconducteurs, IEV:521-02-01}} de silicium, etc.
+  reviewDecisionEvent: published
+  terms:
+  - designation: procédé LIGA
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1ad88f4a-6101-5033-a419-197edbb720a9
+status: valid

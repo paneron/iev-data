@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: characteristic whereby the thermal output of a resistance-heating device
+    at its rated voltage decreases as the temperature of its surroundings increases
+    until the device reaches a temperature at which its thermal output is reduced
+    to a value at which there is no further rise in temperature
+  examples: []
+  id: 426-08-11
+  language_code: eng
+  notes:
+  - The temperature of the surface of the element is then effectively that of its
+    surroundings.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature self-limiting characteristic
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: e38e6648-6c85-5328-9ae8-24e7a88ddc92
+status: valid

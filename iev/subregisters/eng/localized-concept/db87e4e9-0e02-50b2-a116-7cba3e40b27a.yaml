@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.187
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.187
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: bus connecting the consists of a train, in particular the wire train
+    bus, and which conforms to the TCN protocols
+  examples: []
+  id: 811-37-107
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: train backbone
+    normative_status: preferred
+    type: expression
+  - designation: train bus
+    type: expression
+dateAccepted: 2017-11-01
+id: db87e4e9-0e02-50b2-a116-7cba3e40b27a
+status: valid

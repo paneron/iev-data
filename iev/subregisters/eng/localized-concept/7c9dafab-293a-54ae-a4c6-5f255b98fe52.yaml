@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.21
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.21
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: <a href="IEV741-01-500">information</a> that unambiguously distinguishes
+    one {{entity, IEV:741-01-18}} from other entities in a given {{identity context,
+    IEV:741-01-22}}
+  examples: []
+  id: 741-01-21
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: identifier
+    normative_status: preferred
+    type: expression
+    usage_info: Internet of Things
+dateAccepted: 2020-04-01
+id: 7c9dafab-293a-54ae-a4c6-5f255b98fe52
+status: valid

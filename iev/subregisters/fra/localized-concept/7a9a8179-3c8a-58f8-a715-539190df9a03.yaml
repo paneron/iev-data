@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: élément de commutation dont la variable de sortie reproduit, avec un
+    retard `t`~1~, une variation de 0 à 1 de la variable d'entrée, puis avec un retard
+    `t`~2~, une variation de 1 à 0 de cette même variable.
+  examples: []
+  id: 351-52-10
+  language_code: fra
+  notes:
+  - Le terme de retard a ici une signification différente de celle donnée pour les
+    éléments de transfert continus.
+  - Selon l'application, on peut utiliser soit le retard à l'établissement `t`~1~,
+    soit le retard à la retombée `t`~2~, soit les deux.
+  - Dans de nombreuses applications, la variable de sortie reste à la valeur 0 si
+    l’intervalle de temps `t`~0~ pendant lequel la variable d’entrée a la valeur 1,
+    est plus court que l’intervalle de temps d’établissement `t`~1~.
+  - Cet article était numéroté 351-29-19 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément binaire de retard
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 7a9a8179-3c8a-58f8-a715-539190df9a03
+status: valid

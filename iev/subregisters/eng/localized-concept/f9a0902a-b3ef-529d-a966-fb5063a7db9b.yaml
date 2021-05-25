@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: measurement of the protective quality of a fabric sample against solar
+    <a href="IEV845-21-008">ultraviolet radiation</a>, determined by in-vitro testing
+  examples: []
+  id: 845-26-075
+  language_code: eng
+  notes:
+  - 'For in-vitro testing, the erythemal irradiance measured by a detector with the
+    fabric sample under test in place is compared to the erythemal irradiance measured
+    with no fabric present, where the source is typically a solar simulator. This
+    is expressed as the quotient of the erythemal irradiance without fabric to the
+    erythemal irradiance through fabric:
+
+
+    `F_((UVP)) = ((int_((290\ nm))^((400\ nm)) E_(lambda) s_((er)) ( lambda ) d lambda))/((int_((290\
+    nm))^((400\ nm)) E_(lambda) s_((er)) ( lambda ) tau ( lambda ) d lambda))`
+
+
+    where `s`~er~(`λ`) is the erythema spectral weighting function, `Eλ` is the spectral
+    irradiance, `τ`(`λ`) is the measured spectral transmittance of the item, and `λ`
+    is the wavelength.'
+  - The ultraviolet hazard spectral weighting function, `S`~UV~(`λ`), has been substituted
+    for `s`~er~(`λ`) in special instances. If so used, the ultraviolet protection
+    factor, `F`~UVP~, has to be noted as `F`~UVP~ &amp;lsqb;`S`(`λ`)-weighted&amp;rsqb;.
+  - The ultraviolet protection factor has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ultraviolet protection factor
+    normative_status: preferred
+    type: expression
+  - designation: UPF
+    type: expression
+  - designation: '`F`~UVP~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: f9a0902a-b3ef-529d-a966-fb5063a7db9b
+status: valid

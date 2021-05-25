@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-01-01
+  definition: '{{facteur, IEV:112-03-04}} exprimé habituellement en pourcentage ou
+    en une fraction décimale quelconque, telle que millième ou millionième'
+  examples: []
+  id: 112-03-19
+  language_code: fra
+  notes:
+  - L’emploi du terme "rate" dans ce sens est souvent déconseillé en anglais en faveur
+    de "ratio". Par exemple, il est recommandé d’utiliser "error ratio" et non "error
+    rate" pour le taux d’erreurs (voir {{IEV 702-07-39, IEV:702-07-39}}). Dans d'autre
+    exemples, comme {{taux d'harmoniques, IEV:103-07-32}} et {{taux de modulation,
+    IEV:702-06-19}}, "factor" est employé en anglais.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: 6ca0f1f2-f930-5a12-b86f-3ff779734b21
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour deux fonctions à valeurs complexes, `underset(_)(f)` et `underset(_)(g)`
+    définies sur l'intervalle `a , b` de ℝ, nombre complexe `〈 underset(_)(f) , underset(_)(g)
+    〉 = int_a^b f ( x ) underset(_)(g)^( ** ) ( x ) d x` où `underset(_)(g)^( ** )`
+    est le conjugué de `underset(_)(g)`
+  examples: []
+  id: 103-01-08
+  language_code: fra
+  notes:
+  - 'Le produit interne a les propriétés suivantes: `〈 underset(_)(f) , underset(_)(g)
+    〉 = 〈 underset(_)(g) , underset(_)(f) 〉^( ** )` et `〈 underset(_)(alpha) underset(_)(f)
+    + underset(_)(beta) underset(_)(g) , underset(_)(h) 〉 = underset(_)(alpha) 〈 underset(_)(f)
+    , underset(_)(h) 〉 + underset(_)(beta) 〈 underset(_)(g) , underset(_)(h) 〉` où
+    `underset(_)(alpha) , underset(_)(beta) in`ℂ.'
+  - Le produit interne de deux fonctions complexes est analogue au produit hermitien
+    de deux vecteurs (voir IEC 60050-102, {{102-03-18, IEV:102-03-18}}). Pour des
+    fonctions réelles, il est analogue au produit scalaire (voir IEC 60050-102, {{102-03-17,
+    IEV:102-03-17}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit interne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 12b914c5-1114-5a98-9fb3-dba3232c15bb
+status: valid

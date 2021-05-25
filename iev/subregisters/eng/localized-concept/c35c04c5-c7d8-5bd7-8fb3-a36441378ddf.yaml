@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the ratio, usually expressed in decibels, in a radio link, of the radio-frequency
+    power input to the terminals of the transmitting antenna, and the resultant radio-frequency
+    signal power available at the terminals of the receiving antenna
+  examples: []
+  id: 705-08-02
+  language_code: eng
+  notes:
+  - The available power is the maximum real power which a source can deliver to a
+    load, i.e. the power which would be transferred if the impedances were conjugately
+    matched.
+  - The system loss excludes losses in feeder lines but includes all losses in radio-frequency
+    circuits which are integral parts of the antenna, such as losses in conducting,
+    or dielectric radiating elements, antenna loading coil losses, terminating resistor
+    losses, and ground losses in the vicinity of the antenna.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: system loss
+    normative_status: preferred
+    type: expression
+  - designation: '`A`~s~
+
+      `L`~s~'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: c35c04c5-c7d8-5bd7-8fb3-a36441378ddf
+status: valid

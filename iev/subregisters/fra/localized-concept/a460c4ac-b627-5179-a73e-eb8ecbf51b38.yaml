@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: définition 1234
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1234, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: détecteur de rayonnement utilisant un milieu thermoluminescent qui,
+    sous l'effet d'une excitation thermique, émet un rayonnement lumineux dont l'intensité
+    est fonction de l'énergie emmagasinée dans le détecteur pendant son irradiation
+  examples: []
+  id: 395-03-04
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-27-04 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur thermoluminescent
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TLD
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a460c4ac-b627-5179-a73e-eb8ecbf51b38
+status: valid

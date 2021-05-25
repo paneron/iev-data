@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'scalar quantity equal to the flux of the electric flux density *`D`*
+    through a given directed surface S: `Psi = underset(S)( int ) D_(()) * e_n d A`
+    where *`e`*~n~d`A` is the vector surface element'
+  examples: []
+  id: 121-11-41
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric flux
+    normative_status: preferred
+    type: expression
+  - designation: '`Ψ`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 6061f48f-a6d9-5000-b7bc-9f8797594fb8
+status: valid

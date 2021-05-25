@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité du flux photonique exitant par rapport à l'aire en un point
+    d'une surface réelle ou fictive `M_p = ((d Phi_p))/((d A))` où `Φ`~p~ est le flux
+    photonique et `A` est l'aire de laquelle part ce flux
+  examples: []
+  id: 845-21-082
+  language_code: fra
+  notes:
+  - La grandeur radiométrique correspondante est l'"exitance énergétique". La grandeur
+    photométrique correspondante est l'"exitance lumineuse".
+  - L'exitance photonique est exprimée en seconde à la puissance moins un par mètre
+    carré (s^−1^·m^−2^).
+  - Cet article était numéroté 845-01-49 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exitance photonique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b52eabd3-72d6-50ba-9ea4-171ff6c9c784
+status: valid

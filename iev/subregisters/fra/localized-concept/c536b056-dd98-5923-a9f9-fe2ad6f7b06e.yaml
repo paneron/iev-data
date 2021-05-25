@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: fréquence de rotation d'une particule chargée de nature spécifiée décrivant,
+    en présence d'un champ magnétique uniforme, une courbe en forme d'hélice autour
+    des lignes de force de ce champ
+  examples: []
+  id: 705-06-09
+  language_code: fra
+  notes:
+  - 'La gyrofréquence `f`~c~ est donné par l''expression:
+
+
+    `f_c = (1)/((2 pi)) ((q B))/(m)`
+
+
+    où `B` est l''induction magnétique, `m` et `q` sont respectivement la masse et
+    la charge de la particule.'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gyrofréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fréquence cyclotron
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: c536b056-dd98-5923-a9f9-fe2ad6f7b06e
+status: valid

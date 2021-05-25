@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 4.5.2
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 4.5.2
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{autorité, IEV:901-03-10}} qui est responsable de la mise en application
+    des {{règlements, IEV:901-02-10}}'
+  examples: []
+  id: 901-03-12
+  language_code: fra
+  notes:
+  - L'autorité chargée de l'application n'est pas forcément l'{{autorité réglementaire,
+    IEV:901-03-11}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: autorité chargée de l'application
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b097f96e-f85c-504f-a86c-313d362c2275
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: the ratio, generally expressed in decibels, of the power of the carrier
+    of a wanted signal to the power of an interfering signal, evaluated in specified
+    conditions, these powers being considered at the input of the receiver
+  examples: []
+  id: 713-11-20
+  language_code: eng
+  notes:
+  - If several interference signals are present, the sum of their powers should be
+    considered.
+  - 'The specified conditions comprise among others:
+
+
+    – the nature and characteristics of the interfering signal,
+
+
+    – the receiver and antenna characteristics such as the bandwidth.'
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: carrier-to-interference ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`C`/`I`'
+    international: true
+    type: symbol
+dateAccepted: 1998-04-01
+id: b263c734-8291-5ec9-8d44-081573f72068
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: position d'équilibre vers laquelle tend le dispositif indicateur d'un
+    appareil de mesure qui nécessite une source auxiliaire d'alimentation, lorsque
+    l'appareil de mesure est en service et que la valeur du mesurande est zéro
+  examples: []
+  id: 311-03-20
+  language_code: fra
+  notes:
+  - Le zéro électrique peut ne pas coïncider avec le zéro mécanique.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zéro électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: aafc12da-d3e2-5e2a-9bb5-f59b71667822
+status: valid

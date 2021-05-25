@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the real difference in luminance between the target and
+    its background, Δ`L`, and the luminance difference needed between a target of
+    a certain angular size and its background for the target to be just visible, Δ`L`~th~,
+    that is at the threshold `F`~VL~ = Δ`L` / Δ`L`~th~
+  examples: []
+  id: 845-22-085
+  language_code: eng
+  notes:
+  - The visibility level indicates how much the contrast of the target is above threshold
+    contrast.
+  - The visibility level has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: visibility level
+    normative_status: preferred
+    type: expression
+  - designation: '`F`~VL~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: b02613b4-41ac-5ebc-8f8c-0af050ca6eaf
+status: valid

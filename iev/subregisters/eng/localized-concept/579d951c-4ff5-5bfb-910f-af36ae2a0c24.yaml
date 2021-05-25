@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/3795
+      original: IEC 60880:2006
+      ref: IEC 60880:2006
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: set of activities involved in the development and operation of software
+    during a period of time that starts at a concept phase with the software requirements
+    specification and finishes when the software is withdrawn from use
+  examples: []
+  id: 395-07-47
+  language_code: eng
+  notes:
+  - The software life cycle typically includes a specification phase, design phase,
+    implementation phase, test phase, installation and check-out phase and an operation
+    and maintenance phase.
+  - This entry was numbered 394-33-15 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: software life cycle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 579d951c-4ff5-5bfb-910f-af36ae2a0c24
+status: valid

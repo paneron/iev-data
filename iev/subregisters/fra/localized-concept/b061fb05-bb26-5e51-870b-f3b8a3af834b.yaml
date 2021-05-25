@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la quantité de matière `n`~B~ du soluté B par la masse `m`
+    du solvant `b`~B~ = `n`~B~ / `m`
+  examples: []
+  id: 114-01-19
+  language_code: fra
+  notes:
+  - Il convient d’éviter le symbole alternatif `m`~B~ dans les situations où il peut
+    être confondu avec la masse du constituant B.
+  - L’unité SI cohérente de molalité est la mole par kilogramme, mol/kg.
+  - 'Cet article était numéroté 111-15-28 dans la CEI 60050-111:1996. Il a été modifié
+    comme suit: une formule a été ajoutée.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: molalité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b061fb05-bb26-5e51-870b-f3b8a3af834b
+status: valid

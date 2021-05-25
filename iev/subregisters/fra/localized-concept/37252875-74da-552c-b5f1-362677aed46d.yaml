@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - original: AIEA 2
+      ref: IAEA 2
+      relationship:
+        type: identical
+    - original: AIEA 3, modifiée
+      ref: IAEA 3
+      relationship:
+        type: modified
+  definition: existence de plusieurs éléments identiques ou différents, de telle sorte
+    que chacun d'entre eux peut effectuer la fonction indépendamment de l'état de
+    fonctionnement de tout autre
+  examples: []
+  id: 395-07-116
+  language_code: fra
+  notes:
+  - Cet article était numéroté 393-18-60 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: redondance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 37252875-74da-552c-b5f1-362677aed46d
+status: valid

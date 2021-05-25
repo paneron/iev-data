@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: continuous linear functional which assigns a real or complex number
+    to any function of a real or complex variable belonging to the class of infinitely
+    differentiable functions vanishing outside a bounded interval or domain
+  examples: []
+  id: 103-01-03
+  language_code: eng
+  notes:
+  - 'A function `D`(`x`) can be considered as a distribution `D` assigning to a function
+    `f`(`x`) the value
+
+
+    `D ( f ) = int_((- oo))^((+ oo)) D ( x ) f ( x ) d x` if this integral exists.'
+  - 'The derivative of a distribution `D` is another distribution `D`′ defined for
+    any function `f`(`x`) by
+
+
+    `D^( '' ) ( f ) = - D ( d f // d x )`.'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: distribution
+    normative_status: preferred
+    type: expression
+  - designation: generalized function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 9ee2da3e-7330-509f-9de0-b3f7dfd7dbee
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1994-07-01
+  definition: pour un transducteur électroacoustique fonctionnant en émetteur de son,
+    une fréquence spécifiée, quotient de la moyenne quadratique dans le temps de la
+    pression acoustique produite en champ libre par la source à une distance spécifiée
+    de son centre acoustique effectif et dans une direction spécifiée, par la puissance
+    électrique d'entrée
+  examples: []
+  id: 801-25-59
+  language_code: fra
+  notes:
+  - Lorsque le centre acoustique du transducteur ne peut êtrе déterminé de façon simple,
+    la distance est comptée à partir du point de référence du transducteur.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité à la puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réponse à la puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 327afed5-92ba-551e-ae66-ddbed1548e63
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for two second-order tensors `T = ( T_((i j)) )` and `S = ( S_((k l))
+    )`, tensor of the second order the components of which are given by `(( T * S
+    ))_((i l)) = underset(m)( sum ) T_((i m)) S_((m l))`
+  examples: []
+  id: 102-03-45
+  language_code: eng
+  notes:
+  - The inner product is denoted by a half-high dot (·) between the two symbols representing
+    the tensors.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inner product
+    normative_status: preferred
+    type: expression
+    usage_info: of two tensors
+  - designation: contracted product
+    type: expression
+    usage_info: of two tensors
+dateAccepted: 2008-08-01
+id: 018a53fd-1c13-56be-bff0-ff296cc5bd91
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: 'at a point fixed in a medium with a temperature field, scalar quantity
+    `λ` characterizing the ability of the medium to transmit heat through a surface
+    element containing that point: *`φ`* = −`λ` *grad* `T`, where *`φ`* is the density
+    of heat flow rate and `T` is thermodynamic temperature'
+  examples: []
+  id: 113-04-38
+  language_code: eng
+  notes:
+  - 1 In an anisotropic medium, thermal conductivity is a tensor quantity.
+  - 2 The coherent SI unit of thermal conductivity is watt per metre kelvin, W/(m·K).
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermal conductivity
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 605997be-cb2b-5d12-9842-2154bf46750d
+status: valid

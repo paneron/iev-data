@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de région de fréquence active à la fréquence de résonance `D_L
+    = ((f_L - f_r))/((f_r)) tilde= ((C_1))/((2 ( C_0 + C_L )))` où `f`~r~ est la fréquence
+    de résonance; `f`~L~ est la fréquence de résonance avec capacité de charge; `C`~1~
+    est la capacité dynamique; `C`~0~ est la capacité parallèle; `C`~L~ est la capacité
+    de charge
+  examples: []
+  id: 561-01-27
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: décalage de fréquence de résonance avec capacité de charge relative
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9cc8a6e5-415c-5d97-a864-ea30ceb76400
+status: valid

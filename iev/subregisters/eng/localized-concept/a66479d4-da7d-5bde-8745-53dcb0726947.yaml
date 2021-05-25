@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: state quantity equal to the difference between the total energy of a
+    system and the sum of the macroscopic kinetic and potential energies of the system
+  examples: []
+  id: 113-04-20
+  language_code: eng
+  notes:
+  - 1 Internal energy may be expressed as a function of the state quantities of the
+    system such as temperature, pressure, volume, masses, or amounts of substance.
+  - 2 For a closed thermodynamic system, Δ`U` = `Q` + `W`, where `Q` is amount of
+    heat transferred to the system and `W` is work done on the system provided that
+    no chemical reactions occur.
+  - 3 Specific internal energy, or internal energy per mass, is denoted `u`.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: internal energy
+    normative_status: preferred
+    type: expression
+  - designation: thermodynamic energy
+    normative_status: preferred
+    type: expression
+  - designation: '`U`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: a66479d4-da7d-5bde-8745-53dcb0726947
+status: valid

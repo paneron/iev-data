@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique pondéré par le danger de la lumière bleue
+    par le flux énergétique pondéré `V`(`λ`) `a_((B ,v)) = ((int Phi_((e , lambda))
+    ( lambda ) * B ( lambda ) * d lambda))/((int Phi_((e , lambda)) ( lambda ) * V
+    ( lambda ) * d lambda))` où `λ` est la longueur d'onde, `Φ`~e,`λ`~(`λ`) est le
+    flux énergétique spectral, `B`(`λ`) est la fonction de pondération spectrale du
+    danger de la lumière bleue et `V`(`λ`) est la fonction d'<a href="IEV845-21-035">efficacité
+    lumineuse relative spectrale</a> de la CIE pour la vision photopique
+  examples: []
+  id: 845-26-062
+  language_code: fra
+  notes:
+  - Le rayonnement lumineux fait référence à un <a href="IEV845-21-002">rayonnement
+    optique</a> pondéré par la fonction d'efficacité lumineuse relative spectrale
+    de la CIE pour la vision photopique, `V`(`λ`).
+  - L'emploi de ce terme est raisonnable uniquement si des éléments constitutifs du
+    rayonnement optique se situent dans le domaine visible et ainsi `int Phi_((e ,
+    lambda)) ( lambda ) * V ( lambda ) * d lambda != 0`.
+  - L'unité de facteur du danger de la lumière bleue d'un rayonnement lumineux est
+    un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur du danger de la lumière bleue d'un rayonnement lumineux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3e7732ab-1a87-51df-b19f-4e8f7b5ee63b
+status: valid

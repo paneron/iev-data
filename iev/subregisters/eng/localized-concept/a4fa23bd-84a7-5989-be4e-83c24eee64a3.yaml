@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: '{{multiplexing, IEV:701-03-09}} in which several independent {{signals,
+    IEV:701-01-02}} are allotted separate periodic {{time intervals, IEV:113-01-10}}
+    for {{transmission, IEV:701-01-03}} over a common {{transmission channel, IEV:701-02-01}}'
+  examples: []
+  id: 704-08-07
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time division multiplexing
+    normative_status: preferred
+    type: expression
+  - designation: TDM
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: a4fa23bd-84a7-5989-be4e-83c24eee64a3
+status: valid

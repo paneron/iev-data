@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 13-28
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-28, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: excès de la {{quantité de décision, IEV:171-07-10}} `H`~0~ sur l'{{entropie,
+    IEV:171-07-15}} `H` `R` = `H`~0~ − `H`
+  examples:
+  - 'Soit `{ a , b , c }` un jeu de trois événements dont les probabilités de réalisation
+    sont `p ( a ) = 0,5`, `p ( b ) = 0,25` et `p ( c ) = 0,25`. La redondance de ce
+    jeu est: `R = 1,585 Sh - 1,50 Sh = 0,085 Sh`.'
+  id: 171-07-18
+  language_code: fra
+  notes:
+  - En pratique, l'usage de codes convenables permet de représenter des messages avec
+    un nombre réduit de caractères; la redondance peut être considérée comme une mesure
+    de la diminution de la longueur moyenne des messages ainsi réalisée au moyen d'un
+    codage approprié.
+  reviewDecisionEvent: published
+  terms:
+  - designation: redondance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en théorie de l'information
+dateAccepted: 2018-11-17
+id: c2ca133a-7f6e-5c2c-af89-06106c29e20f
+status: valid

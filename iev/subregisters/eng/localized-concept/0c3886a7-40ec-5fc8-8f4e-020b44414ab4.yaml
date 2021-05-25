@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: discrete frequency spectral components, non-harmonically related to
+    the desired output frequency, appearing at the output terminal of an oscillator
+  examples: []
+  id: 561-03-32
+  language_code: eng
+  notes:
+  - These components may appear as symmetrical sidebands or as signal spectral components,
+    depending upon the mode of generation. Spurious components in the output spectrum
+    are usually expressed as a power ratio (in decibels) with respect to the output
+    signal power.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spurious oscillations
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 0c3886a7-40ec-5fc8-8f4e-020b44414ab4
+status: valid

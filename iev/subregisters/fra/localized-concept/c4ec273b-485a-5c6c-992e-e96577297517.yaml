@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: notation symbolique exprimée formellement comme un scalaire, s'appliquant
+    en tout point d'un domaine déterminé de l'espace à des scalaires ou à des vecteurs,
+    et qui, en coordonnées cartésiennes orthonormées, est représentée par `Delta =
+    ((del^2))/((del x^2)) + ((del^2))/((del y^2)) + ((del^2))/((del z^2))`
+  examples: []
+  id: 102-05-27
+  language_code: fra
+  notes:
+  - L'opérateur laplacien est noté Δ, ∇ ^2^ ou ∇⋅∇.
+  reviewDecisionEvent: published
+  terms:
+  - designation: opérateur laplacien
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: laplacien
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c4ec273b-485a-5c6c-992e-e96577297517
+status: valid

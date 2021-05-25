@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.55
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.55, modified
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: extra checksum added to a frame in a communications protocol for error
+    detection
+  examples: []
+  id: 811-37-41
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frame check sequence
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 385e7801-a6ef-5311-9f89-e9dc7d17e512
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: procédure permettant à un terminal d'utilisateur de se mettre en relation
+    avec un ordinateur hôte par l'intermédiaire d'un réseau d'ordinateurs
+  examples: []
+  id: 732-03-01
+  language_code: fra
+  notes:
+  - Pour se connecter, le terminal envoie généralement un nom d'utilisateur et un
+    mot de passe.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: connexion à distance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ouverture de session à distance
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 647e994d-30f9-53e4-a9f8-c2a6ee5a5f6a
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: quotient de la variation relative de la polarisation magnétique à saturation
+    due à une variation de température par cette variation de température `alpha_((J
+    s)) = ((J_((s Theta)) - J_((sref))))/((J_((sref)) ( Theta - Theta_((ref)) )))`
+    où `J`~s`Θ`~ et `J`~sref~ sont respectivement les polarisations magnétiques à
+    saturation aux températures `Θ` et `Θ`~ref~ respectivement
+  examples: []
+  id: 221-02-64
+  language_code: fra
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de température de la polarisation magnétique à saturation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: 0d81d9e4-0fcf-52e3-92d1-68ca3c0a8274
+status: valid

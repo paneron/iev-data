@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: valeur de crête d'un courant présumé pendant la période transitoire
+    qui suit son établissement
+  examples: []
+  id: 441-17-02
+  language_code: fra
+  notes:
+  - La définition implique que le courant est établi par un appareil de connexion
+    idéal, c'est-à-dire passant instantanément d'une impédance infinie à une impédance
+    nulle. Pour un circuit ayant plusieurs voies, par exemple un circuit polyphasé,
+    il est entendu en outre que le courant est établi simultanément dans tous les
+    pôles même si on ne considère que le courant dans un seul pôle.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de crête du courant présumé
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 0b9c45e5-e405-56d0-9429-ae9e202def96
+status: valid

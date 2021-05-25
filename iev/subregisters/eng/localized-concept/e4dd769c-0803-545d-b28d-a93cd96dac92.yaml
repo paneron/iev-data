@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the imaginary part of the propagation coefficient
+  examples: []
+  id: 702-02-15
+  language_code: eng
+  notes:
+  - The phase-change coefficient of a transmission line or waveguide is the limit
+    of the quotient of the phase change of a field quantity between two points on
+    the axis, by the distance between the points when this distance tends to zero.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase-change coefficient
+    normative_status: preferred
+    type: expression
+  - designation: phase constant
+    type: expression
+  - designation: 'symb.: `β`'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: e4dd769c-0803-545d-b28d-a93cd96dac92
+status: valid

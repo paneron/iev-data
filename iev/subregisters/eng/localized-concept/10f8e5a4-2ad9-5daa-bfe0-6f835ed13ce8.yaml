@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: thermodynamic temperature at which vapour in air reaches saturation
+  examples: []
+  id: 113-04-67
+  language_code: eng
+  notes:
+  - The corresponding Celsius temperature is denoted `t`~d~ and is also called dew
+    point.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dew point temperature
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~d~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 10f8e5a4-2ad9-5daa-bfe0-6f835ed13ce8
+status: valid

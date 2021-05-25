@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/172
+      original: see IEC 60050-131
+      ref: IEC 60050-131
+      relationship:
+        type: related
+  dateAmended: 2001-07-01
+  definition: device having `n` terminals with generally `n` greater than two
+  examples: []
+  id: 151-12-14
+  language_code: eng
+  notes:
+  - In French, the term "multipôle" is also used for an `n`-terminal element, an `n`-terminal
+    circuit or an `n`-terminal network. When `n` is specified, a more specific term
+    is used, as for example "multipôle à `n` bornes", "tripôle", ...
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`n`-terminal device'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 0d57604f-2100-54c1-9b43-0d675b33f775
+status: valid

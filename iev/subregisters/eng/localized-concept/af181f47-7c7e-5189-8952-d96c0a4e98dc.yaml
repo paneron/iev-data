@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{programming language, IEV:171-05-10}} that reflects the structure
+    of a given computer or that of a given class of computers'
+  examples:
+  - '{{Machine language, IEV:171-05-13}}, {{assembly language, IEV:171-05-15}}.'
+  id: 171-05-12
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: machine-oriented language
+    normative_status: preferred
+    type: expression
+  - designation: low-level language
+    normative_status: preferred
+    type: expression
+  - designation: computer-oriented language
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: af181f47-7c7e-5189-8952-d96c0a4e98dc
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'output variable of the controlled system that will be acted upon by
+    one or more manipulated variables SEE: Figures 1 and 2.'
+  examples: []
+  id: 351-48-01
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-27-01 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: controlled variable
+    normative_status: preferred
+    type: expression
+  - designation: '`x`'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: a59cbe66-f07e-595e-b317-61f927b3a7e5
+status: valid

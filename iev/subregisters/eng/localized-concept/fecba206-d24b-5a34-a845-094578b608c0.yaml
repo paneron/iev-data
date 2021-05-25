@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.59
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.59
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: data structure describing the nodes attached to the train backbone,
+    including their address, orientation, position and node descriptor
+  examples: []
+  id: 811-37-105
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: topography
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: fecba206-d24b-5a34-a845-094578b608c0
+status: valid

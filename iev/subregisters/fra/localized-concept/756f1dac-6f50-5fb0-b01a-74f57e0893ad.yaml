@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: courbe représentant la variation du taux de comptage en fonction de
+    la tension appliquée à un détecteur de rayonnement, tous les autres paramètres
+    restant constants
+  examples: []
+  id: 395-03-87
+  language_code: fra
+  notes:
+  - Cette courbe est caractéristique de tous les détecteurs fonctionnant en impulsions.
+  - Pour les détecteurs fonctionnant en mode de courant, la courbe caractéristique
+    est la courbe de saturation.
+  - Cet article était numéroté 394-38-46 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courbe caractéristique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un détecteur de rayonnement
+dateAccepted: 2018-11-17
+id: 756f1dac-6f50-5fb0-b01a-74f57e0893ad
+status: valid

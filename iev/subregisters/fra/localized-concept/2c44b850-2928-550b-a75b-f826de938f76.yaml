@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: 'pour un bipôle inductif de bornes A et B, dérivée du flux totalisé
+    `Ψ` entre les bornes par rapport au courant électrique `i` dans le bipôle: `L_d
+    = ((d Psi))/((d i))` où le signe du flux totalisé est déterminé en prenant la
+    tension électrique, dans l''intégrale qui le définit, comme la différence des
+    potentiels électriques en A et B et où le courant est pris positif si le sens
+    du courant est de A vers B et négatif dans le cas contraire'
+  examples: []
+  id: 131-12-20
+  language_code: fra
+  notes:
+  - Pour une inductance idéale, l'inductance différentielle `L`~d~  est égale à son
+    inductance `L`.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductance différentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: 2c44b850-2928-550b-a75b-f826de938f76
+status: valid

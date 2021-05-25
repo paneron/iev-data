@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: computer network using intermediate networks for data communication
+    that are transparent for the users and which do not impose restrictions on protocols,
+    such that the network behaves like a local area network
+  examples: []
+  id: 732-01-10
+  language_code: eng
+  notes:
+  - Data communication over intermediate networks typically uses tunnelling.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: virtual private network
+    normative_status: preferred
+    type: expression
+  - designation: VPN
+    type: expression
+dateAccepted: 2010-06-01
+id: b442b889-df53-53cd-860d-95510a06b3d2
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour tout vecteur *`U`*, scalaire positif ou nul, noté généralement
+    `| U |`, égal à la racine carrée non négative du produit scalaire, ou du produit
+    hermitien dans le cas d'un vecteur complexe, du vecteur par lui-même
+  examples: []
+  id: 102-03-23
+  language_code: fra
+  notes:
+  - "La norme d'un vecteur *`U`* a les propriétés suivantes:\n\n\n* `U = 0` si et\
+    \ seulement si `| U | = 0`,\n\n* `| alpha U | = | alpha | * | U |` où `α` est\
+    \ un scalaire, \n\n* `| U + V | &lt;= | U | + | V |` où *`V`* est un autre vecteur\
+    \ quelconque."
+  - Pour un vecteur *`U`* dans l'espace vectoriel euclidien ou hermitien à trois dimensions
+    muni d'une base orthonormée, la norme est donnée par `| U | = sqrt(| U_1 |^2 +
+    | U_2 |^2 + | U_3 |^2)`.
+  - Les termes «norme euclidienne» et «norme hermitienne» peuvent être employés dans
+    les cas réel et complexe, respectivement.
+  - La norme d'un vecteur *`U`* est notée `| U |` ou `U`; `‖ U ‖` est aussi utilisé.
+  reviewDecisionEvent: published
+  terms:
+  - designation: norme
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un vecteur
+dateAccepted: 2018-11-17
+id: b543cf71-11c9-5a77-96d1-26f432b32ab6
+status: valid

@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - clause: 3.6.1
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.6.1
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: value of the current corresponding to the intersection between the total
+    time–current characteristic of the protective device on the load side and the
+    pre-arcing (for fuses) or tripping (for circuit-breakers) time–current characteristic
+    of the other protective device
+  examples: []
+  id: 442-05-60
+  language_code: eng
+  notes:
+  - The selectivity-limit current is a limiting value of current:* below which, in
+    the presence of two overcurrent protective devices in series, the protective device
+    on the load side completes its breaking operation in time to prevent the other
+    protective device from starting its operation (i.e. selectivity is ensured);*
+    above which, in the presence of two overcurrent protective devices in series,
+    the protective device on the load side could not complete its breaking operation
+    in time to prevent the other protective device from starting its operation (i.e.
+    selectivity is not ensured).
+  - '{{`I`^2^`t` characteristics, IEV:442-05-59}} can be used instead of time–current
+    characteristics.'
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: selectivity-limit current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~s~'
+    international: true
+    type: symbol
+dateAccepted: 2019-05-01
+id: 75ec95ee-ab7f-5f48-b537-a595b0782b31
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: subnet of a LAN, that is isolated from other parts of that LAN and accessible
+    only by suitable interconnections.
+  examples: []
+  id: 732-01-11
+  language_code: eng
+  notes:
+  - The interconnections usually are filtering bridges.
+  - Standard IEEE-802.1Q provides rules for VLANs.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: virtual local area network
+    normative_status: preferred
+    type: expression
+  - designation: VLAN
+    type: expression
+dateAccepted: 2010-06-01
+id: e20203f4-a82e-5a41-becb-8b552c3bde1b
+status: valid

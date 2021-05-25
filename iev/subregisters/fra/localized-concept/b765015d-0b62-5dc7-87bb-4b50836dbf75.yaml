@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.9'
+      original: VIM 3.9
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 1999-04-01
+  definition: paramètre, associé au résultat d'un mesurage, qui caractérise la dispersion
+    des valeurs qui pourraient raisonnablement être attribuées au mesurande
+  examples: []
+  id: 415-05-13
+  language_code: fra
+  notes: []
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: incertitude de mesure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1999-04-01
+id: b765015d-0b62-5dc7-87bb-4b50836dbf75
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the root mean square open circuit voltage at the output of a one port
+    device due solely to its sources of noise
+  examples: []
+  id: 702-08-51
+  language_code: eng
+  notes:
+  - A receiving antenna can be regarded as a one-port device when viewed from its
+    output port.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent noise voltage
+    normative_status: preferred
+    type: expression
+  - designation: noise electromotive force
+    type: expression
+  - designation: 'symb.: `E`~n~'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: 0284d6c2-8086-504a-b195-fe465cea95b9
+status: valid

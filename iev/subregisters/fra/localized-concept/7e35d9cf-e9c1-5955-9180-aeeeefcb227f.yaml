@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.3.5
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.3.5
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: équipement destiné à être raccordé au réseau d'alimentation par une
+    fiche et un socle de prise de courant non industriels ou un connecteur non industriel
+    ou les deux
+  examples: []
+  id: 903-04-08
+  language_code: fra
+  notes:
+  - Pour les fiches et socles de prise de courant non industriels, voir l'IEC/TR 60083
+    ou un équivalent national. Pour les connecteurs non industriels, voir l'IEC 60320-1.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équipement enfichable de type A
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: matériel du type A raccordé par prise de courant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e35d9cf-e9c1-5955-9180-aeeeefcb227f
+status: valid

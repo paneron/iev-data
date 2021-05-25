@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur utilisant un matériau semiconducteur de haute
+    pureté
+  examples: []
+  id: 395-03-48
+  language_code: fra
+  notes:
+  - Il s’agit d’un matériau de résistivité élevée.
+  - Cet article était numéroté 394-28-14 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur à haute pureté
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur à haute pureté
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b562cd58-60e9-561a-bf90-b3a0d503b01e
+status: valid

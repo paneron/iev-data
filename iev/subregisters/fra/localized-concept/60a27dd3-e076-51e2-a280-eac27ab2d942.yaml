@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} prévu pour {{fonctionner, IEV:447-02-04}}
+    lorsque sa {{grandeur caractéristique, IEV:447-07-01}} atteint par valeurs croissantes
+    sa {{valeur de réglage de la grandeur caractéristique, IEV:447-07-02}}'
+  examples:
+  - Relais à maximum de courant.
+  id: 447-01-23
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais à maximum de ...
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 60a27dd3-e076-51e2-a280-eac27ab2d942
+status: valid

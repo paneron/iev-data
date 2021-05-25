@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: surface integral, the differential element of which is the scalar product
+    of a vector and the vector surface element
+  examples: []
+  id: 102-05-09
+  language_code: eng
+  notes:
+  - The flux through a surface S of the vector *`V`* is denoted by `underset(S)( ∬
+    ) V * e_n d A`. If the surface is closed, the flux is denoted by `underset(S)(
+    ∯ ) V * e_n d A`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux
+    normative_status: preferred
+    type: expression
+    usage_info: of a vector
+dateAccepted: 2008-08-01
+id: d9783615-1129-56d6-b8ec-4e7ce7667f05
+status: valid

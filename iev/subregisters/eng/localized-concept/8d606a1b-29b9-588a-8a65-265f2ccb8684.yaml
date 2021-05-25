@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: '{{polarization, IEV:705-01-13}} such that the {{electric field strength,
+    IEV:121-11-18}} vector or a specified field vector rotates as a function of time
+    in an anticlockwise sense in any fixed plane normal to the {{direction of propagation,
+    IEV:705-02-15}} or to a specified reference direction, as seen by an observer
+    looking in this direction'
+  examples: []
+  id: 705-01-19
+  language_code: eng
+  notes:
+  - The reference direction shall be specified when the direction of propagation is
+    parallel to the {{plane of polarization, IEV:705-01-22}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: left-hand polarization
+    normative_status: preferred
+    type: expression
+  - designation: counter clockwise polarization
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: 8d606a1b-29b9-588a-8a65-265f2ccb8684
+status: valid

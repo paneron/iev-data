@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: entrée qui n'a d'effet que si sa variable d'entrée passe de 0 à 1 ou
+    de 1 à 0
+  examples: []
+  id: 351-52-07
+  language_code: fra
+  notes:
+  - Les entrées dynamiques peuvent être combinées avec des entrées statiques.
+  - Cet article était numéroté 351-29-16 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: entrée dynamique dans les systèmes de commutation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: entrée dynamique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: c75fb4ee-3efc-56f4-81c8-14087f48093b
+status: valid

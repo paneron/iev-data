@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la radiance par bande passante d'émission unitaire, d`λ`,
+    à une longueur d'onde d'émission spécifiée, `λ`, due à la photoluminescence de
+    l'éprouvette irradiée à une longueur d'onde d'excitation spécifiée, `μ`, par la
+    radiance du diffuseur parfait par réflexion irradié et observé de manière identique
+  examples: []
+  id: 845-21-101
+  language_code: fra
+  notes:
+  - Les grandeurs spectrales dont la désignation comporte un indice `λ` indiquent
+    des grandeurs radiométriques spectrales différentes.
+  - Lorsqu'elle est intégrée ou additionnée sur la bande passante spectrale de l'instrument,
+    cette grandeur devient le facteur de luminance énergétique par luminescence bispectrale
+    pondéré par bande passante, `β`~L,~`λ`(`μ`)Δ`λ`.
+  - La forme complète (tableau) du facteur de luminance énergétique par luminescence
+    bispectrale et des données du facteur de luminance énergétique par réflexion est
+    la représentation matricielle de Donaldson du facteur de luminance énergétique
+    bispectrale, `D`(`μ`, `λ`). Les longueurs d'onde d'excitation, `μ`, sont présentées
+    dans le tableau à la verticale, les longueurs d'onde d'émission, `λ`, à l'horizontale,
+    les facteurs de luminance énergétique réfléchie, `β`~R~(`λ`), sont présentés sur
+    la diagonale sur laquelle les longueurs d'onde d'excitation et d'émission (détection)
+    sont égales, et la matrice des données du facteur de luminance énergétique par
+    luminescence bispectrale pondéré par bande passante, `β`~L~`,λ`(`μ`)Δ`λ`, apparaît
+    sur les diagonales extérieures.
+  - Le facteur de luminance énergétique par luminescence bispectrale est exprimé en
+    nanomètre à la puissance moins un (nm^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de luminance énergétique par luminescence bispectrale
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d5e2854e-f7a2-50ed-a657-5bab2cb895ea
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: one-half of the minimum energy necessary to excite a superconducting
+    Cooper pair to two normal electrons
+  examples: []
+  id: 815-10-28
+  language_code: eng
+  notes:
+  - In BCS theory, `Δ` = 1,746 `kT`~c~ at 0 K, where `k` is the Boltzmann constant
+    and `T`~c~ is the critical temperature.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: superconducting energy gap
+    normative_status: preferred
+    type: expression
+  - designation: '`Δ`'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 78f6d9da-0897-51ac-8d81-007021ac8d3d
+status: valid

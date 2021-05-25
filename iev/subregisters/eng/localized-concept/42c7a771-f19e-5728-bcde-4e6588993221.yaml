@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.6
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.6
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: function consisting in sensing the presence of a residual current
+  examples: []
+  id: 442-05-24
+  language_code: eng
+  notes:
+  - Detection can be performed, for example, by a transformer integrating the vector
+    sum of the currents.
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: detection
+    normative_status: preferred
+    type: expression
+    usage_info: of a residual current
+dateAccepted: 2019-05-01
+id: 42c7a771-f19e-5728-bcde-4e6588993221
+status: valid

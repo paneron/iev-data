@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '2.10'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 2.10
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: organisme qui opère selon les règles applicables sans avoir la possibilité
+    de participer à la gestion du système ou du système particulier
+  examples: []
+  id: 902-01-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: participant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: participant à un système ou à un système particulier
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 81b50a53-511c-596a-9cd5-edb5a99bede4
+status: valid

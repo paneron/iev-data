@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 2.4.20
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.4.20, modifié – "Le miroir de balayage est susceptible
+        d'être l’une des applications pratiques de la technologie des micromachines."
+        omis de la Note 1 à l’article
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: '"Le miroir de balayage est susceptible d''être l’une des applications
+          pratiques de la technologie des micromachines." omis de la Note 1 à l’article'
+        type: modified
+  definition: miroir qui balaie un faisceau de lumière
+  examples: []
+  id: 523-04-13
+  language_code: fra
+  notes:
+  - Les miroirs de balayage sont développés pour les imprimantes laser, les parties
+    de balayage des {{capteurs, IEV:151-13-48}} optiques, les têtes de lecture pour
+    les disques optiques, les afficheurs, entre autres. Un ensemble de miroirs de
+    balayage peut être fabriqué sur une {{tranche, IEV:521-05-29}} de silicium avec
+    un {{actionneur, IEV:151-13-49}}, grâce à la technologie de micro-usinage.
+  reviewDecisionEvent: published
+  terms:
+  - designation: miroir de balayage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a841f99-f996-5059-870f-ff6bcac8b964
+status: valid

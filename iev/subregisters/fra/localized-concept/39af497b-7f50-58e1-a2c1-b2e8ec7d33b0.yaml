@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 702-07-15
+      original: 702-07-15 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: rapport de la puissance apparente qui serait fournie par une source
+    donnée à une charge telle que le facteur de réflexion à leur accès commun soit
+    nul, à la puissance apparente fournie par la même source à une charge donnée directement
+    connectée
+  examples: []
+  id: 131-15-34
+  language_code: fra
+  notes:
+  - Lorsque le rapport est inférieur à un, on utilise l'inverse, appelé "gain de réflexion".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement de réflexion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur d'affaiblissement de réflexion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 39af497b-7f50-58e1-a2c1-b2e8ec7d33b0
+status: valid

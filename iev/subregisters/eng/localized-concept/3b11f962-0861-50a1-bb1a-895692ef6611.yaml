@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: for a cross-section of an optical fibre the area within which the refractive
+    index everywhere (excluding any index dip) exceeds that of the innermost homogeneous
+    cladding by a given fraction of the difference between the maximum of the refractive
+    index of the core and the refractive index of the innermost homogenous cladding
+  examples: []
+  id: 731-02-22
+  language_code: eng
+  notes:
+  - 'The core area is the smallest cross-sectional area of a fibre excluding any index
+    dip, which is contained within the locus of points where the refractive index
+    `n`~3~ is given by:
+
+
+    `n`~3~ = `n`~2~ + `k` (`n`~1~ – `n`~2~)
+
+
+    where:
+
+
+    `n`~1~ is maximum refractive index of the core,
+
+
+    `n`~2~ is refractive index of the innermost homogeneous cladding,
+
+
+    `k` is a constant (usually taken to be in the range 0 – 0,05).'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: core area
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 3b11f962-0861-50a1-bb1a-895692ef6611
+status: valid

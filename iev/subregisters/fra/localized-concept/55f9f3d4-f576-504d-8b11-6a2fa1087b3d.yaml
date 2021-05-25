@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: suite de cycles de service identiques comprenant chacun une période
+    de fonctionnement à charge constante correspondant à une vitesse de rotation prédéterminée,
+    suivie d'une ou plusieurs périodes de fonctionnement à d'autres charges constantes
+    correspondant à différentes vitesses de rotation (réalisées par exemple par changement
+    du nombre de pôles dans le cas des moteurs à induction). Il n'existe pas de période
+    de repos
+  examples: []
+  id: 411-51-21
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: service ininterrompu périodique à changements liés de charge et de
+      vitesse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: service type S8
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 55f9f3d4-f576-504d-8b11-6a2fa1087b3d
+status: valid

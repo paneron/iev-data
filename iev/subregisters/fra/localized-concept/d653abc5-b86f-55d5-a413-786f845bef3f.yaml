@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.1.1
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.1.1
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  definition: '{{circuit électrique, IEV:151-12-01}} qui est externe à un équipement
+    et n''est pas un réseau d''alimentation électrique'
+  examples: []
+  id: 151-12-42
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit externe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d653abc5-b86f-55d5-a413-786f845bef3f
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'for a linear passive two-terminal-pair network terminated with its
+    image impedances, half the natural logarithm of the product of the phasors <u>`U`</u>~1~
+    and <u>`I`</u>~1~ representing the voltage and the electric current at the input
+    divided by the product of the phasors <u>`U`</u>~2~ and <u>`I`</u>~2~ representing
+    the voltage and the current at the output: `(1)/(2) ln (((underset(_)(U))_1 (underset(_)(I))_1))/(((underset(_)(U))_2
+    (underset(_)(I))_2))`'
+  examples: []
+  id: 131-15-25
+  language_code: eng
+  notes:
+  - The imaginary part of the logarithm must be appropriately chosen.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: image transfer coefficient
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: ef939f62-3c89-54d0-b2df-cd510db5bc02
+status: valid

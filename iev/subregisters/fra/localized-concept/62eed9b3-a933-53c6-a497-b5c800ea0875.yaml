@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps dans la vie d'une entité réparable au cours duquel
+    on considère que l'intensité de défaillance reste constante
+  examples: []
+  id: 192-02-29
+  language_code: fra
+  notes:
+  - Pour les entités non réparables, voir période de taux constant de défaillance
+    ({{192-02-30, IEV:192-02-30}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: période d’intensité constante de défaillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 62eed9b3-a933-53c6-a497-b5c800ea0875
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a sequence of identical duty cycles, each cycle consisting of a period
+    of operation at constant load corresponding to a predetermined speed of rotation,
+    followed by one or more periods of operation at other constant loads corresponding
+    to different speeds of rotation (carried out for example by means of a change
+    of the number of poles in the case of induction motors). There is no rest and
+    de-energized period
+  examples: []
+  id: 411-51-21
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: continuous-operation periodic duty with related load-speed changes
+    normative_status: preferred
+    type: expression
+  - designation: duty type S8
+    type: expression
+dateAccepted: 2021-01-01
+id: 05c15c93-afd2-5635-a0f8-113aa7815c77
+status: valid

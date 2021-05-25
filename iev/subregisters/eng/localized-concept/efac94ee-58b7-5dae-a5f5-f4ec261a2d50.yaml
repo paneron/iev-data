@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: special purpose {{storage device, IEV:171-04-14}} or storage area allowing,
+    through temporary storage, the data transfer between two {{functional units, IEV:171-01-22}}
+    having different transfer characteristics
+  examples:
+  - '{{Cache memory, IEV:171-04-35}}.'
+  id: 171-04-20
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: buffer storage
+    normative_status: preferred
+    type: expression
+  - designation: buffer
+    type: expression
+dateAccepted: 2019-03-01
+id: efac94ee-58b7-5dae-a5f5-f4ec261a2d50
+status: valid

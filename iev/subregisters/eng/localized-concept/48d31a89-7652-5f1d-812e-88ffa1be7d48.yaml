@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: technique that prevents faults from introducing errors into the output
+  examples: []
+  id: 192-10-22
+  language_code: eng
+  notes:
+  - Fault masking enhances software reliability by providing tolerance to faults,
+    thus enabling continuous system operation.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fault masking
+    normative_status: preferred
+    type: expression
+    usage_info: in software
+dateAccepted: 2015-02-01
+id: 48d31a89-7652-5f1d-812e-88ffa1be7d48
+status: valid

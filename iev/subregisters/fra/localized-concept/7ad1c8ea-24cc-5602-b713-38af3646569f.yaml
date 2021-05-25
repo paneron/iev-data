@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: somme de la {{durée de fonctionnement, IEV:692-06-02}} et de la {{durée
+    d'attente, IEV:692-06-01}} dans une période de temps spécifiée
+  examples: []
+  id: 692-06-03
+  language_code: fra
+  notes:
+  - Voir également le terme connexe "état de disponibilité" ({{IEV 192-02-01, IEV:192-02-01}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d’état de disponibilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée de disponibilité
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7ad1c8ea-24cc-5602-b713-38af3646569f
+status: valid

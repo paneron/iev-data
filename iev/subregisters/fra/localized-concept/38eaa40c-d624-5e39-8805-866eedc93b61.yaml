@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 13-20
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-20, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{probabilité, IEV:103-08-02}} pour qu''un {{élément de données, IEV:171-02-01}}
+    soit reçu de façon erronée'
+  examples:
+  - Probabilité d’erreur sur les bits ou probabilité d’erreur binaire, `P`~b~ ou `P`~bit~;
+    probabilité d’erreur sur les blocs, `P`~bl~.
+  id: 171-06-08
+  language_code: fra
+  notes:
+  - 'La valeur mesurée est désignée par "{{taux d’erreurs, IEV:702-07-39}}", par exemple:
+    {{taux d’erreur binaire, IEV:704-18-04}} ou taux d’erreur sur les bits (TEB);
+    {{taux d’erreur sur les blocs, IEV:721-08-13}}.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: probabilité d'erreur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 38eaa40c-d624-5e39-8805-866eedc93b61
+status: valid

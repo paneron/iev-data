@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.117
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1, 3.1.117
+      ref: IEC 61375-2-1
+      relationship:
+        type: identical
+  definition: indicatif de 16 bits fourni par l'application permettant d'identifier
+    le type et la version d'un nœud
+  examples: []
+  id: 811-37-78
+  language_code: fra
+  notes:
+  - Le maître distribue la clé de nœud à tous les autres nœuds après chaque changement
+    de la composition et avant d'échanger des données
+  reviewDecisionEvent: published
+  terms:
+  - designation: clé de nœud
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b3f55653-a469-5d0f-8b83-04b9fee85912
+status: valid

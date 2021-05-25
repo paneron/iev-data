@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a type of linear distortion occurring when the group delay from input
+    to output of a transmission channel or two port device varies over the useful
+    frequency band
+  examples: []
+  id: 702-07-53
+  language_code: eng
+  notes:
+  - The group delay/frequency distortion is a phase/frequency distortion characterized
+    by the fact that the phase/frequency characteristic is not a straight line for
+    the frequencies of the significant spectral components of the signal.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group delay/frequency distortion
+    normative_status: preferred
+    type: expression
+  - designation: envelope delay distortion
+    type: expression
+dateAccepted: 1992-03-01
+id: c080d47b-faca-5a77-b1c0-5e57c2605cf1
+status: valid

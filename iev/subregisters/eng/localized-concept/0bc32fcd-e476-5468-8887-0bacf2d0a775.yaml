@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: time interval for which the item is in a down state image::/assets/images/parts/192/60050-192-F1en.png[Figure
+    1 - Times related to operation and maintenance]
+  examples: []
+  id: 192-02-21
+  language_code: eng
+  notes:
+  - Down time excludes disabled time due to lack of external resources, but includes
+    maintenance time.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: down time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 0bc32fcd-e476-5468-8887-0bacf2d0a775
+status: valid

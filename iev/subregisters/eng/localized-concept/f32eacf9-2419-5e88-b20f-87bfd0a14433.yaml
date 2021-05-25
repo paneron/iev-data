@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: value of the phase of a sinusoidal quantity when the value of the independent
+    variable is zero
+  examples: []
+  id: 103-07-05
+  language_code: eng
+  notes:
+  - For the quantity `a ( t ) = hat A cos ( omega t + vartheta_0 )`, the initial phase
+    is `vartheta_0`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: initial phase
+    normative_status: preferred
+    type: expression
+  - designation: phase angle
+    normative_status: preferred
+    type: expression
+  - designation: '`vartheta`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: f32eacf9-2419-5e88-b20f-87bfd0a14433
+status: valid

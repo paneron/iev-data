@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{input energizing quantity, IEV:447-03-02}} that provides a reference
+    to determine power flow direction, fault location, etc. in a power system'
+  examples: []
+  id: 447-07-11
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarizing quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: c2000f7b-c19c-5405-8952-bcefe75e136e
+status: valid

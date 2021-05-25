@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: spectral internal transmittance of a layer of an absorbing material
+    such that the path of the radiation is of dimension length, and under conditions
+    in which the boundary of the material has no influence
+  examples: []
+  id: 845-24-094
+  language_code: eng
+  notes:
+  - The unit of length has to be specified. If a new unit of length is used that is
+    `k` times the magnitude of the original one, then the value of `τ`~i,o~(`λ`) will
+    change to `tau^( ' )_(i ,o)^() ( lambda ) = tau_((i ,o)) ( lambda )^k`.
+  - The spectral transmissivity has unit one.
+  - This entry was numbered 845-04-87 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral transmissivity
+    normative_status: preferred
+    type: expression
+    usage_info: of an absorbing material
+  - designation: '`τ`~i,o~(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ebc5295f-9b54-5e32-9375-57334870f720
+status: valid

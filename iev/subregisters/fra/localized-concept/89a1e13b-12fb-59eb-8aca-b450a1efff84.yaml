@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: définition 24
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 24, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: activité par unité de volume d'un échantillon, f
+  examples: []
+  id: 395-01-09
+  language_code: fra
+  notes:
+  - Cette grandeur s'exprime en becquerels par mètre cube (Bq/m^3^).
+  - Dans le cas d’un gaz, il est nécessaire d’indiquer les conditions de température
+    et de pression, pour lesquelles cette activité est mesurée. Par exemple, température
+    et pression normalisées (TPN).
+  - Cet article était numéroté 393-14-16 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: activité volumique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 89a1e13b-12fb-59eb-8aca-b450a1efff84
+status: valid

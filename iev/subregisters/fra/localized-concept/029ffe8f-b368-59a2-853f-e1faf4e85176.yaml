@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      original: ≠ VIM 3.1
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: ensemble de valeurs attribuées à un mesurande
+  examples: []
+  id: 311-01-01
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "incertitude".
+  - La valeur centrale de l’ensemble peut être choisie comme valeur du mesurande et
+    un paramètre caractérisant la dispersion comme incertitude.
+  - Le résultat de mesure est relié à l’indication de l’instrument par les valeurs
+    de correction obtenues par étalonnage et par l'utilisation d'un modèle.
+  - L’ensemble des valeurs peut être considéré comme représentant le mesurande à condition
+    qu’il soit compatible avec toutes les autres mesures du même mesurande.
+  - L'ensemble, et donc l’incertitude, ne peuvent être donnés qu’avec un niveau de
+    confiance déterminé.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (résultat de) mesure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 029ffe8f-b368-59a2-853f-e1faf4e85176
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1185 (2)
+      link: https://www.iso.org/standard/50518.html
+      original: ISO/IEC/IEEE 24765:2010,  <i>Systems and software engineering – Vocabulary</i>,
+        3.1185 (2), modified by omission of "type of" or other relevant words and
+        addition of Note 1
+      ref: ISO/IEC/IEEE 24765:2010
+      relationship:
+        modification: by omission of "type of" or other relevant words and addition
+          of Note 1
+        type: modified
+  dateAmended: 2015-02-01
+  definition: error recovery in which a system, program, database, or other system
+    resource is restored to a new, not previously occupied state in which it can perform
+    required functions
+  examples: []
+  id: 192-10-18
+  language_code: eng
+  notes:
+  - Forward error recovery is employed in system software.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: forward recovery
+    normative_status: preferred
+    type: expression
+  - designation: forward error recovery
+    type: expression
+dateAccepted: 2015-02-01
+id: ecc5fdaf-0aba-5e89-a4a4-0e35ca9245f7
+status: valid

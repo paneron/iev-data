@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: combination of operating circumstances that activates a dormant fault
+  examples: []
+  id: 192-03-23
+  language_code: eng
+  notes:
+  - The trigger may be the internal state of the system, the data being processed,
+    operator action, environmental conditions, or any combinations thereof.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: trigger
+    normative_status: preferred
+    type: expression
+    usage_info: for a dormant fault
+dateAccepted: 2015-02-01
+id: e3d48c51-d039-56f4-b342-1527d6b51369
+status: valid

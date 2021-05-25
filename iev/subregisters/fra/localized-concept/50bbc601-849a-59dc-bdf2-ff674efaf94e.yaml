@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: partie réelle de l'exposant linéique de propagation
+  examples: []
+  id: 702-02-14
+  language_code: fra
+  notes:
+  - L'affaiblissement linéique d'une ligne de transmission ou d'un guide d'ondes est
+    la limite du quotient de l'affaiblissement entre deux points sur l'axe du guide,
+    par la distance des deux points, lorsque cette distance tend vers zéro.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement linéique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante d'affaiblissement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 50bbc601-849a-59dc-bdf2-ff674efaf94e
+status: valid

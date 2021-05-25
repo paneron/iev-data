@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-11-01
+  definition: tension à laquelle les décharges partielles disparaissent durant l'essai
+    quand la tension appliquée à l'objet testé est graduellement réduite à partir
+    d'une valeur plus forte que celle à laquelle sont observées les décharges
+  examples: []
+  id: 411-36-21
+  language_code: fra
+  notes:
+  - Avec une tension appliquée sinusoidale, la tension d'extinction des décharges
+    partielles est définie comme la valeur efficace de la tension. Avec des tensions
+    en impulsion, la tension d'extinction est définie comme la valeur crête-crête
+    de la tension.
+  reviewDate: 2007-11-01
+  reviewDecisionDate: 2007-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension d'extinction des décharges partielles
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2007-11-01
+id: 343e0f6c-6864-5056-9367-a771f7bf68bb
+status: valid

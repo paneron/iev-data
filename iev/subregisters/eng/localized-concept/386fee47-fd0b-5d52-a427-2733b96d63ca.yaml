@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: '{{angle modulation, IEV:702-06-30}} in which each {{significant condition,
+    IEV:702-05-21}} of a modulating {{discretely timed signal, IEV:702-04-04}} is
+    represented by a specified change in phase of the {{modulated signal, IEV:702-06-05}}
+    relative to the phase during the preceding {{signal element, IEV:702-05-01}}'
+  examples: []
+  id: 702-06-41
+  language_code: eng
+  notes: []
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: differential phase shift keying
+    normative_status: preferred
+    type: expression
+  - designation: DPSK
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 386fee47-fd0b-5d52-a427-2733b96d63ca
+status: valid

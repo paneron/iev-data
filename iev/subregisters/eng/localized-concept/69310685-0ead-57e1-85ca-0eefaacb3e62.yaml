@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the spectral responsivity, `s`(`λ`), of the detector at
+    wavelength, `λ`, and a specified reference value, `s`~m~ `s_r ( lambda ) = ((s
+    ( lambda )))/((s_m))`
+  examples: []
+  id: 845-25-064
+  language_code: eng
+  notes:
+  - The specified reference value, `s`~m~, can be an average value, a maximum value
+    or an arbitrarily chosen value of `s`(`λ`).
+  - The relative spectral responsivity has unit one.
+  - This entry was numbered 845-05-57 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative spectral responsivity
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: '`s`~r~(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 69310685-0ead-57e1-85ca-0eefaacb3e62
+status: valid

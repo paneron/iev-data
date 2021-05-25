@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: 'the quotient of d`E`~col~ by the product of `ρ` and d`l`, where d`E`~col~
+    is the energy lost by a charged particle of specified energy by collisions in
+    traversing the path length d`l` in a material of density `ρ` : `((S_((col))))/(rho)
+    = (1)/(rho) * (( ((d E))/((d l)) ))_((col))`'
+  examples: []
+  id: 881-12-50
+  language_code: eng
+  notes:
+  - The energy losses included are those that produce excitation and ionization of
+    atoms as well as those producing recoil atoms.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: collision mass stopping power
+    normative_status: preferred
+    type: expression
+  - designation: '`S`~col~/`ρ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 545ae934-693a-51d2-95ce-b8b32ec71b3d
+status: valid

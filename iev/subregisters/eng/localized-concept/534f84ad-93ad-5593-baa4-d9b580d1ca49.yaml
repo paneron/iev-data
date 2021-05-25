@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: two-terminal-pair network composed of four loop-connected branches,
+    with each terminal pair formed by non-adjacent nodes
+  examples: []
+  id: 131-13-27
+  language_code: eng
+  notes:
+  - The figure below shows, on the left side a graphical representation as a bridge,
+    and on the right side a graphical representation as a lattice.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bridge network
+    normative_status: preferred
+    type: expression
+  - designation: lattice network
+    type: expression
+dateAccepted: 2002-06-01
+id: 534f84ad-93ad-5593-baa4-d9b580d1ca49
+status: valid

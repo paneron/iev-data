@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.69
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.69
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: layer of the OSI model ({{IEV 716-01-20, IEV:716-01-20}}) responsible
+    for end-to-end flow control and error recovery
+  examples: []
+  id: 811-37-113
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transport layer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: f9e0b214-ccba-5198-bd07-1dbadb48a1d5
+status: valid

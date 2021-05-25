@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: a potential path joining an originating exchange to the destination
+    exchange for a given traffic parcel, generally subject to constraints such as
+    a maximum number of intermediate nodes or a given order of choice
+  examples: []
+  id: 715-07-04
+  language_code: eng
+  notes:
+  - Network optimisation is possible when more than one chain exists between an originating
+    and a destination node.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: chain
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: a01c9990-7593-5113-8aa8-1cf55285091b
+status: valid

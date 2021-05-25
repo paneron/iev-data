@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: typiquement un groupe de {{cellules élémentaires à combustible, IEV:485-08-01}}
+    superposées qui constitue le nombre d'unité répétitive de base de cellules par
+    pile à combustible complète
+  examples: []
+  id: 485-06-03
+  language_code: fra
+  notes:
+  - Voir aussi "{{pile réduite, IEV:485-06-02}}".
+  - Un élément de pile peut former une étape intermédiaire dans la fabrication et
+    peut être utilisé pour essayer les nouveaux concepts de piles à combustible avant
+    de les produire à l'échelle réelle.
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de pile
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bd67bad8-15cb-5334-84ea-43c20553f94c
+status: valid

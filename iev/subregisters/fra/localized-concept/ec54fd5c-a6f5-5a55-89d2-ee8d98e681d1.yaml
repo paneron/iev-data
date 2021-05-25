@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: fréquence d'un produit d'intermodulation
+  examples: []
+  id: 702-07-66
+  language_code: fra
+  notes:
+  - 'Les fréquences de combinaison sont données par la formule: `f` = p `f`~1~ + q
+    `f`~2~ +..., où p, q, ... sont des entiers positifs, négatifs ou nuls et `f`~1~,
+    `f`~2~ ... sont les fréquences des composantes spectrales du ou des signaux d''entrée.'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence de combinaison
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: ec54fd5c-a6f5-5a55-89d2-ee8d98e681d1
+status: valid

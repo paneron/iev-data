@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-03-01
+  definition: number of particles of one specific type that participate in a chemical
+    reaction as represented by a chemical equation
+  examples: []
+  id: 114-01-22
+  language_code: eng
+  notes:
+  - 'For the reactants the stoichiometric numbers are the negatives of the numbers
+    appearing in the equation; for the products the stoichiometric numbers are positive.
+    In equation
+
+
+    CH~4~ + 2 O~2~ → CO~2~ + 2 H~2~O, the stoichiometric number of CH~4~ is −1 and
+    that of O~2~ is −2, that of CO~2~ is 1 and that of H~2~O is 2.'
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stoichiometric number
+    normative_status: preferred
+    type: expression
+  - designation: stoichiometric coefficient
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 6ec34582-4631-5dc1-8f79-cfae363ecd8e
+status: valid

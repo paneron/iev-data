@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour deux tenseurs du deuxième ordre `T = ( T_((i j)) )` et `S = ( S_((k
+    l)) )`, tenseur du deuxième ordre dont les coordonnées sont `(( T * S ))_((i l))
+    = underset(m)( sum ) T_((i m)) S_((m l))`
+  examples: []
+  id: 102-03-45
+  language_code: fra
+  notes:
+  - Le produit intérieur de deux tenseurs est indiqué par un point à mi-hauteur (·)
+    entre les deux symboles représentant les tenseurs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit intérieur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de deux tenseurs
+  - designation: produit contracté
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: de deux tenseurs
+dateAccepted: 2018-11-17
+id: 6407173b-cedb-5cd0-ab48-8dd43b6373d2
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: modulation which may be considered either as a modulation on two carriers
+    in quadrature by time shifted digital signals obtained from the elements of even
+    or odd rank of the modulating digital signal, or as an amplitude shift keying
+    on a sinusoidal carrier whose phase is rotated by <font face="times new roman">`π`</font>/2
+    for each element of the digital modulating signal
+  examples: []
+  id: 713-07-16
+  language_code: eng
+  notes:
+  - – Minimum shift keying may be considered as an offset modulation.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digital offset modulation
+    normative_status: preferred
+    type: expression
+  - designation: digital staggered modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 686e39c7-6136-5da1-94d6-bddf3cfbbdc2
+status: valid

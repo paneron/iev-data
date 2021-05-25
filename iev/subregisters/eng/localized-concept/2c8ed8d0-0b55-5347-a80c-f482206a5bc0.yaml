@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: component or assembly of components that is considered as not subject
+    to certain specific fault modes
+  examples: []
+  id: 426-11-28
+  language_code: eng
+  notes:
+  - 'The conditions are specified in IEC 60079-11, _Explosive atmospheres – Part 11:
+    Equipment protection by intrinsic safety "i"_.'
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: infallible component
+    normative_status: preferred
+    type: expression
+  - designation: infallible assembly of components
+    type: expression
+dateAccepted: 2020-03-01
+id: 2c8ed8d0-0b55-5347-a80c-f482206a5bc0
+status: valid

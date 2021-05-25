@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{environnement, IEV:901-07-01}} de la localité d''un {{domicile, IEV:871-03-01}}'
+  examples: []
+  id: 871-03-03
+  language_code: fra
+  notes:
+  - Le milieu environnant comprend par exemple, l’infrastructure (telle que les commerces
+    de proximité), les conditions de transport, les espaces verts, un environnement
+    calme, la sécurité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: milieu environnant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f3681d7e-daa1-560f-b6bf-1e62975d6304
+status: valid

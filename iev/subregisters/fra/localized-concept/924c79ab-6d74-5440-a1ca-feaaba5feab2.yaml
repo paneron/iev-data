@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '3.6'
+      original: IEC Guide 116:2010, 3.6, modifiée – L'explication concernant l'exposition
+        a été transférée à la Note 1 à l'article.
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: L'explication concernant l'exposition a été transférée à la
+          Note 1 à l'article.
+        type: modified
+  dateAmended: 2013-06-01
+  definition: situation dans laquelle des personnes, des biens ou du bétail ou l'environnement
+    sont exposés à au moins un {{phénomène dangereux, IEV:903-01-02}}
+  examples: []
+  id: 903-01-05
+  language_code: fra
+  notes:
+  - 'Cette exposition peut donner lieu à des {{dommages, IEV:903-01-01}} soit immédiatement
+    soit après un certain délai
+
+
+    [ISO/IEC Guide 51:1999, définition 3.6, modifiée]'
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: situation dangereuse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: 924c79ab-6d74-5440-a1ca-feaaba5feab2
+status: valid

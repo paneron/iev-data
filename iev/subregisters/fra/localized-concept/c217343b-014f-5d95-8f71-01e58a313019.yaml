@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: propriété d'un espace euclidien à trois dimensions, déterminée par le
+    choix d'une base formant un trièdre direct ou un trièdre rétrograde
+  examples: []
+  id: 102-03-32
+  language_code: fra
+  notes:
+  - On choisit habituellement un trièdre direct. Si un trièdre rétrograde est utilisé
+    exceptionnellement pour certains usages, ceci doit être clairement indiqué pour
+    éviter le risque d'erreurs de signe.
+  - Dans tout espace vectoriel à `n` dimensions, les bases peuvent être groupées en
+    deux classes selon le signe du déterminant des vecteurs de base par rapport à
+    une base donnée choisie comme référence d'orientation de l'espace.
+  reviewDecisionEvent: published
+  terms:
+  - designation: orientation de l'espace
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c217343b-014f-5d95-8f71-01e58a313019
+status: valid

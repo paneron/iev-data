@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre à trois chiffres, le premier chiffre étant égal au premier chiffre
+    de l'<a href="IEV845-22-111">indice général de rendu des couleurs CIE 1974</a>,
+    le deuxième et le troisième chiffres correspondant aux deux premiers chiffres
+    (milliers et centaines) de la <a href="IEV845-23-068">température de couleur proximale</a>
+    de la source de lumière
+  examples: []
+  id: 845-27-133
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: désignation de couleur de la lumière
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a3395a5-0020-507d-98c1-22202d684106
+status: valid

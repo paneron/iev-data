@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: the number of bound modes that an optical fibre is capable of supporting
+  examples: []
+  id: 731-03-64
+  language_code: eng
+  notes:
+  - For `V`&lt; 2.405 step index fibre can only support one mode as is the case for
+    singlemode fibre.
+  - For `V`&gt; 5, approximately given by, `V` ^2^/2 and (`V` ^2^/2) [g/(g + 2)],
+    for step index and power-law profile fibres, respectively, where g is the profile
+    parameter, and `V` is the normalized frequency.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mode volume
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: da32823e-3101-5831-8f6d-6751ea0df661
+status: valid

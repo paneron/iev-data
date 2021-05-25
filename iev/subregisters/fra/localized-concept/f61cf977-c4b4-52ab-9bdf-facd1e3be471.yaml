@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: définition 1133
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1133, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: neutron d'énergie cinétique inférieure à une certaine valeur spécifiée
+  examples: []
+  id: 395-02-13
+  language_code: fra
+  notes:
+  - Cette valeur est souvent fixée à 1 eV.
+  - En dosimétrie, on se sert de l’énergie du seuil du cadmium.
+  - Cet article était numéroté 393-12-73 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: neutron lent
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f61cf977-c4b4-52ab-9bdf-facd1e3be471
+status: valid

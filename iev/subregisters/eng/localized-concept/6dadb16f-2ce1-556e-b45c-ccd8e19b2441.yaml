@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 192-03-01
+      original: IEV 192-03-01, modified - Note 1 to entry has been omitted
+      ref: IEV
+      relationship:
+        modification: '- Note 1 to entry has been omitted'
+        type: modified
+  dateAmended: 2017-11-01
+  definition: loss of ability to perform as required
+  examples: []
+  id: 821-11-19
+  language_code: eng
+  notes:
+  - Qualifiers, such as catastrophic, critical, major, minor, marginal and insignificant,
+    may be used to categorize failures according to the severity of consequences,
+    the choice and definitions of severity criteria depending upon the field of application.
+  - Qualifiers, such as misuse, mishandling and weakness, may be used to categorize
+    failures according to the cause of failure.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: failure
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2017-11-01
+id: 6dadb16f-2ce1-556e-b45c-ccd8e19b2441
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: for all types of ions in a solution, half the sum of the products of
+    their molality `b`~`i`~ and the square of their charge number `z`~`i`~ `I = (1)/(2)
+    sum z_i^2 b_i`
+  examples: []
+  id: 114-01-24
+  language_code: eng
+  notes:
+  - Charge number is a quantity of dimension one defined in 113-05-17.
+  - The coherent SI unit of ionic strength is mole per kilogram, mol/kg.
+  - 'This entry was numbered 111-15-29 in IEC 60050-111:1996. It has been modified
+    as follows: a formula has been added.'
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ionic strength
+    normative_status: preferred
+    type: expression
+  - designation: '`I`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: b9374682-1c90-526e-b107-a2da41d568a9
+status: valid

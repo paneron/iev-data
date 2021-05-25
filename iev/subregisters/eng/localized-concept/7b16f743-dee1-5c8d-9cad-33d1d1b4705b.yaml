@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: decrease with respect to the initial {{electrolyte, IEV:485-03-01}}
+    inventory of a {{fuel cell, IEV:485-08-01}}
+  examples: []
+  id: 485-03-04
+  language_code: eng
+  notes:
+  - The electrolyte losses can originate from different processes such as evaporation,
+    leakage, migration and consumption in metallic component corrosion.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electrolyte loss
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 7b16f743-dee1-5c8d-9cad-33d1d1b4705b
+status: valid

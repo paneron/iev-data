@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-26
+      original: 601-01-26 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: tension électrique de valeur inférieure à une limite adoptée par convention
+  examples: []
+  id: 151-15-03
+  language_code: fra
+  notes:
+  - Dans la distribution d'énergie électrique AC, la limite supérieure généralement
+    admise est de 1 000 V.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: basse tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: BT
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: c991c5ec-4206-581a-bb27-8e80f6c9a445
+status: valid

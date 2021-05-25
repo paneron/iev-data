@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: ratio of the product of ion molality `b` and a correction factor `γ`
+    to the molality `b`° of the same ion in a standard solution under standardized
+    conditions `a` = `bγ` / `b`°
+  examples: []
+  id: 114-01-20
+  language_code: eng
+  notes:
+  - The correction factor is called activity coefficient and it is determined experimentally.
+  - Normally a standard solution is a solution of the ion at a molality of 1 mol/kg
+    (exactly). Standardized conditions are normally 1 013,25 hPa and 25 °C.
+  - This entry was numbered 111-15-26 in IEC 60050-111:1996. It has been modified.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ion activity
+    normative_status: preferred
+    type: expression
+  - designation: '`a`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 8557f6db-a713-544b-833a-61ddf1303c6a
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: scalar associated to a given point, equal to the volume of a three-dimensional
+    element containing the point and contained in a sphere of infinitesimal radius
+  examples: []
+  id: 102-05-10
+  language_code: eng
+  notes:
+  - With an orthonormal Cartesian coordinate system, the element of volume is d`V`
+    = d`x`d`y`d`z`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume element
+    normative_status: preferred
+    type: expression
+  - designation: d`V`
+    international: true
+    type: symbol
+dateAccepted: 2008-08-01
+id: b7e080c2-3e19-5ee5-a176-c68ffcfc2be4
+status: valid

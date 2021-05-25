@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: grandeur en relation avec l'aspect plus ou moins lumineux d'une étoile,
+    et définie par la formule `m` = `m`~o~ − 2,5 log~10~(`E`~pb~/`E`~o~) où `E`~pb~
+    est l'éclat apparent de l'étoile prise en considération, `m`~o~ et `E`~o~ sont
+    des constantes dont la valeur résulte des magnitudes attribuées à certaines étoiles
+    de référence
+  examples: []
+  id: 845-21-097
+  language_code: fra
+  notes:
+  - Outre la magnitude apparente (visuelle) définie ici, d'autres magnitudes apparentes
+    (photographiques, bolométriques, etc.) sont définies par la même formule, mais
+    `E`~pb~ et `E`~o~ sont alors les réponses d'un récepteur ayant une sensibilité
+    spectrale spécifiée.
+  - L'unité de magnitude apparente est un.
+  - Cet article était numéroté 845-01-60 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnitude apparente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un objet astronomique
+dateAccepted: 2018-11-17
+id: d5b666e8-7cb9-5ec7-9a68-abc2c2bf7bce
+status: valid

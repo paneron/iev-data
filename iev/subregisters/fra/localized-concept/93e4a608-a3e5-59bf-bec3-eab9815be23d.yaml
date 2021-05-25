@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: code d'impulsions selon lequel le signe positif ou négatif d'une valeur
+    quantifiée est représenté par un chiffre binaire et la valeur absolue est représentée
+    par les autres chiffres binaires du mot de code
+  examples: []
+  id: 704-25-04
+  language_code: fra
+  notes:
+  - On doit spécifier dans chaque cas l'ordre des éléments binaires et la signification
+    des symboles 0 et 1 dans les diverses positions de ces éléments.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code binaire symétrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 93e4a608-a3e5-59bf-bec3-eab9815be23d
+status: valid

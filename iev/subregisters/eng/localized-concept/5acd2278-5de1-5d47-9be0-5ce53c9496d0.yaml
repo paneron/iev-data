@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: automatic advice provided by the network to a calling terminal of a
+    called terminal's new address followed either by call redirection or by release
+    of the calling terminal
+  examples: []
+  id: 721-18-45
+  language_code: eng
+  notes:
+  - It is also possible to simply send a service signal followed by release.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: changed address interception
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 5acd2278-5de1-5d47-9be0-5ce53c9496d0
+status: valid

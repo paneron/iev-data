@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: transformateur de courant destiné à transmettre un signal d'information
+    à des dispositifs de protection ou de commande
+  examples: []
+  id: 321-02-19
+  language_code: fra
+  notes:
+  - La classe de précision d'un transformateur de courant pour protection est désignée
+    par son indice de classe, suivi de la lettre "P" (signifiant "Protection"). L'indice
+    de classe indique la limite supérieure de la valeur absolue de l'erreur composée,
+    au courant limite de précision assigné prescrit pour la classe considérée, en
+    pourcentage de ce courant.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transformateur de courant pour protection
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: fa9eb094-f4f4-5791-9148-bc3647ab4e52
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie d'une droite comprise entre deux points de la droite
+  examples: []
+  id: 102-04-03
+  language_code: fra
+  notes:
+  - Si `r_A` et `r_B` sont les rayons vecteurs de deux points A et B, le segment de
+    droite AB est l'ensemble des points P de rayons vecteurs `r_P = u r_A + ( 1 -
+    u ) r_B` où `0 &lt;= u &lt;= 1`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: segment de droite
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 72df4625-1ce0-5e0e-8bb0-6f6cb44f7ba7
+status: valid

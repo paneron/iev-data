@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.66
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.66
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: set of standardized protocols including ISO/IEC 13239 for data transmission
+  examples: []
+  id: 811-37-47
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: HDLC
+    normative_status: preferred
+    type: expression
+  - designation: high-level data link control
+    type: expression
+dateAccepted: 2017-11-01
+id: c49bfd05-2557-5d9d-ab24-3c8e65d51fd7
+status: valid

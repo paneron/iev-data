@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de deux nombres ou de deux {{grandeurs de même nature, IEV:112-01-04}}
+  examples: []
+  id: 102-01-23
+  language_code: fra
+  notes:
+  - 'Le rapport de deux grandeurs de même nature est une {{grandeur sans dimension,
+    IEV:112-01-13}}. Exemples: rapport de transfert, rapport signal sur bruit, rapport
+    de transformation.'
+  - Le rapport `a // b` est exprimé par les mots «rapport de `a` à `b`».
+  - 'Pour le rapport de deux grandeurs, le terme «indice» est parfois employé à la
+    place de rapport. Exemples: indice de réfraction, indice de pertes.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 204bbd83-3b8d-58de-a268-2de200bfbd44
+status: valid

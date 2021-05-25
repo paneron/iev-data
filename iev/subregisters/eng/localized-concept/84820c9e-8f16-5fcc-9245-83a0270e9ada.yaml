@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of minimum illuminance and average illuminance on a surface
+  examples: []
+  id: 845-29-160
+  language_code: eng
+  notes:
+  - The illuminance uniformity has unit one.
+  - This entry was numbered 845-09-58 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: illuminance uniformity
+    normative_status: preferred
+    type: expression
+  - designation: uniformity ratio of illuminance
+    type: expression
+  - designation: '`U`~o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 84820c9e-8f16-5fcc-9245-83a0270e9ada
+status: valid

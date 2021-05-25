@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: dans une liaison multipoint ou point à point, station de données qui
+    désigne la station maîtresse et dirige les opérations telles que l'invitation
+    à émettre, l'invitation à recevoir et la procédure de reprise
+  examples: []
+  id: 721-19-10
+  language_code: fra
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: station pilote
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: station de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: 7428a3f2-5fdf-5e0a-b937-1f140b499a7b
+status: valid

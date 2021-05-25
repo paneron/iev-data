@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: '{{error detecting code, IEV:702-05-19}} which permits the automatic
+    correction of some of the errors detected'
+  examples: []
+  id: 702-05-20
+  language_code: eng
+  notes:
+  - An error correcting code allows {{error correction, IEV:702-07-42}} without a
+    {{backward channel, IEV:721-11-07}}
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error correcting code
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: cb83b1d9-ae9c-5c13-a861-d4ae7a37f132
+status: valid

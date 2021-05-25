@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: relais temporisé dont la temporisation démarre dès l'application de
+    l'alimentation et du signal de commande et dont la sortie passe momentanément
+    à l'état de travail pour un intervalle donné dès que la temporisation est écoulée
+    (voir Figure 9) image::/assets/images/parts/445/445-01-12fr.gif[]
+  examples: []
+  id: 445-01-12
+  language_code: fra
+  notes:
+  - 1 – La répétition du signal de commande pendant le délai peut ne pas réinitialiser
+    la temporisation.
+  - 2 – Il convient pour le fabricant d’indiquer si la durée de l’intervalle est fixe
+    ou réglable.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais à impulsion retardée avec signal de commande
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-10-01
+id: 2c6b45c5-9d4e-5f63-8f2a-b3390042a288
+status: valid

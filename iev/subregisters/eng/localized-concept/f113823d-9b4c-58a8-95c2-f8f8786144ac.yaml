@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the maximum possible justification rate that can be accommodated by
+    the justification process
+  examples: []
+  id: 704-21-11
+  language_code: eng
+  notes:
+  - In practice, the tolerance limits on the digit rates of the original digital signal
+    and the channel provided for conveying it by justification should be such that
+    the justification rate is always less than the justification capacity.
+  - Because of the confusion which arises in English from the similarity of the terms
+    "maximum justification rate " and "maximum justification ratio", it is strongly
+    recommended that "justification capacity" should be used instead of the first
+    of those terms.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: justification capacity
+    normative_status: preferred
+    type: expression
+  - designation: stuffing capacity
+    type: expression
+  - designation: maximum justification rate
+    type: expression
+  - designation: maximum stuffing rate
+    type: expression
+dateAccepted: 1993-08-01
+id: f113823d-9b4c-58a8-95c2-f8f8786144ac
+status: valid

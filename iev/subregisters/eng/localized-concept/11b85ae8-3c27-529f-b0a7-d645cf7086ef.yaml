@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-12-01
+  definition: expected value of the {{energy not supplied, IEV:692-09-06}}, in a given
+    time interval, resulting from {{electric power system, IEV:692-01-02}} deficiencies
+  examples: []
+  id: 692-11-01
+  language_code: eng
+  notes:
+  - This entry was numbered 191-30-01 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: expected energy not supplied
+    normative_status: preferred
+    type: expression
+    usage_info: by an electric power system
+  - designation: EENS
+    normative_status: preferred
+    type: expression
+  - designation: expected unsupplied energy
+    normative_status: admitted
+    type: expression
+    usage_info: by an electric power system
+  - designation: EUE
+    normative_status: admitted
+    type: expression
+dateAccepted: 2017-12-01
+id: 11b85ae8-3c27-529f-b0a7-d645cf7086ef
+status: valid

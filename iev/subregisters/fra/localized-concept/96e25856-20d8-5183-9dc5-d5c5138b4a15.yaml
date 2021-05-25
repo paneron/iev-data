@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: dans un récepteur radioélectrique utilisant la transposition en fréquence,
+    fréquence symétrique de celle du signal radiofréquence considéré à l'entrée par
+    rapport à la fréquence du premier oscillateur local
+  examples: []
+  id: 713-10-12
+  language_code: fra
+  notes:
+  - Il n'existe de fréquence conjuguée que si la fréquence de l'oscillateur local
+    est au moins égale à la moitié de celle du signal d'entrée.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence conjuguée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fréquence image
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 96e25856-20d8-5183-9dc5-d5c5138b4a15
+status: valid

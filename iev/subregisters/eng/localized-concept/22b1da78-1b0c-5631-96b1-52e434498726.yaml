@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: '{{energy, IEV:113-03-45}} transferred through space in the form of
+    {{waves, IEV:103-10-01}} or {{particles, IEV:113-05-01}}'
+  examples: []
+  id: 702-02-06
+  language_code: eng
+  notes:
+  - The term “radiation” is also used for the phenomenon producing the energy (see
+    {{IEV 881-02-01, IEV:881-02-01}}).
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiation
+    normative_status: preferred
+    type: expression
+    usage_info: waves or particles
+dateAccepted: 2019-10-01
+id: 22b1da78-1b0c-5631-96b1-52e434498726
+status: valid

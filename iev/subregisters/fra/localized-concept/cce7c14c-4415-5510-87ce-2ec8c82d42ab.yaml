@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{transmission, IEV:701-01-03}} des {{informations, IEV:701-01-01}}
+    dans des {{intervalles de temps, IEV:113-01-10}} successifs dont les durées sont
+    très courtes par rapport aux durées des intervalles de temps où il n''y a pas
+    de transmission'
+  examples: []
+  id: 704-01-13
+  language_code: fra
+  notes:
+  - Les suites de transmission sont appelées "{{salves, IEV:161-02-07}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission par salves
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmission par rafales
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cce7c14c-4415-5510-87ce-2ec8c82d42ab
+status: valid

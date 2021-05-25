@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: lésion rétinienne provoquée par une exposition énergétique intense brève
+    de la rétine à partir de longueurs d'onde dans la région spectrale de danger pour
+    la rétine (380 nm à 1 400 nm) dans laquelle les milieux oculaires normaux transmettent
+    un <a href="IEV845-21-002">rayonnement optique</a> à la rétine
+  examples: []
+  id: 845-26-023
+  language_code: fra
+  notes:
+  - Dans l'IEC 62471/CIE S 009, _Sécurité photobiologique des lampes et des appareils
+    utilisant des lampes_, le temps d'évaluation maximal de 10 s est pris en compte.
+  reviewDecisionEvent: published
+  terms:
+  - designation: lésion thermique rétinienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e77b2e5-a2e3-58e4-b0e6-4d62d70ebdbf
+status: valid

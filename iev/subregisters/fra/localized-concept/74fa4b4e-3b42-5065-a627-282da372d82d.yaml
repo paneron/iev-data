@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.2
+      original: IEC TS 80004-9:2017, 3.2.2, modifié – Dans la définition, "partie
+        essentielle d'un" a été supprimé.
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: Dans la définition, "partie essentielle d'un" a été supprimé.
+        type: modified
+  definition: '{{dispositif, IEV:511-01-01}} photovoltaïque comportant des {{nanofils,
+    IEV:511-01-24}} déposés ou formés au-dessus d''un substrat, qui crée une surface
+    capable d''absorber plus de lumière solaire qu''une surface plane'
+  examples: []
+  id: 511-02-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: cellule photovoltaïque à nanofils
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 74fa4b4e-3b42-5065-a627-282da372d82d
+status: valid

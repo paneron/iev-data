@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: logarithmic ratio, expressed in decibels, of the available power of
+    the given source to the power that the device delivers to a load impedance under
+    specified operating conditions
+  examples: []
+  id: 561-02-74
+  language_code: eng
+  notes:
+  - 'Transducer attenuation is given by
+
+
+    `TL = 10 log ((P_a))/((P_L)) dB`
+
+
+    where
+
+
+    `P`~a~ is the available power
+
+
+    `P`~L~ is the power that device delivers to a load impedance'
+  - This entry was numbered 561-03-20 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transducer attenuation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: a39bd3be-bab8-5823-9113-b7c213fd41fe
+status: valid

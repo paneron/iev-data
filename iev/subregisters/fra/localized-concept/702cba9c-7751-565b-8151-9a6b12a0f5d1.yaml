@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: personne qui fournit des services à l'{{utilisateur AAD, IEV:871-02-05}}
+  examples: []
+  id: 871-02-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: aide-soignant AAD
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: aide-soignante AAD
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 702cba9c-7751-565b-8151-9a6b12a0f5d1
+status: valid

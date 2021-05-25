@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: diamètre net du filament déduit du comportement électromagnétique entre
+    les filaments
+  examples: []
+  id: 815-13-59
+  language_code: fra
+  notes:
+  - Les pertes par hystérésis, `Q`~h~, sont définies par `Q`~h~ = (8/3`π`)`fd`~f~`ηJ`~ct~`B`~m~
+    pour une densité de flux magnétique alternatif `B`~m~ suffisamment élevée, avec
+    laquelle `Q`~h~ est proportionnelle, où `f` est la fréquence, `d`~f~ est le diamètre
+    effectif des filaments, `J`~ct~ la densité de courant critique de transport et
+    `η` la fraction volumique de supraconducteur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: diamètre effectif des filaments
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 76ace00d-a5dd-5926-ae12-bd8d6bd2c589
+status: valid

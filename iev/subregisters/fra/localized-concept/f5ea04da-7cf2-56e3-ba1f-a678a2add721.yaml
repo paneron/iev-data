@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.3.1
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.3.1
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: équipement dans lequel la fiche de raccordement au réseau d'alimentation
+    fait partie intégrante de l'enveloppe de l'équipement, de sorte que l'équipement
+    soit supporté par le socle de raccordement au réseau d'alimentation
+  examples: []
+  id: 903-04-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: équipement à enficher directement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: matériel enfichable directement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f5ea04da-7cf2-56e3-ba1f-a678a2add721
+status: valid

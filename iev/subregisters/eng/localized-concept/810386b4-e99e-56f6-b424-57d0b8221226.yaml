@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: standby state providing for immediate operation upon demand
+  examples: []
+  id: 192-02-12
+  language_code: eng
+  notes:
+  - A hot standby state may apply to redundant or stand-alone items.
+  - In some applications, an item in a hot standby state is considered to be operating.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hot standby state
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 810386b4-e99e-56f6-b424-57d0b8221226
+status: valid

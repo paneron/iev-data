@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: the ratio, generally expressed in decibels, of the radiation intensity
+    produced by an antenna in a given direction to the radiation intensity that would
+    be obtained if the power accepted by the antenna were radiated equally in all
+    directions
+  examples: []
+  id: 712-02-43
+  language_code: eng
+  notes:
+  - If no direction is specified, the direction of maximum radiation intensity from
+    the given antenna is implied.
+  - If the antenna is lossless its absolute gain is equal to its directivity in the
+    same direction.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (absolute) gain
+    normative_status: preferred
+    type: expression
+  - designation: isotropic gain
+    type: expression
+dateAccepted: 1992-04-01
+id: 2a637626-de4f-5973-97ae-505ba85bb4b2
+status: valid

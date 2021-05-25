@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the current flowing through a line terminal of a winding when a given
+    voltage is applied at rated frequency, the other winding(s) being open-circuited
+  examples: []
+  id: 421-06-02
+  language_code: eng
+  notes:
+  - Normally the applied voltage is the rated voltage and the energized winding, if
+    fitted with tappings, is connected on its principal tapping.
+  - The no-load current of a winding is often expressed as a percentage of the rated
+    current of the same winding.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: no-load current
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 5aac7aa7-5fb9-57c2-81f7-c1ed97b25310
+status: valid

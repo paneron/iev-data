@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: contact ouvert lorsque le relais est à l'état de travail et fermé lorsque
+    le relais est à l'état de repos
+  examples: []
+  id: 444-04-18
+  language_code: fra
+  notes: []
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contact de repos
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: contact à ouverture
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: fedc4f1f-a46b-55d7-a659-607a255eec10
+status: valid

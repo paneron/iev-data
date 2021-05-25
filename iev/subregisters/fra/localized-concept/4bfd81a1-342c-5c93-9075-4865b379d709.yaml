@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 13-9.c
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-9.c, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: unité de {{quantité de données, IEV:171-02-09}}, correspondant à un
+    {{octet, IEV:171-02-12}}
+  examples: []
+  id: 171-02-13
+  language_code: fra
+  notes:
+  - L’unité octet peut être combinée avec des préfixes SI, par exemple kilooctet (ko),
+    ou avec des préfixes binaires, par exemple kibioctet (Kio). Pour des multiples
+    binaires (puissances de 2), il est recommandé d’employer des préfixes binaires
+    pour éviter toute ambiguïté.
+  - L’unité octet peut être combinée avec d’autres unités, par exemple octet par seconde
+    (o/s).
+  - Le symbole d’unité o est généralement employé en français.
+  reviewDecisionEvent: published
+  terms:
+  - designation: octet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: unité
+dateAccepted: 2018-11-17
+id: 4bfd81a1-342c-5c93-9075-4865b379d709
+status: valid

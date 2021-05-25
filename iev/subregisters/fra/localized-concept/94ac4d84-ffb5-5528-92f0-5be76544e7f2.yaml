@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.10.5
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.10.5
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: plage de tensions d'alimentation telle que déclarée par le fabricant,
+    exprimée par ses tensions assignées supérieure et inférieure
+  examples: []
+  id: 151-16-49
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: plage de tensions assignées
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: plage assignée de tensions
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 94ac4d84-ffb5-5528-92f0-5be76544e7f2
+status: valid

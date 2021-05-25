@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: lumière, réfléchie par un support de formation d'image, qui n'a pas
+    été modulée par les moyens utilisés pour produire l'image
+  examples: []
+  id: 845-32-066
+  language_code: fra
+  notes:
+  - Le voile lumineux allège et réduit le contraste des parties plus sombres d'une
+    image.
+  - Anciennement, le terme anglais "ambient flare" et le terme français "lumière parasite
+    ambiante" étaient usités, mais ces termes sont déconseillés.
+  reviewDecisionEvent: published
+  terms:
+  - designation: voile lumineux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: formation d'image
+  - designation: lumière parasite ambiante
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+    usage_info: formation d'image
+dateAccepted: 2018-11-17
+id: 794ac99c-b1f4-5fd0-b692-53153a82ba77
+status: valid

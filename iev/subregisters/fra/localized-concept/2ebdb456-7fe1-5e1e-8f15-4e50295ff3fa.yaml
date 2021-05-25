@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: espérance mathématique du carré de la variable centrée `sigma^2 = V
+    ( X ) = E { X - E ( X )^2 }`
+  examples: []
+  id: 103-08-11
+  language_code: fra
+  notes:
+  - La variance est le moment centré d'ordre 2.
+  reviewDecisionEvent: published
+  terms:
+  - designation: variance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une variable aléatoire
+dateAccepted: 2018-11-17
+id: 2ebdb456-7fe1-5e1e-8f15-4e50295ff3fa
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température du radiateur de Planck ayant, pour la longueur d'onde spécifiée,
+    la même densité spectrale de luminance énergétique que le radiateur thermique
+    pris en considération
+  examples: []
+  id: 845-24-016
+  language_code: fra
+  notes:
+  - La température de luminance est exprimée en kelvin (K).
+  - Cet article était numéroté 845-04-13 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de luminance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un radiateur thermique, pour une longueur d'onde spécifiée
+dateAccepted: 2018-11-17
+id: 7880eb1a-31bc-5917-b2fd-91147c015725
+status: valid

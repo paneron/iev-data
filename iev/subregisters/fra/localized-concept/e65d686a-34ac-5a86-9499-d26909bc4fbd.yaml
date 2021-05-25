@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 723-06-20
+      original: voir 723-06-20
+      ref: IEV
+      relationship:
+        type: related
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: addition intentionnelle d'une composante périodique ou aléatoire à un
+    signal analogique d'image avant codage ou après décodage pour réduire l'effet
+    de sous-quantification
+  examples: []
+  id: 723-10-80
+  language_code: fra
+  notes:
+  - En français, le terme "tremblement" est aussi employé au sens de "papillotement
+    d'interligne".
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vibration
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tremblement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: e65d686a-34ac-5a86-9499-d26909bc4fbd
+status: valid

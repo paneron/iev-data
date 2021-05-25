@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.18.6
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.18.6
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: peak value of the voltage in a partial discharge test, where the apparent
+    charge is less than the specified discharge magnitude
+  examples: []
+  id: 212-11-62
+  language_code: eng
+  notes:
+  - The test procedure is defined in IEC 60664-1.
+  - For AC tests the rms value may be used.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: partial discharge test voltage
+    normative_status: preferred
+    type: expression
+  - designation: '`U`~t~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: b3ce6e70-bc18-5986-a485-633c14ad082a
+status: valid

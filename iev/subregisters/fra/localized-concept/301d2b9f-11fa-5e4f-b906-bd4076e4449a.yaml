@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - - clause: 705-01-07
+      original: d'après 705-01-07
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1998-08-01
+  definition: champ, déterminé par un ensemble de quatre grandeurs vectorielles reliées
+    entre elles, qui caractérise, avec la densité de courant électrique et la charge
+    électrique volumique, les états électrique et magnétique d'un milieu matériel
+    ou du vide
+  examples: []
+  id: 121-11-61
+  language_code: fra
+  notes:
+  - 'Les quatre grandeurs vectorielles reliées entre elles, qui vérifient les équations
+    de Maxwell, sont par convention :
+
+
+    – le champ électrique `*E*` ,
+
+
+    – l''induction électrique `*D*`  ,
+
+
+    – le champ magnétique `*H*` ,
+
+
+    – l''induction magnétique `*B*` .'
+  - Cette définition du champ électromagnétique est valable dans la mesure où certains
+    des aspects quantiques des phénomènes électromagnétiques peuvent être négligés.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ électromagnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 301d2b9f-11fa-5e4f-b906-bd4076e4449a
+status: valid

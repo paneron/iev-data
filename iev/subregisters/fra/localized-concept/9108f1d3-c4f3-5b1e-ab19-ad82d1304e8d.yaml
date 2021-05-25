@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 13-40
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-40, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: quotient de la {{transinformation moyenne par caractère, IEV:171-07-30}}
+    `T`^′^ par la durée moyenne d'une paire de caractères à la source et au collecteur
+    `T`^*^ = `T`^′^/`t`(`X`,`Y`) où `X` = {`x`~1~, …, `x`~`n`~} est l'ensemble d'événements
+    `xi` (`i` = 1, …, `n`), `Y` = {`y`~1~, …, `y`~`m`~} est l'ensemble d'événements
+    `yj` (`j` = 1, …, `m`) et où `t ( X , Y ) = sum_((i = 1))^n sum_((j = 1))^m p
+    ( x_i , y_j ) * t ( x_i , y_j )` est l'espérance mathématique de la durée `t`(`xi`,`yj`)
+    d'une paire de caractères (`xi`,`yj`) ayant une probabilité de réalisation simultanée
+    `p`(`xi`,`yj`)
+  examples: []
+  id: 171-07-31
+  language_code: fra
+  notes:
+  - Le débit moyen de transinformation peut être exprimé à l'aide d'une unité telle
+    que le shannon par caractère et seconde.
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit moyen de transinformation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9108f1d3-c4f3-5b1e-ab19-ad82d1304e8d
+status: valid

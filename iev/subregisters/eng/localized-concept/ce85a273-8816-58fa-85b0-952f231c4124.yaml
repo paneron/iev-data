@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-06-01
+  definition: See {{ IEV 151-12-27, IEV:151-12-27}}
+  examples: []
+  id: 601-03-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-06-01
+  reviewDecisionDate: 2020-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric line
+    normative_status: preferred
+    type: expression
+  - designation: line
+    normative_status: preferred
+    type: expression
+    usage_info: for transfer of electric energy
+dateAccepted: 2020-06-01
+id: ce85a273-8816-58fa-85b0-952f231c4124
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: the setting up of a connection to a single destination or group of destinations
+    previously designated by the user, without using any selection signals
+  examples: []
+  id: 721-17-25
+  language_code: eng
+  notes:
+  - The network interprets the calling signals as an instruction to establish a connection.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: call without selection signals
+    normative_status: preferred
+    type: expression
+  - designation: direct call
+    type: expression
+dateAccepted: 1991-11-01
+id: d8b9c13b-273b-59aa-bd4f-b04d3f54d554
+status: valid

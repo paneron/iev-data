@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      original: IEC Guide 116:2010, 3.5
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: event that can cause {{harm, IEV:903-01-01}}
+  examples: []
+  id: 903-01-04
+  language_code: eng
+  notes:
+  - A hazardous event can occur over a short period of time or over an extended period
+    of time.
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hazardous event
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 4f99764a-4076-5cf1-9c2b-5aacb62d729f
+status: valid

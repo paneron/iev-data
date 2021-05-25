@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} prévu pour {{fonctionner, IEV:447-02-04}}
+    lorsque sa {{grandeur caractéristique, IEV:447-07-01}} atteint par valeurs décroissantes
+    sa {{valeur de réglage de la grandeur caractéristique, IEV:447-07-02}}'
+  examples:
+  - Relais à minimum de tension.
+  id: 447-01-24
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais à minimum de...
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 04410b9e-8851-58da-9867-b93753824cd5
+status: valid

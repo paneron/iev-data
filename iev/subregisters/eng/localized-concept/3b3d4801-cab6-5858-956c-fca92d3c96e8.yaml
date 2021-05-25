@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: vector *`k`* in the expression `omega t - k * r + vartheta_0` of the
+    phase of a sinusoidal wave
+  examples: []
+  id: 103-10-09
+  language_code: eng
+  notes:
+  - The wave vector is normal to the wave front and its magnitude is the angular wavenumber.
+  - This concept can be generalized to complex wave vector in order to take attenuation
+    in account (see IEC 60050-705).
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: wave vector
+    normative_status: preferred
+    type: expression
+  - designation: '*`k`*'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 3b3d4801-cab6-5858-956c-fca92d3c96e8
+status: valid

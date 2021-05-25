@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: process applied to a composite signal formed by {{multiplexing, IEV:701-03-09}},
+    for recovering the original independent signals, or groups of these signals
+  examples: []
+  id: 701-03-10
+  language_code: eng
+  notes:
+  - Demultiplexing can be partial, for instance for extracting a {{group, IEV:704-10-09}}
+    from a {{supergroup, IEV:704-10-15}}.
+  - The associated verb is “to demultiplex”.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: demultiplexing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: d33e72f8-019f-5f3a-8cf4-cb9c25c55abd
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: méthode permettant de déterminer la susceptibilité magnétique en courant
+    continu en mesurant le flux magnétique induit dans une bobine de détection
+  examples: []
+  id: 815-17-12
+  language_code: fra
+  notes:
+  - Certaines applications emploient un magnétomètre à échantillon vibrant (VSM) ou
+    un {{SQUID, IEV:815-16-46}} pour détecter avec précision les champs induits.
+  reviewDecisionEvent: published
+  terms:
+  - designation: méthode de mesure de la susceptibilité magnétique en courant continu
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2d52c6fc-c9cc-581c-8a7c-7a233e766c02
+status: valid

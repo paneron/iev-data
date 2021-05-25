@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: the ratio, expressed in decibels, of the reference output level, to
+    the specified weighted noise output level after erasure with reference bias applied
+  examples: []
+  id: 806-15-74
+  language_code: eng
+  notes:
+  - The frequency weighting employed should always be specified, but if no weighting
+    is stated, the "A" frequency weigthting should be understood.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal-to-bias noise ratio
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: dba110d5-6fc7-555d-8ac8-e9348b4656e6
+status: valid

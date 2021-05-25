@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: temps nécessaire pour qu'à la suite d'une variation brusque des conditions
+    de fonctionnement, la composante à amortissement lent de la tension de l'induit
+    à circuit ouvert, due au flux longitudinal, décroisse jusqu'à 1/e, c'est-à-dire
+    0,368 fois sa valeur initiale, la machine tournant à sa vitesse assignée
+  examples: []
+  id: 411-48-27
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de temps transitoire longitudinale à circuit ouvert
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: bf47e773-78fa-5dff-a15c-f0e8a1e5e3f2
+status: valid

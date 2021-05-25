@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.23
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.5.23
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  definition: procédé de gravure dans lequel la vitesse de gravure ne varie pas en
+    fonction de l'orientation cristallographique ou de la direction des faisceaux
+    énergétiques
+  examples: []
+  id: 523-05-08
+  language_code: fra
+  notes:
+  - L’agent de gravure isotrope typique pour le silicium est la solution HF/HNO~3~/CH~3~COOH
+    (HNA).
+  reviewDecisionEvent: published
+  terms:
+  - designation: gravure isotrope
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 034f6b10-b7ec-54a1-a1f8-f876bc554ac1
+status: valid

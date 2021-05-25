@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: valeur du mesurande donnée directement par un appareil de mesure sur
+    la base de sa courbe d'étalonnage
+  examples: []
+  id: 311-01-08
+  language_code: fra
+  notes:
+  - La valeur indiquée peut être dérivée de l'indication en utilisant la courbe d'étalonnage.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur indiquée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 5ea5f6ad-7445-59bc-a666-0fcf12052aa2
+status: valid

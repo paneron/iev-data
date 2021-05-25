@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la {{vitesse de la lumière dans le vide, IEV:113-01-34}}
+    par la vitesse de la lumière dans un milieu
+  examples: []
+  id: 845-24-109
+  language_code: fra
+  notes:
+  - La valeur de l'indice de réfraction peut dépendre de la {{fréquence, IEV:103-06-02}},
+    de la polarisation et de la direction.
+  - L'indice de réfraction est exprimé par `n` = `c`~0~/`c,` où `c`~0~ est la vitesse
+    de la lumière dans le vide et `c` est la vitesse de la lumière dans le milieu.
+  - Voir aussi "<a href="IEV845-24-111">indice de réfraction complexe</a>".
+  - La réfractivité est exprimée par `n` − 1, où `n` est l'indice de réfraction.
+  - L'unité d'indice de réfraction est un.
+  - Cet article était numéroté 845-04-101 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de réfraction
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 124fa086-b548-5cd6-b888-ea4aae025397
+status: valid

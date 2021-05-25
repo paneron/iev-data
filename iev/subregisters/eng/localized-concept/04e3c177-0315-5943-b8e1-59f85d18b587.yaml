@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-08-01
+  definition: real part of an impedance `underset(_)(Z)` `R = Re ( underset(_)(Z)
+    )`
+  examples: []
+  id: 131-12-45
+  language_code: eng
+  notes:
+  - The term "resistance" has a related meaning in {{IEV 131-12-04, IEV:131-12-04}}.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: resistance to alternating current
+    normative_status: preferred
+    type: expression
+  - designation: resistance
+    normative_status: preferred
+    type: expression
+  - designation: '`R`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 04e3c177-0315-5943-b8e1-59f85d18b587
+status: valid

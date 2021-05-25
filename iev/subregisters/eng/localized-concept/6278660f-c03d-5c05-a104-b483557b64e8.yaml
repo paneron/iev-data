@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'a propagation path with a single hop, schematically represented by
+    ionospheric reflection from the F region, reflection from the upper side of a
+    lower layer, generally in the E region, and another reflection from the F region
+    Example: An M path may be represented by a notation such as F, E, F or `F - E
+    + F`.'
+  examples: []
+  id: 705-07-15
+  language_code: eng
+  notes: []
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: M reflection
+    normative_status: preferred
+    type: expression
+  - designation: M path
+    type: expression
+dateAccepted: 1995-09-01
+id: 6278660f-c03d-5c05-a104-b483557b64e8
+status: valid

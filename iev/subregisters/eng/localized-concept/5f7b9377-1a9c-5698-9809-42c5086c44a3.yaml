@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the fractional change in permeability caused by a specified disturbance:
+    `S = ((mu_2 - mu_1))/((mu_1))` where `µ`~1~ and `µ`~2~ are the permeabilities
+    immediately before and at a specified time after the applied disturbance respectively'
+  examples: []
+  id: 221-02-60
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instability (of permeability)
+    normative_status: preferred
+    type: expression
+  - designation: '`S`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 5f7b9377-1a9c-5698-9809-42c5086c44a3
+status: valid

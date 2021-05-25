@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 662 MOD
+      ref: ITU-R Recommendation 662
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: communication assurée par des liaisons entre un point fixe déterminé
+    et un nombre quelconque de points situés n'importe où dans une zone donnée
+  examples: []
+  id: 713-02-16
+  language_code: fra
+  notes:
+  - Lorsqu'une communication point à zone est assurée par des liaisons unilatérales
+    d'un point fixe unique vers des points multiples, elle est couramment appelée
+    télédiffusion.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: communication point à zone
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 9b296ddc-46d6-5b44-b537-92f85ecd4d20
+status: valid

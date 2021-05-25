@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1197
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1197, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: neutron multiplication in a subcritical medium
+  examples: []
+  id: 395-07-06
+  language_code: eng
+  notes:
+  - Ratio of the total number of neutrons resulting from nuclear fission and a radioactive
+    source, which exist in equilibrium in a subcritical assembly, to the total number
+    of neutrons which would exist in the assembly due to the radioactive source in
+    the absence of nuclear fission.
+  - For critical assemblies this term does not have a useful meaning.
+  - This entry was numbered 393-15-32 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: subcritical multiplication
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 36720cf1-ed12-5162-a8ca-8222e3c5405a
+status: valid

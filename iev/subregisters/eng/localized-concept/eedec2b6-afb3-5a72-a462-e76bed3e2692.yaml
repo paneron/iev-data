@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: state of a software item that prevents it from performing as required
+  examples: []
+  id: 192-04-02
+  language_code: eng
+  notes:
+  - Software faults are specification faults, design faults, programming faults, compiler-inserted
+    faults, or faults introduced during software maintenance.
+  - A software fault may be dormant until activated by a specific trigger ({{192-03-23,
+    IEV:192-03-23}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: software fault
+    normative_status: preferred
+    type: expression
+  - designation: bug
+    type: expression
+dateAccepted: 2015-02-01
+id: eedec2b6-afb3-5a72-a462-e76bed3e2692
+status: valid

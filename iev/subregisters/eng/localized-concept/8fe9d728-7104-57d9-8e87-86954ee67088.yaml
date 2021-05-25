@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: for a given class of {{outage, IEV:692-04-02}} and a specified period
+    of time, the number of outages divided by the up time duration
+  examples:
+  - Examples include scheduled-outage rate, transient outage rate, and forced outage
+    rate.
+  id: 692-04-11
+  language_code: eng
+  notes: []
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: outage rate
+    normative_status: preferred
+    type: expression
+    usage_info: for an item
+dateAccepted: 2017-12-01
+id: 8fe9d728-7104-57d9-8e87-86954ee67088
+status: valid

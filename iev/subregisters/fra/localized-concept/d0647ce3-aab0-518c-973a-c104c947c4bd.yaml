@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-06-01
+  definition: rapport, sur un intervalle de temps donné, de la durée en charge à la
+    durée totale
+  examples: []
+  id: 851-12-03
+  language_code: fra
+  notes:
+  - Ce rapport, compris entre 0 et 1, peut être exprimé en pourcentage.
+  - Pour les besoins de la présente norme, la durée complète d'un cycle est de 10
+    min. Par exemple, dans le cas d'un facteur de marche de 60 %, une période de charge
+    6 min est suivie d'une période de marche à vide de 4 min.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de marche
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cycle de marche
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: d0647ce3-aab0-518c-973a-c104c947c4bd
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système <a href="IEV701-03-171">duplex</a> dans lequel les dispositifs
+    de réception, placés à chacune des extrémités d'un circuit, échappent à l'action
+    des courants émis à cette extrémité grâce à un équilibrage des potentiels d'après
+    le principe du {{pont de Wheatstone, IEV:313-08-01}}
+  examples: []
+  id: 721-04-182
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: duplex à pont
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7ef29a52-0d53-5228-9d7c-26e14887b743
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 712-02-53
+      original: 712-02-53 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: the product of the power supplied by a radio transmitter to an antenna
+    and the gain of this antenna relative to a short vertical antenna in a given direction
+  examples: []
+  id: 713-09-27
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective monopole radiated power
+    normative_status: preferred
+    type: expression
+  - designation: EMRP
+    type: expression
+dateAccepted: 1998-04-01
+id: a48b425c-14d9-54ea-8b73-65f2e2ef0f8a
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the radiant exitance of a radiator, `M`~e~, and the radiant
+    exitance of a Planckian radiator at the same temperature, `M`~b~ `epsilon = ((M_e))/((M_b))`
+  examples: []
+  id: 845-24-009
+  language_code: eng
+  notes:
+  - The emissivity has unit one.
+  - This entry was numbered 845-04-09 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: emissivity
+    normative_status: preferred
+    type: expression
+  - designation: hemispherical emissivity
+    type: expression
+  - designation: '`ε`
+
+      `ε`~h~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 27194f22-a7e4-53eb-b358-69d68c9204d7
+status: valid

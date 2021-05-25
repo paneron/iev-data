@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur efficace du courant électrique et du temps assignés à un {{dispositif
+    de mise à la terre et en court-circuit, IEV:651-25-02}} ou à un composant définissant
+    les efforts mécaniques et thermiques les plus grands, pour un facteur de crête
+    donné
+  examples: []
+  id: 651-25-06
+  language_code: fra
+  notes:
+  - Ces valeurs ne sont applicables qu’aux parties conçues pour supporter le courant
+    de court-circuit.
+  - 'Cet article était numéroté 651-14-12 dans la CEI 60050-651:1999. Il a été modifié
+    comme suit: Utilisation d’un libellé plus approprié pour clarifier la définition.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant assigné et temps assigné des dispositifs de mise à la terre
+      et en court-circuit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 558f2663-f252-5be2-b9af-d5d8676700ae
+status: valid

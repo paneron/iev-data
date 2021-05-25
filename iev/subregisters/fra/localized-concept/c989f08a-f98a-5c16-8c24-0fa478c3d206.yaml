@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps au début de la vie d'une entité au cours duquel
+    l'intensité instantanée de défaillance, pour une entité réparable, ou le taux
+    instantané de défaillance, pour une entité non réparable, décroît de façon importante
+    en fonction du temps
+  examples: []
+  id: 192-02-28
+  language_code: fra
+  notes:
+  - La décroissance considérée comme importante dépend de l’application.
+  reviewDecisionEvent: published
+  terms:
+  - designation: période de défaillance précoce
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c989f08a-f98a-5c16-8c24-0fa478c3d206
+status: valid

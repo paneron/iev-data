@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: caractéristiques du courant, de la tension électrique et de la fréquence
+    en un point donné d'un système d'énergie électrique évaluées selon un ensemble
+    de paramètres techniques de référence
+  examples: []
+  id: 614-01-01
+  language_code: fra
+  notes:
+  - Ces paramètres pourraient, dans certains cas, se rapporter à la compatibilité
+    entre l’électricité fournie sur un réseau d’énergie électrique et les charges
+    raccordées à ce réseau d’énergie électrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: qualité de l’électricité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: qualité de la tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c01e1d70-56c6-5441-af46-d92705eb0d23
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: dans un ensemble de canaux radioélectriques ordonnés suivant leurs fréquences
+    centrales croissantes, qualifie un canal dont la position en fréquence est modifiée,
+    par rapport à la position normalement prévue, d'une valeur spécifiée généralement
+    faible par rapport à l'espacement entre canaux
+  examples: []
+  id: 713-06-27
+  language_code: fra
+  notes:
+  - Un canal peut être décalé pour éviter ou réduire un brouillage.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: décalé
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 1998-04-01
+id: 2a0d1c1a-50bc-500f-a44e-13ffb017973a
+status: valid

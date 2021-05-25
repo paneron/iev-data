@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: mode d'exploitation selon lequel le transfert des {{informations, IEV:701-01-01}}
+    peut avoir lieu dans les deux sens, mais non simultanément, entre deux points
+  examples: []
+  id: 701-03-162
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: simplex
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semi-duplex
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: eb763aae-940a-5b73-9c18-c40a3124376f
+status: valid

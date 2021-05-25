@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{modulation angulaire, IEV:702-06-30}} dans laquelle chaque {{état
+    significatif, IEV:702-05-21}} d''un {{signal temporel discret, IEV:702-04-04}}
+    est représenté par l''une des valeurs d''un ensemble spécifié de valeurs discrètes
+    de la fréquence du {{modulat, IEV:702-06-05}}'
+  examples: []
+  id: 702-06-47
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation par déplacement de fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MDF
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 10b7265c-535c-5a13-990f-97ebe7697c12
+status: valid

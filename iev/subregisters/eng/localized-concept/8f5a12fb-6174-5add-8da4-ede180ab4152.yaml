@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.41
+      link: https://webstore.iec.ch/publication/5402
+      original: IEC 61375-3-1:2012, 3.1.41
+      ref: IEC 61375-3-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: sequence of signals, including code violation symbols (neither "1" nor
+    "0"), which is used to delimit the start (start delimiter) and the end (end delimiter)
+    of a frame
+  examples: []
+  id: 811-37-28
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: delimiter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 8f5a12fb-6174-5add-8da4-ede180ab4152
+status: valid

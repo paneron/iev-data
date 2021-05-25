@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'matrice carrée complexe dont les éléments ont la propriété: `A_((i
+    j)) = A_(j i)^( * )`'
+  examples: []
+  id: 102-06-27
+  language_code: fra
+  notes:
+  - Une matrice hermitienne *`A`* est égale à son adjointe *`A`*^H^.
+  - 2 Toutes les valeurs propres d'une matrice hermitienne sont réelles.
+  - Toute matrice symétrique à éléments réels est une matrice hermitienne.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice hermitienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4283bc8b-0563-5735-8127-4c39bc206525
+status: valid

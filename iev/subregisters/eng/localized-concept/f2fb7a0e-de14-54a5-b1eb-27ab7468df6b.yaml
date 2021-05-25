@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-01-01
+  definition: qualifies a {{quantity name, IEV:112-01-02}} to indicate the quotient
+    of that quantity by the area of a surface
+  examples:
+  - surface mass density or areic mass, also called surface density (see {{IEV 113-03-10,
+    IEV:113-03-10}}), surface electric charge density or areic electric charge (see
+    {{, IEV:IEV 121-11-08}}).
+  id: 112-03-12
+  language_code: eng
+  notes: []
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface … density
+    normative_status: preferred
+    type: expression
+  - designation: areic
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-01-01
+id: f2fb7a0e-de14-54a5-b1eb-27ab7468df6b
+status: valid

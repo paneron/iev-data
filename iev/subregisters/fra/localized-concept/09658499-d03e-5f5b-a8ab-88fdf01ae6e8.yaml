@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.34
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.34
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: caracteristique d'un dataset composé de plusieurs éléments lorsque tous
+    les éléments sont lus ou écrits au cours d'une opération indivisible
+  examples: []
+  id: 811-37-23
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: cohérence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans un réseau embarqué de train
+dateAccepted: 2018-11-17
+id: 09658499-d03e-5f5b-a8ab-88fdf01ae6e8
+status: valid

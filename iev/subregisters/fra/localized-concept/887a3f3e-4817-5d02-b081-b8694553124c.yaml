@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{pile à combustible direct, IEV:485-08-04}} dont le combustible est
+    le méthanol (CH~3~OH), sous forme liquide ou gazeuse'
+  examples: []
+  id: 485-08-05
+  language_code: fra
+  notes:
+  - Le méthanol est oxydé directement à l'{{anode, IEV:485-02-04}} sans reformation
+    d'hydrogène. L'{{électrolyte, IEV:485-03-01}} est normalement une membrane échangeuse
+    de protons.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pile à combustible à méthanol direct
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DMFC
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 887a3f3e-4817-5d02-b081-b8694553124c
+status: valid

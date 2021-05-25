@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection,
+    IEV:447-01-49}} donné et pour un nombre spécifié de mesures effectuées dans des
+    conditions identiques données, quotient de la somme algébrique des erreurs (absolues,
+    relatives ou conventionnelles) par le nombre de mesures
+  examples: []
+  id: 447-08-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: erreur moyenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3ac693e6-f4a8-5ab0-b12e-8df651dbdcaf
+status: valid

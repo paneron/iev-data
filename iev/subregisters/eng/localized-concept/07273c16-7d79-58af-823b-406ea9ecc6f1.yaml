@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 444-07-16
+      link: https://webstore.iec.ch/publication/208
+      original: IEC 60050-444:2002, 444-07-16, modified – "relay" has been replaced
+        by "measuring relay or protection equipment". Note 1 to entry has been added.
+      ref: IEC 60050-444:2002
+      relationship:
+        modification: '"relay" has been replaced by "measuring relay or protection
+          equipment". Note 1 to entry has been added.'
+        type: modified
+  dateAmended: 2020-05-01
+  definition: 'value of a quantity that is required at the end of lifetime of a {{measuring
+    relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}} or after a specified
+    number of cycles Note 1 to entry: This term is to be used associated with the
+    terms in {{IEV 447-02-10, IEV:447-02-10}} to {{IEV 447-02-14, IEV:447-02-14}},
+    {{IEV 447-02-18, IEV:447-02-18}}, {{IEV 447-02-21, IEV:447-02-21}} and {{IEV 447-02-22,
+    IEV:447-02-22}}.'
+  examples: []
+  id: 447-02-16
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: final endurance value
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 07273c16-7d79-58af-823b-406ea9ecc6f1
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: effective irradiance with the spectral irradiance, `Eλ`, spectrally
+    weighted with the erythema spectral weighting function, `s`~er~(`λ`), normalized
+    to 1 at its maximum
+  examples: []
+  id: 845-26-067
+  language_code: eng
+  notes:
+  - This definition is based on the assumption that an action spectrum is adopted
+    for the actinic effect considered, and that its maximum value is 1.
+  - It is essential to specify which action spectrum is used, as the unit is the same
+    for any action spectrum.
+  - The erythemal irradiance is expressed in watt per square metre (W·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: erythemal irradiance
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~er~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: b1285c82-4721-57a5-8cc6-695899821c96
+status: valid

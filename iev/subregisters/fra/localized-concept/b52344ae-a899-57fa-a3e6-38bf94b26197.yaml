@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: angle sous-tendu au point d'incidence par un rayon donné dans la direction
+    d'observation et dans la direction spéculaire définie par le rayon incident et
+    la perpendiculaire à la surface
+  examples: []
+  id: 845-25-081
+  language_code: fra
+  notes:
+  - Les rayons incident et d'observation, la perpendiculaire à la surface et la direction
+    spéculaire se situent tous dans un plan commun.
+  - 'L''angle aspéculaire est calculé comme la différence entre la direction d''observation
+    et la direction spéculaire et est considéré comme positif lorsqu''il se situe
+    entre la direction spéculaire et le rayon (d''éclairage) incident (voir la figure
+    ci-dessous).
+
+
+    image::/assets/images/parts/845/845-25-081-fr.png[]'
+  - L'angle aspéculaire est mesuré en radian (rad) ou degré (°).
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle aspéculaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b52344ae-a899-57fa-a3e6-38bf94b26197
+status: valid

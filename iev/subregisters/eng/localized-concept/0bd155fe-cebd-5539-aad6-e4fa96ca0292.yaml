@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - - clause: 881-14-03
+      link: https://webstore.iec.ch/publication/272
+      original: IEC 60050-881:1983, 881-14-03, modified
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: definition 950
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 950, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: factor in the calculation of dose equivalent, by which the absorbed
+    dose is to be weighted in order to account for the varying biological effectiveness
+    of different types of radiation
+  examples: []
+  id: 395-01-39
+  language_code: eng
+  notes:
+  - The dependence of `Q` on linear energy transfer is specified by the International
+    Commission on Radiation Protection.
+  - This entry was numbered 393-14-77 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quality factor
+    normative_status: preferred
+    type: expression
+    usage_info: for radiation protection purposes
+  - designation: '`Q`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 0bd155fe-cebd-5539-aad6-e4fa96ca0292
+status: valid

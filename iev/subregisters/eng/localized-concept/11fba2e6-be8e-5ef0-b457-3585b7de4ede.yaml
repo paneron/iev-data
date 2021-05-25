@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      original: IEC 60664-2-1:2011, 3.1
+      ref: IEC 60664-2-1:2011
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: for frequencies exceeding 30 kHz, the electric field that exists when
+    the radius of curvature of the conductive parts is equal or greater than 20 %
+    of the clearance
+  examples: []
+  id: 442-09-04
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: approximately homogeneous electric field
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 11fba2e6-be8e-5ef0-b457-3585b7de4ede
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: tension électrique apparaissant entre écran et terre dans un câble à
+    connexions spéciales d'écrans, quand les courants équilibrés de pleine charge
+    circulent dans les conducteurs du câble
+  examples: []
+  id: 461-14-11
+  language_code: fra
+  notes:
+  - Lorsque les tensions sont différentes pour les trois phases, on retient normalement
+    la valeur la plus élevée.
+  - On considère normalement la valeur maximale apparaissant le long du circuit (par
+    exemple à l'extrémité non mise à la terre d'une section élémentaire pour un circuit
+    avec mise à la terre en un seul point ou à un point de permutation dans un circuit
+    à permutation).
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension d'écran en régime permanent
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: bd31d955-da2e-5ed3-bc8b-f0c23c59a7d3
+status: valid

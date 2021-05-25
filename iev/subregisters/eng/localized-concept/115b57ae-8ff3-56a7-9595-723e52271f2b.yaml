@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'for a complex matrix *`A`* with elements `Aij`, matrix denoted by *`A`**
+    the elements (*`A`**)~`ij`~ of which are the conjugates of the elements of the
+    given matrix: `(( A^( * ) ))_((i j)) = A_(i j)^( * )`'
+  examples: []
+  id: 102-06-18
+  language_code: eng
+  notes:
+  - The complex conjugate matrix of a matrix *`A`* is denoted by *`A`**. The notation
+    `bar A` is also used in mathematics.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex conjugate matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 115b57ae-8ff3-56a7-9595-723e52271f2b
+status: valid

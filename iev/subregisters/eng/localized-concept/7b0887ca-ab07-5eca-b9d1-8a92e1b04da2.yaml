@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: power dissipated in a composite superconductor due to application of
+    a time-varying magnetic field or electric current
+  examples: []
+  id: 815-13-52
+  language_code: eng
+  notes:
+  - AC loss includes time average hysteresis loss of the superconductor, a coupling
+    current loss and an eddy current loss of the conductor, and an eddy current loss
+    of the structural material.
+  - AC loss customarily also includes the power dissipated in a composite superconductor
+    due to application of transient changes in magnetic field or current.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: AC loss
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 7b0887ca-ab07-5eca-b9d1-8a92e1b04da2
+status: valid

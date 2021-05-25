@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: '{{modulation, IEV:701-03-08}} in which each {{significant condition,
+    IEV:702-05-21}} in a modulating {{discretely-timed signal, IEV:704-01-04}} is
+    represented by a specified value of the amplitude of a {{carrier, IEV:702-06-03}}'
+  examples: []
+  id: 702-06-18
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude shift keying
+    normative_status: preferred
+    type: expression
+  - designation: ASK
+    normative_status: preferred
+    type: expression
+  - designation: amplitude shift modulation
+    normative_status: admitted
+    type: expression
+dateAccepted: 2016-12-01
+id: a5f58cf2-a749-5892-968d-3a564aff7ce8
+status: valid

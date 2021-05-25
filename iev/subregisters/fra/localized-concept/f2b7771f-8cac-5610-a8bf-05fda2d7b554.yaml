@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une matrice carrée *`A`* d'ordre `n` et d'éléments `Aij`, scalaire
+    noté det *`A`*, égal à la somme algébrique des produits obtenus en prenant comme
+    facteurs de toutes les manières possibles un élément et un seul dans chaque ligne
+    et dans chaque colonne, chacun de ces produits étant affectés du signe plus ou
+    du signe moins suivant que le nombre total des inversions des deux indices est
+    pair ou impair `det A = underset(sigma)( sum ) ( - 1 )^(epsilon ( sigma )) A_((1
+    sigma ( 1 ))) A_((2 sigma ( 2 ))) ... A_((n sigma ( n )))` où `σ` = (`σ`(1), `σ`(2),
+    …, `σ`(`n`)) est une permutation des indices (1, 2, …, `n`), `ε`(`σ`) est le nombre
+    d'inversions dans la permutation `σ`, et la somme notée Σ est étendue à toutes
+    les permutations
+  examples: []
+  id: 102-06-20
+  language_code: fra
+  notes:
+  - Le déterminant d'une matrice est égal au déterminant des `n` vecteurs dont les
+    coordonnées sont les éléments des lignes ou des colonnes.
+  - Le déterminant de la matrice `A = ( [[A_((11)),cdots,A_((1 n))],[vdots,ddots,vdots],[A_((n
+    1)),cdots,A_((n n))]] )` est noté det *`A`* ou `| [[A_((11)),cdots,A_((1 n))],[vdots,ddots,vdots],[A_((n
+    1)),cdots,A_((n n))]] |`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: déterminant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une matrice
+dateAccepted: 2018-11-17
+id: f2b7771f-8cac-5610-a8bf-05fda2d7b554
+status: valid

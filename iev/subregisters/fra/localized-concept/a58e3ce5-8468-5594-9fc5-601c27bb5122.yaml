@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: quotient du flux lumineux émis par une lampe de référence fonctionnant
+    avec un ballast commercial approprié, par le flux lumineux émis par la même lampe
+    de référence fonctionnant avec son ballast de référence
+  examples: []
+  id: 845-29-082
+  language_code: fra
+  notes:
+  - L'unité de facteur de flux lumineux d'un ballast est un.
+  - Cet article était numéroté 845-09-63 dans l'IEC 60050-845:1987.
+  - Le terme abrégé "BLF" est dérivé du terme anglais développé correspondant "ballast
+    lumen factor".
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de flux lumineux d'un ballast
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: BLF
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a58e3ce5-8468-5594-9fc5-601c27bb5122
+status: valid

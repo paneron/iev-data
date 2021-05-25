@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 161-06-01
+      original: 161-06-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '139'
+      original: UIT RR 139 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: rayonnement sur une ou des fréquences situées en dehors du canal assigné
+    et dont le niveau peut être réduit sans affecter la transmission de l'information
+    correspondante
+  examples: []
+  id: 713-09-05
+  language_code: fra
+  notes:
+  - Les rayonnements non essentiels comprennent les rayonnements harmoniques, les
+    rayonnements parasites, les produits d'intermodulation et les produits de conversion
+    de fréquence, mais ne comprennent pas les émissions hors bande.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rayonnement non essentiel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 1c59c26c-6b56-582f-8ecb-8255877ca4c7
+status: valid

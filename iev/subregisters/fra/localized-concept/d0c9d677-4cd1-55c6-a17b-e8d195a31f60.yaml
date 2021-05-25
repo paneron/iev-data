@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} destiné à répondre à la différence
+    des {{phaseurs, IEV:103-07-14}} et/ou {{grandeurs instantanées, IEV:103-05-12}}
+    entre les courants électriques d''entrée et de sortie spécifiés'
+  examples: []
+  id: 447-01-40
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais différentiel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d0c9d677-4cd1-55c6-a17b-e8d195a31f60
+status: valid

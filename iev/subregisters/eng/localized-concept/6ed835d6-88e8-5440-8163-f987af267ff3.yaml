@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 551-19-01
+      original: 551-19-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: quantity not essential for the performance of an item but affecting
+    its performance
+  examples: []
+  id: 151-16-31
+  language_code: eng
+  notes:
+  - For electric devices, typical influence quantities may be temperature, humidity,
+    pressure.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: influence quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 6ed835d6-88e8-5440-8163-f987af267ff3
+status: valid

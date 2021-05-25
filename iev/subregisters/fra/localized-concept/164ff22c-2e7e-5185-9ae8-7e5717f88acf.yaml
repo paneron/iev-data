@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble d'équations et de méthodologies dédiées à la transformation
+    des mesurages physiques des éléments d'une image par rapport et à partir de corrélats
+    d'attributs de perception spécifiques aux conditions de vision qui évaluent l'aspect
+    subjectif des éléments d'une image
+  examples: []
+  id: 845-32-003
+  language_code: fra
+  notes:
+  - Un modèle d'aspect chromatique d'une image peut être appliqué aux éléments d'une
+    scène (originale ou reproduction). Il détermine les corrélats d'attributs de perception
+    de ces éléments sans tenir compte des caractéristiques de tout support potentiel
+    de reproduction ultérieure. Toutefois, un modèle d'aspect chromatique d'une image
+    suivi de son modèle inverse peut être utilisé comme modèle de reproduction des
+    couleurs, notamment si le support de reproduction n'impose aucune limitation en
+    matière de couleurs à reproduire sur l'image.
+  - Il n'existe aucun consensus général concernant la forme appropriée de modèle d'aspect
+    chromatique d'une image. Il n'est pas prévu qu'un modèle d'aspect chromatique
+    à stimulus unique traite entièrement de l'effet de conditions de vision variables
+    sur une image étant donné que l'effet combiné de conditions de vision macroscopiques
+    et la présence d'autres couleurs dans cette image peut entraîner une modification
+    de son aspect chromatique non prévisible par le modèle à stimulus unique parce
+    qu'il ne garde pas trace des autres couleurs.
+  - Voir aussi "<a href="IEV845-22-107">rendu des couleurs</a>", "<a href="IEV845-32-002">modèle
+    d'aspect chromatique à stimulus unique</a>".
+  reviewDecisionEvent: published
+  terms:
+  - designation: modèle d'aspect chromatique d'une image
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 164ff22c-2e7e-5185-9ae8-7e5717f88acf
+status: valid

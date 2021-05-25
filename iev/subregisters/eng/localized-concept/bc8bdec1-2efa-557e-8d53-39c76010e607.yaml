@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for an ordered set of `n` vectors in an `n`-dimensional space with a
+    given base, scalar attributed to this set by the unique multilinear form taking
+    the value 0 when the vectors are linearly dependent and the value 1 for the base
+    vectors
+  examples: []
+  id: 102-03-37
+  language_code: eng
+  notes:
+  - 'When the coordinates of the `n` vectors `U_1 , U_2 , ... , U_n` are arranged
+    as columns or rows of an `n xx n` matrix, the determinant of the vectors is equal
+    to the determinant of the matrix:
+
+
+    `det ( U_1 , U_2 , ... , U_n ) = | [[U_((11)),U_((12)),cdots,U_((1 n))],[U_((21)),U_((22)),cdots,U_((2
+    n))],[vdots,vdots,ddots,vdots],[U_((n 1)),U_((n 2)),cdots,U_((n n))]] |`'
+  - According to the sign of the determinant, the set of vectors and the given base
+    have the same orientation or opposite orientations.
+  - For the three-dimensional Euclidean space, the determinant of three vectors is
+    the scalar triple product of the vectors.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: determinant
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: of <i
+dateAccepted: 2008-08-01
+id: bc8bdec1-2efa-557e-8d53-39c76010e607
+status: valid

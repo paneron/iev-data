@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: line integral, the differential element of which is the scalar product
+    of a vector and the vector line element
+  examples: []
+  id: 102-05-04
+  language_code: eng
+  notes:
+  - The scalar line integral along the oriented curve Γ of the vector *`V`* is denoted
+    by `underset(Gamma)( int ) V * d r`.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar line integral
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 0af304ea-a5c2-58e5-8dfa-67e3d33d7edd
+status: valid

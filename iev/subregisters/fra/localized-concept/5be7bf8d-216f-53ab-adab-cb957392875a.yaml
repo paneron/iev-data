@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: évaluation quantitative du degré d'accord entre la couleur psychophysique
+    d'un objet éclairé par l'illuminant en essai et celle du même objet éclairé par
+    l'illuminant de référence, l'état d'adaptation chromatique ayant été correctement
+    pris en compte
+  examples: []
+  id: 845-22-109
+  language_code: fra
+  notes:
+  - Voir aussi CIE 13, _Method of Measuring and Specifying Colour Rendering of Light
+    Sources_.
+  - Cet article était numéroté 845-02-61 dans l'IEC 60050-845:1987.
+  - Le terme abrégé "CRI" est dérivé du terme anglais développé correspondant "colour
+    rendering index".
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de rendu des couleurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: CRI
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5be7bf8d-216f-53ab-adab-cb957392875a
+status: valid

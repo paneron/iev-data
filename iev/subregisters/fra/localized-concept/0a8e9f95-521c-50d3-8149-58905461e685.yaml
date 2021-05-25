@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: différence de pression à travers l'{{électrolyte, IEV:485-03-01}}, mesurée
+    d'une {{électrode, IEV:485-02-01}} à l'autre
+  examples: []
+  id: 485-17-01
+  language_code: fra
+  notes:
+  - La pression différentielle dans la cellule est exprimée en Pa.
+  - L'ISO recommande l'utilisation de la pression absolue. Si la pression relative
+    est utilisée, il convient de le noter.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pression différentielle dans la cellule
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0a8e9f95-521c-50d3-8149-58905461e685
+status: valid

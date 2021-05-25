@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: time integral of photon radiance, `L`~p~, over a given duration, Δ`t`
+    `L_((p , t)) = underset((Delta t))( int ) L_p d t`
+  examples: []
+  id: 845-21-070
+  language_code: eng
+  notes:
+  - The corresponding radiometric quantity is "radiance dose". The corresponding photometric
+    quantity is "luminance dose".
+  - The photon radiance dose is expressed in metre to the power minus two per steradian
+    (m^−2^·sr^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photon radiance dose
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~p,~`t`
+
+      `Lt`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1a556599-1ff7-5e74-982b-65f213ebb3fd
+status: valid

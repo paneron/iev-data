@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 726-07-13
+      link: https://webstore.iec.ch/publication/30633
+      original: 726-07-13, see IEC 60027-2
+      ref: IEC 60027-2
+      relationship:
+        type: identical
+  dateAmended: 2002-06-01
+  definition: element of a scattering matrix
+  examples: []
+  id: 131-14-36
+  language_code: eng
+  notes:
+  - The scattering parameters are complex reflection factors or wave transfer factors.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scattering parameter
+    normative_status: preferred
+    type: expression
+  - designation: scattering coefficient
+    type: expression
+  - designation: '`S`~`ij`~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 57f1f8e5-df4b-514e-bcfb-5d3f77f28a12
+status: valid

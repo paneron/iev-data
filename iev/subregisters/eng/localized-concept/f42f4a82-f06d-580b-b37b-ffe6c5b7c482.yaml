@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity `c_p = (1)/(m) (( ((d Q))/((d T)) ))_p`, when the thermodynamic
+    temperature of a system with mass `m` is increased by d`T` as a result of the
+    addition of a small amount of heat d`Q` at constant pressure
+  examples: []
+  id: 113-04-49
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: specific heat capacity at constant pressure
+    normative_status: preferred
+    type: expression
+  - designation: '`c`~`p`~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: f42f4a82-f06d-580b-b37b-ffe6c5b7c482
+status: valid

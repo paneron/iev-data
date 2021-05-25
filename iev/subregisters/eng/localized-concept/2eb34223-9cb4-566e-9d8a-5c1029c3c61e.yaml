@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: '{{angle modulation, IEV:702-06-30}} in which each {{significant condition,
+    IEV:702-05-21}} in a modulating {{discretely timed signal, IEV:702-04-04}} is
+    represented by a specified value of the difference between the {{phase, IEV:103-07-04}}
+    of the {{modulated signal, IEV:702-06-05}} and the phase of the {{carrier, IEV:702-06-03}}
+    in the absence of {{modulation, IEV:701-03-08}}'
+  examples: []
+  id: 702-06-40
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase shift keying
+    normative_status: preferred
+    type: expression
+  - designation: PSK
+    normative_status: preferred
+    type: expression
+  - designation: phase shift modulation
+    normative_status: admitted
+    type: expression
+  - designation: phase shift signalling
+    normative_status: admitted
+    type: expression
+dateAccepted: 2018-09-01
+id: 2eb34223-9cb4-566e-9d8a-5c1029c3c61e
+status: valid

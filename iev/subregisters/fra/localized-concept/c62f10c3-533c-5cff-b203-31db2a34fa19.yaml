@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour deux points A et B dans un espace affine euclidien, norme du vecteur
+    `r_B - r_A` , où `r_A` et `r_B` sont respectivement les rayons vecteurs des point
+    A et B
+  examples: []
+  id: 102-03-24
+  language_code: fra
+  notes:
+  - Dans l'espace géométrique usuel à trois dimensions, la distance euclidienne est
+    une grandeur ayant la dimension d'une longueur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: distance euclidienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: distance
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c62f10c3-533c-5cff-b203-31db2a34fa19
+status: valid

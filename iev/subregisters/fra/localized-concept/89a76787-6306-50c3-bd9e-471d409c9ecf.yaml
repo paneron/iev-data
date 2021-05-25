@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: '{{intervalle de temps, IEV:113-01-10}} à occurrence cyclique qu''il
+    est possible de reconnaître et définir sans ambiguïté'
+  examples: []
+  id: 704-13-08
+  language_code: fra
+  notes:
+  - En {{transmission multiplex temporelle, IEV:721-06-02}}, des créneaux temporels
+    distincts sont attribués à chaque {{signal, IEV:101-12-02}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: créneau temporel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: intervalle de temps
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: IT
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 89a76787-6306-50c3-bd9e-471d409c9ecf
+status: valid

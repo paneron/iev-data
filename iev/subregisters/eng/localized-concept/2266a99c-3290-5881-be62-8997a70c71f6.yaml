@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: electronic conductor (or semiconductor) through which an electric current
+    enters or leaves the electrochemical cell as the result of an electrochemical
+    reaction
+  examples: []
+  id: 485-02-01
+  language_code: eng
+  notes:
+  - An electrode can be either an {{anode, IEV:485-02-04}} or a {{cathode, IEV:485-02-05}}.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electrode
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: 2266a99c-3290-5881-be62-8997a70c71f6
+status: valid

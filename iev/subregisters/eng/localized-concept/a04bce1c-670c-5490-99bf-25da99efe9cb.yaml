@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 801-22-07
+      original: 801-22-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1999-04-01
+  definition: logarithm of the ratio of the r.m.s. value of a given sound pressure
+    to the reference sound pressure.
+  examples: []
+  id: 415-06-01
+  language_code: eng
+  notes:
+  - Sound pressure level in decibels is 20 times the logarithm to the base ten of
+    this ratio
+  - For WTGS, the reference sound pressure is equal to 20 µPa.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sound pressure level
+    normative_status: preferred
+    type: expression
+dateAccepted: 1999-04-01
+id: a04bce1c-670c-5490-99bf-25da99efe9cb
+status: valid

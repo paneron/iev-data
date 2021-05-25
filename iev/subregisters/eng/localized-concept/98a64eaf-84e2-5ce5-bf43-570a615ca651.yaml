@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the equivalent star connection impedance related to one of the windings,
+    for a given tapping and expressed in ohms per phase, at rated frequency, measured
+    between the terminals of a winding when the other winding is short-circuited
+  examples: []
+  id: 421-07-02
+  language_code: eng
+  notes:
+  - This value is normally related to the appropriate reference temperature.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: short-circuit impedance of a pair of windings
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 98a64eaf-84e2-5ce5-bf43-570a615ca651
+status: valid

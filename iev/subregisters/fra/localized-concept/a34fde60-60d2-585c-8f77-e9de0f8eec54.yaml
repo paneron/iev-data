@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: sous-réseau qui permet l'accès à la fois depuis des réseaux externes
+    non fiables et depuis des réseaux internes, mais ne permet pas au trafic de s'écouler
+    entre ces deux types de réseaux
+  examples: []
+  id: 732-06-03
+  language_code: fra
+  notes:
+  - '– Voir Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-03fr.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous-réseau filtré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: a34fde60-60d2-585c-8f77-e9de0f8eec54
+status: valid

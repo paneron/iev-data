@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: état de l'hélium, sur son diagramme pression-température, représenté
+    par la région entourée par l'interface solide-liquide, l'interface liquide-gaz
+    et une ligne (ligne `λ`) reliant les deux points dits "point `λ` haut" (1,76 K
+    et 3,0 MPa) et "point `λ` bas" (2,18 K et 5,0 kPa)
+  examples: []
+  id: 815-15-18
+  language_code: fra
+  notes:
+  - 'Hélium superfluide saturé: hélium superfluide existant sur l’interface liquide-gaz
+    et au-dessous du point `λ` bas du diagramme pression-température.'
+  - 'Hélium superfluide pressurisé: hélium superfluide existant au-dessus de l’interface
+    liquide-gaz et au-dessous du point `λ` bas du diagramme pression-température.'
+  - L’hélium superfluide est caractérisé par une très faible viscosité et une forte
+    conductivité thermique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: hélium superfluide
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: He II
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fa333bbc-9742-5e02-b2cc-6978c87e3a67
+status: valid

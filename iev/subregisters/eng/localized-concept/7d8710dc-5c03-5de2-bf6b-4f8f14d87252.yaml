@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-26
+      original: 601-01-26 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: voltage having a value below a conventionally adopted limit
+  examples: []
+  id: 151-15-03
+  language_code: eng
+  notes:
+  - For the distribution of AC electric power, the upper limit is generally accepted
+    to be 1 000 V.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: low voltage
+    normative_status: preferred
+    type: expression
+  - designation: low tension
+    normative_status: preferred
+    type: expression
+  - designation: LV
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 7d8710dc-5c03-5de2-bf6b-4f8f14d87252
+status: valid

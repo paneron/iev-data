@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: rapport, à une durée spécifiée de l'intervalle unitaire, de la valeur
+    algébrique de l'écart entre un instant significatif déterminé et l'instant idéal
+    correspondant
+  examples: []
+  id: 721-07-05
+  language_code: fra
+  notes:
+  - Conventionnellement l'écart est positif ou négatif suivant que l'instant significatif
+    est postérieur ou antérieur à l'instant idéal.
+  - Le degré de distorsion individuelle s'exprime habituellement en pourcentage.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: degré de distorsion individuelle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taux de distorsion individuelle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: c1a65772-af9f-5e8f-834e-0b165ee931a2
+status: valid

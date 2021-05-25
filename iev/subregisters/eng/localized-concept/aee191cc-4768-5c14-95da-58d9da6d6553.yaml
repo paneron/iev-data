@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      link: https://webstore.iec.ch/publication/7248
+      original: IEC 62606:2013, 3.3
+      ref: IEC 62606:2013
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: device intended to mitigate the effects of arc faults by disconnecting
+    the circuit when an arc fault is detected
+  examples: []
+  id: 442-05-67
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: arc fault detection device
+    normative_status: preferred
+    type: expression
+  - designation: AFDD
+    type: expression
+dateAccepted: 2019-05-01
+id: aee191cc-4768-5c14-95da-58d9da6d6553
+status: valid

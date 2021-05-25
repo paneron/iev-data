@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un nombre complexe non nul `c`, nombre réel `φ` de l'intervalle
+    `- pi phi <= pi` tel que `c = | c | e^(j phi)`
+  examples: []
+  id: 102-02-17
+  language_code: fra
+  notes:
+  - 'L''argument `arg c` du nombre complexe `c = a + j b = | c | e^(j phi)` est égal
+    à:
+
+    `arccos ( a // sqrt(a^2 + b^2) )` si `b &gt;= 0` et `- arccos ( a // sqrt(a^2
+    + b^2) )` si `b 0`, où `0 &lt;= arccos x &lt;= pi`.
+
+
+    Il n''est pas défini si `a = b = 0`.'
+  - Le concept d'argument peut s'appliquer aux grandeurs scalaires complexes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: argument
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un nombre complexe
+dateAccepted: 2018-11-17
+id: 47e753c3-b20c-5477-9002-f97d61996133
+status: valid

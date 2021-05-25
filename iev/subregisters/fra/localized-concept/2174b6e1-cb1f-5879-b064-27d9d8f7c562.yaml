@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: plage de mélanges de gaz ou de vapeurs avec l'air, dont les concentrations
+    se situent entre les limites inférieure et supérieure d'inflammabilité (d'explosivité)
+  examples: []
+  id: 426-24-17
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: plage d'inflammabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: plage d'explosivité
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2018-11-17
+id: 2174b6e1-cb1f-5879-b064-27d9d8f7c562
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: modification d'un logiciel permettant d'en éliminer les pannes, de l'adapter
+    à un nouvel environnement ou d'améliorer ses performances
+  examples: []
+  id: 192-06-15
+  language_code: fra
+  notes:
+  - Les opérations de maintenance logicielle effectuées pour atteindre ces trois objectifs
+    sont appelées respectivement maintenance corrective ({{192-06-06, IEV:192-06-06}}),
+    maintenance adaptative ({{192-06-16, IEV:192-06-16}}) et maintenance améliorante
+    ({{192-06-17, IEV:192-06-17}}).
+  - Après une maintenance, l’état d’un logiciel est différent de son état précédent.
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenance logicielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e1e1e8b-f8f9-5ba5-af9a-cebed030e7aa
+status: valid

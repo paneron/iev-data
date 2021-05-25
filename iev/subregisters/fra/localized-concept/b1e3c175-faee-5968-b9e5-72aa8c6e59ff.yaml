@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: évaluation quantitative du papillotement sur un intervalle de temps
+    spécifié
+  examples: []
+  id: 614-01-31
+  language_code: fra
+  notes:
+  - L’indicateur de papillotement de courte durée, `P`~st~, est généralement mesuré
+    sur une durée de 10 min.
+  - L’indicateur de papillotement de longue durée, `P`~lt~, est généralement mesuré
+    à partir de 12 valeurs successives du `P`~st~ sur une durée de 2 h.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indicateur de papillotement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: indicateur de flicker
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b1e3c175-faee-5968-b9e5-72aa8c6e59ff
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: for a single radioactive decay process, the time `( T_(((1)/(2))) )`
+    in which the activity of the radionuclide is reduced to half of its initial value
+    by that process
+  examples: []
+  id: 881-04-46
+  language_code: eng
+  notes:
+  - 'The radioactive half-life is related to the decay constant by:
+
+
+    `T_(((1)/(2))) = ((ln 2))/(lambda) ≃ ((0,693))/(lambda)`
+
+
+    `λ` = decay constant'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radioactive half-life
+    normative_status: preferred
+    type: expression
+  - designation: '`T_(((1)/(2)))`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: b340cd73-8b3a-565c-bff9-12959245848c
+status: valid

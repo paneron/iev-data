@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fraction du courant électrique traversant un élément électrochimique,
+    qui est utilisée pour effectuer la réaction chimique voulue
+  examples: []
+  id: 114-03-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement en courant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rendement de Faraday
+    gender: m
+    plurality: singular
+    type: expression
+  - designation: rendement faradique
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 621f0be5-f7e2-5d64-9750-cd8a555175ad
+status: valid

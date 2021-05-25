@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '4.3'
+      original: ≈ VIM 4.3
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  dateAmended: 2001-07-01
+  definition: device intended to transform, with a specified accuracy and according
+    to a given law, the measurand, or a quantity already transformed therefrom, into
+    an electrical quantity
+  examples: []
+  id: 312-02-15
+  language_code: eng
+  notes:
+  - If the input quantity is electrical, the input and output quantities may not be
+    of the same kind, for example, a voltage and a current.
+  - In certain instances, measuring transducers also have a specific name in respect
+    of their function, (for example, amplifier, converter, transformer, frequency
+    transducer, etc.).
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: measuring transducer (with electrical output)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: bd9583bb-6b0d-5523-9384-f9b0d827ed81
+status: valid

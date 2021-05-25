@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 441-11-10
+      original: 441-11-10 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-03-02
+      original: 826-03-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: conductive part of equipment which can be touched and which is not normally
+    live, but which can become live when basic insulation fails
+  examples: []
+  id: 195-06-10
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposed-conductive-part
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: 26596937-09fe-5a03-b4f2-a1f5c980c59d
+status: valid

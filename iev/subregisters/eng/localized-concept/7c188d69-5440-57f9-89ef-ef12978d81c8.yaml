@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: functional unit with two or several inputs and one output the value
+    of the output variable of which is equal to the product of the values of the input
+    variables multiplied by constant weighting factors according to the formula `v
+    ( t ) = K_0 * K_1 * u_1 ( t ) * K_2 * u_2 ( t ) * K_3 * u_3 ( t ) * ...` where<table>
+    <tr> <td>`t`</td> <td>is the time;</td> </tr> <tr> <td> `K`~0~, `K`~1~ ...</td>
+    <td>are the weighting factors;</td> </tr> <tr> <td> `u`~1~, `u`~2~ ...</td> <td>are
+    the input variables;</td> </tr> <tr> <td>`v`</td> <td>is the multiplication result.</td>
+    </tr> </table>
+  examples: []
+  id: 351-50-33
+  language_code: eng
+  notes:
+  - This entry was numbered 351-32-17 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplying element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 7c188d69-5440-57f9-89ef-ef12978d81c8
+status: valid

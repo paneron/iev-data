@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: 1. an assembly, obtained by frequency division multiplexing of a specified
+    number of supergroups, normally 5, in adjacent positions in a frequency band of
+    specified width with guard bands between supergroups 2. a frequency band of standardized
+    width, 1 232 kHz, in a multichannel carrier system and occupying one of a number
+    of specified positions in the spectrum
+  examples: []
+  id: 704-10-19
+  language_code: eng
+  notes:
+  - A mastergroup is normally an assembly of 300 FDM telephone channels.
+  - In the USA, a mastergroup is an assembly of 10 supergroups, normally 600 FDM telephone
+    channels, with a bandwidth of 2 520 kHz.
+  - Signals, other than those derived from an assembly of supergroups but having specified
+    characteristics, may occupy the whole or a part of a frequency band normally assigned
+    to a master group.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mastergroup
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 84626bea-449a-5169-b7db-1e414181f5f3
+status: valid

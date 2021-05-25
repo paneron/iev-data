@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: chambre d'ionisation utilisant un dépôt sensible de matières susceptible
+    de fissionner pour détecter les neutrons
+  examples: []
+  id: 395-03-12
+  language_code: fra
+  notes:
+  - L’ionisation initiale est due aux fragments de fission produits par réaction nucléaire
+    des neutrons sur la matière fissionnable.
+  - Suivant la nature du dépôt, il est possible de détecter les neutrons thermiques,
+    les neutrons rapides ou tous les neutrons.
+  - Voir les définitions de nucléide fissile (CEI 60050-393:2003, 393-11-26) et nucléidefissionnable
+    (CEI 60050-393:2003, 393-11-28).
+  - Cet article était numéroté 394-25-10 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: chambre d’ionisation à fission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1cb2a909-3d53-570d-91a4-abbf68a3ae2d
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: mathematical integral of the gas concentration along the optical path
+    expressed in units of concentration multiplied by distance, e.g. LFL.metre for
+    flammable gases or ppm.metre for toxic gases
+  examples: []
+  id: 426-24-28
+  language_code: eng
+  notes:
+  - 100 %LFL × 1 metre = 1 LFL.metre; 10 %LFL × 10 metre = 1 LFL.metre.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: integral concentration
+    normative_status: preferred
+    type: expression
+    usage_info: gas detection
+dateAccepted: 2020-03-01
+id: cefe6699-4815-550d-8b51-4b5af8d8c83a
+status: valid

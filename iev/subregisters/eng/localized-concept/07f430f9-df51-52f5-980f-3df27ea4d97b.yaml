@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: force acting on a body, equal to the product of the mass `m` of that
+    body and the local acceleration of free fall *`g`*, thus *`F`*~g~ = `m`*`g`*
+  examples: []
+  id: 113-03-16
+  language_code: eng
+  notes:
+  - 1 When the reference frame is Earth or another astronomical object, weight comprises
+    not only the local gravitational force, but also the local centrifugal force due
+    to the rotation of that object.
+  - 2 The effect of atmospheric buoyancy is excluded in the weight.
+  - 3 In common parlance, the name "weight" continues to be used when "mass" is meant,
+    but this practice is deprecated.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: weight
+    normative_status: preferred
+    type: expression
+  - designation: '*`F`*~g~
+
+      *`Q`*'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 07f430f9-df51-52f5-980f-3df27ea4d97b
+status: valid

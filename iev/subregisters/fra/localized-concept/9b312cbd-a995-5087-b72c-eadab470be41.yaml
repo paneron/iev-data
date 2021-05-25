@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: rapport de la valeur en décibels de l'affaiblissement inverse à la valeur
+    en décibels de l'affaiblissement direct le long d'un même trajet de propagation
+    dans un circulateur ou un isolateur
+  examples: []
+  id: 726-18-07
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur d'affaiblissement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de pertes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 9b312cbd-a995-5087-b72c-eadab470be41
+status: valid

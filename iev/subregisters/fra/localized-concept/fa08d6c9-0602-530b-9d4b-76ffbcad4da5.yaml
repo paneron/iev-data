@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: couple de modes pour lesquels la puissance totale traversant une section
+    droite est égale au flux total à travers cette surface de la somme des vecteurs
+    de Poynting de chaque mode; en d'autres termes, le flux total à travers cette
+    section droite, de la somme des deux produits croisés `vec E_1 xx vec H_2 + vec
+    E_2 xx vec H_1` dans le vecteur de Poynting total, est nulle
+  examples: []
+  id: 726-04-16
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modes orthogonaux
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2021-01-01
+id: fa08d6c9-0602-530b-9d4b-76ffbcad4da5
+status: valid

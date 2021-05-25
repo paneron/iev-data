@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: for an inductive two-terminal element with terminals A and B, quotient
+    of the linked flux `Ψ` between the terminals by the electric current `i` in the
+    element `L = (Psi)/(i)` where the sign of the linked flux is determined by taking
+    the voltage, in the time integral defining it, as the difference of the electric
+    potentials at terminals at A and B, and where the current is taken as positive
+    if its direction is from A to B and negative if its direction is from B to A
+  examples: []
+  id: 131-12-19
+  language_code: eng
+  notes:
+  - An inductance cannot be negative.
+  - In French, the term “inductance” is also a short term for “bobine d’inductance”,
+    in English “inductor” ({{151-13-25, IEV:151-13-25}}).
+  - The coherent SI unit of inductance is henry, H.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: fc420786-6bc0-52d1-a019-853f3a8ca636
+status: valid

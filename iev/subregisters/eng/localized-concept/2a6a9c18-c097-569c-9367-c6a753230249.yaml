@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.6
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.6
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: nearly simultaneous transmission of the same information to several
+    destinations
+  examples: []
+  id: 811-37-10
+  language_code: eng
+  notes:
+  - Broadcast in the TCN is not considered reliable, i.e. some destinations can receive
+    the information and others not.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: broadcast
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 2a6a9c18-c097-569c-9367-c6a753230249
+status: valid

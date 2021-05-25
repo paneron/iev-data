@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: phénomène de battement spatial engendré par la modulation de nombreuses
+    fréquences spatiales
+  examples: []
+  id: 808-04-07
+  language_code: fra
+  notes:
+  - L’échantillonnage de motifs incidents continus dans l’espace par chaque pixel
+    du dispositif capteur d’image provoque l’apparition d’une distorsion de repliement
+    dans le signal vidéo. Avec une caméra vidéo la distorsion du signal de luminance
+    est appelée moiré de luminance, alors que celles des signaux de chrominance est
+    appelée moiré de chrominance.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moiré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: cda341dc-dd6c-5d05-befc-7986df5c6028
+status: valid

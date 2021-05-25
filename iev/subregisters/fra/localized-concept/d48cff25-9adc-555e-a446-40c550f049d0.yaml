@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: qualifie `n` vecteurs `U_1 , U_2 , ... , U_n` lorsqu'une combinaison
+    linéaire de la forme `alpha_1 U_1 + alpha_2 U_2 + ... + alpha_n U_n` ne peut être
+    nulle que si tous les coefficients scalaires `alpha_1 , alpha_2 , ... , alpha_n`
+    sont nuls
+  examples: []
+  id: 102-03-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: linéairement indépendant
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: d48cff25-9adc-555e-a446-40c550f049d0
+status: valid

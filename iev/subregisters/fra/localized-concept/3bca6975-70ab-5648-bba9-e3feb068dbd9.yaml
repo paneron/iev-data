@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: méthode de transmission de données consistant à transmettre les données
+    dans la bande de base d'un faisceau hertzien analogique, au-dessus de la bande
+    de fréquences occupée par un multiplex à répartition en fréquence
+  examples: []
+  id: 713-12-02
+  language_code: fra
+  notes:
+  - En général, la transmission s'effectue par modulation d'une sous-porteuse.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (transmission de) données supravocales
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+  - designation: DAV
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 3bca6975-70ab-5648-bba9-e3feb068dbd9
+status: valid

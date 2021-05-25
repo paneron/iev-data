@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 726-07-07
+      original: 726-07-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2002-06-01
+  definition: for a two-port or `n`-port network, ratio of an output scattering variable
+    at one port to the incident scattering variable at another port, when the incident
+    waves at all other ports are zero
+  examples: []
+  id: 131-14-37
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: wave transfer factor
+    normative_status: preferred
+    type: expression
+  - designation: amplitude transmission factor
+    type: expression
+dateAccepted: 2002-06-01
+id: 09a2cee6-dba4-5c2d-97dd-9748fb96e644
+status: valid

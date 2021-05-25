@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: valeur la plus élevée de la tension qui se présente à un instant et
+    en un point quelconque du réseau dans des conditions d'exploitation normales
+  examples: []
+  id: 601-01-23
+  language_code: fra
+  notes:
+  - Ces valeurs ne tiennent pas compte des variations transitoires, par exemple dues
+    aux manoeuvres dans le réseau, ni des variations temporaires accidentelles de
+    la tension.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension la plus élevée d'un réseau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: b2ff4525-207e-51f9-b73a-3c38ba2ee5b1
+status: valid

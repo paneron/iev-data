@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: taux de justification qui serait obtenu si le signal numérique original
+    et la suite des créneaux temporels élémentaires destinée à sa transmission avaient
+    leurs débits numériques respectivement à la limite supérieure et à la limite inférieure
+    des plages de tolérance
+  examples: []
+  id: 704-21-15
+  language_code: fra
+  notes:
+  - Le taux minimal de justification limite inférieurement les valeurs du taux de
+    justification qui peuvent être obtenues en pratique.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux minimal de justification
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 6400e730-054e-5589-9dbe-70ca80ccc41a
+status: valid

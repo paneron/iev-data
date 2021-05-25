@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: assembly of components that ensures intrinsic safety of a circuit by
+    the use of shunt components
+  examples: []
+  id: 426-11-50
+  language_code: eng
+  notes:
+  - The shunt component can be a resistor or a semiconductor safely diverting the
+    current or limiting the voltage in an intrinsically safe circuit or the voltage
+    at an energy-storing component.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shunt safety assembly
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: fcdc0f1d-78a0-501a-9845-923f3fd8b96f
+status: valid
