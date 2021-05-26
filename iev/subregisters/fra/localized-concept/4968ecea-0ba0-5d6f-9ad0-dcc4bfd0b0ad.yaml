@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{système, IEV:192-01-03}} conçu pour fournir un <a href="IEV845-29-001">éclairage</a>'
+  examples: []
+  id: 845-27-010
+  language_code: fra
+  notes:
+  - Un système d'éclairage peut être dédié au<ol type="a">. soutien d'une ou de plusieurs
+    tâches visuelles spécifiées dans des conditions spécifiées compte tenu d'autres
+    exigences telles que le confort humain, la sécurité, l'aspect de l'environnement
+    immédiat et la consommation d'énergie;. soutien de tâches autres que les tâches
+    humaines.
+  - Un système d'éclairage peut inclure un ensemble de sources de lumière, d'autres
+    composants physiques, des protocoles de communication des interfaces utilisateurs,
+    des logiciels et des réseaux afin d'assurer des fonctions de commande et de surveillance.
+  - La ou les sources de lumière et le matériel associé peuvent être intégrés en un
+    seul élément, par exemple, un module LED, une lampe ou un luminaire.
+  - Un système d'éclairage peut être mis en réseau afin d'assurer des fonctions de
+    commande et de surveillance centrales ou distantes.
+  - Un système d'éclairage peut être connecté ou intégré à d'autres systèmes ou dispositifs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système d'éclairage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4968ecea-0ba0-5d6f-9ad0-dcc4bfd0b0ad
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée entre l'instant où la {{grandeur caractéristique, IEV:447-07-01}}
+    d'un {{relais de mesure, IEV:447-01-02}} ou d'un {{équipement de protection, IEV:447-01-49}}
+    à l'{{état de repos, IEV:447-02-02}} est modifiée au-delà de sa {{valeur de fonctionnement,
+    IEV:447-02-10}}, dans des conditions spécifiées, et l'instant où un {{circuit
+    de sortie de travail, IEV:447-04-08}} spécifié se ferme pour la première fois
+  examples: []
+  id: 447-05-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps d'établissement d'un circuit de sortie de travail
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 683ca222-7b59-52d1-80b9-44278fa1e142
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 705-04-17
+      original: MOD 705-04-17
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1991-10-01
+  definition: the ratio of the power flux density of a reflected wave and an incident
+    wave, in a same point, in the corresponding directions of propagation of energy
+    after and before reflection
+  examples: []
+  id: 731-03-25
+  language_code: eng
+  notes:
+  - In optics, frequently expressed as reflectance density or as a percentage; in
+    communication applications, generally expressed in decibels.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power reflection coefficient
+    normative_status: preferred
+    type: expression
+  - designation: reflectance
+    type: expression
+dateAccepted: 1991-10-01
+id: a6041453-2805-5e27-9290-20b536f2163f
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: appareil, accessoire, dispositif et élément analogue utilisé comme partie
+    d'une installation ou raccordé à une installation
+  examples: []
+  id: 426-01-01
+  language_code: fra
+  notes:
+  - Les matériels comprenant un {{Mode de Protection, IEV:426-01-02}} peuvent être
+    des "{{Matériels Ex, IEV:426-01-14}}", ou un "{{Composant Ex, IEV:426-01-13}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: matériel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: atmosphères explosives
+dateAccepted: 2018-11-17
+id: a299aa53-7a65-5154-9b3d-5676a403b8ca
+status: valid

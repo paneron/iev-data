@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: for a given function and under specified conditions, the duration needed
+    by a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    to recover from an {{operate condition, IEV:447-02-01}} so that the following
+    {{operate time, IEV:447-05-05}} is within specified value
+  examples: []
+  id: 447-05-08
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recovery time
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: e2cd70b2-cadd-5a09-b971-adf14ae7eb5c
+status: valid

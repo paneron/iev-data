@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de la {{valeur efficace, IEV:103-02-03}} à la valeur redressée
+    d'une grandeur {{alternative, IEV:103-06-03}}
+  examples: []
+  id: 103-06-14
+  language_code: fra
+  notes:
+  - Pour une grandeur alternative `x` de valeur efficace `X_((e f f))`, le facteur
+    de forme est `F = X_((e f f)) // bar | x |`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de forme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f863ff7b-02a5-5d64-a850-a2cac12bc89e
+status: valid

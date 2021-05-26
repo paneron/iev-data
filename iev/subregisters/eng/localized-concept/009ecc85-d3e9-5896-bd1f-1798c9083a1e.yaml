@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: empirical law which describes the pinning force density as separable
+    functions of temperature `T` and magnetic flux density, `B`
+  examples: []
+  id: 815-12-26
+  language_code: eng
+  notes:
+  - The pinning force density, `F`~p~, is typically given by `F`~p~ ∝ &amp;lsqb;`B`~c2~(`T`)&amp;rsqb;^`m`^`f`(`b`),
+    where `m` is a real number, `f`(`b`) is a function of the reduced magnetic flux
+    density `b` = `B`/`B`~c2~ and `B`~c2~ = `μ`~0~`H`~c2~, where `μ`~0~ is the magnetic
+    constant and `H`~c2~ is the upper critical field strength.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scaling law of pinning force density
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 009ecc85-d3e9-5896-bd1f-1798c9083a1e
+status: valid

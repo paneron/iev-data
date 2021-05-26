@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '133'
+      original: UIT RR 133 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: ensemble des caractéristiques d'une émission, telles que le type de
+    modulation de la porteuse principale, la nature du signal modulant, le genre d'informations
+    à transmettre, et éventuellement d'autres caractéristiques; chaque classe est
+    désignée par un ensemble de symboles normalisés
+  examples: []
+  id: 713-09-28
+  language_code: fra
+  notes:
+  - Les classes d'émission et leurs symboles normalisés sont définis dans le Règlement
+    des radiocommunications de l'UIT.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: classe d'émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: ead52887-779c-595e-9673-dc7c0d82cd01
+status: valid

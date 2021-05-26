@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: part of high-speed {{internal storage, IEV:171-04-18}} having a specified
+    small {{storage capacity, IEV:171-04-16}} and usually intended for a specific
+    purpose
+  examples:
+  - '{{Shift register, IEV:721-12-57}}.'
+  id: 171-04-19
+  language_code: eng
+  notes:
+  - The storage capacity of a register is the register length.
+  - An example of a specific purpose is given in {{IEV 351-52-11, IEV:351-52-11}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: register
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: aa9727fc-16f4-5a9a-9beb-220bd059030f
+status: valid

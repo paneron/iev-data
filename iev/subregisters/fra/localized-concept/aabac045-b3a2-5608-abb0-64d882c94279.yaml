@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{modulation, IEV:701-03-08}} dans laquelle l''amplitude d''une {{porteuse,
+    IEV:702-06-03}} périodique varie selon une loi donnée, généralement linéaire,
+    en fonction des {{valeurs instantanées, IEV:103-05-12}} du {{signal modulant,
+    IEV:702-06-04}}'
+  examples: []
+  id: 702-06-17
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation d'amplitude
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: modulation en amplitude
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MA
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: aabac045-b3a2-5608-abb0-64d882c94279
+status: valid

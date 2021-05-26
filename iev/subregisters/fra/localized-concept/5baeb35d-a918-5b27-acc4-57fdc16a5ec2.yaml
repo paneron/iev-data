@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: application d'un gaz d'essai ou d'un autre moyen permettant d'obtenir
+    une réponse du capteur afin de vérifier son fonctionnement
+  examples: []
+  id: 426-24-22
+  language_code: fra
+  notes:
+  - Cette vérification est aussi connue sous les appellations "contrôle de la réponse"
+    ou "essai de la résistance aux chocs". Cette vérification est généralement effectuée
+    sans réglage de la sensibilité.
+  - Ceci peut comprendre la production d'une alarme.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vérification de fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: 5baeb35d-a918-5b27-acc4-57fdc16a5ec2
+status: valid

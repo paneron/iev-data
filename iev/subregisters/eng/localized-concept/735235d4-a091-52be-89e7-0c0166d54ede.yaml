@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: one of the coordinates that is used to describe the position within
+    a system, where `i` = 1, 2, …, `N`, and `N` is the degree of freedom or lowest
+    number of coordinates necessary to fully define the position
+  examples: []
+  id: 113-03-73
+  language_code: eng
+  notes:
+  - The unit depends on the type of representation of the system. In mechanics, the
+    generalized coordinates may be length or angle.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: generalized coordinate
+    normative_status: preferred
+    type: expression
+  - designation: '`q`~`i`~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 735235d4-a091-52be-89e7-0c0166d54ede
+status: valid

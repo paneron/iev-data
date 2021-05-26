@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-07
+      original: 705-03-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: medium which can be electrically polarized and in which a time-varying
+    electric field produces an electric current density the vector component of which
+    in a given direction has a magnitude small compared with that of the vector component
+    of the displacement current density in this direction, in a particular frequency
+    band
+  examples: []
+  id: 121-12-10
+  language_code: eng
+  notes:
+  - 'For sinusoidal conditions in an isotropic medium, the medium is dielectric if
+    the following relation is satisfied:
+
+
+    `(gamma)/((epsilon_0 omega)) ≫ epsilon^( '' )_r`
+
+
+    where `γ` is the conductivity, `ε`~0~ the electric constant, `ω` the angular frequency
+    and `ε`′~r~ the real relative permittivity.'
+  - An anisotropic medium may be dielectric only in certain directions.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dielectric medium
+    normative_status: preferred
+    type: expression
+  - designation: dielectric
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 22cd2bb4-612e-5aef-9456-230a8a9f684c
+status: valid

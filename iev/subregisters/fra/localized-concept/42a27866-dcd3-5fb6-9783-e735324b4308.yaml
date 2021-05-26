@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: mode de modulation dans lequel les éléments binaires "0" et "1" sont
+    représentés par des durées différentes d'une impulsion ou d'un intervalle entre
+    impulsions
+  examples: []
+  id: 371-07-11
+  language_code: fra
+  notes:
+  - Le rapport entre les durées du signal long et du signal court, qui dépend des
+    conditions imposées pour la sécurité et pour la vitesse de transmission du message,
+    n'est pas obligatoirement un nombre entier.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation numérique d'impulsions en durée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 42a27866-dcd3-5fb6-9783-e735324b4308
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: for a polyphase line mean value, taken over one period, of the instantaneous
+    power
+  examples: []
+  id: 141-03-11
+  language_code: eng
+  notes:
+  - For a three-phase line under symmetric and sinusoidal conditions, the active power
+    is `P = U I sqrt(3) cos varphi`, where `U` is the RMS value of any line-to-line
+    voltage, `I` is the RMS value of any line current and `ϕ`  is the displacement
+    angle between any line-to-neutral voltage and the corresponding line current.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: active power
+    normative_status: preferred
+    type: expression
+    usage_info: for a polyphase line
+  - designation: '`P`'
+    international: true
+    type: symbol
+dateAccepted: 2004-08-01
+id: 311f89e2-ec7a-52cb-a618-dc290b7128bc
+status: valid

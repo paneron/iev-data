@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: pour un fluide en écoulement laminaire dans la direction `x`, c'est-à-dire
+    tel que `v`~`y`~ = `v`~`z`~ = 0 et `v`~`x`~ = `v`~`x`~ (`z`) ≥ 0, où `x`, `y`,
+    `z` sont des coordonnées cartésiennes, grandeur scalaire caractérisant le frottement
+    interne et égale à `((tau_((x z))))/((d v_x // d z))`, où `τ`~`xz`~ est la contrainte
+    tangentielle dans le fluide
+  examples: []
+  id: 113-03-34
+  language_code: fra
+  notes:
+  - L'unité SI cohérente de viscosité dynamique est le pascal seconde, Pa·s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: viscosité dynamique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: viscosité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 06fa3fd1-c557-5076-8c74-719bdfbb2704
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: form of fault-tolerant software design in which several diverse versions
+    of a program are executed in parallel and the majority output is selected
+  examples: []
+  id: 192-10-20
+  language_code: eng
+  notes:
+  - The program versions are usually executed in separate processors.
+  - Each version is capable of performing the given task. At least three versions
+    are employed. A voter selects the result on which the majority of versions agree.
+    If no majority exists, then the whole functional unit fails.
+  - '`N`-version programming is an example of active redundancy, and is mostly used
+    in avionics and process control systems.'
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`N`-version programming'
+    normative_status: preferred
+    type: expression
+  - designation: NVP
+    type: expression
+dateAccepted: 2015-02-01
+id: 5ddf05ec-ee80-5df6-8260-1a3107682d2a
+status: valid

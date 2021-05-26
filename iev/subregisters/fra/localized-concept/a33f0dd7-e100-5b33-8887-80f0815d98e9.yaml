@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction dont l'argument est un ensemble ordonné de `n` nombres ou grandeurs
+    scalaires
+  examples: []
+  id: 103-01-06
+  language_code: fra
+  notes:
+  - La valeur d'une fonction `f` de `n` variables `x_1 , x_2 , ... , x_n` est notée
+    `f ( x_1 , x_2 , ... , x_n )`.
+  - Dans de nombreuses applications en électrotechnique, on utilise des fonctions
+    d'une seule variable. Cette variable est souvent la durée et la fonction est alors
+    appelée «fonction du temps» et notée `f`(`t`). Mais les variables peuvent aussi
+    être des variables spatiales (par exemple des coordonnées), la fréquence, etc.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de `n` variables
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a33f0dd7-e100-5b33-8887-80f0815d98e9
+status: valid

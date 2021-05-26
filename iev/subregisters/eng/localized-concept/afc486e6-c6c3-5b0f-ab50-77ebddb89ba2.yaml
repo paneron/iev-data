@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-09-01
+  definition: '{{radio noise, IEV:161-01-12}} having its source in man-made {{apparatus,
+    IEV:151-11-22}} or {{installations, IEV:151-11-26}}'
+  examples: []
+  id: 713-11-28
+  language_code: eng
+  notes:
+  - In English, the term "man-made noise" is also used for any electromagnetic noise
+    and not only for radio noise (see {{IEV 161-01-18, IEV:161-01-18}}).
+  - In French,  the terms "bruit artificiel" and "parasite artificiel" are also used
+    for any electromagnetic noise and not only for radio noise (see {{IEV 161-01-18,
+    IEV:161-01-18}}).
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: man-made noise
+    normative_status: preferred
+    type: expression
+    usage_info: in radiocommunications
+dateAccepted: 2018-09-01
+id: afc486e6-c6c3-5b0f-ab50-77ebddb89ba2
+status: valid

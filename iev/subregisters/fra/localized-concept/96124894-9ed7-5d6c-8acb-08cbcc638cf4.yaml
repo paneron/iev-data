@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.20
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.20
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: personne physique qui utilise un {{système, IEV:151-11-27}}
+  examples: []
+  id: 741-01-20
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: utilisateur humain
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 96124894-9ed7-5d6c-8acb-08cbcc638cf4
+status: valid

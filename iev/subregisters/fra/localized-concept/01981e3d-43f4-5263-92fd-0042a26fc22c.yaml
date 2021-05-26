@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: temps nécessaire pour qu'à la suite d'une variation brusque des conditions
+    de fonctionnement, la composante continue présente dans le courant de court-circuit
+    décroisse jusqu'à 1/e, c'est-à-dire 0,368 fois sa valeur initiale la machine tournant
+    à sa vitesse assignée
+  examples: []
+  id: 411-48-31
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de temps du courant de court-circuit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 01981e3d-43f4-5263-92fd-0042a26fc22c
+status: valid

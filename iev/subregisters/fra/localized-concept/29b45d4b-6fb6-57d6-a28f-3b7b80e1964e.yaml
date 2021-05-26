@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: rapport de la valeur absolue de la perméance mutuelle `Λij` de deux
+    éléments de circuit `i` et `j` à la moyenne géométrique de leurs perméances propres
+    `Λii` et `Λjj` `k_((i j)) = ((| Lambda_(( i j)) |))/((sqrt(Lambda_(( i i)) Lambda_((j
+    j)))))`
+  examples: []
+  id: 131-12-41
+  language_code: fra
+  notes:
+  - 'Le facteur de couplage inductif peut aussi être exprimé par
+
+
+    `k_((i j)) = ((| L_(( i j)) |))/((sqrt(L_(( i i)) L_((j j)))))`
+
+
+    où `Lii` et `Ljj` sont les inductances propres des éléments et `Lij` leur inductance
+    mutuelle.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de couplage inductif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de couplage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 29b45d4b-6fb6-57d6-a28f-3b7b80e1964e
+status: valid

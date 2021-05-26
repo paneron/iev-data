@@ -1,0 +1,24 @@
+data:
+  identifier: 723-10-09
+  localizedConcepts:
+    ara: 6b0f519c-005e-53a6-8159-8e05193566ce
+    deu: 7f9de47e-d813-59f3-b3e1-d34204dd1192
+    eng: ac447e6e-08d7-5dab-b6a5-7c21736bc4b1
+    fra: af469dbd-d1f2-5b0b-a3ad-dca6d6e922ad
+    ita: 6a2c44c3-5813-5a10-9777-0d7d61b48c5e
+    jpn: 5d933d37-437f-5c39-9233-1148aa9d5663
+    kor: 09853d2a-b199-536c-9b43-3a39e742fdfc
+    pol: d7d11d5f-16b5-5da3-9444-d96a202e1605
+    por: 0f07c53a-0ba4-5788-9f17-7eb2100409be
+    spa: 5912e3a5-3420-505c-b3da-c7ab7823bcb2
+    swe: d9a9a109-980d-5f21-9600-0142db6e0e3c
+    zho: bad6c1b9-30ec-5959-a1a5-4ca7ae497626
+dateAccepted: 2018-11-17
+id: 3a5a8991-9f67-54d1-92fd-4e97fb06656c
+related:
+- ref:
+    id: 723-10-09
+    source: IEV
+    version: 1997-03
+  type: supersedes
+status: valid

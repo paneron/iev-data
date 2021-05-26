@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: distance entre le plafond et le centre lumineux du luminaire
+  examples: []
+  id: 845-29-088
+  language_code: fra
+  notes:
+  - La distance au plafond ou hauteur de suspension est exprimée en mètres (m).
+  - Cet article était numéroté 845-09-68 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: distance au plafond
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un luminaire intérieur
+  - designation: hauteur de suspension
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: d'un luminaire intérieur
+dateAccepted: 2018-11-17
+id: 270d9028-cb6e-5ba3-9701-6cb7d670d563
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.39
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.39
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: layer in the OSI model ({{IEV 716-01-20, IEV:716-01-20}}) responsible
+    for routing between different busses
+  examples: []
+  id: 811-37-72
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: network layer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 98318c3c-e729-513d-a351-ea5213d6f747
+status: valid

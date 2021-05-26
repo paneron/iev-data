@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: ratio of the voltage applied between a specified reference point and
+    the input terminals, when connected together by a specified circuit, to the voltage
+    required between the input terminals to produce the same value of the output
+  examples: []
+  id: 312-06-21
+  language_code: eng
+  notes:
+  - The common mode rejection ratio is usually expressed in decibels and can depend
+    on the frequency, the waveform and the method of measurement.
+  - Common mode rejection ratio can also apply to quantities other than voltage.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: common mode rejection ratio
+    normative_status: preferred
+    type: expression
+  - designation: CMRR
+    type: expression
+dateAccepted: 2001-07-01
+id: 5703fb30-206b-59ea-b6b1-573592ec87ee
+status: valid

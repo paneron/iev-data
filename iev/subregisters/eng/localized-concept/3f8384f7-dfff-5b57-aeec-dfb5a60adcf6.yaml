@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of luminous flux with respect to solid angle in a specified
+    direction `I_v = ((d Phi_v))/((d omega))` where `Φ`~v~ is the luminous flux emitted
+    in a specified direction, and `Ω` is the solid angle containing that direction
+  examples: []
+  id: 845-21-045
+  language_code: eng
+  notes:
+  - For practical realization of the quantity, the source is approximated by a <a
+    href="IEV845-21-033">point source</a>.
+  - 'The distribution of the luminous intensities as a function of the direction of
+    emission, e.g. given by the polar angles (`ϑ`, `φ`), is used to determine the
+    luminous flux, `Φ`~v~, within a certain solid angle, `Ω`, of a source:
+
+
+    `Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d
+    vartheta`.'
+  - 'Luminous intensity can be derived from the spectral radiant intensity distribution
+    by
+
+
+    `I_v = \ K_m int_0^(oo) I_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    where `K`~m~ is maximum luminous efficacy, `I`~e,`λ`~(`λ`) is the spectral radiant
+    intensity at wavelength `λ`, and `V`(`λ`) is <a href="IEV845-21-035">spectral
+    luminous efficiency</a>.'
+  - The corresponding radiometric quantity is "radiant intensity". The corresponding
+    quantity for photons is "photon intensity".
+  - The luminous intensity is expressed in candela (cd = lm·sr^−1^).
+  - This entry was numbered 845-01-31 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~v~
+
+      `I`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 3f8384f7-dfff-5b57-aeec-dfb5a60adcf6
+status: valid

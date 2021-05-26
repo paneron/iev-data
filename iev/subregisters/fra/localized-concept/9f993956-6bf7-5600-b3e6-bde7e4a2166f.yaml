@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: diagramme de chromaticité uniforme obtenu en portant en coordonnées
+    rectangulaires `v` et `u`
+  examples: []
+  id: 845-23-079
+  language_code: fra
+  notes:
+  - Le diagramme de chromaticité uniforme CIE 1960 permet essentiellement de déterminer
+    la température de couleur proximale.
+  - Le <a href="IEV845-23-073">diagramme de chromaticité uniforme CIE 1976</a> est
+    une version modifiée du diagramme de chromaticité uniforme CIE 1960 équivalent
+    au diagramme (u, 3/2 v); par conséquent, le diagramme (u, v) est équivalent au
+    diagramme (u', 2/3 v').
+  reviewDecisionEvent: published
+  terms:
+  - designation: diagramme de chromaticité uniforme CIE 1960
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: diagramme de chromaticité uniforme (u, v) CIE 1960
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9f993956-6bf7-5600-b3e6-bde7e4a2166f
+status: valid

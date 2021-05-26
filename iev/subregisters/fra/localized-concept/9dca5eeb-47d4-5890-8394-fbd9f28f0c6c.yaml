@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: charge totale récupérée dans une diode ou dans un thyristor après commutation
+    d'un état passant spécifié vers un état bloqué spécifié
+  examples: []
+  id: 521-05-18
+  language_code: fra
+  notes:
+  - Cette charge est composée de celle des porteurs de charges stockés et de celle
+    due à la capacité de la couche d’appauvrissement.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge récupérée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: 9dca5eeb-47d4-5890-8394-fbd9f28f0c6c
+status: valid

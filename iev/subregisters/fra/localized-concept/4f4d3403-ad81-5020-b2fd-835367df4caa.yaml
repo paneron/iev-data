@@ -1,0 +1,74 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: tarif pour l'application duquel la consommation d'une période déterminée
+    est répartie en tranches successives d'importance fixée auxquelles s'appliquent
+    des prix de kilowattheures différents
+  examples: []
+  id: 691-05-11
+  language_code: fra
+  notes:
+  - 'L''importance des tranches peut être:
+
+
+    - soit uniforme (x), par exemple:
+
+
+    les 50 premiers kWh mensuels à un prix `p`~1~,
+
+
+    les 50 kWh mensuels suivants à un prix `p`~2~,
+
+
+    le reste de la consommation mensuelle à un prix `p`~3~,
+
+
+    - soit variable (xx) selon l''importance du local alimenté (nombre de pièces,
+    superficie, etc.), par exemple:
+
+
+    pour un local de 1 pièce:
+
+
+    les 200 premiers kWh annuels à un prix `p`~1~,
+
+
+    le reste de la consommation annuelle à un prix `p`~2~,
+
+
+    pour un local de 2 pièces:
+
+
+    les 300 premiers kWh annuels à un prix `p`~1~,
+
+
+    le reste de la consommation annuelle à un prix `p`~2~,
+
+
+    pour un local de 3 pièces: etc.
+
+
+    - soit variable selon la puissance ou d''autres paramètres, par exemple:
+
+
+    100 kWh par kVA de puissance souscrite et par mois à un prix `p`~1~,
+
+
+    le reste de la consommation mensuelle à un prix `p`~2~.
+
+
+    L''importance des tranches et les prix du kilowattheure peuvent, dans certains
+    cas, varier selon les époques de l''année (par exemple: hiver, été).'
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif à tranches
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 4f4d3403-ad81-5020-b2fd-835367df4caa
+status: valid

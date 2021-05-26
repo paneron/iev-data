@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 2.4.15
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.4.15, modified – "Microgyroscopes are expected
+        to be applied as microrobot attitude sensors." omitted from Note 1 to entry
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: '"Microgyroscopes are expected to be applied as microrobot attitude
+          sensors." omitted from Note 1 to entry'
+        type: modified
+  dateAmended: 2018-12-01
+  definition: microscopic {{sensor, IEV:151-13-48}} for measuring angular velocity
+  examples: []
+  id: 523-04-04
+  language_code: eng
+  notes:
+  - Rotational and vibrational gyroscopes are based on the Coriolis force. Ring laser
+    gyroscopes and optical fibre gyroscopes are based on the Sagnac effect. Among
+    these types of gyroscope, vibrational gyroscopes (the tuning fork- and resonant
+    piece-types) are suitable for miniaturization and are being developed for miniaturized
+    applications.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: microgyroscope
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 10b0e95e-7397-5f54-b449-b76542762eb4
+status: valid

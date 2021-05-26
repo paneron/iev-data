@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - - clause: '3.8'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.8 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: straight line that passes through the beam centrepoints of two planes
+    perpendicular to the line which connects the point of maximal pulse-pressure-squared
+    integral with the centre of the external transducer aperture
+  examples: []
+  id: 802-01-08
+  language_code: eng
+  notes:
+  - The location of the first plane is the location of the plane containing the maximum
+    pulse-pressure-squared integral or, alternatively, is one containing a single
+    main lobe that is in the focal zone. The location of the second plane is as far
+    as is practicable from the first plane and parallel to the first plane with the
+    same two orthogonal scan lines (`x` and `y` axes) used for the first plane.
+  - 'In a number of cases, the term pulse-pressure-squared integral is replaced in
+    the above definition by any linearly related quantity, e.g.:
+
+
+    a) in the case of a continuous wave signal the term pulse-pressure-squared integral
+    is replaced by mean square acoustic pressure as defined in IEC 61689,
+
+
+    b) in cases where signal synchronisation with the scan frame is not available
+    the term pulse-pressure-squared integral may be replaced by temporal average intensity.'
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: beam(-alignment) axis
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-01-01
+id: 058a6f6f-961b-58d5-a345-3534d1458236
+status: valid

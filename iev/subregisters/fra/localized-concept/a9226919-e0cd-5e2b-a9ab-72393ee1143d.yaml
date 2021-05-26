@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '2.2'
+      original: Guide IEC 110:1996, 2.2, modifié – Le terme a été modifié de "système
+        de contrôle domestique" à "système domestique de commande". La définition
+        a été améliorée et révisée pour alignement avec la définition anglaise.
+      ref: IEC Guide 110:1996
+      relationship:
+        modification: Le terme a été modifié de "système de contrôle domestique" à
+          "système domestique de commande". La définition a été améliorée et révisée
+          pour alignement avec la définition anglaise.
+        type: modified
+  definition: ensemble comprenant un {{réseau domestique, IEV:732-10-01}} et tous
+    les dispositifs qui y sont rattachés, y compris les règles de {{commande, IEV:351-42-19}},
+    de {{communication, IEV:701-01-04}} et de gestion relatives aux processus d'application
+  examples: []
+  id: 732-10-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: système domestique de commande
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a9226919-e0cd-5e2b-a9ab-72393ee1143d
+status: valid

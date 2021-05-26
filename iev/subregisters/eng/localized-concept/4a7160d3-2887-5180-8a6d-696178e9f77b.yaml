@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the tangent of the magnetic loss angle divided by the relative permeability:
+    `((tan delta_m))/((mu_r)) = (mu^( ″ ))/((( mu^( '' ) )^2))` where `µ`′ and `µ`″
+    are the real and imaginary components respectively of the complex permeability'
+  examples: []
+  id: 221-03-31
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (magnetic) loss factor
+    normative_status: preferred
+    type: expression
+  - designation: '`((tan delta_m))/((mu_r))`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 4a7160d3-2887-5180-8a6d-696178e9f77b
+status: valid

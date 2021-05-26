@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: an arbitrary digit inserted in a justifiable digit time-slot when the
+    prevailing timing relationship does not require the transmission of a digit of
+    the original digital signal at that instant
+  examples: []
+  id: 704-21-04
+  language_code: eng
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: justifying digit
+    normative_status: preferred
+    type: expression
+  - designation: stuffing digit
+    type: expression
+dateAccepted: 1993-08-01
+id: 84431b7a-3e32-50a4-8232-bb52fa7dccd7
+status: valid

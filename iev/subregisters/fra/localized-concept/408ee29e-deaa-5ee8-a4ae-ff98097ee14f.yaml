@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: niveau minimal du signal à l'entrée d'un récepteur radioélectrique,
+    qui fournit à la sortie un signal de qualité spécifiée, en l'absence de bruit
+    externe et lorsque l'amplification est suffisante
+  examples: []
+  id: 713-10-55
+  language_code: fra
+  notes:
+  - La sensibilité intrinsèque ne fait intervenir que le bruit interne.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité intrinsèque
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 408ee29e-deaa-5ee8-a4ae-ff98097ee14f
+status: valid

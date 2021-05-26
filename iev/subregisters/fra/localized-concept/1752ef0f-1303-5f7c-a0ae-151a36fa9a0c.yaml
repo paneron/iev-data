@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifie un élément de circuit ou un circuit dans lequel l'intégrale
+    de la puissance instantanée ne peut pas être négative sur tout intervalle de temps
+    commençant avant la première alimentation en énergie électrique
+  examples: []
+  id: 131-11-34
+  language_code: fra
+  notes:
+  - En régime périodique, l'intervalle d'intégration peut comporter un nombre fini
+    de périodes au lieu de commencer à moins l'infini.
+  - Un circuit passif ne contient normalement aucune source de tension ou de courant.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: passif
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2002-06-01
+id: 1752ef0f-1303-5f7c-a0ae-151a36fa9a0c
+status: valid

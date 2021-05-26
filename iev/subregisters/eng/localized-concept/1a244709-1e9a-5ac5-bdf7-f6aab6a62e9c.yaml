@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 13-4
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-4
+      ref: IEC 80000-13:2008
+      relationship:
+        type: identical
+  dateAmended: 2019-03-01
+  definition: time average of the length of a {{queue, IEV:171-02-33}}
+  examples: []
+  id: 171-02-34
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean queue length
+    normative_status: preferred
+    type: expression
+  - designation: '`L`
+
+      `Ω`'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 1a244709-1e9a-5ac5-bdf7-f6aab6a62e9c
+status: valid

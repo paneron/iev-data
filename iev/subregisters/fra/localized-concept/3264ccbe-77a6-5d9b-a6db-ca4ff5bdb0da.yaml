@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction attribuant à tout couple constitué d'un nombre réel positif
+    `a` et d'un nombre réel `b` le nombre réel positif noté `a^b` tel que `a^0 = 1`
+    , `a^1 = a` et `a^(b + c) = a^b * a^c` pour des nombres réels quelconques `b`
+    et `c`
+  examples: []
+  id: 102-02-07
+  language_code: fra
+  notes:
+  - La fonction qui attribue à tout nombre réel `x` le nombre `a^x` est la fonction
+    exponentielle de base `a`. La fonction qui attribue à tout nombre réel positif
+    `x` le nombre `x^b` est une fonction puissance.
+  - L'exponentiation peut être étendue au couple constitué d'un nombre réel négatif
+    `a` et d'un nombre entier `b`, ainsi qu'à d'autres entités mathématiques, par
+    exemple les nombres complexes, les matrices et les grandeurs scalaires.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exponentiation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3264ccbe-77a6-5d9b-a6db-ca4ff5bdb0da
+status: valid

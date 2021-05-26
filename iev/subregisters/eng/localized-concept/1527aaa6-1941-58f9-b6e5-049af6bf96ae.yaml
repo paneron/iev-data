@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: highest RMS value of current drawn by an AC motor when at rest or by
+    an AC magnet with its armature clamped in the position of maximum air gap when
+    supplied at rated voltage and rated frequency
+  examples: []
+  id: 426-08-04
+  language_code: eng
+  notes:
+  - Transient phenomena are ignored.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: initial starting current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~A~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: 1527aaa6-1941-58f9-b6e5-049af6bf96ae
+status: valid

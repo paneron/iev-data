@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: part of the input voltages for which the amplitude and either the phase
+    or the polarity are the same, which exists between each of the input terminals
+    and a reference point
+  examples: []
+  id: 312-01-03
+  language_code: eng
+  notes:
+  - This reference point can be the chassis terminal, or the measuring earth terminal,
+    or it can be an inaccessible point.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: common mode voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: e7f0ee0d-b057-5125-8624-6bca0f3d462c
+status: valid

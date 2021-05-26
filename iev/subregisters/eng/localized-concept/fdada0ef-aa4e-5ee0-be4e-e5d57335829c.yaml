@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: at a point in a medium, velocity of the envelope of a packet of superimposed
+    sinusoidal waves of equal amplitude and slightly different frequencies tending
+    to a common limiting frequency
+  examples: []
+  id: 103-10-15
+  language_code: eng
+  notes:
+  - The magnitude of the group velocity vector is equal to the derivative of the frequency
+    with respect to the wavenumber.
+  - If both group velocities and other velocities are involved, then `c` should be
+    used for the former and `v` (vee) for the latter.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group velocity
+    normative_status: preferred
+    type: expression
+  - designation: '`c`~g~
+
+      `v`~g~'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: fdada0ef-aa4e-5ee0-be4e-e5d57335829c
+status: valid

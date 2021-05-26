@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: frequency where the admittance value of a lossless resonator becomes
+    zero
+  examples: []
+  id: 561-01-66
+  language_code: eng
+  notes:
+  - 'When the electromechanical coupling factor is low, an approximate value of the
+    frequency is given by the expression
+
+
+    `f_p = (1)/((2 pi sqrt(L_1 ((C_1 C_0))/((C_1 + C_0)))))`
+
+
+    where `C`~0~ represents the shunt capacitance and `L`~1~ and `C`~1~ the motional
+    inductance and the motional capacitance respectively. The expression can be derived
+    from Figure 2 by letting `R`~1~ = 0.
+
+
+    image::/assets/images/parts/561/561-fig2-en.png[]
+
+
+    *Figure 2 – Equivalent circuit of a piezoelectric vibrator (one-port resonator)*'
+  - This entry was numbered 561-02-11 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallel resonance frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~p~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 192889dd-6c90-58f1-aa09-1b6745df21d5
+status: valid

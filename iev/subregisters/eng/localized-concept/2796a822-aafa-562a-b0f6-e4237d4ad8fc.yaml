@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: Lambert's law for a surface element whose radiance or luminance is the
+    same in all directions of the hemisphere above the surface
+  examples: []
+  id: 845-24-062
+  language_code: eng
+  notes:
+  - 'Lambert''s cosine law can be expressed by
+
+
+    `I`(`θ`) = `I`~n ~cos `θ`
+
+
+    where `I`(`θ`) and `I`~n~ are the radiant intensities or luminous intensities
+    of the surface element in a direction at an angle, `θ`, from the normal to the
+    surface and in the direction of that normal, respectively.'
+  - This entry was numbered 845-04-56 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Lambert's cosine law
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 2796a822-aafa-562a-b0f6-e4237d4ad8fc
+status: valid

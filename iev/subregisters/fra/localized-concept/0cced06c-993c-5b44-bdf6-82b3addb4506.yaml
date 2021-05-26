@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'tarif dans lequel le prix applicable à tous les kilowattheures consommés
+    varie selon l''importance de la consommation, pendant la période fixée au tarif
+    Par exemple: tous les kilowattheures au prix `p`~1~ par kWh lorsque la consommation
+    mensuelle ne dépasse pas 100 kWh, tous les kilowattheures au prix `p`~2~ par kWh
+    lorsque la consommation mensuelle est comprise entre 101 et 200 kWh, tous les
+    kilowattheures au prix `p`~3~ par kWh lorsque la consommation mensuelle excède
+    200 kWh.'
+  examples: []
+  id: 691-05-12
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif à échelons
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 0cced06c-993c-5b44-bdf6-82b3addb4506
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur du courant sur laquelle sont fondés l'étalonnage et la commande
+    du ballast de référence
+  examples: []
+  id: 845-28-047
+  language_code: fra
+  notes:
+  - Il convient que le courant d'étalonnage soit de préférence approximativement égal
+    au courant d'utilisation assigné des lampes électriques pour lesquelles le ballast
+    de référence est adapté.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant d'étalonnage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un ballast de référence
+dateAccepted: 2018-11-17
+id: 7efc6ffc-4e7e-509a-b130-01745cb80b30
+status: valid

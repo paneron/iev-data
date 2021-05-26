@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.38
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.38
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: trame contenant toutes les informations nécessaires à son acheminement
+    vers son destinataire final, sans connaissance du contenu de la trame précédente
+  examples: []
+  id: 811-37-26
+  language_code: fra
+  notes:
+  - Les datagrammes n’utilisent aucun mécanisme préliminaire d'établissement de connexion
+    et ne sont pas acquittés au niveau de la couche de liaison.
+  reviewDecisionEvent: published
+  terms:
+  - designation: datagramme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f97daa95-1697-5233-9ed0-4a0504d4bd17
+status: valid

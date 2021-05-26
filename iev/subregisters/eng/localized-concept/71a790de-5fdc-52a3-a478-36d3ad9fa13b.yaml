@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 'pertaining to an operating characteristic, a device, an electrical
+    network or a transmission medium for which: - at a specified output port, the
+    signal resulting from an arbitrary input signal applied to a given port is such
+    that, when the input signal is increased by a numerical factor, the output signal
+    does not increase by the same factor over the whole extent of the specified working
+    range; - at a specified output port the total signal resulting from the simultaneous
+    application of a number of arbitrary input signals, either individually to given
+    independent ports or collectively into one given port, is not, over the whole
+    extent of the specified working range, equal to the sum of individual outputs
+    which would be produced by the application to the same ports of the same input
+    signals, each acting separately'
+  examples: []
+  id: 702-07-55
+  language_code: eng
+  notes:
+  - A device which is non-linear over its specified working range may show a linear
+    behaviour for signals within a limited working range.
+  - A device with several ports may be non-linear for a certain set of ports and linear
+    for other sets of ports.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-linear
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 71a790de-5fdc-52a3-a478-36d3ad9fa13b
+status: valid

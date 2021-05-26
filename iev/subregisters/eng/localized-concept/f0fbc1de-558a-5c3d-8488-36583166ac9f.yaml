@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '5.6'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 5.6
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: third-party {{attestation, IEV:902-04-02}} related to a {{conformity
+    assessment body, IEV:902-01-05}} conveying formal demonstration of its competence
+    to carry out specific conformity assessment tasks
+  examples: []
+  id: 902-04-06
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accreditation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: f0fbc1de-558a-5c3d-8488-36583166ac9f
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: conducteur (ou semiconducteur) électronique par lequel un courant électrique,
+    résultat d'une réaction électrochimique, entre ou sort de la cellule électrochimique
+  examples: []
+  id: 485-02-01
+  language_code: fra
+  notes:
+  - Une électrode peut être soit une {{anode, IEV:485-02-04}}, soit une {{cathode,
+    IEV:485-02-05}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: électrode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour les piles à combustible
+dateAccepted: 2018-11-17
+id: b9b43f6f-61d9-5382-9405-8a21460f4b67
+status: valid

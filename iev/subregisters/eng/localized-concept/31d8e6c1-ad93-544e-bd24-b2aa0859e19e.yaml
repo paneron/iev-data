@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 686 MOD
+      ref: ITU-R Recommendation 686
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: one of the time scales based on the rotation of the Earth
+  examples: []
+  id: 713-05-19
+  language_code: eng
+  notes:
+  - 'In applications in which an imprecision of a few hundredths of a second cannot
+    be tolerated, it is necessary to specify the forms of universal time which should
+    be used:
+
+
+    – UT0 is the mean solar time of the prime meridian obtained from direct astronomical
+    observation;
+
+
+    – UT1 is UT0 corrected for the effects of small movements of the Earth relative
+    to the axis of rotation in a stellar reference frame (polar variation);
+
+
+    – UT2 is UT1 corrected for the effects of small seasonal fluctuation in the rate
+    of rotation of the Earth in a stellar reference frame.'
+  - The Mean Solar Time of Greenwich called Greenwich Mean Time (GMT) may be regarded
+    as the equivalent of Universal Time, but with a difference of 12 hours.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: universal time
+    normative_status: preferred
+    type: expression
+  - designation: UT
+    normative_status: preferred
+    type: expression
+  - designation: GMT
+    normative_status: deprecated
+    type: expression
+dateAccepted: 1998-04-01
+id: 31d8e6c1-ad93-544e-bd24-b2aa0859e19e
+status: valid

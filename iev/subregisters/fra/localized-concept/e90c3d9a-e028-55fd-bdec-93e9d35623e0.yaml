@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: suite de niveaux de {{multiplexage numérique, IEV:704-20-01}} dans laquelle
+    chaque niveau est caractérisé par un débit binaire déterminé et écoule un {{signal
+    numérique, IEV:704-01-05}} formé par un assemblage de signaux numériques dont
+    les débits sont ceux d'un niveau inférieur
+  examples: []
+  id: 704-20-07
+  language_code: fra
+  notes:
+  - 'Le Secteur de la normalisation de l''UIT a normalisé deux hiérarchies de multiplexage
+    numérique: la hiérarchie numérique plésiochrone (HNP) et la hiérarchie numérique
+    synchrone (HNS).'
+  reviewDecisionEvent: published
+  terms:
+  - designation: hiérarchie de multiplexage numérique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e90c3d9a-e028-55fd-bdec-93e9d35623e0
+status: valid

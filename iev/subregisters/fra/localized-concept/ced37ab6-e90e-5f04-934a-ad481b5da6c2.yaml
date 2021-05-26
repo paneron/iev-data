@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{dispositif d''entrée, IEV:171-04-36}} comportant un ensemble de boutons
+    poussoirs munis d''un marquage, dont chacun provoque l''émission d''un signal
+    discret ou l''exécution d''une action lorsqu''il est enfoncé ou touché'
+  examples: []
+  id: 171-04-38
+  language_code: fra
+  notes:
+  - Un clavier peut être simulé sur une zone d'écran, où les touches virtuelles sont
+    activées par un {{dispositif de pointage, IEV:171-04-40}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: clavier
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ced37ab6-e90e-5f04-934a-ad481b5da6c2
+status: valid

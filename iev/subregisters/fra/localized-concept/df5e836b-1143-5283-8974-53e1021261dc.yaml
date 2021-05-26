@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: relation entre la fréquence et la durée de l'oscillateur
+  examples: []
+  id: 561-03-16
+  language_code: fra
+  notes:
+  - Cette dérive de fréquence à long terme est provoquée par des variations séculaires
+    de l’unité et/ou des éléments de cristal du circuit de l’oscillateur, et il convient
+    de l’exprimer sous la forme d’une variation relative de la fréquence moyenne par
+    intervalle de temps spécifié.
+  reviewDecisionEvent: published
+  terms:
+  - designation: stabilité de fréquence à long terme
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: vieillissement de fréquence
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: df5e836b-1143-5283-8974-53e1021261dc
+status: valid

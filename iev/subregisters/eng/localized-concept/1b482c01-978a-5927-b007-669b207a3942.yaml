@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 151-15-60
+      original: 151-15-60
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2008-09-01
+  definition: qualifies a conductive part intended to be energized under normal operation
+  examples: []
+  id: 581-21-22
+  language_code: eng
+  notes:
+  - Active part may be temporarily dead when it is not energized. A neutral conductor
+    is considered as live but earthing conductors are not.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: live
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2008-09-01
+id: 1b482c01-978a-5927-b007-669b207a3942
+status: valid

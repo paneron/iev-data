@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-10-01
+  definition: pour un électron d'une substance gyromagnétique, quotient du moment
+    magnétique dû au spin par le moment angulaire de spin
+  examples: []
+  id: 221-05-03
+  language_code: fra
+  notes:
+  - 'La pulsation de précession `ω` d''un électron est reliée au champ magnétique
+    appliqué `H` par l''expression: `ω` = `γ μ`~0~ `H`
+
+
+    où `μ`~0~ est la constante magnétique et `γ` est le coefficient gyromagnétique.'
+  - 'Pour un électron libre, le coefficient gyromagnétique est approximativement égal
+    à : 176 × 10^9^ C kg^−1^.'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient gyromagnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport gyromagnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: a7e43f0f-4242-5690-a8ef-732b282632f9
+status: valid

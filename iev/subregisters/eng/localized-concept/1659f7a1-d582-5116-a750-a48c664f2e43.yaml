@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-02-01
+  definition: insulation fault between two or more line conductors, combined or not
+    with an earth fault
+  examples: []
+  id: 614-02-17
+  language_code: eng
+  notes:
+  - Line-to-line insulation faults with negligible fault impedance are also named
+    line-to-line short-circuits.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: line-to-line insulation fault
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: 1659f7a1-d582-5116-a750-a48c664f2e43
+status: valid

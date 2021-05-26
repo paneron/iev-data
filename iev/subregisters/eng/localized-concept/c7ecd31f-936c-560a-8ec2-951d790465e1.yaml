@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: retinal injury caused by brief, intense radiant exposure of the retina
+    from wavelengths in the retinal hazard spectral region (380 nm to 1 400 nm) within
+    which the normal ocular media transmit <a href="IEV845-21-002">optical radiation</a>
+    to the retina
+  examples: []
+  id: 845-26-023
+  language_code: eng
+  notes:
+  - In IEC 62471/CIE S 009, _Photobiological safety of lamp and lamp systems_, the
+    maximum assessment time is taken as 10 s.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: retinal thermal injury
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: c7ecd31f-936c-560a-8ec2-951d790465e1
+status: valid

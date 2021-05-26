@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: codage numérique destiné à convertir un signal numérique en un signal
+    adapté aux caractéristiques de la voie de transmission
+  examples: []
+  id: 723-10-35
+  language_code: fra
+  notes:
+  - Le codage de voie peut introduire une redondance supplémentaire intentionnelle,
+    par exemple pour la protection contre les erreurs.
+  - Le terme "codage en ligne" s'emploie avec le même sens en transmission sur câble,
+    mais exclut généralement la protection contre les erreurs.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: codage de voie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: codage de canal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 46ebbef7-dc54-5f72-b551-9bd2577f5f18
+status: valid

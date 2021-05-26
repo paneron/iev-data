@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température la plus basse (d'une surface chaude) à laquelle se produit
+    l'inflammation d'un gaz ou d'une vapeur inflammable mélangé(e) à l'air ou d'un
+    mélange air/gaz inerte, dans des conditions d'essai spécifiées
+  examples: []
+  id: 426-02-01
+  language_code: fra
+  notes:
+  - Le terme abrégé "AIT" est dérivé du terme anglais développé correspondant "auto-ignition
+    temperature".
+  - 'Les conditions sont spécifiées dans l''ISO/IEC 80079-20-1, _Atmosphères explosives
+    – Partie 20-1: Caractéristiques des produits pour le classement des gaz et des
+    vapeurs - Méthodes et données d''essai_.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: température d'auto-inflammation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: AIT
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d1d340d6-94a8-537d-a228-d3f45d18bfc4
+status: valid

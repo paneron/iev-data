@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-04-01
+  definition: peak value of an impulse test voltage at which insulation at the {{work
+    location, IEV:651-26-03}} exhibits, under specified conditions, a referenced value
+    of probability of withstand
+  examples: []
+  id: 651-21-10
+  language_code: eng
+  notes:
+  - The purpose is to reduce the risk of breakdown of the insulation to an acceptably
+    low level. It is generally considered that an acceptable low level is reached
+    when the value of the required insulation level is greater than or equal to the
+    overvoltage which has a probability of being exceeded by no more than 2 %.
+  - 'This entry was numbered 651-01-17 in IEC 60050-651:1999. It has been modified
+    as follows: Editorial, to take into consideration the changes being made to IEC
+    60050-604.'
+  reviewDate: 2014-04-01
+  reviewDecisionDate: 2014-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: required insulation level
+    normative_status: preferred
+    type: expression
+  - designation: RILL
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01
+id: 2ff9bc2c-bdbc-5003-9977-2fe68742f664
+status: valid

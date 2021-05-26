@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 11.2.1
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 11.2.1, modifiée – L'expression entre parenthèses
+        après le terme a été transformée en attribut du terme «utilisation spécifique».
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: L'expression entre parenthèses après le terme a été transformée
+          en attribut du terme «utilisation spécifique».
+        type: modified
+  definition: '{{référence aux normes, IEV:901-06-14}} par la désignation d''une ou
+    plusieurs {{norme, IEV:901-02-02}}s déterminées de telle façon que les {{révisions,
+    IEV:901-04-08}} ultérieures de cette ou de ces normes ne soient pas applicables
+    à moins d''une modification du {{règlement, IEV:901-02-10}}'
+  examples: []
+  id: 901-06-15
+  language_code: fra
+  notes:
+  - La norme est généralement désignée par son numéro et une date ou une édition.
+    Son titre peut aussi être mentionné.
+  reviewDecisionEvent: published
+  terms:
+  - designation: référence datée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: aux normes
+dateAccepted: 2018-11-17
+id: f7f409d5-bb19-5706-982f-67c81041fcee
+status: valid

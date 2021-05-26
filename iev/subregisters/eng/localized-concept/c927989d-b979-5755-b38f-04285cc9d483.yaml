@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of minimum <a href="IEV845-21-060">illuminance</a> and maximum
+    illuminance on a surface, or of minimum <a href="IEV845-21-050">luminance</a>
+    and maximum luminance of a surface
+  examples: []
+  id: 845-31-143
+  language_code: eng
+  notes:
+  - Diversity has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diversity
+    normative_status: preferred
+    type: expression
+  - designation: '`U`~d~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: c927989d-b979-5755-b38f-04285cc9d483
+status: valid

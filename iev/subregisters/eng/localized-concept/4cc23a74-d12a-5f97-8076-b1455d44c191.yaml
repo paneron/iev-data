@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: fractional change in output frequency resulting from an incremental
+    change in supply voltage, other parameters remaining unchanged
+  examples: []
+  id: 561-03-11
+  language_code: eng
+  notes:
+  - In the case of oven controlled crystal oscillators (OCXOs), a considerable time
+    may elapse before the full effect of a supply voltage change is observed, as the
+    temperature of the oven may drift gradually to a new value following the voltage
+    perturbation.
+  - This entry was numbered 561-04-14 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency/voltage coefficient
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 4cc23a74-d12a-5f97-8076-b1455d44c191
+status: valid

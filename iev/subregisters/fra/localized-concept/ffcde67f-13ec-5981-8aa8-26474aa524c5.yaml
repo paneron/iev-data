@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: filtre dérivé d'un filtre RC actif dans lequel les résistances idéales
+    sont remplacées par des circuits électriques composés de capacités idéales et
+    de commutateurs périodiques
+  examples: []
+  id: 131-15-45
+  language_code: fra
+  notes:
+  - Une résistance simulée est généralement fonction du rapport de deux capacités
+    car on maîtrise mieux ce rapport que les capacités elles-mêmes dans un circuit
+    intégré.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: filtre à capacités commutées
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: ffcde67f-13ec-5981-8aa8-26474aa524c5
+status: valid

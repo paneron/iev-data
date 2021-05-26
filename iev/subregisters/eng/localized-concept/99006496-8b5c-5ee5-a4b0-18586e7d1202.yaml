@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: ratio of the peak-to-valley value of the alternating component of a
+    pulsating quantity to the absolute value of the direct component
+  examples: []
+  id: 103-06-13
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: peak-ripple factor
+    normative_status: preferred
+    type: expression
+  - designation: peak distortion
+    type: expression
+  - designation: '`q`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 99006496-8b5c-5ee5-a4b0-18586e7d1202
+status: valid

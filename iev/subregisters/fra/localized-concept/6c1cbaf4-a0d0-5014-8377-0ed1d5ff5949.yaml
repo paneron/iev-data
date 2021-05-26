@@ -1,0 +1,58 @@
+data:
+  authoritativeSource:
+  - - clause: '2.2'
+      original: Brochure sur le SI, 9e édition, 2019, 2.2, modifié – L'information
+        de la Brochure sur le SI a été révisée à des fins de mise en conformité avec
+        les règles de l’IEV.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: L'information de la Brochure sur le SI a été révisée à des fins
+          de mise en conformité avec les règles de l’IEV.
+        type: modified
+  classification: Admitted
+  definition: '{{constante physique fondamentale, IEV:112-03-09}} qui régit les propriétés
+    générales de l''{{espace-temps, IEV:113-01-01}} et affecte toutes les particules
+    et champs, dont la valeur est fixée à 299 792 458 {{m, IEV:112-02-05}}/{{s, IEV:112-02-04}}'
+  examples: []
+  id: 113-01-34
+  language_code: fra
+  notes:
+  - Toute onde électromagnétique ou onde gravitationnelle se propage dans le vide
+    à la vitesse de la lumière dans le vide. La vitesse de la lumière dans le vide
+    est aussi la limite supérieure de la vitesse pour tout transfert de matière, d’énergie
+    ou d’information.
+  - La vitesse de la lumière dans le vide est employée dans le {{SI, IEV:112-02-02}}
+    pour définir le {{mètre, IEV:112-02-05}}.
+  - 'Le terme "vitesse luminique" est utilisé en théorie de la relativité. Des concepts
+    connexes sont "{{vitesse subluminique, IEV:113-01-37}}" et "{{vitesse supraluminique,
+    IEV:113-01-36}}".
+
+
+    Le terme "vitesse de la lumière" ne doit être employé que lorsque le contexte
+    indique sans ambiguïté qu’il s’agit de la forme abrégée de "vitesse de la lumière
+    dans le vide" puisque "vitesse de la lumière" est également observée dans la matière
+    où sa valeur est toujours inférieure à celle dans le vide.
+
+
+    En anglais, le terme "light speed" est déconseillé car n’est pas une forme abrégée
+    du terme privilégié.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de la lumière dans le vide
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: vitesse de la lumière
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: vitesse luminique
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6c1cbaf4-a0d0-5014-8377-0ed1d5ff5949
+status: valid

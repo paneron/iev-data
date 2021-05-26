@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '7.1'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 7.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: expression figurant dans le contenu d'un {{document normatif, IEV:901-02-01}}
+    prenant la forme d'un {{énoncé, IEV:901-05-02}}, d'une {{instruction, IEV:901-05-03}},
+    d'une {{recommandation, IEV:901-05-04}} ou d'une {{exigence, IEV:901-05-05}}
+  examples: []
+  id: 901-05-01
+  language_code: fra
+  notes:
+  - Ces types de dispositions se distinguent par leur formulation; ainsi les instructions
+    sont-elles exprimées généralement à l'infinitif, parfois à l'impératif; les recommandations
+    s'accompagnent généralement de la formule «il convient de», tandis que les exigences
+    utilisent plutôt la formule «doit».
+  reviewDecisionEvent: published
+  terms:
+  - designation: disposition
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b3200856-449f-5d1f-9c93-541b1ae271f7
+status: valid

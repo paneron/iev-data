@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: vecteur vitesse de déplacement, en un point d'un milieu de propagation,
+    d'un signal qui peut être représenté idéalement par la superposition de deux ondes
+    sinusoïdales de même amplitude dont les fréquences tendent vers une limite commune
+  examples: []
+  id: 705-02-21
+  language_code: fra
+  notes:
+  - "Dans le cas le plus général, la norme de la vitesse de groupe est égale à la\
+    \ dérivée de la fréquence par rapport à l'inverse de la longueur d'onde, et les\
+    \ composantes de la vitesse de groupe le long des axes de coordonnées sont égales\
+    \ aux dérivées partielles de la pulsation par rapport aux composantes de la partie\
+    \ réelle `vec K^( ' )` du vecteur d'onde \r\n`vec underset(_)(K)`."
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (vecteur) vitesse de groupe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 886bb55b-24e4-5456-a5dd-8d1244ac57d6
+status: valid

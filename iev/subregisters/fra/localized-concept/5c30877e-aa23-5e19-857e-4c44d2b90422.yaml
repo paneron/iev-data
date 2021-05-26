@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'qualifie une fonction aléatoire stationnaire dont les moyennes dans
+    le temps sont identiques aux espérances mathématiques correspondantes: `underset((T
+    -> oo))((lim)) (1)/((2 T)) int_(- T)^(+ T) f ( t ) d t = E f ( t )`'
+  examples: []
+  id: 103-08-06
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: ergodique
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 5c30877e-aa23-5e19-857e-4c44d2b90422
+status: valid

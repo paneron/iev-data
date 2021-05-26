@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: montant à payer par unité de puissance facturée (kilowatt, kilovoltampère)
+    et pour une période déterminée
+  examples: []
+  id: 691-03-04
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: prix du kilowatt [kilovoltampère]
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: prime fixe unitaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taxe fixe unitaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 8a8b92be-edcc-543a-af7a-cd13dcc7fd0f
+status: valid

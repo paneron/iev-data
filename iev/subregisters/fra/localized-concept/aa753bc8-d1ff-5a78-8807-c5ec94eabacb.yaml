@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: point d'un milieu siège d'une onde stationnaire, où une grandeur spécifiée
+    variant dans le temps a une valeur minimale
+  examples: []
+  id: 103-10-29
+  language_code: fra
+  notes:
+  - Si le nœud n'est pas un point isolé, on emploie les termes «ligne nodale», «plan
+    nodal» ou «surface nodale».
+  reviewDecisionEvent: published
+  terms:
+  - designation: nœud
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une onde stationnaire
+dateAccepted: 2018-11-17
+id: aa753bc8-d1ff-5a78-8807-c5ec94eabacb
+status: valid

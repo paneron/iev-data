@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 'qualifie une caractéristique de fonctionnement, un dispositif, un réseau
+    électrique, un milieu de transmission satisfaisant au principe de superposition
+    selon lequel, dans les limites d''une plage de fonctionnement spécifiée: - à un
+    accès de sortie désigné, le signal résultant de l''application d''un signal d''entrée
+    quelconque à un accès donné est tel que, si le signal d''entrée est multiplié
+    par un facteur constant donné, le signal de sortie est aussi multiplié par ce
+    même facteur; - à un accès de sortie désigné, le signal total résultant de l''application
+    simultanée de signaux d''entrée quelconques, soit individuellement à des accès
+    indépendants désignés, soit superposés sur un même accès désigné, est la somme
+    des signaux de sortie qui résulteraient des mêmes signaux d''entrée appliqués
+    chacun séparément aux mêmes accès'
+  examples: []
+  id: 702-07-44
+  language_code: fra
+  notes:
+  - Un dispositif à plusieurs accès d'entrée peut n'être linéaire que pour un certain
+    ensemble d'accès.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linéaire
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 1992-03-01
+id: 85c2aa53-d2cb-5170-8099-c307ad745d81
+status: valid

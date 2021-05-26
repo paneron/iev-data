@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-14
+      original: 702-02-14
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1991-10-01
+  definition: the real part of the propagation coefficient
+  examples: []
+  id: 731-03-42
+  language_code: eng
+  notes:
+  - The attenuation coefficient of an optical waveguide is the limit of the attenuation
+    between two points on the axis of the guide divided by the distance between the
+    points, when this distance tends to zero.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: attenuation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: attenuation constant
+    type: expression
+  - designation: α
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: cf058637-0c8f-5a51-814e-544a59d6278c
+status: valid

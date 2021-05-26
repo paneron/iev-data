@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: colour television system in which the baseband colour video signal is
+    obtained by time multiplexing, during the period of one scanning line, the various
+    components, generally the luminance signal and one or two chrominance components,
+    the components having previously been subject to analogue temporal compression
+  examples: []
+  id: 723-08-13
+  language_code: eng
+  notes:
+  - Currently, the resultant MAC picture signal is broadcast in analogue form.
+  - In most MAC systems, any associated sound channels are time multiplexed with the
+    components of the colour video signal.
+  - MAC is an abbreviation of "Multiplexed Analogue Components".
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: MAC (colour television) system
+    normative_status: preferred
+    type: expression
+  - designation: MAC
+    type: expression
+dateAccepted: 1997-03-01
+id: 83ebe3b9-d646-5d5c-99fd-7eb0a1e33091
+status: valid

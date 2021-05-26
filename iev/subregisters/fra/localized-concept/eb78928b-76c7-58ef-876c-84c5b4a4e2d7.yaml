@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de l'énergie thermique récupérée d'un {{système à pile à combustible,
+    IEV:485-09-01}} à l'enthalpie totale fournie au système à pile à combustible
+  examples: []
+  id: 485-10-04
+  language_code: fra
+  notes:
+  - Il convient d'associer l'enthalpie totale fournie (y compris l'enthalpie de réaction)
+    du {{combustible brut, IEV:485-07-01}} à la valeur calorifique inférieure (LVH)
+    pour une meilleure comparaison avec d'autres types de systèmes de conversion d'énergie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement de l'énergie thermique récupérable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: eb78928b-76c7-58ef-876c-84c5b4a4e2d7
+status: valid

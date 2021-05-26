@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{interruption, IEV:692-04-01}} in supply of electric power image::/assets/images/parts/692/692-fig4-en.png[Figure
+    4 - Outage relationships]'
+  examples: []
+  id: 692-04-02
+  language_code: eng
+  notes:
+  - In the context of {{electric power system, IEV:692-01-02}}s equipment, the term
+    outage is used to indicate the existence of a disabled state.
+  - Although this entry was numbered 603-05-05 in IEC 60050-603:1986 the definition
+    was not applicable to {{electric power system, IEV:692-01-02}}s.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: outage
+    normative_status: preferred
+    type: expression
+    usage_info: in an electric power system
+dateAccepted: 2017-12-01
+id: 027b1373-370f-54ee-8fdb-a42f2f0a73d9
+status: valid

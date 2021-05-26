@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: electric quantity, or one of its parameters, the name of which characterizes
+    a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    and the values of which are the subject of {{accuracy, IEV:447-08-16}} requirements
+  examples:
+  - '* Current for an overcurrent or an undercurrent relay;* frequency for a {{frequency
+    relay, IEV:447-01-29}}, the {{input energizing quantity, IEV:447-03-02}} of which
+    can be a voltage;* power for a {{power relay, IEV:447-01-42}}, the input energizing
+    quantities of which are current and voltage.'
+  id: 447-07-01
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: characteristic quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 7ccefb9e-2c63-5d3a-bcbc-21865fa5f5db
+status: valid

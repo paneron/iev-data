@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a multiport device in which the incident wave to any port is transmitted
+    to the next port according to an order of sequence determined by the sense of
+    a static magnetic biasing field
+  examples: []
+  id: 726-17-08
+  language_code: eng
+  notes:
+  - By reversing the magnetic biasing field, the order of sequence is reversed.
+  - This property may be used to switch electromagnetic waves.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circulator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: e6bc4131-35ae-5895-99d6-02d3925391be
+status: valid

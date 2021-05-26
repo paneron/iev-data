@@ -1,0 +1,54 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: 'système de commutation dans lequel les valeurs des variables de sortie,
+    à un instant donné, dépendent des valeurs des variables d''entrée et des valeurs
+    des variables d''état, à ce même moment, tandis que les valeurs des variables
+    d''état du système à l''instant suivant dépendent des valeurs des variables d''état
+    et des valeurs des variables d''entrée à l''instant spécifié VOIR: Figure 22.'
+  examples: []
+  id: 351-52-04
+  language_code: fra
+  notes:
+  - "Un circuit séquentiel est décrit par les équations<table>\r\n<tr>\n<td>*`x`*~`i`+1~\
+    \ = *`f`*(*`x`*~`i`~, *`u`*~`i`~)</td>\n<td>fonction de transition, consistant\
+    \ en un nombre fini de variables d’état</td>\n</tr>\r\n<tr>\n<td>*`v`*~`i`~ =\
+    \ *`g`*(*`x`*~`i`~, *`u`*~`i`~)</td>\n<td>fonction de sortie</td>\n</tr>\r\n</table>\n\
+    \noù<table>\r\n<tr>\n<td>*`x`*~`i`~</td>\n<td>est le vecteur d’état à l’instant\
+    \ `ti`;</td>\n</tr>\r\n<tr>\n<td>*`x`*~`i`+1~</td>\n<td>est le vecteur d’état\
+    \ à l’instant `t`~`i`+1~;</td>\n</tr>\r\n<tr>\n<td>*`u`*~`i`~</td>\n<td>est le\
+    \ vecteur d’entrée à l’instant `ti`;</td>\n</tr>\r\n<tr>\n<td>*`v`*~`i`~</td>\n\
+    <td>est le vecteur de sortie à l’instant `ti`.</td>\n</tr>\r\n</table>"
+  - Une circuit séquentiel existe bien pour l'automate fini. Cette stabilité exprime
+    la propriété que la variable d'entrée qui a causé la transition à un état particulier
+    ne peut pas interagir avec cet état ou ne peut pas provoquer une autre transition
+    en interagissant avec cet état.
+  - 'Cet article était numéroté 351-29-05 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 22 – Functional diagram of an automaton*
+
+
+    *Figure 22 – Schéma fonctionnel d''un automate*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit séquentiel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: automate fini
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: a04bb06b-e603-5737-b9e8-4ef5d9afbb6c
+status: valid

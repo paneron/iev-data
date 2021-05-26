@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - - clause: 195-01-08
+      original: 195-01-08
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2004-08-01
+  definition: make an electric connection between a given point in a system or in
+    an installation or in equipment and local earth
+  examples: []
+  id: 826-13-03
+  language_code: eng
+  notes:
+  - 'The connection to local earth may be:
+
+
+    – intentional, or
+
+
+    – unintentional or accidental
+
+
+    – and may be permanent or temporary.'
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earth
+    normative_status: preferred
+    part_of_speech: verb
+    type: expression
+  - designation: ground
+    geographical_area: US
+    normative_status: preferred
+    part_of_speech: verb
+    type: expression
+dateAccepted: 2004-08-01
+id: 6395cb81-e289-545f-ba20-d9bca1bfba98
+status: valid

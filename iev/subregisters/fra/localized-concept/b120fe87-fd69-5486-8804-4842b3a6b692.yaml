@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: définition 201
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 201, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+    - original: AIEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  definition: dose totale de rayonnement reçue par une population
+  examples: []
+  id: 395-06-08
+  language_code: fra
+  notes:
+  - La valeur de cette grandeur est égale au produit du nombre d'individus exposés
+    à une source de rayonnement par leur dose moyenne.
+  - La dose collective s'exprime en homme sievert (homme-Sv).
+  - Cet article était numéroté 393-19-08 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose collective
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b120fe87-fd69-5486-8804-4842b3a6b692
+status: valid

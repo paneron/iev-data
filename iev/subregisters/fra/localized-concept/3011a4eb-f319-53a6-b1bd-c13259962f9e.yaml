@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: définition 561
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 561, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: réacteur nucléaire utilisant des gaz inertes comme fluide de refroidissement
+    et faisant un emploi intensif de matériaux réfractaires dans le cœur avec des
+    températures de sortie élevées du fluide de refroidissement
+  examples: []
+  id: 395-07-142
+  language_code: fra
+  notes:
+  - La température de sortie est habituellement située au-dessus de 900 °C.
+  - Ce type de réacteur est l’un des six réacteurs de génération IV.
+  - Cet article était numéroté 393-16-28 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réacteur à très haute température
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RTHT
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3011a4eb-f319-53a6-b1bd-c13259962f9e
+status: valid

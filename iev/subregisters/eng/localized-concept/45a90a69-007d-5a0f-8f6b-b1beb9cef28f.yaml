@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: customer load disconnection from the electric power supply
+  examples: []
+  id: 692-07-01
+  language_code: eng
+  notes:
+  - It represents the loss of supply to one or several customers.
+  - Some standards define supply interruption as a state in which the voltage at the
+    customer supply terminals is less than a given percentage of the declared voltage.
+  - Supply interruptions are sometimes categorized as prearranged (in which customers
+    are informed in advance to allow for the execution of scheduled work on the system)
+    or accidental (caused by permanent or transient faults, mostly related to external
+    events, equipment failures, or interference).
+  - This entry was numbered 603-05-11 in IEC 60050-603:1986.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: supply interruption
+    normative_status: preferred
+    type: expression
+    usage_info: in an electric power system
+  - designation: interruption
+    type: expression
+    usage_info: in an electric power system
+dateAccepted: 2017-12-01
+id: 45a90a69-007d-5a0f-8f6b-b1beb9cef28f
+status: valid

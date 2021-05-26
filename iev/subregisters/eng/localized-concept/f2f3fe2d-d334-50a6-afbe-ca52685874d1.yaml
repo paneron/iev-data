@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: quotient of d`EΔ` by d`l`, where d`EΔ` is the energy lost by a charged
+    particle due to electronic collisions in traversing a distance d`l,` minus the
+    sum of the kinetic energies of all the electrons released with kinetic energies
+    in excess of threshold energy delta `LΔ` = (d`EΔ`/d`l`)
+  examples: []
+  id: 395-01-30
+  language_code: eng
+  notes:
+  - This quantity is expressed in joules per metre.
+  - This entry was numbered 393-14-53 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linear energy transfer
+    normative_status: preferred
+    type: expression
+  - designation: linear energy transfer coefficient
+    type: expression
+  - designation: LET
+    type: expression
+  - designation: '`LΔ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: f2f3fe2d-d334-50a6-afbe-ca52685874d1
+status: valid

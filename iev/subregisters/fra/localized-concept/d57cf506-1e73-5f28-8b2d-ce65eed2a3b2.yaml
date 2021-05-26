@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'pour deux tenseurs du deuxième ordre `T = ( T_((i j)) )` et `S = (
+    S_((k l)) )`, scalaire défini par `T : S = underset((m n))( sum ) T_((m n)) S_((n
+    m))`'
+  examples: []
+  id: 102-03-48
+  language_code: fra
+  notes:
+  - Le produit scalaire de deux tenseurs est indiqué par un deux-points (:) entre
+    les deux symboles des tenseurs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit scalaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de deux tenseurs
+dateAccepted: 2018-11-17
+id: d57cf506-1e73-5f28-8b2d-ce65eed2a3b2
+status: valid

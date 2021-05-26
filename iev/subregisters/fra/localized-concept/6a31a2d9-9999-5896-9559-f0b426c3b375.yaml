@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: angle entre un axe de référence défini relatif au luminaire et l'horizontale
+    lorsque le luminaire est monté en vue d'un mesurage photométrique
+  examples: []
+  id: 845-25-112
+  language_code: fra
+  notes:
+  - L'axe de référence défini peut correspondre à tout élément du luminaire, mais
+    il se rapporte habituellement à un élément nominalement aligné sur l'horizontale
+    tel qu'un axe traversant l'ouverture lumineuse ou un axe traversant un groupe
+    de LED ou l'axe d'entrée d'un tourillon fixe.
+  - L'inclinaison en cours de mesurage est exprimée en radian (rad) ou degré (°).
+  reviewDecisionEvent: published
+  terms:
+  - designation: inclinaison en cours de mesurage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un luminaire
+dateAccepted: 2018-11-17
+id: 6a31a2d9-9999-5896-9559-f0b426c3b375
+status: valid

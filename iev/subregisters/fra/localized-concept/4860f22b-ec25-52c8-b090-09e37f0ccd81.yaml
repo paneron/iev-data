@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans un {{réseau de télécommunication, IEV:701-02-07}}, ensemble de
+    {{nœuds, IEV:131-13-07}} et de {{liaisons, IEV:701-02-06}} qui servent à maintenir
+    le rythme des horloges des équipements numériques de commutation et de transmission
+    en conformité avec les spécifications du réseau
+  examples: []
+  id: 704-15-12
+  language_code: fra
+  notes:
+  - Un réseau de synchronisation constitue généralement une partie importante d'un
+    {{réseau synchronisé, IEV:704-15-01}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau de synchronisation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4860f22b-ec25-52c8-b090-09e37f0ccd81
+status: valid

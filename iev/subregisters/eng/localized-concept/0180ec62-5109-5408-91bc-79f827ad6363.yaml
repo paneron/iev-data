@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: qualifies `n` vectors `U_1 , U_2 , ... , U_n` where a linear combination
+    such as `alpha_1 U_1 + alpha_2 U_2 + ... + alpha_n U_n` can be equal to zero even
+    if not all scalar coefficients `alpha_1 , alpha_2 , cdots , alpha_n` are equal
+    to zero
+  examples: []
+  id: 102-03-06
+  language_code: eng
+  notes: []
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linearly dependent
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2017-07-01
+id: 0180ec62-5109-5408-91bc-79f827ad6363
+status: valid

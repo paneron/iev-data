@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: electric current per unit {{active area, IEV:485-02-08}}
+  examples: []
+  id: 485-12-01
+  language_code: eng
+  notes:
+  - The current density is expressed in A/m^2^ or A/cm^2^.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: current density
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: ec16e17e-ac0b-5473-b546-bb0dd3d9e1cf
+status: valid

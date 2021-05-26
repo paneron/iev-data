@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport du niveau d'un signal spécifié, dont la fréquence est l'une
+    des {{fréquences parasites, IEV:161-06-06}} d'un récepteur et qui produit une
+    puissance de sortie spécifiée, au niveau du signal utile qui produit la même puissance
+    de sortie
+  examples: []
+  id: 161-06-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement sur la fréquence parasite
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b9d1a907-8797-53ab-88f9-434bc2e1c4f0
+status: valid

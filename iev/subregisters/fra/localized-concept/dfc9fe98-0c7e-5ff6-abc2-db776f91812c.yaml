@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: unité fonctionnelle qui génère la valeur de sa variable de sortie en
+    extrayant la racine carrée de la valeur de sa variable d'entrée et en multipliant
+    cette racine carrée par un facteur de pondération constant, suivant la formule
+    `v ( t ) = K * sqrt(u ( t ))` où<table> <tr> <td>`t`</td> <td>est le temps;</td>
+    </tr> <tr> <td> `u`(`t`)</td> <td>est la variable d'entrée;</td> </tr> <tr> <td>`K`</td>
+    <td>est le facteur de pondération;</td> </tr> <tr> <td> `v`(`t`)</td> <td>est
+    la variable de sortie.</td> </tr> </table>
+  examples: []
+  id: 351-50-36
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-20 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément racine carrée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: dfc9fe98-0c7e-5ff6-abc2-db776f91812c
+status: valid

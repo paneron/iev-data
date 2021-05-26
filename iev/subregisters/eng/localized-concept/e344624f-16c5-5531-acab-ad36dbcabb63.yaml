@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-08-01
+  definition: 'scalar, denoted by `U * V`, attributed to any pair of vectors *`U`*
+    and *`V`* in a vector space by a given bilinear form, with the following properties:
+    * symmetry: `U * V = V * U`, * `U * U > 0` for `U != 0`'
+  examples: []
+  id: 102-03-17
+  language_code: eng
+  notes:
+  - 'In an `n`-dimensional space with orthonormal base vectors the scalar product
+    of two vectors *`U`* and *`V`* is the sum of the products of each coordinate `U_i`
+    of the vector *`U`* and the corresponding coordinate `V_i` of the vector *`V`*:
+
+
+    `U * V = underset(i)( sum ) U_i V_i`'
+  - For two complex vectors *`U`* and *`V`* either the scalar product `U * V` or a
+    Hermitian product `U * V *` may be used depending on the application.
+  - A scalar product can be similarly defined for a pair consisting of a polar vector
+    and an axial vector and is then a pseudo-scalar, or for a pair of two axial vectors
+    and is then a scalar.
+  - The scalar product of two vector quantities is the scalar product of the associated
+    unit vectors multiplied by the product of the scalar quantities.
+  - The scalar product is denoted by a half-high dot (·) between the two symbols representing
+    the vectors.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar product
+    normative_status: preferred
+    type: expression
+  - designation: dot product
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: e344624f-16c5-5531-acab-ad36dbcabb63
+status: valid

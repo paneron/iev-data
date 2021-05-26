@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a linear passive two-terminal-pair network, each of the impedances
+    `Z`~i1~ and `Z`~i2~ where the input impedance at port 1 is `Z`~i1~ when the terminating
+    impedance of port 2 is `Z`~i2~ and the input impedance at port 2 is `Z`~i2~ when
+    the terminating impedance of port 1 is `Z`~i1~
+  examples: []
+  id: 131-15-23
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: image impedance
+    normative_status: preferred
+    type: expression
+  - designation: '`Z`~i~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: def14e82-e635-5d99-aaec-50fbd882301e
+status: valid

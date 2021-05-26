@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: three values of a set of colour-matching functions at a given wavelength
+  examples: []
+  id: 845-23-032
+  language_code: eng
+  notes:
+  - The term "spectral tristimulus values" is no longer in use.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: colour-matching coefficients
+    normative_status: preferred
+    plurality: plural
+    type: expression
+  - designation: spectral tristimulus values
+    normative_status: deprecated
+    plurality: plural
+    type: expression
+dateAccepted: 2020-12-01
+id: 92c7ebb7-3861-5e20-8748-47d696c42802
+status: valid

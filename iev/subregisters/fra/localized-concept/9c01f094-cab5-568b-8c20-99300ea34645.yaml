@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: '3.10'
+      original: Guide CEI 109:2012, 3.10, modifiée – L'explication de l'origine de
+        l'abréviation «LCT» a été transférée à la Note 1 à l'article.
+      ref: IEC Guide 109:2012
+      relationship:
+        modification: L'explication de l'origine de l'abréviation «LCT» a été transférée
+          à la Note 1 à l'article.
+        type: modified
+  classification: Preferred
+  definition: prise en compte de tous les {{aspects environnementaux, IEV:901-07-02}}
+    au cours de tout le {{cycle de vie, IEV:901-07-12}} des produits [CEI 62430:2009,
+    définition 3.11]
+  examples: []
+  id: 901-07-14
+  language_code: fra
+  notes:
+  - L’abréviation «LCT» est dérivé du terme anglais développé correspondant «life
+    cycle thinking».
+  reviewDecisionEvent: published
+  terms:
+  - designation: réflexion sur le cycle de vie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: LCT
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9c01f094-cab5-568b-8c20-99300ea34645
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: spécification d'une puce ou d'un boîtier LED, ou d'un ensemble de puces
+    ou de boîtiers LED, par une plage de caractéristiques de performances
+  examples: []
+  id: 845-27-066
+  language_code: fra
+  notes:
+  - Les caractéristiques peuvent inclure la chromaticité, ainsi que les performances
+    photométriques, radiométriques et électriques.
+  - Le terme "code binaire" désigne souvent une propriété binaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tri
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: propriété des puces LED ou des boîtiers LED
+dateAccepted: 2018-11-17
+id: 0f6de39b-95ec-596b-aebf-b5e5cc194b1b
+status: valid

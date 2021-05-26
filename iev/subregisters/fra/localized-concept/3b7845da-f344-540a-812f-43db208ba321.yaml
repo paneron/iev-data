@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: maintenance effectuée pour limiter la dégradation et réduire la probabilité
+    de défaillance
+  examples: []
+  id: 192-06-05
+  language_code: fra
+  notes:
+  - Voir aussi maintenance conditionnelle ({{192-06-07, IEV:192-06-07}}) et maintenance
+    programmée ({{192-06-12, IEV:192-06-12}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenance préventive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: entretien
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3b7845da-f344-540a-812f-43db208ba321
+status: valid

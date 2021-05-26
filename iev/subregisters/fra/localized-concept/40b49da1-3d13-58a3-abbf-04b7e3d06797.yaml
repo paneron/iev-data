@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: disposer des données dans une mémoire de manière compacte en tirant
+    partie de caractéristiques connues de ces données et de la mémoire, afin de pouvoir
+    reconstituer ultérieurement les données originales
+  examples:
+  - Employer des emplacements d’élément binaire ou d’octet qui, sinon, resteraient
+    inutilisés.
+  id: 171-05-54
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: condenser
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 40b49da1-3d13-58a3-abbf-04b7e3d06797
+status: valid

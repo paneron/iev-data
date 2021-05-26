@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a linear two-port, quotient of the phasor representing a quantity
+    at the input port by the phasor representing a quantity of the same kind at the
+    output port
+  examples: []
+  id: 131-14-19
+  language_code: eng
+  notes:
+  - According to the kind of quantity, examples are an open-circuit reverse voltage
+    transfer ratio, a short-circuit reverse current transfer ratio.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reverse transfer ratio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 7bc9d548-b928-5d73-b501-55452e938f11
+status: valid

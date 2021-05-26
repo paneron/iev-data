@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.18.4
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.18.4
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  definition: plus faible valeur de crête de la tension d'essai à laquelle la charge
+    apparente est supérieure à la grandeur de décharge spécifiée, si la tension d'essai
+    est augmentée à partir d'une faible valeur pour laquelle aucune décharge ne se
+    produit
+  examples: []
+  id: 212-11-41
+  language_code: fra
+  notes:
+  - Pour les essais en courant alternatif, il est également possible d'utiliser la
+    valeur efficace.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension de seuil de décharge partielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 39130253-4ae7-57f3-b20d-1499cc967f85
+status: valid

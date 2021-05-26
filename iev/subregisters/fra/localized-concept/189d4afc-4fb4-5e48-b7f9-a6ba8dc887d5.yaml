@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: intégrale de l'intensité de trafic pendant un intervalle de temps donné
+  examples: []
+  id: 715-05-11
+  language_code: fra
+  notes:
+  - Le volume de trafic est égal à la somme des durées d'occupation de chacune des
+    ressources.
+  - 'L''erlang-heure (symbole: Eh) est une unité de volume de trafic.'
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume de trafic
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 189d4afc-4fb4-5e48-b7f9-a6ba8dc887d5
+status: valid

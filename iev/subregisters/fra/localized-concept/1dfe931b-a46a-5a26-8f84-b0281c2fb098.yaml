@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: lieu de résidence
+  examples:
+  - Appartement, maison individuelle, résidence citadine, logement protégé.
+  id: 871-03-01
+  language_code: fra
+  notes:
+  - Cette définition n’inclut pas les maisons médicales, maisons de retraite et autres
+    établissements comportant des services de soins infirmiers.
+  reviewDecisionEvent: published
+  terms:
+  - designation: domicile
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un ménage
+dateAccepted: 2018-11-17
+id: 1dfe931b-a46a-5a26-8f84-b0281c2fb098
+status: valid

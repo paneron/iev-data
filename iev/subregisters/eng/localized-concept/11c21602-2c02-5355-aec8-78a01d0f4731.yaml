@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1133
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1133, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: neutron of kinetic energy less than some specified value
+  examples: []
+  id: 395-02-13
+  language_code: eng
+  notes:
+  - This value is frequently chosen to be 1 eV.
+  - In dosimetry, the cadmium cut-off energy is used.
+  - This entry was numbered 393-12-73 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: slow neutron
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 11c21602-2c02-5355-aec8-78a01d0f4731
+status: valid

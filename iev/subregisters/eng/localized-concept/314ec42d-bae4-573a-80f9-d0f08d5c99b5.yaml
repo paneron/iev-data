@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.31
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.31
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: human- or machine-readable mark, or digital identity used to communicate
+    <a href="IEV741-01-500">information</a> about an {{entity, IEV:741-01-18}}
+  examples: []
+  id: 741-01-31
+  language_code: eng
+  notes:
+  - A tag can contain information that can be read by {{sensors, IEV:741-02-09}} to
+    aid in identification of the {{physical entity, IEV:741-01-26}}.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tag
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 314ec42d-bae4-573a-80f9-d0f08d5c99b5
+status: valid

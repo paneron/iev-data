@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 characterizing the flow of fluids at the interface
+    between two different fluids, defined by `W e = ((rho v^2 l))/(sigma)`, where
+    `ρ` is the difference of the mass densities of the fluids, `v` is their relative
+    speed, `l` is a specified length, and `σ` is surface tension
+  examples: []
+  id: 113-03-43
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Weber number
+    normative_status: preferred
+    type: expression
+  - designation: '`We`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 8e53511f-b29f-59e2-87b6-1ffc8cde265f
+status: valid

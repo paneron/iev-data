@@ -1,0 +1,51 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: maximum value of <a href="IEV845-21-091">spectral luminous efficacy</a>
+    for a specified photometric condition
+  examples: []
+  id: 845-21-092
+  language_code: eng
+  notes:
+  - The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+    If it is not specified, photopic vision is assumed and the symbol `K`~m~ is used.
+    For other photometric conditions, the respective symbol for identification shall
+    be used.
+  - 'The value of maximum luminous efficacy for photopic vision is calculated by
+
+
+    `K_m = ((683))/((V ( lambda_((cd)) ))) cd * sr * W^(- 1) tildetilde 683 \ lm *
+    W^(- 1)`
+
+
+    where `V`(`λ`) is the <a href="IEV845-21-035">spectral luminous efficiency</a>
+    for photopic vision and `λ`~cd~ is the wavelength in air corresponding to the
+    {{frequency, IEV:103-06-02}} 540 × 10^12^ Hz specified in the definition of the
+    SI unit candela.'
+  - The maximum luminous efficacy is expressed in lumen per watt (lm·W^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum luminous efficacy
+    normative_status: preferred
+    type: expression
+    usage_info: for a specified photometric condition
+  - designation: '`K`~m~, &lt;for photopic vision&gt; &lt;pour la vision photopique&gt;
+
+      `K`′~m~, &lt;for scotopic vision&gt; &lt;pour la vision scotopique&gt;
+
+      `K`~m,mes;`m`~, &lt;for mesopic vision&gt; &lt;pour la vision mésopique&gt;
+
+      `K`~m,10~, &lt;for the CIE 10° photopic photometric observer&gt; &lt;pour l''observateur
+      photométrique photopique 10° CIE&gt;
+
+      `K`~m,M~, &lt;for the CIE 1988 modified 2° spectral luminous efficiency function
+      for photopic vision&gt; &lt;pour la fonction d''efficacité lumineuse relative
+      spectrale de 2° pour vision photopique (CIE 1988 modifiée)&gt;'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7a294c13-d9d6-51b6-950c-a6133daf26a5
+status: valid

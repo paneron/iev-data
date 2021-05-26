@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{bruit radioélectrique, IEV:161-01-12}} ayant son origine dans des
+    {{appareils, IEV:151-11-22}} ou {{installations, IEV:151-11-26}} de fabrication
+    humaine'
+  examples: []
+  id: 713-11-28
+  language_code: fra
+  notes:
+  - En anglais, le terme "man-made noise" est aussi employé pour tout bruit électromagnétique
+    et non seulement pour un bruit radioélectrique (voir {{IEV 161-01-18, IEV:161-01-18}}).
+  - En français, les termes "bruit artificiel" et "parasite artificiel" sont aussi
+    employés pour tout bruit électromagnétique et non seulement pour un bruit radioélectrique
+    (voir {{IEV 161-01-18, IEV:161-01-18}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit artificiel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en radiocommunication
+  - designation: parasite artificiel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en radiocommunication
+dateAccepted: 2018-11-17
+id: db539614-a3dc-55ad-949c-703dd69636a1
+status: valid

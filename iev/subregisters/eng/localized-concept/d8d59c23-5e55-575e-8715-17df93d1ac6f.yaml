@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: pertaining to the representation of {{information, IEV:171-01-01}} by
+    means of a {{quantity, IEV:112-01-01}} that can, at any instant within a continuous
+    time interval, assume any {{value, IEV:112-01-28}} within a continuous interval
+    of values
+  examples: []
+  id: 171-01-04
+  language_code: eng
+  notes:
+  - The quantity considered can, for example, follow continuously the values of another
+    quantity representing information.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: analogue
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: analog
+    geographical_area: US
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-03-01
+id: d8d59c23-5e55-575e-8715-17df93d1ac6f
+status: valid

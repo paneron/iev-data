@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: quantity characterizing the variation with thermodynamic temperature
+    `T` of the distance `l` between two points of a body, under given conditions,
+    thus `alpha_l = (1)/(l) ((d l))/((d T))`
+  examples: []
+  id: 113-04-27
+  language_code: eng
+  notes:
+  - 1 Usually the condition is absence of external forces.
+  - 2 The coherent SI unit of linear expansion coefficient is kelvin to the power
+    minus one, K^−1^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient of linear expansion
+    normative_status: preferred
+    type: expression
+  - designation: linear expansion coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`α`~`l`~
+
+      `α`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: a31ca429-ab2e-5d5f-ad3c-03adafb9f0b4
+status: valid

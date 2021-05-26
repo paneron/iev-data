@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: '7.4'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 7.4, modifiée – La note du titre de l'Article
+        7 de l'ISO/CEI 17000:2004 a été rajouté à l'entrée.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: La note du titre de l'Article 7 de l'ISO/CEI 17000:2004 a été
+          rajouté à l'entrée.
+        type: modified
+  classification: Preferred
+  definition: relation entre différents résultats d'évaluation de la conformité suffisante
+    pour fournir le même niveau d'assurance de la conformité quant aux mêmes {{exigences
+    spécifiées, IEV:902-02-01}}
+  examples: []
+  id: 902-06-04
+  language_code: fra
+  notes:
+  - L'expression générique «résultat d'une évaluation de la conformité» est employée
+    de {{902-06-04, IEV:902-06-04}} à {{902-06-09, IEV:902-06-09}} pour signifier
+    le {{produit, IEV:902-02-03}} d'une activité d‘évaluation de la conformité (par
+    exemple un rapport ou un certificat) et peut comprendre un constat de non-conformité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivalence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: équivalence de résultats d'évaluation de la conformité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f4dc11e9-05b3-5e53-b724-46c9d8a84e8c
+status: valid

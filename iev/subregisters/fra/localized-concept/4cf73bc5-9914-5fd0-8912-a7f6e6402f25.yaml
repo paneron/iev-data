@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{modulation, IEV:701-03-08}} par un {{signal temporel discret, IEV:702-04-04}}
+    dans laquelle il existe une relation préétablie entre les instants qui caractérisent
+    la phase de la {{porteuse, IEV:702-06-03}} avant modulation et les {{instants
+    significatifs, IEV:721-02-29}} du {{modulat, IEV:702-06-05}}'
+  examples:
+  - Modulation où les instants significatifs du modulat coïncident avec les passages
+    par zéro de la porteuse.
+  id: 702-06-45
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation cohérente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4cf73bc5-9914-5fd0-8912-a7f6e6402f25
+status: valid

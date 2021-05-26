@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: '{{superposed circuit, IEV:704-03-05}} derived from the conductors of
+    two metallic circuits, with the two conductors of each metallic circuit being
+    used in parallel'
+  examples:
+  - A {{telegraph circuit, IEV:721-11-04}} superposed on two {{telephone circuits,
+    IEV:722-06-07}}.
+  id: 704-03-08
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phantom circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: 09cb1c9c-1142-56a4-9754-357135968871
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.14
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.14
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  definition: dispositif, spécifié par le constructeur du dispositif de coupure différentiel,
+    qui doit être installé dans le circuit, en série avec le dispositif différentiel,
+    pour le protéger uniquement contre les courts-circuits
+  examples: []
+  id: 442-05-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif de protection contre les courts-circuits
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour dispositif de coupure différentiel
+dateAccepted: 2018-11-17
+id: 2995e2ec-1ab2-553d-9541-df0059619bc8
+status: valid

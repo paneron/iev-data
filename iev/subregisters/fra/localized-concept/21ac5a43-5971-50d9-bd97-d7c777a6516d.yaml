@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur résultant d'une opération effectuée pour attribuer, à partir
+    des valeurs observées dans un échantillon, des valeurs numériques aux paramètres
+    de la loi de probabilité choisie comme modèle statistique de la population dont
+    est issu l'échantillon
+  examples: []
+  id: 192-13-04
+  language_code: fra
+  notes:
+  - Le résultat peut être exprimé sous la forme d’une seule valeur numérique, appelée
+    estimation ponctuelle, ou d’un intervalle de confiance.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur estimée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une grandeur en sûreté de fonctionnement
+  - designation: estimation
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: d’une grandeur de sûreté de fonctionnement
+dateAccepted: 2018-11-17
+id: 21ac5a43-5971-50d9-bd97-d7c777a6516d
+status: valid

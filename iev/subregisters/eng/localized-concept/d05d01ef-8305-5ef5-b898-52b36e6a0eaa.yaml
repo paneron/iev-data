@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: for a reluctant element, quotient of the magnetic flux `Φ` by the magnetic
+    tension `V`~m~ `Lambda = (Phi)/((V_m))`
+  examples: []
+  id: 131-12-29
+  language_code: eng
+  notes:
+  - The permeance is the reciprocal of the reluctance.
+  - The coherent SI unit of permeance is henry, H.
+  - In an electric equivalent circuit, the permeances are represented by conductances,
+    magnetic fluxes by electric currents and magnetic tensions by voltages.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: permeance
+    normative_status: preferred
+    type: expression
+  - designation: '`Λ`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: d05d01ef-8305-5ef5-b898-52b36e6a0eaa
+status: valid

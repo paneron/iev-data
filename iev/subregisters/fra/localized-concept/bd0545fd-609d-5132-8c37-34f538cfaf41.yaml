@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matériel équipé d'une protection contre l'explosion
+  examples: []
+  id: 426-01-14
+  language_code: fra
+  notes:
+  - Ce type de matériels inclut souvent les {{Composants Ex, IEV:426-01-13}}, mais
+    une évaluation supplémentaire est toujours exigée dans le cadre de leur incorporation
+    dans le matériel.
+  reviewDecisionEvent: published
+  terms:
+  - designation: Matériel Ex
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bd0545fd-609d-5132-8c37-34f538cfaf41
+status: valid

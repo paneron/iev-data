@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: milieu dans lequel un champ électrique variable produit un vecteur densité
+    de courant électrique `vec J` dont la projection selon une direction donnée a
+    une norme petite par rapport à celle de la projection du vecteur `((del vec D))/((del
+    t))` dans une bande de fréquences déterminée
+  examples: []
+  id: 705-03-07
+  language_code: fra
+  notes:
+  - 'Pour un milieu isotrope, la propriété d''être diélectrique se traduit en régime
+    sinusoïdal par la condition:
+
+
+    `(sigma)/((epsilon_0 omega)) ≪ epsilon_r^( '' )`
+
+
+    où `epsilon_r^( '' )` est la permittivité relative réelle, `ε`~0~ est la constante
+    électrique, `σ` est la conductivité, `ω` est la pulsation.'
+  - Un milieu anisotrope peut n'être diélectrique que dans certaines directions.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (milieu) diélectrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 131ed418-7e33-58b5-84c1-e3fb073ba307
+status: valid

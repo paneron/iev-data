@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: composante `a` d'un nombre complexe `c = a + j b`, où `a` et `b` sont
+    des nombres réels
+  examples: []
+  id: 102-02-11
+  language_code: fra
+  notes:
+  - La partie réelle d'un nombre complexe `c` est notée `Re c` ou parfois `c`′ en
+    électrotechnique.
+  - Le concept de partie réelle peut s'appliquer aux grandeurs scalaires, vectorielles
+    ou tensorielle complexes et aux matrices d'éléments complexes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: partie réelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ecb46d1-deff-5954-ae86-6c2033bcf00e
+status: valid

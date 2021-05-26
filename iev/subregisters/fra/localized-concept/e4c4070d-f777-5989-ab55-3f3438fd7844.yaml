@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'structure de commande avec des sous-processus interconnectés, dans
+    lesquels chaque équipement de commande partiel prend en compte les informations
+    de son sous-processus associé, pour constituer ses informations de sortie VOIR:
+    Figure 24.'
+  examples: []
+  id: 351-55-10
+  language_code: fra
+  notes:
+  - Un système à calculateur de processus compact constitue des structures de commande
+    décentralisées si des régulateurs uniques sont utilisés pour chaque boucle d'asservissement,
+    sans prendre en compte les liens entre les sous-processus.
+  - 'Cet article était numéroté 351-31-10 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 24 – Examples of different control structures*
+
+
+    *Figure 24 – Exemples de différentes structures de commande*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: structure de commande décentralisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: e4c4070d-f777-5989-ab55-3f3438fd7844
+status: valid

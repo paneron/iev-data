@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 121-12-37
+      link: https://webstore.iec.ch/publication/169
+      original: IEC 60050-121:1998, 121-12-37, modifié
+      ref: IEC 60050-121:1998
+      relationship:
+        type: modified
+  definition: grandeur scalaire ou tensorielle dont le produit par le champ magnétique
+    *`H`* est égal à l'aimantation *`M`* *`M`* = `κ`*`H`*
+  examples: []
+  id: 815-17-11
+  language_code: fra
+  notes:
+  - Dans un milieu isotrope, la susceptibilité magnétique est une grandeur scalaire
+    alors que dans un milieu anisotrope c’est une grandeur tensorielle.
+  - Dans certains documents, le symbole `χ`~m~ (au lieu de `κ`) est utilisé pour la
+    "susceptibilité magnétique".
+  reviewDecisionEvent: published
+  terms:
+  - designation: susceptibilité magnétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ac5f30df-8693-5961-8833-ab5662c926c8
+status: valid

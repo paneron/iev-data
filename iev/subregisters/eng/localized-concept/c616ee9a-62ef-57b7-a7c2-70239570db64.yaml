@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.2
+      original: IEC TS 80004-9:2017, 3.1.2, modified – In the definition "design and
+        fabrication" has been replaced by "development and production" for alignment
+        with the definition of "nanoelectronics" (IEV 511-01-14).
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: In the definition "design and fabrication" has been replaced
+          by "development and production" for alignment with the definition of "nanoelectronics"
+          (IEV 511-01-14).
+        type: modified
+  dateAmended: 2018-04-01
+  definition: field of science and technology concerned with the development and production
+    of electronic {{devices, IEV:511-01-01}} using molecules as components
+  examples: []
+  id: 511-01-02
+  language_code: eng
+  notes:
+  - Some molecules need to be functionalized in order to act as components.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: molecular electronics
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: c616ee9a-62ef-57b7-a7c2-70239570db64
+status: valid

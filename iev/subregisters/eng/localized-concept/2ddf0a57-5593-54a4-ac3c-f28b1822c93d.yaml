@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.5
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.5
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2019-05-01
+  definition: mechanical switching device or association of devices designed to make,
+    carry and break currents under normal service conditions and to cause the opening
+    of the contacts when the residual current attains a given value under specified
+    conditions
+  examples: []
+  id: 442-05-02
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: residual current device
+    normative_status: preferred
+    type: expression
+  - designation: RCD
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: 2ddf0a57-5593-54a4-ac3c-f28b1822c93d
+status: valid

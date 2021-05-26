@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: 'value indicating the active frequency region: `Delta f_L tilde= f_L
+    – f_r` where `f`~r~ is the resonance frequency `f`~L~ is the load resonance frequency'
+  examples: []
+  id: 561-01-45
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load resonance frequency offset
+    normative_status: preferred
+    type: expression
+  - designation: Δ`f`~L~
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: d79fa086-2442-58c7-92de-190ef48c1e79
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{trame temporelle, IEV:702-04-11}} constituée d''une suite périodique
+    dont chaque {{cycle, IEV:103-05-08}} est un groupe d''{{intervalles de temps,
+    IEV:113-01-10}}'
+  examples: []
+  id: 702-04-12
+  language_code: fra
+  notes:
+  - Les intervalles de temps constituant un cycle n'ont pas tous nécessairement la
+    même {{durée, IEV:113-01-13}}, mais idéalement tous les cycles doivent être identiques
+    avec des écarts maintenus dans des limites spécifiées.
+  reviewDecisionEvent: published
+  terms:
+  - designation: trame temporelle cyclique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: trame temporelle périodique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 757d8009-8565-5fcb-af68-9fdced30ad9b
+status: valid

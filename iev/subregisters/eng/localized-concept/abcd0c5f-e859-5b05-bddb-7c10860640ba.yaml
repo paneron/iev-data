@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the luminous flux of a lamp at a given time in its operational
+    life and the initial luminous flux
+  examples: []
+  id: 845-29-147
+  language_code: eng
+  notes:
+  - The lamp luminous flux maintenance factor has unit one.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lamp luminous flux maintenance factor
+    normative_status: preferred
+    type: expression
+  - designation: LLMF
+    type: expression
+  - designation: lamp lumen maintenance factor
+    normative_status: admitted
+    type: expression
+  - designation: '*`f`*~LLM~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: abcd0c5f-e859-5b05-bddb-7c10860640ba
+status: valid

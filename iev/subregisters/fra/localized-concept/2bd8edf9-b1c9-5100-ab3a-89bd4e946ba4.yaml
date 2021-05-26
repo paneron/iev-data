@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 714-02-11
+      original: 714-02-11 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1996-12-01
+  definition: qualifie une ressource qui n'est pas en cours d'utilisation et qui n'est
+    pas en panne
+  examples: []
+  id: 715-02-06
+  language_code: fra
+  notes:
+  - Une ressource au repos peut être libre ou bloquée.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: au repos
+    normative_status: preferred
+    type: expression
+  - designation: de repos
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 1996-12-01
+id: 2bd8edf9-b1c9-5100-ab3a-89bd4e946ba4
+status: valid

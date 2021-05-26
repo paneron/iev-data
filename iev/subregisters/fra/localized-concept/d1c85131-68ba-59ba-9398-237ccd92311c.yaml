@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: ensemble de règles de transmission de données dans un système interconnectant
+    plusieurs participants
+  examples: []
+  id: 351-56-14
+  language_code: fra
+  notes:
+  - 'Un protocole peut définir les conditions pour établir un raccordement à un support
+    de transmission, les règles régissant l''accès au support, les procédures de protection
+    d''erreur, les moyens fonctionnels et procéduraux d''échange des données, les
+    mécanismes de transport, le contrôle de la communication, la représentation des
+    données et l''échange des données d''application.
+
+
+    Les protocoles définissent, par exemple:* les unités de données transférées entre
+    les participants,* la signification des unités de données (sémantique),* le format
+    des unités de données (syntaxe) et* la séquence temporelle logique de l''échange
+    des données.'
+  - Les protocoles utilisés dans un système peuvent être organisés, par exemple, selon
+    le modèle de référence à sept couches de l'OSI/ISO.
+  - Cet article était numéroté 351-32-13 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protocole
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: d1c85131-68ba-59ba-9398-237ccd92311c
+status: valid

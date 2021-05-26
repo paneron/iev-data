@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: '`delta ( epsilon ) = - ln ((Phi^( '' )_e))/((Phi_e))` where `Φ`~e~
+    is the radiant flux of a collimated beam entering the upper limit layers of the
+    atmosphere at an angle `ε` to the vertical, and `Phi^( '' )_e` is the attenuated
+    radiant flux of that beam reaching the surface of the Earth'
+  examples: []
+  id: 845-29-106
+  language_code: eng
+  notes:
+  - See also "<a href="IEV845-24-087">spectral optical thickness</a>".
+  - The optical thickness has unit one.
+  - This entry was numbered 845-09-86 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: optical thickness
+    normative_status: preferred
+    type: expression
+    usage_info: of the atmosphere
+  - designation: optical depth
+    type: expression
+    usage_info: of the atmosphere
+  - designation: '`δ`(`ε`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 04d360d1-92c8-53d9-ae72-007ce03588c5
+status: valid

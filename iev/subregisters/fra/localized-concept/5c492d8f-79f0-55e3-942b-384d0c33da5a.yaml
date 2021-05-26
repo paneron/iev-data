@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: représentation graphique de la répartition dans l'espace d'une grandeur
+    qui caractérise le champ électromagnétique produit par une antenne
+  examples: []
+  id: 712-02-15
+  language_code: fra
+  notes:
+  - On peut, par exemple, représenter en fonction de la direction la norme d'une composante
+    du champ ou les contours d'égales valeurs d'une composante de champ, à une distance
+    donnée de l'antenne, dans la région de champ lointain.
+  - En français, le terme "diagramme de directivité" est le terme préféré lorsque
+    la grandeur utilisée pour caractériser le champ est indépendante de la puissance
+    d"alimentation.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diagramme de rayonnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: diagramme de directivité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: diagramme d'antenne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 5c492d8f-79f0-55e3-942b-384d0c33da5a
+status: valid

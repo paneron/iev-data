@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: angle that a light path makes with the normal to the plane of incidence
+  examples: []
+  id: 845-25-078
+  language_code: eng
+  notes:
+  - The angle of incidence is expressed in radian (rad) or degree (°).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle of incidence
+    normative_status: preferred
+    type: expression
+  - designation: incidence angle
+    type: expression
+  - designation: angle of irradiation
+    normative_status: admitted
+    type: expression
+  - designation: '`ε`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 098806cd-6281-59e2-a5f6-8296bcda697f
+status: valid

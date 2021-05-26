@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: qualitative method of analysis that involves the study of possible failure
+    modes and faults in sub items, and their effects at various indenture levels
+  examples: []
+  id: 192-11-05
+  language_code: eng
+  notes:
+  - The term "fault mode and effects analysis" in IEC 60050-191:1990 (now withdrawn;
+    replaced by IEC 60050-192:2015) is deprecated, since a fault ({{192-04-01, IEV:192-04-01}})
+    is a state and cannot logically have a mode, whereas a failure mode ({{192-03-17,
+    IEV:192-03-17}}) is a change of state.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: failure modes and effects analysis
+    normative_status: preferred
+    type: expression
+  - designation: FMEA
+    normative_status: preferred
+    type: expression
+  - designation: fault mode and effects analysis
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: 4b7d1890-3552-57ca-9963-809fe4252c93
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.7.1
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.7.1
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  definition: '{{condition de fonctionnement, IEV:151-16-01}} qui n''est ni une {{condition
+    normale de fonctionnement, IEV:151-16-49}} ni une {{condition de premier défaut,
+    IEV:903-01-15}} de l''équipement proprement dit'
+  examples: []
+  id: 903-01-22
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: condition anormale de fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 70bdaaef-df8c-5e78-832b-ffe483319ffc
+status: valid

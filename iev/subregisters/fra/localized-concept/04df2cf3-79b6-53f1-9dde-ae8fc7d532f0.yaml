@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.54
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.54
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  definition: champ de donnée additionnel contenant un nombre qui varie d'une manière
+    prédéfinie de message à message
+  examples: []
+  id: 821-11-48
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: numéro de séquence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 04df2cf3-79b6-53f1-9dde-ae8fc7d532f0
+status: valid

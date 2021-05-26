@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: scalar quantity equal to the tangential component d`F`~t~ of a force
+    acting on a surface element divided by the area d`A` of the element, thus `τ`
+    = d`F`~t~ / d`A`
+  examples: []
+  id: 113-03-64
+  language_code: eng
+  notes:
+  - 1 In anisotropic media, shear stress may depend on the orientation of the surface
+    and may be described by tensor.
+  - 2 The coherent SI unit of shear stress is pascal, Pa.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shear stress
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 1d53a45a-7325-5abe-bb2f-703bc8e573ec
+status: valid

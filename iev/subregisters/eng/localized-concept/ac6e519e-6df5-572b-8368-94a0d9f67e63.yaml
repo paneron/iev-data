@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: energy of electromagnetic waves weighted by the <a href="IEV845-21-035">spectral
+    luminous efficiency</a> multiplied by maximum luminous efficacy of a specified
+    photometric condition
+  examples: []
+  id: 845-21-037
+  language_code: eng
+  notes:
+  - 'Luminous energy for photopic vision is expressed by
+
+
+    `Q_v = K_m int_0^(oo) Q_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    where `Q`~e,`λ`~(`λ`) is the spectral radiant energy at wavelength `λ`, `V`(`λ`)
+    is spectral luminous efficiency, and `K`~m~ is maximum luminous efficacy.'
+  - The term "quantity of light" is no longer used.
+  - Luminous energy can be emitted, transferred or received.
+  - 'Luminous energy can be expressed by the time integral of the luminous flux, `Φ`~v~,
+    over a given duration, Δ`t`:
+
+
+    `Q_v = int_((Delta t)) Phi_v d t`'
+  - The corresponding radiometric quantity is "radiant energy". The corresponding
+    quantity for photons is "photon energy".
+  - The luminous energy is expressed in lumen second (lm·s) or lumen hour (lm·h).
+  - This entry was numbered 845-01-28 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous energy
+    normative_status: preferred
+    type: expression
+  - designation: quantity of light
+    normative_status: deprecated
+    type: expression
+  - designation: '`Q`~v~
+
+      `Q`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ac6e519e-6df5-572b-8368-94a0d9f67e63
+status: valid

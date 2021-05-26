@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the complex quotient of the magnetic flux density and magnetic field
+    strength in a material when one of these quantities varies sinusoidally with time
+    and that component of the other is chosen which varies sinusoidally with time
+    at the same frequency, that is, the fundamental component. The vectors representing
+    the flux density and field strength are assumed to be collinear : `µ` = `μ''`
+    − j `μ''''` where `µ''` and `µ"` are the real and imaginary components respectively
+    of the complex permeability'
+  examples: []
+  id: 221-03-06
+  language_code: eng
+  notes:
+  - In general, a number of the permeabilities defined herein may be expressed as
+    complex permeability. Where such permeabilities are expressed by symbols not indicating
+    that they are complex or that they are components of a complex number, the real
+    part is assumed.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`µ`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 513e3010-b305-56af-9dc4-f1b811fd7450
+status: valid

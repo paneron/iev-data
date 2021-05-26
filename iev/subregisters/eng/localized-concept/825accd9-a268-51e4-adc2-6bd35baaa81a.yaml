@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: function representing the relative spectral effectiveness of <a href="IEV845-21-002">optical
+    radiation</a>, for a specified biological effect, in a specified system
+  examples: []
+  id: 845-26-027
+  language_code: eng
+  notes:
+  - The normalized action spectrum is the wavelength dependence of the inverse of
+    the dose of <a href="IEV845-21-014">monochromatic radiation</a> required to induce
+    a certain (biologic) response; the action spectrum is commonly normalized to a
+    value of 1 at the wavelength of "maximum action", i.e. where the smallest dose
+    suffices to induce the required effect.
+  - This entry was numbered 845-06-14 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: action spectrum
+    normative_status: preferred
+    type: expression
+  - designation: spectral weighting function
+    type: expression
+dateAccepted: 2020-12-01
+id: 825accd9-a268-51e4-adc2-6bd35baaa81a
+status: valid

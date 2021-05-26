@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: when there is congestion in a transit exchange, the re-direction of
+    the call backwards to a preceding exchange in the already partly established connection
+    with a view to finding an alternative traffic routing from that exchange
+  examples: []
+  id: 721-17-41
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: re-routing
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 4c8f6f95-b9b4-513e-9648-dc646589b482
+status: valid

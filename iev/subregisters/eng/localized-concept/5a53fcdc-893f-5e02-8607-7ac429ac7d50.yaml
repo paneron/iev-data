@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.62'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.62 of IEC 62127-1
+      ref: IEC 62127-1
+      relationship:
+        type: identical
+  dateAmended: 2011-01-01
+  definition: maximum value of the temporal-average intensity in an acoustic field
+    or in a specified plane
+  examples: []
+  id: 802-01-15
+  language_code: eng
+  notes: []
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spatial-peak temporal-average intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~spta~'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: 5a53fcdc-893f-5e02-8607-7ac429ac7d50
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the total photon number of all wavelengths emitted from
+    a specimen by a fluorescent process for an excitation at wavelength `μ`, and the
+    photon number of wavelength `μ` reflected from the perfect reflecting diffuser
+    identically irradiated and viewed
+  examples: []
+  id: 845-24-043
+  language_code: eng
+  notes:
+  - The spectral quantum efficiency of the fluorescent process has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral quantum efficiency of a fluorescent process
+    normative_status: preferred
+    type: expression
+  - designation: '`ημ`(`μ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: f998d6f0-888b-540f-9c9c-dfdf91a851ed
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: definition 282
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 282, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: disintegrations per unit time d`N`/d`t` for an {{atomic nucleus, IEV:113-05-21}}
+    divided by the number of nuclei `N` existing at the same time `t` `lambda = -
+    (1)/(N) xx ((d N))/((d t))`
+  examples: []
+  id: 395-01-11
+  language_code: eng
+  notes:
+  - The decay constant is expressed in reciprocal seconds (s^−1^).
+  - The decay constant may be considered the total probability of radioactive decay
+    (disintegration and/or nuclear transition).
+  - This entry was numbered 393-14-18 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: decay constant
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 18376c5b-f109-51e0-8992-dc3b2af52064
+status: valid

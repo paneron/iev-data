@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: ensemble des opérations utilisées pour vérifier si les indications,
+    dans des conditions spécifiées, correspondent à un ensemble donné de mesurandes
+    connus, à l'intérieur des limites du diagramme d'étalonnage prédéterminé
+  examples: []
+  id: 311-01-13
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "incertitude".
+  - L’incertitude connue du mesurande utilisé pour la vérification est généralement
+    négligeable par rapport à l’incertitude assignée à l’appareil dans le diagramme
+    d’étalonnage.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vérification (d’étalonnage)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 4309aff5-9ce1-5e6e-af64-f1d6d1325b16
+status: valid

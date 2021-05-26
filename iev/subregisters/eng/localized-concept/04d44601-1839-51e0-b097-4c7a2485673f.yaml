@@ -1,0 +1,48 @@
+data:
+  authoritativeSource:
+  - - clause: 705-01-08
+      original: 705-01-08 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: set of equations relating the four vector quantities determining the
+    electromagnetic field in a material medium or in vacuum and the two quantities
+    electric current density and volumic electric charge
+  examples: []
+  id: 121-11-62
+  language_code: eng
+  notes:
+  - 'The Maxwell equations expressed in differential form are:
+
+
+    `rot E = - ((del B))/((del t))`
+
+
+    `div D = rho`
+
+
+    `rot H = J + ((del D))/((del t))`
+
+
+    `div B = 0`
+
+
+    where *rot* and div denote the rotation and the divergence respectively, `*E*`
+    , `*D*` , `*H*`  and `*B*`  are the four vector quantities determining the electromagnetic
+    field,  `*J*` is the electric current density, `ρ`  is the volumic electric charge
+    and `t` is the time.'
+  - The Maxwell equations completely define the electromagnetic field in a given medium
+    only together with the relations characterizing the medium, often called constitutive
+    relations; in the case of a linear medium, these relations are expressed in terms
+    of the permittivity, permeability, and conductivity of the medium.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Maxwell equations
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: 04d44601-1839-51e0-b097-4c7a2485673f
+status: valid

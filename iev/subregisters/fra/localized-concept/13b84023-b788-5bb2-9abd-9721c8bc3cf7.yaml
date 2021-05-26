@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.132
+      link: https://webstore.iec.ch/publication/5402
+      original: IEC 61375-3-1:2012, 3.1.132
+      ref: IEC 61375-3-1:2012
+      relationship:
+        type: identical
+  definition: adresse de dispositif sur le MVB et adresse de nœud sur le bus de train
+    filaire qui identifient des équipements communiquant sur le même bus
+  examples: []
+  id: 811-37-80
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse physique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 13b84023-b788-5bb2-9abd-9721c8bc3cf7
+status: valid

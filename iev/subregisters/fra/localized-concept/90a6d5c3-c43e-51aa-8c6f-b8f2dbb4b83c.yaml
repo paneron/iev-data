@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: interharmonique dont le rang harmonique est inférieur à un
+  examples: []
+  id: 103-07-29
+  language_code: fra
+  notes:
+  - Des sous-harmoniques n'existent que si le rang harmonique est défini par rapport
+    à une fréquence fondamentale de référence autre que la fréquence fondamentale.
+  - Dans certaines applications, les sous-harmoniques sont limités aux rangs inverses
+    d’un entier.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous-harmonique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: composante sous-harmonique
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 90a6d5c3-c43e-51aa-8c6f-b8f2dbb4b83c
+status: valid

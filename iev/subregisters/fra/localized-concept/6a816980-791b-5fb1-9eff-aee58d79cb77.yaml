@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: expression quantitative repérant un instant à l'intérieur d'un jour
+    du calendrier par la durée écoulée depuis minuit dans le temps légal local
+  examples: []
+  id: 113-01-18
+  language_code: fra
+  notes:
+  - 1 Le temps d'horloge est usuellement représenté par le nombre d'heures écoulées
+    depuis minuit, le nombre de minutes écoulées après la dernière heure complète
+    et, si nécessaire, le nombre de secondes écoulées après la dernière minute complète,
+    avec éventuellement des fractions décimales de seconde. Des exemples de représentation
+    normalisée sont 09:01; 09:01:12; 09:01:12,23. La combinaison d’une date du calendrier
+    et d’un temps d’horloge est notée par insertion de T; un exemple est 1998-11-15T09:01:12.
+    (Voir l'ISO 8601).
+  - 2 La durée intervenant dans la définition est modifiée dans des situations spéciales
+    (heure d'été, seconde intercalaire).
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps d'horloge
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 6a816980-791b-5fb1-9eff-aee58d79cb77
+status: valid

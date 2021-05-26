@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: modulation pouvant être considérée soit comme une modulation sur deux
+    porteuses en quadrature par les signaux numériques décalés dans le temps formés
+    à partir des éléments de rang pair et de rang impair du signal numérique modulant,
+    soit comme une modulation par changement d'amplitude sur une porteuse sinusoïdale
+    dont la phase tourne de <font face="times new roman">`π`</font>/2 pour chaque
+    élément d'un signal numérique modulant
+  examples: []
+  id: 713-07-16
+  language_code: fra
+  notes:
+  - – La modulation à déphasage minimal peut être considérée comme une modulation
+    décalée.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation numérique décalée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: f418729e-a9e8-5ca6-a29e-5149fb81f89d
+status: valid

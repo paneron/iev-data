@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: représentation complexe `underset(_)(a) ( alpha , t ) = A_0 exp j (
+    omega t - p alpha + vartheta_0 )` d'un champ sinusoïdal tournant, où `A_0` est
+    l'amplitude, `ω` la pulsation, `t` le temps, `p` un entier, `α` la position angulaire,
+    `vartheta_0` la phase à l'origine et j l'unité imaginaire
+  examples: []
+  id: 103-07-15
+  language_code: fra
+  notes:
+  - Le concept de phaseur spatial est utilisé pour les machines électriques tournantes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: phaseur spatial
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 37f96860-aeab-5e97-8a0a-91063945c3d7
+status: valid

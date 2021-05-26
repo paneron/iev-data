@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: densité de la grandeur énergétique, lumineuse ou photonique `X`(`λ`),
+    par rapport à la longueur d'onde `λ`, à la longueur d'onde `λ` `X_(lambda) = ((d
+    X ( lambda )))/((d lambda))`
+  examples: []
+  id: 845-21-029
+  language_code: fra
+  notes:
+  - Le terme "répartition spectrale" doit être privilégié par rapport au terme équivalent
+    "densité spectrale" lorsqu'il s'agit de la fonction `Xλ`(`λ`) sur une plage de
+    longueurs d'onde, et non pas à une longueur d'onde particulière.
+  - Habituellement `Xλ` est également fonction de `λ` et, dans ce cas, pour souligner
+    ce fait, peut s'écrire sous la forme `Xλ`(`λ`) sans modification de sa signification.
+  - La répartition spectrale du flux énergétique est exprimée en watt par nanomètre
+    (W·nm^−1^), la répartition spectrale du flux lumineux est exprimée en lumen par
+    nanomètre (lm·nm^−1^) et la répartition spectrale du flux photonique est exprimée
+    en nanomètre à la puissance moins un (nm^−1^). Les unités des répartitions spectrales
+    d'autres grandeurs sont exprimées en conséquence.
+  - La grandeur `X` peut également être exprimée en fonction de la {{fréquence, IEV:103-06-02}}
+    `ν`, du <a href="IEV845-21-026">nombre d'onde</a> `σ`, etc.; les symboles correspondants
+    sont alors `X`(`ν`), `X`(`σ`), etc. et les densités correspondantes par rapport
+    à la fréquence, `ν`, au nombre d'onde, `σ`, etc. sont alors `Xν`, `Xσ`, etc.,
+    auquel cas l'expression des unités est également modifiée en conséquence.
+  - Cet article était numéroté 845-01-17 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: répartition spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité spectrale
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0bdda75b-a4c2-5540-8eb4-eafcbb26e9a0
+status: valid

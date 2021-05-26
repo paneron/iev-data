@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'a) of two-winding transformers: the voltage required to be applied
+    at rated frequency to the line terminals of a winding of a polyphase transformer,
+    or to the terminals of a winding of a single-phase transformer, to cause the rated
+    current to flow through these terminals when the terminals of the other winding
+    are short-circuited'
+  examples: []
+  id: 421-07-01
+  language_code: eng
+  notes:
+  - 'The value is normally related to the appropriate reference temperature.
+
+
+    b) of multi-winding transformers, related to a certain pair of windings:
+
+
+    the voltage required to be applied at rated frequency to the line terminals of
+    one of the windings of a pair for a polyphase transformer, or to the terminals
+    of such a winding for a single-phase transformer, to cause a current to flow through
+    these terminals corresponding to the smaller of the rated power values of both
+    windings of that pair, the terminals of the other winding of the pair being short-circuited
+    and the remaining winding(s) being open-circuited'
+  - The various values for the different pairs are normally related to the appropriate
+    reference temperature.
+  - The impedance voltage at rated current is usually expressed as a percentage of
+    the rated voltage of the winding to which the voltage is applied.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impedance voltage at rated current (for the principal tapping)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 92c66583-f54e-5b68-af0d-309d0ea276fe
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: notation symbolique exprimée formellement comme un vecteur, utilisée
+    pour représenter des opérateurs différentiels scalaires ou vectoriels s'appliquant
+    en tout point d'un domaine déterminé de l'espace à des scalaires ou à des vecteurs,
+    et qui, en coordonnées cartésiennes orthonormées, est représentée par `grad =
+    e_x ( del )/((del x)) + e_y ( del )/((del y)) + e_z ( del )/((del z))` où `e_x
+    , e_y , e_z` sont les vecteurs unités des axes `x`, `y`, `z`
+  examples: []
+  id: 102-05-18
+  language_code: fra
+  notes:
+  - Il est recommandé d'imprimer le symbole *∇* en gras.
+  reviewDecisionEvent: published
+  terms:
+  - designation: opérateur nabla
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: nabla
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 94a47ffc-e280-52de-a8a3-1b9f9202ca9f
+status: valid

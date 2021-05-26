@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: région poreuse adjacente à chaque côté de l'{{électrolyte, IEV:485-03-01}}
+    contenant l'{{électrocatalyseur, IEV:485-01-02}}, ayant généralement une conductivité
+    ionique et électronique
+  examples: []
+  id: 485-02-06
+  language_code: fra
+  notes:
+  - La couche catalytique est composée de la région spatiale où se produisent les
+    réactions électrochimiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: couche catalytique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: couche active
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a606302-3977-528c-9b33-dd4d58fdc395
+status: valid

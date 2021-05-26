@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a voltage transformer intended to transmit an information signal to
+    protective and control devices
+  examples: []
+  id: 321-03-05
+  language_code: eng
+  notes:
+  - The accuracy class of a protective voltage transformer is designated by its class
+    index followed by the letter "P" (standing for "Protection"). The class index
+    gives the limit of the absolute value of the voltage error from 5% of rated voltage
+    to a voltage corresponding to the rated voltage factor.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protective voltage transformer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 8c0fd92b-c74f-5092-9979-0af12f988d69
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: heat capacity `C` divided by mass `m`, thus `c` = `C`/`m`
+  examples: []
+  id: 113-04-48
+  language_code: eng
+  notes:
+  - 1 The coherent SI unit of specific heat capacity is joule per kilogram kelvin,
+    J/(kg·K).
+  - 2 Specific heat capacity at saturation is denoted `c`~sat~.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: specific heat capacity
+    normative_status: preferred
+    type: expression
+  - designation: '`c`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 1eea653c-13a7-57b6-abf6-84eed7be09a0
+status: valid

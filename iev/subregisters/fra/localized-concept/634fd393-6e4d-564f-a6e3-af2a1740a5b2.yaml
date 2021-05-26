@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: qualifie un {{nom de grandeur, IEV:112-01-02}} pour désigner le quotient
+    de cette grandeur par un volume
+  examples:
+  - '{{masse volumique, IEV:113-03-07}}, charge électrique volumique (voir {{IEV 121-11-07,
+    IEV:121-11-07}}).'
+  id: 112-03-11
+  language_code: fra
+  notes:
+  - Voir aussi "{{concentration, IEV:112-03-17}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: volumique
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 634fd393-6e4d-564f-a6e3-af2a1740a5b2
+status: valid

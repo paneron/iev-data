@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: combustible dust with electrical resistivity equal to or less than 10^3^
+    Ω·m
+  examples: []
+  id: 426-02-19
+  language_code: eng
+  notes:
+  - 'ISO/IEC 80079-20-2, _Explosive atmospheres – Part 20-2: Material characteristics
+    – Combustible dusts test methods_, contains the test method for determining the
+    electrical resistivity of dusts.'
+  - Metal dust is treated as conductive dust because it is assumed that surface oxidation
+    cannot be depended upon to always ensure electrical resistivity greater than 1
+    × 10^3^ Ω·m.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductive dust
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: d0628e9f-2d28-590d-a007-98bc99dc68af
+status: valid

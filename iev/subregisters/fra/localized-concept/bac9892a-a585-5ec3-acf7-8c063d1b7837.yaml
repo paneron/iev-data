@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: dimension le long d'une ligne d'exploration, du plus petit détail d'image
+    discernable produit par le signal le plus court susceptible d'actionner un récepteur
+    de télécopie dans des conditions spécifiées
+  examples: []
+  id: 721-14-13
+  language_code: fra
+  notes:
+  - En phototélégraphie, les dimensions longitudinale et transversale du détail élémentaire
+    correspondent à celles de l'élément d'image.
+  - En télécopie bivalente, la définition longitudinale est la longueur du trait produit
+    par le signal de noir nominal ou de blanc nominal le plus court susceptible d'actionner
+    le récepteur.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: définition longitudinale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: bac9892a-a585-5ec3-acf7-8c063d1b7837
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 'complex function whose {{real part, IEV:102-02-11}} is the real function
+    `f`(`t`) representing a signal and whose imaginary part is the Hilbert transform
+    `g`(`t`) of the function `f`(`t`): `f ( t ) + j g ( t ) = f ( t ) - (j)/(pi) int_(-
+    oo)^(+ oo) ((f ( t )))/((tau - t)) d tau`'
+  examples: []
+  id: 702-04-52
+  language_code: eng
+  notes:
+  - The real part `f`(`t`) of an analytic signal is the opposite of the Hilbert transform
+    of the imaginary part `g`(`t`).
+  - If it exists, the complex {{Fourier transform, IEV:103-04-01}} of an analytic
+    signal is zero for all negative frequencies so that, for instance, the analytic
+    signal can be used to represent a single sideband modulated signal.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: analytic signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: d6b3223d-af68-593c-932c-39bbd3ef1147
+status: valid

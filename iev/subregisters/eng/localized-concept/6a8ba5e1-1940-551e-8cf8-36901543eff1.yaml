@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: unit inserted between the {{power supply, IEV:151-13-75}} and at least
+    one light source, which serves to supply the light source(s) with its (their)
+    rated voltage or rated current, and which can consist of one or more separate
+    components
+  examples: []
+  id: 845-28-048
+  language_code: eng
+  notes:
+  - A control gear can include means for igniting, dimming, correcting the power factor
+    and suppressing radio interference, and further control functions.
+  - A control gear can consist of a power supply and a control unit.
+  - A control gear can be partly or totally integrated in the light source.
+  - The terms "control gear" and "controlgear" are interchangeable. In IEC standards,
+    the term "controlgear" is commonly used.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control gear
+    normative_status: preferred
+    type: expression
+    usage_info: for an electric light source
+  - designation: controlgear
+    type: expression
+    usage_info: for an electric light source
+dateAccepted: 2020-12-01
+id: 6a8ba5e1-1940-551e-8cf8-36901543eff1
+status: valid

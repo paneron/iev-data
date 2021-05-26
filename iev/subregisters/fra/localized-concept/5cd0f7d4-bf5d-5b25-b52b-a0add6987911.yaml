@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: rapport, exprimé en décibels, du niveau de sortie de référence au niveau
+    de sortie pondéré dû au bruit après effacement total (sans effacement ni polarisation
+    par l'appareil)
+  examples: []
+  id: 806-15-73
+  language_code: fra
+  notes:
+  - La pondération utilisée devrait toujours être précisée, dans le cas contraire,
+    la pondération fréquentielle "A" sera sous-entendue.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport signal sur signal résiduel après effacement total
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 5cd0f7d4-bf5d-5b25-b52b-a0add6987911
+status: valid

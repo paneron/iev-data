@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: ratio of output power to input power of a device
+  examples: []
+  id: 151-15-25
+  language_code: eng
+  notes:
+  - If the output power and/or input power is electric, active power is meant.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: efficiency
+    normative_status: preferred
+    type: expression
+  - designation: '`η`'
+    international: true
+    type: symbol
+dateAccepted: 2001-07-01
+id: 8a82a327-73ca-5c74-9255-4957e918e7da
+status: valid

@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: scalar quantity which may be increased or decreased in a system when
+    it receives or produces work, respectively
+  examples: []
+  id: 113-03-45
+  language_code: eng
+  notes:
+  - 1 Energy follows a law of conservation according to which the total energy of
+    an isolated system remains constant.
+  - 2 Energy can be manifested in different forms that are mutually transformable
+    into each other, either totally or partially, depending on other laws such as
+    conservation of momentum or 2^nd^ law of thermodynamics.
+  - 3 The energy in a system may be also increased or decreased when it receives or
+    produces energy in other forms than work, e.g. heat.
+  - 4 The coherent SI unit of energy is joule, J. A non-SI unit for use with the SI
+    is electronvolt, eV.
+  - 5 Specific energy, or energy per mass, is denoted `e` or `w`.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energy
+    normative_status: preferred
+    type: expression
+  - designation: '`E`
+
+      `W`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: c0416d1f-9dbd-50cf-ab49-7ecee2e78d7e
+status: valid

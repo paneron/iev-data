@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: single electrical component encapsulating principally one or more LEDs,
+    possibly with optical elements and thermal, mechanical, and electrical interfaces
+  examples: []
+  id: 426-08-18
+  language_code: eng
+  notes:
+  - The component does not include the control unit of the controlgear, does not include
+    a cap, and is not connected directly to the supply voltage.
+  - An LED package is a discrete component and part of the LED module or LED lamp.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: LED package
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: f457547b-dea1-518b-b0cb-d7ad47d006bc
+status: valid

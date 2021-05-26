@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: angle du premier axe du luminaire avec son nadir, lorsque l'inclinaison
+    en cours de mesurage est de 0°
+  examples: []
+  id: 845-25-111
+  language_code: fra
+  notes:
+  - La rotation est exprimée en radian (rad) ou degré (°).
+  reviewDecisionEvent: published
+  terms:
+  - designation: rotation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un luminaire
+dateAccepted: 2018-11-17
+id: 25d08f73-1bcc-5c94-8d87-e911b8af56ee
+status: valid

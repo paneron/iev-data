@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: a pulse that has the waveform of a Gaussian distribution
+  examples: []
+  id: 731-01-56
+  language_code: eng
+  notes:
+  - 'In the time domain, the waveform is :
+
+
+    `f(t)` = `A` ехр [– (`t` / `a`)^2^]
+
+
+    where `A` is a constant, and `a` is the pulse half duration at the 1/e points.'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Gaussian pulse
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 267c1415-2148-5a05-9b81-d35271e31431
+status: valid

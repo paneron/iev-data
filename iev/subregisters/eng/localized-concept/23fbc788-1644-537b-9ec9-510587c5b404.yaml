@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: an assembly of a PCM encoder and a PCM decoder operating in opposite
+    directions, in the same equipment
+  examples: []
+  id: 704-25-09
+  language_code: eng
+  notes:
+  - The meaning of the term is often widened to embrace an assembly of equipment for
+    quantizing a signal sample, encoding the quantized value as a code word, generating
+    the required digital signal, and for performing the complementary processes in
+    the opposite direction.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: PCM codec
+    normative_status: preferred
+    type: expression
+  - designation: PCM encoder-decoder
+    type: expression
+dateAccepted: 1993-08-01
+id: 23fbc788-1644-537b-9ec9-510587c5b404
+status: valid

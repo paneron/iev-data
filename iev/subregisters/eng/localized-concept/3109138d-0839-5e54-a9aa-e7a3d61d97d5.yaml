@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 777
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 777, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+    - clause: definition 778
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 778, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: incremental decrease of reactivity caused by special devices or by physical
+    phenomena in the state of a nuclear reactor
+  examples: []
+  id: 395-07-09
+  language_code: eng
+  notes:
+  - For example, control rods (devices) or temperature variations (phenomena) induce
+    negative reactivity.
+  - This entry was numbered 393-15-43 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: negative reactivity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 3109138d-0839-5e54-a9aa-e7a3d61d97d5
+status: valid

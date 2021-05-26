@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the constant used in the formula `E` = `hv` where `E` is the energy
+    of a photon and `v` is the frequency of its associated wave
+  examples: []
+  id: 881-04-14
+  language_code: eng
+  notes:
+  - – It should be distinguished from `h` which is `(h)/((2 pi))`.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Planck's constant
+    normative_status: preferred
+    type: expression
+  - designation: '`h`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 42ab8eb9-c99b-51cd-88b1-2f0662a6b4a2
+status: valid

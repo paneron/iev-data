@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2018-09-01
+  definition: qualifying a time-varying phenomenon, a {{timescale, IEV:702-04-11}}
+    or a {{signal, IEV:101-12-02}}, the consecutive {{significant instants, IEV:721-02-29}}
+    of which are separated by {{time intervals, IEV:113-01-10}} that all have the
+    same rated {{duration, IEV:113-01-13}} or have rated durations equal to integral
+    multiples of a unit duration
+  examples: []
+  id: 702-04-13
+  language_code: eng
+  notes:
+  - In practice, variations of the time intervals are constrained between specified
+    limits.
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: isochronous
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: synchronous
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-09-01
+id: 1e48a4c2-d2fa-5168-ab9e-82b91188d1da
+status: valid

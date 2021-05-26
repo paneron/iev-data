@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{input signal, IEV:447-03-08}} that represents the respective variable
+    quantity in coded manner'
+  examples:
+  - Coded signals of power transformer on-load tap changer position.
+  id: 447-03-21
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digital input signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 4ddbbe64-074e-52a7-8dd2-84031c263d55
+status: valid

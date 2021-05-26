@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.54'
+      link: https://webstore.iec.ch/publication/6486
+      original: définition 3.54 de la CEI 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: pour les systèmes explorateurs automatiques, surface d'un plan spécifié
+    constitué de tous les points pour lesquels l'intensité dérivée de la moyenne temporelle
+    est supérieure à une fraction spécifiée de la valeur maximale de l'intensité dérivée
+    de la moyenne temporelle dans ce plan
+  examples: []
+  id: 802-01-21
+  language_code: fra
+  notes: []
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface d’exploration
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-01-01
+id: 00386182-cb88-59e0-bdc2-dbe8ab8843ff
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de distance, IEV:447-01-32}} dont la caractéristique, dans
+    un diagramme avec un système de coordonnées rectangulaires ayant en abscisse X
+    la {{résistance, IEV:131-12-04}} et en ordonnée Y la {{réactance, IEV:131-12-46}},
+    est un cercle passant par l''origine Note 1 à l''article: En dehors de la désignation
+    des relais, le terme "mho" (inverse du terme "ohm") a été remplacé par "siemens"
+    (1 S = 1/Ω) en tant qu''unité SI de la {{conductance, IEV:131-12-06}}.'
+  examples: []
+  id: 447-01-33
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais mho
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f4b7427a-a5e1-5e2e-93e5-c0ba9766e123
+status: valid

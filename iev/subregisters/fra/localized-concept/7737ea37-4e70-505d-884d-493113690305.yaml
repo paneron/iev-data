@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 195-04-14
+      original: IEV 195-04-14, modifié
+      ref: IEV
+      relationship:
+        type: modified
+  definition: occurrence d'un chemin conducteur accidentel entre un conducteur sous
+    tension et la terre
+  examples: []
+  id: 614-02-16
+  language_code: fra
+  notes:
+  - Le chemin conducteur peut passer par une isolation défectueuse, par des structures
+    (par exemple supports de ligne, échafaudages, grues, échelles), ou encore par
+    la végétation (par exemple arbres, buissons) et peut présenter une impédance non
+    négligeable.
+  - Les défauts à la terre d'impédance de défaut négligeable, dans un système à neutre
+    directement à la terre ou dans un système à neutre faiblement impédant, sont aussi
+    appelés court-circuits phase-terre.
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaut à la terre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7737ea37-4e70-505d-884d-493113690305
+status: valid

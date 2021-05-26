@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: absorption acoustique définie par l'équation de Sabine donnant la durée
+    de réverbération
+  examples: []
+  id: 801-31-10
+  language_code: fra
+  notes:
+  - 'L''équation de Sabine donnant la durée de réverbération s''écrit:
+
+
+    `T = ((( 24 ln 10 ) V))/((c A)) = ((55,3))/((c A)) V`
+
+
+    où:
+
+
+    `T` est la durée de réverbération, en secondes
+
+
+    `V` est le volume de la salle, en mètres cubes
+
+
+    `c` est la célérité du son dans l''air contenu dans la salle, en mètres par seconde
+
+
+    `A` est la somme des absorptions de Sabine, en décibels mètres carrés.'
+  - L'unité d'absorption de Sabine est le décibel mètre carré quelquefois connu sous
+    le nom de sabine métrique.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absortion de Sabine
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 31772c75-b8ad-5809-9c7d-a3ec6b1455d1
+status: valid

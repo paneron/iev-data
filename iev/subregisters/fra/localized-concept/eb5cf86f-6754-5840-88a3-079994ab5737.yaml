@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: variation de "<a href="IEV845-22-067">teinte</a>" avec le niveau de
+    luminance, dans les limites du domaine de la vision photopique, d'un stimulus
+    de couleur dont la chromaticité est maintenue constante
+  examples: []
+  id: 845-22-071
+  language_code: fra
+  notes:
+  - Pour certains stimulus monochromatiques, la teinte reste constante dans un large
+    domaine de luminances (pour une condition d'adaptation donnée). Les longueurs
+    d'onde de ces stimuli sont quelquefois appelées "longueurs d'onde invariantes".
+  - Avec une intensité croissante, en dessous de 510 nm, les teintes tendent davantage
+    vers le bleu, et au-dessus de 510 nm, elles tendent davantage vers le jaune (les
+    teintes rouges deviennent plus jaunes avec une luminosité croissante).
+  - Cet article était numéroté 845-02-39 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: phénomène de Bezold–Brücke
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: eb5cf86f-6754-5840-88a3-079994ab5737
+status: valid

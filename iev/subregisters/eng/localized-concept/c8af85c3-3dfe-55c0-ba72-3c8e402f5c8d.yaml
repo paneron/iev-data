@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: duration of the time interval for which an item is not available to
+    perform as required due to maintenance action
+  examples: []
+  id: 692-06-06
+  language_code: eng
+  notes:
+  - See also the related term "maintenance time" ({{IEV 192-07-02, IEV:192-07-02}}).
+  - This entry was numbered 603-05-20 in IEC 60050-603:1986.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenance outage duration
+    normative_status: preferred
+    type: expression
+  - designation: maintenance duration
+    type: expression
+dateAccepted: 2017-12-01
+id: c8af85c3-3dfe-55c0-ba72-3c8e402f5c8d
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: conducteur aérien monté parallèlement ou en parallèle avec la ligne
+    de contact, soit pour assurer des points d'alimentation successifs, soit pour
+    en augmenter la section utile
+  examples: []
+  id: 811-36-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: ligne d'alimentation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: feeder de ligne
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e9e3b733-9248-5005-a80c-94e398a8aafc
+status: valid

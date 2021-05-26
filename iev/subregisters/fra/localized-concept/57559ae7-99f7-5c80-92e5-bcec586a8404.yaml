@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: point d'un dispositif ou d'un réseau où l'énergie peut être fournie
+    ou prélevée, ou bien où l'on peut observer ou mesurer des grandeurs
+  examples: []
+  id: 726-11-05
+  language_code: fra
+  notes:
+  - Dans le cas d'une ligne de transmission ou d'un guide d'ondes, chaque accès est
+    caractérisé par un plan de référence et un mode, un accès séparé étant assigné
+    symboliquement à chaque mode indépendant considéré.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accès
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: porte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 57559ae7-99f7-5c80-92e5-bcec586a8404
+status: valid

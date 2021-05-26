@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur de la {{grandeur caractéristique, IEV:447-07-01}} à laquelle
+    un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection, IEV:447-01-49}}
+    ne {{dégage, IEV:447-02-17}} pas
+  examples: []
+  id: 447-02-22
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de non-dégagement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 422a0467-3cac-59d8-9c5d-2dec4c4a6068
+status: valid

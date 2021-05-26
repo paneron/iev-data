@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: affaiblissement de transmission qui serait obtenu si les antennes étaient
+    remplacées par des antennes isotropes de même polarisation que les antennes réelles,
+    le trajet radioélectrique étant conservé, mais les effets des obstacles proches
+    des antennes étant négligés
+  examples: []
+  id: 705-08-04
+  language_code: fra
+  notes:
+  - L'affaiblissement de propagation est égal au rapport de la puissance isotrope
+    rayonnée équivalente de l'ensemble émetteur, à la puissance disponible à la sortie
+    de l'antenne de réception supposée isotrope.
+  - L'effet du sol au voisinage des antennes est pris en compte dans le calcul du
+    gain des antennes, mais pas dans celui de l'affaiblissement de propagation.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement de propagation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: affaiblissement entre antennes isotropes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: c2189b94-554d-5cf2-b7ca-838f5f759163
+status: valid

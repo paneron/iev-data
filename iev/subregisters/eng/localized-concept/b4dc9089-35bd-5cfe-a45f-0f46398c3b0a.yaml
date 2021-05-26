@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.104
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.104
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: communication stack ensuring end-to-end message communication and interfacing
+    to the application
+  examples: []
+  id: 811-37-65
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: messenger
+    normative_status: preferred
+    type: expression
+    usage_info: in a train communication network
+dateAccepted: 2017-11-01
+id: b4dc9089-35bd-5cfe-a45f-0f46398c3b0a
+status: valid

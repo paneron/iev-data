@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 195-02-02
+      original: 195-02-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: prise de terre suffisamment éloignée d'autres prises de terre pour que
+    son potentiel électrique ne soit pas sensiblement affecté par les courants électriques
+    entre la Terre et les autres électrodes de terre
+  examples: []
+  id: 826-13-07
+  language_code: fra
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: prise de terre indépendante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: électrode de terre indépendante
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: 62756be1-5e31-53e7-983e-0f54f7d336dd
+status: valid

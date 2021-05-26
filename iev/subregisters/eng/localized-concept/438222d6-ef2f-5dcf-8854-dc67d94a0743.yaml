@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: graphic description with symbolic representation of sequential control
+    systems
+  examples: []
+  id: 351-53-08
+  language_code: eng
+  notes:
+  - The symbolic representation of steps, commands, transitions and directed links
+    is based on input and output Boolean variables and also on internal state variables
+    and binary delay elements.
+  - The elements, rules and basic structures for function charts are given in IEC
+    60848, _GRAFCET specification language for sequential function charts_. Terms
+    351-53-09 to 351-53-16 below are to be used in this context.
+  - This entry was numbered 351-29-22 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: function chart for sequential control
+    normative_status: preferred
+    type: expression
+  - designation: function chart
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 438222d6-ef2f-5dcf-8854-dc67d94a0743
+status: valid

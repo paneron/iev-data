@@ -1,0 +1,57 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the radiant flux or luminous flux `Φ`~2~ (or `Φ`~1~) that
+    surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the <a href="IEV845-21-080">radiant
+    exitance</a> or <a href="IEV845-21-081">luminous exitance</a> `M`~1~ (or `M`~2~)
+    `g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))`
+  examples: []
+  id: 845-29-092
+  language_code: eng
+  notes:
+  - 'Since `M` = π`L`, and in the particular case where all points on S~1~ are seen
+    from all points on S~2~
+
+
+    `g = (1)/(pi) underset((A_2))( int ) underset((A_1))( int ) ((cos theta_1 cos
+    theta_2))/((l^2)) d A_1 d A_2 = (1)/(pi) G`
+
+
+    where `l` is the distance between the elements of areas d`A`~1~ and d`A`~2~ on
+    the surfaces S~1~ and S~2~, `G` is the geometric extent of the beam delimited
+    by the boundaries of S~1~ and S~2~, and `θ`~1~ and `θ`~2~ are the angles between
+    the surface normals of the two elementary areas d`A`~1~ and d`A`~2~ respectively
+    and the line joining the two elementary areas.'
+  - 'For two elementary areas dA~1~ and dA~2~
+
+
+    `d g = (1)/(pi) d A_1 d omega_1 cos theta_1 = (1)/(pi) d A_2 d omega_2 cos theta_2`
+
+
+    where d`Ω`~1~ (or d`Ω`~2~) is the solid angle which the area d`A`~2~ (or d`A`~1~)
+    subtends from the centre of d`A`~1~ (or d`A`~2~).'
+  - 'The radiance or luminance `L` of the beam delimited by the boundaries of dA~1~
+    and dA~2~ is
+
+
+    `L = (1)/(pi) ((d Phi))/((d g))`.'
+  - The mutual exchange coefficient is expressed in square metre (m^2^).
+  - This entry was numbered 845-09-71 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mutual exchange coefficient
+    normative_status: preferred
+    type: expression
+    usage_info: of radiance or luminance between surfaces
+  - designation: exchange coefficient
+    type: expression
+    usage_info: of radiance or luminance between surfaces
+  - designation: '`g`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1d33b602-bdfe-5198-a3f1-3be0a95b7fd2
+status: valid

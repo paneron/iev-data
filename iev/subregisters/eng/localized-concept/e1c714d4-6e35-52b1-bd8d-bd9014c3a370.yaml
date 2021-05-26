@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.158
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.158
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: OSI layer ({{IEV 716-01-20, IEV:716-01-20}}) in charge of establishing
+    and closing communication
+  examples: []
+  id: 811-37-95
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: session layer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: e1c714d4-6e35-52b1-bd8d-bd9014c3a370
+status: valid

@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: 'for a given set of {{scalars, IEV:102-02-18}}, set of elements for
+    which the sum of any two elements *`U`* and *`V`* and the product of any element
+    and a scalar `α` are elements of the set, with the following properties: * `U
+    + V = V + U`, * `( U + V ) + W = U + ( V + W )`, where *`W`* is also an element
+    of the set, * there exists a neutral element for addition, called zero vector
+    and denoted by *0*, such that: `U + 0 = U`, * there exists an opposite `( - U
+    )` such that `U + ( - U ) = 0`, * `( alpha + beta ) U = alpha U + beta U`, where
+    `β` is also a scalar, * `alpha ( U + V ) = alpha U + alpha V`, * `alpha ( beta
+    U ) = ( alpha beta ) U`, * `1 U = U`'
+  examples: []
+  id: 102-03-01
+  language_code: eng
+  notes:
+  - In the usual three-dimensional space, the directed line segments with a specified
+    origin form an example of a vector space over real numbers. Another example, corresponding
+    to the extended concept of scalar (see {{IEV 102-02-18, IEV:102-02-18}}, Note
+    1) is the set of `n-`bit words formed of the digits 0 and 1 with addition modulo
+    two, where the set of scalars is the set of two elements 0 and 1 subject to Boolean
+    algebra.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vector space
+    normative_status: preferred
+    type: expression
+  - designation: linear space
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: fbdeca49-ba7d-5797-9afb-1e39440bea21
+status: valid

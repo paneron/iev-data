@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: état ne permettant pas de fonctionner tel que requis par suite d'une
+    panne interne ou de la maintenance préventive
+  examples: []
+  id: 192-02-20
+  language_code: fra
+  notes:
+  - L’état d’indisponibilité est lié à l’indisponibilité de l’entité.
+  - L’adjectif «indisponible» qualifie une entité dans un état d’indisponibilité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: état d’indisponibilité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+  - designation: état d’incapacité interne
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: d853967c-cb34-5b04-8143-ed514418c6f8
+status: valid

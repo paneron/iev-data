@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 131-03-09
+      original: MOD 131-03-09
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1990-08-01
+  definition: grandeur obtenue en retranchant d'une grandeur pulsatoire sa composante
+    continue
+  examples: []
+  id: 161-02-25
+  language_code: fra
+  notes: []
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ondulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: composante alternative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: 784c0a7b-cd4d-5c0b-a832-530a24742a83
+status: valid

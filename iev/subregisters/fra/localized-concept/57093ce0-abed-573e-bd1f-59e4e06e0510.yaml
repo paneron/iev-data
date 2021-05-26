@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: intégrale par rapport au temps de l'éclairement sphérique énergétique
+    photonique, `E`~p,o~, en un point donné pendant une durée donnée, Δ`t` `H_((p,o))
+    = underset((Delta t))( int ) E_(p,o) d t`
+  examples: []
+  id: 845-21-076
+  language_code: fra
+  notes:
+  - L'exposition sphérique photonique est exprimée en mètre à la puissance moins deux
+    (m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposition sphérique photonique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fluence photonique
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 57093ce0-abed-573e-bd1f-59e4e06e0510
+status: valid

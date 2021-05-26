@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: for a given circuit group or destination code and during a specified
+    time interval, the ratio of the number of bids that result in an answer signal
+    to the total number of bids
+  examples: []
+  id: 715-02-21
+  language_code: eng
+  notes:
+  - At some points of the network this ratio may be lower than the answer seizure
+    ratio due to unsuccessful bids.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: answer bid ratio
+    normative_status: preferred
+    type: expression
+  - designation: ABR
+    type: expression
+dateAccepted: 1996-12-01
+id: 39ba68c1-28d8-5b3e-bf7b-0e14aa1a80f0
+status: valid

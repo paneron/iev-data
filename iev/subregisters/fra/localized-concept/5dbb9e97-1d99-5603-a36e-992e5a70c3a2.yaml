@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: en régime périodique, moyenne, sur une période `T`, de la puissance
+    instantanée `p` `P = (1)/(T) int_0^T p d t`
+  examples: []
+  id: 131-11-42
+  language_code: fra
+  notes:
+  - En régime sinusoïdal, la puissance active est la partie réelle de la puissance
+    complexe `underset(_)(S)`, soit `P = Re underset(_)(S)`.
+  - L’unité SI cohérente de puissance active est le watt, W.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance active
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5dbb9e97-1d99-5603-a36e-992e5a70c3a2
+status: valid

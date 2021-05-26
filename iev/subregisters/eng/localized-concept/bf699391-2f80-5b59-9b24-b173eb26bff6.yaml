@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: value of the input voltage at which an electromagnetic relay attains
+    a defined magnetic condition
+  examples: []
+  id: 444-03-19
+  language_code: eng
+  notes:
+  - For polarized relays, distinction is made between preconditioning in forward (operate)
+    direction, and preconditioning in reverse direction.
+  - For bistable relays, preconditioning may also be used to put the relay into a
+    defined position.
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic preconditioning value
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-01-01
+id: bf699391-2f80-5b59-9b24-b173eb26bff6
+status: valid

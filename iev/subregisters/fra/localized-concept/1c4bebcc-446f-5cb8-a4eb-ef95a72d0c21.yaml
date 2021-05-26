@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: rapport, généralement exprimé en décibels, de la puissance de la porteuse
+    d'un signal utile à la puissance d'un signal brouilleur, évalué dans des conditions
+    déterminées, ces puissances étant considérées à l'entrée du récepteur
+  examples: []
+  id: 713-11-20
+  language_code: fra
+  notes:
+  - En présence de plusieurs signaux brouilleurs indépendants, on doit considérer
+    la somme de leurs puissances.
+  - 'Les conditions déterminées comprennent entre autres:
+
+
+    – la nature et les caractéristiques du signal brouilleur,
+
+
+    – les caractéristiques du récepteur et de l''antenne, en particulier la largeur
+    de bande.'
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport porteuse sur brouillage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 1c4bebcc-446f-5cb8-a4eb-ef95a72d0c21
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: amplificateur donnant un signal de sortie pratiquement nul pour toutes
+    les impulsions d'entrée inférieures à un seuil
+  examples: []
+  id: 395-04-18
+  language_code: fra
+  notes:
+  - L’amplificateur possède un gain incrémental constant pour toutes les impulsions
+    d'entrée qui ont une amplitude supérieure au seuil jusqu'à un maximum spécifié.
+  - Cet article était numéroté 394-23-16 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplificateur à seuil
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6cb6ff0d-e2bd-57f3-a393-ece2b3bd77eb
+status: valid

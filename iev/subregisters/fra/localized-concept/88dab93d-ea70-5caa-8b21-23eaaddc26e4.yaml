@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: circuit d'un appareil de mesure dans lequel le courant est égal ou proportionnel
+    au courant du circuit auquel l'appareil de mesure est raccordé
+  examples: []
+  id: 312-01-01
+  language_code: fra
+  notes:
+  - 'Ce courant peut être:
+
+
+    – le courant directement mis en jeu dans la mesure,
+
+
+    – un courant proportionnel fourni par un transformateur de courant externe,
+
+
+    – prélevé sur un shunt externe.'
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit de courant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 88dab93d-ea70-5caa-8b21-23eaaddc26e4
+status: valid

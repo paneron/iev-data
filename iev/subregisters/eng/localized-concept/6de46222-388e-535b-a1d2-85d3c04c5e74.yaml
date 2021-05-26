@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2020-02-01
+  definition: conductive plate separating individual cells in a fuel cell stack, acting
+    as {{current collector, IEV:485-06-07}} and providing mechanical support for the
+    {{electrodes, IEV:485-02-01}} or {{membrane electrode assembly, IEV:485-04-01}}
+  examples: []
+  id: 485-06-04
+  language_code: eng
+  notes:
+  - The bipolar plate usually incorporates flow fields on either side for the distribution
+    of reactants (fuel and oxidant) and removal of products, and can also contain
+    conduits for heat transfer. The bipolar plate provides a physical barrier to avoid
+    the mixing of oxidant, fuel and coolant fluids.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bipolar plate
+    normative_status: preferred
+    type: expression
+  - designation: gas distribution plate
+    normative_status: admitted
+    type: expression
+  - designation: separator plate
+    normative_status: admitted
+    type: expression
+  - designation: bipolar separating plate
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-02-01
+id: 6de46222-388e-535b-a1d2-85d3c04c5e74
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 13-33
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-33, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{entropie conditionnelle, IEV:171-07-23}} d''un ensemble déterminé
+    `X` de messages émis par une source de messages lorsque l''on connaît un ensemble
+    déterminé `Y` de messages reçus par un collecteur de messages relié à la source
+    par un canal déterminé'
+  examples: []
+  id: 171-07-24
+  language_code: fra
+  notes:
+  - L'équivoque est la moyenne par message de la {{quantité d'information, IEV:171-07-14}}
+    supplémentaire qui doit être fournie à la source de messages pour corriger les
+    messages reçus après leur altération par un canal affecté de bruit.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivoque
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4dd53e3e-3f4a-562d-b2a9-3ad91e2acf08
+status: valid

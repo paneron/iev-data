@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: unit of logarithmic measure of {{information, IEV:171-07-03}} equal
+    to the {{decision content, IEV:171-07-10}} of a set of two mutually exclusive
+    events, expressed as a logarithm to base two
+  examples: []
+  id: 171-07-11
+  language_code: eng
+  notes:
+  - The shannon is the most frequently used unit in information theory.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shannon
+    normative_status: preferred
+    type: expression
+  - designation: Sh
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 36be6298-d7da-5540-a363-d416fff3e837
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'of electrical steel, the ratio of the difference between, and the sum
+    of, the magnetic losses `P`~90~ , measured perpendicular to, and `P`~0~, measured
+    parallel to the direction of rolling, the ratio being expressed as a percentage:
+    `T = ((P_((90)) - P_0))/((P_((90)) + P_0)) xx 100 %`'
+  examples: []
+  id: 221-03-38
+  language_code: eng
+  notes:
+  - The measurements of `P`~90~ and `P`~0~ are to be made under the same conditions.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loss anisotropy factor
+    normative_status: preferred
+    type: expression
+  - designation: '`T`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 6cd5b4b2-808b-58e9-9989-8fa3e06b6f6f
+status: valid

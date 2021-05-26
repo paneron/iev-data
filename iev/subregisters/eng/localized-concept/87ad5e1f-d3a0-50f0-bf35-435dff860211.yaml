@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: 'functional unit with two or several inputs and one output the value
+    of the output variable of which is equal to the algebraic sum of the values of
+    the input variables multiplied by constant weighting factors according to the
+    formula: `v ( t ) = K_1 * u_1 ( t ) + K_2 * u_2 ( t ) + ...` where<table> <tr>
+    <td>`t`</td> <td>is the time;</td> </tr> <tr> <td> `K`~1~, `K`~2~ </td> <td>are
+    the weighting factors;</td> </tr> <tr> <td> `u`~1~, `u`~2~ </td> <td>are the input
+    variables;</td> </tr> <tr> <td>`v`</td> <td>is the summing result.</td> </tr>
+    </table>'
+  examples: []
+  id: 351-50-32
+  language_code: eng
+  notes:
+  - This entry was numbered 351-32-16 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adding element
+    normative_status: preferred
+    type: expression
+  - designation: summing element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 87ad5e1f-d3a0-50f0-bf35-435dff860211
+status: valid

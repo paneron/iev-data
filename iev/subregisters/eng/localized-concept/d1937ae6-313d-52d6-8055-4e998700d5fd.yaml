@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'for two tensors of the second-order `T = ( T_((i j)) )` and `S = (
+    S_((k l)) )`, scalar defined by `T : S = underset((m n))( sum ) T_((m n)) S_((n
+    m))`'
+  examples: []
+  id: 102-03-48
+  language_code: eng
+  notes:
+  - The scalar product of two tensors is denoted by a colon (:) between the two symbols
+    of the tensors.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar product
+    normative_status: preferred
+    type: expression
+    usage_info: of two tensors
+dateAccepted: 2008-08-01
+id: d1937ae6-313d-52d6-8055-4e998700d5fd
+status: valid

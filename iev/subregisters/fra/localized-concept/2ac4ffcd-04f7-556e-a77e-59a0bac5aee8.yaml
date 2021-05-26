@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1994-07-01
+  definition: pour un transducteur électroacoustique fonctionnant en récepteur de
+    son, à une fréquence spécifiée, quotient de la tension de sortie en circuit ouvert
+    par la pression acoustique agissant sur la partie du transducteur destinée à recevoir
+    le son
+  examples: []
+  id: 801-25-53
+  language_code: fra
+  notes:
+  - Si l'impédаnce de charge n'est pas infinie sa valeur doit êtrе spécifiée.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité en pression (et en tension)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: efficacité en pression (et en tension)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 2ac4ffcd-04f7-556e-a77e-59a0bac5aee8
+status: valid

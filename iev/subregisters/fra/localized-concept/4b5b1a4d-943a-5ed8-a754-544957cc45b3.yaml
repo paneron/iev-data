@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '2.5'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 2.5
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: description générique de l'organisation logique des opérations mises
+    en œuvre dans un mesurage
+  examples: []
+  id: 112-04-04
+  language_code: fra
+  notes:
+  - 'Les méthodes de mesure peuvent être qualifiées de diverses façons telles que:
+    méthode de mesure par substitution, méthode de mesure différentielle et méthode
+    de mesure par zéro; ou méthode de mesure directe et méthode de mesure indirecte.
+    Voir la CEI 60050-300.'
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: méthode de mesure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: 4b5b1a4d-943a-5ed8-a754-544957cc45b3
+status: valid

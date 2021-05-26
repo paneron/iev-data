@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: rapport, généralement exprimé en décibels, de la puissance du signal
+    utile en un point spécifié d'une voie de transmission, à la puissance du bruit
+    au même point, évalué dans des conditions spécifiées
+  examples: []
+  id: 702-08-61
+  language_code: fra
+  notes:
+  - En pratique, le signal ne pouvant généralement pas être séparé du bruit, on mesure
+    le rapport (signal + bruit) sur bruit.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport signal sur bruit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport signal/bruit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 3e244c42-b02f-5641-a4c0-44319658d18b
+status: valid

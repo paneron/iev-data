@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: temperature of air or another medium in the vicinity of the device under
+    test
+  examples: []
+  id: 845-27-110
+  language_code: eng
+  notes:
+  - Ambient temperature is expressed in degree Celsius (°C).
+  - During the measurement of the ambient temperature, the measuring instrument/probe
+    should be shielded from draughts and radiant heating.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ambient temperature
+    normative_status: preferred
+    type: expression
+  - designation: '`t`~a~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1ab0ba54-0741-56e4-a428-09c745ea59a5
+status: valid

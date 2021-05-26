@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: a successful call attempt that results in the transmission of an answer
+    signal
+  examples: []
+  id: 715-03-11
+  language_code: eng
+  notes:
+  - The number reached might not be the one wanted by the caller, due to dialling
+    error or network malfunction.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: completed call attempt
+    normative_status: preferred
+    type: expression
+  - designation: effective call attempt
+    type: expression
+dateAccepted: 1996-12-01
+id: 6a0d3e07-b422-5125-ad82-d0fc9d11238b
+status: valid

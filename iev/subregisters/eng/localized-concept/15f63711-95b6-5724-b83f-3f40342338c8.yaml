@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a composite waveguide corner formed by more than two waveguide corners
+    in succession approximately a quarter of a wavelength apart, each causing by itself
+    an amplitude reflection factor approximately proportional in magnitude to a coefficient
+    of a binomial series
+  examples: []
+  id: 726-09-07
+  language_code: eng
+  notes:
+  - The exponent of the binomial will be (`n` —1) where `n` is the number of corners.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: binomial corner
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 15f63711-95b6-5724-b83f-3f40342338c8
+status: valid

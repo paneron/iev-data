@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: répartiteur situé dans une station de répéteurs et destiné à des voies
+    et circuits transmettant des groupes primaires de base, des groupes secondaires
+    de base ou d'autres groupes de base
+  examples: []
+  id: 704-11-01
+  language_code: fra
+  notes:
+  - Il est conseillé d'employer si possible le terme spécifique approprié tel que
+    "répartiteur de groupes primaires".
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: répartiteur de groupes (à courants porteurs)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: répartiteur à haute fréquence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: edf8faff-4fea-5a75-893b-fed5ae14e63b
+status: valid

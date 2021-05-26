@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: for a fluid with laminar flow in `x`-direction, thus for which `v`~`y`~
+    = `v`~`z`~ = 0 and `v`~`x`~ = `v`~`x`~ (`z`) ≥ 0, where `x`, `y`, `z` are Cartesian
+    coordinates, scalar quantity characterizing internal friction and equal to `((tau_((x
+    z))))/((d v_x // d z))`, where `τ`~`xz`~ is the shear stress in the fluid
+  examples: []
+  id: 113-03-34
+  language_code: eng
+  notes:
+  - The coherent SI unit of dynamic viscosity is pascal second, Pa·s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dynamic viscosity
+    normative_status: preferred
+    type: expression
+  - designation: viscosity
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: c0d3b48a-8bc7-5b0e-848b-3159b114dcf8
+status: valid

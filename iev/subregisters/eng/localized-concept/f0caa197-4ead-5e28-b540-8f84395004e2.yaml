@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-12-01
+  definition: sum of all {{equivalent peak interruption durations, IEV:692-11-03}}
+    in a {{bulk electric system, IEV:692-01-04}} during one year
+  examples: []
+  id: 692-11-05
+  language_code: eng
+  notes:
+  - If the {{energy not supplied, IEV:692-09-06}} is expressed in megawatt-minutes,
+    and the annual peak load expressed in megawatts, then the bulk power energy curtailment
+    index provides the system minutes aggregated over one year, and is expressed in
+    minutes per year.
+  - This entry was numbered 191-30-05 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bulk power energy curtailment index
+    normative_status: preferred
+    type: expression
+  - designation: BPECI
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: f0caa197-4ead-5e28-b540-8f84395004e2
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 13-39
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-39, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: moyenne par {{caractère, IEV:702-05-10}} de la {{transinformation moyenne,
+    IEV:171-07-27}}, étendue à tous les messages issus d'une {{source de messages
+    stationnaire, IEV:171-07-09}} `T^( ' ) = underset((m -> oo))((lim)) ((T_m))/(m)`
+    où `Tm` est la transinformation moyenne de toutes les paires de suites correspondantes
+    émises et reçues, de `m` caractères chacune
+  examples: []
+  id: 171-07-30
+  language_code: fra
+  notes:
+  - La transinformation moyenne par caractère peut être exprimée à l'aide d'une unité
+    telle que le shannon par caractère.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transinformation moyenne par caractère
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f4001cce-b19f-55dc-9e40-fd8f40ea3977
+status: valid

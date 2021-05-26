@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-08-01
+  definition: a measure of flicker evaluated over a specified time interval of a relatively
+    short duration
+  examples: []
+  id: 161-08-18
+  language_code: eng
+  notes:
+  - The duration is typically 10 minutes, in accordance with IEC 61000-4-15.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: short-term flicker indicator
+    normative_status: preferred
+    type: expression
+  - designation: '`P`~st~'
+    international: true
+    type: symbol
+dateAccepted: 1990-08-01
+id: dea49a72-5522-52aa-9739-bfc76d94e1a9
+status: valid

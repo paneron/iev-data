@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: for a {{measuring relay, IEV:447-01-02}} or {{protection equipment,
+    IEV:447-01-49}} in {{reset condition, IEV:447-02-02}}, the longest duration a
+    specified change in the {{input energizing quantity(ies), IEV:447-03-02}}, which
+    will cause it to {{operate, IEV:447-02-04}}, can be applied without {{switching,
+    IEV:447-02-09}}
+  examples: []
+  id: 447-05-09
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical impulse time
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: 1a9f7d91-b6c3-566e-a8b5-2a470b18883c
+status: valid

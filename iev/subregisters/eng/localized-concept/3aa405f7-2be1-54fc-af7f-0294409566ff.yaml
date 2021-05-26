@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: effective radiance with the spectral radiance, `Lλ`, spectrally weighted
+    with the retinal thermal hazard spectral weighting function, `r`(`λ`)
+  examples: []
+  id: 845-26-050
+  language_code: eng
+  notes:
+  - The wavelength range for "retinal thermal radiance" is the "<a href="IEV845-26-048">retinal
+    hazard spectral region</a>".
+  - This definition is based on the assumption that an action spectrum is adopted
+    for the effect considered, and that its maximum value is 1.
+  - It is essential to specify which action spectrum is used, as the unit is the same
+    for any action spectrum.
+  - The retinal thermal radiance is expressed in watt per square metre per steradian
+    (W·m^−2^·sr^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: retinal thermal radiance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~`R`~
+
+      `L`~`r`~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 3aa405f7-2be1-54fc-af7f-0294409566ff
+status: valid

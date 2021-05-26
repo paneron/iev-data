@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.1
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.1
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: valeur qui peut être utilisée pour identifier un {{interfaceur, IEV:741-01-17}},
+    qui peut désigner la source ou la destination de données [ISO 14641:2018, 3.10]
+    transmises
+  examples: []
+  id: 741-01-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: interfaceur
+dateAccepted: 2018-11-17
+id: 9819b6a8-993d-5d89-8161-c5507ec6346e
+status: valid

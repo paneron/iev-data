@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: disposition d'un matériel qui permet le transfert de signaux ou de puissance
+    entre deux circuits sans aucune connexion électrique directe entre eux
+  examples: []
+  id: 426-04-52
+  language_code: fra
+  notes:
+  - L'isolation galvanique utilise fréquemment des éléments magnétiques (transformateur
+    ou relais) ou des éléments opto-couplés.
+  reviewDecisionEvent: published
+  terms:
+  - designation: isolation galvanique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ad5d4d5-410d-58ed-a216-2f59de3a1898
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: the reference equivalent of the crosstalk path and calculated by adding
+    the sending reference equivalent, the receiving reference equivalent and the crosstalk
+    attenuation between the origin of the disturbing channel and the end of the disturbed
+    channel
+  examples: []
+  id: 722-17-19
+  language_code: eng
+  notes:
+  - The sending reference equivalent refers to the part up to the origin of the disturbing
+    channel and the receiving reference equivalent refers to the part from the end
+    of the disturbed channel.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: crosstalk reference equivalent
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-11-01
+id: 6343bbba-0031-5ae2-b209-20a1cb2bb130
+status: valid

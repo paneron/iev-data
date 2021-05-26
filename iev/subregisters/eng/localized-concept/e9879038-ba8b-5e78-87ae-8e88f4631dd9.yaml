@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a uniform transmission line, load impedance for which the input
+    impedance is equal to the load impedance
+  examples: []
+  id: 131-15-28
+  language_code: eng
+  notes:
+  - For a symmetrical two-port network, this term may be applied to denote the common
+    value assumed by the two image impedances and the two iterative impedances.
+  - Another definition is given in IEC 60050-726 and the term has another meaning
+    for free space in IEC 60050-705.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: characteristic impedance
+    normative_status: preferred
+    type: expression
+  - designation: '`Z`~0~
+
+      `Z`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: e9879038-ba8b-5e78-87ae-8e88f4631dd9
+status: valid

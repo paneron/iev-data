@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '3.10'
+      link: https://webstore.iec.ch/publication/7005
+      original: IEC 62430:2009, definition 3.10
+      ref: IEC 62430:2009
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: element of a life cycle
+  examples:
+  - 'Examples of life cycle stages: raw material acquisition and production; manufacturing;
+    packaging and distribution; installation and use, maintenance and {{upgrading,
+    IEV:904-04-11}} and {{end of life, IEV:904-01-17}}.'
+  id: 904-01-19
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: life cycle stage
+    normative_status: preferred
+    type: expression
+  - designation: life cycle phase
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 28b82c4b-a83f-5d1b-b59a-3d585cf08e56
+status: valid

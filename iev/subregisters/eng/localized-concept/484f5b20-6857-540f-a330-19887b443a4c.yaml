@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: ratio of total useable energy flow ({{net electric power, IEV:485-14-03}}
+    and recovered heat flow) to the total enthalpy flow supplied to the {{fuel cell
+    power system, IEV:485-09-01}}
+  examples: []
+  id: 485-10-05
+  language_code: eng
+  notes:
+  - The supplied total (including reaction enthalpy) enthalpy flow of the {{raw fuel,
+    IEV:485-07-01}} should be related to the lower heating value (LHV) for a better
+    comparison with other types of energy conversion system.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overall energy efficiency
+    normative_status: preferred
+    type: expression
+  - designation: total thermal efficiency
+    type: expression
+dateAccepted: 2020-02-01
+id: 484f5b20-6857-540f-a330-19887b443a4c
+status: valid

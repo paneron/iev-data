@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-03-01
+  definition: specification of an operation on {{data, IEV:171-01-02}} or identification
+    of data
+  examples: []
+  id: 171-05-08
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instruction
+    normative_status: preferred
+    type: expression
+    usage_info: in computer programs
+  - designation: statement
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2019-03-01
+id: 7cd98d94-971d-5642-88e7-b26b2c895c2f
+status: valid

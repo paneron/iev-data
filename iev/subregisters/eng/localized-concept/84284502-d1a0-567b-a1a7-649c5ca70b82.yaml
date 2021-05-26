@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: system of ordered marks which can be attributed to instants on the time
+    axis, one instant being chosen as the origin
+  examples: []
+  id: 113-01-11
+  language_code: eng
+  notes:
+  - '1 A timescale may be chosen as:  * continuous, e.g. international atomic time
+    (TAI) (see 713-05-18),  * continuous with discontinuities, e.g. coordinated universal
+    time (UTC) (see 713-05-20) due to leap seconds, standard time due to summer time
+    awinter time,* successive steps, e.g. usual calendars, where the time axis is
+    split up into a succession of consecutive time intervals and the same mark is
+    attributed to all instants of each time interval,* discrete, e.g. in digital techniques.'
+  - 2 For physical and technical applications, a timescale with quantitative marks
+    is preferred, based on a chosen initial instant together with a unit of measurement.
+  - 3 Customary timescales use various units of measurement in combination, such as
+    second, minute, hour, or various time intervals of the calendar such as calendar
+    day, calendar month, calendar year.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: timescale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 84284502-d1a0-567b-a1a7-649c5ca70b82
+status: valid

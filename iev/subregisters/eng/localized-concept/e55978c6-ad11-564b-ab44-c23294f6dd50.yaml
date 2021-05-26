@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: 'for an inductive two-terminal element with terminals A and B, derivative
+    of the linked flux `Ψ` between the terminals with respect to the electric current
+    `i` in the element: `L_d = ((d Psi))/((d i))` where the sign of the linked flux
+    is determined by taking the voltage, in the time integral defining it, as the
+    difference of the electric potentials at A and B, and where the current is taken
+    as positive if its direction is from A to B and negative in the opposite case'
+  examples: []
+  id: 131-12-20
+  language_code: eng
+  notes:
+  - For an ideal inductor, the differential inductance `L`~d~ is equal to its inductance
+    `L`.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: differential inductance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~d~'
+    international: true
+    type: symbol
+dateAccepted: 2008-09-01
+id: e55978c6-ad11-564b-ab44-c23294f6dd50
+status: valid

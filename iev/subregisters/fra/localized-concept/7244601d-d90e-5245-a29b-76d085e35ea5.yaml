@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: 'relation algébrique donnant le nombre de particules d`N` d''un système
+    quantifié en équilibre, dont les composantes de vitesse sont comprises dans des
+    intervalles (`u`, `u` + d`u`), (`v`, `v` + d`v`), (`w`, `w` + d`w`): `d N = 2
+    N * ((m^3))/((h^3)) * ((d u * d v * d w))/((1 + exp ( ((E - E_M))/((k T)) )))`
+    où `N` désigne le nombre total de particules `m` la masse d''une particule `T`
+    la température thermodynamique `k` la constante de Boltzmann `h` la constante
+    de Planck `E` l''énergie cinétique d''une particule, `E = (m)/(2) ( u^2 + v^2
+    + w^2 )` `E`~M~ la fonction de travail interne d`N`/`N` représente la probabilité
+    pour qu''une particule ait ses composantes de vitesse comprises dans les intervalles
+    considérés.'
+  examples: []
+  id: 521-01-19
+  language_code: fra
+  notes: []
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi de distribution des vitesses de Fermi-Dirac-Sommerfeld
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: 7244601d-d90e-5245-a29b-76d085e35ea5
+status: valid

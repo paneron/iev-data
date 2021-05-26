@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the quotient of d`H` by d`t`, when d`H` is the increment of dose equivalent
+    in the time interval d`t` `overset(˙)(H) = ((d H))/((d t))`
+  examples: []
+  id: 881-14-02
+  language_code: eng
+  notes:
+  - 'The SI unit of dose equivalent rate is joule per kilogram second, whose special
+    name is sievert per second; sub-multiples, such as μSv • h^−1^ , are used in practice.
+    The earlier special unit of dose equivalent rate, still in temporary use, was
+    rem per second (or its submultiples).
+
+
+    1 Sv • s^−1^ = 100 rem • s^−1^ = 1 J • kg^−1^ • s^−1^'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose equivalent rate
+    normative_status: preferred
+    type: expression
+  - designation: '`overset(˙)(H)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 429be99f-c3e1-53ff-bb73-5fbb3108c07e
+status: valid

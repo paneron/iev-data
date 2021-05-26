@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: data base connected to one or several mobile service switching centres
+    which contains a copy of information in home location registers for all mobile
+    subscribers present in the cells covered by the centres
+  examples: []
+  id: 713-03-37
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: visitor location register
+    normative_status: preferred
+    type: expression
+  - designation: VLR
+    type: expression
+dateAccepted: 1998-04-01
+id: b7baff00-9a8e-5adf-9894-9f2be020a9ee
+status: valid

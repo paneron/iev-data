@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: in digital transmission, the number of signal elements of the line signal
+    transmitted per second, expressed in bauds
+  examples: []
+  id: 704-17-03
+  language_code: eng
+  notes:
+  - In English, the term "modulation rate" is used in telegraphy and data communication;
+    it is the reciprocal of the duration of the unit interval or of the shortest signal
+    element. In French, the term "rapidité de modulation" is the only term used in
+    this field.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: line digit rate
+    normative_status: preferred
+    type: expression
+  - designation: modulation rate
+    type: expression
+  - designation: symbol rate
+    type: expression
+dateAccepted: 1993-08-01
+id: 6cf9f0bc-15f4-522c-965b-c053d928d344
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur dans lequel le volume sensible est sous forme
+    d'une couche plane
+  examples: []
+  id: 395-03-51
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-18 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur plan
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur plan
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d8dfba77-e264-534b-b180-e139035a7812
+status: valid

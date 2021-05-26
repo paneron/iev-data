@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: the state of a pool of resources in which a bid cannot result in an
+    immediate seizure
+  examples: []
+  id: 715-02-15
+  language_code: eng
+  notes:
+  - Blocking does not necessarily result in the loss of the call attempt if the call
+    can be established after a certain delay or by using alternative resources.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blocking
+    normative_status: preferred
+    type: expression
+  - designation: congestion
+    type: expression
+dateAccepted: 1996-12-01
+id: 19ec4800-1ba9-5a17-b7f3-8527bb009c8c
+status: valid

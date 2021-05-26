@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: état d'une zone donnée d'un {{réseau d'énergie électrique, IEV:692-01-03}},
+    ou du {{réseau d'énergie électrique, IEV:692-01-03}} complet, caractérisé par
+    la perte totale d'énergie
+  examples: []
+  id: 692-01-18
+  language_code: fra
+  notes:
+  - Un état de coupure peut exister à de nombreux niveaux de consommation différents,
+    d’un pâté de maisons à l’ensemble de la zone géographique couverte par le réseau.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coupure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: ef6a5360-0aec-5ca7-9501-73fe0afa8d28
+status: valid

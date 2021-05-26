@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: ratio of the absolute value of the fundamental active power `P`~1~ to
+    the fundamental apparent power `S`~1~ `λ`~1~ = |`P`~1~| / `S`~1~
+  examples: []
+  id: 845-27-127
+  language_code: eng
+  notes:
+  - 'The fundamental power factor is also given by:
+
+
+    `λ`~1~ = |cos `φ`~1~|'
+  - The fundamental power factor only refers to fundamental quantities.
+  - The fundamental power factor is sometimes called displacement factor or displacement
+    power factor.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fundamental power factor
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`~1~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 52f68de9-8f3e-5934-a163-f9e5dc689f56
+status: valid

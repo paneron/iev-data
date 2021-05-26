@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tension maximale qui peut être appliquée aux éléments de raccordement
+    du matériel associé sans invalider la sécurité intrinsèque
+  examples: []
+  id: 426-11-25
+  language_code: fra
+  notes:
+  - Cela s'applique aussi à la tension maximale qui peut être appliquée aux éléments
+    de raccordement des matériels à sécurité intrinsèque lorsqu'ils sont situés dans
+    des emplacements non dangereux (par exemple, les connexions pour la charge des
+    matériels qui fonctionnent sur accumulateur, dans lesquels l'opération de chargement
+    est effectuée uniquement dans des emplacements non dangereux).
+  - La valeur de `U`~m~ peut être différente pour des ensembles d'éléments de raccordement
+    différents et pour des tensions alternatives et continues.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension maximale alternative efficace ou continue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 68c82d5b-40a0-55a4-85e8-c38eadfe4ec5
+status: valid

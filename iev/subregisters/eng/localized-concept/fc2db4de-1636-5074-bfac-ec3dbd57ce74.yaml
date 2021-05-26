@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'closed-loop control in which state variables determined by an observer
+    are used, if the state variables for state feedback can not be measured SEE: Figure
+    16.'
+  examples: []
+  id: 351-47-32
+  language_code: eng
+  notes:
+  - This entry was numbered 351-26-27 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: observer-based control
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: fc2db4de-1636-5074-bfac-ec3dbd57ce74
+status: valid

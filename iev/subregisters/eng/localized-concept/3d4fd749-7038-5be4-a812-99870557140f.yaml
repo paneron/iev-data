@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: symbolic notation expressed formally as a scalar, operating at each
+    point of a given space region on scalars or vectors, and which, in orthonormal
+    Cartesian coordinates, is represented by `Delta = ((del^2))/((del x^2)) + ((del^2))/((del
+    y^2)) + ((del^2))/((del z^2))`
+  examples: []
+  id: 102-05-27
+  language_code: eng
+  notes:
+  - The Laplacian operator is denoted by Δ, ∇ ^2^ or ∇⋅∇.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Laplacian operator
+    normative_status: preferred
+    type: expression
+  - designation: Laplacian
+    type: expression
+dateAccepted: 2008-08-01
+id: 3d4fd749-7038-5be4-a812-99870557140f
+status: valid

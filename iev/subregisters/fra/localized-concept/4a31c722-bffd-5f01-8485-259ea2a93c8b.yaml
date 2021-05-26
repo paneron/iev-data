@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée entre le démarrage initial du {{système à pile à combustible,
+    IEV:485-09-01}} et l'instant initial où la concentration de combustible non reformé
+    au niveau des sorties du {{reformeur, IEV:485-07-03}} dépasse la valeur de conception
+    admissible du fabricant, lorsque le système à pile à combustible est en train
+    de fonctionner dans ses {{caractéristiques assignées, IEV:151-16-11}}
+  examples: []
+  id: 485-16-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée de vie du catalyseur reformeur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4a31c722-bffd-5f01-8485-259ea2a93c8b
+status: valid

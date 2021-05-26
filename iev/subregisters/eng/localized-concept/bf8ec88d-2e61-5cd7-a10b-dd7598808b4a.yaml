@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-12-01
+  definition: sum of durations of all interruptions of supply to individual customers
+    served during a time interval, divided by the product of the total number of customers
+    served and the duration of that time interval
+  examples: []
+  id: 692-08-03
+  language_code: eng
+  notes:
+  - 'If `t`~`ij`~ is the duration of the `i`th interruption of supply to customer
+    `j` during a time interval of duration `T`, and `N`~S~ the total number of customers
+    served, then the service unavailability per customer served is given by
+
+
+    `U_((CS)) = ((sum_i sum_j t_((i j))))/((N_S T))`'
+  - Only {{sustained interruptions, IEV:692-07-02}} are considered.
+  - If the duration of the time interval is expressed in years, the quantity is called
+    the "average yearly downtime per customer served".
+  - The term "customer" represents the end user and not some intermediate distribution
+    system or company.
+  - Service unavailability per customer served can be used to describe past performance
+    or to estimate expected future performance.
+  - This entry was numbered 191-27-03 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: service unavailability per customer served
+    normative_status: preferred
+    type: expression
+  - designation: system average interruption duration index
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+  - designation: SAIDI
+    normative_status: admitted
+    type: expression
+  - designation: '`U`~CS~'
+    international: true
+    type: symbol
+dateAccepted: 2017-12-01
+id: bf8ec88d-2e61-5cd7-a10b-dd7598808b4a
+status: valid

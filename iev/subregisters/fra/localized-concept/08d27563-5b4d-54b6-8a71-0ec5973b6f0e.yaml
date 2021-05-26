@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: partie imaginaire de l'exposant linéique de propagation
+  examples: []
+  id: 702-02-15
+  language_code: fra
+  notes:
+  - Le déphasage linéique d'une ligne de transmission ou d'un guide d'ondes est la
+    limite du quotient de la variation de phase d'une grandeur de champ entre deux
+    points sur l'axe par la distance des deux points, lorsque cette distance tend
+    vers zéro.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: déphasage linéique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 08d27563-5b4d-54b6-8a71-0ec5973b6f0e
+status: valid

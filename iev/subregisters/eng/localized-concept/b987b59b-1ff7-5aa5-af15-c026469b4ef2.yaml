@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: adaptive coupling circuit used to reduce interference between two orthogonal
+    co channel signals or two signals in adjacent channels with alternated polarization
+    during adverse propagation conditions
+  examples: []
+  id: 713-11-31
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cross polarization canceller
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: b987b59b-1ff7-5aa5-af15-c026469b4ef2
+status: valid

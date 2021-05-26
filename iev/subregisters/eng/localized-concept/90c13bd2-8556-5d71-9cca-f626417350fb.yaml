@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: intrinsically safe system architecture that is bus-powered and designed
+    in accordance with specific requirements
+  examples: []
+  id: 426-11-53
+  language_code: eng
+  notes:
+  - 'The requirements are specified in IEC 61158-2,_Industrial communication networks
+    – Fieldbus specifications – Part 2: Physical layer specification and service definition_.'
+  - This note applies to the French language only.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: FISCO
+    normative_status: preferred
+    type: expression
+  - designation: Fieldbus Intrinsically Safe Concept
+    type: expression
+dateAccepted: 2020-03-01
+id: 90c13bd2-8556-5d71-9cca-f626417350fb
+status: valid

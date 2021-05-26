@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{état d''alerte, IEV:692-02-07}} dans lequel l''apparition d''un {{événement
+    plausible, IEV:692-01-08}} peut entraîner des {{pertes de charge, IEV:692-01-16}},
+    des fonctionnements d''éléments de réseau au-delà de leurs caractéristiques assignées,
+    des tensions de jeux de barres ou la fréquence du réseau hors des plages de tolérances
+    image::/assets/images/parts/692/692-fig2-fr.png[Figure 2 - États d''un réseau
+    d''énergie électrique] <simg></simg>'
+  examples: []
+  id: 692-02-09
+  language_code: fra
+  notes:
+  - 'Les flèches indiquent les transitions d’état les plus importantes induites par
+    des événements plausibles. Les transitions de récupération, dans les directions
+    opposées, résultent des interventions des opérateurs.
+
+
+    *Figure 3 – Exemples de transitions internes aux états d’un réseau d’énergie électrique*'
+  - Un état potentiellement inadéquat peut se produire dans un {{état adéquat, IEV:692-02-04}}
+    ou {{état partiellement adéquat, IEV:692-02-05}}.
+  - Cet article portait le numéro 191-22-08 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: état potentiellement inadéquat
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: 982a91ce-d914-51f6-9147-5d04743b1bf4
+status: valid

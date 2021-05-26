@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - clause: 13-9
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-9
+      ref: IEC 80000-13:2008
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{amount of data, IEV:171-02-09}} that can be contained in a {{storage
+    device, IEV:171-04-14}}, expressed as a number of specified {{data elements, IEV:171-02-01}}'
+  examples:
+  - Storage capacity for bits, `M`~b~ or `M`~bit~; storage capacity for bytes, `M`~B~
+    (or for octets, `M`~o~).
+  id: 171-04-16
+  language_code: eng
+  notes:
+  - The specified data elements depend on the organization of the storage device,
+    for example, {{binary elements, IEV:171-02-10}}, {{bytes, IEV:171-02-12}}, {{words,
+    IEV:171-02-27}} of a given number of bits, {{blocks, IEV:721-03-11}}. A subscript
+    referring to a specified data element can be added to the symbol.
+  - For {{registers, IEV:171-04-19}}, the term "register length" is used with the
+    same meaning.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: storage capacity
+    normative_status: preferred
+    type: expression
+  - designation: storage size
+    normative_status: preferred
+    type: expression
+  - designation: '`M`'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 46728f1b-7b71-560c-b2b7-10e9cf71899b
+status: valid

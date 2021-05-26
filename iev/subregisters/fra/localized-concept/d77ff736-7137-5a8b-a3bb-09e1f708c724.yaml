@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée, dans des conditions de fonctionnement, entre le premier démarrage
+    et le moment où la tension de la pile à combustible, dans des conditions définies,
+    passe en dessous de la tension minimale acceptable spécifiée
+  examples: []
+  id: 485-16-02
+  language_code: fra
+  notes:
+  - Il convient de déterminer la valeur de tension minimale acceptable d'un commun
+    accord entre les parties, en prenant en compte l'utilisation spécifique de la
+    cellule ou de la pile.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée de vie de la cellule
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée de vie de la pile
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d77ff736-7137-5a8b-a3bb-09e1f708c724
+status: valid

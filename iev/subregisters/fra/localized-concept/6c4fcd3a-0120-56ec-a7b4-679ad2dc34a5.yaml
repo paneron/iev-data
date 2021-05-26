@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: données relatives au patient, mesurées par des dispositifs reliés au
+    patient ou collectées autrement par celui-ci
+  examples:
+  - Fréquence du pouls, taux de glycémie, pression sanguine et température corporelle.
+  id: 871-06-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: signes vitaux et données métaboliques
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: 6c4fcd3a-0120-56ec-a7b4-679ad2dc34a5
+status: valid

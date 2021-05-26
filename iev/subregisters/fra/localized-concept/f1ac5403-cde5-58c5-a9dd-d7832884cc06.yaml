@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '7.7'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 7.7
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{disposition, IEV:901-05-01}} d''{{aptitude à l''emploi, IEV:901-01-12}},
+    qui porte sur les caractéristiques d''un produit, d''un processus ou d''un service'
+  examples: []
+  id: 901-05-09
+  language_code: fra
+  notes:
+  - Une disposition descriptive comporte généralement des détails de conception, de
+    réalisation, etc., ainsi que des indications de dimensions et de composition.
+  reviewDecisionEvent: published
+  terms:
+  - designation: disposition descriptive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f1ac5403-cde5-58c5-a9dd-d7832884cc06
+status: valid

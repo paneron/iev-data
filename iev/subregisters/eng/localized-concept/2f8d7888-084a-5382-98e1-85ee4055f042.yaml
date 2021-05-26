@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: probability that a given maintenance action, performed under stated
+    conditions and using specified procedures and resources, can be completed within
+    the time interval (`t`~1~, `t`~2~) given that the action started at `t` = 0
+  examples: []
+  id: 192-07-01
+  language_code: eng
+  notes:
+  - When `t`~1~ = 0 and `t`~2~ = `t`, then `M`(0, `t`) is denoted simply as `M`(`t`)
+    and termed the maintainability function.
+  - See also maintainability &lt;of an item&gt; ({{192-01-27, IEV:192-01-27}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintainability
+    normative_status: preferred
+    type: expression
+    usage_info: measure
+  - designation: '`M`(`t`~1~, `t`~2~)'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: 2f8d7888-084a-5382-98e1-85ee4055f042
+status: valid

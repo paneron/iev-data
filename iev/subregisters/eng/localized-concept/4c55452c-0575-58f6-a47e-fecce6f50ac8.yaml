@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.8'
+      link: https://webstore.iec.ch/publication/18648
+      original: IEC 60974-1:2005, 3.8 MOD
+      ref: IEC 60974-1:2005
+      relationship:
+        type: modified
+  dateAmended: 2008-06-01
+  definition: an external static characteristic of a welding power source which, in
+    its normal welding range, is such that, as the current increases, the voltage
+    decreases by more than 7 V/100 A
+  examples: []
+  id: 851-12-34
+  language_code: eng
+  notes: []
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: drooping characteristic
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 4c55452c-0575-58f6-a47e-fecce6f50ac8
+status: valid

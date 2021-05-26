@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: for an integral element the reciprocal of the integral action coefficient
+    if its input and output variables are variable quantities of same kind
+  examples: []
+  id: 351-50-10
+  language_code: eng
+  notes:
+  - 'The integral action time then is given by
+
+
+    `T_I = (1)/((K_I))`
+
+
+    where `K`~I~ is the integral action coefficient.'
+  - The integral action time can also be given as the duration of the time interval
+    required by the step response of an integral element to vary itself about the
+    value of the stepwise variation of its input variable.
+  - This entry was numbered 351-28-21 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: integral action time
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~I~'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: c9a48174-26e5-5499-8a5f-ea517812ed45
+status: valid

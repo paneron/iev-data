@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.5
+      link: https://webstore.iec.ch/publication/5616
+      original: CEI 61577-1:2006, 3.1.5, modifiée
+      ref: IEC 61577-1:2006
+      relationship:
+        type: modified
+    - clause: 3.1.5
+      link: https://webstore.iec.ch/publication/5619
+      original: CEI 61577-4:2009, 3.1.5, modifiée
+      ref: IEC 61577-4:2009
+      relationship:
+        type: modified
+  definition: étalon ayant généralement la qualité métrologique la plus élevée en
+    un endroit donné ou dans une organisation donnée, à partir duquel les mesures
+    qui y sont effectuées sont dérivées
+  examples: []
+  id: 395-03-113
+  language_code: fra
+  notes:
+  - Étalon de travail dans un laboratoire; étalon national ou étalon secondaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: étalon de référence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0dbef4e9-e99d-5cc4-be18-7bc69d969ec6
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: impedance of a network seen at the terminals of an input port, when
+    all other ports are connected to specified terminating immittances
+  examples: []
+  id: 131-14-08
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: input impedance
+    normative_status: preferred
+    type: expression
+  - designation: <u>`Z`</u>~1~
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 62b7ea9d-e130-5ddb-8e07-db634206f8a4
+status: valid

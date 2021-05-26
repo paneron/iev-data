@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: index de distorsion visuelle utilisé pour estimer le décalage entre
+    les images fournies par chaque capteur d'image dans une caméra vidéo utilisant
+    plusieurs de ces capteurs
+  examples: []
+  id: 808-04-09
+  language_code: fra
+  notes:
+  - Cet index est exprimé proportionnellement aux dimensions horizontale et verticale
+    de la zone balayée.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: convergence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: fdf14cd8-5be6-5675-9618-80e50e70cf51
+status: valid

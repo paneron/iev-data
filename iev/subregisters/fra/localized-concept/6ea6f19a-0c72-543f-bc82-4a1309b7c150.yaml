@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: nombre d'éléments numériques qu'un créneau temporel peut transmettre
+    par seconde, égal au produit du nombre de créneaux temporels élémentaires dans
+    le créneau temporel considéré par la fréquence de répétition de celui-ci
+  examples: []
+  id: 704-16-10
+  language_code: fra
+  notes:
+  - 'Ce terme peut être particularisé, par exemple: débit binaire d''un créneau temporel.'
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit numérique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 6ea6f19a-0c72-543f-bc82-4a1309b7c150
+status: valid

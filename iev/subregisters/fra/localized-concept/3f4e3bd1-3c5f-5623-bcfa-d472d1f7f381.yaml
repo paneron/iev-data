@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: définition 1149
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1149, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: domaine de fonctionnement d'un réacteur nucléaire à très basse puissance
+    dans lequel une source de neutrons supplémentaire est nécessaire pour faciliter
+    la mesure du débit de fluence des neutrons
+  examples: []
+  id: 395-07-20
+  language_code: fra
+  notes:
+  - En général, une source supplémentaire n’est nécessaire que pour les cœurs neufs.
+    On parle toutefois de domaine des sources même si aucune source supplémentaire
+    n’est nécessaire.
+  - Cet article était numéroté 393-17-44 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: domaine des sources
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3f4e3bd1-3c5f-5623-bcfa-d472d1f7f381
+status: valid

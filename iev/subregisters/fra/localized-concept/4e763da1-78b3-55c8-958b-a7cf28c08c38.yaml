@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quotient de la masse d`m` de substance traversant une surface donnée
+    pendant un intervalle de temps de durée infinitésimale d`t` par cette durée, soit
+    `q`~`m`~ = d`m` / d`t`
+  examples: []
+  id: 113-03-71
+  language_code: fra
+  notes:
+  - 1 `q`~`m`~ = `ρq`~`v`~ où `ρ` est la masse volumique et `q`~`v`~ est le débit-volume
+    ({{113-03-72, IEV:113-03-72}}).
+  - 2 L'unité SI cohérente de débit-masse est le kilogramme par seconde, kg/s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit-masse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 4e763da1-78b3-55c8-958b-a7cf28c08c38
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: two-terminal-pair network consisting of two branches having a common
+    node, with one end node connected to two equipotential terminals, which form the
+    output terminal pair with the common node and the input terminal pair with the
+    other end node
+  examples: []
+  id: 131-13-24
+  language_code: eng
+  notes:
+  - The terms "mirror L-network" and "mirror Г-network" are used according to the
+    aspect of the usual graphical representation.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mirror L-network
+    normative_status: preferred
+    type: expression
+  - designation: mirror Γ-network
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: b4927ede-2adb-54e4-a34b-0e23074335ec
+status: valid

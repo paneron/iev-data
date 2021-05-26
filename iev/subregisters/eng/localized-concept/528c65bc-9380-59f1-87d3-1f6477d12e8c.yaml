@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: quotient of the detector output, `Y`, and the detector input, `X` `s
+    = (Y)/(X)`
+  examples: []
+  id: 845-25-061
+  language_code: eng
+  notes:
+  - If the detector signal is `Y`~0~ in the absence of input, and is `Y`~t~ when there
+    is an input `X`, the responsivity is `s = ((Y_t - Y_0))/(X)`.
+  - The term "sensitivity" is no longer used.
+  - This entry was numbered 845-05-54 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: responsivity
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: sensitivity
+    normative_status: deprecated
+    type: expression
+  - designation: '`s`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 528c65bc-9380-59f1-87d3-1f6477d12e8c
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{indisponibilité fortuite, IEV:692-04-04}} pour laquelle le matériel
+    associé n''est pas remis automatiquement en service dans un intervalle de temps
+    spécifié image::/assets/images/parts/692/692-fig4-fr.png[Figure 4 - Relations
+    entre indisponibilités]'
+  examples: []
+  id: 692-04-08
+  language_code: fra
+  notes:
+  - Une indisponibilité durable peut être une {{indisponibilité non différable, IEV:692-04-05}}
+    ou une {{indisponibilité différable, IEV:692-04-06}}.
+  - Une indisponibilité durable peut être une {{indisponibilité permanente, IEV:692-04-09}}
+    ou une {{indisponibilité temporaire, IEV:692-04-10}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité durable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0634920e-ed1f-5535-a583-d4470ee62685
+status: valid

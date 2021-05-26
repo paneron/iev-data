@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: specification of a <a href="IEV845-23-002">colour stimulus</a> in terms
+    of operationally defined values, such as three <a href="IEV845-23-038">tristimulus
+    values</a>
+  examples: []
+  id: 845-23-001
+  language_code: eng
+  notes:
+  - This entry was numbered 845-03-01 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: colour
+    normative_status: preferred
+    type: expression
+    usage_info: psychophysical
+  - designation: color
+    geographical_area: US
+    type: expression
+    usage_info: psychophysical
+dateAccepted: 2020-12-01
+id: 99b16214-ed00-5dee-a1f1-b22083b1f7b8
+status: valid

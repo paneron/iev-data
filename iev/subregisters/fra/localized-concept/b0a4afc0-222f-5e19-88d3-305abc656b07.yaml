@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: énergie qui émane d'une source sous forme d'{{ondes électromagnétiques,
+    IEV:121-11-63}} ou de {{photons, IEV:113-05-14}} et qui est transportée dans l'espace
+  examples: []
+  id: 705-02-01
+  language_code: fra
+  notes:
+  - Le terme "rayonnement électromagnétique" est également employé pour désigner le
+    processus produisant les ondes électromagnétiques ou les photons (voir {{IEV 702-02-07,
+    IEV:702-02-07}}).
+  - Les concepts physiques de photons et d'ondes électromagnétiques sont employés
+    pour décrire le même processus de transmission d'énergie rayonnante de manières
+    différentes, en fonction de la nature de l'interaction de l'énergie avec le monde
+    physique (dualisme onde-particule).
+  - En français, le terme ”radiation électromagnétique” s'applique de préférence à
+    l'élément simple de tout rayonnement électromagnétique caractérisé par une fréquence
+    ou par une longueur d'onde dans le vide.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rayonnement électromagnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: ondes ou photons
+  - designation: radiation électromagnétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b0a4afc0-222f-5e19-88d3-305abc656b07
+status: valid

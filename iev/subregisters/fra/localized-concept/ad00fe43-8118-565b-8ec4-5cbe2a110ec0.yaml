@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} dont la {{grandeur caractéristique,
+    IEV:447-07-01}} est le quotient de la tension par la fréquence'
+  examples:
+  - Relais de surflux utilisé pour la protection des transformateurs ou des générateurs.
+  id: 447-01-47
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais volt par hertz
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ad00fe43-8118-565b-8ec4-5cbe2a110ec0
+status: valid

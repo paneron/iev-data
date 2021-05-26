@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: insuffisance d'amortissement qui se traduit par l'apparition d'oscillations
+    entretenues dans le réseau d'énergie électrique, et qui peut ou non conduire à
+    la perte de synchronisme
+  examples: []
+  id: 603-03-24
+  language_code: fra
+  notes:
+  - Dans ces conditions, la dérivée de la puissance active par rapport à la vitesse
+    du rotor est négative pour un générateur au moins.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instabilité oscillatoire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: instabilité dynamique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: e155f634-1460-5437-803b-c35a120fa55d
+status: valid

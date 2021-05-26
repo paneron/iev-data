@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.17
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.17
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: method, specified by ISO/IEC 13239 to prevent frame data from being
+    misinterpreted as a flag, consisting of inserting an additional "0" symbol after
+    each string of five "1" symbols and removing this "0" at reception
+  examples: []
+  id: 811-37-08
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bit-stuffing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 4721736d-0a57-5e84-a3d5-2e07d203acd7
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: imaginary part of an impedance `R = Re ( underset(_)(Z) )` `X = Im (
+    underset(_)(Z) )`
+  examples: []
+  id: 131-12-46
+  language_code: eng
+  notes:
+  - The reactance of a series-resonant circuit is `X = omega L - (1)/((omega C))`,
+    where `L` is inductance, `C` is capacitance, and `ω` is angular frequency.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reactance
+    normative_status: preferred
+    type: expression
+  - designation: '`X`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 9767404e-0203-5566-8eb3-deb4b7370402
+status: valid

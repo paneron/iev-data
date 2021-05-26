@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur moyenne de l'éclairement énergétique sur la surface courbe extérieure
+    d'un très petit cylindre (réel ou fictif) orienté verticalement en un point dans
+    l'espace
+  examples: []
+  id: 845-21-055
+  language_code: fra
+  notes:
+  - 'L''éclairement cylindrique énergétique est parfois également défini comme la
+    moyenne arithmétique de l''éclairement énergétique vertical `E`~e,v~ en un point
+
+
+    `E_((e ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((e ,v)) d phi`
+
+
+    où `E`~e,v~ est l''éclairement énergétique vertical pour un élément de surface,
+    avec sa perpendiculaire dans la direction `φ`, et `φ` est l''angle dans le plan
+    perpendiculaire à l''axe du cylindre.'
+  - La grandeur photométrique correspondante est l'"éclairement lumineux cylindrique".
+    La grandeur correspondante pour les photons est l'"éclairement cylindrique énergétique
+    photonique".
+  - L'éclairement cylindrique énergétique est exprimé en watt par mètre carré (W·m^−2^).
+  - Cet article était numéroté 845-01-41 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement cylindrique énergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 390aacd5-e58c-5d5d-a3e5-8d5480f922f9
+status: valid

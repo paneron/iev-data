@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: ordered set of eight {{binary digits, IEV:171-02-10}}, operated on as
+    an entity
+  examples: []
+  id: 171-02-12
+  language_code: eng
+  notes:
+  - The non-qualified term “byte” designates an 8-bit byte. See “`n`-bit byte” ({{IEV
+    171-02-22, IEV:171-02-22}}).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: byte
+    normative_status: preferred
+    type: expression
+    usage_info: data element
+  - designation: octet
+    normative_status: preferred
+    type: expression
+    usage_info: data element
+  - designation: 8-bit byte
+    geographical_area: US
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: ce7741e9-8057-5e72-81d2-0a056a370499
+status: valid

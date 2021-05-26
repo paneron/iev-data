@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction mathématique monotone à variable unique appliquée de manière
+    individuelle à un ou plusieurs canaux chromatiques
+  examples: []
+  id: 845-32-004
+  language_code: fra
+  notes:
+  - Les fonctions de transfert des composantes chromatiques sont fréquemment utilisées
+    pour tenir compte de la réponse non linéaire d'un dispositif de référence et/ou
+    pour améliorer l'uniformité visuelle d'un espace chromatique.
+  - Généralement, les fonctions de transfert des composantes chromatiques sont des
+    fonctions non linéaires telles qu'une fonction de loi exponentielle (c'est-à-dire
+    fonction "gamma") ou une fonction logarithmique. Toutefois, dans certains cas,
+    une fonction de transfert de composantes chromatiques linéaires peut être utilisée.
+  - Pour de plus amples informations sur les "canaux chromatiques", voir Note 2 à
+    l'article de la définition "<a href="IEV845-32-018">codage de l'espace chromatique</a>".
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de transfert des composantes chromatiques
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 57ef7443-5e67-51a5-8f32-abda5d1ed1b7
+status: valid

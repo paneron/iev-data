@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 436-03-02
+      original: 436-03-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 581-06-06
+      original: 581-06-06 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 604-04-08
+      original: 604-04-08 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: terminal provided on equipment or on a device and intended for the electric
+    connection with the earthing arrangement
+  examples: []
+  id: 195-02-31
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earthing terminal
+    normative_status: preferred
+    type: expression
+  - designation: grounding terminal
+    type: expression
+  - designation: earth terminal
+    type: expression
+dateAccepted: 1998-08-01
+id: 0b4ea8ea-e49b-5abf-a22d-cd6239ceb8a3
+status: valid

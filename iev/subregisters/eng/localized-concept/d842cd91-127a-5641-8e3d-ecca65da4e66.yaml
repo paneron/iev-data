@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: product of the frequency of a sinusoidal quantity and the factor 2π.
+  examples: []
+  id: 103-07-03
+  language_code: eng
+  notes:
+  - For the quantity `a ( t ) = hat A cos ( omega t + vartheta_0 )`, the angular frequency
+    is `ω`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angular frequency
+    normative_status: preferred
+    type: expression
+  - designation: pulsatance
+    normative_status: preferred
+    type: expression
+  - designation: '`ω`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: d842cd91-127a-5641-8e3d-ecca65da4e66
+status: valid

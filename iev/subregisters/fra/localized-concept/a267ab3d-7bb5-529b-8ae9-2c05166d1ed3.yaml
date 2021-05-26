@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: détecteur à ionisation rempli d'un gaz approprié ou d'un mélange gazeux
+    dans lequel un champ électrique, insuffisant pour provoquer la multiplication
+    dans le gaz, assure la collecte par les électrodes de la totalité des charges
+    associées aux ions et aux électrons produits dans le volume sensible du détecteur
+    par le rayonnement ionisant
+  examples:
+  - '*  chambre d’ionisation à impulsions, *  chambre d’ionisation à intégration,
+    *  chambre d’ionisation à courant, *  chambre d’ionisation à air libre.'
+  id: 395-03-07
+  language_code: fra
+  notes:
+  - Le champ électrique est insuffisant pour créer la multiplication dans le gaz.
+  - Cet article était numéroté 394-25-02 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: chambre d’ionisation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a267ab3d-7bb5-529b-8ae9-2c05166d1ed3
+status: valid

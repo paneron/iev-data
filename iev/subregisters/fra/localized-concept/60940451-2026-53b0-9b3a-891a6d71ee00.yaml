@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: biporte dont l'inverse de la réponse en fréquence ({{131-15-21, IEV:131-15-21}})
+    a un argument qui est une fonction impaire de la fréquence et a, à toute fréquence
+    positive, la plus petite valeur possible pour un module donné
+  examples: []
+  id: 131-15-22
+  language_code: fra
+  notes:
+  - Pour un réseau à déphasage minimal à éléments localisés, la fonction de transfert
+    ({{131-15-20, IEV:131-15-20}}) exprimée en fonction de la fréquence complexe n’a
+    pas de zéros dans le demi-plan de droite.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau à déphasage minimal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: 60940451-2026-53b0-9b3a-891a6d71ee00
+status: valid

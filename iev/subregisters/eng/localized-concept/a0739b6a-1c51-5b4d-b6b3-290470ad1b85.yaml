@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: average value of the instantaneous unavailability over a given time
+    interval (`t`~1~, `t`~2~)
+  examples: []
+  id: 192-08-06
+  language_code: eng
+  notes:
+  - 'The mean unavailability is related to the instantaneous unavailability `U`(`t`)
+    as:
+
+
+    `bar U ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) U ( t ) d t`'
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean unavailability
+    normative_status: preferred
+    type: expression
+  - designation: average unavailability
+    normative_status: preferred
+    type: expression
+  - designation: '`bar U ( t_1 , t_2 )`'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: a0739b6a-1c51-5b4d-b6b3-290470ad1b85
+status: valid

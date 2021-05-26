@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 01.04.02
+      link: https://www.iso.org/standard/7229.html
+      original: ISO/IEC 2382-1:1993, 01.04.02
+      ref: ISO/IEC 2382-1:1993
+      relationship:
+        type: identical
+  dateAmended: 2015-02-01
+  definition: application-independent software that supports the running of application
+    software
+  examples:
+  - The operating system of a computer.
+  id: 192-01-32
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: system software
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 1dd6b5ed-e0fb-5973-918f-751b851c05b8
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: mettre en œuvre une structure de sécurité
+  examples: []
+  id: 351-43-16
+  language_code: fra
+  notes:
+  - Ce signifie mettre en œuvre une fonctionnalité qui empêche la transition du système
+    vers un état de fonctionnement non fiable ou qui limite l’impact possible d’un
+    fonctionnement non fiable.
+  - Le terme "sauvegarder" représente également la notion définit en 351-43-17.
+  - Cet article était numéroté 351-22-13 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sauvegarder
+    normative_status: preferred
+    type: expression
+    usage_info: équipement
+dateAccepted: 2013-11-01
+id: 4fa8ba01-8a55-5e72-b77c-e835a9bc5471
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: réponse temporelle d'un système linéaire invariant dans le temps, qui
+    est initialement en régime établi `U`~0~, `V`~0~, produite par l'application d'une
+    fonction de rampe Δ`u`~ρ~(`t`) = `K`~ρ~·δ(`t`) à l'une des variables d'entrée,
+    où Δ`v`~ρ~(`t`) = `v`(`t`) – `V`~0~ et Δ`u`~ρ~(`t`) = `u`(`t`) – `U`~0~
+  examples: []
+  id: 351-45-28
+  language_code: fra
+  notes:
+  - La réponse de rampe d’un système linéaire invariant dans le temps est proportionnelle
+    à l’intégrale temporelle de sa réponse à un échelon.
+  - Cet article était numéroté 351-24-22 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse de rampe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: b5fd8624-4507-5cc1-8040-5d203ac95074
+status: valid

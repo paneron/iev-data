@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      link: https://webstore.iec.ch/publication/7248
+      original: IEC 62606:2013, 3.3
+      ref: IEC 62606:2013
+      relationship:
+        type: identical
+  definition: dispositif destiné à atténuer les effets des défauts d'arc en déconnectant
+    le circuit lorsqu'un défaut d'arc est détecté
+  examples: []
+  id: 442-05-67
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif pour la détection d’arcs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DPDA
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 22a51d7f-af84-512d-b7c8-a7e14bf3f4b1
+status: valid

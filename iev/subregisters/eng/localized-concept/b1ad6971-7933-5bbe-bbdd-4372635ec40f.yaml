@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: for a given mode at a given frequency in a transmission line, the quotient
+    of the natural logarithm of the ratio of a specified field vector component at
+    one transverse cross-section to that at another transverse cross-section, by the
+    distance between these two crosssections in the direction of propagation, when
+    the transmission line is infinite in length or terminated in its characteristic
+    impedance
+  examples: []
+  id: 726-05-09
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: propagation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: propagation constant
+    type: expression
+dateAccepted: 2021-01-01
+id: b1ad6971-7933-5bbe-bbdd-4372635ec40f
+status: valid

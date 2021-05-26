@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.23.10
+      link: https://webstore.iec.ch/publication/6241
+      original: IEC 61992-1:2006, 3.4.23.10
+      ref: IEC 61992-1:2006
+      relationship:
+        type: identical
+  definition: courbe donnant, pour des conditions spécifiées du courant de réglage
+    du relais, le courant coupé limité en fonction du courant présumé et de la constante
+    de temps du circuit d'essai
+  examples: []
+  id: 811-29-43
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: caractéristique de coupure courant
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 49ebcf24-62a8-57ad-84b8-1da169a01319
+status: valid

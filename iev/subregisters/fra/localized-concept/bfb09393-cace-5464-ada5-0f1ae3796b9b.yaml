@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: constante des équations de la chaînette et de la parabole représentée
+    géométriquement par le rayon de courbure au point où la tangente à la courbe est
+    horizontale
+  examples: []
+  id: 466-03-14
+  language_code: fra
+  notes:
+  - 'Le paramètre `ρ` est égal au quotient de la tension horizontale du conducteur
+    `T`~o~ à une température donnée (voir Figure 466-1) par le poids linéique `ω`
+    du conducteur, en tenant compte des surcharges éventuelles de givre ou de vent.
+
+
+    `rho = ((T_o))/(omega)`
+
+
+    image::/assets/images/parts/466/466-fig1.gif[]'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: paramètre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: bfb09393-cace-5464-ada5-0f1ae3796b9b
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{dispositif, IEV:651-21-15}} portable utilisé pour déterminer l''état
+    des {{installations électriques, IEV:651-26-01}} ainsi que des {{outils, IEV:651-21-14}},
+    des dispositifs et des {{équipements, IEV:651-21-16}} utilisés pour les {{travaux
+    sous tension, IEV:651-21-01}}'
+  examples:
+  - ': Les {{détecteurs de tension, IEV:651-24-02}}, contrôleurs de {{perches isolantes,
+    IEV:651-22-01}}, etc.'
+  id: 651-24-01
+  language_code: fra
+  notes:
+  - L’état peut être électrique, mécanique, chimique ou une condition environnementale.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif de diagnostic
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e935b6a9-b972-5dce-be81-a9e9b4fd0c80
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-10-01
+  definition: of an electron in a gyromagnetic substance, the quotient of the magnetic
+    area moment due to spin by the angular moment of the spin
+  examples: []
+  id: 221-05-03
+  language_code: eng
+  notes:
+  - 'The angular precessional frequency `ω` of an electron is related to the applied
+    magnetic field `H` by the expression: `ω` = `γ μ`~0~ `H`
+
+
+    where `μ`~0~ is the magnetic constant and `γ` is the gyromagnetic coefficient.'
+  - 'For a free electron the gyromagnetic coefficient approximately equals: 176 × 10^9^ C kg^−1^.'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gyromagnetic coefficient
+    normative_status: preferred
+    type: expression
+  - designation: gyromagnetic ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`γ`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 7255440e-b126-5a9a-8ae9-d921f827ba06
+status: valid

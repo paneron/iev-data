@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 581-02-07
+      original: 581-02-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 151-12-20
+      original: 151-12-20
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: contact member intended to make electric engagement on its inner surface
+    for mating with the outer surface of another contact member
+  examples: []
+  id: 151-12-17
+  language_code: eng
+  notes:
+  - In English, the term "socket contact" does not imply that socket contacts are
+    always mounted in a socket nor that sockets have only socket contacts.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: socket contact
+    normative_status: preferred
+    type: expression
+  - designation: female contact
+    type: expression
+dateAccepted: 2001-07-01
+id: c8b1beb0-b2bf-591d-9b28-cdf4ae4d83f1
+status: valid

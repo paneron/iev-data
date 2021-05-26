@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.11'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.11 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: greatest distance between two points on a specified axis perpendicular
+    to the beam axis, where the pulse-pressure-squared integral falls below its maximum
+    on the specified axis by a specified amount
+  examples: []
+  id: 802-01-20
+  language_code: eng
+  notes:
+  - Commonly used beamwidths are specified at –6 dB, –10 dB and –20 dB levels below
+    the maximum. The decibel calculation implies taking 10 times the logarithm (to
+    the base 10) of the ratios of the integrals.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: beamwidth
+    normative_status: preferred
+    type: expression
+  - designation: '`w`~6~, `w`~10~, `w`~20~'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: e7c0ade9-699c-5cc7-8088-408b1a75b6f9
+status: valid

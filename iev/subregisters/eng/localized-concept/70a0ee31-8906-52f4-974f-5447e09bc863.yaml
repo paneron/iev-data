@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: maximum direct current that can be regarded as flowing without resistance
+    practically
+  examples: []
+  id: 815-12-01
+  language_code: eng
+  notes:
+  - '`I`~c~ is a function of magnetic field strength, temperature and strain.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 70a0ee31-8906-52f4-974f-5447e09bc863
+status: valid

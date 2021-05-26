@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: standby state requiring warm up before a demand to operate can be met
+  examples: []
+  id: 192-02-11
+  language_code: eng
+  notes:
+  - A cold standby state may apply to redundant or stand-alone items.
+  - In this context “warm up” includes meeting any conditions required to operate
+    as required (e.g. achieving the required temperature, speed, pressure).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cold standby state
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 3d11ec49-6254-57ae-a990-6f0a5ced9042
+status: valid

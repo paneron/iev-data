@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: courbe de la {{tension de sortie, IEV:485-13-03}} d'une {{cellule élémentaire
+    à combustible, IEV:485-08-01}} en fonction du {{courant surfacique, IEV:485-12-01}}
+    de sortie dans des conditions de réaction définies
+  examples: []
+  id: 485-15-06
+  language_code: fra
+  notes:
+  - La courbe de polarisation est exprimée en V en fonction de A/m^2^ ou de A/cm^2^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courbe de polarisation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des piles à combustible
+dateAccepted: 2018-11-17
+id: c411b3c4-e640-57c1-b119-951cac649e09
+status: valid

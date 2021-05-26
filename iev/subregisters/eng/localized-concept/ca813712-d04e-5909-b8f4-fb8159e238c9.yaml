@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-13
+      original: 702-09-13 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 801-25-04
+      original: 801-25-04 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: device for transforming a physical quantity representing information
+    into a physical quantity of different kind representing the same information,
+    one of the two quantities being electric
+  examples: []
+  id: 151-13-37
+  language_code: eng
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (signal) transducer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: ca813712-d04e-5909-b8f4-fb8159e238c9
+status: valid

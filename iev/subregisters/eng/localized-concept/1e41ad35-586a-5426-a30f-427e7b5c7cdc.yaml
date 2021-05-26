@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the total luminous flux of the luminaire, measured under
+    specified practical conditions with its own lamp(s) and equipment, and the sum
+    of the individual luminous fluxes of the same lamp(s) when operated outside the
+    luminaire with the same equipment, under specified conditions
+  examples: []
+  id: 845-29-052
+  language_code: eng
+  notes:
+  - For luminaires using incandescent lamps only, the optical light output ratio and
+    the light output ratio are the same in practice.
+  - The light output ratio has unit one.
+  - This entry was numbered 845-09-39 in IEC 60050-845:1987.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: light output ratio
+    normative_status: preferred
+    type: expression
+    usage_info: of a luminaire
+  - designation: LOR
+    type: expression
+  - designation: luminaire efficiency
+    normative_status: admitted
+    type: expression
+  - designation: '`R`~LO~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1e41ad35-586a-5426-a30f-427e7b5c7cdc
+status: valid

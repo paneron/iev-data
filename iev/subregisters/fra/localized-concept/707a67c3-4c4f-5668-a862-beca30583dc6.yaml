@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension caractérisant la conduction thermique, définie
+    par `F o = ((lambda t))/((c_p rho l^2)) = ((alpha t))/((l^2))`, où `λ` est la
+    conductivité thermique, `t` est la durée, `c`~`p`~ est la capacité thermique massique
+    à pression constante, `ρ` est la masse volumique, `l` est une longueur spécifiée
+    et `α` est la diffusivité thermique
+  examples: []
+  id: 113-04-56
+  language_code: fra
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de Fourier
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 707a67c3-4c4f-5668-a862-beca30583dc6
+status: valid

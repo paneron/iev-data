@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: quotient of the rms value of the electric current in a two-terminal
+    element or a two-terminal circuit by the rms value of the voltage between its
+    terminals
+  examples: []
+  id: 131-12-52
+  language_code: eng
+  notes:
+  - Under sinusoidal conditions, the apparent admittance is the modulus of the admittance.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: apparent admittance
+    normative_status: preferred
+    type: expression
+  - designation: '`Y`'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 303b6e91-adef-5bd5-98f4-00b5f7087dd7
+status: valid

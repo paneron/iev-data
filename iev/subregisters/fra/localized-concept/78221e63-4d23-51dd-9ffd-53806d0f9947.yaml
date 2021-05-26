@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} dont la {{grandeur caractéristique,
+    IEV:447-07-01}} est le courant Note 1 à l''article: Les modes de fonctionnement
+    respectifs sont définis par un des quatre termes {{"relais à maximum de …", IEV:447-01-23}},
+    {{"relais à minimum de …", IEV:447-01-24}}, {{"relais à minimum et maximum de
+    …", IEV:447-01-25}}, et {{"relais à dérivée de …", IEV:447-01-26}}.'
+  examples: []
+  id: 447-01-27
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais de courant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 78221e63-4d23-51dd-9ffd-53806d0f9947
+status: valid

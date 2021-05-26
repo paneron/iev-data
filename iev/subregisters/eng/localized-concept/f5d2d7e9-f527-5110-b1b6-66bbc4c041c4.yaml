@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: the voltage, at a specified point in a channel or telephone set, which
+    is equal to the square root of the sum of the squares of the effective voltages
+    of the spectral components of a disturbance induced in the channel or set, each
+    voltage being weighted to take account of the corresponding frequency
+  examples: []
+  id: 722-16-06
+  language_code: eng
+  notes:
+  - For telephony, the conventional weighting is given in the CCITT Recommendation
+    0.41 from the Fascicle IV-4 of the Blue Book, 1989.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: psophometric voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-11-01
+id: f5d2d7e9-f527-5110-b1b6-66bbc4c041c4
+status: valid

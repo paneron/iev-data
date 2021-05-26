@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: rapport, généralement exprimé en décibels, de la puissance apparente
+    fournie à une charge spécifiée après insertion d'un biporte donné entre une source
+    et la charge, à la puissance apparente que la même source fournirait à une charge
+    telle que le facteur de réflexion à leur accès commun soit nul
+  examples: []
+  id: 702-07-19
+  language_code: fra
+  notes:
+  - Si le rapport qui détermine le gain composite est inférieur à l'unité, sa valeur
+    en décibels est négative et on peut utiliser son inverse ou sa valeur en décibels
+    changée de signe, appelés affaiblissement composite.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gain composite
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: fb4a31ed-959e-52ca-938a-6214bf4896e9
+status: valid

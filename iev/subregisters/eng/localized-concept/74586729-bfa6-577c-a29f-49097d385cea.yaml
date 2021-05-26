@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: any of the call attempts subsequent to a first call attempt related
+    to a given call intent
+  examples: []
+  id: 715-03-05
+  language_code: eng
+  notes:
+  - Repeated call attempts may be automatic even if the first is manual.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: repeated call attempt
+    normative_status: preferred
+    type: expression
+  - designation: reattempt
+    type: expression
+dateAccepted: 1996-12-01
+id: 74586729-bfa6-577c-a29f-49097d385cea
+status: valid

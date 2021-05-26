@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{absorption, IEV:705-02-07}} qui se produit dans les {{fibres optiques,
+    IEV:704-02-07}} et composants associés'
+  examples: []
+  id: 731-03-14
+  language_code: fra
+  notes:
+  - L'absorption dans une fibre optique est due à des mécanismes intrinsèques, tels
+    que les queues des bandes d'absorption dans le rayonnement ultraviolet et le rayonnement
+    infrarouge, et à des mécanismes extrinsèques tels que les impuretés (par exemple
+    les ions OH et les ions des métaux de transition) et les défauts (par exemple
+    ceux qui résultent de l'histoire thermique et de l'exposition à des rayonnements
+    nucléaires).
+  reviewDecisionEvent: published
+  terms:
+  - designation: absorption
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en communication par fibre optique
+dateAccepted: 2018-11-17
+id: 45ac8881-7531-5506-b845-e90869798c2d
+status: valid

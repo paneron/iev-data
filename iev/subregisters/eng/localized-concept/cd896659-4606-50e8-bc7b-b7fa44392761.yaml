@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'at a given point on a line element of quasi-infinitesimal length `s`,
+    scalar quantity equal to the total electric charge `Q` on the line element divided
+    by the length `s`: `tau = (Q)/(s)`'
+  examples: []
+  id: 121-11-09
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lineic (electric) charge
+    normative_status: preferred
+    type: expression
+  - designation: linear (electric) charge density
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: cd896659-4606-50e8-bc7b-b7fa44392761
+status: valid

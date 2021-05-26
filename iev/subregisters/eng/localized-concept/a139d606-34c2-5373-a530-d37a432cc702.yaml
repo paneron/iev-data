@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: at a given point of a given oriented curve, differential of the abscissa
+    of the point
+  examples: []
+  id: 102-05-01
+  language_code: eng
+  notes:
+  - For a curve defined by the position vector *`r`* as a function of a parameter
+    `u`, the scalar line element is given by `| ((d r))/((d u)) | d u`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar line element
+    normative_status: preferred
+    type: expression
+  - designation: d`s`
+    international: true
+    type: symbol
+dateAccepted: 2008-08-01
+id: a139d606-34c2-5373-a530-d37a432cc702
+status: valid

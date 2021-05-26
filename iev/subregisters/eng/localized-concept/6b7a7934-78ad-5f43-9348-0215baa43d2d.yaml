@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: SI unit of luminous flux
+  examples: []
+  id: 845-21-084
+  language_code: eng
+  notes:
+  - 1 lm is equal to the luminous flux of a beam of <a href="IEV845-21-014">monochromatic
+    radiation</a> whose {{frequency, IEV:103-06-02}} is 540 × 10^12^ Hz and whose
+    radiant flux is 1/683 W.
+  - According to the 9^th^ General Conference of Weights and Measures (1948), the
+    lumen is defined as the luminous flux emitted in unit solid angle (steradian)
+    by a <a href="IEV845-21-098">uniform point source</a> having a luminous intensity
+    of 1 cd.
+  - This entry was numbered 845-01-51 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lumen
+    normative_status: preferred
+    type: expression
+  - designation: lm
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 6b7a7934-78ad-5f43-9348-0215baa43d2d
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 characterizing heat conduction, defined by `F
+    o = ((lambda t))/((c_p rho l^2)) = ((alpha t))/((l^2))`, where `λ` is thermal
+    conductivity, `t` is duration, `c`~`p`~ is specific heat capacity at constant
+    pressure, `ρ` is mass density, `l` is a specified length, and `α` is thermal diffusivity
+  examples: []
+  id: 113-04-56
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Fourier number
+    normative_status: preferred
+    type: expression
+  - designation: '`Fo`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 9dedacb5-b2fa-510b-850c-8b40d4c70729
+status: valid

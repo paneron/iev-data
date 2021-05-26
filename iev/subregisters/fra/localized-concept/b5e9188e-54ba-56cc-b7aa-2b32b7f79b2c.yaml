@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: lieu géométrique des points d'une surface sur laquelle l'éclairement
+    a la même valeur
+  examples: []
+  id: 845-29-078
+  language_code: fra
+  notes:
+  - Les termes anglais "isolux curve" et "isolux line", et le terme français "courbe
+    isolux" ne sont plus usités.
+  - Cet article était numéroté 845-09-57 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courbe isoéclairement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: courbe isolux
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b5e9188e-54ba-56cc-b7aa-2b32b7f79b2c
+status: valid

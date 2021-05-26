@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: maximum voltage (peak AC or DC) that can appear at the intrinsically
+    safe connection facilities of the apparatus at any applied voltage up to the maximum
+    voltage
+  examples: []
+  id: 426-11-24
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum output voltage
+    normative_status: preferred
+    type: expression
+  - designation: '`U`~o~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: caf5cd0e-dbcb-5310-b2cc-343564919672
+status: valid

@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.28
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.5.28, modifié – Dans la définition, "pulvérisation"
+        remplacé par "pulvérisation sous vide" en conformité avec l'IEV 521-03-17
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: Dans la définition, "pulvérisation" remplacé par "pulvérisation
+          sous vide" en conformité avec l'IEV 521-03-17
+        type: modified
+  classification: Preferred
+  definition: technique qui combine la gravure avec des gaz corrosifs et la {{pulvérisation
+    sous vide, IEV:521-03-17}} avec des ions
+  examples: []
+  id: 523-05-12
+  language_code: fra
+  notes:
+  - Avec la gravure ionique réactive, le matériau est enlevé de manière sélective
+    dans le sens vertical sous le masque, tant par réaction chimique que par bombardement
+    physique (pulvérisation) avec des ions et des radicaux produits dans un plasma.
+    À la différence de la gravure anisotrope, dans laquelle le sens d’érosion dépend
+    de l’orientation cristallographique du matériau, dans la gravure ionique réactive
+    le sens de retrait est déterminé par le sens du flux ionique. La gravure ionique
+    réactive aboutit à moins d’érosion de gravures sous-jacentes, à partir du bord
+    en dessous du masque, par rapport à la gravure humide.
+  - Le terme abrégé "RIE" est dérivé du terme anglais développé correspondant "Reactive
+    Ion Etching".
+  reviewDecisionEvent: published
+  terms:
+  - designation: gravure ionique réactive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RIE
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 29131b43-1961-5e66-9d71-157a6ea797d5
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: voltage that is a periodic function of time with a zero direct component
+    or, by extension, a negligible direct component
+  examples: []
+  id: 131-11-25
+  language_code: eng
+  notes:
+  - For the qualifier AC, see IEC 60050-151, {{151-15-01, IEV:151-15-01}}.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: alternating voltage
+    normative_status: preferred
+    type: expression
+  - designation: alternating tension
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: efa2ff70-0ed2-5b61-8a38-0e9c667c0ddd
+status: valid

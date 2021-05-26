@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: valeur d'une fonction correspondant à un {{maximum local, IEV:103-05-13}}
+  examples: []
+  id: 103-05-14
+  language_code: fra
+  notes:
+  - Une valeur maximale locale de la fonction `f` est notée `f_((m a x))`, `f_m` ou
+    `hat f`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur maximale locale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur maximale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b141a086-91fc-5e30-b984-fd2f940bd4aa
+status: valid

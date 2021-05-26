@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: mode when the {{fuel cell power system, IEV:485-09-01}} is operated
+    at a constant {{output voltage, IEV:485-13-03}}
+  examples: []
+  id: 485-11-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constant voltage operation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 65841d9d-3d64-5367-beb8-e768188d8c60
+status: valid

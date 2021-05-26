@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: time interval of early life during which the instantaneous failure intensity
+    of a repairable item, or the instantaneous failure rate of a non-repairable item,
+    decreases significantly with time
+  examples: []
+  id: 192-02-28
+  language_code: eng
+  notes:
+  - What is considered “significantly” will depend upon the application.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: early life failure period
+    normative_status: preferred
+    type: expression
+  - designation: infant mortality period
+    type: expression
+dateAccepted: 2015-02-01
+id: 74661f9f-c056-56fa-977a-58f33c01c58e
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble des moyens nécessaires pour assurer la {{transmission, IEV:701-01-03}}
+    de {{signaux, IEV:101-12-02}} dans un seul sens entre deux points
+  examples: []
+  id: 701-02-01
+  language_code: fra
+  notes:
+  - Plusieurs voies de transmission peuvent partager un support commun; par exemple,
+    une {{bande de fréquences, IEV:103-09-01}} particulière ou bien un {{créneau temporal,
+    IEV:704-13-08}} particulier est réservé à chaque voie de transmission.
+  - L'adjectif "de transmission" peut être remplacé par un adjectif indiquant la nature
+    des signaux transmis, par la {{largeur de bande de fréquences, IEV:702-01-03}}
+    ou le {{débit numérique, IEV:702-05-23}}; par exemple, voie téléphonique, {{voie
+    télégraphique, IEV:721-11-01}}, {{voie de données, IEV:714-12-01}}, voie de 10
+    MHz, voie à 34 Mbit/s.
+  reviewDecisionEvent: published
+  terms:
+  - designation: voie de transmission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e62cef6f-b8c6-5133-871a-3067cb194581
+status: valid

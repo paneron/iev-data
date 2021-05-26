@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: for a substance within a domain, vector quantity equal to the vector
+    sum of the magnetic area moments of all elementary magnetic dipoles included in
+    the domain
+  examples: []
+  id: 121-11-50
+  language_code: eng
+  notes:
+  - 'The magnetic area moment of an element of substance within a domain V is the
+    volume integral of the magnetization `*M*`:
+
+
+    `m = underset(V)( int ) M d V`'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic area moment (2)
+    normative_status: preferred
+    type: expression
+  - designation: '`*m*`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 807597c4-fd0f-5a65-b238-fcd88a30fc5b
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: disposition de données conformément à des règles spécifiées
+  examples: []
+  id: 171-02-44
+  language_code: fra
+  notes:
+  - Contrairement à une {{séquence, IEV:171-02-45}}, un rangement n'est pas nécessairement
+    linéaire, par exemple, le rangement de données agencées hiérarchiquement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rangement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: classement
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e969fc70-e2e4-553e-8b9a-fc78f956135d
+status: valid

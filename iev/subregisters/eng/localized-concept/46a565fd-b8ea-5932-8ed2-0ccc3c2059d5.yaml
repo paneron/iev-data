@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: electric circuit element having `n` terminals with `n` generally greater
+    than two
+  examples: []
+  id: 131-11-13
+  language_code: eng
+  notes:
+  - 'For an `n`-terminal circuit element:
+
+
+    1) the algebraic sum of the electric currents into the element through the terminals
+    is zero at any instant;
+
+
+    2) there are `n` – 1 independent relations between integral quantities.'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`n`-terminal circuit element'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 46a565fd-b8ea-5932-8ed2-0ccc3c2059d5
+status: valid

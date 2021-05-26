@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: dispositif destiné à transformer une représentation d'{{informations,
+    IEV:701-01-01}} selon un certain {{code, IEV:101-12-04}} en une représentation
+    des mêmes informations selon un autre code
+  examples: []
+  id: 314-02-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: transcodeur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: convertisseur de code
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ac3a688-0fc9-570d-856d-fd360a5e566c
+status: valid

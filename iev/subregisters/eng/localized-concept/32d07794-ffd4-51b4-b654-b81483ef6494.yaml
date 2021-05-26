@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: temperature at the p-n junction
+  examples: []
+  id: 845-27-068
+  language_code: eng
+  notes:
+  - Junction temperature is expressed in degree Celsius (°C).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: junction temperature
+    normative_status: preferred
+    type: expression
+  - designation: '`t`~j~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 32d07794-ffd4-51b4-b654-b81483ef6494
+status: valid

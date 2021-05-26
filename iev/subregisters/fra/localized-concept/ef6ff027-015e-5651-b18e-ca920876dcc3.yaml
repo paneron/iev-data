@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.9.4
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.9.4, modifié – "valeur" a été remplacé par "valeur
+        assignée" dans la définition.
+      ref: IEC 60664-1:2007
+      relationship:
+        modification: '"valeur" a été remplacé par "valeur assignée" dans la définition.'
+        type: modified
+  definition: '{{valeur assignée, IEV:151-16-08}} de la tension de tenue aux surtensions
+    temporaires fixée par le fabricant aux matériels ou à une partie d''entre eux,
+    caractérisant la capacité de tenue spécifiée pour de courtes durées de son isolation
+    contre les tensions en AC'
+  examples: []
+  id: 442-09-14
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: surtension temporaire assignée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ef6ff027-015e-5651-b18e-ca920876dcc3
+status: valid

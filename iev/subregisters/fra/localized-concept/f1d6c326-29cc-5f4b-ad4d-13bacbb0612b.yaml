@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 686 MOD
+      ref: ITU-R Recommendation 686
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: échelle de temps qui constitue la base d'une diffusion radioélectrique
+    coordonnée des fréquences étalon et des signaux horaires, qui a la même marche
+    que le temps atomique international, mais qui en diffère d'un nombre entier de
+    secondes
+  examples: []
+  id: 713-05-20
+  language_code: fra
+  notes:
+  - Le temps universel coordonné est établi par le Bureau international des poids
+    et mesures (BIPM) et le Service international de la rotation de la Terre (IERS).
+  - On ajuste l'échelle UTC par insertion ou omission de secondes dites secondes intercalaires
+    positives ou négatives pour assurer sa concordance approximative avec l'échelle
+    UT1.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps universel coordonné
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: UTC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: f1d6c326-29cc-5f4b-ad4d-13bacbb0612b
+status: valid

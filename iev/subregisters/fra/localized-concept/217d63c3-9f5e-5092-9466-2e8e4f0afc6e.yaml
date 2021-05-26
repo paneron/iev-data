@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: essai des performances d'une {{cellule élémentaire à combustible, IEV:485-08-01}}
+    à partir d'une {{pile à combustible, IEV:485-06-01}}
+  examples: []
+  id: 485-22-06
+  language_code: fra
+  notes:
+  - L'essai d'une pile implique des variables qui peuvent être liées aux cellules
+    individuelles (température, tension) ou à l'ensemble de la pile (telles que la
+    température, la {{courant surfacique, IEV:485-12-01}}, les débits de combustible
+    et d'oxydant, etc.) à ajuster pour obtenir des données sur une gamme étendue de
+    conditions. Le résultat de l'essai d'une pile peut être une {{courbe de polarisation,
+    IEV:485-15-06}}, une représentation de la stabilité en tension des {{cellules
+    élémentaires, IEV:485-05-02}}, ou d'autres données relatives aux performances
+    de la cellule élémentaire à combustible.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai d'une pile
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 217d63c3-9f5e-5092-9466-2e8e4f0afc6e
+status: valid

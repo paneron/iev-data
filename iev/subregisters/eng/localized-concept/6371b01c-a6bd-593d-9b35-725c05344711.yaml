@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: event wherein all loads in one or more parts of the control area are
+    shed, and further generation tripping and system divisions can occur
+  examples: []
+  id: 692-01-17
+  language_code: eng
+  notes:
+  - The causes of such an event can include component failures, system instability,
+    severe {{system disturbance, IEV:692-01-10}}, cascading component outages, system
+    voltage collapse, and combinations thereof.
+  - System collapse can be the cause of system {{blackout, IEV:692-01-18}}.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: system collapse
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: 6371b01c-a6bd-593d-9b35-725c05344711
+status: valid

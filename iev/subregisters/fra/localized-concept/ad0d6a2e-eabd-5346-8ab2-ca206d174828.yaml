@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: argument de la fonction cosinus dans la représentation d'une grandeur
+    sinusoïdale
+  examples: []
+  id: 103-07-04
+  language_code: fra
+  notes:
+  - Le terme «phase instantanée» n'est employé que lorsque la variable indépendante
+    est le temps.
+  - Pour la grandeur `a ( t ) = hat A cos ( omega t + vartheta_0 )`, la phase est
+    `omega t + vartheta_0`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: phase instantanée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ad0d6a2e-eabd-5346-8ab2-ca206d174828
+status: valid

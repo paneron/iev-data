@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: external magnetic field strength corresponding to the superconducting
+    condensation energy at zero external magnetic field strength and zero current
+    density
+  examples: []
+  id: 815-10-21
+  language_code: eng
+  notes:
+  - '`H`~c~ is a function of temperature.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical field strength
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 5eea4391-3a07-5600-a87f-784ddabf54cf
+status: valid

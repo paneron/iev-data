@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1983-01-01
+  definition: 'probabilité par unité de temps pour que le noyau d''un radionucléide
+    se désintègre spontanément. Elle est donnée par: `lambda = - (1)/(N) * ((d N))/((d
+    t))` où `N` est le nombre de noyaux existant à l''instant `t`'
+  examples: []
+  id: 881-04-41
+  language_code: fra
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de désintégration
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante radioactive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 46ea73ce-7e40-5196-9d7d-da1fd02908d2
+status: valid

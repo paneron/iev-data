@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.10
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.10
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: dispositif de coupure différentiel non conçu pour réaliser les fonctions
+    de protection contre les surcharges et/ou les courts-circuits
+  examples: []
+  id: 442-05-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: interrupteur différentiel sans protection incorporée contre les surintensités
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ID
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8b737c3d-801b-5a20-9ea8-348ccdcc0685
+status: valid

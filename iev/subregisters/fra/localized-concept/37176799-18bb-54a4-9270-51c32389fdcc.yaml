@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir {{IEV 701-03-19, IEV:701-03-19}}
+  examples: []
+  id: 704-01-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: bilatéral
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: bidirectionnel
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: duplex
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 37176799-18bb-54a4-9270-51c32389fdcc
+status: valid

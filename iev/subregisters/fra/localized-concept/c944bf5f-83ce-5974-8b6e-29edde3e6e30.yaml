@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.29
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.29, modifié
+      ref: IEC 62280:2014
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: fonction de tout le message sans clé secrète
+  examples: []
+  id: 821-11-27
+  language_code: fra
+  notes:
+  - Par opposition au code d’authentification de message, aucune clé secrète n’est
+    impliquée. Par "tout le message", on comprend également toute donnée implicite
+    du message qui n’est pas envoyé au système de transmission. Le code de détection
+    de manipulation est souvent basé sur une fonction de brouillage.
+  reviewDecisionEvent: published
+  terms:
+  - designation: code de détection de manipulation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MDC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c944bf5f-83ce-5974-8b6e-29edde3e6e30
+status: valid

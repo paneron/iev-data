@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: dimensionless measure of the degree of mismatch between two impedances
+    `Z`~a~ and `Z`~b~ given by the expression `| ((Z_a - Z_b))/((Z_a + Z_b)) |` where
+    `Z`~a~ and `Z`~b~ represent respectively the input and source impedance or the
+    output and load impedance
+  examples: []
+  id: 561-02-50
+  language_code: eng
+  notes:
+  - This entry was numbered 561-03-23 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reflection coefficient
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 15a58162-1018-5739-8b40-d3aa8dd3a840
+status: valid

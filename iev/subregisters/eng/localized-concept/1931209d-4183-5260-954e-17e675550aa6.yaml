@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: for a magnetic circuit constructed of different materials or non-homogeneous
+    materials or both, the permeability of a hypothetical homogeneous material which,
+    when used to construct a circuit of identical dimensions, would provide the same
+    reluctance
+  examples: []
+  id: 221-03-17
+  language_code: eng
+  notes:
+  - 'Where the different materials are in series along the magnetic path and the permeability
+    can be assumed constant over any cross-section, the following equation is applicable:
+
+
+    `(1)/((mu_e)) sum (l)/(A) = sum (l)/((mu_r A))`
+
+
+    where `l` is the length, measured along the magnetic path, of each part of the
+    core of uniform cross-section `A` and homogeneous permeability `µ`~r~.'
+  - The effective permeability is used particularly in relation to cores having (air)
+    gaps and it is usually restricted to cases where the leakage flux is relatively
+    small.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`µ`~e~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 1931209d-4183-5260-954e-17e675550aa6
+status: valid

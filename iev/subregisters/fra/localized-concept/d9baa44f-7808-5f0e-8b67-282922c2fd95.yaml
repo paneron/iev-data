@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: valeur conventionnelle de la puissance apparente, destinée à servir
+    de base à la conception du transformateur, de la bobine d'inductance shunt ou
+    de la bobine d'extinction d'arc, aux garanties du constructeur et aux essais,
+    en déterminant une valeur de courant assigné admissible lorsque la tension assignée
+    est appliquée, dans des conditions spécifiées
+  examples: []
+  id: 421-04-04
+  language_code: fra
+  notes:
+  - Les deux enroulements d'un transformateur à deux enroulements ont la même puissance
+    assignée, qui est par définition la puissance assignée du transformateur. Dans
+    le cas de transformateurs à plus de deux enroulements, la puissance assignée de
+    chacun des enroulements peut être différente.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance assignée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: d9baa44f-7808-5f0e-8b67-282922c2fd95
+status: valid

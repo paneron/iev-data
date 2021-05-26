@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: couple d'entiers `m` et `n` où `m` est le nombre de lignes et `n` le
+    nombre de colonnes d'une matrice donnée
+  examples: []
+  id: 102-06-02
+  language_code: fra
+  notes:
+  - Une matrice *`A`* de `m` lignes et `n` colonnes est notée *`A`*~`m` × `n`~ et
+    désignée comme «matrice de format `m` × `n`», en abrégé «matrice `m` × `n`», que
+    l'on lit «matrice `m` fois `n`».
+  reviewDecisionEvent: published
+  terms:
+  - designation: format
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une matrice
+dateAccepted: 2018-11-17
+id: 4f1cebce-e8f5-5115-ac96-fc99ef1d210a
+status: valid

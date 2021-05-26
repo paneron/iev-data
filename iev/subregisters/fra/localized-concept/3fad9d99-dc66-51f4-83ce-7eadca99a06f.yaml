@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble de composants qui assure la sécurité intrinsèque d'un circuit
+    au moyen de composants shunt
+  examples: []
+  id: 426-11-50
+  language_code: fra
+  notes:
+  - Le composant shunt peut être une résistance ou un semiconducteur qui dévie le
+    courant de manière sécurisée ou qui limite la tension dans un circuit de sécurité
+    intrinsèque ou la tension aux bornes d'un composant de stockage d'énergie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: assemblage shunt de sécurité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3fad9d99-dc66-51f4-83ce-7eadca99a06f
+status: valid

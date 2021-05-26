@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.55
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.55, modifié
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: modified
+  definition: somme de contrôle ajoutée à la fin d'une trame dans un protocole de
+    communications pour la détection d'erreur
+  examples: []
+  id: 811-37-41
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: code de detection d’erreurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c0fa8f7b-9d2d-584c-80f5-c695d3c3a4e3
+status: valid

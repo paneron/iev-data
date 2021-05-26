@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/172
+      original: see IEC 60050-131, IEC 61293, IEC 60417 item 5031
+      ref: IEC 60050-131
+      relationship:
+        type: related
+  dateAmended: 2001-07-01
+  definition: pertaining to time-independent electric quantities such as voltage or
+    current, to devices operated with direct voltage and current, or to quantities
+    associated with these devices
+  examples: []
+  id: 151-15-02
+  language_code: eng
+  notes:
+  - The notation "DC" is preferred in English to the notation "d.c." which is an abbreviation
+    of "direct current".
+  - French language uses also the expression "courant continu" with an appropriate
+    preposition such as "en", "de", "à" or "pour", or only the adjective "continu".
+  - 'For the marking of electric equipment, either the notation DC or the appropriate
+    graphical symbol may be used. Example: DC 500 V.'
+  - 'According to ISO 31-0 and IEC 60027-1, unit names and unit symbols shall not
+    be qualified by "DC" as an attachment. Example: `U`~DC~ = 500 V is correct, `U`
+    = 500 V~DC~ or `U` = 500 V DC are incorrect.'
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: DC
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 35c3112f-f54e-5ef9-8336-0553ed96d6d4
+status: valid

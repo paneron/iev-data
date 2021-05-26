@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: an error control method where received data are automatically retransmitted
+    from the receiving end to the transmitting end and compared with the initial data
+    stored at the transmitter
+  examples: []
+  id: 721-08-18
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loop checking
+    normative_status: preferred
+    type: expression
+  - designation: automatic collating
+    type: expression
+dateAccepted: 1991-11-01
+id: c587a2ad-89cf-5e9e-bceb-2196af44b76f
+status: valid

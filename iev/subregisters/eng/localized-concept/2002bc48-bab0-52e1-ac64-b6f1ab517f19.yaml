@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 151-01-07
+      original: 151-01-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-04-01
+      original: 826-04-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: part of the Earth considered as conductive, the electric potential of
+    which is conventionally taken as zero, being outside the zone of influence of
+    any earthing arrangement
+  examples: []
+  id: 195-01-01
+  language_code: eng
+  notes:
+  - The concept "Earth" means the planet and all its physical matter.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference earth
+    normative_status: preferred
+    type: expression
+  - designation: reference ground
+    type: expression
+dateAccepted: 1998-08-01
+id: 2002bc48-bab0-52e1-ac64-b6f1ab517f19
+status: valid

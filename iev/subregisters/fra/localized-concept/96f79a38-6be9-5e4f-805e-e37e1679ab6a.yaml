@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 13-26
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-26, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{ entropie, IEV:171-07-15}} d''un jeu d''événements lorsqu''ils sont
+    équiprobables, c.-à-d. `p`(`x`~`i`~) = 1/`n` pour `i` = 1, …, `n`'
+  examples: []
+  id: 171-07-16
+  language_code: fra
+  notes:
+  - Lorsqu’on emploie la même base entière pour le même nombre d’événements, l’entropie
+    maximale est égale à la {{quantité de décision, IEV:171-07-10}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: entropie maximale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 96f79a38-6be9-5e4f-805e-e37e1679ab6a
+status: valid

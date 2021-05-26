@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the quotient of d`D` by d`t`, where d`D` is the increment of absorbed
+    dose in time interval d`D` `overset(˙)(D) = ((d D))/((d t))`
+  examples: []
+  id: 881-12-07
+  language_code: eng
+  notes:
+  - "The SI unit of absorbed dose rate is joule per kilogram and second, whose special\
+    \ name is gray per second. The earlier special unit of absorbed dose rate, still\
+    \ in temporary\r\nuse, was the rad per second.\n\n1 Gy • s = 100 rad • s^−1^ =\
+    \ 1 J kg ^−1^ • s^−1^"
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absorbed dose rate
+    normative_status: preferred
+    type: expression
+  - designation: '`overset(˙)(D)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: c1d1018e-4167-56df-9dd6-19c7c5653c24
+status: valid

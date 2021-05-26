@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: intervalle de temps nécessaire pour que le front arrière d'une forme
+    d'onde passe d'un niveau défini à un autre les niveaux logiques `V`~OH~ et `V`~OL~
+    [étant de 10 % à 90 %, respectivement, de l'amplitude maximale (égale à `V`~HI~
+    – `V`~LO~)], ou de tout autre rapport comme défini dans la spécification détaillée
+    où `V`~OL~ est la tension de sortie de niveau inférieur `V`~OH~ est la tension
+    de sortie de niveau supérieur `V`~HI~ est la tension plane supérieure de la forme
+    d'onde d'impulsion `V`~LO~ est la tension plane inférieure de la forme d'onde
+    d'impulsion image::/assets/images/parts/561/561-fig17-fr.png[] *Figure 17 – Caractéristiques
+    d'une forme d'onde de sortie*
+  examples: []
+  id: 561-03-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de déclin
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps de descente
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bc88f19c-4c3b-5a17-b6ff-161cf3d336b4
+status: valid

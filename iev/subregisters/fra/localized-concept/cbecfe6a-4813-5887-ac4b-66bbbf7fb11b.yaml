@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: impédance d'onde pour une onde progressive dans un milieu donné.
+  examples: []
+  id: 705-03-23
+  language_code: fra
+  notes:
+  - 'L''impédance intrinsèque d''un milieu homogène et isotrope est:
+
+
+    `Z_i = sqrt(((mu_0 (underset(_)(mu))_r))/((epsilon_0 (underset(_)(epsilon))_r)))`
+
+
+    où
+
+
+    `μ`~0~ est la constante magnétique,
+
+
+    `μ`~r~ est la perméabilité relative complexe,
+
+
+    `ε`~0~ est la constante électrique,
+
+
+    `ε`~r~ est la permittivité relative complexe'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance intrinsèque
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: impédance caractéristique d'un milieu
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: cbecfe6a-4813-5887-ac4b-66bbbf7fb11b
+status: valid

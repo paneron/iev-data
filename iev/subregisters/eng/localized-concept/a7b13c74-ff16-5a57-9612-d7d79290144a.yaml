@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: having a resistivity or resistance that is higher than the dissipative
+    range
+  examples: []
+  id: 426-25-03
+  language_code: eng
+  notes:
+  - Insulating materials or objects are neither conductive nor dissipative. Electrostatic
+    charges can accumulate on them and do not readily dissipate even when they are
+    in contact with the earth.
+  - 'Boundary limits for the insulating range are given for solid materials, enclosures,
+    some objects and for bulk materials are given in IEC TS 60079-32-1, _Explosive
+    atmospheres – Part 32-1: Electrostatic hazards, guidance_. For certain items,
+    special definitions are maintained in other standards.'
+  - Product standards and other standards covering electrostatic properties often
+    include specific definitions of "insulating" which apply only to items covered
+    by those standards and can be different to the definitions given here. See e.g.
+    ISO 8031, _Rubber and plastics hoses and hose assemblies – Determination of electrical
+    resistance and conductivity_, and ISO 8330, _Rubber and plastics hoses and hose
+    assemblies – Vocabulary_, for hose and hose assemblies.
+  - The adjective "non-conductive" has often been used as a synonym for insulating.
+    It should be avoided as it could be taken to mean either "insulating" or "insulating
+    or dissipative" and this can lead to confusion.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: insulating
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2020-03-01
+id: a7b13c74-ff16-5a57-9612-d7d79290144a
+status: valid

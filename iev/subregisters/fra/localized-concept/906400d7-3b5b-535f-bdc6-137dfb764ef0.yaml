@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: principe tel que, si la variable d'entrée est décalée dans le temps,
+    la réponse temporelle reste inchangée, sauf qu'elle est décalée du même intervalle
+    de temps
+  examples: []
+  id: 351-45-02
+  language_code: fra
+  notes:
+  - Le principe de décalage implique que l’ensemble des équations qui décrit le système
+    et leurs coefficients soient invariants dans le temps.
+  - Cet article était numéroté 351-24-02 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: principe de décalage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 906400d7-3b5b-535f-bdc6-137dfb764ef0
+status: valid

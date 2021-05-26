@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: resistance expressed in ohms between an electrode in contact with the
+    surface to be measured and the earth
+  examples: []
+  id: 426-25-05
+  language_code: eng
+  notes:
+  - The resistance depends upon the volume and/or surface resistivity of the materials
+    and the distance between the chosen point of measurement and the earth.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: leakage resistance
+    normative_status: preferred
+    type: expression
+  - designation: resistance to earth
+    type: expression
+dateAccepted: 2020-03-01
+id: 6a31058f-88c1-5ef7-8be1-00903ec0827d
+status: valid

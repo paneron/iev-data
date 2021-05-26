@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: definition 201
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 201, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+    - original: IAEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: total radiation dose incurred by a population
+  examples: []
+  id: 395-06-08
+  language_code: eng
+  notes:
+  - The value of this quantity is equal to the product of the number of individuals
+    exposed to a radiation source and their average radiation dose.
+  - The collective dose is expressed in man-sieverts (man-Sv).
+  - This entry was numbered 393-19-08 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: collective dose
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: f40158de-644a-5deb-9b4a-574e7ac5dcb0
+status: valid

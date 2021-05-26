@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the velocity vector at a point, in a propagation medium, of a signal
+    which may be ideally represented by two superimposed sinusoidal waves of equal
+    amplitude and slightly different frequencies approaching a common limiting value
+  examples: []
+  id: 702-02-22
+  language_code: eng
+  notes:
+  - 'In the most general case the reciprocal of the magnitude `| vec v_g |` of the
+    group velocity vector is equal to the derivative of the reciprocal of the wavelength
+    `λ` with respect to the frequency `f`:
+
+
+    `(1)/((| vec v_g |)) = ((d ( lambda^(- 1) )))/((d f))`'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group velocity
+    normative_status: preferred
+    type: expression
+  - designation: '`| vec v_g |`'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: e0a8cef7-aced-5ef4-b2eb-77eb62486e37
+status: valid

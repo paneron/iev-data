@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: non-SI unit for conventional retinal illuminance and natural pupil luminance
+  examples: []
+  id: 845-22-038
+  language_code: eng
+  notes:
+  - When the eye is viewing a surface of uniform luminance, the numerical value of
+    the conventional retinal illuminance or the natural pupil luminance, expressed
+    in troland, is equal to the product of the area in square millimetres of the limiting
+    pupil, natural or artificial, by the luminance of the surface in candela per square
+    metre.
+  - This entry was numbered 845-02-16 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: troland
+    normative_status: preferred
+    type: expression
+  - designation: Td
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: eb7414c3-3110-5bb0-b98d-608673784278
+status: valid

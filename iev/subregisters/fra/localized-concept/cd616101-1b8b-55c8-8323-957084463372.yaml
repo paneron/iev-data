@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{caractère, IEV:702-05-10}} ou groupe de caractères qui identifie
+    une origine ou une destination de données'
+  examples: []
+  id: 171-05-35
+  language_code: fra
+  notes:
+  - Une adresse peut identifier, par exemple, un registre, une partie déterminée d'une
+    mémoire, un autre dispositif, un emplacement de réseau.
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en logiciel
+dateAccepted: 2018-11-17
+id: cd616101-1b8b-55c8-8323-957084463372
+status: valid

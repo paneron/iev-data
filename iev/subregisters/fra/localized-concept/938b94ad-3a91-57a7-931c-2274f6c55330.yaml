@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: diagramme de chromaticité uniforme obtenu en portant en coordonnées
+    rectangulaires les grandeurs `u`' et `v`' définies par les équations:<ul style="list-style-type:none;">*
+    `u`′ = 4 `X` / (`X` + 15`Y` + 3`Z`) = 4`x` / (−2`x` + 12`y` + 3) * `v`′ = 9 `Y`
+    / (`X` + 15`Y` + 3`Z`) = 9`y` / (−2`x` +12`y` + 3) où `X`, `Y`, `Z` sont les <a
+    href="IEV845-23-038">composantes trichromatiques</a> dans les systèmes de référence
+    colorimétriques CIE 1931 ou 1964, et `x`, `y` les coordonnées trichromatiques
+    correspondantes du stimulus de couleur pris en considération
+  examples: []
+  id: 845-23-073
+  language_code: fra
+  notes:
+  - 'Le diagramme de chromaticité uniforme CIE 1976 modifie et remplace le diagramme
+    de chromaticité uniforme CIE 1960 dans lequel les grandeurs `v` et `u` étaient
+    portées en coordonnées rectangulaires. Les relations entre les deux paires de
+    coordonnées sont les suivantes: `u`′ = `u`; `v`′ = 1,5 `v`.'
+  - Cet article était numéroté 845-03-53 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: diagramme de chromaticité uniforme CIE 1976
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 938b94ad-3a91-57a7-931c-2274f6c55330
+status: valid

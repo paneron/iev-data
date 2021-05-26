@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: radar à visée latérale dans lequel la résolution géométrique sur l'axe
+    parallèle à la route du véhicule est améliorée par un traitement spécial des signaux
+    rétrodiffusés
+  examples: []
+  id: 713-04-21
+  language_code: fra
+  notes:
+  - Le traitement des signaux consiste essentiellement à superposer les échos successifs
+    d'un même point identifié par effet Doppler.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radar à synthèse d'ouverture
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: radar à antenne synthétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RSO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RAAS
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 332ac83e-0f2c-54ac-a45f-3b6d6b608fcb
+status: valid

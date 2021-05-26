@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.01
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.01
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  definition: suite ordonnée de {{caractères, IEV:702-05-10}} destinée à communiquer
+    des {{informations, IEV:171-07-03}}
+  examples: []
+  id: 171-07-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: message
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en théorie de l'information et théorie des communications
+dateAccepted: 2018-11-17
+id: 3fdd58f2-01f2-5681-af6c-2e9b7f02af18
+status: valid

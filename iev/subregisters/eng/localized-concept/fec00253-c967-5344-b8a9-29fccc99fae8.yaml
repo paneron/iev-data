@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: angular distribution of the radiation incident on the sample being measured
+    with respect to the centre of the sampling aperture
+  examples: []
+  id: 845-25-092
+  language_code: eng
+  notes:
+  - The influx geometry and efflux geometry together specify the geometric nature
+    of the measurement for reflectance and transmittance measurements.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: influx geometry
+    normative_status: preferred
+    type: expression
+  - designation: irradiation geometry
+    type: expression
+  - designation: incidence geometry
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-12-01
+id: fec00253-c967-5344-b8a9-29fccc99fae8
+status: valid

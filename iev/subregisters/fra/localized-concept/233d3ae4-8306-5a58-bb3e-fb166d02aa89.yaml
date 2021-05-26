@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: logarithme naturel (népérien) de l'inverse du facteur de transmission
+    interne spectral, `τ`~i~(`λ`) `A`~n~(`λ`) = `B`(`λ`) = − ln `τ`~i~(`λ`)
+  examples: []
+  id: 845-24-091
+  language_code: fra
+  notes:
+  - L'unité d'absorbance spectrale népérienne est un.
+  - Cet article était numéroté 845-04-84 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: absorbance spectrale népérienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une couche homogène non diffusante
+  - designation: densité optique interne spectrale népérienne par transmission
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 233d3ae4-8306-5a58-bb3e-fb166d02aa89
+status: valid

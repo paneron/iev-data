@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: irradiation des matériaux réfléchissants à un angle de 45° par rapport
+    à la perpendiculaire, à partir de toutes les directions d'azimut, simultanément
+  examples: []
+  id: 845-25-096
+  language_code: fra
+  notes:
+  - La mesure des couleurs des échantillons réfléchissants par irradiation en appliquant
+    la géométrie annulaire de degré quarante-cinq permet de réduire le plus possible
+    les effets de texture et de directionnalité. La géométrie annulaire de degré quarante-cinq
+    peut être obtenue en utilisant une petite source et un réflecteur annulaire elliptique
+    ou tout autre élément optique asphérique.
+  - L'utilisation de nombreuses sources placées dans un anneau ou de nombreux faisceaux
+    de fibres éclairés par une source unique et dont l'extrémité est un anneau constitue
+    parfois une méthode proche de la géométrie annulaire de degré quarante-cinq. Cette
+    approche de la géométrie annulaire est appelée "géométrie circonférentielle" de
+    notation "45°c".
+  reviewDecisionEvent: published
+  terms:
+  - designation: géométrie annulaire de degré quarante-cinq
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: géométrie a de degré 45
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6731b049-566a-5df9-9f84-c6d48a704fed
+status: valid

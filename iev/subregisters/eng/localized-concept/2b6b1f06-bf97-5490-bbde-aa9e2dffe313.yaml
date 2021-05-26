@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: '{{modulation, IEV:701-03-08}} by a {{discretely timed signal, IEV:702-04-04}}
+    in which there is a predetermined relationship between the instants characterizing
+    the {{carrier, IEV:702-06-03}} phase prior to modulation and the {{significant
+    instants, IEV:721-02-29}} of the {{modulated signal, IEV:702-06-05}}'
+  examples:
+  - Modulation in which the significant instants  of the modulated signal coincide
+    with zero crossings of the carrier.
+  id: 702-06-45
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coherent modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 2b6b1f06-bf97-5490-bbde-aa9e2dffe313
+status: valid

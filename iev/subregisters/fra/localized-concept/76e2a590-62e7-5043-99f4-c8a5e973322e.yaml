@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-15
+      original: 702-02-15
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: partie imaginaire de l'exposant linéique de propagation
+  examples: []
+  id: 731-03-43
+  language_code: fra
+  notes:
+  - Le déphasage linéique d'un guide d'onde optique est la limite du quotient de la
+    variation de phase d'une grandeur de champ entre deux points sur l'axe du guide
+    par la distance des deux points, lorsque cette distance tend vers zéro.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: déphasage linéique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 76e2a590-62e7-5043-99f4-c8a5e973322e
+status: valid

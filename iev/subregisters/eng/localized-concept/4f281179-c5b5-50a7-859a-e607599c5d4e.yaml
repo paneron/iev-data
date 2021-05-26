@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 702-06-64
+      original: 702-06-64 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 713-07-20
+      original: 713-07-20 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: transfer of all the spectral components of a signal from one position
+    in the frequency spectrum to another, in such a way that the frequency difference
+    for any two components is preserved as well as their relative amplitude and relative
+    phase
+  examples: []
+  id: 151-13-70
+  language_code: eng
+  notes:
+  - Frequency translation may be accompanied by frequency inversion.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency translation
+    normative_status: preferred
+    type: expression
+  - designation: frequency changing
+    type: expression
+  - designation: frequency conversion
+    type: expression
+dateAccepted: 2001-07-01
+id: 4f281179-c5b5-50a7-859a-e607599c5d4e
+status: valid

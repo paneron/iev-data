@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: indication de l'orientation de la surface et du sens de propagation
+    OAS, séparés par le symbole «-»
+  examples: []
+  id: 561-07-08
+  language_code: fra
+  notes:
+  - La spécification d’une orientation 0º est en général ignorée.
+  - 'Des exemples classiques de descriptions de l’orientation et propagation OAS sont
+    présentés dans le Tableau 1.
+
+
+    *Tableau 1 – Exemples classiques de description de l’orientation et propagation
+    OAS*
+
+
+    image::/assets/images/parts/561/561-tab1-fr.png[]'
+  reviewDecisionEvent: published
+  terms:
+  - designation: description de l’orientation et propagation OAS
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c6889303-b737-5f69-9bb9-d343054ac0d3
+status: valid

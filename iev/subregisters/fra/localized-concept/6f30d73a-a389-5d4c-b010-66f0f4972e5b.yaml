@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tout état du matériel autre que ceux qui ont pour objet la surveillance
+    de la concentration de gaz ou de l'alarme
+  examples: []
+  id: 426-24-61
+  language_code: fra
+  notes:
+  - Les états spéciaux comprennent le préchauffage, les modes d'étalonnage ou les
+    défauts.
+  reviewDecisionEvent: published
+  terms:
+  - designation: état spécial
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: 6f30d73a-a389-5d4c-b010-66f0f4972e5b
+status: valid

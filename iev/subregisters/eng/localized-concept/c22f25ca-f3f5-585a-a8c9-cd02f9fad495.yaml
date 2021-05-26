@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a pulse command which changes the state of operational equipment in
+    predetermined steps
+  examples: []
+  id: 371-03-13
+  language_code: eng
+  notes:
+  - It is usual to have two distinct commands to adjust operational equipment in its
+    two possible directions.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: regulating step command
+    normative_status: preferred
+    type: expression
+  - designation: incremental command
+    type: expression
+  - designation: step-by-step adjusting command
+    type: expression
+dateAccepted: 2021-01-01
+id: c22f25ca-f3f5-585a-a8c9-cd02f9fad495
+status: valid

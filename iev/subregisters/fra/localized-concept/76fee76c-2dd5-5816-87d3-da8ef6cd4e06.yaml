@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{opération booléenne dyadique, IEV:171-03-08}} dont le résultat a
+    la valeur booléenne 1 si et seulement si les {{opérandes, IEV:171-03-04}} ont
+    la même valeur booléenne'
+  examples: []
+  id: 171-03-15
+  language_code: fra
+  notes:
+  - L’équivalence logique des variables `a` et `b` est notée `a` ≡ `b` (U+2261); d’autres
+    notations sont aussi utilisées, comme `a` ↔ `b` (U+2194) et `a` ⇔ `b` (U+21D4).
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivalence logique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 76fee76c-2dd5-5816-87d3-da8ef6cd4e06
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: within a specified period of time, the time during which an item is
+    unavailable to perform as required because of a planned withdrawal from service
+  examples: []
+  id: 692-06-05
+  language_code: eng
+  notes:
+  - See also the related term "scheduled maintenance" ({{IEV 192-06-12, IEV:192-06-12}}).
+  - This entry was numbered 603-05-19 in IEC 60050-603:1986.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scheduled outage duration
+    normative_status: preferred
+    type: expression
+  - designation: planned outage duration
+    type: expression
+dateAccepted: 2017-12-01
+id: 44d5f376-8c8e-5abb-9958-c32b84883a83
+status: valid

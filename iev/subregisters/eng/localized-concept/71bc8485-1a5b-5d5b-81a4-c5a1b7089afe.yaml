@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.38
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.38
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: components used to set up consist networks and train networks
+  examples: []
+  id: 811-37-70
+  language_code: eng
+  notes:
+  - These components can be passive like cables or connectors, active unmanaged like
+    repeaters, media converters or (unmanaged) switches, or managed active like gateways,
+    routers and (managed) switches.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: network device
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 71bc8485-1a5b-5d5b-81a4-c5a1b7089afe
+status: valid

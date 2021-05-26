@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '1.17'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.17 MOD
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: modified
+  dateAmended: 2010-01-01
+  definition: unité de mesure obtenue en multipliant une unité de mesure donnée par
+    un nombre supérieur à un
+  examples: []
+  id: 112-01-24
+  language_code: fra
+  notes:
+  - Le kilomètre (km) est un multiple décimal du mètre (m). L'heure (h) est un multiple
+    non décimal de la seconde (s). L’année de lumière est un multiple non entier du
+    mètre (le VIM ne définit que des multiples entiers).
+  - Les multiples d'une unité sont souvent désignés en ajoutant un préfixe d'unité
+    au nom de l'unité.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiple d'une unité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: ca1be398-b7db-593a-b2b6-c19a328ebfaf
+status: valid

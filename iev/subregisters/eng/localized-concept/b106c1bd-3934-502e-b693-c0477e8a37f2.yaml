@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '5.24'
+      original: ≠ VIM 5.24
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: error of a measuring instrument when used under reference conditions
+  examples: []
+  id: 311-03-08
+  language_code: eng
+  notes:
+  - This term is used in the "true value" approach.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intrinsic error
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: b106c1bd-3934-502e-b693-c0477e8a37f2
+status: valid

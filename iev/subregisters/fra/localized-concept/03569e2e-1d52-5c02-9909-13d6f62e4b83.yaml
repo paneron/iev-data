@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'tarif horaire comportant trois prix différents applicables selon les
+    heures de la journée Par exemple: prix `p`~1~ par kWh la nuit, prix `p`~2~ par
+    kWh pendant une période particulière de la journée, prix `p`~3~ par kWh le reste
+    du temps.'
+  examples: []
+  id: 691-06-03
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif trihoraire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: triple tarif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 03569e2e-1d52-5c02-9909-13d6f62e4b83
+status: valid

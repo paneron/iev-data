@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 3.234 (2)
+      link: https://www.iso.org/standard/50518.html
+      original: ISO/IEC/IEEE 24765:2010, <i>Ingénierie des systèmes et du logiciel
+        – Vocabulaire</i>, 3.234 (2). Cette source n'existe que dans la langue anglaise.
+      ref: ISO/IEC/IEEE 24765:2010
+      relationship:
+        type: identical
+  definition: reprise sur erreur dans laquelle un système, un programme, une base
+    de données ou une autre ressource du système est rétabli dans un état antérieur
+    lui permettant d'accomplir les fonctions requises
+  examples: []
+  id: 192-10-17
+  language_code: fra
+  notes:
+  - La reprise sur erreur par régression est utilisée dans un logiciel d’exploitation.
+  - La reprise sur erreur par régression implique d’enregistrer l’état interne de
+    l’entité à certains stades de son fonctionnement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: reprise sur erreur par régression
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: récupération par régression
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 24d1403b-ae37-5d56-aa7f-e157f24b1909
+status: valid

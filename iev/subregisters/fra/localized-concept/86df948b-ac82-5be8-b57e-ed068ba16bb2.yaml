@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension égale au rapport de l'augmentation de longueur
+    Δ`l` à la longueur `l`~0~ dans un état de référence spécifié, soit `ε` = Δ`l`
+    / `l`~o~
+  examples: []
+  id: 113-03-58
+  language_code: fra
+  notes:
+  - En français, le terme allongement est utilisé lorsque l’augmentation de longueur
+    est due à une force extérieure et le terme dilatation dans le cas d’une variation
+    de température.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: allongement linéique relatif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: dilatation linéique relative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 86df948b-ac82-5be8-b57e-ed068ba16bb2
+status: valid

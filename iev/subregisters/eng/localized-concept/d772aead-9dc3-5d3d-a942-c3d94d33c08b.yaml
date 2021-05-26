@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 881-03-30
+      original: 881-03-30
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 881-03-29
+      original: 881-03-29
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1983-01-01
+  definition: the thickness of a specified material that reduces the exposure rate
+    to 10 per cent
+  examples: []
+  id: 881-04-35
+  language_code: eng
+  notes:
+  - The TVL will depend on whether the measurement has been made under broad or narrow
+    beam conditions.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tenth-value layer
+    normative_status: preferred
+    type: expression
+  - designation: tenth-value thickness
+    type: expression
+dateAccepted: 1983-01-01
+id: d772aead-9dc3-5d3d-a942-c3d94d33c08b
+status: valid

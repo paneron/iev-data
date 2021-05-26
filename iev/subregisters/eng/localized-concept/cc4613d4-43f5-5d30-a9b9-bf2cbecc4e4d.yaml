@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{list, IEV:171-02-32}} that is constructed and maintained so that
+    the next item to be retrieved is the one inserted earliest'
+  examples: []
+  id: 171-02-33
+  language_code: eng
+  notes:
+  - This method is characterized as "first-in-first-out" (FIFO).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: queue
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: cc4613d4-43f5-5d30-a9b9-bf2cbecc4e4d
+status: valid

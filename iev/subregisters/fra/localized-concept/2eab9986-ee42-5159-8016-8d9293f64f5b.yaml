@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: montant total facturé pour la puissance, en application des conditions
+    particulières de l'abonnement
+  examples: []
+  id: 691-03-05
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: prime fixe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: prime de puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taxe fixe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 2eab9986-ee42-5159-8016-8d9293f64f5b
+status: valid

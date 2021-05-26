@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: probability that an item is not in a state to perform as required at
+    a given instant
+  examples: []
+  id: 192-08-04
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous unavailability
+    normative_status: preferred
+    type: expression
+  - designation: '`U`(`t`)'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: 5fbd8b2e-fe78-58ab-9bb7-997d4f49b788
+status: valid

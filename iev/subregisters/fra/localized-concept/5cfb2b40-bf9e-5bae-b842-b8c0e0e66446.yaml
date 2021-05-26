@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/7005
+      original: IEC 62430:2009, définition  3.1
+      ref: IEC 62430:2009
+      relationship:
+        type: identical
+  definition: activités qui utilisent une idée ou une {{exigence, IEV:901-05-05}}
+    et la transforment en un produit
+  examples: []
+  id: 904-01-12
+  language_code: fra
+  notes:
+  - Le {{processus, IEV:904-01-05}} de conception et de développement suit généralement
+    une série d’étapes définies qui commencent avec une idée de départ et transforment
+    celle-ci en une spécification formalisée débouchant sur la création d’un prototype
+    de travail et sur la documentation nécessaire pour permettre la production des
+    biens ou la fourniture du service.
+  reviewDecisionEvent: published
+  terms:
+  - designation: conception et développement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5cfb2b40-bf9e-5bae-b842-b8c0e0e66446
+status: valid

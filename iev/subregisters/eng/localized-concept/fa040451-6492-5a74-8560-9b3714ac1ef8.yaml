@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the recovery voltage during the time in which it has a significant transient
+    character
+  examples: []
+  id: 441-17-26
+  language_code: eng
+  notes:
+  - The transient recovery voltage may be oscillatory or non-oscillatory or a combination
+    of these depending on the characteristics of the circuit and the switching device.
+    It includes the voltage shift of the neutral of a polyphase circuit.
+  - The transient recovery voltages in three-phase circuits is, unless otherwise stated,
+    that across the first pole to clear, because this voltage is generally higher
+    than that which appears across each of the other two poles.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transient recovery voltage
+    normative_status: preferred
+    type: expression
+  - designation: T.R.V.
+    type: expression
+dateAccepted: 2021-01-01
+id: fa040451-6492-5a74-8560-9b3714ac1ef8
+status: valid

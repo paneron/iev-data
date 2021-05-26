@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: degree of colour mismatch, calculated in the form of a colour difference,
+    caused by substituting a test illuminant (observer) of different relative spectral
+    composition (responsivity) for the reference illuminant (observer)
+  examples: []
+  id: 845-23-007
+  language_code: eng
+  notes:
+  - The colour difference is evaluated using a CIE colour difference formula and it
+    shall be clearly stated which formula has been used.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: metamerism index
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 91d9d199-b75e-5464-965c-3024a7664a94
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: for a finite interval from `a` to `b`, difference `b - a`
+  examples: []
+  id: 103-01-14
+  language_code: eng
+  notes:
+  - For example, the range of a closed interval from `a` to `b` is denoted by `r a
+    , b`.
+  - Specific terms are often used in place of “range”. For example, the range of a
+    time interval is called “duration”, the range of a frequency band is called “bandwidth”.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: range
+    normative_status: preferred
+    type: expression
+  - designation: r
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 15b9039a-70ed-5e5b-92ab-f1626bd902b5
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.2.4
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.2.4
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  definition: '{{enveloppe, IEV:195-02-35}} assurant la protection contre les blessures
+    dues à un choc mécanique'
+  examples: []
+  id: 903-04-11
+  language_code: fra
+  notes:
+  - Certaines normes en anglais utilisent le terme "safeguard" au lieu de "protection".
+  reviewDecisionEvent: published
+  terms:
+  - designation: enveloppe mécanique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d8f72354-4186-50ff-8327-14883995d73c
+status: valid

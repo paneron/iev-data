@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the range of input values to a quantizer lying between the two virtual
+    decision values
+  examples: []
+  id: 704-24-10
+  language_code: eng
+  notes:
+  - The distortion in quantizing is conventionally attributed to overload distortion
+    for values falling outside the working range.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: working range
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 52e22cf4-5935-5708-9d08-30fe7c2e6e75
+status: valid

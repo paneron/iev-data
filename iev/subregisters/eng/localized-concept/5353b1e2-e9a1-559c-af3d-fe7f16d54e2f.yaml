@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a telecommunication circuit that provides four-wire transmission
+  examples: []
+  id: 704-04-17
+  language_code: eng
+  notes:
+  - An example of a four-wire circuit is one formed from two pairs of metallic conductors
+    arranged as two channels, one in each direction.
+  - Certain types of four-wire circuit, such as frequency separation of go and return
+    channels over the same pair, were formerly known as four-wire type circuits. The
+    term "four-wire type circuit" is deprecated.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: four-wire circuit
+    normative_status: preferred
+    type: expression
+  - designation: 4-wire circuit
+    type: expression
+dateAccepted: 1993-08-01
+id: 5353b1e2-e9a1-559c-af3d-fe7f16d54e2f
+status: valid

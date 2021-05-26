@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: 'a theoretical value of numerical aperture calculated using the values
+    of refractive index of the core and cladding given by: `( n_1^2 - n_2^2 )^(1 //
+    2)` where `n`~1~ is the maximum refractive index of the core, and `n`~2~ is the
+    refractive index of the innermost homogeneous cladding'
+  examples: []
+  id: 731-03-86
+  language_code: eng
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum theoretical numerical aperture
+    normative_status: preferred
+    type: expression
+  - designation: NA~max th~
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 6c728057-411e-5842-97e5-b147743b5ecd
+status: valid

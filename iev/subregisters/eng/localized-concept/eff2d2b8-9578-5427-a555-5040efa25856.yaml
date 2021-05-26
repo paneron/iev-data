@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: set of operations which is used to check whether the indications, under
+    specified conditions, correspond with a given set of known measurands within the
+    limits of a predetermined calibration diagram
+  examples: []
+  id: 311-01-13
+  language_code: eng
+  notes:
+  - This term is used in the "uncertainty" approach.
+  - The known uncertainty of the measurand used for verification will generally be
+    negligible with respect to the uncertainty assigned to the instrument in the calibration
+    diagram.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: verification (of calibration)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: eff2d2b8-9578-5427-a555-5040efa25856
+status: valid

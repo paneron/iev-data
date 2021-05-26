@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: espace chromatique qui permet la connexion des profils de source et
+    de destination dans une architecture de gestion de la couleur
+  examples: []
+  id: 845-32-047
+  language_code: fra
+  notes:
+  - Voir aussi "<a href="IEV845-21-029">espace colorimétrique de référence ICC</a>".
+  - Le terme abrégé "PCS" est dérivé du terme anglais développé correspondant "profile
+    connection space".
+  reviewDecisionEvent: published
+  terms:
+  - designation: espace colorimétrique de référence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PCS
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cebd45c8-5fd3-53e8-b777-3881b6368efc
+status: valid

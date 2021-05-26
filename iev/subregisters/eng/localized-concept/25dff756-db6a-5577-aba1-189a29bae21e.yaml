@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: ideal <a href="IEV845-24-003">thermal radiator</a> that absorbs completely
+    all incident radiation, whatever the wavelength, the direction of incidence or
+    the polarization
+  examples: []
+  id: 845-24-004
+  language_code: eng
+  notes:
+  - A Planckian radiator has, for any wavelength and any direction, the maximum <a
+    href="IEV845-21-029">spectral distribution</a> of radiance for a thermal radiator
+    in thermal equilibrium at a given temperature.
+  - This entry was numbered 845-04-04 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Planckian radiator
+    normative_status: preferred
+    type: expression
+  - designation: blackbody
+    type: expression
+dateAccepted: 2020-12-01
+id: 25dff756-db6a-5577-aba1-189a29bae21e
+status: valid

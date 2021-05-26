@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: zone partielle du lieu de travail dans laquelle est exécutée la tâche
+    visuelle
+  examples: []
+  id: 845-29-171
+  language_code: fra
+  notes:
+  - Pour les lieux de travail auxquels la taille et/ou l'emplacement de la zone de
+    travail ne sont pas connus, la zone dans laquelle la tâche peut être exécutée
+    est la zone de travail.
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de travail
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4fecc345-067b-5e48-b6c0-48924f4b4824
+status: valid

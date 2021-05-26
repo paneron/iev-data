@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.15
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.15, modifié
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: modified
+  definition: plus courte période de l'activité du bus, qui se compose d'une phase
+    périodique (pour les données périodiques) et d'une phase apériodique (pour les
+    données de messagerie et les données de supervision)
+  examples: []
+  id: 811-37-06
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: période de base
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dad86d10-7296-58f1-ac0a-17c022945e13
+status: valid

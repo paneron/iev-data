@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: somme fixe à payer par le client pour une période déterminée (année,
+    trimestre, mois, etc.) dont le montant est indépendant de la consommation. Cette
+    somme est:soit uniforme, soit fixée en considération de paramètres particuliers
+    (nombre de pièces, superficie, etc.)
+  examples: []
+  id: 691-03-03
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: redevance d'abonnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: redevance fixe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 2b82802a-c676-545b-9e11-5a2bba0089f1
+status: valid

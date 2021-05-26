@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: modulation à spectre étalé dans laquelle chaque élément d'un signal
+    numérique à transmettre est représenté par une suite pseudoaléatoire d'éléments
+    numériques dont le débit est beaucoup plus grand que celui du signal à transmettre
+  examples: []
+  id: 713-07-02
+  language_code: fra
+  notes:
+  - Le signal modulant la porteuse est généralement obtenu en ajoutant une suite numérique
+    pseudoaléatoire au signal à transmettre.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation à spectre étalé à séquence directe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 48257397-7bfb-5e90-a255-cc6c77b05f0c
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'unité fonctionnelle à deux entrées et une sortie, la variable de sortie
+    étant la différence entre les deux variables d''entrée, ce qui est, en cas de
+    commande en boucle fermée, la variable de différence de régulation VOIR: Figure
+    2.'
+  examples: []
+  id: 351-49-03
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-28-03 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: comparateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: cb9c019a-d577-5a0e-9a40-b4cf2ebbded9
+status: valid

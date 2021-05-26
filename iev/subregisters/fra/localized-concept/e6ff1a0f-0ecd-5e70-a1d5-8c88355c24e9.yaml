@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: ensemble de `m` grandeurs intégrales sinusoïdales étroitement liées,
+    de même nature, de même période et en général de phases différentes, où `m` est
+    un entier supérieur à un
+  examples: []
+  id: 141-01-03
+  language_code: fra
+  notes:
+  - Dans certains cas, les phases diffèrent d’un multiple entier, y compris zéro,
+    de 2`π`.
+  - Des systèmes polyphasés de tensions, de courants et de flux totalisés sont couramment
+    utilisés.
+  - Les termes "diphasé", "triphasé", "tétraphasé", "hexaphasé", "dodécaphasé" sont
+    utilisés pour désigner respectivement des systèmes pour lesquels `m` = 2, 3, 4,
+    6 ou 12.
+  - La notion de système polyphasé peut, sous certaines conditions, être étendue à
+    des grandeurs périodiques non sinusoïdales.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: système polyphasé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: système `m`-phasé
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: e6ff1a0f-0ecd-5e70-a1d5-8c88355c24e9
+status: valid

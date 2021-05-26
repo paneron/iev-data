@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: state of being unable to perform as required, due to internal fault,
+    or preventive maintenance
+  examples: []
+  id: 192-02-20
+  language_code: eng
+  notes:
+  - Down state relates to unavailability of the item.
+  - The adjectives “down” or “unavailable” designate an item in a down state.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: down state
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+  - designation: unavailable state
+    type: expression
+    usage_info: of an item
+  - designation: internally disabled state
+    type: expression
+    usage_info: of an item
+  - designation: internal disabled state
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 197b1173-1467-593f-8922-56cb918ed928
+status: valid

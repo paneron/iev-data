@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: unwanted part of the input voltage which is superimposed on the voltage
+    due to the measurand
+  examples: []
+  id: 312-01-04
+  language_code: eng
+  notes:
+  - Typical examples of a series mode voltage are induced voltages, for example a
+    ripple on a direct current signal, or thermopotentials.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: series mode voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: c233897d-c572-5eef-84f9-71d9d4772d1d
+status: valid

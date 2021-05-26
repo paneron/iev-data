@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: 'pour une matrice *`A`* de format `m` × `n`, matrice de format `n` ×
+    `m`, notée *`A`*^T^, dont les éléments (*`A`*^T^)~`ij`~ sont définis par: (*`A`*^T^)~`ij`~
+    = `Aji`'
+  examples: []
+  id: 102-06-17
+  language_code: fra
+  notes:
+  - La transposée d’une matrice *`A`* est notée *`A`*^T^ ou parfois `overset(˜)(A)`.
+    La notation ^t^*`A`* est aussi employée en mathématiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transposée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: matrice transposée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cc63bd0e-15d6-5916-a0cb-296a8d43361f
+status: valid

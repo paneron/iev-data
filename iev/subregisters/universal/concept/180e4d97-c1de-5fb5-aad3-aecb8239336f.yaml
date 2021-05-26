@@ -1,0 +1,25 @@
+data:
+  identifier: 541-02-01
+  localizedConcepts:
+    ara: 12b401e7-eb1a-5e94-ac36-49d1f3c91504
+    deu: 6d252d8d-2a7a-54f8-8fba-5cc15e8367c8
+    eng: d1a0d826-0c23-5d5f-8b64-8db3fb70a3f7
+    fra: c3f8f941-d574-572d-9b72-d5eaa482b02c
+    ita: abdd462c-a361-56da-a092-05baa923a3b8
+    jpn: a7c59007-4b17-545a-8221-beff32cd9369
+    kor: 16763bea-f71d-5cd0-b2d1-0a2e9f99dc5a
+    pol: 3167fb08-99bd-55cb-a0ae-8e6058041c33
+    por: b6190e35-a773-56b6-a7fd-6d194a90a260
+    spa: b69a2588-81f2-51a0-8b4a-a9e427f22a44
+    srp: 2a7fba02-85ea-51a6-9961-c5e1389c0d19
+    swe: 6e9b415e-c7e3-5230-9899-401c9d381975
+    zho: 9de2dad6-8517-5a9f-a94e-85185ba6c50c
+dateAccepted: 2018-11-17
+id: 180e4d97-c1de-5fb5-aad3-aecb8239336f
+related:
+- ref:
+    id: 541-02-01
+    source: IEV
+    version: '1990'
+  type: supersedes
+status: valid

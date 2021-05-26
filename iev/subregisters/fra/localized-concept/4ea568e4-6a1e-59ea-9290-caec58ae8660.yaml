@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.1
+      original: IEC TS 80004-9:2017, 3.2.1, modifié – La définition a été replacée
+        par une version contenant de l'information présentée auparavant dans la Note
+        1 à l'article; la Note 1 à l'article a été supprimée.
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: La définition a été replacée par une version contenant de l'information
+          présentée auparavant dans la Note 1 à l'article; la Note 1 à l'article a
+          été supprimée.
+        type: modified
+  classification: Preferred
+  definition: '{{dispositif nanotechnologique, IEV:511-01-16}} photovoltaïque dans
+    lequel le matériau de l''anode est coloré par un photosensibilisant'
+  examples: []
+  id: 511-02-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: cellule photovoltaïque à colorant
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DSSC
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4ea568e4-6a1e-59ea-9290-caec58ae8660
+status: valid

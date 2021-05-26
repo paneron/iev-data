@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: for a plane surface, scalar quantity equal to the second axial moment
+    of area `I`~a~ with respect to a specified axis Q in the plane of the surface,
+    divided by the maximum radial distance `r`~Q, max~ of any point in the surface
+    considered from the Q-axis, thus `Z = ((I_a))/((r_((Q, max))))`
+  examples: []
+  id: 113-03-31
+  language_code: eng
+  notes:
+  - The coherent SI unit of section modulus is metre cubed, m^3^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: section modulus
+    normative_status: preferred
+    type: expression
+  - designation: '`Z`
+
+      `W`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 6eb2d0bb-2446-5ab1-927d-8849d91cccdb
+status: valid

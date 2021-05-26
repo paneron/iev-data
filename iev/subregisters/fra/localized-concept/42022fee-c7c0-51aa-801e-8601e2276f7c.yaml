@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique absorbé, `Φ`~a~, par le flux énergétique
+    incident, `Φ`~m~ `alpha = ((Phi_a))/((Phi_m))`
+  examples: []
+  id: 845-24-082
+  language_code: fra
+  notes:
+  - Le facteur d'absorption est également définie spectralement par rapport à la longueur
+    d'onde, auquel cas, "spectral" est ajouté devant le nom de la grandeur.
+  - En raison de la conservation de l'énergie, `α` + `ρ` + `τ` = 1 sauf lors de l'observation
+    d'un <a href="IEV845-21-017">rayonnement polarisé</a>, où `ρ` est le facteur de
+    réflexion et `τ` est le facteur de transmission.
+  - L'unité de facteur d'absorption est un.
+  - Cet article était numéroté 845-04-75 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur d'absorption
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 42022fee-c7c0-51aa-801e-8601e2276f7c
+status: valid

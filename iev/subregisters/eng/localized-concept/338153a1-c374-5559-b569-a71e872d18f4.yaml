@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: voltage between the terminals of an ideal voltage source
+  examples: []
+  id: 131-12-22
+  language_code: eng
+  notes:
+  - For a real voltage source, the source voltage is the voltage between the two terminals
+    when there is no electric current through the source.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: source voltage
+    normative_status: preferred
+    type: expression
+  - designation: source tension
+    type: expression
+  - designation: electromotive force
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2013-08-01
+id: 338153a1-c374-5559-b569-a71e872d18f4
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: dérivée de la cordonnée généralisée `qi` par rapport au temps `t`, soit
+    `overset(˙)(q)_i = d q_i // d t`
+  examples: []
+  id: 113-03-74
+  language_code: fra
+  notes:
+  - L’unité dépend du type de représentation du système. En mécanique, la vitesse
+    généralisée peut être une vitesse ou une vitesse angulaire.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse généralisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 519ac701-8adc-541d-9936-cf011528552d
+status: valid

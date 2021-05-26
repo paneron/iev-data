@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1994-07-01
+  definition: pour un transducteur électroacoustique fonctionnant en émetteur de son,
+    à une fréquence spécifiée, quotient de la pression acoustique produite en champ
+    libre par la source à une distance spécifiée de son centre acoustique effectif
+    et dans une direction spécifiée, par la tension du signal appliqué à ses bornes
+    d'entrée
+  examples: []
+  id: 801-25-57
+  language_code: fra
+  notes:
+  - Lorsque le centre acoustique du transducteur ne peut être déterminé de façon simple,
+    la distance est comptée à partir du point de référence du transducteur.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité à la tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réponse à la tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 9fe79bda-b104-5a09-a81c-6c5859de5424
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of incident photon flux with respect to area at a point on a
+    real or imaginary surface `E_p = ((d Phi_p))/((d A))` where `Φ`~p~ is photon flux
+    and `A` is the area on which the photon flux is incident
+  examples: []
+  id: 845-21-058
+  language_code: eng
+  notes:
+  - The corresponding radiometric quantity is "irradiance". The corresponding photometric
+    quantity is "illuminance".
+  - The photon irradiance is expressed in second to the power minus one per square
+    metre (s^−1^·m^−2^).
+  - This entry was numbered 845-01-39 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photon irradiance
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~p~
+
+      `E`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 528d62a9-6446-5ce8-b808-b182caf611b2
+status: valid

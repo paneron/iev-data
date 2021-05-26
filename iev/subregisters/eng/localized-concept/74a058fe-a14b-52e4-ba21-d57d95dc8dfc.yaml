@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.57'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.57 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: for automatic scanning systems with a periodic scan sequence, time interval
+    between equivalent points on two successive frames, sectors or scans.
+  examples: []
+  id: 802-01-13
+  language_code: eng
+  notes: []
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scan-repetition period
+    normative_status: preferred
+    type: expression
+  - designation: '`srp`'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: 74a058fe-a14b-52e4-ba21-d57d95dc8dfc
+status: valid

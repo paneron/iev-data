@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: frequency to which an oscillator must be adjusted, under a particular
+    combination of operating conditions, in order to meet the frequency tolerance
+    specification over the specified range of operating conditions
+  examples: []
+  id: 561-03-01
+  language_code: eng
+  notes:
+  - Adjustment frequency corresponds to nominal frequency plus frequency offset.
+  - This entry was numbered 561-04-09 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adjustment frequency
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: d8a44264-0adb-5240-bcb3-a30fb6e9ad7b
+status: valid

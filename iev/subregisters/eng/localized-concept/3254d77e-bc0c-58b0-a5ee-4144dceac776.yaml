@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{functional unit, IEV:171-01-22}} that can perform {{data processing,
+    IEV:171-01-17}}'
+  examples: []
+  id: 171-01-25
+  language_code: eng
+  notes:
+  - In French, the term "calculateur" can be used for any functional unit corresponding
+    to the definition. The preferred term "ordinateur" is used for a digital computer
+    controlled by programs placed into an internal device, also used for the associated
+    digital data. Such digital computers are generally capable of executing user-designated
+    programs and programs that modify themselves during their execution.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: computer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 3254d77e-bc0c-58b0-a5ee-4144dceac776
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 3.1, modifiée – Les références aux autres termes
+        dans l'ISO/CEI 17000 ont été remplacées par des hyperliens aux entrées dans
+        la VEI.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: Les références aux autres termes dans l'ISO/CEI 17000 ont été
+          remplacées par des hyperliens aux entrées dans la VEI.
+        type: modified
+  definition: besoin ou attente formulé
+  examples: []
+  id: 902-02-01
+  language_code: fra
+  notes:
+  - Les exigences spécifiées peuvent être formulées dans des {{documents normatif,
+    IEV:901-02-01}}s tels que les {{règlement, IEV:901-02-10}}s, les {{norme, IEV:901-02-02}}s
+    et les {{spécifications techniques, IEV:901-02-08}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exigence spécifiée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 375786c0-48e4-5fa9-9869-38287b751d6f
+status: valid

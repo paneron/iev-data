@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.8'
+      link: https://webstore.iec.ch/publication/7248
+      original: IEC 62606:2013, 3.8
+      ref: IEC 62606:2013
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: arc fault where the arc current is flowing between active conductors
+    in parallel with the load of the circuit
+  examples: []
+  id: 442-05-69
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallel arc fault
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: 231b292f-df72-53e7-903d-0853c143f0df
+status: valid

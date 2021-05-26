@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: effet piloté par le potentiel et observé dans les {{piles à combustible
+    à carbonates fondus, IEV:485-08-06}} à collecteur externe
+  examples: []
+  id: 485-03-06
+  language_code: fra
+  notes:
+  - L'{{électrolyte, IEV:485-03-01}} tend à migrer de la borne positive de la pile
+    vers la borne négative. La migration se produit par les joints placés entre les
+    {{collecteurs, IEV:485-06-15}} externes et les bords de la pile.
+  reviewDecisionEvent: published
+  terms:
+  - designation: migration d'électrolyte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 52b2ebc9-c731-50b8-b8bd-6de97fe08074
+status: valid

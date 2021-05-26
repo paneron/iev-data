@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: représentation d'une fonction réelle ou complexe `f`(`t`) de la variable
+    réelle `t` par la transformation intégrale `f ( t ) = (1)/((2 pi)) int_( - oo)^(
+    + oo) F ( omega ) e^(j omega t) d omega` où `F ( omega )` est la transformée de
+    Fourier de la fonction `f ( t )` et j est l'unité imaginaire
+  examples: []
+  id: 103-04-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: transformée inverse de Fourier
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b12f72aa-c166-5f57-b017-ec10b94b95a5
+status: valid

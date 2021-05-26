@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4.12'
+      original: ≠ VIM 4.12
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: set of components of a measuring instrument intended to indicate the
+    value of the measurand
+  examples: []
+  id: 311-05-02
+  language_code: eng
+  notes:
+  - 'By extension: the indicating means or setting device of any instrument such as
+    a material measure or a signal generator.'
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indicating device
+    normative_status: preferred
+    type: expression
+  - designation: displaying device
+    type: expression
+dateAccepted: 2001-07-01
+id: 7c1587e8-a631-535b-ab7e-e0c1dd46ec43
+status: valid

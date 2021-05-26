@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: réaction exothermique du combustible pendant laquelle le combustible
+    est partiellement oxydé en monoxyde de carbone et en hydrogène plutôt que totalement
+    oxydé en dioxyde de carbone et en eau
+  examples: []
+  id: 485-07-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: reformage par oxydation partielle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: POX
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: oxydation partielle
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6caf241e-b1e5-5512-b4b2-bfa29cccc4b4
+status: valid

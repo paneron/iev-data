@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: a transmission process which may be used when the transmission channel
+    rate is higher than the input binary rate. The binary digits being transferred
+    are signalled at the digit rate of the channel and the transfer is interrupted
+    at intervals in order to produce the required mean binary rate. The interruption
+    is always for an integral number of digits periods
+  examples: []
+  id: 721-11-24
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: burst isochronous
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: a5317755-6144-55d2-9dc2-a5ba79937beb
+status: valid

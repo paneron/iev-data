@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the light reflected by the surfaces of a room after a certain
+    {{time interval, IEV:113-01-10}} and light reflected when the installation is
+    considered conventionally as new
+  examples: []
+  id: 845-29-150
+  language_code: eng
+  notes:
+  - The room surface maintenance factor has unit one.
+  - The room surface maintenance factor is based on a simplified model for the effects
+    of the deterioration of room surface reflectance properties and does not accurately
+    account for room geometry and configuration.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: room surface maintenance factor
+    normative_status: preferred
+    type: expression
+  - designation: RSMF
+    type: expression
+  - designation: '`f`~RSM~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 228072f7-be17-58d7-ada4-a70557011b86
+status: valid

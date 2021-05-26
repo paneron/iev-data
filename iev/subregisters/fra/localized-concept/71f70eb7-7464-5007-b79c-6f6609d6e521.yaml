@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-02-01
+  definition: suppression d'une fibrillation auriculaire ou ventriculaire au moyen
+    d'un choc électrique délivré par le défibrillateur
+  examples: []
+  id: 891-05-28
+  language_code: fra
+  notes:
+  - Ce terme n'est pas utilisé pour désigner l'interruption médicamenteuse d'une fibrillation
+    auriculaire.
+  reviewDate: 1998-02-01
+  reviewDecisionDate: 1998-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: défibrillation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cardioversion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: contrechoc électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-02-01
+id: 71f70eb7-7464-5007-b79c-6f6609d6e521
+status: valid

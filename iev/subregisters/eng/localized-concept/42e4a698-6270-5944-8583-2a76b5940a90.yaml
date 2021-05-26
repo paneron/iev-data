@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: prospective peak current when initiation of the current takes place
+    at the instant which leads to the highest possible value
+  examples: []
+  id: 441-17-04
+  language_code: eng
+  notes:
+  - For a multiple device in a polyphase circuit, the maximum prospective peak current
+    refers to a single pole only.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum prospective peak current
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 42e4a698-6270-5944-8583-2a76b5940a90
+status: valid

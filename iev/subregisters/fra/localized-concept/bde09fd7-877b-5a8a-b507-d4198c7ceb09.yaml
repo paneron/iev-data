@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'champ vectoriel `*B*` qui engendre sur toute particule chargée de vitesse
+    `*v*` une force `*F*` égale au produit du produit vectoriel `*v*` x `*B*` par
+    la charge électrique `Q` de la particule : `*F*` = `Q*v*` x `*B*`'
+  examples: []
+  id: 121-11-19
+  language_code: fra
+  notes:
+  - 'La divergence de `*B*`  est nulle en tout point :
+
+
+    div `*B*` = 0'
+  - L’induction magnétique `*B*` est parfois appelée "champ magnétique", ce qui peut
+    entraîner une confusion avec le champ magnétique `*H*` .
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: induction magnétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: bde09fd7-877b-5a8a-b507-d4198c7ceb09
+status: valid

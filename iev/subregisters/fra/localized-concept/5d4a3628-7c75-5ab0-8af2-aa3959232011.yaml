@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un bipôle, élémentaire ou non, de bornes A et B, produit de la
+    tension électrique `u_((AB))` entre les bornes et du courant `i` dans le bipôle
+    `p = u_((AB)) * i` où `u_((AB))` est l'intégrale curviligne du champ électrique
+    de A à B et où le courant dans le bipôle est positif si le sens du courant électrique
+    est de A vers B et négatif si son sens est de B vers A
+  examples: []
+  id: 131-11-30
+  language_code: fra
+  notes:
+  - Le sens du courant électrique est celui défini en {{131-11-29, IEV:131-11-29}}.
+  - 'En théorie des circuits, le champ électrique est généralement irrotationnel et
+    par conséquent `u_((AB)) = v_A - v_B`, où `v_A` et `v_B`
+
+
+    sont respectivement les potentiels électriques aux bornes A et B.'
+  - L’unité SI cohérente de puissance instantanée est le watt, W.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance instantanée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d4a3628-7c75-5ab0-8af2-aa3959232011
+status: valid

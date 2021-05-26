@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: '4.6'
+      original: VIM 4.6
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: appareil de mesure qui affiche une indication
+  examples: []
+  id: 311-03-02
+  language_code: fra
+  notes:
+  - L’indication peut être analogique (continue ou discontinue), numérique ou codée.
+  - L’appareil peut indiquer simultanément les valeurs de plusieurs grandeurs.
+  - Un appareil de mesure afficheur peut, de plus, fournir un enregistrement.
+  - L’affichage peut consister en un signal de sortie non directement lisible par
+    un observateur humain, mais capable d’interprétation par un dispositif convenable.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: appareil (de mesure) afficheur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: appareil (de mesure) indicateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: c3fb06d2-d216-5280-9bea-c5ff89f4e7dc
+status: valid

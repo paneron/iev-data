@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: domain name of an Internet resource indicating the type or the capabilities
+    of this resource
+  examples: []
+  id: 732-07-11
+  language_code: eng
+  notes:
+  - An Internet resource may have several domain names, one of which is the preferred
+    one.
+  - 'For example: “www.isi.edu” denotes a host containing a Web server.'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: canonical name
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 232caa3f-a882-57a5-a125-25cf247329c0
+status: valid

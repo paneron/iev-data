@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: introduction de petites quantités d'air (environ 5 %) dans le flux de
+    combustible, en amont de l'entrée du combustible dans la {{cellule élémentaire
+    à combustible, IEV:485-08-01}} ou dans le compartiment {{anodique, IEV:485-02-04}}
+  examples: []
+  id: 485-09-07
+  language_code: fra
+  notes:
+  - Le but de l'injection d'air est d'atténuer l'{{empoisonnement du catalyseur, IEV:485-01-04}}
+    par des éléments tels que le monoxyde de carbone par une oxydation catalytique
+    de l'élément poison dans le compartiment anodique de la cellule élémentaire à
+    combustible.
+  reviewDecisionEvent: published
+  terms:
+  - designation: injection d'air
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7415dc23-b43e-5619-96f9-2fba3a8e4a0d
+status: valid

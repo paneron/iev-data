@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: value of a quantity, used for specification purposes, declared by the
+    manufacturer or responsible vendor and established under standard test conditions
+  examples: []
+  id: 845-27-100
+  language_code: eng
+  notes:
+  - To express the "rated value" of a particular quantity, the term "value" is replaced
+    by the quantity name; for example, rated power, rated voltage, rated current,
+    and rated temperature.
+  - The standard test conditions are given in the relevant standard.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated value
+    normative_status: preferred
+    type: expression
+    usage_info: light sources and related equipment
+dateAccepted: 2020-12-01
+id: 11078969-b06e-52db-94b5-564e720f4d89
+status: valid

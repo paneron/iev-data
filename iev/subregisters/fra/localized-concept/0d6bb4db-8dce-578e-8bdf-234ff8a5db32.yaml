@@ -1,0 +1,65 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-10-01
+  definition: pour un noyau magnétique de géométrie donnée en un matériau donné, fonctionnant
+    dans le domaine de Rayleigh, longueur du chemin magnétique, section transversale
+    et volume qu'un tore fictif constitué du même matériau et de section droite homogène
+    et radialement mince devrait avoir pour être magnétiquement équivalent au noyau
+    donné
+  examples: []
+  id: 221-04-31
+  language_code: fra
+  notes:
+  - 'Les dimensions équivalentes sont les suivantes:
+
+
+    section droite équivalente (ou effective)
+
+
+    `A_e = ((C_1))/((C_2))`
+
+
+    longueur de chemin magnétique équivalente (ou effective)
+
+
+    `l_e = ((C_1^2))/((C_2))`
+
+
+    volume équivalent (ou effectif)
+
+
+    `V_e = ((C_1^3))/((C_2^2))`
+
+
+    où `C`~1~, et `C`~2~ sont les coefficients de noyau appropriés; il en résulte:
+
+
+    `C_1 = ((l_e))/((A_e))`
+
+
+    `C_2 = ((l_e))/((A_e^2))`
+
+
+    `V_e = l_e A_e`'
+  - Ces formules peuvent aussi s'appliquer à un circuit magnétique fonctionnant hors
+    des limites du domaine de Rayleigh si l'aimantation peut être considérée comme
+    uniforme, par exemple dans le cadre d'Epstein.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dimensions équivalentes
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+  - designation: dimensions effectives
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 1990-10-01
+id: 0d6bb4db-8dce-578e-8bdf-234ff8a5db32
+status: valid

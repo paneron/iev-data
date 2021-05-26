@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-11-01
+  definition: ratio of penetration depth, `λ`, to coherence length, `ξ` `kappa_((GL))
+    = lambda // xi`
+  examples: []
+  id: 815-10-34
+  language_code: eng
+  notes:
+  - For a type II superconductor, `kappa_((GL)) &gt; 1 // sqrt(2)`; `kappa_((GL))
+    = H_((c2)) // ( sqrt(2) H_c )`, where `H_(c2)` is the upper critical field strength
+    and `H_c` is the critical field strength.
+  - For a type I superconductor, `kappa_((GL)) 1 // sqrt(2)`.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Ginzburg-Landau parameter
+    normative_status: preferred
+    type: expression
+  - designation: G-L parameter
+    normative_status: preferred
+    type: expression
+  - designation: '`κ`~GL~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: f95ee6b6-45bc-5fda-a2be-148a66ecf119
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: number of failures relative to the time of service of the relay
+  examples: []
+  id: 444-07-08
+  language_code: eng
+  notes:
+  - '`λ` is the reciprocal of MTBF.'
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relay failure rate
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`'
+    international: true
+    type: symbol
+dateAccepted: 2002-01-01
+id: 7819e041-8029-5b8c-b38b-783af7dedc36
+status: valid

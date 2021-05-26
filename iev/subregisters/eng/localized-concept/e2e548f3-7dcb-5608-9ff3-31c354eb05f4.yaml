@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: magnetic field strength at which a fluxon firstly penetrates a bulk
+    type II superconductor deviating from the perfect diamagnetism when demagnetization
+    factor is zero
+  examples: []
+  id: 815-10-23
+  language_code: eng
+  notes:
+  - '`H`~c1~ is a function of temperature.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lower critical field strength
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~c1~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: e2e548f3-7dcb-5608-9ff3-31c354eb05f4
+status: valid

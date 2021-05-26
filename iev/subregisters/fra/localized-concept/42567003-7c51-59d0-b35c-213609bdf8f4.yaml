@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: point ou localisation à partir duquel un gaz, une vapeur, un brouillard
+    ou un liquide inflammable peut être dégagé dans l'atmosphère de telle sorte qu'une
+    atmosphère explosive gazeuse peut être formée
+  examples: []
+  id: 426-03-06
+  language_code: fra
+  notes:
+  - 'L''IEC 60079-10-1, _Atmosphères explosives – Partie 10-1: Classement des emplacements
+    – Atmosphères explosives gazeuses_, donne une classification des sources de dégagement.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: source de dégagement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 42567003-7c51-59d0-b35c-213609bdf8f4
+status: valid

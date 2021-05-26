@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: complément à un du rapport du carré de la perméance mutuelle `Λij` relative
+    à deux éléments de circuit `i` et `j` au produit de leurs perméances propres `Λii`
+    et `Λjj` `sigma_((i j)) = 1 - ((Lambda_(i j)^2))/((Lambda_((i i)) Lambda_((j j))))`
+  examples: []
+  id: 131-12-42
+  language_code: fra
+  notes:
+  - 'Le facteur de dispersion inductive est lié au facteur de couplage inductif `kij`
+    par la formule:
+
+
+    `k_(i j)^2 = 1 - sigma_((i j))`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de dispersion inductive
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de dispersion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e7aaaaf6-4b64-52d9-8917-9dc91e03c036
+status: valid

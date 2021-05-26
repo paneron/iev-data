@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the quotient of d`E` by the product of `ρ` and d`l` where d`E` is the
+    energy lost by a charged particle of specified energy in traversing a path length
+    d`l` in a material of density `ρ` `(S)/(rho) = (1)/(rho) ((d E))/((d l))`
+  examples: []
+  id: 881-12-52
+  language_code: eng
+  notes:
+  - For energies at which nuclear interaction can be neglected, the total mass stopping
+    power is the sum of the collision mass stopping power and the radiative mass stopping
+    power.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total mass stopping power
+    normative_status: preferred
+    type: expression
+  - designation: '`(S)/(rho)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 4792fd47-aa33-5ec5-a1a3-4feca9d9cbe9
+status: valid

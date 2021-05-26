@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: for a radionuclide, time elapsed when the number of atoms or {{atomic
+    nuclei, IEV:113-05-21}} in the considered state has decreased by a factor 1/e
+    from its initial value
+  examples: []
+  id: 395-01-13
+  language_code: eng
+  notes:
+  - For a radionuclide the radioactive mean life is the reciprocal of the decay constant
+    `λ`, (`τ` = 1/ `λ`).
+  - This entry was numbered 393-14-20 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean life
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 13c8ec94-7c67-541c-a317-0e9af41a7798
+status: valid

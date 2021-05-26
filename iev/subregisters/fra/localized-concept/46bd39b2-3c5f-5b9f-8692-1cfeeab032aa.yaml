@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.12'
+      original: Guide CEI 109:2012, 3.12
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  definition: ensemble des effets indésirables sur l'{{environnement, IEV:901-07-01}}
+    provoqués par le rejet de matières organiques ou inorganiques, de {{substances
+    dangereuses, IEV:901-07-04}}, de rayonnements ou de bruit
+  examples: []
+  id: 901-07-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: pollution
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 46bd39b2-3c5f-5b9f-8692-1cfeeab032aa
+status: valid

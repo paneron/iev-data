@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: nombre de défaillances rapporté au nombre de manœuvres pendant le temps
+    de service du relais
+  examples: []
+  id: 444-07-09
+  language_code: fra
+  notes:
+  - '`λ`~c~ est l''inverse du MTBF~c~.'
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux de défaillance relatif aux manoeuvres
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 99c7dbcf-95ac-5387-8461-ec65aeedd9de
+status: valid

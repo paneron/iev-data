@@ -1,0 +1,45 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: scalar constant `μ`~0~ linking the electromagnetic quantities and the
+    mechanical quantities, obtained from the relation `(F)/(l) = ((mu_0))/((2 pi))
+    * ((| I_1 I_2 |))/(d)` where `F/l` is the magnitude of the lineic force between
+    two straight parallel conductors of infinite length and negligible circular cross-section,
+    placed at a distance `d` apart in vacuum and carrying electric currents `I`~1~
+    and `I`~2~
+  examples: []
+  id: 121-11-14
+  language_code: eng
+  notes:
+  - 'In vacuum, the product of the magnetic constant and the magnetic field strength
+    `*H*` is equal to the magnetic flux density `*B*`:
+
+
+    `*B*` = `μ`~0~`*H*`'
+  - 'The magnetic constant is related to the electric constant `ε`~0~ and to the speed
+    of light in vacuum `c`~0~ by the relation
+
+
+    `μ`~0~`ε`~0~`c`~0~^2^ = 1'
+  - 'The value of the magnetic constant is exactly equal to
+
+
+    4π × 10^−7^ m kg s^−2^ A^−2^ = 1,256 637 061 4... μH/m'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic constant
+    normative_status: preferred
+    type: expression
+  - designation: permeability of vacuum
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`~0~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: ed4e527d-1741-5ec2-8d1e-7efab6f54948
+status: valid

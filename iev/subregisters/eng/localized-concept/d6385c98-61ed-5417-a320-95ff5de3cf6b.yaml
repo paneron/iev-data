@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: 'coefficient of proportionality `R`~H~ in the Hall effect quantitative
+    relation: `vec E_H = R_H ( vec J xx vec B )` `vec E_H` is the resulting transverse
+    electric field strength `vec J` is the current density `vec B` is the magnetic
+    flux density'
+  examples: []
+  id: 521-09-02
+  language_code: eng
+  notes:
+  - The sign of the majority carrier charge can usually be inferred from the sign
+    of the Hall coefficient.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Hall coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`R`~H~'
+    international: true
+    type: symbol
+dateAccepted: 2002-05-01
+id: d6385c98-61ed-5417-a320-95ff5de3cf6b
+status: valid

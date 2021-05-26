@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: base de données d'un système cellulaire qui contient les informations
+    nécessaires à la gestion des communications d'un certain nombre d'abonnés mobiles
+  examples: []
+  id: 713-03-36
+  language_code: fra
+  notes:
+  - Les informations de gestion sont soit permanentes, comme l'identité de l'abonné,
+    son numéro d'annuaire et les services auxquels il a droit, soit variables, à savoir
+    la localisation de la station mobile qui est nécessaire pour l'acheminement des
+    communications à l'arrivée.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: enregistreur de localisation nominal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: HLR
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: bfa12091-100c-50d5-9c14-6f23733b8eda
+status: valid

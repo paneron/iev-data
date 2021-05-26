@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the assembly, by digital multiplexing, of a specified number of digital
+    signals constituting the first level of a digital multiplex hierarchy
+  examples: []
+  id: 704-20-08
+  language_code: eng
+  notes:
+  - The primary digital groups standardized by CCITT operate at a digit rate of 1
+    544 or 2 048 kbit/s; they comprise digital signals occupying channel time-slots,
+    each of which has normally 8 digit time-slots and an effective digit rate of 64
+    kbit/s.
+  - The term "digroup" is used to designate a primary digital group operating at a
+    digit rate of 1 544 kbit/s.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: primary digital group
+    normative_status: preferred
+    type: expression
+  - designation: digroup
+    type: expression
+  - designation: primary block
+    type: expression
+dateAccepted: 1993-08-01
+id: e5e3420c-52e8-5c41-b49e-a1a0767954f7
+status: valid

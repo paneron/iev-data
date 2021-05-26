@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur de la {{grandeur caractéristique, IEV:447-07-01}} à laquelle
+    un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection, IEV:447-01-49}}
+    ne revient pas au {{repos, IEV:447-02-05}}
+  examples: []
+  id: 447-02-13
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de non-mise au repos
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d20cb09d-2f6b-5178-86d8-5bac28bb16ab
+status: valid

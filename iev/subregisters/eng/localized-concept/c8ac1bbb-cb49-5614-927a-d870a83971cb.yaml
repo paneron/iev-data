@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: care for operation and maintenance of a network, including the monitoring
+    and controlling of its components and the configuration of the network, and the
+    allocation of resources across the network, including the admission of users and
+    allocation of addresses
+  examples: []
+  id: 732-02-01
+  language_code: eng
+  notes:
+  - These tasks may be separated and a distinction may be made between management
+    and administration, but this varies from one organization to another.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: network management
+    normative_status: preferred
+    type: expression
+  - designation: network administration
+    type: expression
+dateAccepted: 2010-06-01
+id: c8ac1bbb-cb49-5614-927a-d870a83971cb
+status: valid

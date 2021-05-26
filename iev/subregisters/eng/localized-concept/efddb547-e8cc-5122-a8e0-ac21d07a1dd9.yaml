@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a transient phenomenon caused by a sudden variation of a signal at the
+    input of a two port device and characterized by a temporary exaggeration of the
+    values of the output signal above the steady state value that it should reach,
+    generally followed by a damped oscillation around this steady state value
+  examples: []
+  id: 702-07-79
+  language_code: eng
+  notes:
+  - An overshoot may affect a step transition such as the leading edge or trailing
+    edge of a pulse.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overshoot
+    normative_status: preferred
+    type: expression
+  - designation: transient overshoot
+    type: expression
+dateAccepted: 1992-03-01
+id: efddb547-e8cc-5122-a8e0-ac21d07a1dd9
+status: valid

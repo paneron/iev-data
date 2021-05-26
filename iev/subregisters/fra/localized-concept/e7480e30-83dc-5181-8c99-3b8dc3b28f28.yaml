@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: disposition particulière de réseaux interconnectés
+  examples: []
+  id: 131-12-74
+  language_code: fra
+  notes:
+  - Des exemples de montages sont les montages en série, en parallèle, en cascade.
+  - En anglais, le terme "connection" a d’autres sens dans la CEI 60050-151.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: montage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: couplage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: e7480e30-83dc-5181-8c99-3b8dc3b28f28
+status: valid

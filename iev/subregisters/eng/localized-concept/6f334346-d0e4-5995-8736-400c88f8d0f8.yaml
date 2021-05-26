@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for `n` given sets `A_1 , A_2 , cdots , A_n`, set, the elements of which
+    are the ordered `n`-tuples (`a_1 , a_2 , cdots , a_n`) of elements `a_1 in A_1
+    , a_2 in A_2 , cdots , a_n in A_n`
+  examples: []
+  id: 102-01-06
+  language_code: eng
+  notes:
+  - The Cartesian product of sets `A_1 , A_2 , cdots , A_n` is denoted by `A_1 xx
+    A_2 xx cdots xx A_n`. The Cartesian product of the set `A` by itself `n` times
+    is denoted by `An`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Cartesian product
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 6f334346-d0e4-5995-8736-400c88f8d0f8
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: additive axial vector quantity equal to the integral of moment of force
+    *`M`* with respect to time `t` over a time interval [`t`~1~, `t`~2~], thus `H
+    = int_(t_1)^(t_2) M d t`
+  examples: []
+  id: 113-03-28
+  language_code: eng
+  notes:
+  - 1 For a time interval &amp;lsqb;`t`~1~, `t`~2~&amp;rsqb;, angular impulse is equal
+    to the variation of angular momentum *`L`*, thus *`H`* = *`L`*(`t`~2~) − *`L`*(`t`~1~) = Δ*`L`*.
+  - 2 The coherent SI unit of angular impulse is newton metre second, N·m·s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angular impulse
+    normative_status: preferred
+    type: expression
+  - designation: '*`H`*'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 306c65c5-a986-5328-bc7e-8bd4e573fab9
+status: valid

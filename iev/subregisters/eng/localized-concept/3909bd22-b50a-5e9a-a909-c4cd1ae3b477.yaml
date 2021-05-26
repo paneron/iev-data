@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.12'
+      original: ≠ VIM 3.12
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: ratio of the absolute error to a comparison value
+  examples: []
+  id: 311-01-17
+  language_code: eng
+  notes:
+  - This term is used in the "true value" approach.
+  - The comparison value should be a true value of the quantity but, since a true
+    value cannot be determined, in general, a conventional true value is used.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative error
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 3909bd22-b50a-5e9a-a909-c4cd1ae3b477
+status: valid

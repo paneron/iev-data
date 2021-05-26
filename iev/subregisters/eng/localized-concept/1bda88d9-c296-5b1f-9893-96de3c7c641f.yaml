@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 845-01-03
+      original: MOD 845-01-03
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1991-10-01
+  definition: any optical radiation capable of causing a visual sensation directly
+    on a human being
+  examples: []
+  id: 731-01-04
+  language_code: eng
+  notes:
+  - Nominally covering the wavelength in vacuum range of 380 nm to 800 nm.
+  - In the laser and optical communication fields, custom and practice in the English
+    language have extended usage of the term light to include the much broader portion
+    of the electromagnetic spectrum than can be handled by the basic optical techniques
+    used for the visible spectrum.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: light
+    normative_status: preferred
+    type: expression
+  - designation: visible radiation
+    type: expression
+dateAccepted: 1991-10-01
+id: 1bda88d9-c296-5b1f-9893-96de3c7c641f
+status: valid

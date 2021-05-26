@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: redondance telle qu'une entité redondante n'est activée que lorsque
+    l'entité active est indisponible
+  examples: []
+  id: 192-10-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: redondance passive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: redondance en attente
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 82c43679-2777-59c8-9d99-6c8bb19de383
+status: valid

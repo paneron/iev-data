@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: pour un bipôle linéaire non rayonnant, élémentaire on non, en régime
+    sinusoïdal, rapport de la valeur absolue de la puissance réactive à la puissance
+    active
+  examples: []
+  id: 151-15-45
+  language_code: fra
+  notes:
+  - Le facteur de qualité caractérise les pertes, généralement non désirées, en particulier
+    dans un condensateur ou une bobine d'inductance. Il est égal au rapport de la
+    valeur absolue de la réactance à la résistance ou, de façon équivalente, au rapport
+    de la valeur absolue de la susceptance à la conductance.
+  - Le facteur de qualité dépend généralement de la fréquence et de la tension.
+  - En français, le terme «facteur de surtension» est d’usage courant, même en l’absence
+    de surtension.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de qualité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un bipôle
+  - designation: facteur de surtension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un bipôle
+dateAccepted: 2018-11-17
+id: 18a4292b-49f2-5cd9-bc4b-37d4c9601598
+status: valid

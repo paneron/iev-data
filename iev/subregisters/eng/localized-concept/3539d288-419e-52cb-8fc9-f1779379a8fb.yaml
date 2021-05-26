@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: '{{quantity, IEV:112-01-01}} which can be represented by a {{vector,
+    IEV:102-03-04}} multiplied by a {{scalar quantity, IEV:102-02-19}}'
+  examples: []
+  id: 102-03-21
+  language_code: eng
+  notes:
+  - 'The vector defining a vector quantity is generally a unit vector in the usual
+    two- or three-dimensional geometrical space. A vector quantity can then be represented
+    as an oriented line segment characterized by its point of acting, its direction
+    and its magnitude, where the magnitude is a non-negative number multiplied by
+    a unit of measurement. The components are also the product of a numerical value
+    and the unit. Examples of vector quantities are: velocity, force, electric field
+    strength.'
+  - A vector quantity may be considered either as attached to a point of acting (localized
+    or bound vector), or as having any point of acting on a straight line parallel
+    to it (sliding vector), or as having any point of acting in the space (free vector).
+  - Operations defined for vectors apply to vector quantities. For example, the product
+    of a scalar quantity `p` and the vector quantity `Q = q e` is the vector quantity
+    `p Q = p q e`, where *`e`* is a unit vector.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vector quantity
+    normative_status: preferred
+    type: expression
+  - designation: vector
+    normative_status: preferred
+    type: expression
+    usage_info: quantity
+dateAccepted: 2017-07-01
+id: 3539d288-419e-52cb-8fc9-f1779379a8fb
+status: valid

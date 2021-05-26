@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - original: see CISPR 11
+      ref: IEC CISPR 11
+      relationship:
+        type: related
+  dateAmended: 2004-09-01
+  definition: nominal value of the working frequency of the generator which lies between
+    its minimal and maximal values and is shown on the rating plate of the equipment
+  examples: []
+  id: 841-28-33
+  language_code: eng
+  notes:
+  - When the generator operates in the designated frequency band, the nominal frequency
+    is usually the arithmetic mean value of both limits of the band
+  reviewDate: 2004-09-01
+  reviewDecisionDate: 2004-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nominal dielectric heating frequency
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-09-01
+id: 0e08c98c-33db-515b-a934-1ce0278110d9
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: error detection in which every character or block found to be erroneous
+    at the receiving end is either removed from data retained with a possible indication
+    at its removal or is retained with the indication of existence of an error
+  examples: []
+  id: 721-08-17
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error detection without repetition
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: ee07f252-ce16-5dac-b431-1f30bd8a46b4
+status: valid

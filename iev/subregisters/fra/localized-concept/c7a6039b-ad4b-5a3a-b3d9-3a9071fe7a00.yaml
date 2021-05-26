@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 702-08-39
+      link: https://webstore.iec.ch/publication/239
+      original: CEI 60050-702:1992, 702-08-39, modifiée
+      ref: IEC 60050-702:1992
+      relationship:
+        type: modified
+    - clause: '3.15'
+      link: https://www.iso.org/standard/51997.html
+      original: 'ISO 8253-2:2009, <i>Acoustique – Méthodes d''essais audiométriques
+        – Partie 2: Audiométrie en champ acoustique avec des sons purs et des bruits
+        à bande étroite comme signaux d''essai</i>, 3.15, modifiée – Nouvelle formulation
+        sur la base des deux définitions.'
+      ref: ISO 8253-2:2009
+      relationship:
+        modification: Nouvelle formulation sur la base des deux définitions.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: bruit aléatoire ayant un spectre continu et dont la densité spectrale
+    de puissance est indépendante de la fréquence
+  examples: []
+  id: 351-41-27
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-21-50 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit blanc
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: c7a6039b-ad4b-5a3a-b3d9-3a9071fe7a00
+status: valid

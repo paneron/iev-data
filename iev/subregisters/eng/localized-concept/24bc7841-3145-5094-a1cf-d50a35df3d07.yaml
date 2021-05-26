@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: short-term variations of the zero crossings of the oscillator output
+    signal from their ideal position in time image::/assets/images/parts/561/561-fig20-en.png[]
+    *Légende* `T`~ref~ is the period of an ideal reference signal *Figure 20 – Clock
+    signal with phase jitter*
+  examples: []
+  id: 561-03-21
+  language_code: eng
+  notes:
+  - The phase variation Δ`φ` with frequency components is greater than or equal to
+    10 Hz. Variations slower than 10 Hz are called “wander”.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase jitter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 24bc7841-3145-5094-a1cf-d50a35df3d07
+status: valid

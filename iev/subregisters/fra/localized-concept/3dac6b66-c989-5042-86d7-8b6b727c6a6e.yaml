@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-01-01
+  definition: qualifie ou complète un {{nom de grandeur, IEV:112-01-02}} pour désigner
+    le quotient de cette grandeur par une longueur d'onde ou une fréquence
+  examples: []
+  id: 112-03-16
+  language_code: fra
+  notes:
+  - 'La longueur d''onde est utilisée principalement en optique, et la fréquence en
+    radioélectricité, acoustique et théorie du signal. Exemples: {{densité spectrale
+    de puissance, IEV:103-09-05}} ou puissance spectrique, éclairement énergétique
+    spectrique ou densité spectrale d’éclairement (voir {{IEV 731-01-30, IEV:731-01-30}}).'
+  - L’adjectif "spectral" est aussi employé pour désigner des grandeurs qui dépendent
+    de la longueur d’onde ou de la fréquence, mais qui n’ont pas le caractère d’une
+    densité spectrale, par exemple l’émissivité spectrale. Voir {{IEV 845-01-16, IEV:845-01-16}}.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectrique
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: spectral
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: densité spectrale de …
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: 3dac6b66-c989-5042-86d7-8b6b727c6a6e
+status: valid

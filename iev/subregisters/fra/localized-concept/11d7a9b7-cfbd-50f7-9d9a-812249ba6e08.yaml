@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: angle qu'établit une direction de référence choisie entre le plan vertical
+    à travers un point donné sur une surface routière et le premier axe d'un luminaire,
+    lorsque le luminaire est incliné lors d'un mesurage
+  examples: []
+  id: 845-31-140
+  language_code: fra
+  notes:
+  - Par convention, la direction de référence d'une route rectiligne est la direction
+    longitudinale.
+  - L'angle azimutal d'installation est exprimé en radian (rad) ou en degré (°).
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle azimutal d'installation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une route
+dateAccepted: 2018-11-17
+id: 11d7a9b7-cfbd-50f7-9d9a-812249ba6e08
+status: valid

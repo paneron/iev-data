@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: affaiblissement exprimé en décibels, constant pour toutes les fréquences
+    transmises, qu'il faut insérer dans un système de référence donné, ou qu'il faut
+    supprimer dans ce système, pour obtenir une qualité de transmission dans un sens
+    déterminé égale, quand un système téléphonique à évaluer est substitué, soit au
+    système de référence complet, soit à une de ses parties convenablement choisie
+  examples: []
+  id: 722-17-12
+  language_code: fra
+  notes:
+  - L'affaiblissement équivalent pour la qualité de transmission est positif ou négatif
+    selon qu'il a fallu insérer ou supprimer l'affaiblissement en question.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement équivalent pour la qualité de transmission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: indice de qualité de transmission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 18e1a5d4-664a-5b90-a6a3-16e7d87fbcc7
+status: valid

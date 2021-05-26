@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^20^ d''une unité de mesure'
+  examples:
+  - Un mébioctet = 1 Mio = (1 024)^2^ o = 1 048 576 o.
+  id: 171-02-15
+  language_code: fra
+  notes:
+  - Le préfixe mébi a pour origine mégabinaire, (2^10^)^2^, dérivé du préfixe SI méga,
+    (10^3^)^2^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: mébi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e13899c-3639-5a27-a629-481ccad92b03
+status: valid

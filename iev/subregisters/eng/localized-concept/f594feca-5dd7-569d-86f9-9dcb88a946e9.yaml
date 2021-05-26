@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: under periodic conditions, mean value, taken over one period `T`, of
+    the instantaneous power `p` `P = (1)/(T) int_0^T p d t`
+  examples: []
+  id: 131-11-42
+  language_code: eng
+  notes:
+  - Under sinusoidal conditions, the active power is the real part of the complex
+    power `underset(_)(S)`, thus `underset(_)(P) = Re underset(_)(S)`.
+  - The coherent SI unit for active power is watt, W.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: active power
+    normative_status: preferred
+    type: expression
+  - designation: '`P`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: f594feca-5dd7-569d-86f9-9dcb88a946e9
+status: valid

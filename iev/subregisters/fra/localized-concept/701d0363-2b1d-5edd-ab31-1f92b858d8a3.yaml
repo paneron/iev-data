@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: loi qui associe l'éclairement, `E`, sur une surface réelle ou imaginaire
+    à l'intensité lumineuse, `I`, d'une <a href="IEV845-21-033">source ponctuelle</a>
+    éclairante selon laquelle `E = ((I cos theta))/((d^2))` où `θ` est l'angle entre
+    la perpendiculaire à la surface et la ligne entre cette surface et la source et
+    `d` est la distance entre la source et la surface
+  examples: []
+  id: 845-25-104
+  language_code: fra
+  notes:
+  - La loi de la distance photométrique s'applique strictement à une source ponctuelle
+    uniquement. Toutefois, elle peut aussi s'appliquer aux sources non ponctuelles
+    à des distances suffisamment grandes dans des limites acceptables d'erreur ou
+    d'incertitude de mesure; dans ce cas, il convient de confirmer par mesurage le
+    degré d'approximation à la distance utilisée.
+  - Pour les sources radiométriques, le terme équivalent est "loi de distance radiométrique".
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi de distance photométrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 701d0363-2b1d-5edd-ab31-1f92b858d8a3
+status: valid

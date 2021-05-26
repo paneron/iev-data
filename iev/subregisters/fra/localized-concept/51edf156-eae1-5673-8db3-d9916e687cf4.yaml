@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '3.2'
+      link: https://webstore.iec.ch/publication/7077
+      original: IEC 62474:2012, définition 3.2, modifié – “Ces substances et groupes
+        de substances” remplacé par "Les substances déclarables et groupes de substances
+        déclarables” dans la Note 1 à l'article
+      ref: IEC 62474:2012
+      relationship:
+        modification: “Ces substances et groupes de substances” remplacé par "Les
+          substances déclarables et groupes de substances déclarables” dans la Note
+          1 à l'article
+        type: modified
+  definition: '{{substance, IEV:904-02-01}} et {{groupe de substances, IEV:904-02-04}}
+    qui satisfont aux critères établis dans la IEC 62474, et spécifiés dans la base
+    de données de la IEC 62474'
+  examples: []
+  id: 904-02-05
+  language_code: fra
+  notes:
+  - Les substances déclarables et groupes de substances déclarables sont répertoriés
+    dans la base de données de l'IEC 62474 avec une exigence de déclaration obligatoire
+    ou facultative au-dessus du seuil spécifié dans la base de données de l'IEC 62474.
+  reviewDecisionEvent: published
+  terms:
+  - designation: substance déclarable et groupe de substances déclarable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 51edf156-eae1-5673-8db3-d9916e687cf4
+status: valid

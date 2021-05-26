@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température maximale spécifiée de l'objet, à laquelle la résistance
+    de traçage fonctionne en continu selon les déclarations du constructeur lorsque
+    la résistance de traçage est alimentée
+  examples: []
+  id: 426-20-47
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: température maximale de maintien
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: traçage
+  - designation: température maximale de fonctionnement continu
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: traçage
+dateAccepted: 2018-11-17
+id: a13f3093-25a7-50e1-8efa-7557d1d04a16
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 701-03-02
+      original: 701-03-02
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1992-04-01
+  definition: chaîne de connexion qui relie des terminaux d'usagers
+  examples: []
+  id: 714-01-10
+  language_code: fra
+  notes: []
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: chaîne de connexion complète
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: (chemin de) communication
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 6cfdcd40-07e7-5ad5-b08d-13a8924cdc64
+status: valid

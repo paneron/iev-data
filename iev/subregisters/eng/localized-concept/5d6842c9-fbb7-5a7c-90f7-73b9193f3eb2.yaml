@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: device which can be used for determining the meter error
+  examples: []
+  id: 314-07-12
+  language_code: eng
+  notes:
+  - This device can be, for electromechanical induction meters, a mark on the disk,
+    where the passage of the mark is detected by an external photoelectric device,
+    or, for static meters, an internal electronic pulse emitting device.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: test output device
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 5d6842c9-fbb7-5a7c-90f7-73b9193f3eb2
+status: valid

@@ -1,0 +1,92 @@
+data:
+  authoritativeSource:
+  - - clause: '1.7'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC Guide 99:2007, 1.7, modified – "dimension of a quantity" is
+        specified as the preferred term and "quantity dimension" as a preferred synonym,
+        addition of a cross-reference in the definition and note 4, transfer of examples
+        1 and 2 to Note 5 to entry and addition of a new example, transfer of example
+        3 to a new Note 6 to entry"
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        modification: '"dimension of a quantity" is specified as the preferred term
+          and "quantity dimension" as a preferred synonym, addition of a cross-reference
+          in the definition and note 4, transfer of examples 1 and 2 to Note 5 to
+          entry and addition of a new example, transfer of example 3 to a new Note
+          6 to entry"'
+        type: modified
+  classification: Preferred
+  dateAmended: 2019-01-01
+  definition: expression of the dependence of a quantity on the {{base quantities,
+    IEV:112-01-08}} of a system of quantities as a product of powers of factors corresponding
+    to the base quantities, omitting any numerical factor
+  examples: []
+  id: 112-01-11
+  language_code: eng
+  notes:
+  - A power of a factor is the factor raised to an exponent. Each factor is the dimension
+    of a base quantity.
+  - The conventional symbolic representation of the dimension of a base quantity is
+    a single upper case letter in roman (upright) sans-serif type. The conventional
+    symbolic representation of the dimension of a derived quantity is the product
+    of powers of the dimensions of the base quantities according to the definition
+    of the derived quantity. The dimension of a quantity `Q` is denoted by dim `Q`.
+  - In deriving the dimension of a quantity, no account is taken of its scalar, vector
+    or tensor character.
+  - "In a given system of quantities,\r\n\r\n* quantities of the same kind (see {{IEV\
+    \ 112-01-04, IEV:112-01-04}}) have the same dimension,\r\n* quantities of different\
+    \ dimensions are always of different kinds, and\r\n* quantities having the same\
+    \ dimension are not necessarily of the same kind. For example, in the {{International\
+    \ System of Quantities, IEV:112-02-01}} (ISQ), pressure and energy density (volumic\
+    \ energy) have the same dimension L^–1^MT^–2^. See also note 5."
+  - "In the International System of Quantities (ISQ), the symbols representing the\
+    \ dimensions of the base quantities are:\n\n<table cellpadding=\"2\" border=\"\
+    solid\">\r\n<tbody>\r\n<tr>\r\n<td width=\"198\">\n\nBase quantity\r\n</td>\r\n\
+    <td width=\"159\">\n\nSymbol for dimension\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"\
+    198\">\n\nlength\r\n</td>\r\n<td width=\"159\">\n\n`L`\r\n</td>\r\n</tr>\r\n<tr>\r\
+    \n<td width=\"198\">\n\nmass\r\n</td>\r\n<td width=\"159\">\n\n`M`\r\n</td>\r\n\
+    </tr>\r\n<tr>\r\n<td width=\"198\">\n\ntime\r\n</td>\r\n<td width=\"159\">\n\n\
+    `T`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nelectric current\r\n</td>\r\
+    \n<td width=\"159\">\n\n`I`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\n\
+    thermodynamic temperature\r\n</td>\r\n<td width=\"159\">\n\n`Θ`\r\n</td>\r\n</tr>\r\
+    \n<tr>\r\n<td width=\"198\">\n\namount of substance\r\n</td>\r\n<td width=\"159\"\
+    >\n\n`N`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nluminous intensity\r\
+    \n</td>\r\n<td width=\"159\">\n\n`J`\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\n\
+    \nThus, the dimension of a quantity `Q` is denoted by dim `Q` = `L``α``M``β``T``γ``I``δ``Θ``ε``N``ζ``J``η`,\
+    \ where the exponents, named dimensional exponents, are positive, negative, or\
+    \ zero. Factors with exponent 0 are usually omitted. When all exponents are zero,\
+    \ the symbol `1`, printed in sans-serif type, is used to represent the dimension.\
+    \ Examples are:\r\n\r\n* The dimension of force is dim `F` = LMT^–2^.\r\n* Mass\
+    \ concentration of a given component and mass density (volumic mass) have the\
+    \ same dimension ML^–3^.\r\n* Electric current and scalar magnetic potential have\
+    \ the same dimension I^1^ = I, although they are not quantities of the same kind."
+  - 'An exponent can be fractional.
+
+
+    The period `T` of a pendulum of length `l` at a place with the local acceleration
+    of free fall `g` is:
+
+
+    `T = 2 pi sqrt((1)/(g))` or `T = C ( g ) sqrt(l)` where
+
+
+    `C ( g ) = ((2 pi))/((sqrt(g)))`
+
+
+    Hence dim `C`(`g`) = `T`· `L`^−1/2^.'
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dimension of a quantity
+    normative_status: preferred
+    type: expression
+  - designation: quantity dimension
+    normative_status: preferred
+    type: expression
+  - designation: dimension
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-01-01
+id: 02d66c44-25db-5ae4-907b-8526c4aa9e19
+status: valid

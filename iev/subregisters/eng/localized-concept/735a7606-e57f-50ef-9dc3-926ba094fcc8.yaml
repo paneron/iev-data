@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 13-38
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-38, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: quotient of the {{character mean entropy, IEV:171-07-28}} `H`^′^ by
+    the mean duration of a character `H`^*^ = `H`^′^/`t`(`X`) where `X` = {`x`~1~,
+    …, `x`~`n`~} is the set of input characters `xi` (`i` = 1, …, `n`) and `t ( X
+    ) = sum_((n = 1))^n p ( x_i ) * t ( x_i )` is the mean value of the duration `t`(`xi`)
+    of a character `xi` which occurs with probability `p`(`xi`)
+  examples: []
+  id: 171-07-29
+  language_code: eng
+  notes:
+  - The average information rate can be expressed in a unit such as the shannon per
+    character and second.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: average information rate
+    normative_status: preferred
+    type: expression
+  - designation: '`H`^*^'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 735a7606-e57f-50ef-9dc3-926ba094fcc8
+status: valid

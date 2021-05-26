@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'unique positive value, if it exists, associated with a three-dimensional
+    domain, with the following properties: * for a rectangular parallelepiped, the
+    value is the product of the three side lengths, * for a disjoint union of domains,
+    the value is the sum of the values associated to these domains, * for more complicated
+    domains, the value can be approximated by sums and given by an integral'
+  examples: []
+  id: 102-04-40
+  language_code: eng
+  notes:
+  - The volume `V` of the three-dimensional domain D is determined by the volume integral
+    `underset(D)( ∭ ) d V`, where d`V` is the volume element ({{IEV 102-05-10, IEV:102-05-10}}).
+  - In the usual geometrical space, the volume is a quantity of dimension length cubed.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume
+    normative_status: preferred
+    type: expression
+  - designation: '`V`'
+    international: true
+    type: symbol
+dateAccepted: 2008-08-01
+id: 6b16ba06-a867-5d48-8991-b53173f1db2c
+status: valid

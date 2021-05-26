@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: the time during automatic reclosing when the power line or phase cannot
+    transfer any power
+  examples: []
+  id: 448-16-10
+  language_code: eng
+  notes:
+  - 'For radial fed power lines the autoreclose interruption time is equal to the
+    dead time and to the autoreclose open time.
+
+
+    See figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-en.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: autoreclose interruption time
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: 36fb726b-6844-5550-8b71-4a7d98113454
+status: valid

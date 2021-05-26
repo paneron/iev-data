@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la <a href="IEV845-21-050">luminance</a> à un élément de
+    surface d'un milieu dans une direction donnée par l'<a href="IEV845-21-060">éclairement</a>
+    du milieu `q_v = ((L_v))/((E_v))` où `L`~v~ est la luminance et `E`~v~ est l'éclairement
+  examples: []
+  id: 845-24-079
+  language_code: fra
+  notes:
+  - La fonction de répartition bidirectionnelle du facteur de réflexion (BRDF ou bi-directional
+    reflectance distribution function en anglais) est similaire au coefficient de
+    luminance sauf qu'elle est définie pour un rayonnement incident directionnel.
+  - Le coefficient de luminance est exprimé en stéradian à la puissance moins un (sr^−1^).
+  - Cet article était numéroté 845-04-71 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de luminance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3eb3ea47-832e-517f-9948-d3fe4da74ca8
+status: valid

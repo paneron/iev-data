@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la partie de l'éclairement lumineux en un point d'un plan
+    donné dans un intérieur, qui est due directement à la réflexion par des surfaces
+    intérieures éclairées directement ou indirectement par un ciel dont la distribution
+    des luminances est réputée ou connue, par l'éclairement sur un plan horizontal
+    provenant d'un hémisphère sans obstruction de ce ciel, la contribution de la lumière
+    solaire directe à ces deux éclairements étant exclue
+  examples: []
+  id: 845-29-124
+  language_code: fra
+  notes:
+  - Pour le calcul de l'éclairage intérieur, la contribution de la lumière solaire
+    directe doit être prise en considération séparément.
+  - L'unité de composante réfléchie interne du facteur de lumière du jour est un.
+  - Cet article était numéroté 845-09-100 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: composante réfléchie interne du facteur de lumière du jour
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dabd17fb-d57f-5395-9702-badf3ec455c7
+status: valid

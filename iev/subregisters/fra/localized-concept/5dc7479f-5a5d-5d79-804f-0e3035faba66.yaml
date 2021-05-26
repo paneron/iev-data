@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{onde radioélectrique, IEV:701-02-12}} ou {{signal, IEV:701-01-02}}
+    produit par un émetteur de radiodiffusion'
+  examples: []
+  id: 723-01-03
+  language_code: fra
+  notes:
+  - Le terme "émission" désigne également la production d'ondes et de signaux (voir
+    {{IEV 161-01-09, IEV:161-01-09}}) en radiocommunication, la production de toutes
+    ondes ou particules (voir {{IEV 702-02-03, IEV:702-02-03}}), un processus en radiocommunication
+    (voir {{IEV 702-02-05, IEV:702-02-05}}), un rejet dans l'environnement (voir {{IEV
+    904-01-11, IEV:904-01-11}}), et est employé en tant que synonyme du terme "{{programme,
+    IEV:723-01-02}}" en radiodiffusion et en télédistribution.
+  - Le terme français "{{émission, IEV:702-02-04}}" s'applique également au concept
+    représenté par le terme anglais "{{sending, IEV:702-02-04}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en radiodiffusion
+dateAccepted: 2018-11-17
+id: 5dc7479f-5a5d-5d79-804f-0e3035faba66
+status: valid

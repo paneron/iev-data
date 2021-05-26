@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: effet dû à l'emploi, dans la numérisation d'un signal d'image, d'un
+    nombre insuffisant d'intervalles de quantification pour représenter correctement
+    le signal analogique d'origine
+  examples: []
+  id: 723-10-79
+  language_code: fra
+  notes:
+  - En anglais, le terme "contour distortion" est employé lorsque l'effet est gênant
+    et le terme "posterisation" lorsqu'il a pour but d'obtenir un effet spécial.
+  - En français, le terme "distorsion de contour" est employé seulement lorsque l'effet
+    est gênant.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (effet de) sous-quantification
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: distorsion de contour
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 42e6214d-6d54-5bc8-9038-446b7bc1ba39
+status: valid

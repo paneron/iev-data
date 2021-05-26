@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'of electrical steel, the ratio of the difference between the peak value
+    of the magnetic field strength `hat H_(alpha)` measured at an angle `α` to the
+    direction of rolling, and the peak value of the magnetic field strength `hat H_0`
+    measured along the direction of rolling, to `hat H_0`, at a stated peak value
+    of the magnetic flux density, the ratio being expressed as a percentage: `T_H
+    = ((hat H_(alpha) - hat H_0))/((hat H_0)) xx 100 %`'
+  examples: []
+  id: 221-03-40
+  language_code: eng
+  notes:
+  - The measurements of `hat H_(alpha)` and`hat H_0` are to be made under the same
+    conditions.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic field strength anisotropy factor
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~`H`~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 511e5914-cf23-538f-b956-589002e5ec3d
+status: valid

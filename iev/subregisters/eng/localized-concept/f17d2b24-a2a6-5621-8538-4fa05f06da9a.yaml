@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: between two given nodes in a network, ordered set of branches numbered
+    1, 2 ... such that the branch of rank `i` is connected by one end to the branch
+    of rank `i` − 1 and by the other end to the branch of rank `i` + 1
+  examples: []
+  id: 131-13-08
+  language_code: eng
+  notes:
+  - The path is said to be closed if the two given nodes are the same.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: path
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: f17d2b24-a2a6-5621-8538-4fa05f06da9a
+status: valid

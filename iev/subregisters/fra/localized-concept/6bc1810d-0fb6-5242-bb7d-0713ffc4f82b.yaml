@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: moyenne géométrique des fréquences de coupure limitant une même bande
+    passante ou une même bande atténuée
+  examples: []
+  id: 561-02-28
+  language_code: fra
+  notes:
+  - Dans la pratique, la moyenne arithmétique est souvent utilisée comme une bonne
+    approximation à la moyenne géométrique pour les filtres piézoélectriques dont
+    la bande passante ou la bande atténuée est relativement étroite.
+  - Cet article était numéroté 561-03-11 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence centrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un filtre passe-bande ou d’un filtre coupe-bande
+dateAccepted: 2018-11-17
+id: 6bc1810d-0fb6-5242-bb7d-0713ffc4f82b
+status: valid

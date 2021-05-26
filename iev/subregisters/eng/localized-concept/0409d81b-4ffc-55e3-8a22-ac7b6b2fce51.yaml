@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{device, IEV:151-11-20}} intended to detect {{arc faults, IEV:442-05-66}}
+    and provide a signal for operation of a mitigation or current interruption device
+    Note 1 to entry: An arc flash protection device relies primarily on sensing other
+    than traditional {{overcurrents, IEV:151-15-28}}, such as light sensing, pressure
+    sensing, and current spectra sensing. The device can, or not, use traditional
+    current sensing as an additional signal.'
+  examples: []
+  id: 447-01-50
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: arc flash protection device
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 0409d81b-4ffc-55e3-8a22-ac7b6b2fce51
+status: valid

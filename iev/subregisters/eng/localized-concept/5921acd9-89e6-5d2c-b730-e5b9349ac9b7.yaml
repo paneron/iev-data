@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.9
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.9
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: type of message error in which a data corruption occurs
+  examples: []
+  id: 821-11-08
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: corrupted message
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 5921acd9-89e6-5d2c-b730-e5b9349ac9b7
+status: valid

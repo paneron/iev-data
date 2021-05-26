@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifies an input, output or transfer immittance when the other ports
+    have zero terminating admittances, or a forward or reverse transfer ratio when
+    the port corresponding to the numerator has zero terminating admittance
+  examples: []
+  id: 131-14-23
+  language_code: eng
+  notes:
+  - Examples in IEC 60027-2 are the open-circuit output impedance, the open-circuit
+    output admittance, the open-circuit reverse voltage transfer ratio.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: open-circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: f914de44-305d-5638-87c9-8cb6433c1b86
+status: valid

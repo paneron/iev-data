@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'duration of the time interval after a stepwise change of the reference
+    variable or a stepwise change of a disturbance variable beginning, when the controlled
+    variable for the first time leaves a specified tolerance band, placed around the
+    desired value of the controlled variable, and ending, when the controlled variable
+    for the first time returns into this tolerance band SEE: Figure 11.'
+  examples: []
+  id: 351-46-01
+  language_code: eng
+  notes:
+  - This entry was numbered 351-25-01 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: control rise time
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~cr~'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: c94ac81e-9aa1-5142-b2eb-7ef89934344d
+status: valid

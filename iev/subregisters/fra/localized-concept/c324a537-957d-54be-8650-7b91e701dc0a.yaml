@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: '1.6'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.6
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: 'système de grandeurs fondé sur les sept grandeurs de base: longueur,
+    masse, temps, courant électrique, température thermodynamique, quantité de matière,
+    intensité lumineuse'
+  examples: []
+  id: 112-02-01
+  language_code: fra
+  notes:
+  - Le Système international de grandeurs est publié dans la Norme internationale
+    ISO/CEI 80000, Grandeurs et unités.
+  - Le Système international d'unités (SI) est fondé sur l'ISQ.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Système international de grandeurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ISQ
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: c324a537-957d-54be-8650-7b91e701dc0a
+status: valid

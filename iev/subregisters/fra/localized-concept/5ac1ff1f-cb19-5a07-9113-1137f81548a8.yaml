@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension caractérisant l'importance relative de la convection
+    forcée et de la conduction thermique, définie par `P e = ((rho c_p v l))/(lambda)
+    = ((v l))/(alpha)`, où `ρ` est la masse volumique, `cp` est la capacité thermique
+    massique à pression constante, `v` est la vitesse, `l` est une longueur spécifiée,
+    `λ` est la conductivité thermique, et `α` est la diffusivité thermique
+  examples: []
+  id: 113-04-57
+  language_code: fra
+  notes:
+  - Le nombre de Péclet est le produit du nombre de Reynolds `Re` et du nombre de
+    Prandtl `Pr`, soit `Pe` = `Re` ⋅ `Pr`.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de Péclet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 5ac1ff1f-cb19-5a07-9113-1137f81548a8
+status: valid

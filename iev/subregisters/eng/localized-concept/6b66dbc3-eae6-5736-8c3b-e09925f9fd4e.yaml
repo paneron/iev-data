@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: the interval of time between the sending of the calling signal by the
+    calling party and the reception of the call-connect signal
+  examples: []
+  id: 721-17-70
+  language_code: eng
+  notes:
+  - It is the sum of the preselection delay, selection time and postselection time.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: call set-up time
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 6b66dbc3-eae6-5736-8c3b-e09925f9fd4e
+status: valid

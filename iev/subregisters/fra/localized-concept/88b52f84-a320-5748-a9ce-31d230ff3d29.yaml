@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: contacts fournissant différents niveaux de contact et séquences
+  examples: []
+  id: 581-27-37
+  language_code: fra
+  notes:
+  - Au cours de l’insertion du module de connecteur, au moins un contact du niveau
+    supérieur doit se connecter avant tout contact d’un niveau de contact inférieur;
+    tandis qu’au cours de l’extraction du module de connecteur, au moins un contact
+    du niveau supérieur ne se déconnectera pas avant n’importe quel contact d'un niveau
+    inférieur.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contacts séquentiels
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2008-09-01
+id: 88b52f84-a320-5748-a9ce-31d230ff3d29
+status: valid

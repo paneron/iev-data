@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du coefficient d'intensité lumineuse `R` d'une surface plane
+    rétroréfléchissante par son aire `A` `R_A = (R)/(A) = ((I // E_( _|_ )))/(A)`
+    où `I` est l'intensité lumineuse du rétroréflecteur dans la direction d'observation,
+    et `E_( _|_ )` est l'éclairement du rétroréflecteur dans un plan perpendiculaire
+    à la direction de la lumière incidente
+  examples: []
+  id: 845-24-103
+  language_code: fra
+  notes:
+  - Le coefficient de rétroréflexion est particulièrement utile pour décrire les matériaux
+    en feuilles.
+  - Anciennement, le symbole `R`′ était utilisé pour cette grandeur.
+  - Le coefficient de rétroréflexion est exprimé en candela par lux par mètre carré
+    (cd·lx^−1^·m^−2^).
+  - Cet article était numéroté 845-04-97 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de rétroréflexion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6483725d-580f-5f19-ba29-eaed5f918b78
+status: valid

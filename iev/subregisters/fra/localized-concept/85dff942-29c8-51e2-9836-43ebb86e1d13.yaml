@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: en un point donné d'une ligne de transmission ou d'un guide d'ondes,
+    rapport complexe des valeurs d'une même composante spécifiée d'un vecteur de champ
+    pour une onde électromagnétique d'un mode donné et pour une onde de référence
+    du même mode
+  examples: []
+  id: 726-05-08
+  language_code: fra
+  notes:
+  - Pour un mode de propagation, l'onde de référence, ou onde d'amplitude unité, est
+    celle qui transporte la puissance unité et dont une composante de champ spécifiée
+    a la phase zéro en un point spécifié de la section droite de référence. On choisit
+    habituellement la composante transversale du vecteur champ électrique au centre
+    de la section droite de référence.
+  - Pour un mode évanescent, la puissance transportée par l'onde est nulle. On peut
+    alors égaler à l'unité imaginaire le flux, à travers la section droite de référence,
+    du vecteur de Poynting complexe longitudinal, ou définir une autre méthode de
+    normalisation.
+  - Il est préférable de considérer séparément les modes de propagation et les modes
+    évanescents, car la notion d'amplitude complexe normalisée est surtout appliquée
+    aux premiers.
+  - Pour les cas peu fréquents où la matrice de répartition est étendue aux modes
+    évanescents, il est préférable de laisser libre le choix de l'onde de référence.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude complexe normalisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur normalisé d'amplitude
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 85dff942-29c8-51e2-9836-43ebb86e1d13
+status: valid

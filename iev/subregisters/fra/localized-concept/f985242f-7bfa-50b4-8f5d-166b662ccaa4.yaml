@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: circuit d'un appareil de mesure alimenté par la tension du circuit auquel
+    l'appareil de mesure est raccordé
+  examples: []
+  id: 312-01-02
+  language_code: fra
+  notes:
+  - 'Cette tension peut être:
+
+
+    – la tension directement mise en jeu dans la mesure,
+
+
+    – une tension proportionnelle fournie par un transformateur de tension ou par
+    un diviseur externe,
+
+
+    – obtenue au moyen d''une résistance ou d''une impédance série externe.'
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit de tension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: f985242f-7bfa-50b4-8f5d-166b662ccaa4
+status: valid

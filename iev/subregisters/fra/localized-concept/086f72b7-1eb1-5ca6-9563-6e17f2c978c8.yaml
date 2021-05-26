@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: maintenance préventive reposant sur l'évaluation de la condition physique
+  examples: []
+  id: 192-06-07
+  language_code: fra
+  notes:
+  - La condition peut être évaluée par l’observation d’un opérateur, réalisée selon
+    un échéancier, ou par la surveillance d’état ({{192-06-28, IEV:192-06-28}}) des
+    paramètres du système.
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenance conditionnelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 086f72b7-1eb1-5ca6-9563-6e17f2c978c8
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: signal de synchronisation reçu par un noeud de synchronisation sur une
+    liaison de synchronisation en provenance d'un noeud éloigné déterminé, où ce signal
+    a été formé, en tant que signal de synchronisation local, à partir de la relation
+    de phase entre la trame temporelle cyclique issue de sa propre horloge et la trame
+    temporelle cyclique d'un signal numérique provenant du noeud auquel le signal
+    de synchronisation est envoyé
+  examples: []
+  id: 704-15-14
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal de synchronisation formé à distance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 9884bb63-6241-5402-bd1d-1ca892b1f426
+status: valid

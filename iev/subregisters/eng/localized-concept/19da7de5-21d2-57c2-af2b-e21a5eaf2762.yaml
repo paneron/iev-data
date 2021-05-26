@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: circuit in a synchronous, DC or single-phase commutator machine which,
+    in service, receives active power from or delivers active power to the external
+    electrical system
+  examples: []
+  id: 411-37-43
+  language_code: eng
+  notes:
+  - This definition applies also to the synchronous compensator if the term "active
+    power" is replaced by "reactive power".
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: armature circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 19da7de5-21d2-57c2-af2b-e21a5eaf2762
+status: valid

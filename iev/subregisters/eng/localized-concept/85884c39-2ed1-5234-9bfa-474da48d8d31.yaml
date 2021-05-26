@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: for a two-terminal element or a two-terminal circuit under periodic
+    conditions, quantity equal to the square root of the difference of the squares
+    of the apparent power `S` and the active power `P` `Q_( ∼ ) = sqrt(S^2 - P^2)`
+  examples: []
+  id: 131-11-43
+  language_code: eng
+  notes:
+  - Under sinusoidal conditions, the non-active power is the absolute value of the
+    reactive power `Q` or the imaginary part of the complex power `underset(_)(S)`,
+    thus `Q_( ∼ ) = | Q | = | Im underset(_)(S) |`.
+  - The coherent SI unit for non-active power is voltampere, VA. The special name
+    "var" and its symbol "var" are also used. See {{131-11-45, IEV:131-11-45}}.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-active power
+    normative_status: preferred
+    type: expression
+  - designation: '`Q_( ∼ )`
+
+      `Q^( '' )`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 85884c39-2ed1-5234-9bfa-474da48d8d31
+status: valid

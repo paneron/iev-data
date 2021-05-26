@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2015-02-01
+  definition: time interval between failure and detection of the resulting fault image::/assets/images/parts/192/60050-192-F2en.png[Figure
+    2 - Maintenance times]
+  examples: []
+  id: 192-07-11
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fault detection time
+    normative_status: preferred
+    type: expression
+  - designation: undetected fault time
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: 316e008a-03a0-56c4-a56e-2c76cc7773fa
+status: valid

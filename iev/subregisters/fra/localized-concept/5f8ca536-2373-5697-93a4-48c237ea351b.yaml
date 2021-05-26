@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: transformation des {{données, IEV:171-01-02}} provenant d'un {{chiffrement,
+    IEV:171-08-09}} en données initiales
+  examples: []
+  id: 171-08-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: déchiffrement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: décryptage
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5f8ca536-2373-5697-93a4-48c237ea351b
+status: valid

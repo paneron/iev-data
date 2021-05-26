@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 702-07-15
+      original: 702-07-15 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2002-06-01
+  definition: ratio of the apparent power that a specified source would deliver to
+    a load with zero reflection factor at its interface with the source, to the apparent
+    power delivered by the same source to a directly connected given load
+  examples: []
+  id: 131-15-34
+  language_code: eng
+  notes:
+  - When the ratio is less than one, the term "reflection gain factor" is used for
+    the reciprocal value.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reflection loss factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 6e730f17-d4ab-5281-aa05-926b2b4a06ed
+status: valid

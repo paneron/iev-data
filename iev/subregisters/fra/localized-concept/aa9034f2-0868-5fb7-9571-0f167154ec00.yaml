@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.5.9
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.5.9
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  definition: courbe donnant les valeurs maximales de `I`^2^`t` en fonction du courant
+    présumé dans des conditions spécifiées de fonctionnement
+  examples: []
+  id: 442-05-59
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: caractéristique `I`^2^`t`
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un dispositif de coupure
+dateAccepted: 2018-11-17
+id: aa9034f2-0868-5fb7-9571-0f167154ec00
+status: valid

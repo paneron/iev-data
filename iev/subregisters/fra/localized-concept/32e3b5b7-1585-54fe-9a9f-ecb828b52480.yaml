@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: action par laquelle un poste téléphonique installé demandé est informé
+    qu'une tentative d'appel lui est destinée
+  examples: []
+  id: 722-10-17
+  language_code: fra
+  notes:
+  - Le terme "sonnerie" désigne également l'envoi sur la ligne du signal destiné à
+    actionner le récepteur d'appel.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sonnerie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: appel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 32e3b5b7-1585-54fe-9a9f-ecb828b52480
+status: valid

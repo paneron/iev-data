@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: production d'un {{signal, IEV:101-12-02}} à un {{accès d'entrée, IEV:131-12-61}}
+    d'une {{ligne de transmission, IEV:704-02-02}} ou en un point d'un {{milieu de
+    transmission, IEV:704-02-01}}
+  examples: []
+  id: 702-02-04
+  language_code: fra
+  notes:
+  - Le terme français "émission" s'applique également aux concepts définis en {{IEV
+    161-01-09, IEV:161-01-09}}, {{IEV 702-02-03, IEV:702-02-03}}, {{IEV 702-02-05,
+    IEV:702-02-05}}, {{IEV 723-01-03, IEV:723-01-03}} et {{IEV 904-01-11, IEV:904-01-11}}
+    pour lesquels "emission" est le terme ou synonyme anglais.
+  reviewDecisionEvent: published
+  terms:
+  - designation: émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un signal
+dateAccepted: 2018-11-17
+id: cd6e89c6-6118-53c1-b207-c6d540829075
+status: valid

@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 3.3
+      ref: IEC 62542:2013
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: electronic device that cannot be taken apart without destruction or
+    impairment of its {{intended use, IEV:903-01-13}}
+  examples:
+  - '{{Resistors, IEV:151-13-19}}, {{capacitors, IEV:151-13-28}}, {{diodes, IEV:531-31-01}},
+    {{integrated circuits, IEV:521-10-03}}, hybrids, {{application specific integrated
+    circuits, IEV:521-11-18}}, wound components and {{relays, IEV:151-13-31}}.'
+  id: 904-01-09
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electronic component
+    normative_status: preferred
+    type: expression
+  - designation: electronic part
+    normative_status: preferred
+    type: expression
+  - designation: piece part
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 21549bbd-6f89-5b4d-b516-9fa7e641a9ee
+status: valid

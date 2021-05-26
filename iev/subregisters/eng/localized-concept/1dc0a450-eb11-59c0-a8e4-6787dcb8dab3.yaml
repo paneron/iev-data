@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of radiant energy and photon energy `N_p = ((Q_e))/((h nu))`
+    where `Q`~e~ is radiant energy, `h` is the Planck constant, and `ν` is the {{frequency,
+    IEV:103-06-02}} of the corresponding electromagnetic wave
+  examples: []
+  id: 845-21-043
+  language_code: eng
+  notes:
+  - 'Photon number can also be expressed by the time integral of the photon flux,
+    `Φ`~p~, over a given duration, Δ`t`:
+
+
+    `N_p = int_((Delta t)) Phi_p d t`'
+  - The photon number has unit one.
+  - This entry was numbered 845-01-29 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photon number
+    normative_status: preferred
+    type: expression
+  - designation: number of photons
+    type: expression
+  - designation: '`N`~p~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1dc0a450-eb11-59c0-a8e4-6787dcb8dab3
+status: valid

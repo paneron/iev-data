@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-08-01
+  definition: difference between one and the ratio of the square of the mutual permeance
+    `Λij` related to two circuit elements `i` and `j` to the product of their self-permeances
+    `Λii` and `Λjj` `sigma_((i j)) = 1 - ((Lambda_(i j)^2))/((Lambda_((i i)) Lambda_((j
+    j))))`
+  examples: []
+  id: 131-12-42
+  language_code: eng
+  notes:
+  - 'The inductive leakage factor is related to the inductive coupling factor `kij`
+    by the formula:
+
+
+    `k_(i j)^2 = 1 - sigma_((i j))`'
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductive leakage factor
+    normative_status: preferred
+    type: expression
+  - designation: leakage factor
+    normative_status: preferred
+    type: expression
+  - designation: '`σij`
+
+      `σ`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 739afd39-50cd-5921-8bcf-3ae1886acd7f
+status: valid

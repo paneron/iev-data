@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.2
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.2.2
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: energizing quantity by which the residual current device is activated
+    when it is applied under specified conditions
+  examples: []
+  id: 442-05-58
+  language_code: eng
+  notes:
+  - The specified conditions involve, for example, the energizing of certain auxiliary
+    elements.
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energizing input-quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: 77ff1c3a-124c-5ebe-8100-b557219e2961
+status: valid

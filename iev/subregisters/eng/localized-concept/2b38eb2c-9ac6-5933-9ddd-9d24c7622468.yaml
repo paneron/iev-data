@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '2.4'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 2.4
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2010-01-01
+  definition: phenomenon serving as the basis of a measurement
+  examples: []
+  id: 112-04-03
+  language_code: eng
+  notes:
+  - "The phenomenon can be of a physical, chemical, or biological nature.\r\nExamples:\n\
+    \n• Thermoelectric effect applied to the measurement of temperature.\n\n• Energy\
+    \ absorption applied to the measurement of amount-of-substance concentration.\n\
+    \n• Hall effect applied to the measurement of magnetic flux density."
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: measurement principle
+    normative_status: preferred
+    type: expression
+  - designation: principle of measurement
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 2b38eb2c-9ac6-5933-9ddd-9d24c7622468
+status: valid

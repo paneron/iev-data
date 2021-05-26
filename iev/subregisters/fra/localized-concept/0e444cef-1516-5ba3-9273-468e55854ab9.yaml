@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - - clause: 13-34
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-34, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  classification: Preferred
+  definition: '{{entropie conditionnelle, IEV:171-07-23}} d''un ensemble déterminé
+    `Y` de messages reçus par un collecteur de messages lorsque l''on connaît un ensemble
+    déterminé `X` de messages issus d''une source de messages reliée au collecteur
+    par un canal déterminé'
+  examples: []
+  id: 171-07-25
+  language_code: fra
+  notes:
+  - '`H_( - ) ( Y | X ) = H_( + ) ( X | Y ) + H ( Y ) - H ( X )` où `H_( + ) ( X |
+    Y )` est l’{{équivoque, IEV:171-07-24}} et `H` est l’{{entropie, IEV:171-07-15}}.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: altération
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mesure de l'incertitude
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: dispersion
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0e444cef-1516-5ba3-9273-468e55854ab9
+status: valid

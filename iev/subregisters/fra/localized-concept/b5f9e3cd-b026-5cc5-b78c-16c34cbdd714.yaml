@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: temps `τ` dans l'expression `F ( t ) = A + B e^(- t // tau)` d'une grandeur
+    `F` croissant ou décroissant exponentiellement en fonction du temps `t` vers une
+    valeur constante `A`, ou dans l'expression `F ( t ) = A + f ( t ) e^(- t // tau)`
+    d'une oscillation amortie exponentiellement, où `f` est une fonction périodique
+    du temps
+  examples: []
+  id: 103-05-26
+  language_code: fra
+  notes:
+  - La constante de temps d'une grandeur variant exponentiellement est la durée d'un
+    intervalle de temps au bout duquel la valeur absolue de la différence entre la
+    grandeur et la limite atteint 1/e fois la valeur absolue de cette différence au
+    début de l'intervalle de temps, où e est la base des logarithmes népériens.
+  - La constante de temps d'une oscillation amortie est l'inverse du coefficient d'amortissement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de temps
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b5f9e3cd-b026-5cc5-b78c-16c34cbdd714
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: for a linear two-terminal element or two-terminal circuit, under sinusoidal
+    conditions, quantity equal to the product of the apparent power `S` and the sine
+    of the displacement angle `φ` `Q = S sin phi`
+  examples: []
+  id: 131-11-44
+  language_code: eng
+  notes:
+  - The reactive power is the imaginary part of the complex power `underset(_)(S)`,
+    thus `Q = Im underset(_)(S)`. Its absolute value is equal to the non-active power,
+    thus `| Q | = Q_( ∼ )`.
+  - The coherent SI unit for reactive power is voltampere, VA. The special name var
+    and its symbol var are also used. See {{131-11-45, IEV:131-11-45}}.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reactive power
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 6260396c-87ba-57cf-95c4-b7e504dc16d5
+status: valid

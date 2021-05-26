@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-09-01
+  definition: dans une spécification de connecteur, la plus petite valeur admissible
+    pour la température, à laquelle le connecteur, défini par sa catégorie climatique,
+    est destiné à fonctionner
+  examples: []
+  id: 581-21-15
+  language_code: fra
+  notes: []
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: température limite supérieure (d’un connecteur)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ULT
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: 76e830fc-101a-5487-83eb-b0da5c15f0f3
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: état ne permettant pas de fonctionner tel que requis, pour quelque raison
+    que ce soit
+  examples: []
+  id: 192-02-18
+  language_code: fra
+  notes:
+  - L’adjectif «incapable» qualifie une entité se trouvant dans un état d’incapacité.
+  - Le terme «interruption» est déconseillé dans ce sens car il est synonyme de temps
+    d’incapacité ({{192-02-19, IEV:192-02-19}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: état d’incapacité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+  - designation: interruption
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: f68ff423-2aaa-5973-8785-c2690073c6c3
+status: valid

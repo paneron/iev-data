@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: unité servant à exprimer le rapport de deux puissances par le logarithme
+    décimal de ce rapport
+  examples: []
+  id: 702-07-01
+  language_code: fra
+  notes:
+  - Le bel permet aussi d'exprimer le rapport de deux grandeurs de champ. Pour obtenir
+    la même valeur numérique qu'avec le rapport des puissances correspondantes, le
+    logarithme du rapport des grandeurs de champ est multiplié par le facteur 2, en
+    supposant que les impédances soient égales.
+  - Cette unité n'est pas souvent utilisée, et est pratiquement remplacée par le décibel.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 6b0e2072-e9c6-55da-ae03-04cb7f980661
+status: valid

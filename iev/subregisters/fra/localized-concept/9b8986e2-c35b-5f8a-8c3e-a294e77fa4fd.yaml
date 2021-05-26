@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la somme des aires du sol et du plan de travail par la somme
+    de l'aire des parois délimitée par le sol et le plan de travail, utilisé dans
+    le calcul du facteur d'utilisation ou de l'utilance
+  examples: []
+  id: 845-29-075
+  language_code: fra
+  notes:
+  - 'L''indice du sol est donné par la formule
+
+
+    `K_f = ((a b))/((h_f ( a + b )))`
+
+
+    où `a` et `b` sont les dimensions des côtés du local et `h`~f~ la distance entre
+    le sol et le plan d''utilisation'
+  - Voir aussi "<a href="IEV845-29-073">indice du plafond</a>" et "<a href="IEV845-29-071">indice
+    du local</a>".
+  - L'unité d'indice du sol est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice du sol
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9b8986e2-c35b-5f8a-8c3e-a294e77fa4fd
+status: valid

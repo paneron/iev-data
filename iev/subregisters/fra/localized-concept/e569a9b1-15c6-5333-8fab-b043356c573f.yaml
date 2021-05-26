@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: '3.44'
+      link: https://webstore.iec.ch/publication/6486
+      original: définition 3.44 de la CEI 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2011-01-01
+  definition: maximum de la valeur absolue des parties négatives de la forme d'onde
+    de la pression acoustique instantanée dans un champ acoustique ou dans un plan
+    spécifié pendant une période acoustique de répétition des impulsions
+  examples: []
+  id: 802-01-25
+  language_code: fra
+  notes:
+  - La pression acoustique de raréfaction de crête est exprimée en valeur numérique
+    positive.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pression acoustique de raréfaction de crête
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: pression acoustique négative de crête
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-01-01
+id: e569a9b1-15c6-5333-8fab-b043356c573f
+status: valid

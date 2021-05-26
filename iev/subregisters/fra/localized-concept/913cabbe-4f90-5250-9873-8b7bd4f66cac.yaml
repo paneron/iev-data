@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 2.7.5
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.7.5
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  definition: méthode de mesure optique dans laquelle l'échantillon est irradié successivement
+    par des rayonnements lumineux monochromatiques de différentes longueurs d'onde;
+    l'épaisseur des couches et leur <a href="IEV845-04-101"> indice de réfraction</a>
+    peuvent être obtenus simultanément à partir de la réflexion polarisée
+  examples: []
+  id: 523-07-03
+  language_code: fra
+  notes:
+  - Un rayonnement lumineux monochromatique provenant d'un spectroscope est polarisé
+    linéairement sous un polariseur.  Le rayonnement lumineux est ensuite irradié
+    sur la couche mince et l'intensité du rayonnement lumineux réfléchi des composants
+    polarisés est mesurée. L'épaisseur et l'indice de réfraction complexe peuvent
+    être calculés à partir des résultats des mesures.
+  reviewDecisionEvent: published
+  terms:
+  - designation: ellipsométrie spectroscopique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 913cabbe-4f90-5250-9873-8b7bd4f66cac
+status: valid

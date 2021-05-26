@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '4.14'
+      original: ≠ VIM 4.14
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: part of a measuring instrument, or measuring chain, which is directly
+    affected by the measurand and which generates a signal related to the value of
+    the measurand
+  examples: []
+  id: 311-05-01
+  language_code: eng
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensor
+    normative_status: preferred
+    type: expression
+  - designation: measuring element
+    type: expression
+dateAccepted: 2001-07-01
+id: 3ab48e7b-0315-55e6-8838-1eecfebb6ee2
+status: valid

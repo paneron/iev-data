@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: matrice permettant d'exprimer les courants d'entrée aux noeuds en fonction
+    des tensions aux noeuds
+  examples: []
+  id: 603-02-37
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice des admittances nodales
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: matrice des admittances en court-circuit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: e5f3b8d6-8825-5358-8404-58722400d83c
+status: valid

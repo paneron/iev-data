@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}} that is intended to initiate closing
+    of a {{circuit-breaker, IEV:441-14-20}} between two separate AC sources when the
+    voltage of these sources have a predetermined relationship in magnitude, phase
+    angle and frequency'
+  examples: []
+  id: 447-01-45
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: synchronizing relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 63c59525-9d22-5eef-a126-844bb3e07b83
+status: valid

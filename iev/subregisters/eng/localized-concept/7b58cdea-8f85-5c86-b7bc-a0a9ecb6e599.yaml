@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'scalar or tensor quantity the product of which by the magnetic constant
+    `μ`~0~ and by the magnetic field strength `*H*` is equal to the magnetic polarization
+    `*J*`: `*J*` = `μ`~0~ `κ` `*H*`'
+  examples: []
+  id: 121-12-37
+  language_code: eng
+  notes:
+  - In an isotropic medium the magnetic susceptibility is a scalar; in an anisotropic
+    medium it is a tensor.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetic susceptibility
+    normative_status: preferred
+    type: expression
+  - designation: '`κ`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 7b58cdea-8f85-5c86-b7bc-a0a9ecb6e599
+status: valid

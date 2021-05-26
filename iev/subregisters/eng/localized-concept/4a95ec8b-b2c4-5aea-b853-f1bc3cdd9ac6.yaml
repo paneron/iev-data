@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: definition 975
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 975, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: time required for the activity of a radionuclide to decrease to half
+    of its initial value
+  examples: []
+  id: 395-01-12
+  language_code: eng
+  notes:
+  - 'The radioactive half-life is related to the decay constant `λ` by the expression:
+    `T`½= ln2/`λ` ≈ 0,693/`λ`. This quantity is expressed in seconds (s).'
+  - This entry was numbered 393-14-19 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radioactive half-life
+    normative_status: preferred
+    type: expression
+  - designation: '`T`½'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 4a95ec8b-b2c4-5aea-b853-f1bc3cdd9ac6
+status: valid

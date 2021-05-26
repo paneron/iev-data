@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: effective external capacitance associated with the resonator, which
+    determines the load resonance frequency `f`~L~
+  examples: []
+  id: 561-01-42
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load capacitance
+    normative_status: preferred
+    type: expression
+  - designation: '`C`~L~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: d68c811a-65ab-593a-a4bd-56ec2c12f102
+status: valid

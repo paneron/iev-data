@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: force de couplage entre des résonateurs couplés qui est définie comme
+    le rapport entre l'énergie couplée et l'énergie stockée et qui peut être obtenue
+    à partir des deux fréquences de résonance séparées par `k` = (`f`~h~^2^ – `f`~l~^2^)
+    / (`f`~h~^2^ + `f`~l~^2^) où `f`~h~ est la fréquence de résonance supérieure et
+    `f`~l~ est la fréquence de résonance inférieure
+  examples: []
+  id: 561-02-06
+  language_code: fra
+  notes:
+  - Le couplage est essentiellement réalisé magnétiquement ou électriquement, et ainsi
+    dénommé respectivement couplage magnétique ou couplage électrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de couplage pour filtres diélectriques
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient de couplage pour filtres diélectriques
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f854293a-f175-528a-8623-f3aae300fe86
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: unité SI de luminance
+  examples: []
+  id: 845-21-086
+  language_code: fra
+  notes:
+  - 'L''unité nit (symbole: nt) n''est plus usitée.'
+  - "Autres unités non SI de luminance:<ul style=\"list-style-type:none;\">\r\n* métrique:\
+    \ lambert (symbole: L), `1 L = ((1 0^4))/(pi) cd * m^(- 2)`;\n* non métrique:\
+    \ footlambert (symbole: fL), 1 fL = 3,426 cd·m^−2^."
+  - Cet article était numéroté 845-01-53 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: candela par mètre carré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: nit
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ffb8055b-fee6-511f-8ee2-27111b654dba
+status: valid

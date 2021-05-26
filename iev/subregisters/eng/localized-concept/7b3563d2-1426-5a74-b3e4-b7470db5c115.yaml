@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: geometric area of the entire {{membrane electrode assembly, IEV:485-04-01}}
+    perpendicular to the direction of net current flow, including the {{active area,
+    IEV:485-02-08}}, and uncatalysed areas of the membrane
+  examples: []
+  id: 485-04-02
+  language_code: eng
+  notes:
+  - The membrane electrode assembly area is expressed in m^2^.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: membrane electrode assembly area
+    normative_status: preferred
+    type: expression
+  - designation: MEA area
+    type: expression
+dateAccepted: 2020-02-01
+id: 7b3563d2-1426-5a74-b3e4-b7470db5c115
+status: valid

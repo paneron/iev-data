@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a defined sequence of PCM code words which, when applied to an ideal
+    PCM decoder, produces a sinusoidal reference signal of specified level and frequency
+  examples: []
+  id: 704-25-12
+  language_code: eng
+  notes:
+  - An example of a level and frequency is zero dBm 0 and 1 020 Hz.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: PCM digital reference sequence
+    normative_status: preferred
+    type: expression
+  - designation: DRS
+    type: expression
+dateAccepted: 1993-08-01
+id: f22a0522-52f5-5da3-a7f2-40a501f39d09
+status: valid

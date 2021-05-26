@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: opération effectuée sur un ensemble pour lequel une addition est définie,
+    généralement notée par le symbole moins −, dont le résultat, pour deux éléments
+    `a` et `b` de l'ensemble, est l'élément unique `a` − `b`, s'il existe dans l'ensemble,
+    telle que `b` + (`a` − `b`) = `a`
+  examples: []
+  id: 102-01-13
+  language_code: fra
+  notes:
+  - La soustraction est définie pour les nombres entiers et étendue à d'autres classes
+    de nombres et à des entités mathématiques telles que vecteurs et matrices, ainsi
+    qu'aux grandeurs de même nature.
+  - La soustraction des entités `a` et `b` peut être définie par `a` − `b` = `a` +
+    (−`b`) où −`b` est l'opposé de `b`.
+  - La soustraction des entités `a` et `b` est exprimée par les mots «`a` moins `b`».
+  reviewDecisionEvent: published
+  terms:
+  - designation: soustraction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7891efa5-8ecf-5be3-b752-2fff879f046f
+status: valid

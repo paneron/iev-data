@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: form of spread spectrum modulation in which each element of a digital
+    information signal is transmitted as a pseudo-random sequence of digits having
+    a digit rate much higher than the bit rate of the information signal
+  examples: []
+  id: 713-07-02
+  language_code: eng
+  notes:
+  - The signal modulating the carrier is usually obtained by adding a pseudo-random
+    digital signal to the information signal.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: direct sequence spread spectrum modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 701b6f73-4029-5192-99d2-5d6b5d089ee0
+status: valid

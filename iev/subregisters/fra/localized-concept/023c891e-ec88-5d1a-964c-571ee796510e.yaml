@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: composant situé à chacune des deux extrémités de la {{pile à combustible,
+    IEV:485-06-01}}, servant à transmettre la compression nécessaire aux piles à combustible
+  examples: []
+  id: 485-06-06
+  language_code: fra
+  notes:
+  - Une plaque d'extrémité peut comprendre des orifices, des conduites et des {{collecteurs,
+    IEV:485-06-15}} pour l'alimentation en fluide (réactifs, liquide de refroidissement)
+    de la pile à combustible. La direction du courant est généralement perpendiculaire
+    aux plaques d'extrémité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: plaque d'extrémité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: extrémité du châssis de la pile à combustible
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: plaque d'extrémité de compression
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: plaque étau
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 023c891e-ec88-5d1a-964c-571ee796510e
+status: valid

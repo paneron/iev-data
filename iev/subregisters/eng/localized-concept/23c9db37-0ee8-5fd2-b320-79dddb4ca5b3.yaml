@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{fuel cell, IEV:485-08-01}} that employs molten carbonate as the {{electrolyte,
+    IEV:485-03-01}}'
+  examples: []
+  id: 485-08-06
+  language_code: eng
+  notes:
+  - Usually, either molten lithium/potassium or lithium/sodium carbonate salts are
+    used as the electrolyte.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: molten carbonate fuel cell
+    normative_status: preferred
+    type: expression
+  - designation: MCFC
+    type: expression
+dateAccepted: 2020-02-01
+id: 23c9db37-0ee8-5fd2-b320-79dddb4ca5b3
+status: valid

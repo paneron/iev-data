@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - original: EN 13306
+      ref: EN 13306
+      relationship:
+        type: identical
+  definition: position au sein d'une organisation où des niveaux de maintenance spécifiés
+    doivent être effectués
+  examples:
+  - 1^ère^ échelon – sur site, 2^ème^ échelon – atelier de réparation, 3^ème^ échelon
+    – chez le constructeur.
+  id: 192-06-03
+  language_code: fra
+  notes:
+  - L’échelon de maintenance est caractérisé par le niveau de compétence du personnel,
+    les moyens disponibles, l’emplacement, etc.
+  reviewDecisionEvent: published
+  terms:
+  - designation: échelon de maintenance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ef6ac599-caa2-5d52-9045-5646ba35e0e4
+status: valid

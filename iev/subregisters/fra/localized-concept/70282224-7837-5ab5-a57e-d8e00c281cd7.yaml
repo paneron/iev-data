@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: intégrale du <a href="IEV845-24-083">coefficient d'atténuation linéique
+    spectral</a>, `μ`(`x`, `λ`), du milieu entre les points `x`~1~ et `x`~2~, telle
+    que donnée par l'équation `delta ( lambda ) = int_((x_1))^((x_2)) mu ( x , lambda
+    ) d x`
+  examples: []
+  id: 845-24-087
+  language_code: fra
+  notes:
+  - L'épaisseur optique spectrale est utilisée en physique atmosphérique et en océanographie
+    physique.
+  - L'unité d'épaisseur optique spectrale est un.
+  - Cet article était numéroté 845-04-80 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: épaisseur optique spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un milieu
+  - designation: profondeur optique spectrale
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: d'un milieu
+dateAccepted: 2018-11-17
+id: 70282224-7837-5ab5-a57e-d8e00c281cd7
+status: valid

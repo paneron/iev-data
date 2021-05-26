@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: moment cinétique intrinsèque d'une particule
+  examples: []
+  id: 113-05-09
+  language_code: fra
+  notes:
+  - 1 L'espérance mathématique du spin dans toute direction est `ℏ sqrt(s ( s + 1
+    ))` où `s` est le nombre quantique de spin et `ħ` est la constante de Planck réduite.
+  - 2 Le spin dans une direction donnée est quantifié en multiples ou demi-multiples
+    de la constante de Planck réduite. Dans la direction de l’axe de quantification
+    `z`, les composantes quantifiées du spin sont `S`~`z`~ = `m`~`s`~`ħ`, `m`~`s`~
+    = `s, s` − 1, …, −`s`, où  `m`~`s`~ est le nombre quantique magnétique de spin
+    et `s` est le nombre quantique de spin.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spin
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: ceb8cfd7-e3f0-550d-a450-032e50ed42b3
+status: valid

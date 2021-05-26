@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: any defect of any component, separation, insulation or connection between
+    components, not defined as infallible under specific conditions, upon which the
+    intrinsic safety of a circuit depends
+  examples: []
+  id: 426-11-12
+  language_code: eng
+  notes:
+  - 'The conditions are specified in IEC 60079-11, _Explosive atmospheres – Part 11:
+    Equipment protection by intrinsic safety "i"_.'
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fault
+    normative_status: preferred
+    type: expression
+    usage_info: intrinsic safety "i"
+dateAccepted: 2020-03-01
+id: ecdb6391-3336-53fb-93dd-53638c1128ad
+status: valid

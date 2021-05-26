@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - clause: '2.2'
+      original: SI Brochure, 9th edition, 2019, 2.2, modified – The definition in
+        the SI Brochure has been revised to comply with the IEV rules.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: The definition in the SI Brochure has been revised to comply
+          with the IEV rules.
+        type: modified
+  dateAmended: 2020-12-01
+  definition: conventional physical constant which relates the {{thermodynamic temperature,
+    IEV:113-04-14}} and {{energy, IEV:113-03-45}}, the value of which is set to 1,380
+    649 × 10^−23^ {{J, IEV:113-03-46}}/{{K, IEV:112-02-08}}
+  examples: []
+  id: 113-02-17
+  language_code: eng
+  notes:
+  - 'The Boltzmann constant relates the average kinetic energy `E` of particles in
+    an ideal gas to the thermodynamic temperature `T` of the gas as follows:
+
+
+    `E = (3)/(2) k T`.'
+  - The Boltzmann constant is used in the {{SI, IEV:112-02-02}} to define the {{kelvin,
+    IEV:112-02-08}}.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Boltzmann constant
+    normative_status: preferred
+    type: expression
+  - designation: '`k`
+
+      `k`~B~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 408e5f97-e8e3-5a50-93cf-b684ad2c2ae1
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: entity of {{hardware, IEV:171-01-20}} or {{software, IEV:171-01-21}},
+    or both, capable of accomplishing a specified purpose
+  examples: []
+  id: 171-01-22
+  language_code: eng
+  notes:
+  - In a computer, examples of functional units are storage devices, input-output
+    units, processing units, data files, and programs.
+  - '"Functional unit" is defined differently in IEV 351-56-02 and in IEV 441-13-04
+    for use of the term in the domains of control technology and switchgear and controlgear,
+    respectively.'
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: functional unit
+    normative_status: preferred
+    type: expression
+    usage_info: in information processing
+dateAccepted: 2019-03-01
+id: d7577aeb-515a-567e-8a5e-816d118c0177
+status: valid

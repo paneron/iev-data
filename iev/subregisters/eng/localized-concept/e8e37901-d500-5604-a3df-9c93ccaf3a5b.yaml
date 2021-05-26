@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '5.16'
+      original: ≠ VIM 5.16
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: change in the indication of a measuring instrument, generally slow,
+    continuous, not necessarily in the same direction and not related to a change
+    in the measurand
+  examples: []
+  id: 311-06-13
+  language_code: eng
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: drift
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: e8e37901-d500-5604-a3df-9c93ccaf3a5b
+status: valid

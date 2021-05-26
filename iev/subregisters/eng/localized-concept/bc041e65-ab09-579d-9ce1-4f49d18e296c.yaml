@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 131-12-71
+      original: see 131-12-71
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 2002-06-01
+  definition: qualifies a two-terminal element or a two-terminal circuit for which
+    at least one relation between the integral quantities does not remain valid if
+    the value of each quantity is replaced by its negative
+  examples: []
+  id: 131-11-21
+  language_code: eng
+  notes:
+  - An example is an ideal diode.
+  - The term "asymmetric" has another meaning when applied to a two-port network.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: asymmetric
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2002-06-01
+id: bc041e65-ab09-579d-9ce1-4f49d18e296c
+status: valid

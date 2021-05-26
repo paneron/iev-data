@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: ratio of the sum of {{net electric power, IEV:485-14-03}} and total
+    useable exergy flow of recovered heat to the total exergy flow supplied to the
+    {{fuel cell power system, IEV:485-09-01}}
+  examples: []
+  id: 485-10-06
+  language_code: eng
+  notes:
+  - The supplied total exergy flow of the {{raw fuel, IEV:485-07-01}} (including that
+    created by any reactions) should be related to a gaseous product for a better
+    comparison with other types of energy conversion system.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overall exergy efficiency
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 7d9fdf6e-d9ee-509d-8927-06c33dc33f7e
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{dispositif, IEV:151-11-20}} constitué de {{conducteurs, IEV:121-12-02}},
+    d''{{isolants, IEV:151-15-35}} et d''{{accessoires, IEV:151-11-24}} destiné au
+    transfert de l''{{energie, IEV:113-03-45}} {{électromagnétique, IEV:151-11-09}}
+    entre deux dispositifs {{électriques, IEV:151-11-03}}'
+  examples:
+  - une ligne bifilaire, une {{ligne polyphasée, IEV:141-03-01}}, une {{ligne coaxiale,
+    IEV:726-01-15}}, un {{guide d'ondes, IEV:151-12-34}}.
+  id: 151-12-27
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: ligne électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ligne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour le transfert de l'énergie électrique
+dateAccepted: 2018-11-17
+id: fabe0540-351e-5456-aae5-5339a42d0612
+status: valid

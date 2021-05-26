@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: variation du {{champ électromagnétique, IEV:121-11-61}} ou de la puissance
+    du {{signal, IEV:701-01-02}} à la réception, due à des variations dans le temps
+    des conditions de propagation
+  examples: []
+  id: 705-08-11
+  language_code: fra
+  notes:
+  - Lorsqu'on utilise une valeur de référence telle que la valeur en espace libre,
+    l'usage du terme "évanouissement" peut être limité au cas d'une diminution temporaire
+    relativement importante du champ électromagnétique ou de la puissance du signal
+    par rapport à cette valeur de référence.
+  reviewDecisionEvent: published
+  terms:
+  - designation: évanouissement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fading
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: abc78cea-1d8c-5901-acf2-0c519c7ea441
+status: valid

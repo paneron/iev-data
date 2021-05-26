@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique transmis, `Φ`~t~, par le flux énergétique
+    incident, `Φ`~m~ `tau = ((Phi_t))/((Phi_m))`
+  examples: []
+  id: 845-24-065
+  language_code: fra
+  notes:
+  - Le facteur de transmission est également définie spectralement par rapport à la
+    longueur d'onde, auquel cas "spectrale" est ajouté devant le nom de la grandeur.
+  - En raison de la conservation de l'énergie, `α` + `ρ` + `τ` = 1 sauf lors de l'observation
+    d'un <a href="IEV845-21-017">rayonnement polarisé</a>, où `α` est le facteur d'absorption
+    et `ρ` est le facteur de réflexion.
+  - 'Le facteur de transmission, `τ`, est la somme du facteur de transmission régulière,
+    `τ`~r~, et du facteur de transmission diffuse, `τ`~d~: `τ` = `τ`~r~ + `τ`~d~.'
+  - L'unité de facteur de transmission est un.
+  - Cet article était numéroté 845-04-59 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de transmission
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6be54dca-3f5c-510c-bc0e-79ebf5b3bdeb
+status: valid

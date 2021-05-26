@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: temps nécessaire pour qu'à la suite d'une variation brusque des conditions
+    de fonctionnement, la composante à amortissement lent de la tension de l'induit
+    à circuit ouvert, due au flux transversal, décroisse jusqu'à 1/e, c'est-à-dire
+    0,368 fois sa valeur initiale la machine tournant à sa vitesse assignée
+  examples: []
+  id: 411-48-32
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante de temps transitoire transversale à circuit couvert
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 6e3fcfa8-bc8c-57e1-9bd8-656ba67219f2
+status: valid

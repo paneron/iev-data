@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur dans lequel la jonction est réalisée par l'implantation
+    d'impuretés de type donneur (N) ou accepteur (P)
+  examples: []
+  id: 395-03-38
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-04 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur à jonction implantée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur à jonction implantée
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dc7f5e43-e6ca-5179-b4d5-21960ee5798a
+status: valid

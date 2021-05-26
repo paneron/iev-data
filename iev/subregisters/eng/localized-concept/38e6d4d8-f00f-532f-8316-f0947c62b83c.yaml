@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: real vector being tangent to a given oriented curve at a given point,
+    the magnitude of which is the absolute value of the scalar line element at the
+    given point and the direction of which corresponds to the orientation of the curve
+  examples: []
+  id: 102-05-02
+  language_code: eng
+  notes:
+  - A vector line element is preferably designated by `e_t d s` or by `d r`, or sometimes
+    by `t d s`, where `e_t = t` is a unit vector tangential to the curve, `d s` is
+    a scalar line element, `d r` is the differential of the position vector *`r`*
+    describing the curve with respect to an origin point.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vector line element
+    normative_status: preferred
+    type: expression
+  - designation: vector path element
+    type: expression
+dateAccepted: 2008-08-01
+id: 38e6d4d8-f00f-532f-8316-f0947c62b83c
+status: valid

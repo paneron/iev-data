@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-01-01
+  definition: term designating a {{quantity, IEV:112-01-01}}
+  examples: []
+  id: 112-01-02
+  language_code: eng
+  notes:
+  - Rules for the formation of compound names are given in ISO 80000-1 and IEC 60027-1.
+  - Quantity names are given in the various parts of ISO 80000, IEC 80000, and IEC
+    60027.
+  - 'In principle, a quantity name should not refer to any unit name, although  there
+    are exceptions: for example, {{voltage, IEV:121-11-27}} and as a qualifier for
+    a quantity name as in "{{molar, IEV:112-03-15}}".'
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantity name
+    normative_status: preferred
+    type: expression
+  - designation: name of quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-01-01
+id: 2f2a9638-9a21-53bf-857a-e93d2d890993
+status: valid

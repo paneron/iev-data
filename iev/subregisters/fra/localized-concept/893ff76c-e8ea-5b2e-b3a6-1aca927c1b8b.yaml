@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: point blanc de référence de calcul utilisé par un modèle d'aspect chromatique
+  examples: []
+  id: 845-32-033
+  language_code: fra
+  notes:
+  - Un point blanc utilisé par un modèle d'aspect chromatique est un point blanc adopté.
+  - Le point blanc adopté peut ou non être le point <a href="IEV845-23-081">blanc
+    adapté</a> et l'une des applications les plus courantes d'un point blanc adopté
+    est d'obtenir un blanc de dispositif à reproduction optimale. Par exemple, un
+    point blanc adopté correspondant à un support donné peut être utilisé en lieu
+    et place d'un point blanc adapté afin de n'utiliser aucun colorant pour créer
+    un blanc.
+  - La notion de point blanc adopté s'applique tant aux modèles d'aspect chromatique
+    qu'aux modèles de reproduction.
+  reviewDecisionEvent: published
+  terms:
+  - designation: point blanc adopté
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: modèle d'aspect chromatique
+dateAccepted: 2018-11-17
+id: 893ff76c-e8ea-5b2e-b3a6-1aca927c1b8b
+status: valid

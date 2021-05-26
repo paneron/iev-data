@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: pour une ligne polyphasée constituée de `m` conducteurs de ligne et
+    d'un conducteur neutre, somme des `m` puissances instantanées exprimées, pour
+    chaque conducteur de ligne, par le produit de la tension simple et du courant
+    correspondant
+  examples: []
+  id: 141-03-10
+  language_code: fra
+  notes:
+  - S’il n’y a pas de conducteur neutre, les tensions entre les conducteurs de ligne
+    et un point de référence quelconque doivent être utilisées à la place des tensions
+    simples.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance instantanée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour une ligne polyphasée
+dateAccepted: 2004-08-01
+id: de8fd3df-357e-5d33-87f0-3cd5bbea9755
+status: valid

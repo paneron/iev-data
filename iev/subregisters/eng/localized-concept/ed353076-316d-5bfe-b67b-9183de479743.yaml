@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: illuminance produced by skylight on a horizontal surface on the Earth
+  examples: []
+  id: 845-29-131
+  language_code: eng
+  notes:
+  - The diffuse horizontal illuminance is expressed in lux (lx = lm·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diffuse horizontal illuminance
+    normative_status: preferred
+    type: expression
+  - designation: sky illuminance
+    type: expression
+  - designation: '`E`~v,d~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ed353076-316d-5bfe-b67b-9183de479743
+status: valid

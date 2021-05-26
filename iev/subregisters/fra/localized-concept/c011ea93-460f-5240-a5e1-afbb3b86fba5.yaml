@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: borne de sortie à laquelle la puissance électrique est fournie par la
+    {{pile à combustible, IEV:485-06-01}}
+  examples: []
+  id: 485-06-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: borne de la pile
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: barre omnibus
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c011ea93-460f-5240-a5e1-afbb3b86fba5
+status: valid

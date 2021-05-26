@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: two-terminal-pair network for which the sum of instantaneous powers
+    at the two-terminal pairs is identically equal to zero and for which the ratio
+    of the input voltage to the output electric current has a constant value `R`
+  examples: []
+  id: 131-12-79
+  language_code: eng
+  notes:
+  - 'For an ideal gyrator, the input voltage `u`~1~, the output voltage `u`~2~, the
+    input current `i`~1~ and the output current `i`~2~ are related by the formula:
+
+
+    `((u_1))/((i_2)) = - ((u_2))/((i_1)) = R`
+
+
+    with the usual reference conventions for associated voltages and currents given
+    for two-port networks in IEC 60375:2003, Clause 7.'
+  - 'Under sinusoidal conditions, the impedance `Z`~1~ seen at the input port is the
+    product of the terminating admittance `Y` at the output port by the square of
+    the constant `R`:
+
+
+    `Z`~1~ = `R`^2^`Y`'
+  - An ideal gyrator is a circuit element that neither stores nor dissipates energy.
+    The gyrator as a device is defined in IEC 60050-726.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ideal gyrator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-09-01
+id: b0b4a100-513a-5c97-b649-6f61a04477ba
+status: valid

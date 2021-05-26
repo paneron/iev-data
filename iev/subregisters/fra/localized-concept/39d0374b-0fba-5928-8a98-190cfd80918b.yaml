@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{opération booléenne, IEV:171-03-05}} dont le résultat a la valeur
+    booléenne 1 si et seulement si tous les {{opérandes, IEV:171-03-04}} ont la valeur
+    booléenne 1'
+  examples: []
+  id: 171-03-17
+  language_code: fra
+  notes:
+  - La conjonction des variables a et b est notée `a ^^ b` (U+2227) (`a` et `b`).
+  reviewDecisionEvent: published
+  terms:
+  - designation: conjonction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ET
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: multiplication booléenne
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: intersection
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 39d0374b-0fba-5928-8a98-190cfd80918b
+status: valid

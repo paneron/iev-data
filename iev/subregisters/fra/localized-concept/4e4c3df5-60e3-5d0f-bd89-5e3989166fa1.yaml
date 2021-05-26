@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-01-01
+  definition: quotient d'une {{grandeur, IEV:112-01-01}} par une {{durée, IEV:113-01-13}}
+  examples:
+  - '{{débit numérique, IEV:702-05-23}}, débit d''absorption spécifique (DAS).'
+  id: 112-03-18
+  language_code: fra
+  notes:
+  - En français d'autres termes que "débit" sont aussi employés, par exemple vitesse
+    de montée, fréquence d'échantillonnage, rapidité de modulation, cadence d'évanouissement,
+    intensité de pluie.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: 4e4c3df5-60e3-5d0f-bd89-5e3989166fa1
+status: valid

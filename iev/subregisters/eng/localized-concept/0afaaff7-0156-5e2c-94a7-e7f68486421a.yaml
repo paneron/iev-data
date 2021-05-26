@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-08-01
+  definition: ratio of the absolute value of the mutual permeance `Λij` related to
+    two circuit elements `i` and `j` to the geometric average of their self-permeances
+    `Λii` and `Λjj` `k_((i j)) = ((| Lambda_(( i j)) |))/((sqrt(Lambda_(( i i)) Lambda_((j
+    j)))))`
+  examples: []
+  id: 131-12-41
+  language_code: eng
+  notes:
+  - 'The inductive coupling factor can also be expressed as
+
+
+    `k_((i j)) = ((| L_(( i j)) |))/((sqrt(L_(( i i)) L_((j j)))))`
+
+
+    where `Lii` and `Ljj` are the self-inductances of the elements and `Lij` their
+    mutual inductance.'
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductive coupling factor
+    normative_status: preferred
+    type: expression
+  - designation: coupling factor
+    normative_status: preferred
+    type: expression
+  - designation: '`kij`
+
+      `k`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 0afaaff7-0156-5e2c-94a7-e7f68486421a
+status: valid

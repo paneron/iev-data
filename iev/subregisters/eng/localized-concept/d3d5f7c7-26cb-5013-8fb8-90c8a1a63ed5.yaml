@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.49'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.49 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: time integral of the instantaneous intensity at a particular point in
+    an acoustic field integrated over the acoustic pulse waveform
+  examples: []
+  id: 802-01-16
+  language_code: eng
+  notes: []
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse-intensity integral
+    normative_status: preferred
+    type: expression
+  - designation: '`pii`'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: d3d5f7c7-26cb-5013-8fb8-90c8a1a63ed5
+status: valid

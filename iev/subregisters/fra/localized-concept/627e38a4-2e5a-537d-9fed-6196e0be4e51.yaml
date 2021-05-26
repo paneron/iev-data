@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: courant présumé évalué à l'instant correspondant au début du phénomène
+    de coupure
+  examples: []
+  id: 441-17-06
+  language_code: fra
+  notes:
+  - Des spécifications concernant l'instant du début du phénomène de coupure sont
+    données dans les publications particulières. Pour les appareils mécaniques de
+    connexion ou les fusibles, cet instant est habituellement choisi comme l'instant
+    du début d'un arc au cours d'une coupure.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant coupé présumé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 627e38a4-2e5a-537d-9fed-6196e0be4e51
+status: valid

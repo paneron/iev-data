@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 723-05-21
+      original: 723-05-21
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1997-03-01
+  definition: permutation systématique des éléments d'un signal numérique, généralement
+    pendant le codage de voie, en vue de réduire l'influence des paquets d'erreurs
+    qui peuvent se produire en cours de transmission
+  examples: []
+  id: 723-10-98
+  language_code: fra
+  notes:
+  - En français, le terme "entrelacement" a un autre sens lié au balayage, correspondant
+    à l'anglais "interlace"
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: entrelacement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: a4b6932f-d5c1-56c8-bd25-57432b0d4406
+status: valid

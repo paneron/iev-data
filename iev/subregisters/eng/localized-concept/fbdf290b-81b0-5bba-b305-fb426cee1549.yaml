@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'the integral of the square of the current over a given time interval:
+    `I^2 t = int_((t_0))^((t_1)) i^2 d t`'
+  examples: []
+  id: 441-18-23
+  language_code: eng
+  notes:
+  - The pre-arcing `I`^2^`t` is the `I`^2^`t` integral extended over the pre-arcing
+    time of the fuse.
+  - The operating `I`^2^`t` is the `I`^2^`t` integral extended over the operating
+    time of the fuse.
+  - The energy in joules liberated in one ohm of resistance in a circuit protected
+    by a fuse is equal to the value of the operating `I`^2^`t` expressed in `A`^2^
+    • `s`.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`I`^2^`t`'
+    normative_status: preferred
+    type: expression
+  - designation: Joule integral
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: fbdf290b-81b0-5bba-b305-fb426cee1549
+status: valid

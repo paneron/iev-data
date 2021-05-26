@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 2.3.1
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.3.1
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: structure composée d'un {{isolant, IEV:151-15-35}} et d'une mince couche
+    de silicium par-dessus
+  examples: []
+  id: 523-04-20
+  language_code: fra
+  notes:
+  - Le saphir [comme dans le substrat silicium sur saphir (SOS, silicon on sapphire)],
+    le verre [comme dans le substrat silicium sur verre (SOG, silicon on glass)],
+    le dioxyde de silicium, le nitrure de silicium, ou même une forme isolante de
+    silicium lui-même sont utilisés comme isolant.
+  - Le terme abrégé "SOI" est dérivé du terme anglais développé correspondant "silicon-on-insulator".
+  reviewDecisionEvent: published
+  terms:
+  - designation: silicium sur isolant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SOI
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1bfed96a-030a-50bc-915b-0b828ec51657
+status: valid

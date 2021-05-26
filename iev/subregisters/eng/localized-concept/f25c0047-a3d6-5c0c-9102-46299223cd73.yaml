@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: tensor of the fourth order defined by the four-linear form equal to
+    the product of the bilinear forms defining two tensors of the second order on
+    the same Euclidean space
+  examples: []
+  id: 102-03-44
+  language_code: eng
+  notes:
+  - 'The components of the tensor product of the tensors `T` and `S` are: `(( T ox
+    S ))_((i j k l)) = T_((i j)) S_((k l))`.'
+  - The tensor product of two tensors is denoted by `T ox S`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tensor product
+    normative_status: preferred
+    type: expression
+    usage_info: of two tensors
+dateAccepted: 2008-08-01
+id: f25c0047-a3d6-5c0c-9102-46299223cd73
+status: valid

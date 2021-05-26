@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: standardized {{bus, IEV:351-56-10}} using {{serial transmission, IEV:721-11-16}}
+  examples: []
+  id: 171-04-48
+  language_code: eng
+  notes:
+  - The USB standard defines the cables, connectors and communications protocols for
+    connection, communication and power supply between {{computers, IEV:171-01-25}}
+    and electronic devices.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: universal serial bus
+    normative_status: preferred
+    type: expression
+  - designation: USB
+    type: expression
+dateAccepted: 2019-03-01
+id: 26bfa58f-67b8-577e-a636-691fe6bece5c
+status: valid

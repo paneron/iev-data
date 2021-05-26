@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 103-08-10
+      link: https://webstore.iec.ch/publication/161
+      original: IEC 60050-103:2009, 103-08-10
+      ref: IEC 60050-103:2009
+      relationship:
+        type: identical
+  dateAmended: 2015-02-01
+  definition: 1) for a discrete random variable `X` taking the values `xi` with the
+    probabilities `pi`, the sum `E`(`X`) = ∑`i` `pixi` extended to all values `xi`
+    which can be taken by `X` 2) for a continuous random variable `X` having the probability
+    density function `f`(`x`), the value of the integral `E`(`X`) = ∫`xf(x)`d`x`
+  examples: []
+  id: 192-13-03
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: expectation
+    normative_status: preferred
+    type: expression
+    usage_info: of a random variable
+  - designation: mean
+    type: expression
+    usage_info: of a random variable
+dateAccepted: 2015-02-01
+id: 1dc76f47-5fcb-5d20-b918-9691e7dd1fe1
+status: valid

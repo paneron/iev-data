@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2000-07-01
+  definition: 'intégrale du carré du courant pour un intervalle de temps donné: `I^2
+    t = int_((t_0))^((t_1)) i^2 d t`'
+  examples: []
+  id: 441-18-23
+  language_code: fra
+  notes:
+  - L'`I`^2^`t` de préarc est l'intégrale `I`^2^`t` pour la durée de préarc du fusible.
+  - L'`I`^2^`t` de fonctionnement est l'intégrale `I`^2^`t` pour la durée de fonctionnement
+    du fusible.
+  - L'énergie en joules libérée dans une portion ayant une résistance de un ohm d'un
+    circuit protégé par un fusible est égale à la valeur de `I`^2^`t` de fonctionnement
+    exprimée en `A`^2^ • `s`.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`I`^2^`t`'
+    normative_status: preferred
+    type: expression
+  - designation: intégrale de Joule
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: c696be9d-ddac-562f-87ea-4e8b0d665f05
+status: valid

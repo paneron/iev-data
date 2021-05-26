@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: grandeur relative à la différence de luminance entre deux surfaces
+  examples: []
+  id: 845-22-091
+  language_code: fra
+  notes:
+  - "Les définitions communément admises comprennent:\n\n<ul style=\"list-style-type:none;\"\
+    >\n\n* `C` = (`L`~1~ − `L`~2~)/`L`~1~ avec `L`~1~ &gt; `L`~2~ (contraste positif),\
+    \ \n\n* `C` = (`L`~1~ − `L`~2~)/`L`~1~ avec `L`~1~ &lt; `L`~2~ (contraste négatif),\
+    \ \n\n* `C` = (`L`~1~ − `L`~2~)/(`L`~1~ + `L`~2~) avec `L`~1~ &gt; `L`~2~, \n\n\
+    \n\noù `C` est le contraste de luminance et `L`~1~ et `L`~2~ sont les luminances\
+    \ des deux surfaces."
+  - Bien que le contraste de luminance soit destiné à être associé au contraste de
+    clarté, il est possible qu'il ne le soit pas directement car le contraste de clarté
+    dépend d'autres facteurs tels que séparation angulaire, gradient de luminance,
+    et toute différence de taille entre les deux surfaces.
+  reviewDecisionEvent: published
+  terms:
+  - designation: contraste de luminance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fca443af-0f1e-59f8-a604-343352ae18d8
+status: valid

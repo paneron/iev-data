@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: number d`N` of spontaneous {{nuclear transitions, IEV:395-02-43}} or
+    {{nuclear disintegrations, IEV:395-02-42}} for a radionuclide of amount `N` produced
+    during a short time interval d`t`, divided by this time interval `A = ((d N))/((d
+    t))`
+  examples: []
+  id: 395-01-05
+  language_code: eng
+  notes:
+  - The unit is becquerel (Bq).
+  - This entry was numbered 393-14-12 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: activity
+    normative_status: preferred
+    type: expression
+  - designation: '`A`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 4ab60cb7-2efe-500e-a3f0-2af08bb9f34c
+status: valid

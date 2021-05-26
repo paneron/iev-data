@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: stimulus de couleur de chromaticité équivalente à celle du <a href="IEV845-32-058">blanc
+    adopté</a>
+  examples: []
+  id: 845-32-001
+  language_code: fra
+  notes:
+  - Lorsqu'il est indiqué qu'une zone d'image est un neutre colorimétrique, il est
+    nécessaire de désigner le blanc adopté. Dans le cas des <a href="IEV845-32-045">copies
+    papier</a> par réflexion, le blanc adopté est généralement considéré comme étant
+    soit le blanc du support ou une surface réfléchissante parfaitement diffuse éclairée
+    par la source d'éclairage.
+  - Le blanc adopté du neutre colorimétrique peut ou non correspondre au <a href="IEV845-23-081">blanc
+    adapté</a> selon un observateur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: neutre colorimétrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a16e8c1a-4cad-51b5-8dcc-7409e6d5a863
+status: valid

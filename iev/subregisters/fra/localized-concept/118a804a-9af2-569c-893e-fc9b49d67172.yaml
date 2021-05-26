@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la différence réelle de luminance entre la cible et son
+    fond, Δ`L`, par la différence de luminance nécessaire entre une cible d'une certaine
+    dimension angulaire et son fond pour que la cible soit simplement visible, Δ`L`~th~,
+    à savoir au niveau du seuil `F`~VL~ = Δ`L` / Δ`L`~th~
+  examples: []
+  id: 845-22-085
+  language_code: fra
+  notes:
+  - Le niveau de visibilité indique le degré d'élévation du contraste de la cible
+    par rapport au contraste seuil.
+  - L'unité de niveau de visibilité est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de visibilité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 118a804a-9af2-569c-893e-fc9b49d67172
+status: valid

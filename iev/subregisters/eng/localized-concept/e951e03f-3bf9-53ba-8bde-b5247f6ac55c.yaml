@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 1. a decrease between two points of an electric, electromagnetic or
+    acoustic power 2. the quantitative expression of a power decrease by the ratio
+    of the values at two points of a power or of a quantity related to power in a
+    well defined manner
+  examples: []
+  id: 702-02-10
+  language_code: eng
+  notes:
+  - By extension the words "attenuation" or "loss" may represent the ratio of powers
+    in a given situation and in a reference condition;   for example "insertion loss".
+  - Although the term "loss" is not synonymous in English with "attenuation" in every
+    context, it is used to express the ratio of two powers in certain specified conditions
+    as for example in "insertion loss" and "return loss", equivalent in French to
+    "affaiblissement d'insertion" and "facteur d'adaptation" respectively.
+  - Attenuation is generally expressed in logarithmic units by a positive value.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: attenuation
+    normative_status: preferred
+    type: expression
+  - designation: loss
+    type: expression
+dateAccepted: 1992-03-01
+id: e951e03f-3bf9-53ba-8bde-b5247f6ac55c
+status: valid

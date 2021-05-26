@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: état de la jonction entre une terminaison de circuit de données et un
+    terminal de données qui indique que la terminaison n'est pas prête à accepter
+    un signal de demande d'appel ou que le terminal de données n'est pas prêt à recevoir
+    des signaux
+  examples: []
+  id: 721-17-47
+  language_code: fra
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponible
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: non prêt
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 1991-11-01
+id: 91486767-5b10-5dd6-84f6-c16af66752f9
+status: valid

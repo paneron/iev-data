@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: panne empêchant des altérations des variables de sortie de l'équipement
+    de commande, bien que les conditions définies dans le programme concernant ces
+    altérations soient remplies pour ces actions
+  examples: []
+  id: 351-56-23
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-31 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne passive dans un équipement de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: panne passive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 71a059dc-7041-5339-9486-3b6dbb75c95c
+status: valid

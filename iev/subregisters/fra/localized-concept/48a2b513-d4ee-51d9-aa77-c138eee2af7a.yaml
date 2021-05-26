@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.51'
+      link: https://webstore.iec.ch/publication/6486
+      original: définition 3.51 de la CEI 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: intervalle de temps entre points équivalents de deux impulsions successives
+    de la même forme
+  examples: []
+  id: 802-01-12
+  language_code: fra
+  notes:
+  - Les impulsions peuvent comprendre des salves de tonalité.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: période de répétition des impulsions
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-01-01
+id: 48a2b513-d4ee-51d9-aa77-c138eee2af7a
+status: valid

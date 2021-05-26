@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.5
+      original: IEC TS 80004-9:2017, 3.1.5, modifié – Note 1 à l'article a été révisée
+        pour référencer le terme "nanomatériau".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: Note 1 à l'article a été révisée pour référencer le terme "nanomatériau".
+        type: modified
+  definition: '{{dispositif, IEV:511-01-01}} dont les éléments matériels ou l''assemblage
+    de tels éléments présentent des performances ou des fonctions qui ne sont possibles
+    qu''avec les nanotechnologies'
+  examples: []
+  id: 511-01-16
+  language_code: fra
+  notes:
+  - L'élément matériel est un {{nanomatériau, IEV:511-01-04}}.
+  - Les performances ou les fonctions présentées sont mesurables et significatives
+    pour l'application du dispositif nanotechnologique.
+  - Les applications de dispositifs nanotechnologiques peuvent inclure, entre autres,
+    les dispositifs de stockage de l'énergie ({{condensateurs, IEV:151-13-28}}, matériaux
+    pour les {{batteries ion-lithium, IEV:482-05-07}}, les membranes pour les piles
+    à combustible, etc.), les applications photovoltaïques, l'{{électronique organique,
+    IEV:511-02-03}} et les dispositifs électro-optiques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif nanotechnologique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 21db6d4a-2885-5f23-89a1-7fcbec035677
+status: valid

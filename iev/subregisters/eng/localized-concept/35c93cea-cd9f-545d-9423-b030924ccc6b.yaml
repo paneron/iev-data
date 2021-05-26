@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: sum of the instantaneous powers relative to the `n` − 1 pairs of terminals
+    when one of the terminals is chosen as a common terminal for the pairs
+  examples: []
+  id: 131-11-31
+  language_code: eng
+  notes:
+  - The instantaneous power is independent of the choice of the common terminal.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous power
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: i
+  - designation: '`p`'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 35c93cea-cd9f-545d-9423-b030924ccc6b
+status: valid

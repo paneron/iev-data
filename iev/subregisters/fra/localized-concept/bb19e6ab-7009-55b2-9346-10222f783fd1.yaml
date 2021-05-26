@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.2'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 3.2, modifié – Le terme "ensemble d'éléments" a été
+        remplacé par "ensemble de composants" pour compatibilité avec l'IEV.
+      ref: IEC 62542:2013
+      relationship:
+        modification: Le terme "ensemble d'éléments" a été remplacé par "ensemble
+          de composants" pour compatibilité avec l'IEV.
+        type: modified
+  definition: ensemble de {{composants, IEV:151-11-21}}, dont l'un au moins est un
+    {{composant électronique, IEV:904-01-09}}, réunis en une seule unité
+  examples:
+  - Un groupe de composants montés sur une carte de circuit imprimé.
+  id: 904-01-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: ensemble électronique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bb19e6ab-7009-55b2-9346-10222f783fd1
+status: valid

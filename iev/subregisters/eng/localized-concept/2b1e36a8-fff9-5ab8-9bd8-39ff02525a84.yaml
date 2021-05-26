@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: radio reception method in which one resultant signal is obtained from
+    several received signals which convey the same information but for which the radio
+    path or the transmission channel differs by at least one characteristic such as
+    frequency, polarization, or the position or orientation of antennas
+  examples: []
+  id: 713-10-15
+  language_code: eng
+  notes:
+  - The quality of the resultant signal can be higher than that of the individual
+    signals, due to the partial decorrelation of propagation conditions at a given
+    instant over the different radio paths or transmission channels.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diversity (reception)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 2b1e36a8-fff9-5ab8-9bd8-39ff02525a84
+status: valid

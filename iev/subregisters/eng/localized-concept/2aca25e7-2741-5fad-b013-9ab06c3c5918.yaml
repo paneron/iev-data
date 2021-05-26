@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: number quantifying the acidic or the alkaline character of a solution,
+    equal to the negative of the decimal logarithm of ion activity `a`~H+~ of the
+    hydrogen cation H^+^ pH = −10 lg `a`~H+~
+  examples: []
+  id: 114-01-21
+  language_code: eng
+  notes:
+  - "At about 25 °C aqueous solutions with:  *  pH &lt; 7 are acidic; *  pH = 7 are\
+    \ neutral; *  pH &gt; 7 are alkaline. \n\nAt temperatures far from 25 °C the pH\
+    \ of a neutral solution differs significantly from 7."
+  - For more details, see ISO 80000-9:2009, Annex C.
+  - This entry was numbered 111-15-37 in IEC 60050-111:1996. It has been modified.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pH
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 2aca25e7-2741-5fad-b013-9ab06c3c5918
+status: valid

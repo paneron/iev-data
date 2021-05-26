@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{protecteur, IEV:651-22-11}} plat réalisé en matériau souple isolant,
+    utilisé pour couvrir des conducteurs ou des pièces métalliques qui sont {{sous
+    tension, IEV:651-21-08}}, {{hors tension, IEV:651-21-09}} ou à la terre'
+  examples: []
+  id: 651-22-12
+  language_code: fra
+  notes:
+  - Les nappes isolantes électriques sont prévues pour protéger contre un contact
+    involontaire.
+  - 'Cet article était numéroté 651-04-06 dans la CEI 60050-651:1999. Il a été modifié
+    comme suit: Il a été modifié pour préciser la définition et ajouter une note.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: nappe isolante électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 048249e6-1fcc-5a90-9103-8445cbb1db01
+status: valid

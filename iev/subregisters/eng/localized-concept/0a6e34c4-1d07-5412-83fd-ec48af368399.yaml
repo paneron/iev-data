@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-44
+      original: 702-09-44 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 723-07-47
+      original: 723-07-47
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 723-10-91
+      original: see 723-10-91
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 1997-03-01
+  definition: a device for decoding
+  examples: []
+  id: 723-10-17
+  language_code: eng
+  notes:
+  - The term decoder has a specific meaning in colour television.
+  - In French, the term “décodeur” is often used in television to denote a descrambler.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: decoder
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 0a6e34c4-1d07-5412-83fd-ec48af368399
+status: valid

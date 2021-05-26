@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.4
+      original: IEC TS 80004-9:2017, 3.1.4, modifié – "fonctionnels à l'aide de" a
+        été remplacé par "utilisant des" pour aligner la définition avec celle de
+        "électronique moléculaire" (IEV 511-01-02).
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: '"fonctionnels à l''aide de" a été remplacé par "utilisant des"
+          pour aligner la définition avec celle de "électronique moléculaire" (IEV
+          511-01-02).'
+        type: modified
+  definition: domaine des sciences et technologies concerné par le développement et
+    la production de {{dispositifs, IEV:511-01-01}} électroniques utilisant des composants
+    à l'{{échelle nanométrique, IEV:511-01-03}}
+  examples: []
+  id: 511-01-14
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanoélectronique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a1b87973-7c74-57c2-9b03-47d2d50bcaf1
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of absorbed radiant flux, `Φ`~a~, and incident radiant flux,
+    `Φ`~m~ `alpha = ((Phi_a))/((Phi_m))`
+  examples: []
+  id: 845-24-082
+  language_code: eng
+  notes:
+  - The absorptance is also defined spectrally in terms of wavelength, in which case,
+    "spectral" is added before the quantity name.
+  - Due to energy conservation, `α` + `ρ` + `τ` = 1 except when <a href="IEV845-21-017">polarized
+    radiation</a> is observed, where `ρ` is reflectance and `τ` is transmittance.
+  - The absorptance has unit one.
+  - This entry was numbered 845-04-75 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absorptance
+    normative_status: preferred
+    type: expression
+  - designation: '`α`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: c6281d18-a2fc-5d65-ba1c-dc1186fa92e9
+status: valid

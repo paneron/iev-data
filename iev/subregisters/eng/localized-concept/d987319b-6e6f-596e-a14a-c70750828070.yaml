@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - original: IAEA 1, modified
+      ref: IAEA 1
+      relationship:
+        type: modified
+    - original: IAEA 2, modified
+      ref: IAEA 2
+      relationship:
+        type: modified
+    - original: IAEA 3, modified
+      ref: IAEA 3
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: the assembly of equipment designated to perform all actions required
+    for a particular postulated initiating event to ensure that the limits specified
+    in the design basis for anticipated operational occurrences and design basis accidents
+    are not exceeded
+  examples: []
+  id: 395-07-110
+  language_code: eng
+  notes:
+  - This entry was numbered 393-18-61 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: safety group
+    normative_status: preferred
+    type: expression
+    usage_info: for a nuclear reactor
+dateAccepted: 2014-03-01
+id: d987319b-6e6f-596e-a14a-c70750828070
+status: valid

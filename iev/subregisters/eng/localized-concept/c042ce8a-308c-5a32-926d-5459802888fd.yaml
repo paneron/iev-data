@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.26
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.26
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: node which establishes continuity between two bus sections connected
+    to it, but does not terminate them
+  examples: []
+  id: 811-37-49
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intermediate node
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: c042ce8a-308c-5a32-926d-5459802888fd
+status: valid

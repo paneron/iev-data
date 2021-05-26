@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 725-14-30
+      original: 725-14-30 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: form of modulation in which the average power spectral density of the
+    transmitted signal is spread in a random or quasi-random way over a bandwidth
+    which is much wider than the bandwidth that is strictly necessary for the information
+    to be transmitted
+  examples: []
+  id: 713-07-01
+  language_code: eng
+  notes:
+  - Spread spectrum modulation permits multiple access to a communication path and
+    increases immunity to radio-frequency noise and interference.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spread spectrum modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 9c323c04-696d-5846-a86a-7b585e7e850d
+status: valid

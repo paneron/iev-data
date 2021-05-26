@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '5.18'
+      original: ≈ VIM 5.18
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  dateAmended: 2001-07-01
+  definition: quality which characterizes the ability of a measuring instrument to
+    provide an indicated value close to a true value of the measurand
+  examples: []
+  id: 311-06-08
+  language_code: eng
+  notes:
+  - This term is used in the "true value" approach.
+  - Accuracy is all the better when the indicated value is closer to the corresponding
+    true value.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accuracy (of a measuring instrument)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: ca703a64-19ce-5895-bbb0-ecb79161e6ee
+status: valid

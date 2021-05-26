@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: multiplexage selon lequel plusieurs signaux indépendants sont représentés
+    par des signaux orthogonaux en vue de leur transmission sur une voie de transmission
+    commune
+  examples: []
+  id: 704-08-08
+  language_code: fra
+  notes:
+  - Dans un multiplexage en code, les éléments de signaux attribués aux différentes
+    voies de transmission ont une forme telle qu'ils peuvent être facilement distingués
+    et séparés par une opération appropriée, même s'ils chevauchent en fréquence et
+    en temps sur la voie de transmission commune.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplexage en code
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: multiplexage par répartition en code
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MRC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 3d073b37-a904-523b-8d87-4f4ccb80d32f
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: unité logarithmique de mesure de l'{{information, IEV:171-07-03}} égale
+    à la {{quantité de décision, IEV:171-07-10}} sur un ensemble de deux événements
+    s'excluant mutuellement, exprimée par un logarithme binaire
+  examples: []
+  id: 171-07-11
+  language_code: fra
+  notes:
+  - Le shannon est l’unité la plus employée en théorie de l’information.
+  reviewDecisionEvent: published
+  terms:
+  - designation: shannon
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: be67e3c5-dc74-547e-829c-cb34e6ec416c
+status: valid

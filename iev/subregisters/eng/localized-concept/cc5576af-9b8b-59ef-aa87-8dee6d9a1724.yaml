@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a property of a device which causes more than one error to occur in
+    its output signal when a single digital error is present in its input signal
+  examples: []
+  id: 704-18-05
+  language_code: eng
+  notes:
+  - Line decoders and descramblers are examples of devices which may cause error multiplication.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error multiplication
+    normative_status: preferred
+    type: expression
+  - designation: error extension
+    type: expression
+dateAccepted: 1993-08-01
+id: cc5576af-9b8b-59ef-aa87-8dee6d9a1724
+status: valid

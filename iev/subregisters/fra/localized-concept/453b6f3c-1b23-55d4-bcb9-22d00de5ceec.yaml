@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur constitué de plusieurs détecteurs individuels
+    connectés en parallèle dans une structure de mosaïque afin d'augmenter la surface
+    sensible
+  examples: []
+  id: 395-03-54
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-21 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur mosaïque
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur mosaïque
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 453b6f3c-1b23-55d4-bcb9-22d00de5ceec
+status: valid

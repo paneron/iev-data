@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: test of the {{fuel cell, IEV:485-08-01}}'s performance based on that
+    of a {{single cell, IEV:485-05-02}}
+  examples: []
+  id: 485-22-05
+  language_code: eng
+  notes:
+  - The single cell test is typically a laboratory scale test in which several variables
+    can be adjusted in order to obtain data over a wide range of conditions, such
+    as temperature, {{current density, IEV:485-12-01}}, fuel and oxidant flow rates,
+    etc. The outcome of a single cell test can be a {{polarization curve, IEV:485-15-06}},
+    a voltage stability plot, or other data related to fuel cell performance.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: single cell test
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: bc4599f6-1eab-5bce-a0c7-e685e02b0525
+status: valid

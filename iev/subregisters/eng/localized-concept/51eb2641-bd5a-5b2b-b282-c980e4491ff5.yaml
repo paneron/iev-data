@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a telecontrol configuration whereby the control centre or master station
+    is connected to more than one outstation in such a way that at any time only one
+    outstation may transmit data to the master station; the master station may transmit
+    data either to one or more selected outstations or global messages to all outstations
+    simultaneously
+  examples: []
+  id: 371-06-08
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multipoint-star configuration
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 51eb2641-bd5a-5b2b-b282-c980e4491ff5
+status: valid

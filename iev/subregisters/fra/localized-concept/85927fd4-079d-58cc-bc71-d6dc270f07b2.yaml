@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.14.4
+      link: https://webstore.iec.ch/publication/20471
+      original: IEC 62368-1:2010, 3.3.14.4
+      ref: IEC 62368-1:2010
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: valeur crête de la tension de service, y compris tout composant en courant
+    continu et les impulsions de crête répétitives générées dans l'équipement
+  examples: []
+  id: 903-04-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de crête de la tension de service
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tension de service crête
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 85927fd4-079d-58cc-bc71-d6dc270f07b2
+status: valid

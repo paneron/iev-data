@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: radiotélégraphie à correction d'erreurs par détection et répétition,
+    en général à multiplexage temporel à deux ou quatre voies, faisant usage du code
+    Van Duuren
+  examples: []
+  id: 721-11-30
+  language_code: fra
+  notes:
+  - Les caractéristiques essentielles du procédé sont fixées par la recommandation
+    342 du CCIR qui définit aussi les notions spécifiques à ce procédé.
+  - Le sigle TOR vient de "Teleprinting Over Radiocircuits ".
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiotélégraphie Van Duuren
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TOR
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: d964d978-6a94-5644-b830-1207602757d4
+status: valid

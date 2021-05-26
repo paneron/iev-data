@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: activité au cours de laquelle un travailleur pénètre dans la {{zone
+    de voisinage, IEV:651-21-04}} soit avec une partie de son corps soit avec un {{outil,
+    IEV:651-21-14}} ou tout autre objet qu'il manipule, sans pénétrer dans la {{zone
+    de travail sous tension, IEV:651-21-03}}
+  examples: []
+  id: 651-21-02
+  language_code: fra
+  notes:
+  - Cet article était numéroté 651-01-02 dans la CEI 60050-651:1999. Il a été modifié
+    afin de clarifier le concept des {{travaux sous tension, IEV:651-21-01}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: travail au voisinage des parties sous tension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 19cf349f-81d6-59ac-978e-db9649e3ac7c
+status: valid

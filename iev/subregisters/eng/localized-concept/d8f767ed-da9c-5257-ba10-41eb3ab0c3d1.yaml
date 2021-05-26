@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 13-31
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-31, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: logarithm of the reciprocal of the conditional probability `p ( x |
+    y )` of the event `x` given the occurrence of the event `y` `I ( x | y ) = log
+    (1)/((p ( x | y )))`
+  examples: []
+  id: 171-07-21
+  language_code: eng
+  notes:
+  - 'The conditional information content is also the amount by which the {{joint information
+    content, IEV:171-07-20}} of the two events exceeds the {{information content,
+    IEV:171-07-14}} of the second: `I ( x | y ) = I ( x , y ) - I ( y )`.'
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conditional information content
+    normative_status: preferred
+    type: expression
+  - designation: '`I ( x | y )`'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: d8f767ed-da9c-5257-ba10-41eb3ab0c3d1
+status: valid

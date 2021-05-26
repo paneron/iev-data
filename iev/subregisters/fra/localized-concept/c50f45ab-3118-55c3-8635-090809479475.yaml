@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: maintenance efectuée conformément à un échéancier
+  examples: []
+  id: 192-06-12
+  language_code: fra
+  notes:
+  - La maintenance programmée peut identifier la nécessité de certaines opérations
+    de maintenance corrective.
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenance programmée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: maintenance systématique
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c50f45ab-3118-55c3-8635-090809479475
+status: valid

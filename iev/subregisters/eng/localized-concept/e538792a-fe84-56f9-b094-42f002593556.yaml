@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2015-02-01
+  definition: time interval for which the item is in an idle state
+  examples: []
+  id: 192-02-15
+  language_code: eng
+  notes:
+  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) identified
+    “free time” as a synonym, which is not true in all applications.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: idle time
+    normative_status: preferred
+    type: expression
+  - designation: free time
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: e538792a-fe84-56f9-b094-42f002593556
+status: valid

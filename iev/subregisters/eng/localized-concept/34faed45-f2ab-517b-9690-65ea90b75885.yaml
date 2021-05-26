@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{binary digit rate, IEV:704-16-07}} equivalent to a {{transfer rate,
+    IEV:171-06-03}} for specified {{data elements, IEV:171-02-01}}'
+  examples: []
+  id: 171-06-04
+  language_code: eng
+  notes:
+  - The data signalling rate is the minimum value of the binary digit rate strictly
+    necessary to convey the same information in the same duration as a given digital
+    signal at a given transfer rate.
+  - The data signalling rate in parallel transmission is given by `sum_((i = 1))^m
+    (1)/((T_i)) (log)_2 n_i`, where `m` is the number of parallel transmission channels,
+    `Ti` is the duration of the significant interval for the `i`-th channel, `ni`
+    is the number of significant conditions in the `i`-th channel.
+  - The unit of data signalling rate is the bit per second (bit/s).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: data signalling rate
+    normative_status: preferred
+    type: expression
+  - designation: equivalent bit rate
+    normative_status: preferred
+    type: expression
+  - designation: DSR
+    normative_status: admitted
+    type: expression
+  - designation: '`re`
+
+      `νe`'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 34faed45-f2ab-517b-9690-65ea90b75885
+status: valid

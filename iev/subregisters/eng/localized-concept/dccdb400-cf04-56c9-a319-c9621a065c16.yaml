@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      original: 'IEC Guide 116:2010, 3.4, modified – The definition has been revised
+        to be more broad: "low voltage equipment" has been replaced by "product, process
+        or service".'
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: 'The definition has been revised to be more broad: "low voltage
+          equipment" has been replaced by "product, process or service".'
+        type: modified
+  dateAmended: 2013-06-01
+  definition: any space within and/or around a product, process or service in which
+    persons, or livestock can be exposed to a {{hazard, IEV:903-01-02}}
+  examples: []
+  id: 903-01-03
+  language_code: eng
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hazard zone
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: dccdb400-cf04-56c9-a319-c9621a065c16
+status: valid

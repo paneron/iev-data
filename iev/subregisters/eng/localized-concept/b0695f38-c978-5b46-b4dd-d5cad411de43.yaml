@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: part of a {{processor, IEV:171-04-01}} that retrieves {{instructions,
+    IEV:171-05-08}} from the {{main storage, IEV:171-04-21}}, {{interprets, IEV:171-05-28}}
+    each instruction, and applies signals to the {{arithmetic and logic unit, IEV:171-04-03}}
+    and other parts of the processor in accordance with this interpretation
+  examples: []
+  id: 171-04-02
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instruction control unit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: b0695f38-c978-5b46-b4dd-d5cad411de43
+status: valid

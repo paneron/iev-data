@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aptitude à être maintenu ou rétabli dans un état permettant de fonctionner
+    tel que requis, dans des conditions données d'utilisation et de maintenance
+  examples: []
+  id: 192-01-27
+  language_code: fra
+  notes:
+  - 'Les conditions données incluent notamment les aspects ayant un impact sur la
+    maintenabilité, tels que: l’emplacement de maintenance, l’accessibilité, les procédures
+    et les ressources de maintenance.'
+  - 'La maintenabilité peut être quantifiée à l’aide de mesures définies dans la http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView&amp;Query=field+SearchFields+contains+192-07+and+field+Language=en&amp;SearchOrder=4&amp;SearchMax=0[Section
+    192-07, _Maintenabilité et logistique de maintenance: mesures_].'
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: c15ca930-673f-5e69-a709-d07ffa6d7e21
+status: valid

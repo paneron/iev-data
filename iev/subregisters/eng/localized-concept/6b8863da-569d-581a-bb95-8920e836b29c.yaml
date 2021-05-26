@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'control structure with interconnected subprocesses in which each partial
+    control equipment takes into account only the information from its associated
+    subprocess to form its output information SEE: Figure 24.'
+  examples: []
+  id: 351-55-10
+  language_code: eng
+  notes:
+  - A compact process computer system realises decentralized control structures if
+    simple controllers are used for every control loop, without taking into consideration
+    any links between subprocesses.
+  - This entry was numbered 351-31-10 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: decentralized control structure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 6b8863da-569d-581a-bb95-8920e836b29c
+status: valid

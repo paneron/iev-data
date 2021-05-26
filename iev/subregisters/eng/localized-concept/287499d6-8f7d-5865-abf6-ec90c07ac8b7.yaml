@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 55
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 55
+      ref: ISO 921:1997
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: fraction of a parallel beam of specified radiation removed by attenuation
+    in passing through a thin layer of thickness Δ`x` of a substance divided by this
+    thickness
+  examples: []
+  id: 395-01-24
+  language_code: eng
+  notes:
+  - The attenuation coefficient is primarily energy dependent.
+  - Depending on whether Δ`x` is expressed in terms of length, mass per unit area,
+    amount of substance or atoms per unit area, `μ` is called the linear, mass, molar,
+    or atomic attenuation coefficient.
+  - This entry was numbered 393-14-41 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: attenuation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 287499d6-8f7d-5865-abf6-ec90c07ac8b7
+status: valid

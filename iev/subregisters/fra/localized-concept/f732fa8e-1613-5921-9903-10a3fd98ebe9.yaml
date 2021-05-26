@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: quotient d`N`/`N` par `ρ` d`l` où d`N`/`N` est la fraction des particules
+    indirectement ionisantes qui subissent des interactions lorsqu'elles traversent
+    une distance d`l` dans un milieu de masse spécifique `ρ` `(mu)/(rho) = (1)/((rho
+    N)) ((d N))/((d l))`
+  examples: []
+  id: 881-04-27
+  language_code: fra
+  notes:
+  - Le coefficient d'atténuation total massique `(mu)/(rho)` pour les rayons X et
+    gamma peut s'exprimer par la somme de plusieurs parties dont chacune est attribuable
+    à un phénomène particulier; `(tau)/(rho)` pour l'effet photoélectrique; `((sigma_c))/(rho)`
+    pour l'effet Compton; `((sigma_((coh))))/(rho)` pour la diffusion cohérente et
+    `(kappa)/(rho)` pour la formation de paires.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'atténuation total massique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: f732fa8e-1613-5921-9903-10a3fd98ebe9
+status: valid

@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 195-02-09
+      original: 195-02-09
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 826-13-22
+      original: 826-13-22
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2008-09-01
+  definition: conducteur prévu à de fins de sécurité, par exemple protection contre
+    les chocs électriques
+  examples: []
+  id: 581-27-26
+  language_code: fra
+  notes:
+  - Dans une installation électrique, le conducteur identifié PE est normalement aussi
+    considéré comme conducteur de mise à la terre de protection.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conducteur de protection
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: '(identification: PE)'
+    type: expression
+dateAccepted: 2008-09-01
+id: 5ccb37b0-9c65-574b-8a8a-e15045cdaa4f
+status: valid

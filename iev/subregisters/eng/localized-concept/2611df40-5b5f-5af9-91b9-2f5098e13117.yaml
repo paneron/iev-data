@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: for a vector field *`U`* that is given at each point of a three-dimensional
+    domain V limited by a closed surface S having an orientation towards exterior,
+    theorem stating that the volume integral over V of the divergence of the field
+    *`U`* is equal to the flux of this field through the surface S `underset(V)( ∭
+    ) div U d V = underset(S)( ∯ ) U * e_n d A` where d`V` is the volume element and
+    *`e`*~n~d`A` is the vector surface element
+  examples: []
+  id: 102-05-30
+  language_code: eng
+  notes:
+  - The divergence theorem can be generalized to the `n`-dimensional Euclidean space.
+  - In electrostatics, the divergence theorem is applied to express that the electric
+    flux through a closed surface is equal to the total electric charge in the domain
+    enclosed by the surface. It is then called "Gauss law".
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: divergence theorem
+    normative_status: preferred
+    type: expression
+  - designation: Gauss theorem
+    type: expression
+  - designation: Ostrogradsky theorem
+    type: expression
+dateAccepted: 2017-07-01
+id: 2611df40-5b5f-5af9-91b9-2f5098e13117
+status: valid

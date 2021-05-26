@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: avis envoyé automatiquement par le réseau à tout poste demandeur pour
+    l'informer d'un nouveau numéro attribué au poste demandé, suivi soit d'un renvoi
+    d'appel, soit de la libération du demandeur
+  examples: []
+  id: 721-18-45
+  language_code: fra
+  notes:
+  - il est également possible de prévoir pour ce cas, un signal de service suivi de
+    la libération.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intervention pour transfert d'abonné
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: intervention pour changement de numéro d'appel
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: 675d1f30-0293-5f9c-a380-0ede8028820d
+status: valid

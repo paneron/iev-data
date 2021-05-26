@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: mode de transmission des changements d'état tel que l'information transmise
+    est accompagnée de données chronologiques indiquant l'instant exact des changements
+    d'état, dans les limites du temps de résolution
+  examples: []
+  id: 371-05-02
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission chronologique absolue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: chronologie absolue
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: f9283d20-a012-539b-8980-ad6158261c12
+status: valid

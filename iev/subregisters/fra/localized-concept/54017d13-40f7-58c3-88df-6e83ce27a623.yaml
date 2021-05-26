@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: clampage dans lequel on maintient à une valeur spécifiée le niveau de
+    suppression
+  examples: []
+  id: 723-05-80
+  language_code: fra
+  notes:
+  - Si le signal de synchronisation de ligne est une impulsion, l'alignement se fait
+    sur le palier arrière de cette impulsion.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: alignement du niveau du noir
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: clampage du niveau du noir
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 54017d13-40f7-58c3-88df-6e83ce27a623
+status: valid

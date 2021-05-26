@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}} with two {{setting values of the
+    characteristic quantity, IEV:447-07-02}}, which is designed to {{operate, IEV:447-02-04}}
+    when its {{characteristic quantity, IEV:447-07-01}} either increases to reach
+    one setting value of the characteristic quantity or decreases to reach the other
+    setting value of the characteristic quantity'
+  examples: []
+  id: 447-01-25
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: under and over... relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 4e44c220-9bd8-57cc-8f71-64eeea480f32
+status: valid

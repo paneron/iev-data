@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-04-01
+  definition: 'the fractional change of effective permeability due to a change in
+    temperature divided by that change in temperature: `alpha_((mu e)) = (((( mu_e
+    ))_(theta) - (( mu_e ))_((ref))))/(((( mu_e ))_((ref)) ( theta - theta_((ref))
+    )))` where (`µ`~e~)`θ` and (`µ`~e~)~ref~ are the effective permeabilities at temperatures
+    `θ` and `θ`~ref~ respectively'
+  examples: []
+  id: 221-02-51
+  language_code: eng
+  notes: []
+  reviewDate: 2007-04-01
+  reviewDecisionDate: 2007-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature coefficient of effective permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`α`~`μ`e~'
+    international: true
+    type: symbol
+dateAccepted: 2007-04-01
+id: 7e952e76-d9d5-5562-be78-d3f0aee0d875
+status: valid

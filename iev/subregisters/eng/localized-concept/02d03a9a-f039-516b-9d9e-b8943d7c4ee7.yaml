@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: an amount to be paid per unit of chargeable demand (kilowatt, kilo­voltampere)
+    for a specified period of supply
+  examples: []
+  id: 691-03-04
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: demand rate
+    normative_status: preferred
+    type: expression
+  - designation: price per kilowatt [kilovoltampere]
+    type: expression
+dateAccepted: 2021-01-01
+id: 02d03a9a-f039-516b-9d9e-b8943d7c4ee7
+status: valid

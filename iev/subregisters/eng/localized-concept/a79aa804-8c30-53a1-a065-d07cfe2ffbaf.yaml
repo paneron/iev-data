@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: uniform chromaticity scale diagram produced by plotting in rectangular
+    coordinates `v`′ against `u`′, quantities defined by the equations:<ul style="list-style-type:none;">*
+    `u`′ = 4 `X` / (`X` + 15`Y` + 3`Z`) = 4`x` / (−2`x` + 12`y` + 3) * `v`′ = 9 `Y`
+    / (`X` + 15`Y` + 3`Z`) = 9`y` / (−2`x` +12`y` + 3) where `X`, `Y`, `Z` are the
+    <a href="IEV845-23-038">tristimulus values</a> in the CIE 1931 or 1964 standard
+    colorimetric systems, and `x`, `y` are the corresponding chromaticity coordinates
+    of the colour stimulus considered
+  examples: []
+  id: 845-23-073
+  language_code: eng
+  notes:
+  - 'The CIE 1976 uniform-chromaticity-scale diagram is a modification of, and supersedes,
+    the CIE 1960 uniform-chromaticity-scale diagram in which `v` was plotted against
+    `u` in rectangular coordinates. The relationships between the two pairs of coordinates
+    are: `u`′ = `u`; `v`′ = 1,5 `v`.'
+  - This entry was numbered 845-03-53 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: CIE 1976 uniform-chromaticity-scale diagram
+    normative_status: preferred
+    type: expression
+  - designation: CIE 1976 UCS diagram
+    type: expression
+dateAccepted: 2020-12-01
+id: a79aa804-8c30-53a1-a065-d07cfe2ffbaf
+status: valid

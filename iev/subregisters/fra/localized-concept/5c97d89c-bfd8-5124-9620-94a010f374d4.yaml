@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée entre des défaillances consécutives
+  examples: []
+  id: 192-05-03
+  language_code: fra
+  notes:
+  - Le temps entre défaillances inclut le temps de disponibilité et le temps d’indisponibilité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps entre défaillances
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 5c97d89c-bfd8-5124-9620-94a010f374d4
+status: valid

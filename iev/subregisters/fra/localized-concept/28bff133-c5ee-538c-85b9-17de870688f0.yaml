@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: procédé selon lequel on emploie des {{trajets de transmission, IEV:701-02-11}}
+    matériellement distincts pour constituer des {{voies de transmission, IEV:701-02-01}}
+    séparées
+  examples: []
+  id: 701-03-12
+  language_code: fra
+  notes:
+  - La répartition spatiale est utilisée, par exemple, pour les opérations de {{multiplexage,
+    IEV:701-03-09}}, de {{commutation, IEV:701-03-03}} et d'{{accès multiple, IEV:701-03-11}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: répartition spatiale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 28bff133-c5ee-538c-85b9-17de870688f0
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: quotient représenté par la réponse à un échelon Δ`v`~ε~(`t`) divisé
+    par la hauteur de l'échelon `K`*~ε~* de la fonction échelon, le quotient étant
+    décrit par `h ( t ) = (1)/((K_(epsilon))) . Delta v_(epsilon) ( t )`
+  examples: []
+  id: 351-45-30
+  language_code: fra
+  notes:
+  - 'La réponse unitaire à un échelon peut être calculée à partir de la réponse impulsionnelle
+    unité avec l’équation suivante
+
+
+    `h ( t ) = int_((- oo))^t g ( tau ) d tau`.'
+  - La réponse unitaire à un échelon d’un système peut mathématiquement être considérée
+    comme le résultat de l’application d’un échelon unité à une variable d’entrée.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse unitaire à un échelon
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: d16f2c49-1aa6-5899-93f1-b95ed4123b25
+status: valid

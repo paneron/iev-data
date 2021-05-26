@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de l'intensité lumineuse maximale du luminaire, généralement
+    un <a href="IEV845-30-030">projecteur</a> à l'intensité lumineuse sphérique moyenne
+    de sa lampe
+  examples: []
+  id: 845-29-056
+  language_code: fra
+  notes:
+  - Dans certains pays, la définition du facteur de multiplication dépend des types
+    de luminaires ou de lampes.
+  - L'unité de facteur de multiplication est un.
+  - Cet article était numéroté 845-09-43 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de multiplication
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un luminaire
+dateAccepted: 2018-11-17
+id: b13ed750-3a3c-52ea-9277-a37b0dbbebe7
+status: valid

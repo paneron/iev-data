@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble de 15 distributions de luminance du ciel qui modélisent le
+    ciel depuis le ciel très couvert à un ciel sans nuage
+  examples: []
+  id: 845-29-113
+  language_code: fra
+  notes:
+  - Les distributions relatives de luminance sont décrites dans l'ISO 15469/CIE S
+    011, _Répartition spatiale de la lumière du jour – Ciel général normalisé CIE_.
+    Le ciel clair normalisé CIE est intégré comme cas particulier, et le ciel couvert
+    normalisé CIE est ajouté sous forme de formule distincte.
+  reviewDecisionEvent: published
+  terms:
+  - designation: ciel général normalisé CIE
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56b2c2ec-bf57-5f44-9c1f-f5aedc203886
+status: valid

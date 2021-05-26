@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: diminution relative du flux énergétique produite par diffusion, exprimée
+    par la densité relative du flux énergétique spectral, `Φ`~e,~`λ`(`λ`), par rapport
+    à la longueur de propagation, `l`, d'un faisceau collimaté en un point d'un milieu
+    diffusant `s ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e ,
+    lambda)) ( lambda )))/((d l))`
+  examples: []
+  id: 845-24-084
+  language_code: fra
+  notes:
+  - Le coefficient de diffusion linéique spectral est exprimé en mètre à la puissance
+    moins un (m^−1^).
+  - Cet article était numéroté 845-04-77 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de diffusion linéique spectral
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 852b46b2-bc10-514b-9f66-810d3cecc27a
+status: valid

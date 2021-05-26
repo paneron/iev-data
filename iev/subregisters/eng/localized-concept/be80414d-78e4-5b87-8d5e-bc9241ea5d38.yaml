@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: complex representation `underset(_)(a) ( alpha , t ) = A_0 exp j ( omega
+    t - p alpha + vartheta_0 )` of a rotating sinusoidal field quantity, where `A_0`
+    is the amplitude, `ω` is the angular frequency, `t` is time, `p` is an integer,
+    `α` is angular position, `vartheta_0` is initial phase, and j is the imaginary
+    unit
+  examples: []
+  id: 103-07-15
+  language_code: eng
+  notes:
+  - The concept of space phasor is used for electric rotating machines.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: space phasor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: be80414d-78e4-5b87-8d5e-bc9241ea5d38
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: resonance frequency of the motional (series) arm of the equivalent circuit
+    of the resonator defined by `f_s = (1)/((2 pi sqrt(L_1 C_1)))` where `L`~1~ and
+    `C`~1~ represent the motional inductance and the motional capacitance respectively
+    image::/assets/images/parts/561/561-fig2-en.png[] *Figure 2 – Equivalent circuit
+    of a piezoelectric vibrator (one-port resonator)*
+  examples: []
+  id: 561-01-54
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: motional resonance frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~s~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 142f54e2-cb94-58f5-aea8-c7e73151e05c
+status: valid

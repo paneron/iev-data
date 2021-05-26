@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: rapport de la puissance rayonnée dans la région de champ lointain par
+    une antenne dans un angle solide élémentaire comprenant une direction spécifiée,
+    à la valeur de cet angle solide
+  examples: []
+  id: 712-02-41
+  language_code: fra
+  notes:
+  - L'intensité de rayonnement s'exprime en watts par stéradian.
+  - L'intensité de rayonnement totale peut être considérée comme la somme des intensités
+    de rayonnement correspondant à chacune de deux composantes ayant des polarisations
+    orthogonales.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité de rayonnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 1bd73430-8c2e-5c08-bb69-2431b7b9cab6
+status: valid

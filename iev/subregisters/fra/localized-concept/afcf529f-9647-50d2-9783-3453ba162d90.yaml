@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aptitude à se rétablir sans intervention extérieure après une défaillance
+  examples: []
+  id: 192-01-26
+  language_code: fra
+  notes:
+  - L’autorécupérabilité est un cas particulier de la récupérabilité ({{192-01-25,
+    IEV:192-01-25}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: auto-récupérabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: afcf529f-9647-50d2-9783-3453ba162d90
+status: valid

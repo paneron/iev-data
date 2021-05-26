@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: half the vertex angle of the cone incorporating a specified proportion
+    of the divergent light beam emitted by the end of an optical fibre
+  examples: []
+  id: 731-03-83
+  language_code: eng
+  notes:
+  - The cone is usually defined by the angle at which the far-field irradiance has
+    decreased to a specified fraction of its maximum value or as the cone within which
+    can be found a specified fraction of the total radiated power at any point in
+    the far field.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiation angle
+    normative_status: preferred
+    type: expression
+  - designation: output angle
+    type: expression
+dateAccepted: 1991-10-01
+id: f5afc190-4129-552c-b998-c378157c4038
+status: valid

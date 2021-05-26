@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-04-01
+  definition: activity in which a worker makes contact with {{energized, IEV:651-21-08}}
+    parts or encroaches inside the {{live working zone, IEV:651-21-03}} with either
+    parts of his or her body or with {{tools, IEV:651-21-14}}, {{devices, IEV:651-21-15}}
+    or {{equipment, IEV:651-21-16}}
+  examples: []
+  id: 651-21-01
+  language_code: eng
+  notes:
+  - 'Examples of live working include: replacement of insulators and spacers, the
+    cleaning of insulators and energized parts and the replacement of other installation
+    components.'
+  - "Live working is performed using specific methods such as:\n\n * {{hot stick working,\
+    \ IEV:651-21-05}},\n\n* {{insulating glove working, IEV:651-21-06}},\n\n* {{bare\
+    \ hand working, IEV:651-21-07}}."
+  - This entry was numbered 651-01-01 in IEC 60050-651:1999. It has been modified
+    to ensure clarification of the concept of live working.
+  reviewDate: 2014-04-01
+  reviewDecisionDate: 2014-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: live working
+    normative_status: preferred
+    type: expression
+  - designation: live work
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01
+id: d86f096a-62ae-5f42-af2d-43648f55a7b7
+status: valid

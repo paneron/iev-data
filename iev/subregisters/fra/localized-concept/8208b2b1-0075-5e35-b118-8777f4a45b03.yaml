@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: valeurs de l'équivalent de référence à l'émission ou à la réception
+    converties selon une transformation définie, non linéaire, en des valeurs correspondantes
+    obéissant aux lois de l'addition algébrique
+  examples: []
+  id: 722-17-17
+  language_code: fra
+  notes:
+  - La conversion sert à éviter certaines des difficultés rencontrées dans l'application
+    des équivalents de référence. Elle est définie dans l'Annexe C de la Recommandation
+    G111 du CCITT, contenue dans le fascicule III.1 du Livre Bleu, 1989.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivalents de référence corrigé
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+  - designation: ERC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 8208b2b1-0075-5e35-b118-8777f4a45b03
+status: valid

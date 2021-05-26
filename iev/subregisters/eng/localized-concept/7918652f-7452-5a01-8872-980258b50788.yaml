@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: form of differential pulse code modulation in which only the sign of
+    the difference between each signal sample and its predicted value is retained
+    and encoded by a single binary digit
+  examples: []
+  id: 702-06-61
+  language_code: eng
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: delta modulation
+    normative_status: preferred
+    type: expression
+  - designation: ΔM
+    normative_status: preferred
+    type: expression
+  - designation: DM
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 7918652f-7452-5a01-8872-980258b50788
+status: valid

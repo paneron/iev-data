@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: pour un réseau contenant `n` noeuds et dont chaque branche est munie
+    d'un sens de référence, matrice carrée d'ordre `n` dont l'élément `a`~`ij`~ indique
+    le nombre de branches orientées du noeud `i` vers le noeud `j`
+  examples: []
+  id: 131-13-20
+  language_code: fra
+  notes:
+  - 'La figure ci-dessous représente un réseau et la matrice d''adjacence correspondante.
+
+
+    image::/assets/images/parts/131/131-13-20.gif[]'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice d'adjacence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 4247ad39-b131-5b81-957f-e3fb15355f8d
+status: valid

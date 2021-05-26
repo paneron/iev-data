@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of radiance, `L`~e~(`λ`), with respect to wavelength, `λ` `L_((e
+    , lambda)) = ((d L_e ( lambda )))/((d lambda))`
+  examples: []
+  id: 845-21-052
+  language_code: eng
+  notes:
+  - The spectral radiance is expressed in watt per square metre per nanometre per
+    steradian (W·m^−2^·nm^−1^·sr^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral radiance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~e,~`λ`
+
+      `Lλ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: e9c9934f-443a-525c-8645-aade90a7292c
+status: valid

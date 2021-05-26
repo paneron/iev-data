@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: mathematical model used for prediction or estimation of reliability
+    measures
+  examples: []
+  id: 192-11-02
+  language_code: eng
+  notes:
+  - See IEC 61703, _Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms_, for more detail on reliability modelling.
+  - Modelling techniques can be applied to other dependability characteristics, such
+    as maintainability and availability.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reliability model
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 73f766d6-4b3e-5c5a-b73b-63fb66f7bb5e
+status: valid

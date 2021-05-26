@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction d'une variable réelle ayant la valeur –1 pour toute valeur
+    négative de la variable, +1 pour toute valeur positive et 0 lorsque la variable
+    est nulle
+  examples: []
+  id: 103-03-04
+  language_code: fra
+  notes:
+  - 'Le signum peut être généralisé à des variables complexes: `sgn underset(_)(z)
+    = ((underset(_)(z)))/((| underset(_)(z) |))` pour `z != 0` et `sgn 0 = 0`.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: signum
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fonction signe
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fcd62b3b-4972-542f-b2aa-0c5787b949a3
+status: valid

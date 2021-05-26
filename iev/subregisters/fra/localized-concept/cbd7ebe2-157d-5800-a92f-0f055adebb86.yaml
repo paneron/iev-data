@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: pour un quadripôle linéaire ou un réseau linéaire à `n` paires de bornes,
+    quotient du phaseur représentant la tension à un accès d'entrée par le phaseur
+    représentant le courant à un accès de sortie, lorsque tous les autres accès sont
+    reliés à des immittances de fermeture spécifiées
+  examples: []
+  id: 131-14-14
+  language_code: fra
+  notes:
+  - L'entrée est généralement reliée à une source idéale de tension.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance de transfert inverse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: cbd7ebe2-157d-5800-a92f-0f055adebb86
+status: valid

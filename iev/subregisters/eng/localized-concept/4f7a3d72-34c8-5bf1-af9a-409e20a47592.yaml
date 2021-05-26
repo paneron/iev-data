@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: random noise due to thermal agitation of charge carriers in a conductor
+  examples: []
+  id: 702-08-45
+  language_code: eng
+  notes:
+  - Thermal noise has a continuous spectrum and may be considered as white noise at
+    frequencies lower than those for which quantum phenomena are no longer negligible.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermal noise
+    normative_status: preferred
+    type: expression
+  - designation: Johnson noise
+    type: expression
+dateAccepted: 1992-03-01
+id: 4f7a3d72-34c8-5bf1-af9a-409e20a47592
+status: valid

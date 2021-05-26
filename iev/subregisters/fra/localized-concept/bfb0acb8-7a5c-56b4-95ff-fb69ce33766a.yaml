@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 13-27
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-27, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: rapport de l'{{entropie, IEV:171-07-15}} `H` à la {{quantité de décision,
+    IEV:171-07-10}} `H`~0~ `H`~r~ = `H`/`H`~0~
+  examples:
+  - 'Soit `{ a , b , c }` un jeu de trois événements dont les probabilités de réalisation
+    sont `p ( a ) = 0,5`, `p ( b ) = 0,25` et `p ( c ) = 0,25`. L''entropie relative
+    de ce jeu est: `H_r = 1,5 Sh // 1,585 Sh tildetilde 0,95`.'
+  id: 171-07-17
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: entropie relative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bfb0acb8-7a5c-56b4-95ff-fb69ce33766a
+status: valid

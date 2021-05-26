@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: 'quantity representing the quantities in a finite set or in an interval,
+    . for `n` positive quantities `x_1 , x_2 , ... x_n`, by the positive `n`th root
+    of their product: `X_g = ( x_1 * x_2 * ... * x_n )^(1 // n)` . for a quantity
+    `x` depending on a variable `t`, by the quantity `X_g` calculated from the values
+    of the quantity `x`(`t`) by the expression `log ((X_g))/((x_((ref)))) = (1)/(T)
+    int_( 0)^( T) log ((x ( t )))/((x_((ref)))) d t` where `x_((ref))` is a reference
+    value'
+  examples: []
+  id: 103-02-04
+  language_code: eng
+  notes:
+  - The geometric mean value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.
+  - The geometric mean value of a quantity is denoted by adding the subscript g to
+    the symbol of the quantity.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: geometric mean value
+    normative_status: preferred
+    type: expression
+  - designation: geometric average
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 5f610ad5-d408-5cfd-a91a-ca0b30cb2ae9
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: fréquence d'échantillonnage minimale permettant théoriquement de reconstituer
+    sans distorsion le signal d'origine
+  examples: []
+  id: 723-10-28
+  language_code: fra
+  notes:
+  - Pour un signal dont le spectre s'étend de la fréquence zéro à une fréquence maximale,
+    la fréquence de Nyquist est égale au double de cette fréquence maximale.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence de Nyquist
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: dafb2af4-f91c-5b1f-bf79-bf037fa7b873
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-10-01
+  definition: time relay in which the output immediately changes to the operate condition
+    and the time delay starts when applying the power supply and the control signal;
+    the output switches to the release condition after the setting time has elapsed
+    (see Figure 11) image::/assets/images/parts/445/445-01-14en.gif[]
+  examples: []
+  id: 445-01-14
+  language_code: eng
+  notes:
+  - – Cycling the control signal during the time delay will not retrigger the time
+    delay.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interval relay with control signal
+    normative_status: preferred
+    type: expression
+  - designation: single shot relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: 8c67bab2-ab15-5ca3-953f-994982dc5272
+status: valid

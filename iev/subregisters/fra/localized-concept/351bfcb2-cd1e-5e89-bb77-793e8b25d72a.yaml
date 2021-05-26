@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matériel électrique qui contient à la fois des circuits à énergie limitée
+    et des circuits à énergie non limitée et qui est construit de telle sorte que
+    les circuits à énergie non limitée ne peuvent pas affecter négativement les circuits
+    à énergie limitée
+  examples: []
+  id: 426-13-09
+  language_code: fra
+  notes:
+  - 'Le matériel associé à énergie limitée est:
+
+
+    <ol type="a">. soit équipé d''une protection supplémentaire fournie par une méthode
+    alternative de protection comprise dans l''IEC 60079-15, _Atmosphères explosives
+    – Partie 15: Protection du matériel par mode de protection "n"_, adaptée à une
+    utilisation dans l''atmosphère explosive gazeuse appropriée &amp;lsqb;nA, nC,
+    nR&amp;rsqb;;. soit équipé d''une protection supplémentaire fournie par un Mode
+    alternatif de Protection cité dans l''IEC 60079-0, _Atmosphères explosives – Partie
+    0: Matériel – Exigences générales_, adaptée à une utilisation dans l''atmosphère
+    explosive gazeuse appropriée;. soit non équipé d''une protection fournie par un
+    Mode de Protection adapté à une utilisation dans l''atmosphère explosive appropriée
+    et, par conséquent, ne doit pas être utilisé dans une atmosphère explosive gazeuse,
+    par exemple, un enregistreur qui ne se trouve pas lui-même dans une atmosphère
+    explosive gazeuse, mais qui est relié à un thermocouple situé dans une atmosphère
+    explosive gazeuse dans laquelle seul le circuit d''entrée de l''enregistreur est
+    à énergie limitée &amp;lsqb;Ex nL&amp;rsqb;.'
+  - 'Le matériel associé à énergie limitée "&amp;lsqb;nL&amp;rsqb;" a été remplacé
+    par "&amp;lsqb;ic&amp;rsqb;" dans l''IEC 60079-11, _Atmosphères explosives – Partie
+    11: Protection de l''équipement par sécurité intrinsèque "i"_.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: matériel associé à énergie limitée "&amp;lsqb;nL&amp;rsqb;" ou "&amp;lsqb;Ex
+      nL&amp;rsqb;"
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 351bfcb2-cd1e-5e89-bb77-793e8b25d72a
+status: valid

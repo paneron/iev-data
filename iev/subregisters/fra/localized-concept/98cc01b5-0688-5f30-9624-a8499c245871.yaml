@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: quotient d'une grandeur de champ dynamique (telle que force, pression
+    acoustique) par une grandeur de champ cinématique (telle que vitesse vibratoire,
+    vitesse d'une particule), ou quotient d'une tension par un courant, à une fréquence
+    donnée
+  examples: []
+  id: 801-25-13
+  language_code: fra
+  notes:
+  - Le terme impédance s'applique généralement à un système linéaire et à des signaux
+    sinusoïdaux permanents.
+  - Dans le cas d'un régime transitoire, l'impédance en fonction de la fréquence est
+    le quotient des transformées de Fourier ou de Laplace respectives.
+  - Une impédance est le quotient de deux grandeurs dont le produit a les dimensions
+    d'une puissance ou d'une puissance par unité d'aire.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 98cc01b5-0688-5f30-9624-a8499c245871
+status: valid

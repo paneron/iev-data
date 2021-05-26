@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 195-02-08
+      original: 195-02-08 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2004-08-01
+  definition: conducteur sous tension en service normal et capable de participer au
+    transport ou à la distribution de l'énergie électrique, mais qui n'est ni un conducteur
+    de neutre ni un conducteur de point milieu
+  examples: []
+  id: 826-14-09
+  language_code: fra
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conducteur de ligne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conducteur de phase
+    type: expression
+dateAccepted: 2004-08-01
+id: a3551ad1-6108-503b-8c56-fe03bffa78ff
+status: valid

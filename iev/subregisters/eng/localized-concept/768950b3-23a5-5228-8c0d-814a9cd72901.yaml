@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: the speed of light in vacuum, divided by the magnitude of the group
+    velocity of the mode
+  examples: []
+  id: 731-03-30
+  language_code: eng
+  notes:
+  - 'For a plane wave of wavelength `λ`, it is related thus to the refractive index
+    `n`:
+
+
+    `N = n - lambda ((d n))/((d lambda))`
+
+
+    where `λ` is the wavelength.'
+  - Each mode has its own group index.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group index
+    normative_status: preferred
+    type: expression
+  - designation: '`N`'
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: 768950b3-23a5-5228-8c0d-814a9cd72901
+status: valid

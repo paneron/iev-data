@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: testing in which test cases are chosen using only knowledge of the functional
+    specification of the item under test
+  examples: []
+  id: 192-09-13
+  language_code: eng
+  notes:
+  - Black-box testing aims to achieve a defined level of coverage of the input domain
+    of the item under test.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: black-box testing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: d5cde5c2-c827-5bce-9bff-be1f778fdb8a
+status: valid

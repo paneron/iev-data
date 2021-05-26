@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: ability to supply the required total electric power and energy, without
+    exceeding system component ratings or system operating limits, and with bus voltages
+    and system frequency maintained within tolerances, taking into account {{planned
+    outages, IEV:692-04-03}} and {{unplanned outages, IEV:692-04-04}} of the system
+    components image::/assets/images/parts/692/692-fig1-en.png[Figure 1 - Relationship
+    between service reliability, system adequacy and system security]
+  examples: []
+  id: 692-01-05
+  language_code: eng
+  notes:
+  - Adequacy can be quantified by measures given in Section 692-11 "Supply performance
+    measures".
+  - This entry was numbered 191-21-01 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: system adequacy
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: 2fa40a48-dd39-57de-bf29-82f3f4523efc
+status: valid

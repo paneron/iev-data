@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une matrice carrée *`A`* d'ordre `n`, somme des éléments de la
+    diagonale principale `t r A = sum_((i = 1))^n A_((i i))`
+  examples: []
+  id: 102-06-21
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: trace
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une matrice
+dateAccepted: 2018-11-17
+id: b41fc9e2-62d7-5b45-893b-c1c0a71eec07
+status: valid

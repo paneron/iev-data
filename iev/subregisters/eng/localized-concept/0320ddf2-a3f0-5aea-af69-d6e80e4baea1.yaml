@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-03-01
+  definition: See {{IEV 731-01-25, IEV:731-01-25}}
+  examples: []
+  id: 426-23-09
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: irradiance
+    normative_status: preferred
+    type: expression
+  - designation: intensity
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-03-01
+id: 0320ddf2-a3f0-5aea-af69-d6e80e4baea1
+status: valid

@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 195-01-07
+      original: 195-01-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 151-15-56
+      link: https://webstore.iec.ch/publication/169
+      original: see IEC 60050-121, 151-15-56.
+      ref: IEC 60050-121
+      relationship:
+        type: related
+  dateAmended: 2001-07-01
+  definition: element intended to carry electric current
+  examples: []
+  id: 151-12-05
+  language_code: eng
+  notes:
+  - The term "conductor" is often used for an element the length of which is large
+    with respect to the cross-sectional dimensions, e.g. conductors of a line or of
+    a cable.
+  - The English term "conductor" and the French term "conducteur" have also the meaning
+    of "conducting medium".
+  - In French, the term "conducteur" is also used as an adjective corresponding to
+    the English "conductive".
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: ecf9d973-e2fe-5624-b4c7-289652cad519
+status: valid

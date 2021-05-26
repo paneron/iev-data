@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.05
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.05
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  definition: '{{canal, IEV:171-07-07}} destiné à la transmission de messages composés
+    de caractères binaires et dont les propriétés sont telles que les probabilités
+    conditionnelles du changement de l''un quelconque des caractères binaires en l''autre
+    sont égales'
+  examples: []
+  id: 171-07-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: canal binaire symétrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 58faf326-36de-5370-b277-a18b5eb11e32
+status: valid

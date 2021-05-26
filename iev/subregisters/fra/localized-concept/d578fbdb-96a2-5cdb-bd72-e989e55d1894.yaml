@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: logarithme décimal du quotient de la luminance du <a href="IEV845-32-058">blanc
+    adopté</a> d'un site ou d'un point d'origine, `Y`~blanc adopté,~ par la luminance
+    d'une surface mesurée du site ou du point d'origine, `Y`~surface mesurée~ `D_v
+    = (log)_((10)) ((Y_((blanc adopté))))/((Y_((surface mesurée))))`
+  examples: []
+  id: 845-24-125
+  language_code: fra
+  notes:
+  - L'unité de densité visuelle effective est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité visuelle effective
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité lumineuse effective
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d578fbdb-96a2-5cdb-bd72-e989e55d1894
+status: valid

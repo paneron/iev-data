@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: filter consisting of input and output IDTs on a piezoelectric substrate
+  examples: []
+  id: 561-02-77
+  language_code: eng
+  notes:
+  - 'The impulse response of a transversal filter is given by the convolution of the
+    impulse response of the first IDT with the conjugate complex impulse response
+    of the second IDT. The frequency response is given by the Fourier transform of
+    the impulse response. A simple example of a transversal filter is shown in Figure
+    16.
+
+
+    image::/assets/images/parts/561/561-fig16-en.png[]
+
+
+    *Figure 16 – Transversal filter*'
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transversal filter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: a5c4fccd-232b-5c24-b739-93bdf58bfc08
+status: valid

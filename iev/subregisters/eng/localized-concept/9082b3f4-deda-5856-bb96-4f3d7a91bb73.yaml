@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 701-03-01
+      original: 701-03-01
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1992-04-01
+  definition: a temporary association of transmission channels or telecommunication
+    circuits, switching and other functional units set up to provide for the transfer
+    of information between two or more points in a telecommunication network
+  examples: []
+  id: 714-01-09
+  language_code: eng
+  notes:
+  - A connection is the result of a switching operation.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: connection
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: 9082b3f4-deda-5856-bb96-4f3d7a91bb73
+status: valid

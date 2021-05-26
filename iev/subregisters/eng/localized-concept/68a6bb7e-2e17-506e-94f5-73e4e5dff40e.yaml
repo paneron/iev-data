@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{supply interruption, IEV:692-07-01}} for which service restoration
+    is not completed within a specified duration'
+  examples: []
+  id: 692-07-02
+  language_code: eng
+  notes:
+  - Depending on utility conventions, the specified duration is generally between
+    three and five minutes.
+  - Sustained interruption is sometimes referred to as long interruption.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sustained interruption
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: 68a6bb7e-2e17-506e-94f5-73e4e5dff40e
+status: valid

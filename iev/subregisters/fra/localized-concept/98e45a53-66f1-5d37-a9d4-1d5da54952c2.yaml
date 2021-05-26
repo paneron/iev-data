@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la luminance d'un élément de surface dans une direction
+    spécifiée, `L`~v,n~ par la luminance du diffuseur parfait par réflexion ou par
+    transmission éclairé et observé dans les mêmes conditions, `L`~v,d~ `beta_v =
+    ((L_((v ,n))))/((L_((v ,d))))`
+  examples: []
+  id: 845-24-077
+  language_code: fra
+  notes:
+  - La définition s'applique à un élément de surface d'un milieu non lumineux, dans
+    une direction donnée et dans des conditions d'irradiation spécifiées.
+  - Cette grandeur est également définie spectralement et est appelée "facteur de
+    luminance spectrale".
+  - 'Dans le cas de milieux photoluminescents, le facteur de luminance lumineuse contient
+    deux composantes: le facteur de luminance lumineuse par réflexion, `β`~v,R~, et
+    le facteur de luminance lumineuse par luminescence, `β`~v,L~. La somme des facteurs
+    de luminance par réflexion et par luminescence est appelée "facteur total de luminance"
+    et peut être exprimée par `β`~v,T~: `β`~v,T~ = `β`~v,R~ + `β`~v,L~.
+
+
+    L''indice R est utilisé ici pour le facteur de luminance par réflexion parce qu''il
+    est plus intuitif que l''indice S conventionnel et évite toute confusion de l''utilisation
+    de la lettre S pour désigner un état de polarisation.'
+  - L'unité de facteur de luminance est un.
+  - Cet article était numéroté 845-04-69 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de luminance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 98e45a53-66f1-5d37-a9d4-1d5da54952c2
+status: valid

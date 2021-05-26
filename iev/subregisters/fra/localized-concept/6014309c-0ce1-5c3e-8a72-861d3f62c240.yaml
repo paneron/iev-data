@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: irradiation des matériaux réfléchissants à un angle de 45° par rapport
+    à la perpendiculaire, à un angle d'azimut
+  examples: []
+  id: 845-25-097
+  language_code: fra
+  notes:
+  - La géométrie directionnelle de degré quarante-cinq valorise la texture et la directionnalité.
+  - La lettre "x" dans le synonyme indique que la direction d'azimut du faisceau incident
+    se situe dans la direction `x` sur le plan de référence.
+  reviewDecisionEvent: published
+  terms:
+  - designation: géométrie annulaire de degré quarante-cinq
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: géométrie x de degré 45
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6014309c-0ce1-5c3e-8a72-861d3f62c240
+status: valid

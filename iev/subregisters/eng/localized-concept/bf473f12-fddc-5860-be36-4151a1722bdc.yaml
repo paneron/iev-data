@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{storage device, IEV:171-04-14}} that is accessible to a processor
+    only through {{input-output channels, IEV:171-04-22}}'
+  examples: []
+  id: 171-04-23
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: external storage
+    normative_status: preferred
+    type: expression
+  - designation: auxiliary storage
+    type: expression
+dateAccepted: 2019-03-01
+id: bf473f12-fddc-5860-be36-4151a1722bdc
+status: valid

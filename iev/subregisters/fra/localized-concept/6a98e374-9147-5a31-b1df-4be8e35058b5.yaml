@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'représentation graphique en coordonnées polaires du facteur de réflexion
+    complexe `r`, pour une ligne de transmission uniforme sans pertes, d''impédance
+    caractéristique `Z`~0~: `underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z)
+    + Z_0)) = ((underset(_)(Z) // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))` en fonction
+    de l''impédance complexe `Z` à l''aide de deux familles de cercles orthogonaux
+    sur chacun desquels soit la résistance `R`, soit la réactance `X` a une valeur
+    constante, `Z` = `R` + j`X` étant l''impédance complexe dans la direction de propagation
+    de l''onde incidente au point de détermination du facteur de réflexion complexe'
+  examples: []
+  id: 726-19-01
+  language_code: fra
+  notes:
+  - L'abaque de Smith peut être employé avec des impédances `Z`, des admittances `underset(_)(Y)
+    = (1)/(underset(_)(Z))`, des impédances normées `(underset(_)(Z))/((Z_0))` ou
+    des admittances normées `(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))`
+  - L'abaque de Smith est habituellement limité aux valeurs positives de `R` ; tout
+    l'abaque est alors compris à l'intérieur d'un cercle où le module du facteur de
+    réflexion est égal à l'unité.
+  - L'abaque de Smith permet, par lecture directe, de convertir le facteur de réflexion
+    complexe en parties réelle et imaginaire de l'impédance ou de l'admittance et
+    inversement; cette représentation simplifie aussi la transformation des impédances
+    ou des admittances d'un point à un autre d'une ligne radioélectrique.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: abaque de Smith
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: diagramme de Smith
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: diagramme polaire d'impédance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 6a98e374-9147-5a31-b1df-4be8e35058b5
+status: valid

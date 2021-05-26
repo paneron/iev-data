@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-05
+      original: 702-09-05 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: electric circuit or set of electric circuits, interconnected or having
+    intentional capacitive or inductive coupling between them
+  examples: []
+  id: 151-12-02
+  language_code: eng
+  notes:
+  - An electric network can form part of a larger electric network.
+  - In IEC 60050-131, the term "electric network" has another meaning relative to
+    circuit theory.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric network
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 156dbb38-2675-5206-a4d3-b3c16c8cd278
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: ensemble ordonné de deux {{éléments binaires, IEV:702-05-03}}
+  examples: []
+  id: 702-05-07
+  language_code: fra
+  notes:
+  - Un doublet est un exemple de {{multiplet, IEV:702-05-06}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: doublet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: dibit
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2018-11-17
+id: 3f5bfb6a-f68e-5ddb-8bf7-6a0cf9926ff1
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: time relay in which the output immediately switches to the operate condition
+    and the time delay starts when applying the power supply, and the output switches
+    to the release condition after the setting time has elapsed (see Figure 10) image::/assets/images/parts/445/445-01-13en.gif[]
+  examples: []
+  id: 445-01-13
+  language_code: eng
+  notes: []
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interval relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: 2523a0bd-8260-573a-8b4e-8548ceb3c679
+status: valid

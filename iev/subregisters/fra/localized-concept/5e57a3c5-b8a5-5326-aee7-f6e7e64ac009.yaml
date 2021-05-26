@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du <a href="IEV845-24-083">coefficient d'atténuation linéique
+    spectral</a>, `μ`(`λ`) par la masse volumique `ρ` du milieu `mu_m ( lambda ) =
+    ((mu ( lambda )))/((rho_(())))`
+  examples: []
+  id: 845-24-086
+  language_code: fra
+  notes:
+  - Le coefficient d'atténuation massique spectral est exprimé en mètre carré par
+    kilogramme (m^2^·kg^−1^).
+  - Cet article était numéroté 845-04-79 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'atténuation massique spectral
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5e57a3c5-b8a5-5326-aee7-f6e7e64ac009
+status: valid

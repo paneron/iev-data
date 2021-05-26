@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur vectorielle axiale décrivant la rotation autour d'un axe, dont
+    la norme est `omega = | d phi // d t |`, où `d phi` est la variation d'angle plan
+    pendant un intervalle de temps infinitésimal de durée d`t`, et dont la direction
+    est celle le long de l'axe pour laquelle la rotation est vue dans le sens des
+    aiguilles d'une montre
+  examples: []
+  id: 113-01-41
+  language_code: fra
+  notes:
+  - 1 Dans un référentiel inertiel, la vitesse angulaire ne dépend pas du système
+    de coordonnées, pourvu que l’orientation de l’espace reste inchangée (directe
+    ou rétrograde).
+  - 2 L’unité SI cohérente de vitesse angulaire est le radian par seconde, rad/s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse angulaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 25dd6093-f7f0-58e3-a486-bd0dfe480a8f
+status: valid

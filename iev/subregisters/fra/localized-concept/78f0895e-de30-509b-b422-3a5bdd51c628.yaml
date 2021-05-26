@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: unité fonctionnelle qui s'interpose sur tout le trafic passant entre
+    deux réseaux et protège l'un d'eux, ou une partie de l'un d'eux, contre tout accès
+    non autorisé
+  examples: []
+  id: 732-06-01
+  language_code: fra
+  notes:
+  - 1 – Le réseau protégé est généralement un réseau privé interne à un organisme.
+  - 2 – Un pare-feu autorise le transfert de messages ou de fichiers vers une station
+    de travail de haute sécurité dans le réseau interne, sans permettre de transfert
+    dans le sens opposé.
+  - 3 – Un pare-feu peut être réalisé de plusieurs façons, par exemple passerelle
+    à double anneau, sous-réseau filtré, routeur de filtrage ou passerelle hôte filtrée.
+  - '4 – Voir Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-01fr.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pare-feu
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: barrière de sécurité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coupe-feu CA
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 78f0895e-de30-509b-b422-3a5bdd51c628
+status: valid

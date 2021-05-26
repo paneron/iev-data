@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: fonctionnement d'une base de temps relaxée dans lequel le balayage périodique
+    est synchronisé de manière à maintenir la période de balayage égale à la période
+    de la grandeur représentée, ou à un multiple de cette période, produisant ainsi
+    une image stable
+  examples: []
+  id: 314-06-11
+  language_code: fra
+  notes:
+  - La synchronisation est normalement assurée pour des légers changements de période
+    de la grandeur observée.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: balayage (relaxé) synchronisé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 5c0bc785-e16e-56bb-8edc-578ee06464b7
+status: valid

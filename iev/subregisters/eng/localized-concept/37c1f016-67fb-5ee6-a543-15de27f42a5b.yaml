@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: electric current density at the critical current using either the cross-section
+    of the whole conductor (overall) or of the non-stabilizer part of the conductor
+    if there is a stabilizer
+  examples: []
+  id: 815-12-03
+  language_code: eng
+  notes:
+  - 'The overall current density is called engineering current density (symbol: `J`~e~).'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical current density
+    normative_status: preferred
+    type: expression
+  - designation: '`J`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 37c1f016-67fb-5ee6-a543-15de27f42a5b
+status: valid

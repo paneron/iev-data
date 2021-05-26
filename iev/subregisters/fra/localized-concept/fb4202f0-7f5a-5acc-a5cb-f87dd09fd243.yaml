@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: loi donnant la <a href="IEV845-21-029">répartition spectrale</a> de
+    la luminance énergétique d'un <a href="IEV845-24-004">radiateur de Planck</a>
+    en fonction de la longueur d'onde et de la température `L_((e , lambda)) ( lambda
+    , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5)
+    ( e^(((c_2))/((lambda T))) - 1 )^(- 1)` où `L`~e,~`λ` est la luminance spectrale,
+    `λ` est la longueur d'onde dans le vide, `T` est la température thermodynamique,
+    `c_1 \ = 2 \ pi \ h \ c_0^2`, `c_2 \ = h \ c_0 \ // \ k`, `h` est la constante
+    de Planck, `c`~0~ est la {{vitesse de la lumière dans le vide, IEV:113-01-34}},
+    et `k` est la constante de Boltzmann
+  examples: []
+  id: 845-24-005
+  language_code: fra
+  notes:
+  - La formule s'écrit parfois avec `((c_1))/((pi omega_0))` au lieu de `((c_1))/(pi)`,
+    où `Ω`~0~ est l'angle solide de 1 sr.
+  - Pour un récepteur dans un milieu d'indice de réfraction `n`, la luminance énergétique
+    mesurée est `n`^2^`L`~e,~`λ`(`λ`, `T`).
+  - La loi de Planck peut aussi être exprimée pour donner la répartition spectrale
+    de l'exitance énergétique, `M`~e,~`λ`(`λ`, `T`); dans la formule, le premier facteur
+    est alors `c`~1~ au lieu de `((c_1))/(pi)`.
+  - Les deux grandeurs (luminance et exitance énergétiques) s'appliquent au <a href="IEV845-21-021">rayonnement
+    non polarisé</a> tel qu'il est émis.
+  - Pour les valeurs actualisées de la constante de Planck, `h`, la {{vitesse de la
+    lumière dans le vide, IEV:113-01-34}}, `c`~0~, et la constante de Boltzmann, `k`,
+    voir CODATA.
+  - Cet article était numéroté 845-04-05 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi de Planck
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fb4202f0-7f5a-5acc-a5cb-f87dd09fd243
+status: valid

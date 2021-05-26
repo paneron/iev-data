@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: spectre d'un rayonnement dont la <a href="IEV845-21-029">répartition
+    spectrale</a> d'une grandeur radiométrique en fonction de la longueur d'onde est
+    constante dans toute l'étendue du spectre visible
+  examples: []
+  id: 845-23-023
+  language_code: fra
+  notes:
+  - Le rayonnement ayant un spectre d'égale énergie est considéré parfois comme un
+    illuminant, auquel cas il est désigné par le symbole E.
+  - Cet article était numéroté 845-03-14 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectre d'égale énergie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: spectre équiénergétique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 08869ae6-ebce-572a-b021-b00592cc1cbd
+status: valid

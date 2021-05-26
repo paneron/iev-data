@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 726-01-01
+      original: 726-01-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 704-02-02
+      original: 704-02-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: line intended mainly for transfer of signals
+  examples: []
+  id: 151-12-32
+  language_code: eng
+  notes:
+  - A transmission line is characterized by minimum low losses due to radiation.
+  - The term "transmission line" and the word "line" with a qualifier are frequently
+    restricted to a line used for guiding electromagnetic waves in the TEM mode, commonly
+    a two-wire or coaxial arrangement of conductors.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission line
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 91a876e3-7714-50c8-9516-d023c514fbd6
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: 'the quantity which characterizes that part of profile dispersion due
+    to a variation of refractive index contrast with wavelength given by: `P ( lambda
+    ) = ((n_((1 )) lambda d Delta))/((N_1 Delta d lambda))` where `n`~1~ is the maximum
+    refractive index of the core, `N`~1~ is the group index corresponding to `n`~1~
+    calculated from the formula: `N`~1~ = `n`~1~ = `λ` (d`n`~1~ / d`λ`) Δ is the refractive
+    index contrast, `λ` is the wavelength in vacuum'
+  examples: []
+  id: 731-03-78
+  language_code: eng
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: profile dispersion parameter
+    normative_status: preferred
+    type: expression
+  - designation: '`P`'
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: cfb60f49-bac5-5a8f-bfae-5685ec153053
+status: valid

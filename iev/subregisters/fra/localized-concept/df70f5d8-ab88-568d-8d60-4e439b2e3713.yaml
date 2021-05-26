@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: phénomène de renvoi d'un rayonnement par une surface ou un milieu, sans
+    changement de {{fréquence, IEV:103-06-02}} de ses composantes monochromatiques
+  examples: []
+  id: 845-24-047
+  language_code: fra
+  notes:
+  - Une partie du rayonnement tombant sur un milieu est réfléchie à la surface du
+    milieu ("réflexion en surface"); une autre partie peut être rétrodiffusée de l'intérieur
+    du milieu ("réflexion en volume").
+  - La fréquence ne varie pas uniquement s'il ne se produit pas d'effet Doppler provenant
+    du mouvement des matériaux qui renvoient le rayonnement.
+  - Cet article était numéroté 845-04-42 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réflexion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un rayonnement
+dateAccepted: 2018-11-17
+id: df70f5d8-ab88-568d-8d60-4e439b2e3713
+status: valid

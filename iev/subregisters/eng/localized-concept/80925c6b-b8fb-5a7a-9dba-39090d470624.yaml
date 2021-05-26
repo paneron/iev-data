@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: length describing the spatial variation of the order parameter in the
+    Ginzburg-Landau theory
+  examples: []
+  id: 815-10-32
+  language_code: eng
+  notes:
+  - '`ξ` called the Ginzburg-Landau coherence length is a function of temperature
+    and nearly equal to the BCS coherence length, `ξ`~0~, at 0 K in a clean superconductor
+    ({{815-10-35, IEV:815-10-35}}).'
+  - '`ξ` = (`Φ`~0~/2π`μ`~0~`H`~c2~)^1/2^, where `Φ`~0~ is the flux quantum, `μ`~0~
+    is the magnetic constant and `H`~c2~ is the upper critical field strength.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coherence length
+    normative_status: preferred
+    type: expression
+  - designation: '`ξ`'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 80925c6b-b8fb-5a7a-9dba-39090d470624
+status: valid

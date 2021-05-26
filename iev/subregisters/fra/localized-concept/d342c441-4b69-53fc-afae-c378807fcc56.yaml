@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: le cas échéant, puissance (pour un courant continu) ou puissance apparente
+    (pour un courant alternatif) absorbée dans les {{conditions de référence, IEV:447-06-03}}
+    par le {{circuit d'entrée, IEV:447-03-07}} considéré d'un {{relais de mesure,
+    IEV:447-01-02}} ou d'un {{équipement de protection, IEV:447-01-49}} et déterminée
+    dans des conditions spécifiées
+  examples: []
+  id: 447-03-17
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur assignée de la puissance absorbée pour un circuit d'entrée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: consommation assignée d'un circuit d'entrée
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d342c441-4b69-53fc-afae-c378807fcc56
+status: valid

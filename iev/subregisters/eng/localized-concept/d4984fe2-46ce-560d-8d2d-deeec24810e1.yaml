@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{supply interruption, IEV:692-07-01}} for which service restoration
+    is completed within a specified duration'
+  examples: []
+  id: 692-07-03
+  language_code: eng
+  notes:
+  - Depending on utility conventions, the specified duration can vary between three
+    and five minutes.
+  - Momentary interruption is sometimes referred to as short interruption.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: momentary interruption
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: d4984fe2-46ce-560d-8d2d-deeec24810e1
+status: valid

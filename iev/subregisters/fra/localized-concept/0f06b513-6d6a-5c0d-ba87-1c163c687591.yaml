@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: partie réelle d'une impédance `underset(_)(Z)` `R = Re ( underset(_)(Z)
+    )`
+  examples: []
+  id: 131-12-45
+  language_code: fra
+  notes:
+  - Le terme «résistance» a un sens apparenté en {{IEV 131-12-04, IEV:131-12-04}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: résistance en courant alternatif
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: résistance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0f06b513-6d6a-5c0d-ba87-1c163c687591
+status: valid

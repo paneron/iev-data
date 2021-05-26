@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée de fonctionnement cumulée entre des défaillances consécutives
+  examples: []
+  id: 192-05-04
+  language_code: fra
+  notes:
+  - Le temps de bon fonctionnement est un cas particulier de la durée de fonctionnement
+    avant défaillance, applicable uniquement aux entités réparables.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de bon fonctionnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: e7c7009a-2f05-59ff-a2ac-adef02eff936
+status: valid

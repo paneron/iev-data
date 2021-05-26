@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of blue light hazard weighted radiant flux and the `V`(`λ`)
+    weighted radiant flux `a_((B ,v)) = ((int Phi_((e , lambda)) ( lambda ) * B (
+    lambda ) * d lambda))/((int Phi_((e , lambda)) ( lambda ) * V ( lambda ) * d lambda))`
+    where `λ` is wavelength, `Φ`~e,`λ`~(`λ`) is spectral radiant flux, `B`(`λ`) is
+    the blue light hazard spectral weighting function, and `V`(`λ`) is the CIE <a
+    href="IEV845-21-035">spectral luminous efficiency</a> function for photopic vision
+  examples: []
+  id: 845-26-062
+  language_code: eng
+  notes:
+  - Luminous radiation refers to <a href="IEV845-21-002">optical radiation</a> weighted
+    with the CIE spectral luminous efficiency function for photopic vision, `V`(`λ`).
+  - The use of this term is only reasonable if parts of the optical radiation are
+    in the visible range and thus `int Phi_((e , lambda)) ( lambda ) * V ( lambda
+    ) * d lambda != 0`.
+  - The blue light hazard factor of luminous radiation has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blue light hazard factor of luminous radiation
+    normative_status: preferred
+    type: expression
+  - designation: '`α`~B,v~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: c294c512-c8a7-5e3e-8af6-b7c7f113d0f5
+status: valid

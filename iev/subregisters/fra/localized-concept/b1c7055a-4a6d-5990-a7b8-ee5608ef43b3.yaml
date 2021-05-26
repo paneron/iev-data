@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 13-10
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-10
+      ref: IEC 80000-13:2008
+      relationship:
+        type: identical
+  definition: logarithme binaire du nombre `n` d'états possible d'une {{mémoire, IEV:171-04-14}}
+    `M`~e~ = lb `n`
+  examples: []
+  id: 171-04-17
+  language_code: fra
+  notes:
+  - La capacité minimale d’une mémoire organisée en bits qui pourrait contenir la
+    même quantité de données qu’une mémoire donnée est égale au plus petit entier
+    supérieur ou égal à la capacité binaire équivalente.
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité binaire équivalente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b1c7055a-4a6d-5990-a7b8-ee5608ef43b3
+status: valid

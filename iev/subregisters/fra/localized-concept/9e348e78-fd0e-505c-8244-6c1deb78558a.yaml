@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: résultat d'une exponentiation
+  examples: []
+  id: 102-02-08
+  language_code: fra
+  notes:
+  - Le terme «puissance» désigne aussi une expression représentant une exponentiation.
+  - Dans la puissance `a^b`, `a` est la base et `b` est l'exposant. La puissance est
+    exprimée par les mots «`a` à la puissance `b`» ou simplement «`a` puissance `b`»,
+    ou encore «la puissance `b` de `a`».
+  - La puissance d'exposant 2 est le carré, `a^2 = a * a`, la puissance d'exposant
+    3 est le cube, `a^3 = a * a * a`, la puissance d'exposant −1 est l'inverse, `a^(-
+    1) = 1 // a`, la puissance d'exposant 1/2 est la racine carrée, `a^(1 // 2) =
+    sqrt(a)`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e348e78-fd0e-505c-8244-6c1deb78558a
+status: valid

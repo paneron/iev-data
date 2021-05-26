@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the quotient of d`E`~tr~/`E`~`N`~ by `ρ` d`l`, where `E`~`N`~ is the
+    energy of each particle (excluding rest energy), `N` is the number of particles,
+    and d`E`~tr~/`E`~`N`~ is the fraction of incident particle energy that is transferred
+    to kinetic energy of charged particles by interactions in traversing a distance
+    d`l` in the material of density `ρ` `((mu_((tr))))/(rho) = (1)/((E_N rho)) * ((d
+    E_((tr))))/((d l))`
+  examples: []
+  id: 881-04-32
+  language_code: eng
+  notes:
+  - 'For a given monoenergetic radiation, the relationship between kerma (`K`) and
+    energy fluence (`Ψ`) may be written
+
+
+    `K = Psi ((mu_((tr))))/(rho)`'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mass energy transfer coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`((mu_((tr))))/(rho)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: b3bd66e8-fd00-5de8-b688-1226e878a1bd
+status: valid

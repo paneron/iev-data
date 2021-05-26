@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: '3.711'
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC/IEEE 24765:2017, 3.711, modified – For consistency with the
+        terminology in ISO/IEC 20924:2018, the preferred term "computational component"
+        has been replaced by "computational element"
+      ref: ISO/IEC 20924:2018
+      relationship:
+        modification: For consistency with the terminology in ISO/IEC 20924:2018,
+          the preferred term "computational component" has been replaced by "computational
+          element"
+        type: modified
+  dateAmended: 2020-04-01
+  definition: component specified in a computational viewpoint that has a control
+    interface and declared sets of . operation interfaces in which it plays a server
+    role (facets), . operation interfaces in which it plays a client role (receptacles),
+    . operation interfaces originating announcements carrying notifications of typed
+    events (event sources), . operation interfaces consuming announcements carrying
+    notifications of typed events (event sinks), and . operation interfaces supporting
+    accessors and mutators for attributes (attributes)
+  examples: []
+  id: 741-02-501
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: computational element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 4112ffb3-8ebc-5586-8af9-77a957b12953
+status: valid

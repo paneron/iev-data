@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'for a step response the duration of the time interval between the instant
+    of the step change of an input variable and the instant when the output variable
+    reaches for the first time a specified percentage of the difference between the
+    final and the initial steady-state value SEE: Figure 5.'
+  examples: []
+  id: 351-45-36
+  language_code: eng
+  notes:
+  - This entry was numbered 351-24-28 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: step response time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 035fe421-5dca-5f26-93e2-427a578c5e9a
+status: valid

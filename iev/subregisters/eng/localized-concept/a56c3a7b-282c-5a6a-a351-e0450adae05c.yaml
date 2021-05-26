@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: sequence of digits that identifies a network in a set of interconnected
+    networks
+  examples: []
+  id: 732-05-06
+  language_code: eng
+  notes:
+  - In the Internet Protocol, the network number forms a part of the IP address of
+    each computer of the network.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: network number
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: a56c3a7b-282c-5a6a-a351-e0450adae05c
+status: valid

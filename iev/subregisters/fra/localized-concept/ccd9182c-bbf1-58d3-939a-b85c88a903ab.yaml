@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: pour un élément de commande, variation de la variable d'entrée requise
+    pour produire sur la variable de sortie, sous le seul effet de l'élément proportionnel,
+    une variation de toute l'étendue de cette variable
+  examples: []
+  id: 351-50-07
+  language_code: fra
+  notes:
+  - La bande proportionnelle d’un élément de régulation est l'inverse de son gain
+    exprimé en pourcentage de l'intervalle de mesure.
+  - Cet article était numéroté 351-28-18 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bande proportionnelle d’un élément de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: ccd9182c-bbf1-58d3-939a-b85c88a903ab
+status: valid

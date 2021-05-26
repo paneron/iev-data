@@ -1,0 +1,45 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'at a given point within a surface element of quasi-infinitesimal area
+    `S`, vector quantity equal to the sum, for all free charge carriers confined to
+    the surface element, of the products of electric charge and velocity, divided
+    by the area `S`: `A = (1)/(S) sum_((i = 1))^n Q_i v_i` where `n` is the number
+    of free carriers confined to the surface element, `Q`~`i`~ the electric charge
+    of the `i`^th^ carrier and *`v`*~i~ its velocity'
+  examples: []
+  id: 121-11-12
+  language_code: eng
+  notes:
+  - 'For charge carriers confined to a surface, the integral along a curve of this
+    surface joining two points `a` and `b`, the differential element of which is the
+    scalar product of the lineic electric current `*A*`  and the vector `*e*`~n~d`s`
+    normal to the curve in a specified direction tangent to the surface and of magnitude
+    equal to the scalar line element d`s`, is equal to the limit of the quotient of
+    the electric charge `Q` transferred across the curve in the specified direction
+    during a time interval by the duration `τ`  of this interval when `τ`  tends to
+    zero:
+
+
+    `int_((s_a))^((s_b)) A * e_n d s = underset((tau -&gt; 0))((lim)) (Q)/(tau)`
+
+
+    where `s`~a~ and `s`~b~ are the path coordinates for `a` and `b`, respectively.'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lineic (electric) current
+    normative_status: preferred
+    type: expression
+  - designation: linear (electric) current density
+    normative_status: preferred
+    type: expression
+  - designation: '`*A*`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 75eb9400-8049-5586-b49d-19bb75144361
+status: valid

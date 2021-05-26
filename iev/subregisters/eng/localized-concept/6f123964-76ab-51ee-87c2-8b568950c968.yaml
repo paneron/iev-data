@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: part of the active maintenance time taken to perform a preventive maintenance
+    image::/assets/images/parts/192/60050-192-F2en.png[Figure 2 - Maintenance times]
+  examples: []
+  id: 192-07-08
+  language_code: eng
+  notes:
+  - Active preventive maintenance time is comprised of technical delay, preventive
+    maintenance action time and function checkout time.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: active preventive maintenance time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 6f123964-76ab-51ee-87c2-8b568950c968
+status: valid

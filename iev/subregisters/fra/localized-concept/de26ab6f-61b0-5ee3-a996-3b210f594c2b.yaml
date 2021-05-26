@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: identité résultant de l'application du théorème d'Ostrogradski au champ
+    vectoriel `f_1 grad f_2`, où `f`~1~ et `f`~2~ sont deux champs scalaires donnés
+    en tout point d'un domaine tridimensionnel V délimité par une surface fermée S
+    `underset(V)( ∭ ) ( grad f_1 * g r a d f_2 + f_1 Delta f_2 ) d V = underset(S)(
+    ∯ ) f_1 g r a d f_2 * e_n d A` où d`V` est l'élément de volume, *`e`*~n~d`A` est
+    l'élément vectoriel de surface et Δ est l'opérateur laplacien
+  examples: []
+  id: 102-05-32
+  language_code: fra
+  notes:
+  - En anglais, la première formule de Green est parfois appelée «first Green theorem»
+    ou «first Green identity».
+  reviewDecisionEvent: published
+  terms:
+  - designation: première formule de Green
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: de26ab6f-61b0-5ee3-a996-3b210f594c2b
+status: valid

@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: protection, en général une protection de distance, à liaison de transmission,
+    avec une protection à portée étendue à chaque extrémité de la section, et dans
+    laquelle un signal de verrouillage est transmis en permanence à l'autre extrémité
+    de la section jusqu'à ce que la détection d'un défaut par la protection à portée
+    étendue entraîne la suppression du signal de verrouillage et l'envoi d'un signal
+    de déverrouillage à l'autre extrémité. La suppression du signal de verrouillage
+    simultanément à la réception du signal de déverrouillage autorise alors la protection
+    locale à commander le déclenchement
+  examples: []
+  id: 448-15-15
+  language_code: fra
+  notes:
+  - 'Si aucun signal de déverrouillage n''est reçu à la suite de la suppression du
+    signal de verrouillage, il est habituellement prévu d''autoriser la protection
+    à portée étendue à commander le déclenchement à l''intérieur d''un intervalle
+    de temps variable, habituellement dans la plage de 100 à 200 ms.
+
+
+    Voir figure 448-9.
+
+
+    image::/assets/images/parts/448/448-fig9-fr.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protection à portée étendue et à déverrouillage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 1a45c289-4146-5599-9d96-78f3fb6ad009
+status: valid

@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{instruction, IEV:171-05-08}} qui peut être directement exécutée par
+    un ordinateur sans interprétation'
+  examples: []
+  id: 171-05-09
+  language_code: fra
+  notes:
+  - Une instruction machine fait partie d’un {{langage machine, IEV:171-05-13}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: instruction machine
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4b6c8d04-908e-57b3-bf07-5c0897988344
+status: valid

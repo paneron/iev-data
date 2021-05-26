@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: pour chacune des stations d'une liaison radioélectrique assurée par
+    réflexion ionosphérique, point d'une couche dont la projection sur la surface
+    de la Terre est située à une distance spécifiée de cette station sur l'arc du
+    grand cercle qui la joint à l'autre station, lorsque la longueur de cet arc est
+    supérieure à deux fois la distance spécifiée; lorsque cette longueur est inférieure
+    à deux fois la distance spécifiée, les points directeurs se confondent en un seul
+    point situé à la verticale du milieu de l'arc de grand cercle
+  examples: []
+  id: 705-07-94
+  language_code: fra
+  notes:
+  - Pour les couches E et F2, la distance spécifiée est choisie en générale égale
+    à 1000 et 2000 km respectivement.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point directeur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 779c6e1b-b8f6-5684-a2e3-b78b0aefffb1
+status: valid

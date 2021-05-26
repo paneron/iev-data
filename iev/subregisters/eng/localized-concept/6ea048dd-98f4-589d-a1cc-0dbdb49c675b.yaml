@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-08-01
+  definition: a form of spread spectrum modulation in which the carrier frequency
+    is automatically changed at short intervals, selection being made in a pseudo-random
+    way from a set of frequencies covering a frequency band much wider than the bandwidth
+    required for the information to be transmitted
+  examples: []
+  id: 725-14-32
+  language_code: eng
+  notes:
+  - The rate at which the frequency is changed may be faster or slower than the bit
+    rate of the information signal.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency hopping spread spectrum modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-08-01
+id: 6ea048dd-98f4-589d-a1cc-0dbdb49c675b
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-12-01
+  definition: protection, generally distance protection, using telecommunication,
+    with overreach protection at each section end and in which a signal is transmitted
+    when a reverse external fault is detected. Receipt of the signal at the other
+    end blocks the overreach protection at that end from initiating tripping See figure
+    448-8. image::/assets/images/parts/448/448-fig8-en.gif[]
+  examples: []
+  id: 448-15-14
+  language_code: eng
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blocking overreach protection
+    normative_status: preferred
+    type: expression
+  - designation: BOP
+    normative_status: preferred
+    type: expression
+  - designation: blocking directional comparison protection
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: 8c1712e5-afce-5c0c-a6d7-be0590685599
+status: valid

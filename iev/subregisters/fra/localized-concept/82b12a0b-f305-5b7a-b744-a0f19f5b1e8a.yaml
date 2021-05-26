@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour deux matrices *`A`* et *`B`* de même format, dont les éléments
+    sont respectivement `Aij` et `Bij`, matrice *`A`* + *`B`* d'éléments (*`A`* +
+    *`B`*)~`ij`~ = `Aij` + `Bij`
+  examples: []
+  id: 102-06-06
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: somme de deux matrices
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 82b12a0b-f305-5b7a-b744-a0f19f5b1e8a
+status: valid

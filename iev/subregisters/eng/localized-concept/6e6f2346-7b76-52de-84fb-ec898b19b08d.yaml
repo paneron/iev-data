@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 444-05-04
+      link: https://webstore.iec.ch/publication/208
+      original: IEC 60050-444:2002, 444-05-04, modified – "time interval" replaced
+        by "duration".
+      ref: IEC 60050-444:2002
+      relationship:
+        modification: '"time interval" replaced by "duration".'
+        type: modified
+  dateAmended: 2020-05-01
+  definition: for a contact that is closing/opening its circuit, duration between
+    the instant when the {{contact circuit, IEV:447-04-05}} first closes/opens and
+    the instant when the circuit is finally closed/opened
+  examples: []
+  id: 447-05-07
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bounce time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 6e6f2346-7b76-52de-84fb-ec898b19b08d
+status: valid

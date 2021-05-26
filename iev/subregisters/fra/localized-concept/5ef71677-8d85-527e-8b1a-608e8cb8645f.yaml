@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'grandeurs dont les valeurs numériques définissent le régime de prise.
+    Les grandeurs de prise comprennent pour chaque enroulement et pour chaque prise:
+    a) une tension de prise, b) une puissance de prise, c) un courant de prise'
+  examples: []
+  id: 421-05-10
+  language_code: fra
+  notes:
+  - Les grandeurs de prise sont rattachées à une connexion de prise donnée du transformateur
+    et s'appliquent donc à tout enroulement, même s'il n'a pas de prises.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeurs de prise
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 1990-10-01
+id: 5ef71677-8d85-527e-8b1a-608e8cb8645f
+status: valid

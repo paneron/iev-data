@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: availability experienced under actual conditions of operation and maintenance
+  examples: []
+  id: 192-08-03
+  language_code: eng
+  notes:
+  - Operational availability is determined considering down time due to failures and
+    associated delays, but excluding external causes.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: operational availability
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: 35a13740-bbad-5bc8-833d-bf73f0875634
+status: valid

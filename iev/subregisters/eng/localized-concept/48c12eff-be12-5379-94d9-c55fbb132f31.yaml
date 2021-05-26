@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: derivative of the generalized coordinate `qi` with respect to time `t`,
+    thus `overset(˙)(q)_i = d q_i // d t`
+  examples: []
+  id: 113-03-74
+  language_code: eng
+  notes:
+  - The unit depends on the type of representation of the system. In mechanics, the
+    generalized velocity may be speed or angular velocity.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: generalized velocity
+    normative_status: preferred
+    type: expression
+  - designation: '`overset(˙)(q)_i`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 48c12eff-be12-5379-94d9-c55fbb132f31
+status: valid

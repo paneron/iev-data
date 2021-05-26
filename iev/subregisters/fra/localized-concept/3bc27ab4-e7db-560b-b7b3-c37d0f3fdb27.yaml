@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: technique permettant à un certain nombre de {{terminaux, IEV:701-02-08}}
+    de partager la capacité d'une {{liaison, IEV:701-02-06}} d'une façon prédéterminée
+    ou selon les nécessités du trafic
+  examples:
+  - '{{Accès multiple par répartition en fréquence, IEV:725-14-11}}, {{accès multiple
+    par répartition temporelle, IEV:725-14-12}} et {{accès multiple par répartition
+    en code, IEV:725-14-14}}.'
+  id: 701-03-11
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: accès multiple
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3bc27ab4-e7db-560b-b7b3-c37d0f3fdb27
+status: valid

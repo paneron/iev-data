@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1996-12-01
+  definition: ensemble des règles qui régissent l'établissement des chaînes de connexion
+    dans un réseau à commutation de circuits
+  examples: []
+  id: 715-09-03
+  language_code: fra
+  notes:
+  - 'Ces règles définissent notamment:
+
+
+    - la catégorie de chaque commutateur,
+
+
+    - les faisceaux de circuits reliant deux commutateurs, et les faisceaux de lignes
+    de rattachement,
+
+
+    - au moins un chemin possible pour chaque communication, entre les points terminaux
+    mis en jeu.'
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: plan d'acheminement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: politique d'acheminement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 8034c014-32e8-5a6f-9df8-e462cee093f0
+status: valid

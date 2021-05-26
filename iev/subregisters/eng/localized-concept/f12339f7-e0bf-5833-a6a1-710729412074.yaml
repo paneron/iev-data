@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: modification for the purposes of software fault removal, adaptation
+    to a new environment, or improvement of performance
+  examples: []
+  id: 192-06-15
+  language_code: eng
+  notes:
+  - 'Software maintenance activities carried out for these three purposes are referred
+    to as: corrective maintenance ({{192-06-06, IEV:192-06-06}}); adaptive maintenance
+    ({{192-06-16, IEV:192-06-16}}); and perfective maintenance ({{192-06-17, IEV:192-06-17}}),
+    respectively.'
+  - Following maintenance, the state of a software item is different than its previous
+    state.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: software maintenance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: f12339f7-e0bf-5833-a6a1-710729412074
+status: valid

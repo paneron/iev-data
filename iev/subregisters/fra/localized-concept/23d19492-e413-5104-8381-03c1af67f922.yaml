@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: ensemble de `m` éléments de phase connectés les uns aux autres d'une
+    manière donnée, destiné à être utilisé avec un système polyphasé de `m` grandeurs
+  examples: []
+  id: 141-02-02
+  language_code: fra
+  notes:
+  - Il peut y avoir des couplages inductifs et capacitifs entre les éléments de phase.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément polyphasé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: élément `m`-phasé
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: 23d19492-e413-5104-8381-03c1af67f922
+status: valid

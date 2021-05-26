@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: lowest temperature (of a hot surface) at which, under specified conditions,
+    an ignition of a flammable gas or vapour in mixture with air/inert gas occurs
+  examples: []
+  id: 426-02-01
+  language_code: eng
+  notes:
+  - This note applies to the French language only.
+  - 'The conditions are specified in ISO/IEC 80079-20-1, _Explosive atmospheres –
+    Part 20-1: Material characteristics for gas and vapour classification – Test methods
+    and data_.'
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: auto-ignition temperature
+    normative_status: preferred
+    type: expression
+  - designation: AIT
+    type: expression
+dateAccepted: 2020-03-01
+id: 8185035e-d33c-51c0-afe9-e879b296dd68
+status: valid

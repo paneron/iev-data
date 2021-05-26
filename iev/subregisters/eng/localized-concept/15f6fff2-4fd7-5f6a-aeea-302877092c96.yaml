@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: 'quantity representing the quantities in a finite set or in an interval,
+    . for `n` quantities `x_1 , x_2 , ... x_n`, by the positive square root of the
+    mean value of their squares: `X_q = ( (1)/(n) ( x_1^2 + x_2^2 + ... + x_n^2 )
+    )^(1 // 2)` . for a quantity `x` depending on a variable `t`, by the positive
+    square root of the mean value of the square of the quantity taken over a given
+    interval `( t_0 , t_0 + T )` of the variable: `X_q = ( (1)/(T) int_( t_0)^( t_0
+    + T) ( x ( t ) )^2 d t )^(1 // 2)`'
+  examples: []
+  id: 103-02-02
+  language_code: eng
+  notes:
+  - The root-mean-square value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.
+  - The root-mean-square value of a quantity is denoted by adding the subscript q
+    to the symbol of the quantity.
+  - The abbreviation RMS was formerly denoted as r.m.s. or rms, but these notations
+    are now deprecated.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: root-mean-square value
+    normative_status: preferred
+    type: expression
+  - designation: RMS value
+    normative_status: preferred
+    type: expression
+  - designation: quadratic mean
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 15f6fff2-4fd7-5f6a-aeea-302877092c96
+status: valid

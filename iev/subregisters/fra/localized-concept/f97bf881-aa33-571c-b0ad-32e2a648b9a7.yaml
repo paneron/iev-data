@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: méthode de synchronisation entre deux noeuds de synchronisation, telle
+    que la fréquence de l'horloge de chaque noeud est influencée par une information
+    temporelle provenant de l'horloge de l'autre noeud
+  examples: []
+  id: 704-15-18
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: synchronisation bilatérale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: commande bilatérale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: f97bf881-aa33-571c-b0ad-32e2a648b9a7
+status: valid

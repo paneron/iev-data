@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the output, d`Y`(`λ`), and the monochromatic input, d`X`~e~(`λ`)
+    = `X`~e,~`λ`(`λ`) d`λ`, in the wavelength interval, d`λ`, as a function of the
+    wavelength, `λ` `s ( lambda ) = ((d Y ( lambda )))/((d X_e ( lambda )))`
+  examples: []
+  id: 845-25-063
+  language_code: eng
+  notes:
+  - This entry was numbered 845-05-56 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral responsivity
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: '`s`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 0818a084-73ab-5846-b4d8-953bfe7ed365
+status: valid

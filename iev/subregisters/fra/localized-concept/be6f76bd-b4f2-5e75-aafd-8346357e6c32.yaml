@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{code redondant, IEV:702-05-18}} dont les règles de composition sont
+    telles qu''elles permettent la détection automatique de certaines erreurs produites
+    lors de l''enregistrement, du traitement ou de la transmission d''{{informations,
+    IEV:701-01-01}}, lorsque ces erreurs entraînent un écart par rapport à ces règles'
+  examples: []
+  id: 702-05-19
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: code détecteur d'erreurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: be6f76bd-b4f2-5e75-aafd-8346357e6c32
+status: valid

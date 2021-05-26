@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: ratio of the active frequency region to the resonance frequency `D_L
+    = ((f_L - f_r))/((f_r)) tilde= ((C_1))/((2 ( C_0 + C_L )))` where `f`~r~ is the
+    resonance frequency; `f`~L~ is the load resonance frequency; `C`~1~ is the motional
+    capacitance; `C`~0~ is the shunt capacitance; `C`~L~ is the load capacitance
+  examples: []
+  id: 561-01-27
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fractional load resonance frequency offset
+    normative_status: preferred
+    type: expression
+  - designation: '`D`~L~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: cf0110cf-d1f3-59f9-903d-279efa87491e
+status: valid

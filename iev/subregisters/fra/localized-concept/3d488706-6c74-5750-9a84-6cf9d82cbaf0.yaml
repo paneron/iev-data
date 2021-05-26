@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.8
+      original: IEC TS 80004-9:2017, 3.1.8
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: contact électrique connectant deux ou plus de deux objets dont l'interface
+    a une ou deux dimensions à l'{{échelle nanométrique, IEV:511-01-03}}
+  examples: []
+  id: 511-01-19
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: contact électrique nanométrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: contact nanométrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3d488706-6c74-5750-9a84-6cf9d82cbaf0
+status: valid

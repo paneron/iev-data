@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intégrale par rapport au temps de la luminance, `L`~v~, pendant une
+    durée donnée, Δ`t` `L_((v , t)) = underset((Delta t))( int ) L_v d t`
+  examples: []
+  id: 845-21-068
+  language_code: fra
+  notes:
+  - La grandeur radiométrique correspondante est la "dose de luminance énergétique".
+    La grandeur correspondante pour les photons est la "dose de luminance photonique".
+  - La dose de luminance est exprimée en candela seconde par mètre carré (cd·s·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose de luminance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 07569a2a-7f7c-5b91-9b83-0f819f8fc9a6
+status: valid

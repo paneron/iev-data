@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: vector Δ*`U`* associated at each point of a given space region with
+    a vector *`U`*, equal to the gradient of the divergence of the vector field minus
+    the rotation of the rotation of this vector field Δ*`U`* = *grad* div *`U`* −
+    *rot rot `U`*
+  examples: []
+  id: 102-05-29
+  language_code: eng
+  notes:
+  - 'In orthonormal Cartesian coordinates, the three components of the Laplacian of
+    a vector field are:
+
+
+    `((del^2 U_x))/((del x^2)) + ((del^2 U_x))/((del y^2)) + ((del^2 U_x))/((del z^2))
+    , ((del^2 U_y))/((del x^2)) + ((del^2 U_y))/((del y^2)) + ((del^2 U_y))/((del
+    z^2)) , ((del^2 U_z))/((del x^2)) + ((del^2 U_z))/((del y^2)) + ((del^2 U_z))/((del
+    z^2))`.'
+  - The Laplacian of the vector field *`U`* is denoted by Δ*`U`* or ∇^2^*`U`*, where
+    Δ is the Laplacian operator.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Laplacian
+    normative_status: preferred
+    type: expression
+    usage_info: of a vector field
+dateAccepted: 2008-08-01
+id: f33495c9-f328-50b4-a02b-78132563901a
+status: valid

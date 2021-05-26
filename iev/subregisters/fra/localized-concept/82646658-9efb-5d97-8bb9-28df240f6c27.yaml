@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: processus selon lequel un {{signal, IEV:701-01-02}} est échantillonné,
+    la différence entre chaque {{échantillon, IEV:702-04-06}} et sa valeur prédite
+    à partir de la suite des échantillons précédents ou des valeurs quantifiées précédentes
+    est {{quantifiée, IEV:351-41-13}}, et la suite des valeurs quantifiées ainsi obtenue
+    est convertie par {{codage, IEV:702-05-13}} en un {{signal numérique, IEV:702-04-05}}
+  examples: []
+  id: 702-06-60
+  language_code: fra
+  notes:
+  - La modulation par impulsions et codage différentiel est un exemple de {{codage
+    différentiel, IEV:723-10-47}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation par impulsions et codage différentiel
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MICD
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MIC différentiel
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 82646658-9efb-5d97-8bb9-28df240f6c27
+status: valid

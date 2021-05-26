@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: subdivision d'un {{Mode de Protection, IEV:426-01-02}}, en corrélation
+    avec le {{Niveau de Protection du Matériel, IEV:426-01-15}}, qui distingue la
+    possibilité pour l'équipement de devenir une source d'inflammation
+  examples: []
+  id: 426-01-24
+  language_code: fra
+  notes:
+  - Par exemple, le Mode de Protection par sécurité intrinsèque "i" est subdivisé
+    en Niveaux de Protection "ia", "ib", et "ic", en corrélation avec EPL Ga, EPL
+    Gb, et EPL Gc (pour les atmosphères gazeuses explosives).
+  reviewDecisionEvent: published
+  terms:
+  - designation: Niveau de Protection
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d3a27276-4a90-58ee-a0d5-4e5a1ebd8b66
+status: valid

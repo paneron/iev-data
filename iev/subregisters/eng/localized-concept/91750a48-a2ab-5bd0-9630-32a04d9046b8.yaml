@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/6791
+      original: IEC 62303:2008, 3.1, modified
+      ref: IEC 62303:2008
+      relationship:
+        type: modified
+    - clause: '3.2'
+      link: https://webstore.iec.ch/publication/6790
+      original: IEC 62302:2007, 3.2
+      ref: IEC 62302:2007
+      relationship:
+        type: identical
+    - original: IAEA 4
+      ref: IAEA 4
+      relationship:
+        type: identical
+  dateAmended: 2014-03-01
+  definition: conditions deviating from normal operations, more severe than anticipated
+    operational occurrences, including design basis accidents and severe accidents
+  examples: []
+  id: 395-07-134
+  language_code: eng
+  notes:
+  - This entry was numbered 393-18-10 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: accident conditions
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2014-03-01
+id: 91750a48-a2ab-5bd0-9630-32a04d9046b8
+status: valid

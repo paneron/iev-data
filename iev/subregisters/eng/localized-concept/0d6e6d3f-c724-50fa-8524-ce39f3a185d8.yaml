@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: diagonal term of the permeance matrix
+  examples: []
+  id: 131-12-38
+  language_code: eng
+  notes:
+  - For an ideal reluctant element, the self-permeance is equal to the permeance as
+    defined in 131-12-29.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: self-permeance
+    normative_status: preferred
+    type: expression
+  - designation: '`Λ`~`ii`~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 0d6e6d3f-c724-50fa-8524-ce39f3a185d8
+status: valid

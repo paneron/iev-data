@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'scalar line integral of a magnetic vector potential *`A`* along a curve
+    C: `Psi = underset(C)( int ) A * d r` where d*`r`* is the vector line element'
+  examples: []
+  id: 121-11-24
+  language_code: eng
+  notes:
+  - 'For a closed curve C, the linked flux is equal to the magnetic flux through any
+    surface S bounded by the curve:
+
+
+    `underset(C)( oint ) A * d r = underset(S)( int ) B * e_n d A`
+
+
+    where *`B`* is the magnetic flux density and *`e`*~n~d`A` the vector surface element.'
+  - For a coil with N turns, the linked flux is approximately equal to `NΦ` where
+    `Φ` is the magnetic flux through any surface bounded by one turn.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linked flux
+    normative_status: preferred
+    type: expression
+  - designation: '`Ψ`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: a88223c2-a4d5-503e-90d6-c292f145e8c2
+status: valid

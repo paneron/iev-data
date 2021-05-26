@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: quotient of the relative change of saturation magnetization due to a
+    change in temperature by that change in temperature `alpha_((M s)) = ((M_((s Theta))
+    - M_((sref))))/((M_((sref)) ( Theta - Theta_((ref)) )))` where `M`~s`Θ`~ and `M`~sref~
+    are the saturation magnetizations at temperatures of `Θ` and `Θ`~ref~ respectively
+  examples: []
+  id: 221-02-63
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature coefficient of saturation magnetization
+    normative_status: preferred
+    type: expression
+  - designation: '`α`~`M`s~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: e2f9a755-b600-50ef-a82c-4b65972bd3ac
+status: valid

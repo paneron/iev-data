@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{transmission, IEV:701-01-03}} d''un {{signal, IEV:101-12-02}} qui
+    résulte de la {{modulation, IEV:701-03-08}} d''une ou de plusieurs {{porteuses,
+    IEV:702-06-03}} par un ou plusieurs signaux'
+  examples: []
+  id: 704-08-10
+  language_code: fra
+  notes:
+  - 'Le terme "transmission par courant porteur" est généralement qualifié par la
+    méthode de modulation, par exemple: "transmission par courant porteur {{à bande
+    latérale unique, IEV:702-06-26}}".'
+  - Un système de transmission employant la transmission par courant porteur est appelé
+    "système à courant porteur".
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission par courant porteur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 57e8013a-5565-53f5-a29c-dab8e70d59e2
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: signal d'entrée qui peut être appliqué pendant une temporisation pour
+    annuler le délai et replacer le relais dans l'état de repos
+  examples: []
+  id: 445-02-06
+  language_code: fra
+  notes:
+  - Le signal de réarmement est conçu pour l’ouverture ou la fermeture d’un circuit
+    électrique.
+  - 2 Le signal de réarmement est une entrée distincte du signal de commande.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal de réarmement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-10-01
+id: 39efae77-1ba9-5c68-b6e8-8ddccda72046
+status: valid

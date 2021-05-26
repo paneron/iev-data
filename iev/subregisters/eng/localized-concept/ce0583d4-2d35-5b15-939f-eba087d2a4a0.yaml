@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: difference between maximum thickness (`A`) and the minimum thickness
+    (`B`)
+  examples: []
+  id: 561-07-37
+  language_code: eng
+  notes:
+  - 'Measurement of total thickness variation is performed under clamped conditions
+    with the reference plane as defined in {{561-07-27, IEV:561-07-27}}, Note 1 to
+    entry, item 1.
+
+
+    image::/assets/images/parts/561/561-fig26-en.png[]
+
+
+    *Figure 26 – Schematic diagram of total thickness variation*'
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total thickness variation
+    normative_status: preferred
+    type: expression
+  - designation: TTV
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: ce0583d4-2d35-5b15-939f-eba087d2a4a0
+status: valid

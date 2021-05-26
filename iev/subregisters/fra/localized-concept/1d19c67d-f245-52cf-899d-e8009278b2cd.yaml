@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: espace délimité extérieur à la {{zone de travail sous tension, IEV:651-21-03}}
+    où des précautions spécifiques sont prises pour empêcher de pénétrer dans la zone
+    de travail sous tension
+  examples: []
+  id: 651-21-04
+  language_code: fra
+  notes:
+  - Pénétrer dans la zone de travail sous tension, c’est se mettre en présence d’un
+    {{phénomène électrique dangereux, IEV:651-26-05}}.
+  - Les limites extérieures de la zone de voisinage et les précautions spécifiques
+    à appliquer sont généralement définies dans la réglementation nationale ou dans
+    la réglementation de l'entreprise.
+  - 'Cet article était numéroté 651-01-07 dans la CEI 60050-651:1999. Il a été modifié
+    comme suit: De plus amples détails sont fournis en ce qui a trait aux précautions
+    à prendre dans la zone de voisinage.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de voisinage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1d19c67d-f245-52cf-899d-e8009278b2cd
+status: valid

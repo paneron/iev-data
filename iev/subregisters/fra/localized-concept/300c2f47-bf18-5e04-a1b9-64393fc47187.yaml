@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - link: https://www.iso.org/standard/2306.html
+      original: ISO 140/6
+      ref: ISO 140-6
+      relationship:
+        type: identical
+  dateAmended: 1994-07-01
+  definition: pour une bande de fréquences spécifiées, niveau, exprimé en décibels,
+    de la pression acoustique quadratique moyenne produite par la machine à chocs
+    normalisée dans un local de réception, augmenté de dix fois le logarithme décimal
+    du rapport de l'absorption de Sabine dans la salle de réception à l'absorption
+    de référence de dix décibels mètre carré
+  examples: []
+  id: 801-31-42
+  language_code: fra
+  notes: []
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau du bruit de choc normalisé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 300c2f47-bf18-5e04-a1b9-64393fc47187
+status: valid

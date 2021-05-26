@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-04-01
+  definition: '{{polarization, IEV:705-01-13}} of an elliptically polarized wave or
+    circularly polarized wave for which the {{electric field strength, IEV:121-11-18}}
+    vector at a given point in space rotates in the same plane and in an opposite
+    sense to that of a reference elliptically polarized wave of the same {{direction
+    of propagation, IEV:103-10-05}}, the axial ratios of both {{polarization ellipses,
+    IEV:705-01-21}} being the same and their major axes at right angles'
+  examples: []
+  id: 705-01-23
+  language_code: eng
+  notes:
+  - In English, the term “cross polarization” has another connotation (see {{IEV 705-08-52,
+    IEV:705-08-52}}).
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: orthogonal polarization
+    normative_status: preferred
+    type: expression
+    usage_info: of an elliptically or circularly polarized wave
+  - designation: cross-polarization
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-04-01
+id: 4d95a956-3538-5529-89a8-dc1b3a41e4df
+status: valid

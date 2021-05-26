@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: rapport du rayon terrestre équivalent au rayon réel de la Terre
+  examples: []
+  id: 705-05-41
+  language_code: fra
+  notes:
+  - 'Le facteur multiplicatif `k` du rayon terrestre est lié au gradient vertical
+    d`n`/d`h` de l''indice de réfraction et au rayon réel `a` de la Terre par la relation:
+
+
+    `k = (1)/((1 + a ((d n))/((d h))))`'
+  - Pour une atmosphère ayant un gradient normal du coïndice, la valeur de `k` est
+    prise égale à 4/3, ce qui correspond à un rayon terrestre équivalent voisin de
+    8 500 km.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur multiplicatif du rayon terrestre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: af77cd11-7ffe-5221-a229-49d006563dea
+status: valid

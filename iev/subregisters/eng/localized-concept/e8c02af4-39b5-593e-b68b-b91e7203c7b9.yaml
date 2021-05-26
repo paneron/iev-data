@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: theorem that provides a criterion for the stability of the superconducting
+    magnet to account for the temperature dependence of the heat-transfer coefficient
+    and the thermal conductions along the wire and between adjacent turns in a coil
+  examples: []
+  id: 815-15-29
+  language_code: eng
+  notes:
+  - This theorem is the basis for the Maddock's stability criterion, and states that
+    a normal region formed by a disturbance will recover provided the area below the
+    temperature-dependent cooling curve is greater than the area below the heat-generation
+    curve.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equal area theorem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: e8c02af4-39b5-593e-b68b-b91e7203c7b9
+status: valid

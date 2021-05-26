@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: value absolue du rapport de la partie imaginaire à la partie réelle
+    de la permittivité relative complexe, tan `δ` = `ε`~r~" / `ε`~r~'
+  examples: []
+  id: 212-11-29
+  language_code: fra
+  notes:
+  - Le facteur de dissipation diélectrique est égal à la tangente de l’angle de pertes
+    diélectriques.
+  - En anglais, l’abréviation DDF est parfois utilisée pour caractériser les pertes
+    diélectriques des matériaux isolants
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de dissipation diélectrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tan `δ`
+    normative_status: preferred
+    type: expression
+  - designation: tangente des pertes
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 5cea518b-0ce1-56eb-96a6-a66772aea5c4
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: product of the modulus of the common emitter small-signal short-circuit
+    forward current transfer ratio |`h`~21`e`~| and the frequency of the measurement,
+    this frequency being so chosen that |`h`~21`e`~| is decreasing at a slope of approximately
+    6 dB per octave
+  examples: []
+  id: 521-07-21
+  language_code: eng
+  notes: []
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transition frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2002-05-01
+id: 38f645db-2b4d-5c64-98aa-3c8b6f5dbf75
+status: valid

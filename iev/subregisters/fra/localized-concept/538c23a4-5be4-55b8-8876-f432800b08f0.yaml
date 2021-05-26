@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1999-04-01
+  definition: vitesse vectorielle du vent rencontrée en un point déterminé du rotor
+    de l'éolienne en rotation
+  examples: []
+  id: 415-03-03
+  language_code: fra
+  notes:
+  - Le spectre de turbulence de la vitesse de vent échantillonnée en rotation est
+    nettement différent du spectre normal de turbulence. Les pales en tournant traversent
+    le flux du vent, qui varie dans l'espace. En conséquence le spectre de turbulence
+    résultant présente une variabilité importante à la fréquence de rotation et à
+    ses harmoniques.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse vectorielle du vent échantillonnée en rotation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1999-04-01
+id: 538c23a4-5be4-55b8-8876-f432800b08f0
+status: valid

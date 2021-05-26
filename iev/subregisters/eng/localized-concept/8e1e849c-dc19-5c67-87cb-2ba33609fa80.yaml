@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '9.5'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 9.5
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: removal of printing, linguistic and other similar errors from the published
+    text of a {{normative document, IEV:901-02-01}}
+  examples: []
+  id: 901-04-06
+  language_code: eng
+  notes:
+  - The results of correction may be presented, as appropriate, by issuing a separate
+    correction sheet or a {{new edition, IEV:901-04-10}} of the normative document.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: correction
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 8e1e849c-dc19-5c67-87cb-2ba33609fa80
+status: valid

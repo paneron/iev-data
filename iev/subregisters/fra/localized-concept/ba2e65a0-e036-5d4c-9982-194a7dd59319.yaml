@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: synchronisation d'horloges dans un noeud de synchronisation, effectuée
+    uniquement à l'aide des signaux de synchronisation locaux relatifs à un noeud
+    éloigné déterminé
+  examples: []
+  id: 704-15-15
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: synchronisation locale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: synchronisation unilatérale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: ba2e65a0-e036-5d4c-9982-194a7dd59319
+status: valid

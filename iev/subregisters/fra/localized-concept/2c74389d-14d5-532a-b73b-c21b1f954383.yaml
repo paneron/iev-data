@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée requise pour le passage de l'{{état froid, IEV:485-21-01}} à une
+    {{puissance électrique nette, IEV:485-14-03}} de sortie
+  examples: []
+  id: 485-20-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de démarrage
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour les systèmes à pile à combustible qui 'exigent pas d'énergie
+      extérieure pour le maintien d'un état de stockage
+dateAccepted: 2018-11-17
+id: 2c74389d-14d5-532a-b73b-c21b1f954383
+status: valid

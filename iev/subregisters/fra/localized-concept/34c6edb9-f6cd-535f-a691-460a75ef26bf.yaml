@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'grandeur, déterminée pour un mode de propagation, à une fréquence donnée
+    dans un type spécifié de ligne de transmission uniforme ou de guide d''ondes uniforme
+    par l''une des trois relations suivantes: <u>`Z`</u>~1~ = <u>`S`</u>/ |<u>`I`</u>|^2^
+    <u>`Z`</u>~2~ = |<u>`U`</u>|^2^ / <u>`S`</u> <u>`Z`</u>~3~ = <u>`U`</u> / <u>`I`</u>
+    où <u>`Z`</u> est l''impédance caractéristique complexe, <u>`S`</u> la puissance
+    complexe et <u>`U`</u> et <u>`I`</u> sont les valeurs, habituellement complexes,
+    respectivement d''une tension et d''un courant, déterminés conventionnellement,
+    pour chaque type de mode, par analogie avec les équations des lignes Exemples:
+    1. — Pour une ligne de transmission à fils parallèles, <u>`U`</u> et <u>`I`</u>
+    peuvent être définis d''une façon unique et les trois équations sont équivalentes;
+    si la ligne est sans pertes, l''impédance caractéristique est réelle. 2. — Pour
+    les guides d''ondes, les conventions à adopter pour `U` et `I` dépendent essentiellement
+    du type de mode et conduisent généralement à trois valeurs différentes de l''impédance
+    caractéristique. 3. — Pour un guide circulaire en mode fondamental `ТЕ`~11~, `U`
+    est la tension efficace entre les extrémités du diamètre où le vecteur champ électrique
+    atteint son module maximal, `I` est le courant efficace longitudinal. 4. — Pour
+    un guide rectangulaire en mode fondamental `ТЕ`~10~ `U` est la tension efficace
+    entre les points au milieu des parois normales au vecteur champ électrique, `I`
+    est le courant efficace longitudinal dans une paroi, normal au vecteur induction
+    électrique.'
+  examples: []
+  id: 726-07-01
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance caractéristique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 34c6edb9-f6cd-535f-a691-460a75ef26bf
+status: valid

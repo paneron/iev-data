@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: niveau d'éclairement lumineux dû à l'éclairage dans l'environnement
+    de vision, à l'exclusion de celui de l'affichage, mesuré dans le plan de l'affichage
+  examples: []
+  id: 845-32-035
+  language_code: fra
+  notes:
+  - L'environnement de vision naturel dans la capture et la reproduction d'une image
+    est fortement complexe. La lumière peut être générée par l'image, par le dispositif
+    d'affichage, par la zone qui entoure immédiatement ce dispositif et par l'espace
+    d'affichage de l'image. Le niveau d'éclairement lumineux ambiant décrit la lumière
+    qui atteint l'observateur ne provenant pas de l'image, avec l'environnement ou
+    avec le fond.
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau d'éclairement ambiant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un écran d'affichage
+dateAccepted: 2018-11-17
+id: d5c45467-4d76-520f-9861-ea8c0755191b
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{fuel cell stack, IEV:485-06-01}} with a number of cells that is significantly
+    smaller than the designed fuel cell stack with {{rated power, IEV:485-14-04}},
+    but is sufficiently great to represent the scaled characteristics of the full
+    fuel cell stack'
+  examples: []
+  id: 485-06-02
+  language_code: eng
+  notes:
+  - See also "{{substack, IEV:485-06-03}}".
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: short stack
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: a2572664-9e08-5b4d-88b2-7849477f7c7b
+status: valid

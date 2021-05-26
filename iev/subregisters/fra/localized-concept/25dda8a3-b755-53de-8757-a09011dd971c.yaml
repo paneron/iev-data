@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'système de commutation comportant une chaîne d''action fermée, contenant
+    au moins un élément de mémoire binaire, de sorte qu''en commençant par une commande
+    de démarrage, une variable réglante constante influe sur le système commandé pour
+    réduire la valeur absolue de la différence (`w`−`x`) jusqu''à ce que la valeur
+    de la variable commandée `x` atteigne la valeur de la variable de référence `w`
+    pour la première fois VOIR: Figure 12.'
+  examples: []
+  id: 351-47-62
+  language_code: fra
+  notes:
+  - Un circuit de réarmement a une action ouverte, bien que la structure ait une chaîne
+    d'action fermée (voir Figure 12).
+  - 'Cet article était numéroté 351-26-56 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 12 – Reset circuit with open action*
+
+
+    *Figure 12 – Circuit de réarmement avec action ouvert*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit de réarmement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 25dda8a3-b755-53de-8757-a09011dd971c
+status: valid

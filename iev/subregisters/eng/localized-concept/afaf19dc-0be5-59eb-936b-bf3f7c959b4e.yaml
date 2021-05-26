@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: repetitive set of consecutive {{time-slots, IEV:704-13-08}} constituting
+    a complete cycle of a {{signal, IEV:101-12-02}} or another process in which the
+    relative position of each time-slot in the cycle can be identified
+  examples: []
+  id: 704-14-01
+  language_code: eng
+  notes:
+  - In English, the term "frame" has different meanings in the fields of time division
+    multiplexing (see {{IEV 704-14-01, IEV:704-14-01}}), switching (see {{IEV 714-15-09,
+    IEV:714-15-09}}), television (see {{IEV 723-05-25, IEV:723-05-25}}), time division
+    multiple access (see {{IEV 725-14-18, IEV:725-14-18}}), digital processing (see
+    {{IEV 807-01-03, IEV:807-01-03}}), rotating electric machines (see {{IEV 811-14-02,
+    IEV:811-14-02}}) and train communication networks (see {{IEV 811-37-40, IEV:811-37-40}}).
+    In some English-speaking countries, the term “frame” is also used in television
+    to mean a subdivision of a {{field, IEV:723-05-17}}.
+  - In French, the term "trame" has different meanings in the fields of beam focusing
+    and deflection in electronic tubes (see {{IEV 531-14-20, IEV:531-14-20}}), time
+    division multiplexing (see {{IEV 704-14-01, IEV:704-14-01}}), switching (see {{IEV
+    714-15-09, IEV:714-15-09}}), television (see {{IEV 723-05-17, IEV:723-05-17}}),
+    time division multiple access (see {{IEV 725-14-18, IEV:725-14-18}}), digital
+    processing (see {{IEV 807-01-03, IEV:807-01-03}}), and train communication networks
+    (see {{IEV 811-37-40, IEV:811-37-40}}).
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frame
+    normative_status: preferred
+    type: expression
+    usage_info: in time division multiplexing
+dateAccepted: 2019-10-01
+id: afaf19dc-0be5-59eb-936b-bf3f7c959b4e
+status: valid

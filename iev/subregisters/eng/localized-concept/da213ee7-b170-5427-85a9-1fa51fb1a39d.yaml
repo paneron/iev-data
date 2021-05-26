@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: an access channel intended to carry user information in standardized
+    digital signals at a specified digit rate higher than 64 kbit/s
+  examples: []
+  id: 716-04-03
+  language_code: eng
+  notes:
+  - 'An H-channel is usually characterized by one or two indices:
+
+
+    - the first one refers to the channel digit rate; for example, an H~0~-channel
+    has a digit rate of 384 kbit/s;
+
+
+    - the second, if any, refers to the digital hierarchy; for example, an H~11~-channel
+    has a digit rate of 1536 kbit/s, and an H~12~-channel has a digit rate of 1920
+    kbit/s.'
+  - A given H-channel may be subdivided into H-channels of lower digit rates, B channels
+    and/or D-channels.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: H-channel
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: da213ee7-b170-5427-85a9-1fa51fb1a39d
+status: valid

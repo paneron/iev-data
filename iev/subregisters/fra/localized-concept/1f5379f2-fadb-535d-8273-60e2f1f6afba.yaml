@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: instabilité perceptible de la {{base de temps, IEV:702-04-08}} du signal
+    d'image restitué
+  examples: []
+  id: 806-17-23
+  language_code: fra
+  notes:
+  - En anglais, le terme "jitter" a des sens différents pour des signaux (voir {{IEV
+    702-07-74, IEV:702-07-74}} et {{IEV 704-16-13, IEV:704-16-13}}) et en télévision
+    (voir {{IEV 723-06-09, IEV:723-06-09}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: scintillement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: instabilité de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1f5379f2-fadb-535d-8273-60e2f1f6afba
+status: valid

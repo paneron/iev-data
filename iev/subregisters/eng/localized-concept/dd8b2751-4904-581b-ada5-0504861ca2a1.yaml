@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      original: IEC/TS 63053:2017, 3.5
+      ref: IEC/TS 63053:2017
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: value of a residual direct prospective current, which a DC residual
+    current device without integral short-circuit protection, but protected by a short-circuit
+    protective device in series, can withstand under specified conditions of use and
+    behaviour
+  examples: []
+  id: 442-05-76
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conditional residual direct short-circuit current
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: dd8b2751-4904-581b-ada5-0504861ca2a1
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie d'un {{relais de mesure, IEV:447-01-02}} ou d'un {{équipement
+    de protection, IEV:447-01-49}} dans lequel est produit un {{signal de sortie,
+    IEV:447-04-03}} prédéfini
+  examples:
+  - Circuit analogique, {{circuit de contact, IEV:447-04-05}}, circuit électronique
+    à état passant ou bloqué, circuit numérique, port de communication.
+  id: 447-04-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit de sortie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un relais de mesure ou d'un équipement de protection
+dateAccepted: 2018-11-17
+id: 2055411b-24a8-5344-af9f-1d5172946d0a
+status: valid

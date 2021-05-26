@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '98'
+      original: ITU RR 98 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: radionavigation system using the VHF and UHF frequency bands, which
+    provides aircraft with both horizontal and vertical guidance just before and during
+    landing and, at certain fixed points, indicates the distance to the reference
+    point of landing
+  examples: []
+  id: 713-04-09
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instrument landing system
+    normative_status: preferred
+    type: expression
+  - designation: ILS
+    type: expression
+dateAccepted: 1998-04-01
+id: d7ff4c79-209e-5fea-b2c2-0fd2dff39d44
+status: valid

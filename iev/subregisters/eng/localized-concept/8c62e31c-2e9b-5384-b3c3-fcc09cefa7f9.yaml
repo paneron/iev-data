@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a digital section or a number of tandem-connected digital sections operating
+    at the same digit rate between two digital distribution frames, or equivalent
+    points, at which switches or terminal equipments are connected
+  examples: []
+  id: 704-19-03
+  language_code: eng
+  notes:
+  - Terminal equipments are those at which signals at the specified digit rate originate
+    or terminate.
+  - A digital link may be qualified to indicate its digit rate or multiplex order.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digital link
+    normative_status: preferred
+    type: expression
+  - designation: digital path
+    type: expression
+dateAccepted: 1993-08-01
+id: 8c62e31c-2e9b-5384-b3c3-fcc09cefa7f9
+status: valid

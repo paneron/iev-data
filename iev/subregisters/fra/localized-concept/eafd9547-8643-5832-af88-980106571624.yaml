@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: énergie en joules pouvant être apportée à l'anode en 20 secondes, dans
+    les conditions définies par le constructeur (par exemple foyer, vitesse de rotation
+    de l'anode, etc.)
+  examples: []
+  id: 881-07-11
+  language_code: fra
+  notes:
+  - La capacité d'accumulation thermique de l'anode d'un tube est la valeur obtenue
+    pour le foyer le plus grand, la vitesse de rotation de l'anode la plus élevée
+    et un facteur `f` = 1.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité d'accumulation thermique de l'anode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: eafd9547-8643-5832-af88-980106571624
+status: valid

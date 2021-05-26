@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-08-01
+  definition: any of the `n` scalar quantities `Q_1 , Q_2 , ... , Q_n` in the representation
+    of a vector quantity *`Q`* as the linear combination `Q_1 a_1 + Q_2 a_2 + ...
+    + Q_n a_n` of the base vectors `a_1 , a_2 , ... , a_n`
+  examples: []
+  id: 102-03-22
+  language_code: eng
+  notes:
+  - "Instead of treating each component of a vector quantity as a quantity (i.e. the\
+    \ product of a numerical value and a unit of measurement), the vector quantity\
+    \ *`Q`* may be represented as a vector of numerical values multiplied by the unit:\n\
+    \n`Q = { Q_1 } Q e_1 + { Q_2 } Q e_2 + { Q_3 } Q e_3 = ( { Q_1 } e_1 + { Q_2 }\
+    \ e_2 + { Q_3 } e_3 ) Q` \nwhere `{ Q_1 } , { Q_2 } , { Q_3 }` are numerical values,\
+    \ `Q` is the unit, and `e_1 , e_2 , e_3` are the unit vectors. Similar considerations\
+    \ apply to tensor quantities."
+  - The components of a vector quantity are transformed by a coordinate transformation
+    like the coordinates of a position vector.
+  - The term "coordinate" is generally used when the vector quantity is a position
+    vector. This usage is consistent with the definition of the coordinates of a vector
+    in mathematics ({{IEV 102-03-09, IEV:102-03-09}}).
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: component
+    normative_status: preferred
+    type: expression
+    usage_info: of a vector quantity
+  - designation: coordinate
+    normative_status: preferred
+    type: expression
+    usage_info: of a vector quantity
+dateAccepted: 2008-08-01
+id: 97f55814-acad-5e2c-bfb4-3571e8628e0e
+status: valid

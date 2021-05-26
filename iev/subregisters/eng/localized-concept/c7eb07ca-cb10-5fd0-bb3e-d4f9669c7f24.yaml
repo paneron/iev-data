@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 195-05-15
+      original: 195-05-15
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: electric current in an unwanted conductive path under normal operating
+    conditions
+  examples: []
+  id: 826-11-20
+  language_code: eng
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: leakage current
+    normative_status: preferred
+    type: expression
+  - designation: earth current
+    type: expression
+dateAccepted: 2004-08-01
+id: c7eb07ca-cb10-5fd0-bb3e-d4f9669c7f24
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur efficace la plus élevée du courant prélevé par un moteur à courant
+    alternatif au repos ou par un électro-aimant à courant alternatif dont l'armature
+    est bloquée dans la position donnant l'entrefer maximal, lorsqu'il est alimenté
+    à sa tension assignée et à sa fréquence assignée
+  examples: []
+  id: 426-08-04
+  language_code: fra
+  notes:
+  - Les phénomènes transitoires ne sont pas pris en compte.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant initial de démarrage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1a89f6ac-faf3-5249-bf89-4a50e17ab6e9
+status: valid

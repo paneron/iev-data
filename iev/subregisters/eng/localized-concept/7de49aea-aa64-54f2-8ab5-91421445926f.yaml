@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: circuit-theory theorem stating that, along any closed path in an electric
+    network, the algebraic sum of the voltages at the terminals of the passive circuit
+    elements and the source voltages is zero
+  examples: []
+  id: 131-15-10
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Kirchhoff law for meshes
+    normative_status: preferred
+    type: expression
+  - designation: Kirchhoff voltage law
+    normative_status: preferred
+    type: expression
+  - designation: Kirchhoff tension law
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 7de49aea-aa64-54f2-8ab5-91421445926f
+status: valid

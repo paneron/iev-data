@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{signal, IEV:701-01-02}} composite résultant du {{multiplexage, IEV:701-03-09}}
+    de plusieurs signaux'
+  examples: []
+  id: 704-08-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal multiplex
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: signal multiplexé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f5ef5b04-fcf3-5dc5-8428-9b9c134d0697
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-11-01
+  definition: all conductors which form the intended path for the traction return
+    current and the current under fault conditions
+  examples: []
+  id: 811-35-01
+  language_code: eng
+  notes:
+  - The conductors can be for example:* running rails;* return conductor rails;* return
+    conductors;* return cables.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: return circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 994d59b9-b619-5712-98a8-de03999a7e97
+status: valid

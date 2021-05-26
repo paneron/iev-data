@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{puissance électrique nette, IEV:485-14-03}} la plus basse, à laquelle
+    le {{système à pile à combustible, IEV:485-09-01}} est capable de fonctionner
+    de façon continue et stable'
+  examples: []
+  id: 485-14-02
+  language_code: fra
+  notes:
+  - La puissance minimale est exprimée en W.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance minimale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: piles à combustible
+dateAccepted: 2018-11-17
+id: 2b88e085-92b8-5821-a823-f4c3e09c1480
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 131-15-34
+      original: 131-15-34
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2002-06-01
+  definition: logarithm of the reflection loss factor
+  examples: []
+  id: 131-15-35
+  language_code: eng
+  notes:
+  - The reflection loss is generally expressed in decibels.
+  - When the reflection loss is negative, the term "reflection gain" is used for the
+    opposite value.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reflection loss
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 1b2f9ebf-f772-534f-9bea-b7060d471997
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.11
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.11, modifié
+      ref: IEC 62280:2014
+      relationship:
+        type: modified
+  definition: code cyclique utilisé pour protéger les messages de l'influence de la
+    corruption des données
+  examples: []
+  id: 821-11-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrôle de redondance cyclique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour communication dans les systèmes de transmission
+  - designation: CRC
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: pour communication dans les systèmes de transmission
+dateAccepted: 2018-11-17
+id: 7be98d70-bd54-5bcd-8d78-7afbdcf24171
+status: valid

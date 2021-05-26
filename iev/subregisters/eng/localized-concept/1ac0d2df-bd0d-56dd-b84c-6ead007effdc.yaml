@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: reciprocal of the least perceptible luminance contrast, usually expressed
+    as `L`/Δ`L`~th~, where `L` is the average luminance and Δ`L`~th~ is the luminance
+    difference threshold
+  examples: []
+  id: 845-22-090
+  language_code: eng
+  notes:
+  - The value of `S`~c~ depends on a number of factors including the luminance, the
+    viewing conditions and the state of adaptation.
+  - The contrast sensitivity has unit one.
+  - This entry was numbered 845-02-48 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrast sensitivity
+    normative_status: preferred
+    type: expression
+  - designation: '`S`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1ac0d2df-bd0d-56dd-b84c-6ead007effdc
+status: valid

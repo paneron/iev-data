@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: inspection qui comporte les aspects couverts par une inspection visuelle
+    et, de plus, détecte les défectuosités telles que des boulons desserrés, qui ne
+    peuvent être mises en évidence que par l'utilisation d'un matériel d'accès, par
+    exemple des échelles (quand cela est nécessaire) et des outils
+  examples: []
+  id: 426-14-04
+  language_code: fra
+  notes:
+  - L'inspection de près n'exige, normalement, pas que l'enveloppe soit ouverte, ni
+    que le matériel soit mis hors tension.
+  reviewDecisionEvent: published
+  terms:
+  - designation: inspection de près
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4a2dd410-cc32-52c1-ae0a-d67ada9d94a1
+status: valid

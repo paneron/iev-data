@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: numerical value of the Celsius temperature expressed in degrees Celsius,
+    up to which a material possesses known, satisfactory service performance in a
+    specified application
+  examples: []
+  id: 212-12-15
+  language_code: eng
+  notes:
+  - A material with known ATE may be used as control material in comparative tests
+    of materials without established ATE.
+  - The value of the ATE may vary between different applications for the same material.
+  - The ATE is sometimes referred to as absolute thermal endurance index.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: assessed thermal endurance index
+    normative_status: preferred
+    type: expression
+  - designation: ATE
+    type: expression
+dateAccepted: 2010-06-01
+id: 0b4ebd4c-865a-5fe4-9370-f04d00af3b49
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: expectation of the operating time to first failure
+  examples: []
+  id: 192-05-12
+  language_code: eng
+  notes:
+  - See also operating time to first failure ({{192-05-02, IEV:192-05-02}}).
+  - For non-repairable items, the MTTFF is also the MTTF.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean operating time to first failure
+    normative_status: preferred
+    type: expression
+  - designation: MTTFF
+    type: expression
+dateAccepted: 2015-02-01
+id: 95974c74-987e-50e4-ad9e-8b367a526d66
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifie un élément de circuit ou un circuit dans lequel l'intégrale
+    de la puissance instantanée est positive sur tout intervalle de temps contenant
+    l'instant de la première alimentation en énergie électrique
+  examples: []
+  id: 131-11-35
+  language_code: fra
+  notes:
+  - En régime périodique, l'intervalle d'intégration peut comporter un nombre fini
+    de périodes au lieu de commencer à moins l'infini.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dissipatif
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2002-06-01
+id: a8c54aa7-58ee-5fac-82c5-2a43a3c91ef6
+status: valid

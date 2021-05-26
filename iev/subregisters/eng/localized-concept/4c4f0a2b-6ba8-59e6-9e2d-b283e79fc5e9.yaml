@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: 'the complex quantity <u>`γ`</u> appearing in the equation: <u>`a`</u>(t)
+    = Ae^j(ωt - φ) - `γx`^ where A and <u>`γ`</u> are in principle independent of
+    x, where this expression may represent, along a line parallel to the axis O`x`,
+    a component `a(t)` of a sinusoidal electromagnetic field at angular frequency
+    ω and initial phase φ, especially in the case of guided propagation by means of
+    a cylindrical surface parallel to O`x`, or for a uniform plane wave'
+  examples: []
+  id: 705-02-24
+  language_code: eng
+  notes:
+  - Compatible definitions are given in chapters 702 and 726.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: propagation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: propagation constant
+    normative_status: preferred
+    type: expression
+  - designation: <u>`γ`</u>
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 4c4f0a2b-6ba8-59e6-9e2d-b283e79fc5e9
+status: valid

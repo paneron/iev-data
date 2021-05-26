@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: produit des valeurs efficaces de la tension électrique `U` aux bornes
+    d'un bipôle, élémentaire ou non, et du courant électrique `I` dans le bipôle `S`
+    = `UI`
+  examples: []
+  id: 131-11-41
+  language_code: fra
+  notes:
+  - En régime sinusoïdal, la puissance apparente est le module de la puissance complexe
+    `underset(_)(S)`, soit `S = | underset(_)(S) |`.
+  - L’unité SI cohérente de puissance apparente est le voltampère, VA.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance apparente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d7f572c6-4c78-58b5-b9cd-d5b5a07b2a17
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 121-12-11
+      original: 121-12-11
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2010-06-01
+  definition: puissance provenant d'un champ électrique variable dans le temps, absorbée
+    par une substance polarisée, à l'exclusion d'une puissance absorbée du fait de
+    la conductivité de la substance
+  examples: []
+  id: 212-11-27
+  language_code: fra
+  notes:
+  - Les pertes diélectriques sont habituellement dissipées sous forme de chaleur.
+  - Dans la 60050-121 les pertes diélectriques sont définie comme la puissance provenant
+    d'un champ électrique variable dans le temps, absorbée par une substance polarisée,
+    à l’exclusion d’une puissance absorbée du fait de la conductivité de la substance.
+    En pratique les pertes du fait du courant de conduction dans le diélectrique sont
+    habituellement incluse dans les pertes diélectriques.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: perte diélectrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 98ea0df1-8811-50c0-a50a-bfef13eefcec
+status: valid

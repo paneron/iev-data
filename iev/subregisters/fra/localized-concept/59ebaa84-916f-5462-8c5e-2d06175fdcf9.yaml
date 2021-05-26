@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension égale au rapport de la norme maximale possible
+    `F`~t max~ de la force de frottement entre deux corps solides en l'absence de
+    vitesse relative dans la surface de contact, à la norme `F`~n~ de la force normale,
+    soit `μ`~s~ = `F`~t max~ / `F`~n~
+  examples: []
+  id: 113-03-33
+  language_code: fra
+  notes:
+  - 1 La force de frottement et la force normale sont respectivement la composante
+    tangentielle et la composante normale de la force de contact entre deux corps
+    au repos relatif, donc ne glissant pas encore.
+  - 2 La force tangentielle `F`~t max~ est plus grande que la force tangentielle `F`~t~
+    pour une faible vitesse relative.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de frottement statique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 59ebaa84-916f-5462-8c5e-2d06175fdcf9
+status: valid

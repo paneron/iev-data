@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: signalisation par canal sémaphore dans laquelle des unités de signalisation
+    de longueur fixe sont émises sans interruption à débit binaire uniforme sur une
+    voie sémaphore et dans laquelle le terminal récepteur fonctionne avec la relation
+    temporelle correcte pour recevoir ces unités
+  examples: []
+  id: 714-13-14
+  language_code: fra
+  notes:
+  - Les deux voies sémaphores de sens opposés d'un même canal sémaphore ne sont pas
+    nécessairement synchronisées entre elles.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signalisation synchrone
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 826aed09-cb06-55a4-be83-b18779f81f81
+status: valid

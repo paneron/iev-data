@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-04-01
+  definition: See {{IEV 121-12-13, IEV:121-12-13}}
+  examples: []
+  id: 705-03-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative permittivity
+    normative_status: preferred
+    type: expression
+  - designation: relative dielectric constant
+    normative_status: deprecated
+    type: expression
+  - designation: dielectric constant
+    normative_status: deprecated
+    type: expression
+  - designation: permittivity
+    normative_status: deprecated
+    type: expression
+  - designation: '`ε`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2020-04-01
+id: a68344f3-7cbc-5928-9141-67c2d044cada
+status: valid

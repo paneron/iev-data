@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'structure fonctionnelle d''un système de régulation avec plusieurs
+    niveaux de commande se recouvrant, dans laquelle le régulateur affecté au plus
+    haut niveau coordonne le travail des régulateurs affectés au niveau inférieur
+    suivant, générant par exemple les variables de commande, les variables de référence
+    ou les variables commandées finales VOIR: Figure 24.'
+  examples: []
+  id: 351-47-40
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-26-34 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 24 – Examples of different control structures*
+
+
+    *Figure 24 – Exemples de différentes structures de commande*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: régulation hiérarchique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: fe9cda33-f0bf-5560-88c1-33cb053ff34f
+status: valid

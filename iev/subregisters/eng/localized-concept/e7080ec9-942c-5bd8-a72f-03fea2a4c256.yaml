@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: number of failures relative to the number of cycles of service of the
+    relay
+  examples: []
+  id: 444-07-09
+  language_code: eng
+  notes:
+  - '`λ`~c~ is the reciprocal of MTBF~c~.'
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cycle-related failure rate
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2002-01-01
+id: e7080ec9-942c-5bd8-a72f-03fea2a4c256
+status: valid

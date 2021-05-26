@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: quotient du nombre d'événements élémentaires (tels que la libération
+    d'un électron) contribuant à la grandeur de sortie par le nombre de photons incidents,
+    y compris ceux réfléchis par le récepteur
+  examples: []
+  id: 845-25-074
+  language_code: fra
+  notes:
+  - Voir aussi "<a href="IEV845-25-076">rendement quantique interne</a>".
+  - L'unité de rendement quantique externe est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement quantique externe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+  - designation: rendement quantique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+dateAccepted: 2018-11-17
+id: f1665833-5e35-529d-92d1-637cd316e5d4
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: time interval required for the trailing edge of a waveform to change
+    between two defined levels which may be either the logic levels `V`~OH~ and `V`~OL~
+    [being at 90 % and 10 %, respectively, of the maximum amplitude (equalling `V`~HI~
+    – `V`~LO~)], or any other ratio as defined in the detail specification where `V`~OL~
+    is the low level output voltage `V`~OH~ is the high level output voltage `V`~HI~
+    is the upper flat voltage of the pulse waveform `V`~LO~ is the low flat voltage
+    of the pulse waveform image::/assets/images/parts/561/561-fig17-en.png[] *Figure
+    17 – Characteristics of an output waveform*
+  examples: []
+  id: 561-03-05
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: decay time
+    normative_status: preferred
+    type: expression
+  - designation: fall time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: e4878c1d-9263-5fb2-b7fc-e48bf5655447
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: 'for a capacitive two-terminal element with terminals A and B, derivative
+    of the electric charge `q` with respect to the voltage `u`~AB~ ({{131-11-56, IEV:131-11-56}})
+    between the terminals: image::/assets/images/parts/131/131-12-14en.gif[] where
+    the sign of the electric charge is determined by taking the current in the time
+    integral defining the electric charge as positive if its direction is from A to
+    B and negative in the opposite case'
+  examples: []
+  id: 131-12-14
+  language_code: eng
+  notes:
+  - For an ideal capacitor, the differential capacitance `C`~d~ is equal to its capacitance
+    `C`.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: differential capacitance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-09-01
+id: 5ed76f1d-87ec-5a64-8112-6e5e8a587d61
+status: valid

@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: pour un bipôle linéaire passif, élémentaire ou non, de bornes A et B,
+    en régime sinusoïdal, quotient du phaseur `(underset(_)(U))_((AB))` représentant
+    la tension électrique ({{131-11-56, IEV:131-11-56}}) entre les bornes par le phaseur
+    `underset(_)(I)` représentant le courant électrique dans le bipôle `underset(_)(Z)
+    = (((underset(_)(U))_((A B))))/((underset(_)(I)))` où la tension sinusoïdale `u_((A
+    B)) = v_A - v_B` représentée par le phaseur `(underset(_)(U))_((AB))` est la différence
+    des potentiels électriques `v_A` en A et `v_B` en B, et où le courant sinusoïdal
+    représenté par le phaseur `underset(_)(I)` est positif si son sens est de A vers
+    B et négatif si son sens est de B vers A
+  examples: []
+  id: 131-12-43
+  language_code: fra
+  notes:
+  - "L’impédance d'un bipôle est l’inverse de son admittance. Elle est égale à \r\n\
+    `underset(_)(Z) = R + j X = Z e^(j phi)`, où `R` est la résistance en courant\
+    \ alternatif, `X` est la réactance, `Z` est l’impédance apparente et `φ` est le\
+    \ déphasage tension-courant."
+  - 'Avec un qualificatif convenable, le mot impédance est utilisé pour former des
+    termes composés désignant des grandeurs de même nature qu’une impédance, par exemple:
+    impédance de transfert, impédance caractéristique.'
+  - L’unité SI cohérente d’impédance est l’ohm, Ω.
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: impédance complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b10c07a5-a10d-5e26-b5b3-f2e2ef7a6eff
+status: valid

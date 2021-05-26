@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.15'
+      original: IEC Guide 116:2010, 3.15
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: overall process comprising a {{risk, IEV:903-01-07}} analysis and a
+    risk evaluation [ISO/IEC Guide 51:1999, definition 3.12]
+  examples: []
+  id: 903-01-10
+  language_code: eng
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: risk assessment
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 668a84c7-5509-511a-bcf3-b8ce125d91ed
+status: valid

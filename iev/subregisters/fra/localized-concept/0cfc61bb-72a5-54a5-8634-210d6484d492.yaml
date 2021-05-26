@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: pour un corps continu dans un domaine D, de masse volumique `ρ`(*`r`*),
+    point de rayon vecteur `r_G = ((int_D r rho d V))/((int_D rho d V))`
+  examples: []
+  id: 113-03-12
+  language_code: fra
+  notes:
+  - 1 Pour un système de particules de masses `m`~`i`~ et de rayons vecteurs *`r`*~`i`~,
+    le centre de masse est le point de rayon vecteur `r_G = ((sum_i m_i r_i))/((sum_i
+    m_i))`.
+  - 2 En physique non relativiste, le centre de masse ne dépend pas du référentiel
+    choisi.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: centre de masse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: centre d'inertie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: centre de gravité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 0cfc61bb-72a5-54a5-8634-210d6484d492
+status: valid

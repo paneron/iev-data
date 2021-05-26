@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4.21'
+      original: VIM 4.21
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: distance entre deux repères successifs mesurée le long de la même ligne
+    que pour la longueur d'échelle
+  examples: []
+  id: 314-01-09
+  language_code: fra
+  notes:
+  - La longueur d’une division est exprimée en unité de longueur, quelle que soit
+    l’unité du mesurande ou l’unité marquée sur l’échelle.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: longueur d'une division (d’échelle)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 4a63fc29-1fec-5443-bc94-35472f162a57
+status: valid

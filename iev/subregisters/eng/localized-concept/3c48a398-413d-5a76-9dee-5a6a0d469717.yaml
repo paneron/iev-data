@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: operation defined on the set of square matrices of a given order, which
+    associates to any ordered pair (*`A`*, *`B`*) of matrices their product *`AB`*
+  examples: []
+  id: 102-06-11
+  language_code: eng
+  notes:
+  - The multiplication of square matrices is associative, (*`AB`*)*`C`* = *`A`*(*`BC`*),
+    but not commutative, generally *`AB`* ≠ *`BA`*.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplication
+    normative_status: preferred
+    type: expression
+    usage_info: of square matrices
+dateAccepted: 2008-08-01
+id: 3c48a398-413d-5a76-9dee-5a6a0d469717
+status: valid

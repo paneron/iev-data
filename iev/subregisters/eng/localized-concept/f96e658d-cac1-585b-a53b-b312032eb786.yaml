@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifies a passive circuit element or a passive circuit for which the
+    time integral of the instantaneous power is not always positive over any time
+    interval beginning at an instant before the first supply of electric energy
+  examples: []
+  id: 131-11-36
+  language_code: eng
+  notes:
+  - Under periodic conditions, the integration interval can comprise an integral number
+    of periods instead of beginning at minus infinity. In this case, the time integral
+    of the instantaneous power is zero.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-dissipative
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: f96e658d-cac1-585b-a53b-b312032eb786
+status: valid

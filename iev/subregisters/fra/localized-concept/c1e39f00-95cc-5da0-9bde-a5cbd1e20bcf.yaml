@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: observateur idéal dont la courbe de sensibilité spectrale relative est
+    conforme à la fonction d'<a href="IEV845-21-035">efficacité lumineuse relative
+    spectrale</a> pour la vision photopique, `V`(`λ`), ou à la fonction pour la vision
+    scotopique, `V`′(`λ`), et qui satisfait à la loi d'addition impliquée dans la
+    définition du flux lumineux
+  examples: []
+  id: 845-21-036
+  language_code: fra
+  notes:
+  - Voir aussi ISO 23539:2005(E)/CIE S 010/E:2004, _Photométrie – Le système CIE de
+    photométrie physique._
+  - Cet article était numéroté 845-01-23 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: observateur de référence photométrique CIE
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c1e39f00-95cc-5da0-9bde-a5cbd1e20bcf
+status: valid

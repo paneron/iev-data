@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: phenomenon where the time interval between the first and the following
+    pulse is too short to allow the counting system to respond correctly to either
+    pulse
+  examples: []
+  id: 395-03-108
+  language_code: eng
+  notes:
+  - Pile-up will result in deterioration of resolution and may cause significant error.
+  - Modern systems can automatically detect and reject significant fractions of the
+    piled up pulses.
+  - This entry was numbered 394-39-14 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pile-up
+    normative_status: preferred
+    type: expression
+    usage_info: in a counting assembly
+dateAccepted: 2014-03-01
+id: 57c63e2f-e48c-5169-ac7f-ab9b8af6a4d2
+status: valid

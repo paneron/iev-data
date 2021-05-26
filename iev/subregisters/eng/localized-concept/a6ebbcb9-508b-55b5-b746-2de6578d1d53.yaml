@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.15'
+      original: IEC Guide 109:2012, 3.15
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: ability of waste materials to be processed for the original purpose
+    or other purposes, excluding {{energy recovery, IEV:901-07-09}}
+  examples: []
+  id: 901-07-11
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recyclability
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: a6ebbcb9-508b-55b5-b746-2de6578d1d53
+status: valid

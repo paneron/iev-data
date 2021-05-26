@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: définition 358
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 358, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+    - clause: 394-22-08
+      link: https://webstore.iec.ch/publication/12454
+      original: CEI 60050-394:2007, 394-22-08
+      ref: IEC 60050-394:2007
+      relationship:
+        type: identical
+  definition: radiamètre destiné à la mesure de grandeurs telles que la dose absorbée
+    ou l'équivalent de dose
+  examples: []
+  id: 395-05-02
+  language_code: fra
+  notes:
+  - Dans un sens plus large, ce terme est utilisé pour les appareils destinés à la
+    mesure d’autres grandeurs relatives aux rayonnements, telles que l’exposition,
+    la fluence, etc. Un tel emploi est déconseillé.
+  - Cet appareil peut nécessiter l’utilisation d’un lecteur séparé pour lire la dose
+    absorbée ou l’équivalent de dose.
+  - Cet article était numéroté 394-22-08 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dosimètre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ace07316-883f-541e-a5a4-c65a27d22717
+status: valid

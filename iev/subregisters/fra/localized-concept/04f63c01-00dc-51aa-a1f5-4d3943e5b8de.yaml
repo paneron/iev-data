@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{caractère, IEV:702-05-10}} ou {{chaîne, IEV:171-02-26}} de caractères
+    employé pour identifier ou désigner une {{donnée, IEV:171-01-02}}'
+  examples:
+  - '{{Clé, IEV:171-02-36}}, {{étiquette, IEV:171-02-37}}.'
+  id: 171-02-35
+  language_code: fra
+  notes:
+  - Un identificateur peut aussi indiquer certaines propriétés de la donnée.
+  reviewDecisionEvent: published
+  terms:
+  - designation: identificateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 04f63c01-00dc-51aa-a1f5-4d3943e5b8de
+status: valid

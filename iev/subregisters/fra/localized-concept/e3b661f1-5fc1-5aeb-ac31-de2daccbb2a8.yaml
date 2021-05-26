@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée cumulée des intervalles de temps pendant lesquels les {{cellules
+    élémentaires à combustible, IEV:485-08-01}} d'un {{système à pile à combustible,
+    IEV:485-09-01}} se trouvent dans la gamme de températures en fonctionnement normal,
+    indépendamment de la puissance réelle
+  examples: []
+  id: 485-20-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps chaud
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e3b661f1-5fc1-5aeb-ac31-de2daccbb2a8
+status: valid

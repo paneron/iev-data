@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{différence, IEV:102-01-17}} positive minimale `T` entre deux valeurs
+    de la {{variable, IEV:103-01-05}} indépendante `t` d''une {{fonction, IEV:102-01-10}}
+    `f`(`t`) à laquelle les valeurs de la fonction sont identiques pour toute valeur
+    de of `t`: `f`(`t`+`T`) = `f`(`t`)'
+  examples: []
+  id: 103-06-01
+  language_code: fra
+  notes:
+  - Si `f`(`t`) représente la variation d'une {{grandeur, IEV:112-01-01}} avec le
+    {{temps, IEV:113-01-03}}, le terme "period duration" est parfois utilisé en anglais.
+  reviewDecisionEvent: published
+  terms:
+  - designation: période
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a013d1b7-0a8e-5bb5-8b6c-bc7209aa0cc4
+status: valid

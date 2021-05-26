@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: pour une grandeur sinusoïdale `a ( t ) = hat A cos ( omega t + vartheta_0
+    )`, valeur complexe `underset(_)(hat A) = hat A exp j vartheta_0`, où j est l'unité
+    imaginaire, `omega` est la pulsation et `vartheta_0` est la phase à l'origine
+  examples: []
+  id: 103-07-13
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: phaseur d'amplitude
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dfbb7bdd-370c-54c1-bc39-c1b6b15d30fd
+status: valid

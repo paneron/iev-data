@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '1.22'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.22 MOD
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: modified
+  dateAmended: 2010-01-01
+  definition: mathematical relation between quantities in a given system of quantities,
+    independent of units of measurement
+  examples: []
+  id: 112-01-31
+  language_code: eng
+  notes:
+  - "The general form of a quantity equation is `f`(`Q`~1~, `Q`~2~, ... `Qn`) = 0,\
+    \ where `Q`~1~, `Q`~2~, ... `Qn` denote different quantities. A simple form of\
+    \ a quantity equation is `Q`~1~ = `ζ` `Q`~2~ `Q`~3~, where `ζ` is a numerical\
+    \ factor.\n\nExamples:\n\n\r\n* `T` = (1/2) `mv`^2^, where `T` is the kinetic\
+    \ energy and `v` the speed of a specified particle of mass `m`;\r\n* `n` = `I`·`t`/`F`,\
+    \ where `n` is the amount of substance of a univalent component, `I` is the electric\
+    \ current and `t` the duration of the electrolysis, and where `F` is the Faraday\
+    \ constant."
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantity equation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 3d10a8bc-50eb-5e5d-bfcf-aa994abdb074
+status: valid

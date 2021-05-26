@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-22
+      original: 702-02-22
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1991-10-01
+  definition: the velocity vector at a point, in a propagation medium, of a signal
+    which may be ideally represented by two superimposed sinusoidal waves of equal
+    amplitude and slightly different frequencies approaching a common limiting value
+  examples: []
+  id: 731-03-29
+  language_code: eng
+  notes:
+  - The magnitude of the group velocity is equal to the derivative of frequency with
+    respect to the reciprocal of the wavelength.
+  - In an isotropic medium the group velocity equals the phase velocity if the phase
+    constant is a linear function of the angular frequency.
+  - Each waveguide mode has its own particular group velocity.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group velocity
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 87e7604a-f748-50bc-bfa1-c615b4cc21b9
+status: valid

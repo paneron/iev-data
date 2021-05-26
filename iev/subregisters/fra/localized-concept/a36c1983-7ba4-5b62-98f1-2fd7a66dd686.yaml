@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: échelle de température adoptée par le Comité international des poids
+    et mesures (CIPM) en 1989 pour les mesures pratiques
+  examples: []
+  id: 113-04-18
+  language_code: fra
+  notes:
+  - 1 Les grandeurs correspondant à la température thermodynamique et à la température
+    Celsius définies par cette échelle sont notées respectivement `T`~90~ et `t`~90~,
+    où `t`~90~ = `T`~90~ − `T`~0~ avec `T`~0~:= 273,15 K.
+  - 2 Les unités de `T`~90~ et `t`~90~ sont respectivement le kelvin, symbole K, et
+    le degré Celsius, symbole °C.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: échelle internationale de température de 1990
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: EIT-90
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: a36c1983-7ba4-5b62-98f1-2fd7a66dd686
+status: valid

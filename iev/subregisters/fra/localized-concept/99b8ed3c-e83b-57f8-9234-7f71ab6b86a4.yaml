@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - original: AIEA 3, modifiée
+      ref: IAEA 3
+      relationship:
+        type: modified
+  definition: durée minimale pendant laquelle les caractéristiques de performance
+    spécifiées pour un matériel sont garanties
+  examples: []
+  id: 395-07-93
+  language_code: fra
+  notes:
+  - Cet article était numéroté 393-18-32 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée de vie prévue à la conception
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un matériel
+  - designation: durée de vie spécifiée
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: d’un matériel
+dateAccepted: 2018-11-17
+id: 99b8ed3c-e83b-57f8-9234-7f71ab6b86a4
+status: valid

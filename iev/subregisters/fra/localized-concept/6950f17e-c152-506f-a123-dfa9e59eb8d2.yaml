@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir <a href="IEV701-03-161">IEV 701-03-161</a> pour l'adjective et
+    <a href="IEV701-03-162">IEV 701-03-162</a> pour le nom
+  examples: []
+  id: 701-03-16
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: simplex
+    gender: m
+    normative_status: preferred
+    part_of_speech: adj
+    plurality: singular
+    type: expression
+  - designation: à l'alternat
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: semi-duplex
+    gender: m
+    normative_status: deprecated
+    part_of_speech: adj
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6950f17e-c152-506f-a123-dfa9e59eb8d2
+status: valid

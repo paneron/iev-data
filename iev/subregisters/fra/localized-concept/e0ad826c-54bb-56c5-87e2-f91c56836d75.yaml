@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{protection contre les erreurs, IEV:702-07-40}} destinée à déceler
+    la présence d''éléments erronés dans un message reçu'
+  examples: []
+  id: 702-07-41
+  language_code: fra
+  notes:
+  - La détection d'erreurs utilise en général un  {{code détecteur d'erreurs, IEV:702-05-19}}
+    approprié.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détection d'erreurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e0ad826c-54bb-56c5-87e2-f91c56836d75
+status: valid

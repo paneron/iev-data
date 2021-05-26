@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'for a proportional plus derivative element with an additional first-order
+    lag the ratio of the maximum gain resulting from the proportional plus derivative
+    action with first-order lag to the gain resulting from proportional action only
+    SEE: Figure 18.'
+  examples: []
+  id: 351-50-18
+  language_code: eng
+  notes:
+  - "The transfer function of a PD element with first-order lag is\n\n`((V ( s )))/((U\
+    \ ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + T_1 * s))`\n\nand using the derivative\
+    \ action gain `a` = `T`~d~/T~1~ the transfer function may be written\n\n`((V (\
+    \ s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + ((T_d * s))/(a)))`\n\nwhere<table>\r\
+    \n<tr>\n<td>\n`K`~P~\n</td>\n<td>is the proportional action coefficient;</td>\n\
+    </tr>\r\n<tr>\n<td>\n`T`~d~\n</td>\n<td>is the rate time;</td>\n</tr>\r\n<tr>\n\
+    <td>\n`T`~1~\n</td>\n<td>is the time constant;</td>\n</tr>\r\n<tr>\n<td>`a`</td>\n\
+    <td>is the derivative action gain, 1 &lt; `a` &lt; ∞;</td>\n</tr>\r\n<tr>\n<td>`s`</td>\n\
+    <td>is the complex variable of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\n\
+    `U`(`s`)</td>\n<td>is the input transform;</td>\n</tr>\r\n<tr>\n<td>\n`V`(`s`)</td>\n\
+    <td>is the output transform.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-29 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: derivative action gain
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: c7e24da2-58ec-5d64-a915-64a3759b2717
+status: valid

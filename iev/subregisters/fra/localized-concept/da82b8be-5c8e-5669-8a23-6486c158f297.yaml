@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: intervalle de temps entre une défaillance et la détection de la panne
+    qui en résulte image::/assets/images/parts/192/60050-192-F2fr.png[Figure 2 - Temps
+    de maintenance]
+  examples: []
+  id: 192-07-11
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de détection de panne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps de panne latente
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: da82b8be-5c8e-5669-8a23-6486c158f297
+status: valid

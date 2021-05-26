@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps nécessaire pour que le front avant d'une forme d'onde
+    passe d'un niveau défini à un autre image::/assets/images/parts/561/561-fig17-fr.png[]
+    *Figure 17 – Caractéristiques d'une forme d'onde de sortie*
+  examples: []
+  id: 561-03-27
+  language_code: fra
+  notes:
+  - 'Ces niveaux peuvent être les deux niveaux logiques `V`~OL~ et `V`~OH~, ou 10
+    % à 90 % de son amplitude maximale (`V`~HI~ – `V`~LO~) ou d’un autre rapport défini
+    dans la spécification détaillée
+
+
+    où
+
+
+    `V`~OL~  est la tension de sortie de niveau inférieur
+
+
+    `V`~OH~  est la tension de sortie de niveau supérieur
+
+
+    `V`~HI~  est la tension plane supérieure de la forme d’onde d’impulsion
+
+
+    `V`~LO~  est la tension plane inférieure de la forme d’onde d’impulsion.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de montée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9aa171be-5101-518e-828f-45fbe7735de2
+status: valid

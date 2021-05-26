@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-15
+      original: 702-02-15
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1991-10-01
+  definition: the imaginary part of the propagation coefficient
+  examples: []
+  id: 731-03-43
+  language_code: eng
+  notes:
+  - The phase coefficient of an optical waveguide is the limit of the phase change
+    of a field quantity between two points on the axis of the guide divided by the
+    distance between the points when this distance tends to zero.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase coefficient
+    normative_status: preferred
+    type: expression
+  - designation: phase constant
+    type: expression
+  - designation: β
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: fdc42379-d315-5d32-83ba-172dc1587e0e
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-09
+      original: 702-02-09
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1990-08-01
+  definition: valeur d'une grandeur, telle qu'une puissance ou une grandeur de champ,
+    mesurée ou évaluée d'une façon déterminée dans un intervalle de temps spécifié
+  examples: []
+  id: 161-03-01
+  language_code: fra
+  notes:
+  - Le niveau d'une grandeur peut être exprimé en unités logarithmiques, par exemple
+    en décibels par rapport à une valeur de référence.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: ebe2beb0-cfad-5d44-be9e-2113cebb547e
+status: valid

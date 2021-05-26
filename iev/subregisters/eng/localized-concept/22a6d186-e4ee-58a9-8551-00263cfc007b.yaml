@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.8
+      original: IEC TS 80004-9:2017, 3.2.8
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  dateAmended: 2018-04-01
+  definition: photovoltaic cell in which the photovoltaic effect occurs due to the
+    presence of semiconductor {{quantum wells, IEV:511-02-09}}
+  examples: []
+  id: 511-02-08
+  language_code: eng
+  notes: []
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantum well photovoltaic cell
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 22a6d186-e4ee-58a9-8551-00263cfc007b
+status: valid

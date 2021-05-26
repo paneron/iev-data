@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matrice carrée régulière *`A`* dont l'inverse *`A`*^−1^ est égale à
+    la transposée *`A`*^T^
+  examples: []
+  id: 102-06-26
+  language_code: fra
+  notes:
+  - 'Pour une matrice orthogonale d''éléments `Aij`:
+
+
+    `underset(i)( sum ) A_((i j)) A_((i k)) = delta_((j k))` et `underset(k)( sum
+    ) A_((i k)) A_((j k)) = delta_((i j))`
+
+
+    où δ~`jk`~ et δ~`ij`~ sont des symboles de Kronecker.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice orthogonale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a1c49756-372b-5e03-b94e-76cb57e26960
+status: valid

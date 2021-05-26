@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the irradiance or illuminance, `E`~2~ (or `E`~1~), at a
+    point on surface S~2~ (or S~1~) due to the flux received from surface S~1~ (or
+    S~2~) and the radiant exitance or luminous exitance, `M`~1~ (or `M`~2~), of surface
+    S~1~ (or S~2~) `c_((21)) = ((E_2))/((M_1))` or `c_((12)) = ((E_1))/((M_2))`
+  examples: []
+  id: 845-29-093
+  language_code: eng
+  notes:
+  - 'The relation between the configuration factor, `c`, and the (mutual) exchange
+    coefficient, `g`, is
+
+
+    `underset((A_2))( int ) c_((21)) d A_2 = ((underset((A_2))( int ) E_2 d A_2))/((M_1))
+    = ((Phi_2))/((M_1)) = g = ((Phi_1))/((M_2)) = ((underset((A_1))( int ) E_1 d A_1))/((M_2))
+    = underset((A_1))( int ) c_((12)) d A_1`
+
+
+    where `Φ`~2~ (or `Φ`~1~) is the flux received over surface S~2~ (or S~1~) from
+    surface S~1~ (or S~2~) and `A`~2~ (or `A`~1~) is the area of surface S~2~ (or
+    S~1~)'
+  - The configuration factor has unit one.
+  - This entry was numbered 845-09-72 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: configuration factor
+    normative_status: preferred
+    type: expression
+    usage_info: between two surfaces
+  - designation: '`c`~21~
+
+      `c`~12~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: b7a826d6-9ae4-5757-9f2a-a793c5d558d9
+status: valid

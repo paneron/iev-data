@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: for a capacitive two-terminal element with terminals A and B, quotient
+    of the electric charge `q` at A by the voltage ({{131-11-56, IEV:131-11-56}})
+    `u`~AB~ between the terminals `C = (q)/((u_((AB))))` where the sign of the electric
+    charge is determined by taking the electric current in the time integral defining
+    this charge as positive if its direction is from A to B and negative if its direction
+    is from B to A
+  examples: []
+  id: 131-12-13
+  language_code: eng
+  notes:
+  - A capacitance cannot be negative.
+  - The coherent SI unit of capacitance is farad, F.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacitance
+    normative_status: preferred
+    type: expression
+  - designation: '`C`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: e743a0ed-7f43-5510-9d6f-7d10b67f60a1
+status: valid

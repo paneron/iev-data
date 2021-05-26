@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une fonction réelle ou complexe `f`(`t`) de la variable réelle
+    `t`, fonction complexe `F`(`s`) de la variable complexe `s`, donnée par la transformation
+    intégrale `F ( s ) = int_( 0)^( + oo) f ( t ) e^(- s t) d t`
+  examples: []
+  id: 103-04-05
+  language_code: fra
+  notes:
+  - Si `t` est le temps, la variable `s` représente la pulsation complexe.
+  - La transformée de Laplace de la fonction `f` est notée aussi L`f` ou ℒ`f`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transformée de Laplace
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 85aba149-5e07-51b2-9161-a381c69160af
+status: valid

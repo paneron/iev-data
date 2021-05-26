@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a sequence of identical duty cycles, each cycle consisting of a period
+    of starting, a period of operation at constant load and a period of electric braking.
+    There is no rest and de-energized period
+  examples: []
+  id: 411-51-20
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: continuous-operation periodic duty with electric braking
+    normative_status: preferred
+    type: expression
+  - designation: duty type S7
+    type: expression
+dateAccepted: 2021-01-01
+id: e646bec5-9ab8-56a9-a4dc-78f446218225
+status: valid

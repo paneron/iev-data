@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the limit of the natural logarithm of the ratio of values at a given
+    frequency of a specified component of electromagnetic field at two points aligned
+    in the direction of propagation of a guided or plane wave, or of a wave practically
+    plane in a limited space domain, divided by the distance between the two points
+    when this distance tends to zero
+  examples: []
+  id: 702-02-13
+  language_code: eng
+  notes:
+  - The propagation coefficient is a complex quantity usually a function of frequency,
+    and has the dimension of reciprocal length. The real part, the attenuation coefficient,
+    is usually expressed in Np/m and the imaginary part, the phase-change coefficient,
+    is expressed in rad/m.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: propagation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: propagation constant
+    type: expression
+  - designation: 'symb.: `γ`'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: cbfeeb16-638d-5ea7-8262-f91ec1b01530
+status: valid

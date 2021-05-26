@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée de fonctionnement cumulée depuis la première utilisation, ou le
+    premier rétablissement, jusqu'à une défaillance
+  examples: []
+  id: 192-05-01
+  language_code: fra
+  notes:
+  - Voir aussi temps de fonctionnement ({{192-02-05, IEV:192-02-05}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de fonctionnement avant défaillance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+  - designation: temps avant défaillance
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: f248a9da-e396-5288-a9ce-733102da91da
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité d'éclairement énergétique, `E`~e~(`λ`), par rapport à la longueur
+    d'onde, `λ` `E_((e , lambda)) = ((d E_e ( lambda )))/((d lambda))`
+  examples: []
+  id: 845-21-056
+  language_code: fra
+  notes:
+  - L'éclairement spectral énergétique est exprimé en watt par mètre carré par nanomètre
+    (W·m^−2^·nm^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement spectral énergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6100e520-050d-5656-8810-ebc9f54bb7a3
+status: valid

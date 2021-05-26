@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '6.10'
+      original: VIM 6.10
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: propriété du résultat d'une mesure ou de la valeur d'un étalon telle
+    qu'elle puisse être reliée à des références déterminées, généralement des étalons
+    nationaux ou internationaux, par l'intermédiaire d'une chaîne ininterrompue de
+    comparaisons ayant toutes des incertitudes déterminées
+  examples: []
+  id: 311-01-15
+  language_code: fra
+  notes:
+  - Ce concept est souvent exprimé par l’adjectif traçable.
+  - La chaîne ininterrompue de comparaisons est appelée chaîne de raccordement aux
+    étalons ou chaîne d’étalonnage.
+  - En français la manière dont s’effectue la liaison aux étalons est appelée raccordement
+    aux étalons.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: traçabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 3464efbf-6b0d-581b-b138-f521cbaa8468
+status: valid

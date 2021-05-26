@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: condition in which some peak values of the {{modulating signal, IEV:702-06-04}}
+    exceed the maximum value for which the {{transmission system, IEV:704-04-19}}
+    or the equipment considered is designed
+  examples: []
+  id: 702-06-20
+  language_code: eng
+  notes:
+  - In {{full carrier, IEV:702-06-22}} {{amplitude modulation, IEV:702-06-17}}, the
+    maximum value is that corresponding to a 100 % {{modulation factor, IEV:702-06-19}},
+    definition 1.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overmodulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: 1bd52329-ab10-594f-a1c5-7b555196aaa1
+status: valid

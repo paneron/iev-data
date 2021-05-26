@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.21
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.21
+      ref: IEC 62290-1:2014
+      relationship:
+        type: identical
+  definition: centre à partir duquel l'exploitation d'une ligne ou d'un réseau de
+    transport est supervisée et gérée
+  examples: []
+  id: 821-01-64
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: poste de commande centralisée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PCC
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d1139701-975a-53f5-a66c-39bb3f468fe6
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: inverse de la longueur d'onde dans un guide, ou de la longueur d'onde
+    d'une onde plane
+  examples: []
+  id: 726-05-02
+  language_code: fra
+  notes:
+  - Certains auteurs emploient comme nombre d'onde 2`π`/`λ`. au lieu de 1/`λ`, mais
+    1/`λ` est préférable.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre d'onde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: répétence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 9aa75239-506d-54fe-923f-9e5c0dee92b8
+status: valid

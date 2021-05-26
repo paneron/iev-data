@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: 1. ensemble, obtenu par multiplexage en fréquence, de 15 groupes secondaires
+    occupant des bandes de fréquences contiguës, avec des bandes de garde entre eux
+    2. bande de fréquences de largeur normalisée à 3 716 kHz et occupant l'une d'un
+    certain nombre de positions spectrales spécifiées dans une transmission multiplex
+    à courants porteurs
+  examples: []
+  id: 704-10-27
+  language_code: fra
+  notes:
+  - Le CCITT emploie l'expression "assemblage de 15 groupes secondaires"; le terme
+    français simple "hypergroupe" est proposé en remplacement.
+  - Dans certaines transmissions multiplex à courants porteurs, le terme français
+    "hypergroupe" et le terme anglais "hypergroup" désignent d'autres assemblages
+    de groupes secondaires que celui normalisé par le CCITT. Ces termes doivent donc
+    être qualifiés par le nombre de groupes secondaires contenus dans l'assemblage.
+  - Un hypergroupe de 15 groupes secondaires est normalement un ensemble de 900 voies
+    téléphoniques à courant porteur.
+  - Un signal ne provenant pas d'un assemblage de groupes secondaires, mais ayant
+    des caractéristiques spécifiées, peut occuper tout ou partie d'un hypergroupe.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hypergroupe (de 15 groupes secondaires)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: assemblage de 15 groupes secondaires
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 8c004bcd-d048-5af9-ae30-85e6730867ac
+status: valid

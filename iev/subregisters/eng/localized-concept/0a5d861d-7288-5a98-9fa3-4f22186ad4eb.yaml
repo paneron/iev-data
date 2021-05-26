@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: a weighting factor for absorbed dose to allow for the effect on health
+    detriment of the radiation quality
+  examples: []
+  id: 881-14-03
+  language_code: eng
+  notes:
+  - Quality factor is specified by I.C.R.P. as a function of the linear collision
+    stopping power in water.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quality factor
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 0a5d861d-7288-5a98-9fa3-4f22186ad4eb
+status: valid

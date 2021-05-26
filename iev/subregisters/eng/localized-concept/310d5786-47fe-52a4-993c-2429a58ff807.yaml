@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the minimum time by which two events must be separated in order that
+    the corresponding time tags be different
+  examples: []
+  id: 371-05-03
+  language_code: eng
+  notes:
+  - The time resolution cannot be shorter than the separating capability.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time resolution
+    normative_status: preferred
+    type: expression
+  - designation: limit of accuracy of chronology
+    type: expression
+dateAccepted: 2021-01-01
+id: 310d5786-47fe-52a4-993c-2429a58ff807
+status: valid

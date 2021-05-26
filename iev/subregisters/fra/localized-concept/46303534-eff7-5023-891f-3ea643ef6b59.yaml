@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: zone associée à une station de réception de Terre pour un service de
+    radiocommunication donné, à l'intérieur de laquelle doit se trouver une station
+    d'émission pour qu'une radiocommunication de nature déterminée puisse être établie
+    dans des conditions techniques déterminées
+  examples: []
+  id: 713-02-20
+  language_code: fra
+  notes:
+  - 'Les conditions techniques comprennent, entre autres: la fréquence, les caractéristiques
+    des équipements d''émission et de réception utilisés, les conditions de leur installation,
+    la qualité de transmission voulue en particulier les rapports de protection, et
+    les conditions d''exploitation.'
+  - 'Suivant le cas, on peut distinguer:
+
+
+    – la zone de captage en l''absence de brouillage, c''est-à-dire celle limitée
+    uniquement par les bruits artificiels ou naturels;
+
+
+    – la zone de captage réelle déterminée en tenant compte des bruits et brouillages
+    existant en pratique.'
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de captage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 46303534-eff7-5023-891f-3ea643ef6b59
+status: valid

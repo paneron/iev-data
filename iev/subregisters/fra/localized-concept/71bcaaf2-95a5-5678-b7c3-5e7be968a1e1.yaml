@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: emplacement (dans une zone désignée relevant d'un certain classement
+    de zone) pour lequel la pollution lumineuse (luminescence du ciel) est évaluée
+  examples: []
+  id: 845-29-183
+  language_code: fra
+  notes:
+  - Les zones environnementales sont indiquées par un classement de zone (E0 … E4)
+    conformément à la CIE 150:2017, _Guide on the Limitation of the Effects of Obtrusive
+    Light from Outdoor Lighting Installations, 2nd Edition_ (disponible en anglais
+    seulement)`.`
+  reviewDecisionEvent: published
+  terms:
+  - designation: emplacement de référence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour l'évaluation de la pollution lumineuse
+  - designation: point de référence
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: pour l'évaluation de la pollution lumineuse
+dateAccepted: 2018-11-17
+id: 71bcaaf2-95a5-5678-b7c3-5e7be968a1e1
+status: valid

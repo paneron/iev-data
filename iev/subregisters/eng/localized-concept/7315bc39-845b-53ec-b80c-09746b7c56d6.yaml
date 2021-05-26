@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: method of error control using a cyclic code mainly for the purpose of
+    error detection
+  examples: []
+  id: 723-10-100
+  language_code: eng
+  notes:
+  - The bits of a data block to be protected are used as coefficients of a polynomial,
+    which is modulo-2-divided by a prescribed generator polynomial; the coefficients
+    of the remainder left after division are appended to the data block as a block
+    check sequence.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cyclic redundancy check
+    normative_status: preferred
+    type: expression
+  - designation: CRC
+    type: expression
+dateAccepted: 1997-03-01
+id: 7315bc39-845b-53ec-b80c-09746b7c56d6
+status: valid

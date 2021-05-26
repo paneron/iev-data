@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: unwanted {{oscillation, IEV:103-05-04}} produced in equipment at a {{frequency,
+    IEV:103-06-02}} independent both of the operating frequencies and of frequencies
+    related to the generation of desired oscillations
+  examples: []
+  id: 161-06-08
+  language_code: eng
+  notes:
+  - A parasitic oscillation of a {{radio transmitter, IEV:713-08-01}} can produce
+    a {{spurious emission, IEV:713-09-05}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parasitic oscillation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: 535f847d-1c05-55a6-8ed8-c714792775a3
+status: valid

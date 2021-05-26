@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '2.6'
+      link: https://www.iso.org/standard/52195.html
+      original: ISO TS 80004-4:2011, 2.6
+      ref: ISO/TS 80004-4:2011
+      relationship:
+        type: identical
+  definition: '{{nano-objet, IEV:511-01-07}} ayant une dimension externe à l''{{échelle
+    nanométrique, IEV:511-01-03}} et les deux autres dimensions externes significativement
+    plus grandes'
+  examples: []
+  id: 511-01-11
+  language_code: fra
+  notes:
+  - La plus petite des dimensions externes est l’épaisseur de la nanoplaque.
+  - Les deux dimensions externes significativement plus grandes diffèrent de la dimension
+    à l'échelle nanométrique d’un facteur supérieur à trois.
+  - Les dimensions externes les plus grandes ne sont pas nécessairement à l'échelle
+    nanométrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanoplaque
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 41a0d5ea-f3e2-5ef6-a89e-983663cd1800
+status: valid

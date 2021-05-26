@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: for a contact which is closing/opening its circuit, time interval between
+    the instant when the contact circuit first closes/opens and the instant when the
+    circuit is finally closed/opened (see Figure 1) <simg></simg>
+  examples: []
+  id: 444-05-04
+  language_code: eng
+  notes: []
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bounce time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-01-01
+id: 3b756080-2501-5afc-9f65-53c5f884623d
+status: valid

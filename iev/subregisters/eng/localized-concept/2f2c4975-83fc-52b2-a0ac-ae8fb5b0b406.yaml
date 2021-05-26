@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: unit of {{modulation rate, IEV:721-03-26}} in {{telegraphy, IEV:701-01-07}}
+    and {{data communication, IEV:701-01-12}} and of {{line digit rate, IEV:704-17-03}}
+    in {{digital transmission, IEV:704-01-08}}, equal to one second to the power minus
+    one 1 Bd := 1 s^−1^
+  examples: []
+  id: 702-05-24
+  language_code: eng
+  notes:
+  - For example, if the duration of the unit interval is 20 ms, the modulation rate
+    is 50 Bd.
+  - The term “rapidité de modulation” is used in French in all cases, with the synonym
+    “débit en ligne” in the case of digital transmission; in English the terms “modulation
+    rate” and “line digit rate” are used in different fields.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: baud
+    normative_status: preferred
+    type: expression
+  - designation: Bd
+    international: true
+    type: symbol
+dateAccepted: 2016-12-01
+id: 2f2c4975-83fc-52b2-a0ac-ae8fb5b0b406
+status: valid

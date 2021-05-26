@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2019-03-01
+  definition: '{{storage device, IEV:171-04-14}} in which data, under normal conditions,
+    can be read and modified'
+  examples: []
+  id: 171-04-27
+  language_code: eng
+  notes:
+  - The term "RAM" is normally used only for an integrated circuit memory. See also
+    "{{erasable storage, IEV:171-04-29}}".
+  - RAM is the abbreviated term for "random-access memory", and it is deprecated in
+    the sense of {{direct access storage, IEV:171-04-25}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: RAM
+    normative_status: preferred
+    type: expression
+  - designation: read/write memory
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: 6e0b1fde-1aa4-5502-a5fa-416a8c7948ba
+status: valid

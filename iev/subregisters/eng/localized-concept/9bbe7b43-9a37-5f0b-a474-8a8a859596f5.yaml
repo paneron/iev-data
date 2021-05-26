@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: relation between two or more variables expressed in the form of an equality
+  examples: []
+  id: 103-01-07
+  language_code: eng
+  notes:
+  - '`F ( x , y , z ) = 0` is a functional relation between the variables `x , y ,
+    z`. Any function of `n` variables is a functional relation between `n` + 1 variables.'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: functional relation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 9bbe7b43-9a37-5f0b-a474-8a8a859596f5
+status: valid

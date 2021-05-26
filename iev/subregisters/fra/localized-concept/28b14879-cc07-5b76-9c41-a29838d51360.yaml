@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique du rayonnement émis par la puissance consommée
+    par la source
+  examples: []
+  id: 845-21-087
+  language_code: fra
+  notes:
+  - Il est nécessaire de préciser si la puissance consommée par la source inclut ou
+    non la puissance dissipée par d'éventuels équipements auxiliaires (tels que ballasts).
+  - L'unité de rendement énergétique est un.
+  - Cet article était numéroté 845-01-54 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rendement énergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une source de rayonnement
+dateAccepted: 2018-11-17
+id: 28b14879-cc07-5b76-9c41-a29838d51360
+status: valid

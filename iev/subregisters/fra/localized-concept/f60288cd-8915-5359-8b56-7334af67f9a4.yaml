@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: voie de transmission dont la bande de fréquences permet la transmission
+    d'un signal téléphonique de qualité courante dans sa bande d'audiofréquences originale
+  examples: []
+  id: 704-09-05
+  language_code: fra
+  notes:
+  - Une voie téléphonique audiofréquence occupe normalement la bande de fréquences
+    normalisées 300-3 400 Hz.
+  - Un signal autre qu'un signal vocal audiofréquence, mais ayant des caractéristiques
+    spécifiées, peut occuper tout ou partie d'une voie téléphonique audio-fréquence.
+  - Le terme "voie téléphonique audiofréquence" ne doit pas être employé pour désigner
+    une voie de transmission à plus large bande, telle que celle qui permet une transmission
+    sonore de haute qualité.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: voie téléphonique (audiofréquence)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: voie téléphonique AF
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: f60288cd-8915-5359-8b56-7334af67f9a4
+status: valid

@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the sum of the areas of the working plane and the plane
+    of the luminaires and the sum of the area of the walls bounded by the working
+    plane and the plane of the luminaires, used in the calculation of the utilization
+    factor or utilance
+  examples: []
+  id: 845-29-071
+  language_code: eng
+  notes:
+  - 'The room index is expressed by the formula
+
+
+    `K = ((a b))/((h ( a + b )))`
+
+
+    where `a` and `b` are the dimensions of the sides of the room and `h` the mounting
+    height, that is the distance between the working plane and the plane of the luminaires.'
+  - See also "<a href="IEV845-29-073">ceiling cavity index</a>" and "<a href="IEV845-29-075">floor
+    cavity index</a>".
+  - The room index has unit one.
+  - This entry was numbered 845-09-55 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: room index
+    normative_status: preferred
+    type: expression
+  - designation: installation index
+    type: expression
+  - designation: '`K`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: aa0489ef-48a4-59ad-ae80-70b1ff921e9c
+status: valid

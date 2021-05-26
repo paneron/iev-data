@@ -1,0 +1,89 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the radiant flux at wavelength `λ`~m~ and that at wavelength
+    `λ`, such that both produce equally intense luminous sensations for a specified
+    photometric condition and `λ`~m~ is chosen so that the maximum value of this quotient
+    is equal to 1
+  examples: []
+  id: 845-21-035
+  language_code: eng
+  notes:
+  - The spectral luminous efficiency of the human eye depends on a number of factors,
+    particularly the state of visual adaptation and the size and position of the source
+    in the visual field. The photometric condition should be specified (e.g. photopic,
+    scotopic, mesopic). If it is not specified, photopic vision is assumed and the
+    symbol `V`(`λ`) is used. The values of the `V`(`λ`) function have been internationally
+    agreed in 1924 by the CIE (_Compte Rendu 6e session_, p. 67), completed by interpolation
+    and extrapolation &amp;lsqb;ISO 23539:2005(E)/CIE S 010/E:2004, _Photometry –
+    The CIE System of Physical Photometry_&amp;rsqb;, and recommended by the International
+    Committee of Weights and Measures (CIPM) in 1972.
+  - For scotopic vision, the symbol `V`′(`λ`) is used. The values of the `V`′(`λ`)
+    function were adopted by the CIE in 1951, were published in _Compte Rendu 12e
+    session, Vol. 3_, p. 37 and in ISO 23539:2005(E)/CIE S 010/E:2004, _Photometry
+    – The CIE System of Physical Photometry_, and ratified by the CIPM in 1976.
+  - For mesopic vision, the spectral luminous efficiency function is denoted by `V`~mes;~`m`(`λ`),
+    where `m` is a coefficient determined by the visual adaptation level. The values
+    of the `V`~mes;~`m`(`λ`) function at representative values of `m` are given in
+    CIE 191:2010, _Recommended System for Mesopic Photometry based on Visual Performance_.
+  - 'The `V`(`λ`) function applies at all luminance levels for foveal conditions,
+    i.e. for all on-axis visual tasks (where objects seen by the eye are in a narrow
+    field of view). For visual tasks that are not on-axis, the following specifications
+    are given by CIE 191:2010, _Recommended System for Mesopic Photometry based on
+    Visual Performance_: Scotopic photometric quantities are applicable to the condition
+    where the eye is adapted to an average luminance of &lt; 0,005 cd·m^−2^; mesopic
+    photometric quantities are applicable to the condition where the eye is adapted
+    to average luminance levels between 0,005 cd·m^−2^ and 5 cd·m^−2^; photopic photometric
+    quantities are applicable to the condition where the eye is adapted to an average
+    luminance greater than 5 cd·m^−2^.'
+  - Considering that the spectral luminous efficiency function of the human eye changes
+    with visual angle, in 2005 CIE adopted the "CIE 10° photopic photometric observer",
+    `V`~10~(`λ`), and recommended it for situations where the eye is fully light adapted
+    and the visual target has an angular subtense larger than 4° or is seen off-axis
+    (see CIE 165:2005, _CIE 10 Degree Photopic Photometric Observer_).
+  - Considering the discrepancies between the average human spectral luminous efficiency
+    and the `V`(`λ`) function, in 1990 CIE adopted the "CIE 1988 Modified 2° Spectral
+    Luminous Efficiency Function for Photopic Vision", `V`~M~(`λ`), and recommended
+    it for applications in visual sciences (see CIE 86-1990, _CIE 1988 2° Spectral
+    Luminous Efficiency Function for Photopic Vision_).
+  - 'Photometric quantities are calculated by integrating the product of the radiometric
+    quantity by the spectral luminous efficiency function and then multiplying by
+    the maximum of the stated spectral luminous efficacy function, with the integral
+    being taken across the full <a href="IEV845-21-002">optical radiation</a> spectrum.
+    For example, for the CIE standard observer for photopic vision, the luminous flux
+    of a source with spectral radiant flux `Φ`~e,~`λ`(`λ`) is expressed by
+
+
+    `Phi_v = K_m int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    where `K`~m~ ≈ 683 lm·W^−1^ (see also "<a href="IEV845-21-092">maximum luminous
+    efficacy</a>").'
+  - The spectral luminous efficiency has unit one.
+  - This entry was numbered 845-01-22 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral luminous efficiency
+    normative_status: preferred
+    type: expression
+    usage_info: for a specified photometric condition
+  - designation: '`V`(`λ`), &lt;for photopic vision&gt; &lt;pour la vision photopique&gt;
+
+      `V`′(`λ`), &lt;for scotopic vision&gt; &lt;pour la vision scotopique&gt;
+
+      `V`~mes;`m`~(`λ`), &lt;for mesopic vision&gt; &lt;pour la vision mésopique&gt;
+
+      `V`~10~(`λ`), &lt;for the CIE 10° photopic photometric observer&gt; &lt;pour
+      l''observateur photométrique photopique 10° CIE&gt;
+
+      `V`~M~(`λ`), &lt;for the CIE 1988 modified 2° spectral luminous efficiency function
+      for photopic vision&gt; &lt;pour la fonction d''efficacité lumineuse relative
+      spectrale de 2° pour vision photopique (CIE 1988 modifiée)&gt;'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: efade4cf-8a2e-5d87-b538-dcc662731392
+status: valid

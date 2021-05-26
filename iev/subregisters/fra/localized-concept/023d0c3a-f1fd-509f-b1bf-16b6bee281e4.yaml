@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: qualifie une grandeur alternative représentée par le produit d'une constante
+    réelle et d'une fonction sinus ou cosinus dont l'argument est une fonction linéaire
+    de la variable indépendante
+  examples: []
+  id: 103-07-01
+  language_code: fra
+  notes:
+  - La constante réelle peut être une grandeur scalaire, vectorielle ou tensorielle.
+  - Des exemples sont `a ( t ) = hat A cos ( omega t + vartheta_0 )` et `a ( x ) =
+    hat A cos k ( x - x_0 )`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sinusoïdal
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 023d0c3a-f1fd-509f-b1bf-16b6bee281e4
+status: valid

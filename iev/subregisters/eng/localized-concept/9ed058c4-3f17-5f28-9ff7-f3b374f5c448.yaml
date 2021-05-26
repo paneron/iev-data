@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.116
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.116
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: directory which maps the node address to the device address (one-to-one
+    mapping in wire train bus)
+  examples: []
+  id: 811-37-77
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: node directory
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 9ed058c4-3f17-5f28-9ff7-f3b374f5c448
+status: valid

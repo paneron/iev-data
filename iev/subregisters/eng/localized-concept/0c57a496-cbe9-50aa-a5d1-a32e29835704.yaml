@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: ratio of the effective radius of the Earth to the actual Earth radius
+  examples: []
+  id: 705-05-41
+  language_code: eng
+  notes:
+  - 'This factor `k` is related to the vertical gradient d`n`/d`h` of the refractive
+    index n and to the actual Earth radius `a` by the equation:
+
+
+    `k = (1)/((1 + a ((d n))/((d h))))`'
+  - For an atmosphere having a standard refractivity gradient the value of `k` is
+    taken as 4/3, corresponding to an effective radius of the Earth of approximately
+    8 500 km.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective Earth-radius factor
+    normative_status: preferred
+    type: expression
+  - designation: '`k`'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 0c57a496-cbe9-50aa-a5d1-a32e29835704
+status: valid

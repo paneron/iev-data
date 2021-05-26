@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{équipement, IEV:651-21-16}} qui est porté et qui est raccordé au
+    moyen de composants isolants, aux parties d''une {{installation électrique, IEV:651-26-01}}
+    en vue de la mise à la terre, mise en court-circuit ou mise à la terre et en court-circuit
+    de cette installation'
+  examples: []
+  id: 651-25-01
+  language_code: fra
+  notes:
+  - L’équipement portable de mise à la terre et en court-circuit comprend les composants
+    de mise à la terre, ceux de mise en court-circuit et un ou plusieurs composants
+    isolants, par exemple des {{perche de mise à la terre, IEV:651-25-05}}.
+  - Cet article était numéroté 651-14-01 dans la CEI 60050-651:1999. Il a été modifié
+    de façon à préciser la définition et faire usage des termes privilégiés.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équipement portable de mise à la terre et en court-circuit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 581a34df-2326-5a0a-a684-4bdcb748eae6
+status: valid

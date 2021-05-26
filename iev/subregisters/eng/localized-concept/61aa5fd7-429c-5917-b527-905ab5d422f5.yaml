@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: positive state quantity proportional to the kinetic energy of the chaotically
+    moving particles that constitute a physical system being locally in equilibrium
+  examples: []
+  id: 113-04-14
+  language_code: eng
+  notes:
+  - Temperature can be ranked using various quantity-value scales such as Celsius
+    and Fahrenheit. All these scales are now tight to thermodynamic temperature scale.
+  - 2 Thermodynamic temperature is one of the seven base quantities in the International
+    System of Quantities, ISQ, on which the International System of Units, SI, is
+    based. The coherent SI unit of thermodynamic temperature is kelvin, K (see IEC 60050-112:2010,
+    112-02-08). The triple point of water has the thermodynamic temperature 273,16 K.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermodynamic temperature
+    normative_status: preferred
+    type: expression
+  - designation: absolute temperature
+    normative_status: preferred
+    type: expression
+  - designation: '`T`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 61aa5fd7-429c-5917-b527-905ab5d422f5
+status: valid

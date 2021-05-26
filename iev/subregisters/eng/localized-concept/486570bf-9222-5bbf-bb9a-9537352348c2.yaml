@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a signal emitted from an output port of the receiving terminal equipment
+    of a transmission system
+  examples: []
+  id: 704-04-12
+  language_code: eng
+  notes:
+  - Ideally, the output signal of a transmission system should be an undistorted version
+    of the corresponding input signal.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: output signal (of a transmission system)
+    normative_status: preferred
+    type: expression
+  - designation: received source signal
+    type: expression
+dateAccepted: 1993-08-01
+id: 486570bf-9222-5bbf-bb9a-9537352348c2
+status: valid

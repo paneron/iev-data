@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: durée comprise entre l'instant où le mesurande (ou la grandeur fournie)
+    subit un changement brusque spécifié et l'instant où l'indication (ou la grandeur
+    fournie) atteint, et se maintient dans une plage de limites spécifiées autour
+    de sa valeur finale, en régime établi
+  examples: []
+  id: 311-06-04
+  language_code: fra
+  notes:
+  - Cette définition est celle qui est conventionnellement utilisée pour les appareils
+    de mesure. D’autres définitions existent.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de réponse à un échelon
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: a12ea43b-9a6a-59c6-aefb-ecfae64c810a
+status: valid

@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - clause: 13-11
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-11, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: quotient of the number of specified {{data elements, IEV:171-02-01}}
+    {{transferred, IEV:171-06-01}} in a time interval by the duration of this interval
+  examples:
+  - '{{Digit rate, IEV:702-05-23}}, `r`~d~ or `ν`~d~; transfer rate for bytes, `r`~B~,
+    `r`~o~, `ν`~B~, or `ν`~o~; {{binary digit rate, IEV:704-16-07}} (or bit rate),
+    `r`~b~, `r`~bit~, `ν`~b~, or `ν`~bit~.'
+  id: 171-06-03
+  language_code: eng
+  notes:
+  - The transfer rate is expressed in seconds to the power of minus one (s^−1^). In
+    practice, it is expressed in digits per second, for example in bits per second
+    (bit/s) or in bytes per second (B/s). These units can be combined with decimal
+    multiple prefixes, for example kilobyte per second (kB/s).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transfer rate
+    normative_status: preferred
+    type: expression
+  - designation: '`r`
+
+      `ν`'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: eb8274a8-cc51-5db4-8b88-64dd24420122
+status: valid

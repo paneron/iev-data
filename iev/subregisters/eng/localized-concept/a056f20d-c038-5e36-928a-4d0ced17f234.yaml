@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the sum of the areas of the floor and the working plane
+    and the sum of the area of the walls bounded by the floor and the working plane,
+    used in the calculation of the utilization factor or utilance
+  examples: []
+  id: 845-29-075
+  language_code: eng
+  notes:
+  - 'The floor cavity index is given by the formula
+
+
+    `K_f = ((a b))/((h_f ( a + b )))`
+
+
+    where `a` and `b` are the dimensions of the sides of the room and `h`~f~ is the
+    distance from the floor to the utilization plane.'
+  - See also "<a href="IEV845-29-073">ceiling cavity index</a>" and "<a href="IEV845-29-071">room
+    index</a>".
+  - The floor cavity index has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: floor cavity index
+    normative_status: preferred
+    type: expression
+  - designation: '`K`~f~
+
+      `K`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: a056f20d-c038-5e36-928a-4d0ced17f234
+status: valid

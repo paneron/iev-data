@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: gravité d'un effet par rapport à des critères d'évaluation spécifiés
+  examples: []
+  id: 192-03-09
+  language_code: fra
+  notes:
+  - 'En principe, les critères d’évaluation de la criticité incluent les effets de
+    la panne ou de la défaillance: sur l’élément lui-même, sur le système dont il
+    fait partie et sur des entités au-delà de la frontière du système.'
+  - Pour l’analyse de la criticité, voir analyse des modes de défaillance, de leurs
+    effets et de leur criticité ({{192-11-06, IEV:192-11-06}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: criticité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une panne ou d’une défaillance
+dateAccepted: 2018-11-17
+id: ddf6ceae-46d7-5a36-88a7-dbaea66a30d8
+status: valid

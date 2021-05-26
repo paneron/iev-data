@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.136
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.136
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: variable expressing the state of a process
+  examples:
+  - Speed, brake command.
+  id: 811-37-86
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: process variable
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: e744d39e-8290-5bdd-9e35-70af8e65a141
+status: valid

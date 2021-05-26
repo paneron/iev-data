@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: quotient de d`E`~tr~/`E`~`N`~ par le produit de `ρ` d`l` où d`E`~tr~/`E`~`N`~
+    est la fraction des énergies des particules incidentes, à l'exclusion des énergies
+    au repos, des particules indirectement ionisantes qui traversent sous une incidence
+    normale une couche d'épaisseur d`l` d'une substance de masse spécifique `ρ` et
+    d`E`~tr~ la somme des énergies cinétiques de toutes les particules chargées libérées
+    de cette couche `((mu_((tr))))/(rho) = (1)/((E_N rho)) * ((d E_((tr))))/((d l))`
+  examples: []
+  id: 881-04-32
+  language_code: fra
+  notes:
+  - 'Pour un rayonnement monoénergétique, la relation entre le kerma (`K`) et la fluence
+    énergétique (`Ψ`) peut s''exprimer comme suit:
+
+
+    `K = Psi ((mu_((tr))))/(rho)`'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de transfert d'énergie massique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: d118b558-da20-5dac-a2d5-3560a4429195
+status: valid

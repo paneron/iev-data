@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the <a href="IEV845-21-029">spectral distribution</a> of
+    radiance due to fluorescence at wavelength `λ` and the sum of the tabulated values
+    of this distribution across the fluorescence band
+  examples: []
+  id: 845-21-031
+  language_code: eng
+  notes:
+  - Fluorescence is understood to include both fluorescent and phosphorescent phenomena
+    with time constants short enough to be ignored for the application.
+  - 'The relative spectral fluorescence distribution, `F`(`λ`), when multiplied by
+    the spectral external radiant efficiency of the fluorescent specimen, `Q`, for
+    excitation at wavelength, `μ`, gives the bispectral luminescent radiance factor,
+    `β`~L,~`λ`(`μ`), of a <a href="IEV845-24-040">photoluminescent material</a> according
+    to:
+
+
+    `β`~L,~`λ`(`μ`) = `F`(`λ`)·`Q`(`μ`)'
+  - The relative spectral fluorescence distribution has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative spectral fluorescence distribution
+    normative_status: preferred
+    type: expression
+  - designation: relative fluorescence spectrum
+    type: expression
+  - designation: '`F`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 62d3a040-569f-50a7-a1d9-ca4a765d0af0
+status: valid

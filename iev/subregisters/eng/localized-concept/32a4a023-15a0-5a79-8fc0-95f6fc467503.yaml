@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'for a sinusoidal wave of angular frequency `ω`, the vector product:
+    `(1)/(2) vec underset(_)(E) xx vec underset(_)(H)^( ** )` when the electric field
+    vector `vec E ( t )` and the magnetic field vector `vec H ( t )` are represented
+    at the same point, in complex notation, by the equations: `vec E ( t ) = Re (
+    underset(_)((vec E)) e^(j omega t) )` `vec H ( t ) = Re ( underset(_)((vec H))
+    e^(j omega t) )` where `vec underset(_)(E)` and `vec underset(_)(H)` are not time-dependent
+    and are generally complex, `vec underset(_)(H)^( ** )` being the complex conjugate
+    of `vec underset(_)(H)`'
+  examples: []
+  id: 705-02-10
+  language_code: eng
+  notes:
+  - The real part of the complex Poynting vector is the average of the Poynting vector
+    during one cycle.
+  - The imaginary part of the complex Poynting vector is a vector of which, with certain
+    reservations, the direction may be considered as being that of reactive energy
+    propagation, and the magnitude may be regarded as the reactive power flux per
+    unit surface area perpendicular to this direction, with a sign assigned conventionally.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex Poynting vector
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 32a4a023-15a0-5a79-8fc0-95f6fc467503
+status: valid

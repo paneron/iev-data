@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: process in which a {{signal, IEV:701-01-02}} is sampled and the difference
+    between each {{sample, IEV:702-04-06}} and its predicted value derived from the
+    succession of previous samples or quantized values is {{quantized, IEV:351-41-13}},
+    and the resulting succession of quantized values is converted by {{encoding, IEV:702-05-13}}
+    into a {{digital signal, IEV:702-04-05}}
+  examples: []
+  id: 702-06-60
+  language_code: eng
+  notes:
+  - Differential pulse code modulation is an example of {{differential coding, IEV:723-10-47}}.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: differential pulse code modulation
+    normative_status: preferred
+    type: expression
+  - designation: DPCM
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 4c07c119-a6f7-5df6-80d3-f9b374252b08
+status: valid

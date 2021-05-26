@@ -1,0 +1,57 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: niveau, exprimé en décibels, égal à dix fois le logarithme décimal du
+    rapport de la surface de réverbération de l'objet à l'aire de référence sphérique
+    de `4 pi r_0^2` où `r`~0~ est la distance de référence, choisie de préférence
+    égale à 1 m
+  examples: []
+  id: 801-32-36
+  language_code: fra
+  notes:
+  - Quelle que soit l'aire de référence utilisée, elle doit être spécifiée.
+  - On peut définir de la même façon l'indice de diffusion d'un objet pour une direction
+    déterminée autre que vers l'arrière.
+  - Exprimé sous une autre forme, l'indice de réverbération d'un objet est le niveau
+    de pression acoustique correspondant au champ réverbéré qui existerait à la distance
+    de référence `r`~0~ du centre acoustique de l'objet diffusant, diminué du niveau
+    de pression acoustique correspondant à une onde plane venant frapper l'objet.
+  - 'Exprimée en symboles littéraux, la définition s''écrit:
+
+
+    `N_((ts)) = L_((SC)) - L_i = 10 (log)_((10)) ((A_((ob))))/((4 pi r_0^2)) dB`
+
+
+    où:
+
+
+    `N`~ts~ est l''indice de réverbération d''un objet
+
+
+    `L`~SC~ est le niveau de pression acoustique réverbérée à la distance de référence
+
+
+    `L`~i~ est le niveau de pression acoustique incidente
+
+
+    `A`~ob~ est la surface efficace de réverbération de l''objet
+
+
+    `r`~0~ est la distance de référence
+
+
+    `4 pi r_0^2` est la surface de référence pour l''indice de réverbération d''un
+    objet.'
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de réverbération d'un objet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: bee98454-7d16-5cd0-80f8-ac4453636454
+status: valid

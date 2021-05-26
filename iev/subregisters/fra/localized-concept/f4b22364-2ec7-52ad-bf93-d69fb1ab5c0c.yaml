@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: '1.27'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.27
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2010-01-01
+  definition: ensemble ordonné de valeurs de grandeurs d'une nature donnée, utilisé
+    pour classer des grandeurs de cette nature en ordre croissant ou décroissant de
+    leurs expressions quantitatives
+  examples: []
+  id: 112-01-36
+  language_code: fra
+  notes:
+  - 'Exemples: échelle des températures Celsius, échelle de temps ({{IEV 113-01-11,
+    IEV:113-01-11}}), échelle de dureté de Rockwell C.'
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: échelle de valeurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: échelle de mesure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: f4b22364-2ec7-52ad-bf93-d69fb1ab5c0c
+status: valid

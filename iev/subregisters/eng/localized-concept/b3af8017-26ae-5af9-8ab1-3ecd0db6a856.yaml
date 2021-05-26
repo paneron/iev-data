@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: curve which gives the relationship between the indicated value and the
+    value of the measurand
+  examples: []
+  id: 311-01-11
+  language_code: eng
+  notes:
+  - This term is used in the "uncertainty" approach.
+  - When the calibration curve is a straight line passing through zero, it is convenient
+    to refer to the slope which is known as the constant of the measuring instrument.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: calibration curve
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: b3af8017-26ae-5af9-8ab1-3ecd0db6a856
+status: valid

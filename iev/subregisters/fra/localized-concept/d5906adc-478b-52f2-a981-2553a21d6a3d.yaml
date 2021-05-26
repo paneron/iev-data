@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: 'ensemble d''appareils conservé au laboratoire du CCITT comprenant:
+    un système de transmission téléphonique subdivisé en système émetteur, ligne et
+    système récepteur; un appareillage commun destiné à fournir le bruit ambiant et
+    des dispositifs d''intercommunication; un appareillage d''étalonnage disposé de
+    façon à faciliter la maintenance correcte de l''ensemble'
+  examples: []
+  id: 722-16-22
+  language_code: fra
+  notes:
+  - L'ARAEN est décrit dans la Recommandation P41 du CCITT contenue dans le Tome V
+    du Livre Jaune, 1981.
+  - 'L''ARAEN est utilisé dans la constitution:
+
+
+    du nouveau système fondamental pour la détermination des équivalents de référence
+    ou NOSFER;
+
+
+    du système de référence pour la détermination des affaiblissements équivalents
+    pour la netteté ou SRAEN.'
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: appareil de référence pour la détermination des affaiblissements
+      équivalents pour la netteté
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ARAEN
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: d5906adc-478b-52f2-a981-2553a21d6a3d
+status: valid

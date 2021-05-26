@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-04-01
+  definition: '{{electric charge, IEV:113-02-10}} which a cell or battery can deliver
+    under specified discharge conditions'
+  examples: []
+  id: 482-03-14
+  language_code: eng
+  notes:
+  - The SI unit for electric charge is the coulomb (1 C = 1 A·s) but in practice,
+    capacity is usually expressed in ampere hours (A·h).
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacity
+    normative_status: preferred
+    type: expression
+    usage_info: for cells or batteries
+dateAccepted: 2020-04-01
+id: 6a1ef593-3488-5709-b5ac-01ea65066fbf
+status: valid

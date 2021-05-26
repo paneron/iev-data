@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: champ magnétique nécessaire pour ramener à une valeur nulle dans une
+    substance aimantée, l'induction magnétique, la polarisation magnétique ou l'aimantation
+  examples: []
+  id: 221-02-35
+  language_code: fra
+  notes:
+  - En représentation graphique, le champ coercitif correspond à une intersection
+    de l'axe des `H` avec la courbe d'aimantation (pour l'induction, la polarisation
+    ou l'aimantation).
+  - Le champ coercitif peut se rapporter à une courbe d'aimantation statique ou dynamique.
+    En l'absence d'une telle indication, il s'agit de la courbe statique.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: champ coercitif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: d6a1c6a6-c865-5b9d-b09f-372fa17e8405
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 712-02-56
+      original: 712-02-56
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1994-08-01
+  definition: quotient, généralement exprimé en unités logarithmiques, du gain isotrope
+    `G` d'une antenne par la température du bruit `T` de l'ensemble d'un récepteur
+    et de son antenne, rapportée aux bornes de celle-ci, à une fréquence et dans des
+    conditions d'installation et d'emploi spécifiées
+  examples: []
+  id: 725-13-19
+  language_code: fra
+  notes:
+  - Si la température de bruit est exprimée en kelvins et le gain en rapport de puissance,
+    la quantité 10 log `G`/`T` est exprimée avec une unité de mesure désignée par
+    le symbole dB (K^­1^), et parfois incorrectement par dBK.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de qualité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-08-01
+id: 7f77cea2-8c2c-58b8-b1d0-e5b4607f5de6
+status: valid

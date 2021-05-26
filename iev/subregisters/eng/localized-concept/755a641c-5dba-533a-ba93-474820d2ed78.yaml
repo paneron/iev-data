@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: 'modulus `A`(`t`) of the {{analytic signal, IEV:702-04-52}} corresponding
+    to the real signal `f`(`t`), written in the form: `f` (`t`) + j `g` (`t`) = `A`
+    (`t`) e^j`φ`(`t`)^'
+  examples: []
+  id: 702-04-54
+  language_code: eng
+  notes:
+  - When a modulated signal is represented by `E`(`t`)cos[2`πft` + `θ`(`τ`)] in which
+    `f` is substantially larger than the highest frequency of any significant spectral
+    component of the modulating signal, the envelope is approximately represented
+    by the curve `y` = ± `E`(`t`).
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude
+    normative_status: preferred
+    type: expression
+    usage_info: of a signal
+  - designation: envelope
+    normative_status: preferred
+    type: expression
+    usage_info: of a signal
+dateAccepted: 1992-03-01
+id: 755a641c-5dba-533a-ba93-474820d2ed78
+status: valid

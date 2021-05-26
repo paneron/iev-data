@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité du flux énergétique par rapport à l'angle solide dans une direction
+    spécifiée `I_e = ((d Phi_e))/((d omega))` où `Φ`~e~ est le flux énergétique émis
+    dans une direction spécifiée, et `Ω` est l'angle solide contenant cette direction
+  examples: []
+  id: 845-21-044
+  language_code: fra
+  notes:
+  - La définition s'applique strictement et uniquement à une <a href="IEV845-21-033">source
+    ponctuelle</a>.
+  - 'La répartition des intensités rayonnantes en fonction de la direction d''émission,
+    par exemple, donnée par les angles polaires (`ϑ`, `φ`), permet de déterminer le
+    flux énergétique, `Φ`~e~, selon un certain angle solide, `Ω`, d''une source:
+
+
+    `Phi_e = underset(omega)( ∬ ) I_e ( vartheta , phi ) sin vartheta d phi \ d vartheta`.'
+  - La grandeur photométrique correspondante est l'"intensité lumineuse". La grandeur
+    correspondante pour les photons est l'"intensité photonique".
+  - L'intensité énergétique est exprimée en watt par stéradian (W·sr^−1^).
+  - Cet article était numéroté 845-01-30 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité énergétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 42781b18-1bf9-54a5-8f7b-9eec783e383a
+status: valid

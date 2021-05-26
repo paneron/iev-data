@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: définition 55
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 55, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: fraction d'un faisceau parallèle d'un rayonnement déterminé, supprimée
+    par atténuation au cours du passage à travers une mince couche d'épaisseur Δ`x`
+    de substance, divisé par cette épaisseur
+  examples: []
+  id: 395-01-24
+  language_code: fra
+  notes:
+  - Le coefficient d'atténuation est fonction de l’énergie du rayonnement.
+  - Selon que Δ`x` est exprimé par une longueur, une masse surfacique, une quantité
+    de matière surfacique ou un nombre d’atomes surfacique, `μ` est appelé coefficient
+    d’atténuation linéique, massique, molaire ou atomique.
+  - Cet article était numéroté 393-14-41 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d’atténuation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8e8df879-80dd-55b7-b614-8bddea6f6481
+status: valid

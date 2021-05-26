@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: adresse d'un ordinateur hôte utilisée dans le protocole IP
+  examples: []
+  id: 732-07-06
+  language_code: fra
+  notes:
+  - 'L’adresse IP correspond à un nom de domaine complet. Actuellement, elle consiste
+    en 32 bits. Elle est généralement représentée par une suite de quatre nombres
+    décimaux (chacun dans la gamme de 0 à 255), séparés par des points. L’adresse
+    IP d’un ordinateur comprend généralement deux parties: une partie correspondant
+    au numéro de réseau du réseau sur lequel cet ordinateur est situé, et une partie
+    identifiant l’ordinateur à l’intérieur de ce réseau. Dans la nouvelle version
+    IPv6 du protocole IP, l''adresse IP consiste en 128 bits.'
+  - Le protocole IP n’est pas restreint à l’Internet et peut être utilisé sur d’autres
+    réseaux.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse IP
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: numéro IP
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: a1acb762-40bb-5050-b898-b5a7d1d79b32
+status: valid

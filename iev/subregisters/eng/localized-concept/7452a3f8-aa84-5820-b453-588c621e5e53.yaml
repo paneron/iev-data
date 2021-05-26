@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: facility to enter {{data, IEV:171-01-02}} into a {{storage device, IEV:171-04-14}}
+    in the same sequence as the data are ordered, or to obtain data in the same order
+    as they have been entered
+  examples: []
+  id: 171-04-34
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sequential access
+    normative_status: preferred
+    type: expression
+  - designation: serial access
+    type: expression
+dateAccepted: 2019-03-01
+id: 7452a3f8-aa84-5820-b453-588c621e5e53
+status: valid

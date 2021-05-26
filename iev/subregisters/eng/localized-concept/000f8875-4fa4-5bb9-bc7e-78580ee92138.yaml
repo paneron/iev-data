@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: in a set where a multiplication is defined, unique element `u`, if it
+    exists, such that `a * u = u * a = a` for any element `a`
+  examples: []
+  id: 102-01-19
+  language_code: eng
+  notes:
+  - For numbers, the neutral element for multiplication is the number one, denoted
+    by 1. For square matrices, it is the unit matrix of the same order. For quantities,
+    the neutral element is a quantity of dimension one (or dimensionless quantity)
+    whose numerical value is the number one. For {{dimensions of quantities, IEV:112-01-11}},
+    the neutral element is the dimension of the quantities of dimension one, denoted
+    by the symbol 1.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: neutral element
+    normative_status: preferred
+    type: expression
+    usage_info: for multiplication
+dateAccepted: 2008-08-01
+id: 000f8875-4fa4-5bb9-bc7e-78580ee92138
+status: valid

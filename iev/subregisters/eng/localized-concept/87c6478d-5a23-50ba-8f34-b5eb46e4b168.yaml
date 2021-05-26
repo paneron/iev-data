@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: ratio of the luminous output of a source evaluated according to the
+    CIE scotopic <a href="IEV845-21-035">spectral luminous efficiency</a>, `V′`(`λ`),
+    to the luminous output evaluated according to the CIE photopic spectral luminous
+    efficiency, `V`(`λ`)
+  examples: []
+  id: 845-21-113
+  language_code: eng
+  notes:
+  - 'The S/P ratio can be expressed by
+
+
+    `R_((SP)) = ((K^( '' )_m int_0^(oo) S ( lambda ) V^( '' ) ( lambda ) d lambda))/((K_m
+    int_0^(oo) S ( lambda ) V ( lambda ) d lambda))`
+
+
+    where `K`′~m~ ≈ 1 700 lm·W^−1^ is the maximum luminous efficacy for scotopic vision,
+    `K`~m~ ≈ 683 lm·W^−1^ is the maximum luminous efficacy for photopic vision, `S`(`λ`)
+    is the <a href="IEV845-21-030">relative spectral distribution</a> of the source,
+    and `λ` is the wavelength.'
+  - The S/P ratio has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: S/P ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`R`~SP~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 87c6478d-5a23-50ba-8f34-b5eb46e4b168
+status: valid

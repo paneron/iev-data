@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{signal, IEV:171-01-03}} in which the characteristic carrying information
+    can assume any value within a continuous interval of values'
+  examples: []
+  id: 171-01-09
+  language_code: eng
+  notes:
+  - A continuous value signal can be a {{continuous-time signal, IEV:171-01-10}},
+    and therefore an {{analogue signal, IEV:171-01-14}}, or a {{discretely timed signal,
+    IEV:171-01-12}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: continuous-value signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 4ead103f-53b0-5029-9aba-52c231fc1df3
+status: valid

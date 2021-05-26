@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fréquence d'une perturbation électromagnétique qui suscite une réponse
+    non désirée d'un équipement donné
+  examples: []
+  id: 161-06-06
+  language_code: fra
+  notes:
+  - 'Dans le cas d''un récepteur réglé sur une fréquence `f`~0~, les formules suivantes
+    donnent de nombreuses fréquences parasites possibles `f`~s~:
+
+
+    `f_s = (1)/(m) ( n f_L +- f_I )`
+
+
+    ou
+
+
+    `f_s = ((f_0))/(h)`
+
+
+    où
+
+
+    `f`~L~ est la fréquence de l''oscillateur local,
+
+
+    `f`~I~ est la fréquence intermédiaire,
+
+
+    `m`, `n`, et `h` sont des entiers.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence parasite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4781f638-eaec-507f-ab0a-c8b7348cc33f
+status: valid

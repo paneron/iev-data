@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{energizing quantity, IEV:447-03-01}} that is provided as the source
+    of auxiliary power to a {{measuring relay, IEV:447-01-02}} or {{protection equipment,
+    IEV:447-01-49}}'
+  examples: []
+  id: 447-03-05
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: auxiliary power supply quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 160527df-a575-5fe1-90c8-772bc1de95d6
+status: valid

@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: the ratio of the total noise power appearing at the output of a given
+    linear two port device within a specified frequency band, to the portion of this
+    power originating from the one-port device connected to the input of the two port
+    device, the noise temperature of the one-port device being assumed equal at all
+    frequencies to the reference thermodynamic temperature conventionally fixed around
+    290 K
+  examples: []
+  id: 702-08-59
+  language_code: eng
+  notes:
+  - 'The mean noise factor `bar F` is related to the mean noise temperature `T` as
+    follows:
+
+
+    `bar F = 1 + (bar T)/((T_0))`
+
+
+    where `T`~0~ is the reference thermodynamic temperature.'
+  - The value of the mean noise factor may be expressed in decibels. In English the
+    term "noise factor" is generally employed when the ratio is expressed arithmetically
+    and "noise figure" is employed when the ratio is expressed in decibels.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (mean) noise factor
+    normative_status: preferred
+    type: expression
+  - designation: (mean) noise figure
+    normative_status: preferred
+    type: expression
+  - designation: '`bar F`'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: cf17feb5-54dd-5225-949b-c15e811215df
+status: valid

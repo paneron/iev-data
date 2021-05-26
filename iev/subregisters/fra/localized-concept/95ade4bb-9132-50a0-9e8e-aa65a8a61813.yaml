@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: composant d'une {{cellule élémentaire à combustible, IEV:485-08-01}},
+    habituellement {{pile à combustible à électrolyte polymère, IEV:485-08-08}} ou
+    {{pile à combustible à méthanol direct, IEV:485-08-05}}, comprenant une membrane
+    d'électrolyte avec des {{électrodes de diffusion du gaz, IEV:485-02-02}} de chaque
+    côté ou d'une {{membrane revêtue d'un catalyseur, IEV:485-04-03}} avec une {{couche
+    de diffusion du gaz, IEV:485-04-05}} de chaque côté
+  examples: []
+  id: 485-04-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: assemblage membrane-électrode
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MEA
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 95ade4bb-9132-50a0-9e8e-aa65a8a61813
+status: valid

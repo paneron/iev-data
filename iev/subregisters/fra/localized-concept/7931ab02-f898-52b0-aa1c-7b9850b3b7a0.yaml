@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'critère caractérisant le degré de rugosité d''une surface, pour une
+    onde électromagnétique sinusoïdale d''angle d''inclinaison donné, par la valeur
+    de la quantité: `((h sin theta))/(lambda)` où: `h` est la hauteur moyenne des
+    irrégularités de la surface, `θ` est l''angle d''inclinaison par rapport à la
+    surface moyenne, `λ` est la longueur d''onde'
+  examples: []
+  id: 705-04-15
+  language_code: fra
+  notes:
+  - 'Dans la pratique, la rugosité est négligeable et la surface est considérée comme
+    lisse si:
+
+
+    `((h sin theta))/(lambda) (1)/((1 0 0))`'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critère de Rayleigh
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 7931ab02-f898-52b0-aa1c-7b9850b3b7a0
+status: valid

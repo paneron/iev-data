@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 605-02-33
+      original: 605-02-33 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-04-08
+      original: 826-04-08 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: terminal or busbar which is part of the earthing arrangement of an installation
+    and enabling the electric connection of a number of conductors for earthing purposes
+  examples: []
+  id: 195-02-33
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: main earthing terminal
+    normative_status: preferred
+    type: expression
+  - designation: main earthing busbar
+    type: expression
+  - designation: main grounding terminal
+    type: expression
+  - designation: main grounding busbar
+    type: expression
+dateAccepted: 1998-08-01
+id: 3750405f-7f7d-594f-9cd4-76da4a05620a
+status: valid

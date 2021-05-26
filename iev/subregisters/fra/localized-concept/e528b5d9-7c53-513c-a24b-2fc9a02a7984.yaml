@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: vecteur *`k`* dans l'expression `omega t - k * r + vartheta_0` de la
+    phase d'une onde sinusoïdale
+  examples: []
+  id: 103-10-09
+  language_code: fra
+  notes:
+  - Le vecteur d'onde est normal à la surface d'onde et sa norme est le nombre d'onde
+    angulaire.
+  - Le concept peut être généralisé à un vecteur d'onde complexe pour tenir compte
+    de l'affaiblissement (voir IEC 60050-705).
+  reviewDecisionEvent: published
+  terms:
+  - designation: vecteur d'onde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e528b5d9-7c53-513c-a24b-2fc9a02a7984
+status: valid

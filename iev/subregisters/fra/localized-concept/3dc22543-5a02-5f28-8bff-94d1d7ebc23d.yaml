@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour deux fonctions à valeurs complexes, `underset(_)(f)` et `underset(_)(g)`,
+    définies sur l'intervalle `a , b` de ℝ, nombre complexe `〈 underset(_)(f) , underset(_)(g)
+    〉 = int_( a)^( b) underset(_)(f) ( x ) underset(_)(g)^( ** ) ​ ( x ) w ( x ) d
+    x`, où `w`(`x`) est une fonction réelle de `x` appelée poids
+  examples: []
+  id: 103-01-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit interne pondéré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3dc22543-5a02-5f28-8bff-94d1d7ebc23d
+status: valid

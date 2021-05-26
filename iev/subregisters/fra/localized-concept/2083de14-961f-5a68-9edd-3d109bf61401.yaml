@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: répartition en fonction de la fréquence de la puissance par unité de
+    largeur de bande des composantes spectrales d'un signal ou d'un bruit à spectre
+    continu et de puissance moyenne finie
+  examples: []
+  id: 702-04-50
+  language_code: fra
+  notes:
+  - La puissance instantanée d'un signal ou d'un bruit est par convention égale au
+    carré de sa valeur instantanée. Ce carré est proportionnel à une puissance physique,
+    si la grandeur caractéristique est une grandeur de champ.
+  - La densité spectrale de puissance est la transformée de Fourier de la fonction
+    d'autocorrélation du signal ou du bruit. La fonction d'autocorrélation d'un signal
+    certain existe si le signal est de puissance moyenne finie. La fonction d'autocorrélation
+    d'un signal aléatoire ou d'un bruit aléatoire existe s'il est représenté par une
+    fonction aléatoire stationnaire du deuxième ordre.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité spectrale de puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DSP
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: puissance spectrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 2083de14-961f-5a68-9edd-3d109bf61401
+status: valid

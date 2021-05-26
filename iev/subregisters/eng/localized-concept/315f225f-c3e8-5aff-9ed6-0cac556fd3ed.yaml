@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: for a given telecommunication network user, the desire to establish
+    a call to a given user, terminal or service
+  examples: []
+  id: 715-03-03
+  language_code: eng
+  notes:
+  - A call intent is normally manifested by one or more call attempts. However, call
+    attempts may be suppressed or delayed by the user, e.g. if he expects a poor quality
+    of service at a particular time.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: call intent
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 315f225f-c3e8-5aff-9ed6-0cac556fd3ed
+status: valid

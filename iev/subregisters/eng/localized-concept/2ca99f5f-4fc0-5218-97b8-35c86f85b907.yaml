@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: logarithm to base 10 of the reciprocal of the reflectance, `ρ` `Dρ`
+    = −log~10~ `ρ`
+  examples: []
+  id: 845-24-071
+  language_code: eng
+  notes:
+  - The reflectance optical density has unit one.
+  - This entry was numbered 845-04-65 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reflectance optical density
+    normative_status: preferred
+    type: expression
+  - designation: reflectance density
+    type: expression
+  - designation: '`Dρ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 2ca99f5f-4fc0-5218-97b8-35c86f85b907
+status: valid

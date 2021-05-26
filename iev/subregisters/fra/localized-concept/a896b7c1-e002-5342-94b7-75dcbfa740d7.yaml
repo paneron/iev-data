@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble des points d'un espace affine à trois dimensions dont le rayon
+    vecteur est une fonction continue *`f`* des couples de nombres réels `u` et `v`
+    appartenant à un certain domaine U `r = f ( u , v )` où `( u , v ) in U sube R^2`
+  examples: []
+  id: 102-04-31
+  language_code: fra
+  notes:
+  - Une surface peut aussi être engendrée par une famille de courbes dépendant d'un
+    paramètre ou, dans un espace à trois dimensions, être définie algébriquement par
+    l'équation `f ( x , y , z ) = 0`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a896b7c1-e002-5342-94b7-75dcbfa740d7
+status: valid

@@ -1,0 +1,24 @@
+data:
+  identifier: 721-02-18
+  localizedConcepts:
+    ara: bfd5fcea-d232-5f69-82ec-a7bc4bd0db0a
+    deu: 3198344a-cc0c-5f33-b84c-d93ea7de4ae4
+    eng: cc38ec94-5f37-5974-84e1-8e607ec68353
+    fra: 3ca40326-33b6-50a5-970c-1a5fce79e1d7
+    ita: 606ff578-e7c4-5df2-89a5-f484ba1908d6
+    jpn: 4454bbce-9d0d-56f9-8a75-da587632e8ce
+    kor: 82be3ef7-f3a7-5f36-b1d3-9d2346f5c350
+    pol: f1357a85-3185-5e3a-a65d-b824b715720d
+    por: 76d1b4a2-d2e3-5186-84a6-f44a5bca6040
+    spa: 15c9ec0f-501d-50c0-835b-187d28b180e3
+    swe: 11bff58d-571e-534e-b1d6-f38457bd62a9
+    zho: cef76f5b-ecf3-5009-b6c9-a7a4157f3db4
+dateAccepted: 2018-11-17
+id: 86e7b000-c6d9-5245-b4e7-274c864f5865
+related:
+- ref:
+    id: 721-02-18
+    source: IEV
+    version: 1991-11
+  type: supersedes
+status: valid

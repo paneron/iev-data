@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: architecture d'un système de sécurité intrinsèque qui est alimenté par
+    un bus de terrain et conçu conformément aux exigences spécifiques
+  examples: []
+  id: 426-11-53
+  language_code: fra
+  notes:
+  - 'Les exigences sont spécifiées dans l''IEC 61158-2, _Réseaux de communication
+    industriels – Spécifications des bus de terrain – Partie 2: Spécification et définition
+    des services de la couche physique_.'
+  - Le terme abrégé " FISCO" est dérivé du terme anglais développé correspondant "Fieldbus
+    Intrinsically Safe Concept".
+  reviewDecisionEvent: published
+  terms:
+  - designation: FISCO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Concept de Réseau de Terrain de Sécurité Intrinsèque
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 60b2d620-4cf3-56f0-b685-1805f3826400
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: admittance of a network seen at the terminals of an output port, when
+    all other ports are connected to specified terminating immittances
+  examples: []
+  id: 131-14-12
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: output admittance
+    normative_status: preferred
+    type: expression
+  - designation: <u>`Y`</u>~2~
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: a3e4c9f1-3ff0-5f5e-9827-578df75b65d0
+status: valid

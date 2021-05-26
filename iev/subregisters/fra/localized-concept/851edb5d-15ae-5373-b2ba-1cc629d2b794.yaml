@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: inverse du {{facteur de qualité, IEV:151-15-45}} `Q` d'un bipôle, élémentaire
+    on non, ou d'un circuit résonant `d`=1/`Q`
+  examples: []
+  id: 151-15-47
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de dissipation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de perte
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 851edb5d-15ae-5373-b2ba-1cc629d2b794
+status: valid

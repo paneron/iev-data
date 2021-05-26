@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: equivalent resistance of a piezoelectric resonator in series with a
+    stated load capacitance at the load resonance frequency `f`~L~
+  examples: []
+  id: 561-01-43
+  language_code: eng
+  notes:
+  - This entry was numbered 561-02-30 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load resonance resistance
+    normative_status: preferred
+    type: expression
+  - designation: '`R`~L~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: b30ccd5a-f46c-5e3f-a250-6c099ab38f18
+status: valid

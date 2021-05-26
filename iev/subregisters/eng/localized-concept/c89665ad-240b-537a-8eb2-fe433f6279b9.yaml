@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: scalar potential of an irrotational magnetic field strength
+  examples: []
+  id: 121-11-58
+  language_code: eng
+  notes:
+  - The negative of the gradient of the scalar magnetic potential is the irrotational
+    magnetic field strength.
+  - The scalar magnetic potential is not unique since any constant scalar quantity
+    can be added to a given scalar magnetic potential without changing its gradient.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar magnetic potential
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: c89665ad-240b-537a-8eb2-fe433f6279b9
+status: valid

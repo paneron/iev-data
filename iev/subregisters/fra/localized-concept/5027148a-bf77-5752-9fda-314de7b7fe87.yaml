@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: élément de la suite illimitée {0, 1, 2, 3,...}
+  examples: []
+  id: 102-02-01
+  language_code: fra
+  notes:
+  - Les opérations d'addition et de multiplication sont définies pour tout couple
+    de nombres entiers naturels.
+  - Il existe un ordre total sur l'ensemble des nombres entiers naturels.
+  - L'ensemble des entiers naturels est noté ℕ (N avec la barre oblique doublée) ou
+    *N*, ou parfois N avec la barre verticale gauche doublée. L'ensemble sans zéro
+    est noté en ajoutant un astérisque au symbole, par exemple ℕ*.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre entier naturel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: entier naturel
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5027148a-bf77-5752-9fda-314de7b7fe87
+status: valid

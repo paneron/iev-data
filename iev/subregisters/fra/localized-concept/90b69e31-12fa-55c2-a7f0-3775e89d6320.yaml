@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - link: https://www.iso.org/standard/2338.html
+      original: ISO 140/7
+      ref: ISO 140-7
+      relationship:
+        type: identical
+  dateAmended: 1994-07-01
+  definition: pour une bande de fréquences spécifiée, niveau du bruit de choc, ехрrimé
+    en décibels, diminué de dix fois le logarithme décimal du rapport de la durée
+    de réverbération de la salle de réception à la durée de réverbération de référence
+    de 0,5 secondes
+  examples: []
+  id: 801-31-43
+  language_code: fra
+  notes: []
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau du bruit de choc normalisé `in situ`
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 90b69e31-12fa-55c2-a7f0-3775e89d6320
+status: valid

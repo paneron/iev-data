@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: physical arrangement of contiguous detector elements to sense locally
+    resolved signals
+  examples:
+  - CCD array, photodiode array, CMOS array.
+  id: 845-25-051
+  language_code: eng
+  notes:
+  - A typical application of an array detector is to sense the local resolved output
+    of a polychromator.
+  - In some cases, optical components can form a part of the array as in, for example,
+    a fibre optics faceplate coupled array detector.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: array detector
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: e9e31d47-ee83-5127-936c-a2a4b1e1ae98
+status: valid

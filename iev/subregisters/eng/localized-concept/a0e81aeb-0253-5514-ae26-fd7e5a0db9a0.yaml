@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '3.7'
+      original: ≈ VIM 3.7
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  dateAmended: 2001-07-01
+  definition: 'closeness of agreement between the results of measurements of the same
+    value of a quantity, when the individual measurements are made under different
+    conditions of measurement: – principle of measurement, – method of measurement,
+    – observer, – measuring instruments, – reference standards, – laboratory, – under
+    conditions of use of the instruments, different from those customarily used, –
+    after intervals of time relatively long compared with the duration of a single
+    measurement.'
+  examples: []
+  id: 311-06-07
+  language_code: eng
+  notes:
+  - The concepts of "principle of measurement" and "method of measurement" are respectively
+    defined in VIM 2.3 and 2.4.
+  - The term "reproducibility" also applies to the instance where only certain of
+    the above conditions are taken into account, provided that these are stated.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reproducibility (of measurements)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: a0e81aeb-0253-5514-ae26-fd7e5a0db9a0
+status: valid

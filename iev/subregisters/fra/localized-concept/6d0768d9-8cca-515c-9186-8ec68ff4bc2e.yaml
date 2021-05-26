@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: l'un des éléments d'un ensemble de deux éléments employé pour représenter
+    des {{informations, IEV:701-01-01}}
+  examples: []
+  id: 702-05-03
+  language_code: fra
+  notes:
+  - Le terme "élément unitaire" est défini en {{IEV 721-02-33, IEV:721-02-33}}  et
+    le terme “moment” est utilisé en télégraphie (voir {{IEV 721-03-24, IEV:721-03-24}}
+    et {{IEV 721-03-25, IEV:721-03-25}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément binaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: digit
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: élément unitaire, m
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: 'DÉCONSEILLÉ: moment'
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6d0768d9-8cca-515c-9186-8ec68ff4bc2e
+status: valid

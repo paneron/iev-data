@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-03
+      original: 705-03-03 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: scalar or tensor quantity equal to the absolute permittivity divided
+    by the electric constant
+  examples: []
+  id: 121-12-13
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative permittivity
+    normative_status: preferred
+    type: expression
+  - designation: dielectric constant
+    type: expression
+  - designation: '`ε`~r~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: af880ced-8247-52c7-bf1b-e06d5bed4b37
+status: valid

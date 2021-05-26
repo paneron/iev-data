@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{input device, IEV:171-04-36}} comprising a number of captioned pushbuttons,
+    each of which can cause a discrete signal or an action when pressed or touched'
+  examples: []
+  id: 171-04-38
+  language_code: eng
+  notes:
+  - A keyboard can be simulated on a screen area, where the virtual pushbuttons are
+    activated by a {{pointing device, IEV:171-04-40}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: keyboard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 0fb6faff-1639-5893-856e-6872856bc1ba
+status: valid

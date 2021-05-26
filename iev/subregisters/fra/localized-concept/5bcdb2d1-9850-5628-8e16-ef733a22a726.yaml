@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: processus automatique de détection, contrôle et correction d'un état
+    interne erroné
+  examples: []
+  id: 192-10-16
+  language_code: fra
+  notes:
+  - La reprise sur erreur a pour objet d’éviter une défaillance de l’ensemble du système,
+    suite à une défaillance de l’un de ses sous-systèmes ou composants.
+  - Voir aussi reprise sur erreur par régression ({{192-10-17, IEV:192-10-17}}) et
+    reprise sur erreur par progression ({{192-10-18, IEV:192-10-18}}).
+  - Une reprise sur erreur s’appuie souvent sur la redondance et la diversité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: reprise sur erreur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5bcdb2d1-9850-5628-8e16-ef733a22a726
+status: valid

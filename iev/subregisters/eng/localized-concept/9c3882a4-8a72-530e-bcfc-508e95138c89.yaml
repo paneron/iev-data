@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.3
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.2.3
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: RMS value of the vector sum of the instantaneous values of the currents
+    flowing through the main circuit of the residual current device
+  examples: []
+  id: 442-05-19
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: residual current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~Δ~'
+    international: true
+    type: symbol
+dateAccepted: 2019-05-01
+id: 9c3882a4-8a72-530e-bcfc-508e95138c89
+status: valid

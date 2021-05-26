@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: nombre d'informations distinctes qu'un système de téléconduite peut
+    prendre en compte, tant au niveau du poste de conduite que des postes satellites
+  examples: []
+  id: 371-08-13
+  language_code: fra
+  notes:
+  - La capacité en informations est souvent exprimée par le nombre de commandes et
+    le volume d'informations de surveillance qui peuvent être prises en compte.
+  - La capacité en informations d'un équipement de téléconduite au niveau du poste
+    de conduite peut être partagée entre plusieurs postes satellites.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité en informations
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 8816ffcd-f807-5763-9571-7d6ccd68d192
+status: valid

@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir {{IEV 161-01-13, IEV:161-01-13}}
+  examples: []
+  id: 713-11-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: perturbation radioélectrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: parasite radioélectrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: perturbation radio
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: parasite radio, m
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: radioélectrique
+  - designation: parasite
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: radioélectrique
+dateAccepted: 2018-11-17
+id: 6ea85964-1952-5951-b30a-04f7bc9ce2ab
+status: valid

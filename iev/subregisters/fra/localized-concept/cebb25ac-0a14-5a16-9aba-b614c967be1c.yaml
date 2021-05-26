@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: pour un système linéaire invariant dans le temps décrit par l'équation
+    différentielle du deuxième ordre `((d^2 x))/((d t^2)) + 2 * vartheta * omega_0
+    * ((d x))/((d t)) + omega_0^2 * x = 0` la valeur du coefficient `vartheta`, où
+    <table> <tr> <td>`t`</td> <td>est le temps;</td> </tr> <tr> <td>`x`</td> <td>est
+    une variable d'état du système;</td> </tr> <tr> <td> `ω`~0~ </td> <td>est la pulsation
+    caractéristique du système</td> </tr> </table>
+  examples: []
+  id: 351-45-19
+  language_code: fra
+  notes:
+  - Quand `vartheta 1`, `omega_d = omega_0 * sqrt(1 - vartheta^2)` est la pulsation
+    propre du système
+  - Cet article était numéroté 351-24-18 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux d'amortissement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: cebb25ac-0a14-5a16-9aba-b614c967be1c
+status: valid

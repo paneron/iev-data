@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-11-01
+  definition: strain defined as `ε`~e~ = ln(`l/l`~0~) on the tensile test, where `l`~0~
+    and `l` are the specimen lengths before and after straining
+  examples: []
+  id: 815-17-01
+  language_code: eng
+  notes: []
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: natural engineering strain
+    normative_status: preferred
+    type: expression
+  - designation: natural strain
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`~e~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: dd0c2801-d328-5fd6-9f67-55aee18a4f90
+status: valid

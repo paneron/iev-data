@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: compression sur l'axe des temps des signaux analogiques de luminance
+    et de chrominance, ou du signal d'image-couleur composite, sans modification de
+    la période de ligne correspondant à ces signaux
+  examples: []
+  id: 723-05-97
+  language_code: fra
+  notes:
+  - Les signaux comprimés peuvent êtrе placés dans une partie quelconque de la période
+    de ligne, et la place rendue disponible peut être utilisée pour d'autres signaux.
+  - La compression augmente la largeur de bande nécessaire à la transmission du signal
+    analogique.
+  - 'Terme associé: comprimer dans le temps.'
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: compression temporelle (analogique)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: b9fb41ac-7953-58f7-804d-9c1cbbce8be0
+status: valid

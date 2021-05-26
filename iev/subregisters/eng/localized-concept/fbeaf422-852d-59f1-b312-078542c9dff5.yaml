@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{outage, IEV:692-04-02}} scheduled in advance image::/assets/images/parts/692/692-fig4-en.png[Figure
+    4 - Outage relationships]'
+  examples: []
+  id: 692-04-03
+  language_code: eng
+  notes:
+  - A planned outage is usually for maintenance purposes.
+  - This entry was numbered 603-05-07 in IEC 60050-603:1986.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: planned outage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: fbeaf422-852d-59f1-b312-078542c9dff5
+status: valid

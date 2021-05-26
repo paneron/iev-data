@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 701-03-01
+      original: 701-03-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: association de voies de transmission ou de circuits de télécommunication,
+    d'organes de commutation et d'autres unités fonctionnelles, établie en vue de
+    permettre un transfert de signaux dans un réseau, entre deux points ou plus, au
+    service d'une seule communication
+  examples: []
+  id: 716-03-01
+  language_code: fra
+  notes: []
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: connexion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: chaîne de connexion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 4e990060-47b0-57dd-bc73-a8a817f49e7e
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: durée minimale qui doit séparer deux événements pour que les données
+    chronologiques correspondantes soient différentes
+  examples: []
+  id: 371-05-03
+  language_code: fra
+  notes:
+  - Le temps de résolution ne peut pas être plus court que le temps de discrimination
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de résolution
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: finesse de la chronologie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 9fd31040-4563-5112-ab42-668e1981b9db
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: 'grandeur définie par: `Phi = K_m int_0^(oo) V ( lambda ) P ( lambda
+    ) d lambda` où: `P`(`λ`) est la puissance spectrique rayonnée par la source à
+    la longueur d''onde `λ`; `V`(`λ`) est l''efficacité lumineuse relative spectrale
+    en vision photoptique; `K`~m~ est une constante'
+  examples: []
+  id: 723-08-27
+  language_code: fra
+  notes:
+  - Dans le système d'unités SI, où `P`(`λ`) est exprimé en watts par mètre, le flux
+    lumineux `Ф` s'exprime en lumens, et `K`~m~ = 683 lm/W.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux lumineux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 114dbebe-11e2-5468-8218-5fe3f99c762f
+status: valid

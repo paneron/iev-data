@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: événement par lequel une panne dormante donne lieu à une erreur
+  examples: []
+  id: 192-03-21
+  language_code: fra
+  notes:
+  - Une panne dormante devient active en réponse à un déclencheur ({{192-03-23, IEV:192-03-23}})
+    particulier et peut redevenir dormante après suppression du déclencheur.
+  - L’erreur ainsi générée peut se propager et donner lieu à une défaillance observée
+    à la frontière du système, sauf si une reprise sur erreur ({{192-10-16, IEV:192-10-16}})
+    l’empêche.
+  reviewDecisionEvent: published
+  terms:
+  - designation: activation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une panne dormante
+dateAccepted: 2018-11-17
+id: 584b69c5-8fea-5b31-a26a-b6dcfa978370
+status: valid

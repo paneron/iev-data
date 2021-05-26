@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un bipôle capacitif de bornes A et B, quotient de la charge électrique
+    `q` en A par la tension électrique ({{131-11-56, IEV:131-11-56}}) `u`~AB~ entre
+    les bornes `C = (q)/((u_((AB))))` où le signe de la charge électrique est déterminé
+    en prenant, dans l'intégrale par rapport au temps qui définit cette charge, le
+    courant électrique positif si le sens du courant est de A vers B et négatif si
+    son sens est de B vers A
+  examples: []
+  id: 131-12-13
+  language_code: fra
+  notes:
+  - Une capacité ne peut pas être négative.
+  - L’unité SI cohérente de capacité est le farad, F.
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a31e8acd-b22c-58ec-9bcf-7066dac79153
+status: valid

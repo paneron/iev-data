@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: élément d'un ensemble d'entités mathématiques qui contient tous les
+    nombres entiers et d'autres entités, dont chacune est définie comme le quotient
+    de deux entiers, de sorte que la division est définie pour tout couple d'entités,
+    sauf zéro comme diviseur
+  examples: []
+  id: 102-02-03
+  language_code: fra
+  notes:
+  - Chacun des couples ordonnés 2/1, 4/2, 6/3, ..., −2/(−1), −4/(−2), ... représente
+    le nombre rationnel identifié au nombre entier naturel 2. Chacun des couples ordonnés
+    2/3, 4/6, 6/9, ... −2/(−3), −4/(−6), ... représente le nombre rationnel qui est
+    le quotient de l'entier naturel 2 par l'entier naturel 3, noté aussi "0,666 6...".
+  - Les opérations d'addition, de soustraction, de multiplication et de division,
+    sauf la division par zéro, sont définies pour tout couple de nombres rationnels.
+    Tout nombre rationnel a un opposé. Tout nombre rationnel non nul a un inverse.
+  - Il existe un ordre total sur l'ensemble des nombres rationnels.
+  - Dans la représentation décimale d'un nombre rationnel autre qu'un entier, la suite
+    des chiffres après le signe décimal est soit finie, soit répétée périodiquement
+    après une certaine position.
+  - L'ensemble des rationnels est noté ℚ (Q avec des barres verticales dans les arcs
+    gauche et droit) ou *Q*, ou parfois Q avec une barre verticale dans l'arc gauche.
+    L'ensemble sans zéro est noté en ajoutant un astérisque au symbole, par exemple
+    ℚ*.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre rationnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rationnel
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: afe7e245-8ae6-5823-a195-adfe3a8f0545
+status: valid

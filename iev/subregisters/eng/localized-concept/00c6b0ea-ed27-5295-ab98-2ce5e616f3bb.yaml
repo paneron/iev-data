@@ -1,0 +1,50 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: 'distribution, defined as the limit of a positive function, equal to
+    zero outside a small interval containing the origin, the integral of which remains
+    equal to one when this interval tends to zero `delta ( t ) = { [[0],[oo],[0]]
+    [[ for t 0],[ for t = 0],[ for t > 0]] with int_((- oo))^((+ oo)) delta ( t )
+    d t = 1` SEE: Figure 4a) and IEC 60027-6.'
+  examples: []
+  id: 351-45-20
+  language_code: eng
+  notes:
+  - 'A distribution assigns a number to any function `f`(`t`), sufficiently smooth
+    for `t` = `t`~0~ [see CEI 60050-103:2009, 103-03-05].
+
+
+    The Dirac impulse does this according to
+
+
+    `f ( t_0 ) = int_((- oo))^(oo) delta ( t - t_0 ) f ( t ) d t`.'
+  - 'Any shape with area 1 may be used for the definition of δ(`t`), e.g. a rectangular
+    pulse with width `τ` and height `τ`^–1^, or a triangular pulse, as shown in Figure
+    4a), as well as a Gaussian function
+
+
+    `(1)/((tau * sqrt(pi))) * e^(- ((t^2))/((tau^2)))`.'
+  - Any of the shapes mentioned in Note 2 to entry with `τ` much smaller than the
+    smallest time constant at work in the system under consideration may be used for
+    a technical approximation of the Dirac impulse.
+  - In control technology the Dirac function is mainly important for the definition
+    of impulses and exclusively used as a function of time. Therefore the term Dirac
+    impulse is used and the definition is adapted accordingly.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit impulse
+    normative_status: preferred
+    type: expression
+  - designation: Dirac impulse
+    normative_status: preferred
+    type: expression
+  - designation: δ(`t`)
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 00c6b0ea-ed27-5295-ab98-2ce5e616f3bb
+status: valid

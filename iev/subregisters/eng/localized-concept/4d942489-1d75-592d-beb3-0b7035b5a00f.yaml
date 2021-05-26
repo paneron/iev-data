@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: time relay including two delayed outputs switching one after the other,
+    for starting of motors in the star mode and subsequent change to the delta mode
+    (see Figure 6) image::/assets/images/parts/445/445-01-09en.gif[]
+  examples: []
+  id: 445-01-09
+  language_code: eng
+  notes:
+  - – The star and delta connections are defined in IEV 141-02-06 and IEV 141-02-09
+    respectively.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: star-delta relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: 4d942489-1d75-592d-beb3-0b7035b5a00f
+status: valid

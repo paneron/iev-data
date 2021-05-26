@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: real vector space or real point space for which a scalar product is
+    defined for any two vectors
+  examples: []
+  id: 102-03-19
+  language_code: eng
+  notes:
+  - The usual geometrical three-dimensional space is a Euclidean point space. Four-dimensional
+    vectors used in special relativity are elements of a non-Euclidean point space
+    because the scalar product of a vector by itself may be negative. Another example
+    of non-Euclidean vector space is the set of `n-`bit words formed of the digits
+    zero and one with addition modulo two, because the scalar product of a vector
+    by itself can be zero for a non-zero vector.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Euclidean space
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 5ef84779-f2c2-59d7-96e5-92c3543202c6
+status: valid

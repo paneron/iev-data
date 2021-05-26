@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: for a decaying population of particles of the same kind, duration for
+    the number of particles to decrease to 1/e of the initial value, where e is the
+    base of natural logarithms
+  examples: []
+  id: 113-05-29
+  language_code: eng
+  notes:
+  - 1 The mean life is the time constant for the decay of particles.
+  - 2 Only exponential decays are known. However, for a combination of different kinds
+    of particles with different mean life, the decay is not exponential, and the resulting
+    mean life varies with time.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean life
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~1/2~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 241b6aee-919a-5d87-abcf-402bc288adf5
+status: valid

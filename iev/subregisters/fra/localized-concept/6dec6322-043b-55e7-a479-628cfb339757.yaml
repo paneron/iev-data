@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: logarithme du rapport d'une pression acoustique donnée, mesurée avec
+    une pondération fréquentielle normalisée, et avec une pondération temporelle exponentielle
+    normalisée, à la pression acoustique de référence de 20 μPа. Exprimé en décibels,
+    ce niveau est égal à vingt fois le logarithme décimal de ce rapport
+  examples: []
+  id: 801-22-14
+  language_code: fra
+  notes:
+  - 'Les caractéristiques normalisées de pondérаtiоn fréquentielle A, В et C, ainsi
+    que les caractéristiques normalisées de pondération temporelle F (rapide), S (lente)
+    et I (impulsionnelle) sont données dans la CEI 651 (1979): Sonomètres.'
+  - Il est recommandé de préciser les pondérations temporelle et fréquentielle utilisées,
+    mais si се n'est pas le cas, on supposera qu'il s'agit de la pondération temporelle
+    F et de la pondération fréquentielle A.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de pression acoustique pondérée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 6dec6322-043b-55e7-a479-628cfb339757
+status: valid

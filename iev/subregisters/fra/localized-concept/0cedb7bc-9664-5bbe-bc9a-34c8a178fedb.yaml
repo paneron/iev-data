@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-08-01
+  definition: commande d'un appareil électrique dans laquelle on fait varier le rapport
+    entre le nombre de demi-périodes pendant lesquelles le courant circule et le nombre
+    de demi-périodes pendant lesquelles ne circule aucun courant
+  examples: []
+  id: 161-07-05
+  language_code: fra
+  notes:
+  - Les différentes combinaisons des temps de passage et d'interruption du courant
+    permettent, par exemple, de faire varier la puissance moyenne absorbée par un
+    appareil consommateur.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande par trains d'alternances
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: 0cedb7bc-9664-5bbe-bc9a-34c8a178fedb
+status: valid

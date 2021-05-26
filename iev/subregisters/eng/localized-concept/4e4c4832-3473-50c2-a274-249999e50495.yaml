@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.37
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.37
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: redundant data based on non-cryptographic functions included in a safety-related
+    message to permit data corruptions to be detected by the safety-related transmission
+    function
+  examples: []
+  id: 821-11-35
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-cryptographic safety code
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 4e4c4832-3473-50c2-a274-249999e50495
+status: valid

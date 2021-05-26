@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-09-01
+  definition: condensateur de puissance destiné à être connecté en parallèle à un
+    réseau
+  examples: []
+  id: 436-02-02
+  language_code: fra
+  notes:
+  - Ces condensateurs sont principalement utilisés pour l'amélioration du facteur
+    de puissance par compensation de la puissance réactive.
+  reviewDate: 1990-09-01
+  reviewDecisionDate: 1990-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: condensateur-shunt
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: condensateur en dérivation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-09-01
+id: e2f88d4c-1d9c-5599-bc18-8dd04721ebde
+status: valid

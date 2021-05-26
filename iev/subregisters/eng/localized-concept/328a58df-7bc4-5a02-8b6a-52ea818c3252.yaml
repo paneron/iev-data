@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 448-13-06
+      original: 448-13-06 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: state of an item characterized by the accidental presence of a relatively
+    high impedance between two points of the same conductor
+  examples: []
+  id: 195-04-15
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (conductor) continuity fault
+    normative_status: preferred
+    type: expression
+  - designation: open circuit fault
+    type: expression
+  - designation: series fault
+    type: expression
+dateAccepted: 1998-08-01
+id: 328a58df-7bc4-5a02-8b6a-52ea818c3252
+status: valid

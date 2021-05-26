@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{stable state, IEV:692-02-02}} in which some system components are
+    stressed beyond their ratings, or some bus voltages or system frequency are outside
+    tolerances image::/assets/images/parts/692/692-fig2-en.png[Figure 2 - Electric
+    power system states] <simg></simg>'
+  examples: []
+  id: 692-02-06
+  language_code: eng
+  notes:
+  - 'The arrows indicate the most important state transitions caused by credible events.
+    Recovery transitions, in opposite directions, are effected by operator intervention.
+
+
+    *Figure 3 – Examples of transitions within electric power system states*
+
+
+    image::/assets/images/parts/692/692-fig6-en.png[Figure 6 - Examples of electric
+    power system states and corresponding system operation status]'
+  - In an emergency state, urgent actions (such as load shedding; reducing voltage;
+    and starting emergency generators) are required to prevent equipment damage and/or
+    further degradation of system state.
+  - Although {{loss of load, IEV:692-01-16}} can occur, it is not a criterion for
+    an emergency state.
+  - This entry was numbered 191-22-05 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: emergency state
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+  - designation: inadequate state
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: d1b604b6-8732-5908-b3a3-ce109ba9a58a
+status: valid

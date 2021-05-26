@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: limit, if it exists, of the instantaneous failure intensity `z`(`t`),
+    when time `t` tends to infinity
+  examples: []
+  id: 192-05-10
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: asymptotic failure intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`z`(∞)'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: 1fffc241-0e49-596d-861f-dd18c7fa10bb
+status: valid

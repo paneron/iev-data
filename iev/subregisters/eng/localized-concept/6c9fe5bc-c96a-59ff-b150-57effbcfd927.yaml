@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.19
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.19
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: value of the AC component of a residual prospective current which a
+    residual current device without integral short-circuit protection but protected
+    by a short-circuit protective device in series, can withstand under specified
+    conditions of use and behaviour
+  examples: []
+  id: 442-05-22
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conditional residual short-circuit current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~Δc~'
+    international: true
+    type: symbol
+dateAccepted: 2019-05-01
+id: 6c9fe5bc-c96a-59ff-b150-57effbcfd927
+status: valid

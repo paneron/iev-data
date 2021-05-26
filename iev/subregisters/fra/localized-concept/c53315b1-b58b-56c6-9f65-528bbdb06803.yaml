@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 4.5.1
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 4.5.1
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{autorité, IEV:901-03-10}} qui est responsable de la préparation ou
+    de l''adoption des {{règlements, IEV:901-02-10}}'
+  examples: []
+  id: 901-03-11
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: autorité réglementaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c53315b1-b58b-56c6-9f65-528bbdb06803
+status: valid

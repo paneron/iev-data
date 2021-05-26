@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1999-04-01
+  definition: wind velocity experienced at a fixed point of the rotating wind turbine
+    rotor
+  examples: []
+  id: 415-03-03
+  language_code: eng
+  notes:
+  - The turbulence spectrum of a rotationally sampled wind velocity is distinctly
+    different from the normal turbulence spectrum. While rotating, the blade cuts
+    through a wind flow, that varies in space. Therefore the resulting turbulence
+    spectrum will contain sizeable amounts of variance at the frequency of rotation
+    and harmonics of the same.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rotationally sampled wind velocity
+    normative_status: preferred
+    type: expression
+dateAccepted: 1999-04-01
+id: 3b89d75c-9307-5a77-a11b-b7e001e3db5c
+status: valid

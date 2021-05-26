@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'at a given point within a volume element of quasi-infinitesimal volume
+    `V`, scalar quantity equal to the total electric charge `Q` within the volume
+    element divided by the volume `V`: `rho = (Q)/(V)`'
+  examples: []
+  id: 121-11-07
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volumic (electric) charge
+    normative_status: preferred
+    type: expression
+  - designation: (electric) charge density
+    normative_status: preferred
+    type: expression
+  - designation: '`ρ`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: b1a68ae4-62b2-5525-acb1-e3d52da2a6fd
+status: valid

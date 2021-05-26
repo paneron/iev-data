@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: diagramme donnant les courbes du gain logarithmique de la réponse en
+    fréquence en boucle fermée `((G_0))/((1 + G_0))`, tracées en coordonnées rectangulaires
+    et de la différence de phase de la réponse en fréquence en boucle ouverte `G`~0~
+  examples: []
+  id: 351-46-09
+  language_code: fra
+  notes:
+  - '`((G_0))/((1 + G_0))` est la réponse en fréquence en boucle fermée pour des variations
+    de la variable de référence, dans le cas où la variable de commande `x` serait
+    utilisée directement comme variable de réaction `r`. La fonction de transfert
+    de l''élément de mesurage est supposée être de un.'
+  - Cet article était numéroté 351-25-09 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diagramme de Nichols
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: e38ecdfe-b01b-5395-976e-66cc7aeabb6c
+status: valid

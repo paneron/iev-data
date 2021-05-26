@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: uniform-chromaticity-scale diagram produced by plotting in rectangular
+    coordinates `v` against `u`
+  examples: []
+  id: 845-23-079
+  language_code: eng
+  notes:
+  - The CIE 1960 uniform-chromaticity-scale diagram is substantially used for the
+    determination of correlated colour temperature.
+  - The <a href="IEV845-23-073">CIE 1976 uniform-chromaticity-scale diagram</a> is
+    a modified version of the CIE 1960 uniform-chromaticity-scale diagram, which is
+    equivalent to the (u, 3/2 v) diagram; therefore the (u, v) diagram is equivalent
+    to the (u', 2/3 v') diagram.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: CIE 1960 uniform-chromaticity-scale diagram
+    normative_status: preferred
+    type: expression
+  - designation: CIE 1960 UCS (u, v) diagram
+    type: expression
+dateAccepted: 2020-12-01
+id: c23c4d46-84f7-50cc-9801-b58ba84b5573
+status: valid

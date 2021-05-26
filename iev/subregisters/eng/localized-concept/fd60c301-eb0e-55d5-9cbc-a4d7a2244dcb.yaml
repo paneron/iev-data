@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: switching element the output variable of which reproduces a change in
+    the input variable from 0 to 1 delayed by the time interval of duration `t`~1~
+    and a change from 1 to 0 delayed by the time interval of duration `t`~2~
+  examples: []
+  id: 351-52-10
+  language_code: eng
+  notes:
+  - The term delay has here another meaning than for continuous transfer elements.
+  - Depending on the application, either the switch-on delay time `t`~1~ or the switch-off
+    delay time `t`~2~ or both may be used.
+  - In many applications the output variable remains at the value 0 if the duration
+    of the time interval `t`~0~ during which the input variable has the value 1 is
+    shorter than the duration of the switch-on time interval `t`~1~.
+  - This entry was numbered 351-29-19 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: binary delay element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: fd60c301-eb0e-55d5-9cbc-a4d7a2244dcb
+status: valid

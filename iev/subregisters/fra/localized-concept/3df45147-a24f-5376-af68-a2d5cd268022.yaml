@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: volume interne total de l'enveloppe du matériel antidéflagrant "d"
+  examples: []
+  id: 426-06-08
+  language_code: fra
+  notes:
+  - Pour les enveloppes dont le contenu est absolument nécessaire en service, le volume
+    à prendre en considération est le volume libre restant.
+  - Dans le cas des luminaires, le volume est déterminé sans lampe dans le luminaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume de l'enveloppe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: enveloppe antidéflagrante
+dateAccepted: 2018-11-17
+id: 3df45147-a24f-5376-af68-a2d5cd268022
+status: valid

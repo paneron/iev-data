@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: ensemble des activités d'exploitation et de maintenance d'un réseau,
+    y compris la surveillance et la commande de ses composants et la configuration
+    du réseau, ainsi que l'affectation des ressources dans le réseau, y compris l'admission
+    des utilisateurs et l'attribution des adresses
+  examples: []
+  id: 732-02-01
+  language_code: fra
+  notes:
+  - Ces tâches sont parfois réparties en deux groupes que l'on appelle respectivement
+    « gestion » et « administration », mais cette répartition varie d'une entreprise
+    à une autre.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gestion de réseau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: administration de réseau
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: ed7647cd-cc3d-5373-aca7-f2f70005d2ba
+status: valid

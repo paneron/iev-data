@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.31
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.31, modified
+      ref: IEC 62280:2014
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: information which is transmitted in one or several packets from a sender
+    to one or more receivers
+  examples: []
+  id: 821-11-29
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: message
+    normative_status: preferred
+    type: expression
+    usage_info: in transmission systems
+dateAccepted: 2017-11-01
+id: f6fe95be-5a46-57c2-a7b4-184f71ed86ce
+status: valid

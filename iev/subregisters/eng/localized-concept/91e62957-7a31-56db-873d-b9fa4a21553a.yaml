@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: highest r.m.s. value of the AC or DC voltage across any particular insulation
+    which can occur when the equipment is supplied at rated voltage
+  examples: []
+  id: 851-12-31
+  language_code: eng
+  notes:
+  - Transients are disregarded.
+  - Both open circuit conditions and normal operating conditions are taken into account.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: working voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 91e62957-7a31-56db-873d-b9fa4a21553a
+status: valid

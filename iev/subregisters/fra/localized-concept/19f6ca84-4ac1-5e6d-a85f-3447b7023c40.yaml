@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.8.3
+      link: https://www.iso.org/standard/42180.html
+      original: ISO 9000:2005, 3.8.3, modifié pour insister sur la «procédure»
+      ref: ISO 9000:2005
+      relationship:
+        modification: pour insister sur la «procédure»
+        type: modified
+  definition: procédure exécutée pour déterminer une ou plusieurs caractéristiques
+  examples: []
+  id: 192-09-01
+  language_code: fra
+  notes:
+  - Un essai est réalisé sur un échantillon d’entités pour établir des informations
+    relatives à la population d’entités de laquelle l’échantillon a été prélevé.
+  - Un essai peut être effectué pour évaluer une caractéristique de sûreté de fonctionnement,
+    comme la fiabilité ou la maintenabilité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en sûreté de fonctionnement
+dateAccepted: 2018-11-17
+id: 19f6ca84-4ac1-5e6d-a85f-3447b7023c40
+status: valid

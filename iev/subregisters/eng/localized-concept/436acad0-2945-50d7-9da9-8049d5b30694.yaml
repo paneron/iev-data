@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{stable state, IEV:692-02-02}} in which some system load requirements
+    cannot be met image::/assets/images/parts/692/692-fig2-en.png[Figure 2 - Electric
+    power system states] <simg></simg>'
+  examples: []
+  id: 692-02-05
+  language_code: eng
+  notes:
+  - 'The arrows indicate the most important state transitions caused by credible events.
+    Recovery transitions, in opposite directions, are effected by operator intervention.
+
+
+    *Figure 3 – Examples of transitions within electric power system states*
+
+
+    image::/assets/images/parts/692/692-fig6-en.png[Figure 6 - Examples of electric
+    power system states and corresponding system operation status]'
+  - This entry was numbered 191-22-04 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: partially adequate state
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+  - designation: controlled emergency
+    geographical_area: US
+    type: expression
+dateAccepted: 2017-12-01
+id: 436acad0-2945-50d7-9da9-8049d5b30694
+status: valid

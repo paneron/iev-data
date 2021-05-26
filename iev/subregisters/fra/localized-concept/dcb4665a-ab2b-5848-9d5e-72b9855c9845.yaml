@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la luminance minimale en un point par la luminance moyenne
+    de la surface routière sur une surface d'évaluation
+  examples: []
+  id: 845-31-142
+  language_code: fra
+  notes:
+  - Lorsque la valeur de luminance se rapporte uniquement à la partie chaussée de
+    la route, elle peut être appelée "luminance de la chaussée".
+  - L'unité d'uniformité globale de la luminance de la surface routière est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: uniformité globale de la luminance de la surface routière
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dcb4665a-ab2b-5848-9d5e-72b9855c9845
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: a call attempt which results in the calling user receiving intelligible
+    information about the state of the called user, as well as any possibility of
+    establishing a connection
+  examples: []
+  id: 715-03-10
+  language_code: eng
+  notes: []
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: successful call attempt
+    normative_status: preferred
+    type: expression
+  - designation: fully-routed call attempt
+    type: expression
+dateAccepted: 1996-12-01
+id: ab40d14b-3835-5c49-b055-b2df6a3240ce
+status: valid

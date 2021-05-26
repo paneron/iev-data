@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: mesure sans dimension du degré de désadaptation entre deux impédances
+    `Z`~a~ et `Z`~b~ donnée par l'expression `| ((Z_a - Z_b))/((Z_a + Z_b)) |` où
+    `Z`~a~ et `Z`~b~ représentent respectivement l'impédance d'entrée et l'impédance
+    source ou l'impédance de sortie et l'impédance de charge
+  examples: []
+  id: 561-02-50
+  language_code: fra
+  notes:
+  - Cet article était numéroté 561-03-23 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5813bcfb-2b58-5686-a43f-f8c9cd4003a6
+status: valid

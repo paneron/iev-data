@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 191-15-01
+      link: https://webstore.iec.ch/publication/184
+      original: CEI 60050-191:1990, 191-15-01, modifiée – Une note a été ajoutée.
+      ref: IEC 60050-191:1990
+      relationship:
+        modification: Une note a été ajoutée.
+        type: modified
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: existence, dans une entité, de plus d'un moyen pour exécuter une fonction
+    requise
+  examples: []
+  id: 351-42-28
+  language_code: fra
+  notes:
+  - Dans les technologies de commande, ce moyen est de préférence un dispositif et
+    des programmes mis en application.
+  - Cet article était numéroté 351-21-38 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: redondance de moyens
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: redondance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 85aeaede-1e16-5ea2-be97-15817d58156b
+status: valid

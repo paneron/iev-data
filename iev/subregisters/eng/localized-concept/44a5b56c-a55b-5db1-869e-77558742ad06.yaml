@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: that value numerically equal to the lowest modulation frequency at which
+    the magnitude of the baseband transfer function of an optical fibre decreases
+    to a specified fraction, generally to one half, of the zero frequency value
+  examples: []
+  id: 731-01-52
+  language_code: eng
+  notes:
+  - 'The bandwidth is limited by several mechanisms : (a) in multimode fibres - mainly
+    modal distortion and material dispersion, (b) in singlemode fibres - mainly material
+    and waveguide dispersion.'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bandwidth
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 44a5b56c-a55b-5db1-869e-77558742ad06
+status: valid

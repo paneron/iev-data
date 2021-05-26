@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité de luminance énergétique, `L`~e~(`λ`), par rapport à la longueur
+    d'onde, `λ` `L_((e , lambda)) = ((d L_e ( lambda )))/((d lambda))`
+  examples: []
+  id: 845-21-052
+  language_code: fra
+  notes:
+  - La luminance spectrale est exprimée en watt par mètre carré par nanomètre par
+    stéradian (W·m^−2^·nm^−1^·sr^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminance spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8a494583-44e3-5482-b679-0e255e49cbdd
+status: valid

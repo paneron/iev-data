@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: radiation caractérisée par une seule {{fréquence, IEV:103-06-02}} ou
+    une seule longueur d'onde
+  examples: []
+  id: 845-21-014
+  language_code: fra
+  notes:
+  - Si la longueur d'onde est utilisée pour caractériser une radiation monochromatique,
+    le milieu doit être indiqué.
+  - Dans la pratique, la radiation monochromatique est le rayonnement s'étendant sur
+    un très petit domaine de fréquences ou de longueurs d'onde et qui peut être décrit
+    par l'indication d'une seule fréquence ou d'une seule longueur d'onde.
+  - Cet article était numéroté 845-01-07 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: radiation monochromatique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rayonnement monochromatique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 32170a4d-ba8e-5819-a7e3-be8be956a04d
+status: valid

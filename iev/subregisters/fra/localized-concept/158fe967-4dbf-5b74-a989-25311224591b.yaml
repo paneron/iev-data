@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: '1.4'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.4
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: grandeur d'un sous-ensemble choisi par convention dans un système de
+    grandeurs donné de façon à ce qu'aucune grandeur du sous-ensemble ne puisse être
+    exprimée en fonction des autres
+  examples: []
+  id: 112-01-08
+  language_code: fra
+  notes:
+  - Le sous-ensemble mentionné dans la définition est appelé l'ensemble des grandeurs
+    de base. Le Système international de grandeurs (ISQ) est défini par un ensemble
+    de sept grandeurs de base.
+  - Les grandeurs de base sont considérées comme mutuellement indépendantes puisqu'une
+    grandeur de base ne peut être exprimée par un produit de puissances des autres
+    grandeurs de base.
+  - On peut considérer la grandeur « nombre d'entités » comme une grandeur de base
+    dans tout système de grandeurs.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur de base
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: 158fe967-4dbf-5b74-a989-25311224591b
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity `c_V = (1)/(m) (( ((d Q))/((d T)) ))_V` when the thermodynamic
+    temperature of a system with mass `m` is increased by d`T` as a result of the
+    addition of a small amount of heat d`Q` at constant volume
+  examples: []
+  id: 113-04-50
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: specific heat capacity at constant volume
+    normative_status: preferred
+    type: expression
+  - designation: '`c`~`V`~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 166ad96c-448c-5525-8be7-3935c5df29c0
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: a set of rules which govern the setting up of connections in a circuit
+    switched network
+  examples: []
+  id: 715-09-03
+  language_code: eng
+  notes:
+  - 'Such rules settle, among others:
+
+
+    - the class of each exchange
+
+
+    - the circuit groups interconnecting two circuit switching exchanges, as well
+    as the connection line groups,
+
+
+    - at least one potential route for each call, between the terminal points involved.'
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: traffic routing plan
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 540529c2-87e6-5c72-8450-49ca72e0cca6
+status: valid

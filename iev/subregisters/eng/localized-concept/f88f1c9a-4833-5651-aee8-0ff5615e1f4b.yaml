@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: state quantity equal to the sum of the internal energy `U` of a system
+    and the product of pressure `p` and volume `V` of the system, thus `H` = `U` +
+    `pV`
+  examples: []
+  id: 113-04-21
+  language_code: eng
+  notes:
+  - Specific enthalpy, or enthalpy per mass, is denoted `h`.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: enthalpy
+    normative_status: preferred
+    type: expression
+  - designation: '`H`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: f88f1c9a-4833-5651-aee8-0ff5615e1f4b
+status: valid

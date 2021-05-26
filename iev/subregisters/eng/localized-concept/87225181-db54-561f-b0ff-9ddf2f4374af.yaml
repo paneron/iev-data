@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'a command which is input at a control centre and which indicates a
+    standard instruction to operators in the control room of a manned station Examples:
+    "Start generators" or "Adjust generator output to ... MW".'
+  examples: []
+  id: 371-03-17
+  language_code: eng
+  notes:
+  - The instruction command is distinguished from instructions transmitted by general
+    communication means (e.g. teleprinter) in that it is input and transmitted by
+    means of devices used in telecontrol systems for other purposes and therefore
+    must be programmed in a similar manner to other types of commands.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instruction command
+    normative_status: preferred
+    type: expression
+  - designation: standard command
+    type: expression
+dateAccepted: 2021-01-01
+id: 87225181-db54-561f-b0ff-9ddf2f4374af
+status: valid

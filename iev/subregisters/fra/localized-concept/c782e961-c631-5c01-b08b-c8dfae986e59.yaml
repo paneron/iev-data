@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: intervalle de temps qui sépare un changement d'état dans un poste satellite
+    de son enregistrement au poste de conduite
+  examples: []
+  id: 371-08-20
+  language_code: fra
+  notes:
+  - Dans les systèmes cycliques, le temps moyen de mise à jour est égal à la moitié
+    de la durée du cycle plus le temps de transfert total.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de mise à jour
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps de rafraîchissement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: c782e961-c631-5c01-b08b-c8dfae986e59
+status: valid

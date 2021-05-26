@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-10-01
+  definition: 'perméabilité tensorielle d''une substance saturée par un champ magnétique
+    statique colinéaire avec le champ variable dans le temps, en prenant pour axe
+    de z la direction du champ appliqué: `( [[ underset(_)(mu)_((()_r)),- j (underset(_)(kappa))_r,0],[(underset(_)(underset(_)(mu)))_p
+    = j underset(_)(kappa)_r,(underset(_)(mu))_((()_r)),0],[ 0,0,1]] )` où `μ`~r~
+    et `κ`~r~ sont des perméabilités complexes'
+  examples: []
+  id: 221-03-03
+  language_code: fra
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: perméabilité tensorielle de Polder
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: perméabilité tensorielle d'une substance magnétostatiquement saturée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: 0f78609d-8320-546c-b674-4ddbbca40bcb
+status: valid

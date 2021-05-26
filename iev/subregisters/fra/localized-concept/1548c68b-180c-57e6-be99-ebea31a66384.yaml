@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'relation binaire ℛ entre des éléments `a` et `b` d''un ensemble donné,
+    ayant les propriétés suivantes: * réflexivité: `a`ℛ`a`, * symétrie: si `a`ℛ`b`
+    alors `b`ℛ`a`, * transitivité: si `a`ℛ`b` et `b`ℛ`c` alors `a`ℛ`c`, pour des éléments
+    quelconques `a`, `b` et `c` de l''ensemble donné'
+  examples: []
+  id: 102-01-08
+  language_code: fra
+  notes:
+  - Des exemples sont l'égalité d'éléments d'un ensemble, le parallélisme de droites
+    dans un espace affine, la relation entre nombres entiers dont la différence est
+    paire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: relation d'équivalence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: équivalence
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1548c68b-180c-57e6-be99-ebea31a66384
+status: valid

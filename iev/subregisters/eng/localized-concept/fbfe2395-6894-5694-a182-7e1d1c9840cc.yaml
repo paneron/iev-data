@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.157
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.157
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: part of a message data frame relevant to the session layer
+  examples: []
+  id: 811-37-94
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: session header
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: fbfe2395-6894-5694-a182-7e1d1c9840cc
+status: valid

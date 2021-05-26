@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: véhicule équipé d'un ou plusieurs moteurs de traction
+  examples: []
+  id: 811-02-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: véhicule moteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: engin moteur
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e193b53a-d6bd-5549-86cd-2a025706f5d5
+status: valid

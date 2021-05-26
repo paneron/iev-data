@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.5.5
+      link: https://webstore.iec.ch/publication/6932
+      original: IEC 62368-1:2014, 3.3.5.5
+      ref: IEC 62368-1:2014
+      relationship:
+        type: identical
+  dateAmended: 2015-07-01
+  definition: '{{solid insulating material, IEV:212-11-02}}, or a combination of solid
+    insulating materials, placed between two conductive parts or between a conductive
+    part and a body part'
+  examples:
+  - In the case of a printed board with a coating, solid insulation consists of the
+    board itself as well as the coating. In other cases, solid insulation consists
+    of the encapsulating material.
+  id: 903-04-14
+  language_code: eng
+  notes: []
+  reviewDate: 2015-07-01
+  reviewDecisionDate: 2015-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: solid insulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-07-01
+id: 23949685-6f25-57c4-b525-50c9a9621408
+status: valid

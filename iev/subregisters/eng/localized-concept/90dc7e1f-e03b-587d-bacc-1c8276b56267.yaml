@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '1.25'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.25 MOD
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: modified
+  dateAmended: 2010-01-01
+  definition: mathematical relation between numerical values based on a given quantity
+    equation and specified units of measurement
+  examples:
+  - In the quantity equation for kinetic energy of a particle, `T` = (1/2) `mv`^2^,
+    if `m` = 2 kg and `v` = 3 m/s, then {`T`} = (1/2) × 2 × 3^2^ is a numerical value
+    equation giving the numerical value 9 of `T` in joules.
+  id: 112-01-34
+  language_code: eng
+  notes:
+  - For the quantities `Q`~1~, `Q`~2~ and `Q`~3~ related by the quantity equation
+    `Q`~1~ = `ζ` `Q`~2~ `Q`~3~, the numerical value equation is {`Q`~1~} = `ζ` {`Q`~2~}
+    {`Q`~3~}, where {`Q`~1~}, {`Q`~2~}, and {`Q`~3~} denote the numerical values of
+    `Q`~1~, `Q`~2~, and `Q`~3~, respectively, provided that they are expressed in
+    base units or coherent derived units.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: numerical value equation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 90dc7e1f-e03b-587d-bacc-1c8276b56267
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: relative decrease in radiant flux caused by absorption, expressed by
+    the relative density of the spectral radiant flux, `Φ`~e,~`λ`(`λ`), with respect
+    to propagation length, `l`, of a collimated beam at a point in an absorbing medium
+    `a ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) (
+    lambda )))/((d l))`
+  examples: []
+  id: 845-24-085
+  language_code: eng
+  notes:
+  - The spectral linear absorption coefficient is expressed in metre to the power
+    minus one (m^−1^).
+  - This entry was numbered 845-04-78 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral linear absorption coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`a`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7eadd8ad-3636-5146-9f49-ce1efa6854be
+status: valid

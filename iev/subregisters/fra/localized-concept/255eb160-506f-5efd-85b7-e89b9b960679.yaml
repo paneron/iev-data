@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{pile à combustible, IEV:485-06-01}} avec un nombre de cellules significativement
+    plus petit que les piles à combustible conçues à la {{puissance assignée, IEV:485-14-04}},
+    mais avec un nombre de cellules suffisamment important pour représenter les caractéristiques
+    d''échelles de la pile à combustible complète'
+  examples: []
+  id: 485-06-02
+  language_code: fra
+  notes:
+  - Voir aussi "{{élément de pile, IEV:485-06-03}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: pile réduite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 255eb160-506f-5efd-85b7-e89b9b960679
+status: valid

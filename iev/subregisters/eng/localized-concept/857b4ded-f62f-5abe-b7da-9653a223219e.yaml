@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: flat portion of wafer perimeter shorter than the orientation flat image::/assets/images/parts/561/561-fig25-en.png[]
+    *Figure 25 – Wafer indication and measurement points for the thickness variation
+    for five points*
+  examples: []
+  id: 561-07-29
+  language_code: eng
+  notes:
+  - When present, the secondary flat indicates wafer polarity and can serve to distinguish
+    different wafer cuts.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: secondary flat
+    normative_status: preferred
+    type: expression
+  - designation: SF
+    normative_status: preferred
+    type: expression
+  - designation: sub-orientation flat
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 857b4ded-f62f-5abe-b7da-9653a223219e
+status: valid

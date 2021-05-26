@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: sequence of {{instructions, IEV:171-05-08}} that can be executed {{concurrently,
+    IEV:171-05-64}} with other such sequences or interleaved with them
+  examples: []
+  id: 171-05-68
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: task
+    normative_status: preferred
+    type: expression
+    usage_info: in programming
+dateAccepted: 2019-03-01
+id: c0348a38-c6a4-5b36-a0dd-6079a33bedc5
+status: valid

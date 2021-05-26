@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: produit dont l'épaisseur uniforme est très petite par rapport à la longueur
+    et à la largeur
+  examples: []
+  id: 212-15-02
+  language_code: fra
+  notes:
+  - L’épaisseur est typiquement inférieure à quelques centaines de micromètres et
+    la largeur d’un ordre de grandeur d’un mètre.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: feuille mince
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: film (plastique)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: eaf5d5bf-6618-53ce-841c-145e2eede47c
+status: valid

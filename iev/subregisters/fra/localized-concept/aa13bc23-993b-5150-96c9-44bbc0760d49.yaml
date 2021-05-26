@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.2'
+      link: https://webstore.iec.ch/publication/17120
+      original: IEC 60664-5:2007, 3.2
+      ref: IEC 60664-5:2007
+      relationship:
+        type: identical
+  definition: valeur de l'humidité relative lorsque la tension de tenue aux chocs
+    d'une ligne de fuite n'atteint plus que 95 % de la valeur qui était mesurée à
+    une {{humidité relative, IEV:113-04-65}} de 70 %
+  examples: []
+  id: 442-09-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: humidité relative critique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: aa13bc23-993b-5150-96c9-44bbc0760d49
+status: valid

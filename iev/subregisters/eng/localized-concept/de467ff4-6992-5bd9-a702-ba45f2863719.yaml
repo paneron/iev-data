@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-03-01
+  definition: representation of the planned output power as a function of time within
+    a specified time interval
+  examples: []
+  id: 617-03-11
+  language_code: eng
+  notes:
+  - Typically, the generating unit schedule is approximated by a given set of  values
+    ,e.g., output-power values averaged over sequential time intervals each of which
+    has a duration of a quarter of an hour.
+  reviewDate: 2009-03-01
+  reviewDecisionDate: 2009-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: generating unit schedule
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-03-01
+id: de467ff4-6992-5bd9-a702-ba45f2863719
+status: valid

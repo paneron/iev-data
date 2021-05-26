@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{opération booléenne, IEV:171-03-05}} dont le résultat a la valeur
+    booléenne 1 si et seulement si les {{opérandes, IEV:171-03-04}} n''ont pas tous
+    la même valeur booléenne'
+  examples: []
+  id: 171-03-14
+  language_code: fra
+  notes:
+  - Une opération de non-identité portant sur deux opérandes est une {{disjonction
+    exclusive, IEV:171-03-16}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: opération de non-identité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 189b5c81-89dc-5d6e-8fab-9bf1962b9fbc
+status: valid

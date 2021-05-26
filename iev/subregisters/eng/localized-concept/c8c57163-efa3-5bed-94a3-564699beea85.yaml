@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.17
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.17, modified
+      ref: IEC 62267:2009
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: train operation where the driver is located in the front cabin of the
+    train observing the guideway and stopping the train in case of a hazardous situation,
+    and where acceleration and braking is automated and the speed is supervised continuously
+    by the system
+  examples: []
+  id: 821-09-13
+  language_code: eng
+  notes:
+  - Safe departure of the train from the station is under the responsibility of the
+    driver or the operations staff on the station platform.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: semi-automated train operation
+    normative_status: preferred
+    type: expression
+  - designation: GOA2
+    type: expression
+  - designation: STO
+    type: expression
+dateAccepted: 2017-11-01
+id: c8c57163-efa3-5bed-94a3-564699beea85
+status: valid

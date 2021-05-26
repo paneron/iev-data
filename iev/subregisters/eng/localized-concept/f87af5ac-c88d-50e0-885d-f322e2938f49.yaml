@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: concurrent {{outage occurrences, IEV:692-05-01}} of two or more system
+    components which are independent of each other image::/assets/images/parts/692/692-fig5-en.png[Figure
+    5 - Outage occurrence relationships]
+  examples: []
+  id: 692-05-06
+  language_code: eng
+  notes:
+  - An overlapping independent outage occurrence can also be regarded as two or more
+    separate {{single-outage occurrences, IEV:692-05-02}} initiated by distinct events
+    but resulting in concurrent outages.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overlapping independent outage occurrences
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2017-12-01
+id: f87af5ac-c88d-50e0-885d-f322e2938f49
+status: valid

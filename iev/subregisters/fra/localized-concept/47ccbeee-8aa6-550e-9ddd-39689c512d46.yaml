@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: différence entre les potentiels électriques en deux points
+  examples: []
+  id: 121-11-26
+  language_code: fra
+  notes:
+  - "La différence de potentiel électrique `V`~b~ − `V`~a~ entre deux points a et\
+    \ b est égale à l'opposé de la circulation, le long d’un chemin quelconque joignant\
+    \ les points a et b, du vecteur irrotationnel\r\n`( E + ((del A))/((del t)) )`,\
+    \ où `*E*` est le champ électrique, `*A*` un potentiel vecteur magnétique et `t`\
+    \ le temps:\n\n`V_b - V_a = - int_((r_a))^((r_b)) ( E + ((del A))/((del t)) )\
+    \ * d r`\n\noù `*r*`~a~ et `*r*`~b~ sont les rayons vecteurs de a et b respectivement\
+    \ et d`*r*` est l'élément vectoriel d'arc."
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: différence de potentiel (électrique)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 47ccbeee-8aa6-550e-9ddd-39689c512d46
+status: valid

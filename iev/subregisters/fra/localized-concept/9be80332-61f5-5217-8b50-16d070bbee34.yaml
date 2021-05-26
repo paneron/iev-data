@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.21.2
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.21.2
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: pôle sans déclencheur à maximum de courant, mais à part cela généralement
+    capable des mêmes performances qu'un pôle protégé contre les surintensités du
+    même disjoncteur différentiel résiduel avec protection incorporée contre les surintensités
+  examples: []
+  id: 442-05-41
+  language_code: fra
+  notes:
+  - Le pôle non protégé peut être construit comme le ou les pôles protégés ou avoir
+    une construction particulière.
+  - Si le pouvoir de coupure d'un pôle non protégé est différent de celui du ou des
+    pôles protégés, il convient que cette indication soit fournie par le constructeur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pôle d'un disjoncteur non protégé contre les surintensités
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: pôle non protégé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9be80332-61f5-5217-8b50-16d070bbee34
+status: valid

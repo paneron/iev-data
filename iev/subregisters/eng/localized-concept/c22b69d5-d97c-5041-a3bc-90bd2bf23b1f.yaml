@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 712-02-51
+      original: 712-02-51 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: the product of the power supplied by a radio transmitter to an antenna
+    and the absolute gain of the antenna in a given direction
+  examples: []
+  id: 713-09-25
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent isotropically radiated power
+    normative_status: preferred
+    type: expression
+  - designation: EIRP
+    type: expression
+dateAccepted: 1998-04-01
+id: c22b69d5-d97c-5041-a3bc-90bd2bf23b1f
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: nom de domaine qui identifie le niveau hiérarchique le plus élevé dans
+    la structure géographique ou organisationnelle du système d'adressage de l'Internet
+  examples: []
+  id: 732-07-09
+  language_code: fra
+  notes:
+  - Dans l'Internet, le nom de domaine de premier niveau est la désignation à deux
+    lettres d'un pays ou d'un territoire, dans la plupart des cas un code de pays
+    ISO, mais aussi « eu », une autre désignation de région (par exemple « asia »)
+    ou une désignation générique telle que « biz », « com », « int », « museum »,
+    « name », « net », « org ».
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nom de domaine de premier niveau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: nom de domaine de tête
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 0e3f5ff8-536c-552b-a293-00636992109a
+status: valid

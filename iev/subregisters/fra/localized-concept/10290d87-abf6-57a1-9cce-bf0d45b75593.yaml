@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: un des codes de correction d'erreur qui forme une matrice avec le code
+    correcteur externe pour une correction à deux niveaux.
+  examples: []
+  id: 807-01-21
+  language_code: fra
+  notes:
+  - Dans le processus d'enregistrement, le code correcteur d'erreur interne intervient
+    après le codage externe
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code correcteur d'erreur interne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: code interne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 10290d87-abf6-57a1-9cce-bf0d45b75593
+status: valid

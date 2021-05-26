@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 704-22-01
+      original: 704-22-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1997-03-01
+  definition: opération destinée à convertir un signal analogique en un signal numérique
+    qui représente essentiellement les mêmes informations
+  examples: []
+  id: 723-10-04
+  language_code: fra
+  notes: []
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conversion analogique-numérique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conversion A/N
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 4e2465d5-9c02-5c97-9230-6b89d74a627e
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: caractéristique représentant l'amplitude de la composante fondamentale
+    du signal de sortie d'un biporte en fonction de la fréquence d'un signal d'entrée
+    sinusoïdal d'amplitude spécifiée indépendante de la fréquence
+  examples: []
+  id: 702-07-35
+  language_code: fra
+  notes:
+  - Dans le cas d'un biporte linéaire invariable dans le temps, la caractéristique
+    amplitude-fréquence est représentée par le module de la fonction de transfert
+    isochrone.
+  - La fréquence de la composante fondamentale du signal de sortie peut différer de
+    la fréquence du signal d'entrée.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: caractéristique amplitude-fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 6d498a5b-1cc9-5078-9bd5-cbe652739c58
+status: valid

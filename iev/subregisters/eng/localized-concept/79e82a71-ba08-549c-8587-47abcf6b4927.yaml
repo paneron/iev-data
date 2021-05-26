@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 448-11-31
+      original: IEV 448-11-31, modified
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2016-02-01
+  definition: disconnecting the contacts of a circuit-breaker by either manual or
+    automatic control or by protective devices
+  examples: []
+  id: 614-02-28
+  language_code: eng
+  notes:
+  - The expression “tripping” of an item of the electric power network (line, transformer)
+    in fact means tripping of the associated circuit-breaker(s).
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: opening
+    normative_status: preferred
+    type: expression
+  - designation: tripping
+    type: expression
+dateAccepted: 2016-02-01
+id: 79e82a71-ba08-549c-8587-47abcf6b4927
+status: valid

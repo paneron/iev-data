@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: function representing the normalized spectral sensitivity of the human
+    eye due to retinal thermal hazards
+  examples: []
+  id: 845-26-049
+  language_code: eng
+  notes:
+  - The wavelength range for the retinal thermal hazard spectral weighting function
+    is the "<a href="IEV845-26-048">retinal hazard spectral region</a>".
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: retinal thermal hazard spectral weighting function
+    normative_status: preferred
+    type: expression
+  - designation: '`R`(`λ`)
+
+      `r`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 3b74f646-6cc5-5f5c-941f-c5c3b3af0c51
+status: valid

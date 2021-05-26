@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: mode of operation in which two or more processes are assigned quanta
+    of time on the same processor
+  examples: []
+  id: 171-05-52
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time-slicing
+    normative_status: preferred
+    type: expression
+  - designation: timeslicing
+    normative_status: preferred
+    type: expression
+  - designation: time-sharing
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2019-03-01
+id: 8f335b82-ff60-5381-bf03-1cc689fdc936
+status: valid

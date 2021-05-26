@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pourcentage maximal de défectueux (ou le nombre maximal de défauts par
+    centaine d'unités) qui, pour le contrôle par échantillonnage, peut être considéré
+    comme satisfaisant en tant que moyenne du procédé
+  examples: []
+  id: 561-07-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de qualité acceptable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: NQA
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ce6499b9-c39f-5fc0-9216-96d1449137ce
+status: valid

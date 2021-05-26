@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: logarithme décimal de l'inverse du facteur moyen de luminance, `R` `DR`
+    = −log~10~`R`
+  examples: []
+  id: 845-24-073
+  language_code: fra
+  notes:
+  - L'unité de densité optique du facteur moyen de luminance est un.
+  - Cet article était numéroté 845-04-67 dans l'IEC 60050-845:1987
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité optique du facteur moyen de luminance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité du facteur moyen de luminance
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 44066545-7b1c-511d-9218-0480c58611db
+status: valid

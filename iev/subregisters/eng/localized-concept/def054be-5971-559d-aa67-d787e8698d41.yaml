@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 712-02-56
+      original: 712-02-56
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1994-08-01
+  definition: the quotient, usually expressed in logarithmic units, of the absolute
+    gain `G` of an antenna by the antenna-receiver noise temperature `T` referred
+    to the antenna terminals at a specified frequency and in specified conditions
+    of installation and operation
+  examples: []
+  id: 725-13-19
+  language_code: eng
+  notes:
+  - If the noise temperature is expressed in kelvins and the gain as a power ratio,
+    the quantity 10 log `G`/`T` is expressed in a unit designated by the symbol dB
+    (K^­1^), sometimes written incorrectly dBK.
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: figure of merit
+    normative_status: preferred
+    type: expression
+  - designation: '`G`/`T`'
+    international: true
+    type: symbol
+dateAccepted: 1994-08-01
+id: def054be-5971-559d-aa67-d787e8698d41
+status: valid

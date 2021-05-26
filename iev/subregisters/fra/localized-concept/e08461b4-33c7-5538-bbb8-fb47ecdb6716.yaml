@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'pour une tôle magnétique, rapport exprimé en pourcentage de la différence
+    entre la valeur de crête du champ magnétique appliqué `hat H_(alpha)` mesurée
+    sous un angle `α` par rapport à la direction du laminage, et la valeur de crête
+    du champ magnétique `hat H_0` mesurée dans la direction du laminage, à cette valeur
+    `hat H_0`, pour une valeur de crête déterminée de l''induction magnétique: `T_H
+    = ((hat H_(alpha) - hat H_0))/((hat H_0)) xx 100 %`'
+  examples: []
+  id: 221-03-40
+  language_code: fra
+  notes:
+  - Les mesures de `hat H_(alpha)` et `hat H_0` sont à faire dans les mêmes conditions.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur d'anisotropie du champ magnétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: e08461b4-33c7-5538-bbb8-fb47ecdb6716
+status: valid

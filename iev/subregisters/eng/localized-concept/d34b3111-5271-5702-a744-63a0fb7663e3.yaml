@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{peripheral unit, IEV:171-04-07}} that provides input from the environment
+    by means of signals'
+  examples: []
+  id: 171-04-36
+  language_code: eng
+  notes:
+  - The environment can be another device, a technical process or a human individual.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: input device
+    normative_status: preferred
+    type: expression
+    usage_info: in data processing
+  - designation: input unit
+    type: expression
+    usage_info: in data processing
+dateAccepted: 2019-03-01
+id: d34b3111-5271-5702-a744-63a0fb7663e3
+status: valid

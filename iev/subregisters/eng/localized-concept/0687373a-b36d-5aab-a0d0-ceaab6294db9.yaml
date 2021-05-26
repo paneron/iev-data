@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'difference between the self-permeance `Λ`~`ii`~ related to a circuit
+    element `i` and the absolute value of the mutual permeance `Λ`~`ij`~ related to
+    this element and another closed element `j`: `Λ`~σ`ij`~ = `Λ`~`ii`~ − |`Λ`~`ij`~|'
+  examples: []
+  id: 131-12-40
+  language_code: eng
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: leakage permeance
+    normative_status: preferred
+    type: expression
+  - designation: '`Λ`~σ`ij`~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 0687373a-b36d-5aab-a0d0-ceaab6294db9
+status: valid

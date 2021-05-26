@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - link: https://www.iso.org/standard/2210.html
+      original: ISO 140/4
+      ref: ISO 140-4
+      relationship:
+        type: identical
+  dateAmended: 1994-07-01
+  definition: in decibels, difference in space and time average sound pressure levels
+    produced in two rooms by one or more sound sources in one of them
+  examples: []
+  id: 801-31-37
+  language_code: eng
+  notes: []
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: level difference
+    normative_status: preferred
+    type: expression
+  - designation: sound isolation between rooms
+    type: expression
+dateAccepted: 1994-07-01
+id: 4869c039-1e85-5187-98d9-c7a1bde7f2ec
+status: valid

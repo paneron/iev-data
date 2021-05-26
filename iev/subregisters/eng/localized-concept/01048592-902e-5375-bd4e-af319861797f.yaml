@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: a standardized ISDN user-network interface structure utilizing the capacity
+    of the primary level of the digital hierarchy, i.e. 1544 kbit/s or 2048 kbit/s
+    digit rate
+  examples: []
+  id: 716-04-13
+  language_code: eng
+  notes:
+  - The digit rate of any D-channel in this interface structure is 64 kbit/s.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: primary rate access
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 01048592-902e-5375-bd4e-af319861797f
+status: valid

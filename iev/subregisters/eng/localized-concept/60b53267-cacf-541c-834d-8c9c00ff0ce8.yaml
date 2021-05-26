@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a reference pilot applied where a group is assembled and which accompanies
+    the group over the system up to the point where it is broken down into its constituent
+    elements
+  examples: []
+  id: 704-12-03
+  language_code: eng
+  notes:
+  - Various frequencies have been standardized by the CCITT for group reference pilots
+    within the frequency band of a basic group.
+  - In certain cases, two reference pilots may be applied where a basic group is assembled.
+  - 'Similar definitions can be given for: "supergroup reference pilot", "mastergroup
+    reference pilot", "supermastergroup reference pilot", "15-supergroup assembly
+    reference pilot" or "hypergroup reference pilot".'
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: group reference pilot
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 60b53267-cacf-541c-834d-8c9c00ff0ce8
+status: valid

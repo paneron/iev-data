@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'pour une tôle magnétique, rapport exprimé en pourcentage de la différence
+    entre les pertes magnétiques, `Pα`, mesurées sous un angle `α` par rapport à la
+    direction du laminage, et les pertes magnétiques, `P`~0~, mesurées dans la direction
+    du laminage, à cette valeur `P`~0~: `T_L = ((P_(alpha) - P_0))/((P_0)) xx 100
+    %`'
+  examples: []
+  id: 221-03-39
+  language_code: fra
+  notes:
+  - Les mesures de `Pα` et `P`~0~ sont à faire dans les mêmes conditions.
+  - Le facteur d'anisotropie des pertes sous un angle donné diffère du facteur d'anisotropie
+    des pertes `T` ({{IEV 221-03-38, IEV:221-03-38}}) tant par la notion qu'il représente
+    que par sa valeur numérique.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur d'anisotropie des pertes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: a44a01f4-353e-5b6b-a590-0b37f6306804
+status: valid

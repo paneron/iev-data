@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: poste téléphonique d'abonné associé à un numéro d'abonné particulier
+    et relié directement au commutateur local
+  examples: []
+  id: 722-13-06
+  language_code: fra
+  notes:
+  - Le mot "principal" doit être utilisé même s'il s'agit d'un poste qui n'est pas
+    associé à des postes téléphoniques supplémentaires car un tel poste est néanmoins
+    compté comme un poste téléphonique principal pour des raisons administratives.
+    Pour les mêmes raisons une installation à une ou plusieurs lignes téléphoniques
+    d'аbоnné est censée contenir un nombre de postes principaux égal au nombre de
+    lignes d'abonné.
+  - Quand deux postes téléphoniques installés ou plus sont connectés en parallèle,
+    l'un d'eux est d'habitude désigné comme poste téléphonique principal, les autres
+    comme postes téléphoniques supplémentaires.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: poste (téléphonique) principal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: b77ec484-7f81-5ef8-95f3-6876b6aff5bd
+status: valid

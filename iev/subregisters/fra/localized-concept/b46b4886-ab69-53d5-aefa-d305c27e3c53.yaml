@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: pour un corps et un axe spécifié, grandeur scalaire égale à l'intégrale
+    `J` = ∫~D~ `R`^2^ d`m` = ∫~D~ `R`^2^ `ρ` d`V`, où `ρ` est la masse volumique d'un
+    domaine D de masse d`m` et de volume d`V` quasi-infinitésimaux, et où `R` est
+    la distance entre le domaine et l'axe
+  examples: []
+  id: 113-03-21
+  language_code: fra
+  notes:
+  - 1 Pour un point matériel, le moment d'inertie est égal au produit de sa masse
+    `m` par le carré de sa distance `R` à l'axe, soit `J` = `mR`^2^. Pour un système
+    de particules, il est égal à la somme de leurs moments d'inertie.
+  - 2 En physique non relativiste, le moment d'inertie est une grandeur additive.
+  - 3 Plus généralement, le moment d'inertie peut être défini pour un corps rigide
+    par une grandeur tensorielle `vec vec J`, où `J`~`xx`~ = −∫(`y`^2^ + `z`^2^) d`m`,
+    cycl., cycl. et `J`~`yz`~ = −∫ `yz` d`m`, cycl. cycl.
+  - 4 Le moment d'inertie ne doit pas être confondu avec les moments quadratiques
+    axial et polaire d'une aire plane.
+  - 5 L'unité SI cohérente de moment d'inertie est le kilogramme mètre carré, kg·m^2^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moment d’inertie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: b46b4886-ab69-53d5-aefa-d305c27e3c53
+status: valid

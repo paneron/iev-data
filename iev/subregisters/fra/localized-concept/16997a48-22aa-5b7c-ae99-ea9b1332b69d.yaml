@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.27
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.27
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: description d'{{architecture, IEV:741-01-03}} qui fournit une solution
+    de modèle éprouvée lors du développement ou de la validation d'une architecture
+    pour une solution spécifique
+  examples: []
+  id: 741-01-27
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: architecture de référence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 16997a48-22aa-5b7c-ae99-ea9b1332b69d
+status: valid

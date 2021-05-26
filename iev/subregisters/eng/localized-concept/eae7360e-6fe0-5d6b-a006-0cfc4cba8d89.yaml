@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: condition that can arise during execution of a {{computer program, IEV:171-05-05}},
+    that can cause a deviation from the normal execution sequence, and for which means
+    exist to handle it
+  examples: []
+  id: 171-05-70
+  language_code: eng
+  notes:
+  - An exception can arise from an error such as division by zero or missing address.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exception
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: eae7360e-6fe0-5d6b-a006-0cfc4cba8d89
+status: valid

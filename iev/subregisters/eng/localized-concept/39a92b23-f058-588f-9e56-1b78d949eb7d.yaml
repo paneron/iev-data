@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: measure of the probability of a nuclear reaction of a specific type,
+    stated as the effective area which target particles present to incident particles
+    for that process
+  examples: []
+  id: 395-01-23
+  language_code: eng
+  notes:
+  - The standard unit for measuring a nuclear cross-section is the barn, which is
+    equal to 10^−28^ m^2^ or 10^−24^ cm^2^.
+  - A microscopic cross-section can be measured for each process of nuclear reaction
+    (capture, fission, n-n′, n-2n, n-g, …..).
+  - The macroscopic cross-section allows the calculation of the number of interactions
+    for a given nuclear reaction in a given material; this value is the produce between
+    the corresponding cross-section and the volumic number of particles in this material;
+    it is expressed in m^−1^ or cm^−1^.
+  - This entry was numbered 393-14-37 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cross-section
+    normative_status: preferred
+    type: expression
+    usage_info: nuclear
+  - designation: '`σ`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 39a92b23-f058-588f-9e56-1b78d949eb7d
+status: valid

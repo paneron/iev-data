@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 603-02-22
+      original: IEV 603-02-22, modified
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2016-02-01
+  definition: impedance at the point of the insulation fault between the faulted line
+    conductor and earth or between the faulted line conductors themselves
+  examples:
+  - Arc resistance.
+  id: 614-02-07
+  language_code: eng
+  notes: []
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fault impedance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: 6fc4c71f-8fe9-5b38-aab2-22e8f820f5d5
+status: valid

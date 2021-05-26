@@ -1,0 +1,51 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 1992-03-01
+  definition: en régime sinusoïdal et en notation complexe, rapport d'une grandeur
+    de champ telle qu'un courant réfléchi ou une composante d'une onde réfléchie à
+    la grandeur de champ correspondante du courant incident ou de l'onde incidente
+    en un point proche d'une surface séparant deux milieux de propagation, ou proche
+    d'un accès d'un réseau électrique ou d'une discontinuité d'une ligne de transmission
+  examples: []
+  id: 702-07-24
+  language_code: fra
+  notes:
+  - 1 – Quand la grandeur du champ est une composante d'une onde électromagnétique
+    plane, le signe du facteur de réflexion est différent pour une composante du champ
+    électrique et la composante correspondante du champ magnétique.
+  - 2 – Quand la grandeur de champ se rapporte à un accès d'un réseau électrique,
+    ou à une discontinuité d'une ligne de transmission, on peut définir un facteur
+    de réflexion en tension dont le signe est opposé à celui du facteur de réflexion
+    du courant.
+  - '3 – Si on peut définir des impédances, le facteur de réflexion complexe <u>`r`</u>
+    du courant est égal à:
+
+
+    `underset(_)(r) = ((underset(_)(Z) - underset(_)(Z)^( '' )))/((underset(_)(Z)
+    + underset(_)(Z)^( '' )))`
+
+
+    où `Z` est l''impédance caractéristique de la ligne avant la discontinuité ou
+    l''impédance de la source, et `Z`′ l''impédance après la discontinuité ou l''impédance
+    de la charge vue de l''accès commun à la source et à la charge.'
+  - 4 – Dans le cas d'un guide d'ondes le facteur de réflexion dépend du mode électromagnétique
+    considéré.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion complexe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient de réflexion
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 34850a00-876e-5eb1-a48c-037d3249f582
+status: valid

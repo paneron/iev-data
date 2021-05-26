@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: plot of the {{output voltage, IEV:485-13-03}} of a {{fuel cell, IEV:485-08-01}}
+    as a function of output {{current density, IEV:485-12-01}} at defined reaction
+    conditions
+  examples: []
+  id: 485-15-06
+  language_code: eng
+  notes:
+  - The polarization curve is expressed in V versus A/m^2^ or A/cm^2^.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarization curve
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+dateAccepted: 2020-02-01
+id: d85f7917-3a43-5d8d-b4a9-e3a9259acac8
+status: valid

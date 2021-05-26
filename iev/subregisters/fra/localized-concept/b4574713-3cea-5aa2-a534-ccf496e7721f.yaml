@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: opération effectuée sur un ensemble pour lequel une multiplication commutative
+    est définie, dont le résultat, pour deux éléments `a` et `b` de l'ensemble, est
+    l'élément unique `q`, s'il existe dans l'ensemble, telle que `b * q = a`
+  examples: []
+  id: 102-01-21
+  language_code: fra
+  notes:
+  - La division est définie pour les nombres rationnels et étendue à d'autres classes
+    de nombres, sauf la division par zéro, et à des entités mathématiques telles que
+    les polynômes, ainsi qu'aux grandeurs et aux unités.
+  - Dans une division `a // b`, le premier élément `a` est appelé «dividende» et le
+    deuxième «diviseur».
+  - La division des entités `a` et `b` est exprimée par les mots «`a` divisé par `b`»
+    ou «`a` par `b`» et est notée `(a)/(b)`, `a // b` ou `a b^(- 1)`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: division
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b4574713-3cea-5aa2-a534-ccf496e7721f
+status: valid

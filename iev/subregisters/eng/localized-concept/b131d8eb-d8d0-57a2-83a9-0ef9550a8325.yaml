@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: availability provided by the design under ideal conditions of operation
+    and maintenance
+  examples: []
+  id: 192-08-02
+  language_code: eng
+  notes:
+  - Delays associated with maintenance, such as logistic and administrative delays,
+    are excluded.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inherent availability
+    normative_status: preferred
+    type: expression
+  - designation: intrinsic availability
+    type: expression
+dateAccepted: 2015-02-01
+id: b131d8eb-d8d0-57a2-83a9-0ef9550a8325
+status: valid

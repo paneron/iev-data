@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: property of a three-dimensional Euclidean space, determined by the choice
+    of a base forming a right-handed trihedron or a left-handed trihedron
+  examples: []
+  id: 102-03-32
+  language_code: eng
+  notes:
+  - A right-handed base is commonly chosen. If, exceptionally, a left-handed base
+    is used for certain purposes, this shall be clearly stated to avoid the risk of
+    sign errors.
+  - For any `n`-dimensional vector space, the bases can be grouped in two classes
+    according to the sign of the determinant of the base vectors relative to a given
+    base chosen as reference for space orientation.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: space orientation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: fe71f228-b52b-51c3-ae81-38ce87f9eacc
+status: valid

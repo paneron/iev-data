@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for an eigenvalue `λ` of a square matrix *`A`*, non-zero column matrix
+    *`U`* such that *`AU`* = λ*`U`*
+  examples: []
+  id: 102-06-24
+  language_code: eng
+  notes:
+  - The term "eigenvector" is used because a square matrix represents often a tensor
+    quantity transforming a vector quantity into another vector quantity. In this
+    case the eigenvectors of the matrix are vectors.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: eigenvector
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: e67e66c8-7a04-5313-8046-a1626a4109e3
+status: valid

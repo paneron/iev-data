@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.2
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.2
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{dispositif IdO, IEV:741-02-04}} qui apporte des modification à des
+    propriétés d''une {{entité physique, IEV:741-01-26}} en réponse à une entrée valide'
+  examples: []
+  id: 741-02-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: actionneur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: Internet des Objets
+dateAccepted: 2018-11-17
+id: aca2bf6f-219b-5219-9d1b-da5dd5b66459
+status: valid

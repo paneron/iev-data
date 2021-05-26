@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: valeur numérique de la température en degrés Celsius caractérisant la
+    capacité thermique d'un matériau isolant ou d'un système d'isolation
+  examples: []
+  id: 212-12-11
+  language_code: fra
+  notes:
+  - Dans le cas de matériaux isolants, l’indice de temperature est déduit de la relation
+    d'endurance thermique pour un temps donné, normalement égal à 20 000 heures. Il
+    peut être utilisé comme base pour la détermination de la classe de température
+    du matériau.
+  - Dans le cas de systèmes d’isolation, l’indice de temperature peut être déduit
+    de l’expérience en service connue ou d’une évaluation fonctionnelle comparative
+    connue d’un système d’isolation de référence évalué et établi en tant que base.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de température
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: IT
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 2f47e8ce-7a11-530c-94ac-c9d8acdb6fc9
+status: valid

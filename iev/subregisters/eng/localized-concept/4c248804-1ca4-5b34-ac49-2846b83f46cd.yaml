@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: length describing the spatial variation of the magnetic field strength
+    in a superconductor
+  examples: []
+  id: 815-10-33
+  language_code: eng
+  notes:
+  - '`λ` is a function of temperature.'
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: London penetration depth
+    normative_status: preferred
+    type: expression
+  - designation: penetration depth
+    type: expression
+  - designation: '`λ`'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 4c248804-1ca4-5b34-ac49-2846b83f46cd
+status: valid

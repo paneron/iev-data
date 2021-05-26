@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: processus par lequel une caractéristique attachée à un signal répétitif,
+    par exemple la composante continue, est maintenue à une valeur de référence
+  examples: []
+  id: 702-04-37
+  language_code: fra
+  notes:
+  - La valeur de référence peut être fixe ou réglable.
+  - En français, le terme "clampage" désigne un processus particulier de calage, employé
+    par exemple en télévision.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: calage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: clampage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: aa95c547-0c71-5b54-8ee3-75b5cb844fd0
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: quotient of the volume of a specified component and the sum of the volumes
+    of all components of a gas mixture before mixing, all volumes referring to the
+    pressure and the temperature of the gas mixture
+  examples: []
+  id: 426-24-71
+  language_code: eng
+  notes:
+  - The volume fraction and volume concentration take the same value if, at the same
+    state conditions, the sum of the component volumes before mixing and the volume
+    of the mixture are equal. However, because the mixing of two or more gases at
+    the same state conditions is usually accompanied by a slight contraction or, less
+    frequently, a slight expansion, this is not generally the case.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume fraction
+    normative_status: preferred
+    type: expression
+  - designation: (`V` /`V`)
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: 544a9feb-cd62-5601-836e-d0b569bc57e7
+status: valid

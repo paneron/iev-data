@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: unité fonctionnelle qui génère sa variable de sortie en fonction de
+    sa variable d'entrée selon une fonction mathématique définie et invariante dans
+    le temps `v ( t ) = f u ( t )` où<table> <tr> <td>`t`</td> <td>est le temps;</td>
+    </tr> <tr> <td> `u`(`t`)</td> <td>est la variable d'entrée;</td> </tr> <tr> <td>`f`</td>
+    <td>est la fonction;</td> </tr> <tr> <td> `v`(`t`)</td> <td>est la variable de
+    sortie.</td> </tr> </table>
+  examples: []
+  id: 351-50-35
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-19 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: générateur de fonction
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: eed96d18-b8c7-5e0b-862d-539545552fa2
+status: valid

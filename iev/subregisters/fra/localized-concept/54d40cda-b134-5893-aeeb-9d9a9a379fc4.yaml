@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: écart minimal entre les niveaux d'énergies dans deux bandes permises
+    voisines séparées par une bande interdite
+  examples: []
+  id: 113-06-16
+  language_code: fra
+  notes:
+  - 1 Les deux bandes permises sont en général la bande de conduction et la bande
+    de valence.
+  - 2 En anglais, le terme «energy gap» est souvent employé à tort à la place de «gap
+    energy».
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: largeur de bande interdite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: écart énergétique
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 54d40cda-b134-5893-aeeb-9d9a9a379fc4
+status: valid

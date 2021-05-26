@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: examination of source code for features that may indicate the presence
+    of software faults
+  examples: []
+  id: 192-09-22
+  language_code: eng
+  notes:
+  - Static analysis typically reveals unreachable sections of code, unused, misused,
+    doubly-defined or uninitialized variables, and unintended execution paths.
+  - Static analysis normally employs computer aided software engineering tools.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: static analysis
+    normative_status: preferred
+    type: expression
+    usage_info: of software
+dateAccepted: 2015-02-01
+id: 5b0312a7-48b8-5096-833d-2c00abb70626
+status: valid

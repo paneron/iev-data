@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: espace autour des parties {{sous tension, IEV:651-21-08}} où la réduction
+    du {{risque électrique, IEV:651-26-06}} est organisée en limitant l'accès aux
+    seules {{personnes qualifiées, IEV:651-26-11}}, en maintenant des distances d'air
+    vis-à-vis des parties à un potentiel électrique différent et en utilisant des
+    {{outils, IEV:651-21-14}} pour {{travaux sous tension, IEV:651-21-01}}
+  examples: []
+  id: 651-21-03
+  language_code: fra
+  notes:
+  - Les limites extérieures de la zone de travail sous tension sont à une distance
+    des parties sous tension égale ou supérieure à la somme de la {{distance électrique,
+    IEV:651-21-12}} appropriée à la tension nominale maximale et de la {{distance
+    ergonomique, IEV:651-21-13}} sélectionnée.
+  - La zone de travail sous tension et les précautions spécifiques à appliquer sont
+    généralement définies dans la réglementation nationale ou dans la réglementation
+    de l'entreprise.
+  - Cet article était numéroté 651-01-06 dans la CEI 60050-651:1999. Il a été modifié
+    afin de clarifier le concept des travaux sous tension.
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de travail sous tension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: zone de danger
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8cb3f9a2-bd5b-55d2-88ae-9768ed8bef06
+status: valid

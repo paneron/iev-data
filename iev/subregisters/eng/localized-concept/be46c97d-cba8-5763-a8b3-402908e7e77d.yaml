@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: a subscriber's telephone station with a unique subscriber number directly
+    connected to a local switching entity
+  examples: []
+  id: 722-13-06
+  language_code: eng
+  notes:
+  - The word "main" is used even if a subscriber's main station has no extensions
+    since such a station is counted as a main station for administrative purposes.
+    By the same convention, an installation with one or more subscriber's lines is
+    considered to contain the same number of subscriber's main stations as it has
+    subscriber's lines.
+  - When two or more subscriber's stations are connected in parallel, usually one
+    is designated as the subscriber's main station, the others as extensions.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: subscriber's main station
+    normative_status: preferred
+    type: expression
+  - designation: main (telephone) station
+    type: expression
+dateAccepted: 1992-11-01
+id: be46c97d-cba8-5763-a8b3-402908e7e77d
+status: valid

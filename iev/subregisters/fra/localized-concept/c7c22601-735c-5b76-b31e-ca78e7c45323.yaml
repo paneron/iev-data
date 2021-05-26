@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: définition 815
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 815, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: série de réactions nucléaires de fission dans lesquelles le neutron
+    nécessaire à une fission est lui-même produit par la fission précédente
+  examples: []
+  id: 395-02-59
+  language_code: fra
+  notes:
+  - Selon que le nombre des réactions ainsi provoquées directement par une réaction
+    est en moyenne inférieur, égal ou supérieur à l’unité, la réaction est convergente
+    (sous-critique), auto-entretenue (critique) ou divergente (surcritique).
+  - Cet article était numéroté 393-12-84 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réaction nucléaire en chaîne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c7c22601-735c-5b76-b31e-ca78e7c45323
+status: valid

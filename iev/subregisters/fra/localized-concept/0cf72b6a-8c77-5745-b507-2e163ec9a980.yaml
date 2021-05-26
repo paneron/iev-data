@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: essai au cours duquel la contrainte appliquée augmente, après chaque
+    intervalle spécifié, jusqu'à ce qu'une défaillance se produise ou qu'un niveau
+    de contrainte prédéterminé soit atteint
+  examples: []
+  id: 192-09-10
+  language_code: fra
+  notes:
+  - Les intervalles peuvent être spécifiés par le nombre d’applications de la contrainte,
+    par des durées ou par des séquences d’essai.
+  - Il convient que l’essai ne modifie ni les modes ou mécanismes fondamentaux de
+    défaillance, ni leur fréquence relative.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai sous contrainte échelonnée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0cf72b6a-8c77-5745-b507-2e163ec9a980
+status: valid

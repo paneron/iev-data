@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 444-04-17
+      link: https://webstore.iec.ch/publication/208
+      original: IEC 60050-444:2002, 444-04-17, modifié – "relais" a été remplacé par
+        "relais de mesure ou dispositif de protection". L'ordre des mots a été modifié
+        afin de rendre la définition plus compréhensible.
+      ref: IEC 60050-444:2002
+      relationship:
+        modification: '"relais" a été remplacé par "relais de mesure ou dispositif
+          de protection". L''ordre des mots a été modifié afin de rendre la définition
+          plus compréhensible.'
+        type: modified
+  definition: contact fermé lorsque le {{relais de mesure, IEV:447-01-02}} ou l'{{équipement
+    de protection, IEV:447-01-49}} est à l'{{état de travail, IEV:447-02-01}} et ouvert
+    lorsque le relais ou l'équipement est à l'{{état de repos, IEV:447-02-02}}
+  examples: []
+  id: 447-04-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: contact de travail
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4197218a-a9f1-5f1d-81bd-ef3de7746d0b
+status: valid

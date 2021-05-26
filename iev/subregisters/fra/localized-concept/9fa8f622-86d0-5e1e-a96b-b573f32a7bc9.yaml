@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '7.12'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 7.12
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  definition: traitement accordé aux {{produits, IEV:902-02-03}} ou aux processus
+    d'un fournisseur, qui n'est pas moins favorable que celui accordé à des produits
+    ou à des processus similaires de tout autre fournisseur, dans une situation comparable
+  examples: []
+  id: 902-06-12
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: traitement égal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9fa8f622-86d0-5e1e-a96b-b573f32a7bc9
+status: valid

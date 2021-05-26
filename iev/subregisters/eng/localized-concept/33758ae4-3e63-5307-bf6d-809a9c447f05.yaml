@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the regularly reflected part of the (whole) reflected flux
+    and the incident flux
+  examples: []
+  id: 845-24-066
+  language_code: eng
+  notes:
+  - 'Reflectance, `ρ`, is the sum of regular reflectance, `ρ`~r~, and diffuse reflectance,
+    `ρ`~d~: `ρ` = `ρ`~r~ + `ρ`~d~.'
+  - The regular reflectance has unit one.
+  - This entry was numbered 845-04-60 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: regular reflectance
+    normative_status: preferred
+    type: expression
+  - designation: '`ρ`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 33758ae4-3e63-5307-bf6d-809a9c447f05
+status: valid

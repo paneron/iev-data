@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-08-01
+  definition: for a resonant circuit at a given frequency, 2π times the ratio of the
+    stored energy at the beginning of cycle to the energy dissipated during the cycle
+  examples: []
+  id: 151-15-46
+  language_code: eng
+  notes:
+  - The quality factor is a measure of sharpness of the resonance.
+  - In French, the term “facteur de surtension” is in common usage, even if there
+    is no overvoltage.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quality factor
+    normative_status: preferred
+    type: expression
+    usage_info: of a resonant circuit
+  - designation: '`Q` factor'
+    normative_status: preferred
+    type: expression
+    usage_info: of a resonant circuit
+  - designation: '`Q`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: dc6704d0-7fb6-5ebe-96ec-7ae46b0a1da9
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble des programmes, procédures, règles, documentation et données,
+    relatifs au fonctionnement d'un dispositif ou d'un système de {{traitement de
+    l'information, IEV:171-01-19}}
+  examples:
+  - '{{Micrologiciel, IEV:171-05-03}}, {{système d’exploitation, IEV:171-05-01}},
+    {{logiciel d’application, IEV:171-05-04}}.'
+  id: 171-01-21
+  language_code: fra
+  notes:
+  - Le logiciel est une création intellectuelle indépendante du support sur lequel
+    il est enregistré.
+  - Le logiciel requiert la présence de {{matériel, IEV:171-01-20}} pour exécuter
+    des programmes et pour stocker et transmettre des données.
+  reviewDecisionEvent: published
+  terms:
+  - designation: logiciel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 66f1479d-ee60-519a-838a-40567827f72a
+status: valid

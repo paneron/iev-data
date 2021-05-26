@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: transmission par courant porteur sur un support commun de plusieurs
+    signaux indépendants, effectuée en combinant l'emploi de transmissions à bande
+    latérale unique ou à double bande latérale et d'un multiplexage en fréquence
+  examples: []
+  id: 704-08-11
+  language_code: fra
+  notes:
+  - La transmission multiplex à courants porteurs peut être à porteuse complète ou
+    à porteuse supprimée.
+  - Le CCITT emploie normalement en anglais le terme "analogue carrier transmission".
+  - Un système de transmission employant la transmission multiplex à courants porteurs
+    est appelé "système analogique à courants porteurs" ou "système à courants porteurs".
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission (multiplex) à courants porteurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmission analogique à courants porteurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 447f2664-fb19-543b-84af-1875bc5fcee4
+status: valid

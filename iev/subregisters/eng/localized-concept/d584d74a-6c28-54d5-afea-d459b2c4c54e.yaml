@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: a technique for retaining a busy condition during the period of restoration
+    of a circuit from its busy to its free state in order to ensure against premature
+    re-seizure while exchange of release signals and the subsequent changes of state
+    are in progress
+  examples: []
+  id: 714-04-25
+  language_code: eng
+  notes: []
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: release guard
+    normative_status: preferred
+    type: expression
+  - designation: guarded release
+    type: expression
+dateAccepted: 1992-04-01
+id: d584d74a-6c28-54d5-afea-d459b2c4c54e
+status: valid

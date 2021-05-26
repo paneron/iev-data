@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: . 0,5-fractile of a probability distribution . for `n` real values not
+    necessarily different from each other, real number such that the number of values
+    less than it is equal to the number of values greater than it
+  examples: []
+  id: 103-08-15
+  language_code: eng
+  notes:
+  - If `n` is odd, the median is the value of rank `( n + 1 ) // 2` when the values
+    are arranged in increasing order. If `n` is even, the median may be any number
+    between the values of rank `n // 2` and `( n // 2 + 1 )`, usually the arithmetic
+    mean of these two values.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: median
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 67da9c34-1b1e-5203-86c4-d6eeb2e9a765
+status: valid

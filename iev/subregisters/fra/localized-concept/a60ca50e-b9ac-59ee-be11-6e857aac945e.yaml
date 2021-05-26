@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.76
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.76
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: adresse utilisée par la couche de liaison pour identifier le bus et
+    l'adresse de dispositif émetteur ou destinataire d'un paquet
+  examples: []
+  id: 811-37-52
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse de liaison
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a60ca50e-b9ac-59ee-be11-6e857aac945e
+status: valid

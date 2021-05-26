@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: 'the quotient of the energy d`E` lost by a charged particle of specified
+    energy in traversing a path length d`l` in a material: `S = ((d E))/((d l))`'
+  examples: []
+  id: 881-12-49
+  language_code: eng
+  notes:
+  - For energies at which nuclear interactions can be neglected, the total linear
+    stoping power is the sum of the linear collision stopping power and the linear
+    radiative stopping power.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total linear stopping power
+    normative_status: preferred
+    type: expression
+  - designation: '`S`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 5303aa3b-9801-5366-8ccd-fc565db289d9
+status: valid

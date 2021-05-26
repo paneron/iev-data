@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'functional unit with two inputs and one output, the output variable
+    being the difference between the two input variables, in closed-loop control the
+    control difference variable SEE: Figure 2.'
+  examples: []
+  id: 351-49-03
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-28-03 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: comparing element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 7278e6e9-68d0-517c-94a5-2a07d8174d30
+status: valid

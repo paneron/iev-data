@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: value expressing the relation between the active energy registered by
+    a meter and the corresponding value of the test output.
+  examples: []
+  id: 314-07-08
+  language_code: eng
+  notes:
+  - If this value is a number of pulses, the constant should be either pulses per
+    kilowatt-hour (imp/kWh) or watt-hours per pulse (Wh/imp)
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (meter) constant
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 34315bdc-fcb3-5adb-a262-4aec3a736de7
+status: valid

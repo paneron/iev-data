@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pression relative maximale à laquelle une {{cellule élémentaire à combustible,
+    IEV:485-08-01}} ou un {{système à pile à combustible, IEV:485-09-01}} peut fonctionner
+  examples: []
+  id: 485-17-03
+  language_code: fra
+  notes:
+  - La pression de service admissible maximale est exprimée en Pa.
+  - La pression de service admissible maximale est la pression utilisée pour déterminer
+    l'emplacement des dispositifs de limitation/diminution de pression installés pour
+    protéger un élément ou un système d'une surpression accidentelle.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pression de service admissible maximale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3773995a-58e6-5901-83c2-79dd22d985ee
+status: valid

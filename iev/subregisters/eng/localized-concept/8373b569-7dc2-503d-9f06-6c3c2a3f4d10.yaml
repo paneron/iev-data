@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: protection in which the residual current from a set of three-phase current
+    transformers is balanced against the residual output from a similar set of current
+    transformers or, more usually, from a single current transformer located on the
+    earthing connection, if any, of a neutral point
+  examples: []
+  id: 448-14-29
+  language_code: eng
+  notes:
+  - This term is also used when the neutral of the protected plant is unearthed i.e.
+    neither a second set of three-phase current transformers nor a current transformer
+    in the neutral connection is needed to restrict the protected section.
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: restricted earth-fault protection
+    normative_status: preferred
+    type: expression
+  - designation: ground differential protection
+    type: expression
+dateAccepted: 1995-12-01
+id: 8373b569-7dc2-503d-9f06-6c3c2a3f4d10
+status: valid

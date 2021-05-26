@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: for a linear time-invariant system with synchronously sampled input
+    and output variables the ratio of the Z-transform of the output variable to the
+    Z-transform of the corresponding input variable, with all initial values equal
+    to zero
+  examples: []
+  id: 351-45-40
+  language_code: eng
+  notes:
+  - This entry was numbered 351-24-32 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Z-transfer function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: d930c8f4-50b8-587a-83c1-0cee36bf37c9
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: courant électrique continu maximal spécifié par le fabricant pour lequel
+    le {{système à pile à combustible, IEV:485-09-01}} a été dimensionné
+  examples: []
+  id: 485-12-02
+  language_code: fra
+  notes:
+  - Le courant assigné est exprimé en A.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant assigné
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: piles à combustible
+dateAccepted: 2018-11-17
+id: 77fc0936-3967-54be-8164-d4a4d2b7c475
+status: valid

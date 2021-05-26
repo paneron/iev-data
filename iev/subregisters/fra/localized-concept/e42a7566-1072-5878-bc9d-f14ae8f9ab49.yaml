@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: modèle mathématique produisant des transformations appliquées aux données
+    d'images en référence à la scène ou à l'original afin de produire des données
+    d'images décrivant une reproduction aussi fidèle que possible de l'original
+  examples: []
+  id: 845-32-020
+  language_code: fra
+  notes:
+  - Les transformations produites par des modèles correspondants de reproduction des
+    couleurs dépendent généralement du rapport de luminance et de la gamme des couleurs
+    de la scène ou de l'original et du support de sortie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: modèle correspondant de reproduction des couleurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e42a7566-1072-5878-bc9d-f14ae8f9ab49
+status: valid

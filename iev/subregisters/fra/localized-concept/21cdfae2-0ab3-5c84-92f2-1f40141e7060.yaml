@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: estimation non biaisée de la définition préférée dans le domaine temporel
+    de la caractéristique de stabilité à court terme de la fréquence de sortie de
+    l'oscillateur donnée par `sigma_y ^2 ( tau ) tilde= (1)/((M – 1)) sum_((k = 1))^((M
+    – 1)) ((( Y_((k + 1)) – Y_k )^2))/(2)` où `Y`~`k`~ sont les fluctuations de fréquence
+    relative moyennes obtenues de manière séquentielle, sans temps mort systématique
+    entre les mesures; `τ` est la durée d'échantillon sur laquelle la moyenne des
+    mesures est calculée; `M` est le nombre de mesures
+  examples: []
+  id: 561-03-02
+  language_code: fra
+  notes:
+  - Le niveau de confiance de l’estimation augmente au fur et à mesure de l’augmentation
+    de `M.`
+  - Cet article était numéroté 561-04-18 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: variance d’Allan de la fluctuation de fréquence relative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 21cdfae2-0ab3-5c84-92f2-1f40141e7060
+status: valid

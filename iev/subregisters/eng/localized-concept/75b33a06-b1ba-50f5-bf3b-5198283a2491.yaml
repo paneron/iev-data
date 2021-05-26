@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the frequency of an intermodulation product
+  examples: []
+  id: 702-07-66
+  language_code: eng
+  notes:
+  - 'The combination frequencies are given by the formulas: `f` = p `f`~1~ + q `f`~2~
+    + ... where p, q, ... are positive, negative or zero integers and `f`~1~, `f`~2~
+    ... are the frequencies of spectral components of the input signal or signals.'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: combination frequency
+    normative_status: preferred
+    type: expression
+  - designation: combination tone
+    type: expression
+dateAccepted: 1992-03-01
+id: 75b33a06-b1ba-50f5-bf3b-5198283a2491
+status: valid

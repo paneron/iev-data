@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: luminous flux leaving the LED and propagating within a given cone angle,
+    `α`, (centred from the LED's mechanical axis) that is determined by a circular
+    aperture of 50 mm in diameter and the distance measured from the tip of the LED
+  examples: []
+  id: 845-21-112
+  language_code: eng
+  notes:
+  - A detailed method of measurement is given in CIE 127, _Measurement of LEDs_.
+  - Partial LED flux is a quantity that applies to a single LED only and should not
+    be confused with the term "<a href="IEV845-21-110">partial luminous flux</a>".
+  - The partial LED flux is expressed in lumen (lm).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: partial LED flux
+    normative_status: preferred
+    type: expression
+  - designation: '`Φ`~v,LED,~`α`
+
+      `Φ`~LED,~`α`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7d8ee856-0efa-534b-87a0-65a2175e3c35
+status: valid

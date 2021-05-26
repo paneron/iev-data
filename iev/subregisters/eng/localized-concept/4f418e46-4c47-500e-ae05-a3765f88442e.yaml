@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-10-01
+  definition: channel that provides the {{frequency band, IEV:704-09-02}} required
+    for the transmission of {{sound signals, IEV:723-02-06}}
+  examples: []
+  id: 704-09-06
+  language_code: eng
+  notes:
+  - For {{stereophony, IEV:723-03-43}}, two "matched" sound programme channels are
+    required.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sound programme channel
+    normative_status: preferred
+    type: expression
+  - designation: sound programme circuit
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2019-10-01
+id: 4f418e46-4c47-500e-ae05-a3765f88442e
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: backup protection which is energised either from those instrument transformers
+    which energize the main protection or from instrument transformers associated
+    with the same primary circuit as the main protection
+  examples: []
+  id: 448-11-15
+  language_code: eng
+  notes:
+  - In the USA, the term "circuit local backup protection" is sometimes used as an
+    alternative to the term "breaker failure protection".
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit local backup protection
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-12-01
+id: 16c84a0a-426f-5e6b-9643-f983da50f6df
+status: valid

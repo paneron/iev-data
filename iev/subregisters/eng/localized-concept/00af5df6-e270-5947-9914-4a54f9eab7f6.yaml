@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: luminance in a given direction that results from emission at the surface
+    of a photoluminescent medium under specified conditions of illumination, compared
+    to the luminance in the same direction by the perfect reflecting diffuser identically
+    illuminated
+  examples: []
+  id: 845-21-102
+  language_code: eng
+  notes:
+  - The luminescent luminance factor depends upon the spectral power distribution
+    of the illumination and this quantity is typically specified for a given CIE illuminant
+    condition.
+  - The luminescent luminance factor has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminescent luminance factor
+    normative_status: preferred
+    type: expression
+    usage_info: of a photoluminescent material
+  - designation: '`β`~v,L~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 00af5df6-e270-5947-9914-4a54f9eab7f6
+status: valid

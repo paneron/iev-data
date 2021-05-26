@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension caractérisant un transfert de chaleur, définie
+    par `N u = ((K l))/(lambda)`, où `K` est le coefficient de transmission thermique,
+    `l` est une longueur caractérisant la configuration et `λ` est la conductivité
+    thermique
+  examples: []
+  id: 113-04-43
+  language_code: fra
+  notes:
+  - 1 Le nombre de Nusselt est souvent calculé par des formules empiriques en fonction
+    d'autres nombres caractéristiques (nombre de Reynolds `Re`, nombre de Prandtl
+    `Pr`, nombre de Péclet `Pe`, nombre de Grashof `Gr`), et utilisé ensuite pour
+    déterminer le coefficient de transmission thermique `K`.
+  - 2 On utilise le nom «nombre de Biot», symbole `Bi`, lorsqu’on réserve le nombre
+    de Nusselt aux échanges de chaleur par convection.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de Nusselt
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: nombre de Biot
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 206cf12f-36a6-5843-9fb1-dd2332d8037a
+status: valid

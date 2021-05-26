@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 701-03-19
+      original: 701-03-19
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1991-11-01
+  definition: pertaining to a link where the transfer of users' information is possible
+    simultaneously in both directions between two points
+  examples: []
+  id: 721-04-22
+  language_code: eng
+  notes:
+  - The transmission channel capacity and signalling rate are not necessarily the
+    same in both directions.
+  - This term should not be used to describe the direction of call set-ups.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bidirectional
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 90453bfb-42e1-501c-8f59-ee9006478bad
+status: valid

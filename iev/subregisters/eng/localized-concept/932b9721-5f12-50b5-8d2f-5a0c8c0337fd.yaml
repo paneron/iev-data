@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: functional unit that monitors the network traffic to recognize and analyze
+    packets of interest
+  examples: []
+  id: 732-02-16
+  language_code: eng
+  notes:
+  - A packet sniffer is used for network analysis.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: packet sniffer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 932b9721-5f12-50b5-8d2f-5a0c8c0337fd
+status: valid

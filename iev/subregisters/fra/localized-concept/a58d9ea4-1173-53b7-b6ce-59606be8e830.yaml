@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-03-01
+  definition: point dans un réseau de distribution, désigné comme tel et fixé contractuellement,
+    auquel l'énergie est échangée entre les partenaires contractuels
+  examples: []
+  id: 617-04-02
+  language_code: fra
+  notes:
+  - Le point de livraison peut être différent du point frontière entre le réseau d’alimentation
+    et  l’installation de l’utilisateur, ou du point de comptage.
+  reviewDate: 2009-03-01
+  reviewDecisionDate: 2009-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point de livraison
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bornes de livraison
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2009-03-01
+id: a58d9ea4-1173-53b7-b6ce-59606be8e830
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: . function `f ( t )` which is a measure of the similarity of two deterministic
+    functions `f_1 ( t )` and `f_2 ( t )`, defined by `f ( t ) = int_( - oo)^( + oo)
+    f_1 ( tau ) f_2 ( t + tau ) d tau` . function `f ( t )` which is a measure of
+    the similarity of two stationary random functions `f_1 ( t )` and `f_2 ( t )`,
+    defined by `f ( t ) = underset((T -> oo))((lim)) (1)/((2 T)) int_( - T)^( + T)
+    f_1 ( tau ) f_2 ( t + tau ) d tau`
+  examples: []
+  id: 103-09-06
+  language_code: eng
+  notes:
+  - 'The Fourier transform of `f ( t )` is equal to the product of the conjugate of
+    the Fourier transform of `f_1 ( t )` and the Fourier transform of `f_2 ( t )`:
+
+
+    `F ( omega ) = F_1^( ** ) ( omega ) F_2 ( omega )`'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: correlation function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: ef548bf4-5a2c-588f-8a5e-c339d5d8f1a5
+status: valid

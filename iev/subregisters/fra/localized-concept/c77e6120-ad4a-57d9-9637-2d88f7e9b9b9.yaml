@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: technique permettant de relier deux réseaux par l'intermédiaire d'un
+    troisième réseau, tout en isolant totalement le trafic de cette liaison de tout
+    autre trafic dans le troisième réseau
+  examples: []
+  id: 732-01-30
+  language_code: fra
+  notes:
+  - '– Voir Figure 2.
+
+
+    image::/assets/images/parts/732/732-01-30_F2.gif[]'
+  - 'Le tunnel relie les réseaux A et B à travers le réseau X, sans accès intermédiaire.
+
+
+    *Figure 2 – Tunnellisation*'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tunnellisation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmission tunnel
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: c77e6120-ad4a-57d9-9637-2d88f7e9b9b9
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble de spires ou de bobines interconnectées et destinées à fonctionner
+    conjointement
+  examples: []
+  id: 151-13-17
+  language_code: fra
+  notes:
+  - Un enroulement est muni de bornes et est destiné à produire un champ magnétique
+    lorsqu’il est parcouru par des courants électriques ou à produire des tensions
+    électriques entre des points appropriés lorsqu’il est placé dans un champ magnétique
+    variable dans le temps ou déplacé dans un champ magnétique.
+  - Le nombre de tours ou de spires d’un enroulement est noté `N`. Ce nombre peut
+    être non entier.
+  reviewDecisionEvent: published
+  terms:
+  - designation: enroulement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ec745b98-0e38-507c-bd95-7d6d9d870bdb
+status: valid

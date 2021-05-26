@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: linear time-invariant transfer element the time derivative of the output
+    variable of which is proportional to the corresponding value of the input variable
+  examples: []
+  id: 351-50-08
+  language_code: eng
+  notes:
+  - "The transfer function of an I element is given as\n\n`((V ( s )))/((U ( s )))\
+    \ = ((K_I))/(s)`\n\nwhere<table>\r\n<tr>\n<td>\n`K`~I~\n</td>\n<td>is the integral\
+    \ action coefficient;</td>\n</tr>\r\n<tr>\n<td>`s`</td>\n<td>is the complex variable\
+    \ of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\n`U`(`s`)</td>\n<td>is the\
+    \ input transform;</td>\n</tr>\r\n<tr>\n<td>\n`V`(`s`)</td>\n<td>is the output\
+    \ transform.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-19 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: integral element
+    normative_status: preferred
+    type: expression
+  - designation: I element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: e294aad0-30f8-5fb2-aa09-cc35ccca280a
+status: valid

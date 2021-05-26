@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-08-01
+  definition: liaison radioélectrique entre une station émettrice et une station réceptrice
+    par l'intermédiaire d'un ou plusieurs satellites et parfois d'une ou plusieurs
+    stations terriennes
+  examples: []
+  id: 725-12-26
+  language_code: fra
+  notes:
+  - Les stations d'extrémité d'une liaison par satellite peuvent être deux stations
+    terriennes, deux stations spatiales ou une station terrienne et une station spatiale.
+  - 'En français, le règlement des radiocommunications de l''UIT, limite le sens du
+    terme "liaison par satellite" à une liaison unisatellite.
+
+
+    image::/assets/images/parts/725/725-12fr.gif[]'
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: liaison par satellite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-08-01
+id: 17a594de-75b7-57f0-8846-fa04a064bbac
+status: valid

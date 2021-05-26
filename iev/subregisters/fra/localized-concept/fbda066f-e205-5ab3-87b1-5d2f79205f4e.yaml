@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: tension électrique de valeur plus petite qu'une valeur limite spécifiée
+  examples: []
+  id: 151-15-29
+  language_code: fra
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: subtension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: sous-tension
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: manque de tension
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: fbda066f-e205-5ab3-87b1-5d2f79205f4e
+status: valid

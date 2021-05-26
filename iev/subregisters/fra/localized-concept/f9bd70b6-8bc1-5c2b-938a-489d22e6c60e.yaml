@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: partie réelle d'une admittance `underset(_)(Y)` `G = Re ( underset(_)(Y)
+    )`
+  examples: []
+  id: 131-12-53
+  language_code: fra
+  notes:
+  - Le terme «conductance» a un sens apparenté en {{131-12-06, IEV:131-12-06}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: conductance en courant alternatif
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conductance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f9bd70b6-8bc1-5c2b-938a-489d22e6c60e
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans un ensemble muni d'une addition, élément unique `n`, s'il existe,
+    tel que `a` + `n` = `a` pour tout élément `a`
+  examples: []
+  id: 102-01-12
+  language_code: fra
+  notes:
+  - Pour les nombres, l'élément neutre pour l'addition est le nombre zéro, noté 0.
+    Pour les vecteurs, l'élément neutre est le vecteur zéro, noté *0* ou `vec 0`.
+    Pour les matrices, l'élément neutre est la {{matrice nulle, IEV:102-06-07}}. Pour
+    des grandeurs scalaires d'une nature donnée, l'élément neutre est une grandeur
+    de même nature dont la valeur numérique est nulle.
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément neutre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour l'addition
+dateAccepted: 2018-11-17
+id: dc56e1c4-153e-5eb5-bafb-28fa803eb682
+status: valid

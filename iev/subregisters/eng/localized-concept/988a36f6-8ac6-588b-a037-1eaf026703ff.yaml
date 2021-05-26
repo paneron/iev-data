@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: power supply where the output voltage and output current have a non-linear
+    relationship
+  examples: []
+  id: 426-11-41
+  language_code: eng
+  notes:
+  - For example, a supply controlled by semiconductors with a constant voltage output
+    that can reach a constant current limit.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-linear power supply
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: 988a36f6-8ac6-588b-a037-1eaf026703ff
+status: valid

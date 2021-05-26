@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 7.5.2
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 7.5.2
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: '{{requirement, IEV:901-05-05}} of a {{normative document, IEV:901-02-01}}
+    that must be fulfilled in order to comply with a particular option permitted by
+    that document'
+  examples: []
+  id: 901-05-07
+  language_code: eng
+  notes:
+  - An optional requirement may be either. one of two or more alternative requirements;
+    or. an additional requirement that must be fulfilled only if applicable and that
+    may otherwise be disregarded.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: optional requirement
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 8e874eb4-3834-562c-a81e-b7ebf4b7b63a
+status: valid

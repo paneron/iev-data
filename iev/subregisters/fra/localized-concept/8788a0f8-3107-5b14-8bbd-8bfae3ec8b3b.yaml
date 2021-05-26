@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '4.14'
+      original: ≠ VIM 4.14
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: partie d'un appareil de mesure ou d'une chaîne de mesure qui est directement
+    soumise au mesurande et qui génère un signal lié à la valeur du mesurande
+  examples: []
+  id: 311-05-01
+  language_code: fra
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: élément de mesure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 8788a0f8-3107-5b14-8bbd-8bfae3ec8b3b
+status: valid

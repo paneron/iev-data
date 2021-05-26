@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: mode de transmission dans lequel les messages ne sont émis que sur demande,
+    par exemple à la suite d'une interrogation émise par le poste de conduite
+  examples: []
+  id: 371-07-03
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission dirigée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmission à la demande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 2628b8eb-935b-531b-bfed-9ce4d6a96fb4
+status: valid

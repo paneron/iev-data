@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 2.4.25
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.4.25
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  definition: '{{dispositif, IEV:151-11-20}} mécanique qui commande le flux de fluide
+    dans un canal microscopique'
+  examples: []
+  id: 523-04-17
+  language_code: fra
+  notes:
+  - Les microvannes, constituées de {{composants, IEV:151-11-21}} tels que des {{actionneurs,
+    IEV:151-13-49}} et des diaphragmes réalisés en silicium, etc., commandent le flux
+    dans les canaux microscopiques (de dimensions inférieures à plusieurs micromètres).
+    Par exemple, une vanne de commande de l’écoulement gazeux est composée d’un {{actionneur
+    piézoélectrique, IEV:523-04-10}} à empilement et d’un diaphragme. Pour commander
+    les fluides à haute viscosité comme le sang, il est nécessaire d’élargir le canal
+    et d’augmenter la course de l’entraînement de la vanne. Un mécanisme utilisant
+    une bobine en alliage à mémoire de forme et un ressort biais a été développé expérimentalement
+    à cet effet, ainsi qu’un mécanisme qui modifie le canal par un actionneur électrostatique,
+    magnétique ou piézoélectrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: microvanne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 18c91c3d-8c77-552b-9685-3f6c08ff20cd
+status: valid

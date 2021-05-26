@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: time `τ` in the expression `F ( t ) = A + B e^(- t // tau)` of a quantity
+    `F` growing or decaying exponentially towards a constant value `A` with increasing
+    time `t`, or in the expression `F ( t ) = A + f ( t ) e^(- t // tau)` of an exponentially
+    damped oscillation, where `f` is a periodic function of time
+  examples: []
+  id: 103-05-26
+  language_code: eng
+  notes:
+  - The time constant of an exponentially varying quantity is the duration of a time
+    interval at the end of which the absolute value of the difference between the
+    quantity and the limit has decreased to 1/e of the absolute value of this difference
+    at the beginning of the time interval, where e is the base of natural logarithms.
+  - The time constant of a damped oscillation is the inverse of the damping coefficient.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time constant
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 2fbdb20a-b0a1-5e85-a7e2-f5f0de5ce007
+status: valid

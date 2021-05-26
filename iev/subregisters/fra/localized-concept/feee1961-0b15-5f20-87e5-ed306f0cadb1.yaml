@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.22
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.22
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: environnement dans lequel une {{entité, IEV:741-01-18}} peut utiliser
+    un ensemble d'attributs pour identification
+  examples: []
+  id: 741-01-22
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: contexte d'identité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: feee1961-0b15-5f20-87e5-ed306f0cadb1
+status: valid

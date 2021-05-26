@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: dans un circulateur à quatre accès au moins, affaiblissement des ondes
+    entre un accès d'entrée et un autre accès différent de l'accès qui suit le premier
+    dans l'ordre fiхé pour les accès
+  examples: []
+  id: 726-18-06
+  language_code: fra
+  notes:
+  - Le couplage mutuel entre accès non attenants ne doit pas être confondu avec l'affaiblissement
+    inverse entre accès attenants dans l'ordre des accès.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: couplage mutuel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: couplage transversal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 6581cfb5-23c0-59fd-95f7-a96774010397
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for any element `a` of a set in which a multiplication with a neutral
+    element `u` is defined, the unique element `a^(- 1)` of the set, if it exists,
+    such that `a * a^(- 1) = a^(- 1) * a = u`
+  examples: []
+  id: 102-01-24
+  language_code: eng
+  notes:
+  - In English, the term "reciprocal" is preferred for numbers.
+  - The inverse of element `a` is denoted by `a^(- 1)`. For a non-zero number, or
+    for a quantity or unit, the inverse may also be denoted by `1 // a` or `(1)/(a)`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inverse
+    normative_status: preferred
+    part_of_speech: noun
+    type: expression
+  - designation: reciprocal
+    part_of_speech: noun
+    type: expression
+dateAccepted: 2008-08-01
+id: f3d171b8-aa7b-54d5-b66f-5a6e849d9e56
+status: valid

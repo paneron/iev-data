@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a reference pilot used to control a maintenance switching function at
+    a distant point
+  examples: []
+  id: 704-12-06
+  language_code: eng
+  notes:
+  - Examples of such switching functions are, to busy the channels of a multichannel
+    carrier system, or to replace a normal repeater by a standby repeater in the case
+    of a fault.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: switching control pilot
+    normative_status: preferred
+    type: expression
+  - designation: switching pilot
+    type: expression
+dateAccepted: 1993-08-01
+id: e811c302-af66-5f36-801b-cec85c60aedb
+status: valid

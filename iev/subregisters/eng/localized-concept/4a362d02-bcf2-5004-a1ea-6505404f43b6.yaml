@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 551-16-01
+      link: https://webstore.iec.ch/publication/220
+      original: IEC 60050-551:1998, 551-16-01, modified
+      ref: IEC 60050-551:1998
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: transfer of current from one conducting arm to the next to conduct in
+    sequence, without interruption of the DC current
+  examples: []
+  id: 811-28-19
+  language_code: eng
+  notes:
+  - During a finite time interval both arms are conducting simultaneously.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commutation
+    normative_status: preferred
+    type: expression
+    usage_info: in an electronic power converter
+dateAccepted: 2017-11-01
+id: 4a362d02-bcf2-5004-a1ea-6505404f43b6
+status: valid

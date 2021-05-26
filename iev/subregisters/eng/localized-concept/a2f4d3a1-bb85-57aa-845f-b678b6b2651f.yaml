@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: for a derivative element, quantity equal to the derivative action coefficient,
+    if its input and output variables are variable quantities of the same kind
+  examples: []
+  id: 351-50-15
+  language_code: eng
+  notes:
+  - Then the derivative action time is given by `T`~D~ = `K`~D~, where `K`~D~ is the
+    derivative action coefficient.
+  - The derivative action time can also be given as the duration of the time interval
+    required by a rampwise variation of the input variable of a derivative element
+    to reach the value of the stepwise variation of its output variable.
+  - This entry was numbered 351-28-26 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: derivative action time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: a2f4d3a1-bb85-57aa-845f-b678b6b2651f
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: 'time integral of the electric current `i` at a terminal of a two-terminal
+    element or `n`-terminal element: `q ( t ) = int_((t_0))^t i ( tau ) d tau` where
+    `t`~0~ is any instant before the first supply of electric energy'
+  examples: []
+  id: 131-12-11
+  language_code: eng
+  notes: []
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electric charge
+    normative_status: preferred
+    type: expression
+  - designation: '`q`'
+    international: true
+    type: symbol
+dateAccepted: 2008-09-01
+id: 5887b8f8-f71f-5670-af5e-fb2625dd7a0e
+status: valid

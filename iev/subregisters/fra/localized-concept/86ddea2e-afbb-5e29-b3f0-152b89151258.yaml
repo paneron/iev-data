@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: commutateur qui intervient nécessairement toutes les fois que l'un des
+    terminaux d'un ensemble donné, qui lui sont dits rattachés, est mis en jeu dans
+    une communication, et qui joue généralement le rôle d'interface entre la signalisation
+    qui est propre à ces terminaux et tout autre type de signalisation
+  examples: []
+  id: 715-08-11
+  language_code: fra
+  notes:
+  - Étant donné un terminal, il existe au moins un commutateur de rattachement, et
+    en général un seul, auquel il se trouve relié par un ensemble de lignes de rattachement
+    en parallèle.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commutateur de rattachement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 86ddea2e-afbb-5e29-b3f0-152b89151258
+status: valid

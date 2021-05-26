@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: valeur, efficace la plus haute de la tension entre phases pour laquelle
+    un enroulement de transformateur ou de bobine d'inductance est conçu en ce qui
+    concerne son isolation
+  examples: []
+  id: 421-09-01
+  language_code: fra
+  notes:
+  - '`U`~m~ est la valeur maximale de la tension la plus élevée d''un réseau auquel
+    l''enroulement peut être connecté, compte tenu de son isolation.'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension la plus élevée pour le matériel `U`~m~
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: 8ab15854-9756-5aaf-ab0d-ac8ff268e20e
+status: valid

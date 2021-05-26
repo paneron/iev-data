@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: duration between the instant when the {{characteristic quantity, IEV:447-07-01}}
+    of a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    in {{reset condition, IEV:447-02-02}} is changed beyond its {{operate value, IEV:447-02-10}},
+    under specified conditions, and the instant when a specified {{output break circuit,
+    IEV:447-04-09}} first opens
+  examples: []
+  id: 447-05-01
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: opening time of an output break circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: e39864e1-577e-51de-a475-6fd105d228a2
+status: valid

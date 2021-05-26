@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: technologie d'affichage qui module la lumière d'un rétroéclairage afin
+    d'obtenir une image en échelle de gris et utilise des filtres de couleur rouge,
+    verte et bleue afin d'obtenir une image couleur
+  examples: []
+  id: 845-32-037
+  language_code: fra
+  notes:
+  - Le modulateur se compose d'une couche de cristaux liquides qui peut modifier la
+    polarisation de la lumière et de deux polariseurs (dans la plupart des cas croisés)
+    qui neutralisent la lumière de rétroéclairage.
+  - Cet article était numéroté 845-04-99 dans l'IEC 60050-845:1987.
+  - Le terme abrégé "LCD" est dérivé du terme anglais développé correspondant "liquid
+    crystal dsplay".
+  reviewDecisionEvent: published
+  terms:
+  - designation: affichage à cristaux liquides
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: technologie
+  - designation: LCD
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 84bca911-2e43-5b79-a851-665164aa6470
+status: valid

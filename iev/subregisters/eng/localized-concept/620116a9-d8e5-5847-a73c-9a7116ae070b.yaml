@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: representation of a sinusoidal {{integral quantity, IEV:131-11-01}}
+    by a complex quantity whose argument is equal to the initial phase and whose modulus
+    is equal to the {{RMS value, IEV:103-02-03}}
+  examples: []
+  id: 103-07-14
+  language_code: eng
+  notes:
+  - For a quantity `a ( t ) = hat A cos ( omega t + vartheta_0 )` the phasor is `underset(_)(A)
+    = A exp ( j vartheta_0 )`, where `A = (hat A)/((sqrt(2)))` is the RMS value and
+    `vartheta_0` is the initial phase. A phasor can also be represented graphically.
+  - Electric current phasor `underset(_)(I)` and voltage phasor `underset(_)(U)` are
+    often used.
+  - The similar representation with the modulus equal to the amplitude is sometimes
+    also called "phasor".
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phasor
+    normative_status: preferred
+    type: expression
+  - designation: complex RMS value
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 620116a9-d8e5-5847-a73c-9a7116ae070b
+status: valid

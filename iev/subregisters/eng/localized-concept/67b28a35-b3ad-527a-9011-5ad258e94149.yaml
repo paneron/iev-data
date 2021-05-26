@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: 'a figure of merit often used to characterize optical detector performance
+    defined by the formula: `D^( ** ) = D sqrt(A * Delta f)` where `D` is the detectivity,
+    `A` the area of the photosensitive region of the detector and Δ`f` the effective
+    noise bandwidth'
+  examples: []
+  id: 731-06-42
+  language_code: eng
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: normalized detectivity
+    normative_status: preferred
+    type: expression
+  - designation: specific detectivity
+    normative_status: preferred
+    type: expression
+  - designation: D-star
+    normative_status: preferred
+    type: expression
+  - designation: '`D`*'
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: 67b28a35-b3ad-527a-9011-5ad258e94149
+status: valid

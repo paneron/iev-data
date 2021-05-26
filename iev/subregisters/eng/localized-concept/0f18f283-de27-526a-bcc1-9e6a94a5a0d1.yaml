@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 604-03-06
+      original: 604-03-06 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: at a given location of a three-phase system, and for a given system
+    configuration, ratio of the highest root-mean-square value of line-to-earth power
+    frequency voltage on a healthy line conductor during an earth fault affecting
+    one or more line conductors at any point on the system, to the root-mean-square
+    value of line-to-earth power frequency voltage which would be obtained at the
+    given location in the absence of any such earth fault
+  examples: []
+  id: 195-05-14
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earth fault factor
+    normative_status: preferred
+    type: expression
+  - designation: ground fault factor
+    type: expression
+dateAccepted: 1998-08-01
+id: 0f18f283-de27-526a-bcc1-9e6a94a5a0d1
+status: valid

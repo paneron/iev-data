@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: for a sinusoidal wave at a given point, velocity in the direction of
+    propagation of the wavefront corresponding to a specified phase
+  examples: []
+  id: 103-10-13
+  language_code: eng
+  notes:
+  - The magnitude of the phase velocity is equal to the product of frequency and wavelength,
+    and to the quotient of angular frequency by angular wavenumber.
+  - If both phase velocities and other velocities are involved, then `c` should be
+    used for the former and `v` (vee) for the latter.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase velocity
+    normative_status: preferred
+    type: expression
+  - designation: '`c`~`φ`~
+
+      `v`~`φ`~
+
+      `c`
+
+      `v`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 6c23f390-38b0-549d-90eb-a47cd59f0bff
+status: valid

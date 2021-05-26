@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: pour un bipôle, élémentaire ou non, en régime sinusoïdal, rapport de
+    la puissance active à la puissance apparente
+  examples: []
+  id: 131-11-49
+  language_code: fra
+  notes:
+  - Le facteur de puissance active est égal au cosinus du déphasage tension-courant.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de puissance active
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de déphasage
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 19007f17-270a-5423-be74-a32bc6d04587
+status: valid

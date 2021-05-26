@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: output Boolean variable issued by the controlling system described by
+    the function chart SEE Figure 23.
+  examples: []
+  id: 351-51-04
+  language_code: eng
+  notes:
+  - Various types of commands, such as not stored command, stored command, delayed
+    command, time-limited command, conditional command and their combination are defined
+    in IEC 60848, _GRAFCET specification language for sequential function charts_,
+    and are identified by a conventional letter.
+  - This entry was numbered 351-29-31 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: command in a function chart
+    normative_status: preferred
+    type: expression
+  - designation: command
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 406d0885-ced9-5f96-b7ed-b08e5da20e38
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: différence entre la {{valeur maximale globale, IEV:103-05-15}} et la
+    {{valeur minimale globale, IEV:103-05-18}} dans le même intervalle spécifié de
+    l'argument
+  examples: []
+  id: 103-05-19
+  language_code: fra
+  notes:
+  - Dans le cas d'une grandeur périodique, l'intervalle spécifié a une étendue égale
+    à la période.
+  - Il convient de n’utiliser le synonyme «valeur de crête à crête» que si les valeurs
+    maximale et minimale globales sont de signes contraires.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de crête à creux
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur de crête à crête
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5bf79a3d-5018-5baf-97f3-210848df25f2
+status: valid

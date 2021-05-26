@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: Voir {{IEV 704-13-08, IEV:704-13-08}}
+  examples: []
+  id: 723-10-64
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: créneau temporel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: intervalle de temps
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: IT
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f0c2aa33-11dd-5c13-8b58-da0b92751c2a
+status: valid

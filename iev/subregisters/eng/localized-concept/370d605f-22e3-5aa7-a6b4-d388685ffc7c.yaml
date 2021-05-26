@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: critical state model which assumes that the critical current density
+    inside the superconductor is given by `J`~c~ = `a`/(`B` + `B`~0~), where `B` is
+    the magnetic flux density, and `a` and `B`~0~ are constants
+  examples: []
+  id: 815-12-08
+  language_code: eng
+  notes: []
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Kim model
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 370d605f-22e3-5aa7-a6b4-d388685ffc7c
+status: valid

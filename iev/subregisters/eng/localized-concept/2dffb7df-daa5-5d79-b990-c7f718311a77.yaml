@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{interval, IEV:103-01-12}} of an {{input energizing quantity, IEV:447-03-02}}
+    or a {{characteristic quantity, IEV:447-07-01}} within which the {{accuracy, IEV:447-08-16}}
+    requirements are met Note 1 to entry: The effective range is part of the {{operating
+    range, IEV:447-03-16}}.'
+  examples: []
+  id: 447-07-08
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective range
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 2dffb7df-daa5-5d79-b990-c7f718311a77
+status: valid

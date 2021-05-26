@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: a measure of the intensity of precipitation expressed by the height
+    of water reaching the ground during a given time interval divided by the duration
+    of this time interval
+  examples: []
+  id: 705-05-23
+  language_code: eng
+  notes:
+  - Rain rate is generally expressed in millimetres per hour.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: precipitation
+    normative_status: preferred
+    type: expression
+  - designation: rate rainfall
+    type: expression
+  - designation: rate rain rate
+    type: expression
+dateAccepted: 1995-09-01
+id: 152dea16-bc9d-5096-b617-9b970d3c30c5
+status: valid

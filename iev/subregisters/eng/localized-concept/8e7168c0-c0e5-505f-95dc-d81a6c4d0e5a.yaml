@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: complex quantity `s = sigma + j omega` associated with a quantity represented
+    by `a ( t ) = A_0 e^(sigma t) cos ( omega t + vartheta_0 )`, where `A_0` is the
+    initial amplitude, `ω` is the angular frequency, `t` is time, and `vartheta_0`
+    is initial phase
+  examples: []
+  id: 103-07-16
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex angular frequency
+    normative_status: preferred
+    type: expression
+  - designation: complex pulsatance
+    type: expression
+  - designation: '`s`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 8e7168c0-c0e5-505f-95dc-d81a6c4d0e5a
+status: valid

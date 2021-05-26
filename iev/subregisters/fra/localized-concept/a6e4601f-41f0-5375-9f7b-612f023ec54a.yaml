@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.10'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.10
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  definition: valeur la plus faible du {{déplacement, IEV:113-01-29}} appliqué dans
+    un {{cycle, IEV:103-05-08}}
+  examples: []
+  id: 523-03-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: déplacement minimal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a6e4601f-41f0-5375-9f7b-612f023ec54a
+status: valid

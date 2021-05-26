@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/7248
+      original: IEC 62606:2013, 3.1
+      ref: IEC 62606:2013
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: décharge lumineuse d'électricité à travers un milieu isolant, en général
+    accompagnée d'une volatilisation partielle des électrodes
+  examples: []
+  id: 442-05-65
+  language_code: fra
+  notes:
+  - Un demi-cycle de courant sinusoïdal complet n’est pas considéré comme un demi-cycle
+    de production d’arc électrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: arc
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: production d’arc électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0c92f062-a184-5233-93c5-924b1b2a32df
+status: valid

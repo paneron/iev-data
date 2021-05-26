@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{catalyst, IEV:485-01-01}} that accelerates an electrochemical reaction'
+  examples: []
+  id: 485-01-02
+  language_code: eng
+  notes:
+  - In a {{fuel cell, IEV:485-08-01}}, electrocatalysts are placed in the {{catalyst
+    layer, IEV:485-02-06}}.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electrocatalyst
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 53fc83ed-9b19-52f0-a221-94af7e1cb1de
+status: valid

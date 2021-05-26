@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: quotient du flux lumineux d'une lampe à un moment donné de sa durée
+    de vie de fonctionnement par le flux lumineux initial
+  examples: []
+  id: 845-29-147
+  language_code: fra
+  notes:
+  - L'unité de facteur de conservation du flux lumineux d'une lampe est un.
+  - Le terme abrégé "LLMF" est dérivé du terme anglais développé correspondant "lamp
+    lumen maintenance factor".
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de conservation du flux lumineux d'une lampe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: LLMF
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3661c410-9f6a-52bb-9043-a578e9a4e397
+status: valid

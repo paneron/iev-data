@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: limite, si elle existe, du quotient par Δ`t` de la probabilité conditionnelle
+    pour que la défaillance d'une entité non réparable soit comprise dans l'intervalle
+    de temps (`t`, `t` + Δ`t`), lorsque Δ`t` tend vers zéro, en supposant qu'une défaillance
+    ne se soit pas produite dans l'intervalle de temps (0, `t`) `lambda ( t ) = underset((Delta
+    t -> 0))((lim)) (1)/((Delta t)) ((F ( t + Delta t ) – F ( t )))/((R ( t ))) =
+    ((f ( t )))/((R ( t )))` où `F`(`t`) et `f`(`t`) sont, respectivement, la fonction
+    de répartition et la densité de probabilité à l'instant de la défaillance, et
+    où `R`(`t`) est la fonction de fiabilité, liée à la fiabilité `R`(`t`~1~, `t`~2~)
+    par la relation `R`(`t`) = `R`(0, `t`).
+  examples: []
+  id: 192-05-06
+  language_code: fra
+  notes:
+  - Voir l'IEC 61703, _Expressions mathématiques pour les termes de fiabilité, de
+    disponibilité, de maintenabilité et de logistique de maintenance,_ pour plus de
+    détails.
+  - 'D’autres termes sont utilisés pour désigner le taux instantané de défaillance:
+    «fonction de risque», «taux de risque» et «taux instantané de mortalité».'
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux instantané de défaillance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taux de défaillance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a6a0834d-e165-5888-9c31-76a1b36304f8
+status: valid

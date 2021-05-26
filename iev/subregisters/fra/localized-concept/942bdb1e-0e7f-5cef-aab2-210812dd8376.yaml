@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.6'
+      link: https://webstore.iec.ch/publication/7005
+      original: IEC 62430:2009, définition 3.6
+      ref: IEC 62430:2009
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: approche systématique qui prend en compte les {{aspects environnementaux,
+    IEV:904-01-02}} dans le {{processus, IEV:904-01-05}} de {{conception et de développement,
+    IEV:904-01-12}} dans le but de réduire les {{impacts environnementaux, IEV:904-01-03}}
+    négatifs
+  examples: []
+  id: 904-01-13
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: éco-conception
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ECD
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 942bdb1e-0e7f-5cef-aab2-210812dd8376
+status: valid

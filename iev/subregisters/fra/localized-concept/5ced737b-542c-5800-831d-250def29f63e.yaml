@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température, mesurée sur le boîtier, à laquelle certaines mesures sont
+    faites
+  examples: []
+  id: 561-01-76
+  language_code: fra
+  notes:
+  - Pour les résonateurs à température contrôlée, la température de référence est
+    le point médian de la plage de températures contrôlées. Pour les résonateurs à
+    température non contrôlée, la température de référence est en principe de 25 °C
+    ± 2 °C.
+  - Cet article était numéroté 561-02-24 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de référence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un résonateur
+dateAccepted: 2018-11-17
+id: 5ced737b-542c-5800-831d-250def29f63e
+status: valid

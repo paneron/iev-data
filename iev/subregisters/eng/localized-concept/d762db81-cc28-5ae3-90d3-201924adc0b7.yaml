@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the ratio, generally expressed in decibels, of the electromagnetic field
+    at a given point, to the field at another point on the same vertical line at a
+    reference height
+  examples: []
+  id: 705-05-59
+  language_code: eng
+  notes:
+  - The height gain when expressed in decibels may have a negative value.
+  - In the case of spherical diffraction by the Earth, the reference height generally
+    used depends on the wavelength and on the ratio of the effective radius of the
+    Earth to the actual Earth radius.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: height gain
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: d762db81-cc28-5ae3-90d3-201924adc0b7
+status: valid

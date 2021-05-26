@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: luminance d'une source qui, lorsqu'elle est observée avec la pupille
+    naturelle, produit le même éclairement rétinien nominal que cette source observée
+    avec une pupille artificielle spécifiée
+  examples: []
+  id: 845-22-011
+  language_code: fra
+  notes:
+  - La luminance de la pupille naturelle est exprimée en candela (cd), candela par
+    mètre carré fois millimètres carrés (cd·m^−2^·mm^2^), ou <a href="IEV845-22-038">troland</a>.
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminance de la pupille naturelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 28f84a65-d7bf-5872-a408-3de3456a29cd
+status: valid

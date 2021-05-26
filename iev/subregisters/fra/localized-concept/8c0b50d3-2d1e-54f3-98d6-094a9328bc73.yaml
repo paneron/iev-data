@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: unité fonctionnelle qui génère une variable de sortie dont la valeur
+    est égale à la valeur absolue de sa variable d'entrée, suivant la formule `v (
+    t ) = | u ( t ) |` où<table> <tr> <td>`t`</td> <td>est le temps;</td> </tr> <tr>
+    <td> `u`(`t`)</td> <td>est la variable d'entrée;</td> </tr> <tr> <td> `v`(`t`)</td>
+    <td>est la variable de sortie.</td> </tr> </table>
+  examples: []
+  id: 351-50-38
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-32-22 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de valeur absolue
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 8c0b50d3-2d1e-54f3-98d6-094a9328bc73
+status: valid

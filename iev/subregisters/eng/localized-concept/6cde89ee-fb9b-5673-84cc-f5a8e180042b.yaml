@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the value of the varying voltage that must be applied between the grid
+    and the cathode to increase the beam current or the spot luminance from the cut-off
+    value to a stated value
+  examples: []
+  id: 531-42-03
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: grid/cathode driving voltage
+    normative_status: preferred
+    type: expression
+  - designation: modulation voltage
+    type: expression
+dateAccepted: 2021-01-01
+id: 6cde89ee-fb9b-5673-84cc-f5a8e180042b
+status: valid

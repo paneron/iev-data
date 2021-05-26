@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.4
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.4, modifié
+      ref: IEC 62267:2009
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: mode d'exploitation du train avec du personnel exploitant présent à
+    bord mais le personnel exploitant n'accélère pas et ne freine pas et n'est responsable
+    ni de la surveillance de la voie ni d'arrêter le train en cas de situation dangereuse
+  examples: []
+  id: 821-09-10
+  language_code: fra
+  notes:
+  - Le départ en sécurité du train à quai, y compris la fermeture des portes, peut
+    être de la responsabilité soit du personnel exploitant, soit du système technique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exploitation des trains sans conducteurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: GOA3
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DTO
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f7a129ee-6962-5d58-a57b-4887b5099834
+status: valid

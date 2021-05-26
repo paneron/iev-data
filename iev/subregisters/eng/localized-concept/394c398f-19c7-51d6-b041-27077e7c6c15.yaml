@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'a normal mode where the subscripts `m` and `n` added to the abbreviations
+    ТЕ are assigned by observing the cross-sectional variation of the transverse electric
+    field vector: 1 – In a rectangular waveguide subscripts `m` and `n`, in that order,
+    indicate the number of half-period variations of the mainly transverse field vector
+    along paths parallel to the wide and narrow walls respectively.'
+  examples: []
+  id: 726-03-12
+  language_code: eng
+  notes:
+  - 'The reverse notation, where the `m` and `n` paths are parallel to the narrow
+    and wide walls respectively is deprecated.
+
+
+    2 – In a circular waveguide subscript `m` indicates the number of full-period
+    variations of the transverse field vector along a circular path concentric with
+    the wall, and subscript `n` indicates the number of reversals of the same vector
+    along a radial path, plus one'
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: TE~mn~ mode
+    normative_status: preferred
+    type: expression
+  - designation: H~mn~ mode
+    type: expression
+dateAccepted: 2021-01-01
+id: 394c398f-19c7-51d6-b041-27077e7c6c15
+status: valid

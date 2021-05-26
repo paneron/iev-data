@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'scalar quantity equal to the flux of the displacement current density
+    *`J`*~`D`~ through a given directed surface S: `I_D = underset(S)( int ) J_D *
+    e_n d A` where *`e`*~n~d`A` is the vector surface element'
+  examples: []
+  id: 121-11-43
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: displacement current
+    normative_status: preferred
+    type: expression
+  - designation: '*`I`*~`D`~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 557b5120-c127-55af-87a4-87d08916a3ce
+status: valid

@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the mean of the values of luminance, `L`, measured at 20°
+    and 70° (0,35 rad and 1,22 rad) and the luminance measured at 5° (0,09 rad) from
+    the normal, when the surface considered is illuminated normally `sigma = ((L (
+    20 ° ) + L ( 70 ° )))/((2 L ( 5 ° )))`
+  examples: []
+  id: 845-24-096
+  language_code: eng
+  notes:
+  - The diffusion factor is intended to give an indication of the spatial distribution
+    of the diffused flux. It is equal to 1 for every isotropic diffuser, whatever
+    the value of the diffuse reflectance or diffuse transmittance.
+  - This way of defining the diffusion factor can be applied only to materials for
+    which the scattering indicatrix does not differ appreciably from that of ordinary
+    opal glasses.
+  - For indicating the shape of the scattering indicatrix it is recommended that the
+    diffusion factor, `σ`, be used for strongly diffusing materials, and the half-value
+    angle, `γ`, for poorly diffusing materials.
+  - The diffusion factor has unit one.
+  - This entry was numbered 845-04-89 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diffusion factor
+    normative_status: preferred
+    type: expression
+    usage_info: of a diffusing surface, by reflection or by transmission
+  - designation: '`σ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 5918d4b2-c0b9-59cc-ba6a-f4a271d3037a
+status: valid

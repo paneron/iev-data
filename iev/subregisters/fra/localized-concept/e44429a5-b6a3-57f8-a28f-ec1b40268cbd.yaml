@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: constante d'efficacité du couplage électromécanique
+  examples: []
+  id: 561-05-03
+  language_code: fra
+  notes:
+  - 'Il représente l’efficacité de conversion de l’énergie électrique en énergie mécanique
+    par l''effet de couplage électromécanique, et est défini comme étant la racine
+    carrée du rapport de l’énergie mécanique délivrée (`U`~m~) sur l’énergie électrique
+    d''entrée totale transférée (`U`~i~):
+
+
+    `k = sqrt(((U_m ))/((U_i)))`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de couplage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une céramique piézoélectrique
+  - designation: coefficient de couplage
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+    usage_info: d’une céramique piézoélectrique
+dateAccepted: 2018-11-17
+id: e44429a5-b6a3-57f8-a28f-ec1b40268cbd
+status: valid

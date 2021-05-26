@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{mémoire, IEV:171-04-14}} ou zone de mémoire spécialisée permettant,
+    par stockage temporaire, le transfert de données entre deux unités fonctionnelles
+    ayant des caractéristiques de transfert différentes'
+  examples:
+  - '{{Mémoire cache, IEV:171-04-35}}.'
+  id: 171-04-20
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: mémoire tampon
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tampon
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 010873c8-4b82-57b3-9ba6-3a3a42f3a739
+status: valid

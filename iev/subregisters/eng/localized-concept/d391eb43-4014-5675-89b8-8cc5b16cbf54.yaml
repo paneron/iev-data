@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the voltage which appears across the terminals of a pole of a switching
+    device or a fuse after the breaking of the current
+  examples: []
+  id: 441-17-25
+  language_code: eng
+  notes:
+  - This voltage may be considered in two successive intervals of time, one during
+    which a transient voltage exists, followed by a second one during which the power
+    frequency or the steady-state recovery voltage alone exists.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recovery voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: d391eb43-4014-5675-89b8-8cc5b16cbf54
+status: valid

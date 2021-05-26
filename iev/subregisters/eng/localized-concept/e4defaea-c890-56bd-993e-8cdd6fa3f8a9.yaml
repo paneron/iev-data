@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: three terminal output circuit where the nominal values of the impedances
+    between the common terminal and each of the other two terminals are equal
+  examples: []
+  id: 312-06-11
+  language_code: eng
+  notes:
+  - The common terminals of the input and the output need not necessarily both be
+    accessible, nor need they be at the same potential.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: symmetrical output
+    normative_status: preferred
+    type: expression
+  - designation: balanced output
+    type: expression
+dateAccepted: 2001-07-01
+id: e4defaea-c890-56bd-993e-8cdd6fa3f8a9
+status: valid

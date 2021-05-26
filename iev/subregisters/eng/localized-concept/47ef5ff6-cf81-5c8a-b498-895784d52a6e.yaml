@@ -1,0 +1,47 @@
+data:
+  authoritativeSource:
+  - - clause: 111-13-06
+      link: https://webstore.iec.ch/publication/12421
+      original: IEC 60050-111:1996,111-13-06, modified – The wording of the definition
+        is slightly different and several notes to entry have been added to adapt
+        to usage in control technology.
+      ref: IEC 60050-111:1996
+      relationship:
+        modification: The wording of the definition is slightly different and several
+          notes to entry have been added to adapt to usage in control technology.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: for a quantity growing or decaying exponentially towards a constant
+    value the duration of a time interval, at the end of which the absolute value
+    of the difference between that constant value and the value of the variable quantity
+    has decreased to e^–1^ times of the absolute value of the difference at the beginning
+    of the interval, where e is the base of natural logarithms
+  examples: []
+  id: 351-45-32
+  language_code: eng
+  notes:
+  - The time constant is the variable quantity `τ` appearing in the function `F (
+    t ) = a + b * e^(- (t)/(tau))` describing a time-dependent variable quantity.
+  - 'The time constant is the reciprocal of the damping coefficient `δ` (IEC 60027-6,
+    _Letter symbols to be used in electrical technology – Part 6: Control technology_)
+    of a damped oscillation, as well.'
+  - In control technology the time constant usually is derived from the step response
+    of a first-order lag element as the duration of the time interval, required to
+    reach 63,2 % [i.e. (1 – e^–1^)-times] of the steady-state value of the step response.
+  - The time constant is the variable quantity `τ` appearing in the expression `F
+    ( t ) = a + b * e^(- (t)/(tau)) * f ( t )` of an exponentially damped oscillation,
+    where `f`(`t`) is a sinusoidal function.
+  - This entry was numbered 351-24-24 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time constant
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 47ef5ff6-cf81-5c8a-b498-895784d52a6e
+status: valid

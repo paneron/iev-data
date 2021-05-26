@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-04-01
+  definition: plane containing the {{polarization ellipse, IEV:705-01-21}} or {{circle,
+    IEV:102-04-28}}
+  examples: []
+  id: 705-01-22
+  language_code: eng
+  notes:
+  - For a linearly polarized wave, the polarization ellipse degenerates into a line
+    segment and then the plane of polarization is not uniquely defined. In an {{isotropic,
+    IEV:113-02-03}} medium, the plane of polarization is now conventionally taken
+    to be normal to the {{direction of propagation, IEV:103-10-05}}. This is a change
+    from previous practice when the plane of polarization was conventionally taken
+    to be the plane containing the direction of propagation and a field vector, generally
+    the {{electric field, IEV:121-11-67}} vector in {{radio waves, IEV:701-02-12}}
+    or the {{magnetic flux density, IEV:121-11-19}} vector in optics.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: plane of polarization
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 0a68e1c4-6446-5d49-9989-50e914f2cd1b
+status: valid

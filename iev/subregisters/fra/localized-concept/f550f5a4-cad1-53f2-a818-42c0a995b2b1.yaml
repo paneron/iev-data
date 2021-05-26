@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de l'{{énergie non fournie, IEV:692-09-06}} par un réseau d'énergie
+    électrique pendant un incident donné par la puissance de pointe annuelle
+  examples: []
+  id: 692-11-03
+  language_code: fra
+  notes:
+  - Si l'énergie non fournie est exprimée en mégawatts minutes et la puissance de
+    pointe annuelle en mégawatts, cet indice est souvent désigné en anglais par le
+    terme "system-minutes". Une minute de cette grandeur est équivalente, en énergie,
+    à une interruption de la totalité de la fourniture du réseau électrique pendant
+    une minute au moment où se produit la pointe de consommation annuelle.
+  - La puissance de pointe annuelle du réseau se rapporte à la puissance la plus élevée
+    dans une année donnée.
+  - Cet article portait le numéro 191-30-03 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée de coupure équivalente à la pointe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: f550f5a4-cad1-53f2-a818-42c0a995b2b1
+status: valid

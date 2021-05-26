@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: largeur de la bande passante rectangulaire d'un biporte linéaire idéal
+    ayant dans cette bande passante un gain constant égal au gain maximal d'un biporte
+    linéaire réel et tel que, si la même source de bruit blanc était connectée aux
+    entrées des deux biportes supposés dépourvus de bruit interne, la même puissance
+    de bruit serait disponible aux deux sorties
+  examples: []
+  id: 702-08-60
+  language_code: fra
+  notes:
+  - 'Si le gain en puissance disponible du biporte réel est une fonction `G`(`f`)
+    de la fréquence de valeur maximale `G`~M~, la largeur de bande de bruit `f` du
+    biporte est donnée par:
+
+
+    `f = (1)/((G_M)) int_0^(oo) G ( f ) d f`'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: largeur de bande de bruit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: largeur de bande équivalente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 388c63a0-49ed-50e9-877a-8345d06af643
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.14'
+      original: IEC Guide 116:2010, 3.14
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: '{{risque, IEV:903-01-07}} accepté dans un certain contexte et fondé
+    sur les valeurs admises par la société [ISO/IEC Guide 51:1999, définition 3.7]'
+  examples: []
+  id: 903-01-12
+  language_code: fra
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: risque tolérable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: 8da3e478-6b6e-5212-940d-64d483e3cfae
+status: valid

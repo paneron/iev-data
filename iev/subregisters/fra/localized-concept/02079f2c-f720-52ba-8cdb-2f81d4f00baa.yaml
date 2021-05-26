@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: mesure fréquentielle de la stabilité de fréquence à court terme d'un
+    oscillateur
+  examples: []
+  id: 561-03-22
+  language_code: fra
+  notes:
+  - 'Ce bruit de phase est généralement exprimé comme la densité spectrale de puissance
+    des fluctuations de phase, `S_(varphi) ( f )`, la fonction de fluctuation de phase
+    étant `varphi ( t ) = 2 pi F t - 2 pi F_0 t`. La densité spectrale de la fluctuation
+    de phase peut être directement liée à celle de la fluctuation de fréquence par
+    la formule suivante :
+
+
+    `S_(varphi) ( f ) = ( ((F_0))/(f) ) S_y ( f ) rad^2 //Hz`
+
+
+    Dans les formules précédantes:
+
+
+    `F` est la fréquence de l’oscillateur;
+
+
+    `F`~0~ est la fréquence moyenne de l’oscillateur;
+
+
+    `f` est la fréquence de Fourier.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: bruit de phase
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 02079f2c-f720-52ba-8cdb-2f81d4f00baa
+status: valid

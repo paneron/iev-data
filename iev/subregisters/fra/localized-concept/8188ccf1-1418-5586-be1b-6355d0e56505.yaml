@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: moyenne de l'intensité instantanée de défaillance sur un intervalle
+    de temps donné (`t`~1~, `t`~2~)
+  examples: []
+  id: 192-05-09
+  language_code: fra
+  notes:
+  - 'L’intensité moyenne de défaillance est déduite de l’intensité instantanée de
+    défaillance `z`(`t`) par la formule:
+
+
+    `bar z ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) z ( t ) d t`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité moyenne de défaillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8188ccf1-1418-5586-be1b-6355d0e56505
+status: valid

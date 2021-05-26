@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: ability to perform as required, without failure, for a given time interval,
+    under given conditions
+  examples: []
+  id: 192-01-24
+  language_code: eng
+  notes:
+  - The time interval duration can be expressed in units appropriate to the item concerned,
+    e.g. calendar time, operating cycles, distance run, etc., and the units should
+    always be clearly stated.
+  - 'Given conditions include aspects that affect reliability, such as: mode of operation,
+    stress levels, environmental conditions, and maintenance.'
+  - 'Reliability can be quantified using measures defined in http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView&amp;Query=field+SearchFields+contains+192-05+and+field+Language=en&amp;SearchOrder=4&amp;SearchMax=0[Section
+    192-05, _Reliability related concepts: measures_].'
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reliability
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: de148726-cea6-5ba8-925b-c874213ececb
+status: valid

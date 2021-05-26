@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: onde qui peut être représentée par un champ sinusoïdal de phase `omega
+    t - k * r + vartheta_0`, où *`k`* est un vecteur caractéristique de l'onde, *`r`*
+    est le rayon vecteur, `ω` est la pulsation, `t` est le temps et `vartheta_0` est
+    la phase à l'origine
+  examples: []
+  id: 103-10-03
+  language_code: fra
+  notes:
+  - Le vecteur *`k`* est appelé «{{vecteur d’onde, IEV:103-10-09}}».
+  reviewDecisionEvent: published
+  terms:
+  - designation: onde sinusoïdale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e199ffd1-d3a2-5f92-a8c7-01610d06d7fb
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifies a circuit element or a circuit for which the integral quantities
+    are linearly related
+  examples: []
+  id: 131-11-18
+  language_code: eng
+  notes:
+  - 'A relation `y` = `F(x)` between two quantities `x` and `y`, where `F` is an operator,
+    is linear if
+
+
+    `F`(`α x`~1~+ `ß x`~2~) = `α F`(`x`~1~) + `ß F`(`x`~2~)
+
+
+    where `α` and `ß` are real or complex numbers.'
+  - In English, the term "linear" has another meaning in IEV {{112-03-14:2010, IEV:112-03-14}}
+    and {{113-06-41:2011, IEV:113-06-41}}. In French, the equivalent term is "linéique".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linear
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2002-06-01
+id: 66d18ee1-c2d6-5c2b-877d-22cc2e8c195d
+status: valid

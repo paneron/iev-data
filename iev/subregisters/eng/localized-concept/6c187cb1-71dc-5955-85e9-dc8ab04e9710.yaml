@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.13
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.13
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: value of the AC component of a residual prospective current that a residual
+    current device can make, carry for its opening time and break under specified
+    conditions of use and behaviour
+  examples: []
+  id: 442-05-27
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: residual making and breaking capacity
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~Δm~'
+    international: true
+    type: symbol
+dateAccepted: 2019-05-01
+id: 6c187cb1-71dc-5955-85e9-dc8ab04e9710
+status: valid

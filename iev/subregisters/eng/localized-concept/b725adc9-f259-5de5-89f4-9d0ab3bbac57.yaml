@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-47
+      original: 702-09-47
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 704-16-30
+      original: 704-16-30
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1997-03-01
+  definition: a device for converting a group of digital signal elements which are
+    all presented simultaneously, into a corresponding group of consecutive signal
+    elements which represents the same information
+  examples: []
+  id: 723-10-74
+  language_code: eng
+  notes: []
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallel-to-serial converter
+    normative_status: preferred
+    type: expression
+  - designation: serializer
+    type: expression
+dateAccepted: 1997-03-01
+id: b725adc9-f259-5de5-89f4-9d0ab3bbac57
+status: valid

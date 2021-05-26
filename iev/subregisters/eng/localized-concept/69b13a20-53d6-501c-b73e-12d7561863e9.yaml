@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: logarithm of the ratio of a given root-mean-square sound pressure, during
+    a stated time interval, to the reference sound pressure. Average sound pressure
+    level in decibels is 20 times the logarithm to the base ten of that ratio
+  examples: []
+  id: 801-22-11
+  language_code: eng
+  notes:
+  - Unless otherwise specified, the reference sound pressure for airborne sound is
+    20 μPa.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time-average sound pressure level
+    normative_status: preferred
+    type: expression
+  - designation: equivalent continuous sound pressure level
+    type: expression
+dateAccepted: 1994-07-01
+id: 69b13a20-53d6-501c-b73e-12d7561863e9
+status: valid

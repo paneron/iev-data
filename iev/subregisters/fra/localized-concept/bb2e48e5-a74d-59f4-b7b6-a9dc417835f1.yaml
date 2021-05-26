@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 713-07-23
+      original: 713-07-23
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 702-09-36
+      original: 702-09-36 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: dispositif nonlinéaire destiné à fournir des oscillations ou des signaux
+    dont les fréquences sont des combinaisons linéaires déterminées à coefficients
+    entiers des fréquences des composantes spectrales de deux oscillations ou signaux
+    d'entrée
+  examples: []
+  id: 151-13-69
+  language_code: fra
+  notes:
+  - En général, les fréquences de sortie sont la somme ou la différence des fréquences
+    d'entrée.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mélangeur (de fréquences)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: bb2e48e5-a74d-59f4-b7b6-a9dc417835f1
+status: valid

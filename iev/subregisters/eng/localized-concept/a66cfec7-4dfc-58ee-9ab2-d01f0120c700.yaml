@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the quotient of d`X` by d`t`, where d`X` is the increment of the exposure
+    in time d`t` `overset(˙)(X) = ((d X))/((d t))`
+  examples: []
+  id: 881-12-30
+  language_code: eng
+  notes:
+  - The SI unit of exposure rate is C kg^−1^ s^−1^ (A kg^−1^). The earlier special
+    units of exposure rate, still in temporary use, were R s^−1^, R min^−1^, and R h^−1^.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposure rate
+    normative_status: preferred
+    type: expression
+  - designation: '`overset(˙)(X)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: a66cfec7-4dfc-58ee-9ab2-d01f0120c700
+status: valid

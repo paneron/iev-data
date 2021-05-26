@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: principe tel que la réponse temporelle à la somme de plusieurs variables
+    d'entrée est la même que la somme des réponses temporelles générées par les variables
+    d'entrée individuelles
+  examples: []
+  id: 351-45-01
+  language_code: fra
+  notes:
+  - Le principe de superposition comprend le cas particulier de la multiplication
+    d'une variable d'entrée par un facteur constant où la réponse temporelle associée
+    est multipliée par le même facteur (souvent appelé "principe d'amplification").
+  - Cet article était numéroté 351-24-01 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: principe de superposition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: f8f9c572-c6ba-5795-a62b-1844803a903c
+status: valid

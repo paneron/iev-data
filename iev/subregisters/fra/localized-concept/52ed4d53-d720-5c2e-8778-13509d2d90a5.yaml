@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: propriété d'une fonction `f ( t )` pour une valeur `t`~0~ de son argument,
+    caractérisée par l'existence d'un nombre positif `ε` tel que `f ( t_0 ) > f (
+    t )` pour tout `t` tel que `0 | t - t_0 | epsilon`
+  examples: []
+  id: 103-05-13
+  language_code: fra
+  notes:
+  - Si la condition `f ( t_0 ) &gt; f ( t )` est remplacée par `f ( t_0 ) &gt;= f
+    ( t )`, la propriété peut exister dans un intervalle de valeurs de l'argument.
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum local
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 52ed4d53-d720-5c2e-8778-13509d2d90a5
+status: valid

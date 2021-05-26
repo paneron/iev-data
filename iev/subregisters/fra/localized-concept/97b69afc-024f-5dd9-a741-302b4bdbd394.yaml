@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: inverse du coefficient de transmission thermique `K`, soit `M` = 1/`K`
+  examples: []
+  id: 113-04-41
+  language_code: fra
+  notes:
+  - 1 Le nom «résistance thermique» et le symbole `R` sont utilisés en technologie
+    des bâtiments. Ce nom et ce symbole sont normalement utilisés pour le concept
+    {{113-04-45, IEV:113-04-45}}.
+  - 2 L'unité SI cohérente de coefficient d'isolation thermique est le mètre carré
+    kelvin par watt, m^2^·K/W
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'isolation thermique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: résistance thermique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 97b69afc-024f-5dd9-a741-302b4bdbd394
+status: valid

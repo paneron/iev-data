@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: quadripôle pour lequel la somme des puissances instantanées aux deux
+    paires de bornes est identiquement égale à zéro et pour lequel le rapport de la
+    tension électrique à l'entrée au courant électrique à la sortie a une valeur constante
+    `R`
+  examples: []
+  id: 131-12-79
+  language_code: fra
+  notes:
+  - 'Pour le gyrateur idéal, la tension à l''entrée `u`~1~, la tension à la sortie
+    `u`~2~, le courant à l’entrée `i`~1~ et le courant à la sortie `i`~2~ sont reliés
+    par la formule:
+
+
+    `((u_1))/((i_2)) = - ((u_2))/((i_1)) = R`
+
+
+    avec les conventions de référence usuelles pour les tensions et courants aux accès
+    données pour les quadripôles dans la CEI 60375:2003, Article 7.'
+  - 'En régime sinusoïdal, l''impédance `Z`~1~ vue de l''accès d''entrée est le produit
+    de l''admittance de fermeture `Y` à l''accès de sortie par le carré de la constante
+    `R`:
+
+
+    `Z`~1~ = `R`^2^`Y`'
+  - Un gyrateur idéal est un élément de circuit qui n'emmagasine pas et ne dissipe
+    pas d'énergie. Le gyrateur en tant que dispositif est défini dans la CEI 60050-726.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gyrateur idéal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: e3eea517-058c-5cb6-8ff0-ac8c41736e10
+status: valid

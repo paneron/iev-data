@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: '{{phase shift keying, IEV:702-06-40}} in which the {{phase shift, IEV:702-06-39}}
+    takes four values that are multiples of 90°'
+  examples: []
+  id: 702-06-43
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quadrature phase shift keying
+    normative_status: preferred
+    type: expression
+  - designation: QPSK
+    normative_status: preferred
+    type: expression
+  - designation: quadrature phase modulation
+    normative_status: admitted
+    type: expression
+dateAccepted: 2018-09-01
+id: c31fe2ce-c5cf-5c6b-86af-ac84b1e161af
+status: valid

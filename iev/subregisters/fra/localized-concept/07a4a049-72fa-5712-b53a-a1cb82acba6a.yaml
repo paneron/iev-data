@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - - clause: '3.34'
+      link: https://webstore.iec.ch/publication/6486
+      original: définition 3.34 de la CEI 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: débit de l'énergie acoustique dans le sens de propagation par unité
+    d'aire perpendiculaire au sens de propagation
+  examples: []
+  id: 802-01-10
+  language_code: fra
+  notes:
+  - 'L’intensité instantanée est le produit de la pression acoustique instantanée
+    et de la vitesse acoustique instantanée des particules. Il est difficile de mesurer
+    l’intensité dans la plage de fréquences ultrasoniques. À des fins de mesure et
+    s’il est raisonnable de prendre pour hypothèse que la pression acoustique instantanée
+    et la vitesse instantanée des particules sont substantiellement en phase le long
+    de l’axe (d’alignement) du faisceau pour une fréquence donnée, alors l’intensité
+    instantanée, [`I(t)`], est approchée comme suit
+
+
+    `p(t)`^2^/`ρc`
+
+
+    où
+
+
+    `p(t)` est la pression acoustique instantanée;
+
+
+    `ρ`  est la densité du milieu;
+
+
+    `c`  est la vitesse du son dans le milieu.'
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité instantanée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-01-01
+id: 07a4a049-72fa-5712-b53a-a1cb82acba6a
+status: valid

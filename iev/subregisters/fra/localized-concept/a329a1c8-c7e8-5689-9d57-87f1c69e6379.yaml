@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: <a href="IEV845-27-058">module LED</a> qui comporte l'unité de commande
+    de l'appareillage de commande et dont le fonctionnement est assuré par l'alimentation
+    séparée dudit mécanisme
+  examples: []
+  id: 845-27-060
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: module LED semi-intégré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: module LEDsi
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a329a1c8-c7e8-5689-9d57-87f1c69e6379
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: chemin fermé passant une seule fois par tout nœud du chemin
+  examples: []
+  id: 131-13-12
+  language_code: fra
+  notes:
+  - 'Dans le réseau à 8 noeuds de la figure ci-dessous, les boucles sont 12651, 1237651,
+    123487651, 23762, 2348762, et 34873.
+
+
+    image::/assets/images/parts/131/131-13-12fr.gif[]'
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: boucle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: 2e80bf02-b9bb-5ef5-9c1c-6ab9fb125ca6
+status: valid

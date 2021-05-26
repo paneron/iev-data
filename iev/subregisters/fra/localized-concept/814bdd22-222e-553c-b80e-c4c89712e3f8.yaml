@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{produit vectoriel, IEV:102-03-36}} du {{champ électrique, IEV:121-11-18}}
+    `*E*` par le {{champ magnétique, IEV:121-11-56}} `*H*` du {{champ électromagnétique,
+    IEV:121-11-61}} en un point donné `*S*` = `*E*` × `*H*`'
+  examples: []
+  id: 121-11-66
+  language_code: fra
+  notes:
+  - Le flux du vecteur de Poynting à travers une surface fermée est égal à la puissance
+    électromagnétique qui traverse cette surface.
+  - Pour un champ électromagnétique périodique, la moyenne temporelle du vecteur de
+    Poynting est un vecteur dont la direction, sous certaines réserves, peut être
+    considérée comme étant la {{direction de propagation, IEV:705-02-15}} de l'{{énergie
+    électromagnétique, IEV:121-11-64}} et la {{norme, IEV:102-03-23}} comme la {{puissance
+    surfacique, IEV:705-02-03}} moyenne.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vecteur de Poynting
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 814bdd22-222e-553c-b80e-c4c89712e3f8
+status: valid

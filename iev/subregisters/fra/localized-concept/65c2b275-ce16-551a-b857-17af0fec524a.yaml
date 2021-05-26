@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aptitude à se rétablir sans maintenance corrective après une défaillance
+  examples: []
+  id: 192-01-25
+  language_code: fra
+  notes:
+  - '1 à l’article: La récupérabilité peut nécessiter ou non des actions extérieures.
+    Pour la récupération où aucune action extérieure n’est requise, voir autorécupérabilité
+    ({{192-01-26, IEV:192-01-26}}).'
+  - '2 à l’article: La récupérabilité peut être quantifiée à l’aide de mesures telles
+    que la probabilité de récupération dans un intervalle de temps spécifié.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: récupérabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 65c2b275-ce16-551a-b857-17af0fec524a
+status: valid

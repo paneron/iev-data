@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-02
+      original: 705-03-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: 'grandeur scalaire ou tensorielle dont le produit par le champ électrique
+    `*E*` dans un milieu est égal à l''induction électrique `*D*` : `*D*` = `ε *E*`'
+  examples: []
+  id: 121-12-12
+  language_code: fra
+  notes:
+  - La permittivité est une grandeur scalaire dans un milieu isotrope, une grandeur
+    tensorielle dans un milieu anisotrope.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: permittivité (absolue)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 5fe97967-cb4f-5666-abf6-e927dcc70d03
+status: valid

@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: 'relation binaire ℛ entre éléments `a` et `b` d''un ensemble donné,
+    ayant les propriétés suivantes: * réflexivité: `a`ℛ`a`*,* * antisymétrie: si `a`ℛ`b`
+    et `b`ℛ`a` alors `a` = `b`*,* * transitivité: si `a`ℛ`b` et `b`ℛ`c` alors `a`ℛ`c`,
+    pour des éléments quelconques `a`, `b` et `c` de l''ensemble donné'
+  examples: []
+  id: 102-01-09
+  language_code: fra
+  notes:
+  - On dit que l'ensemble donné est ordonné par la relation ℛ.
+  - Une relation d'ordre est un ordre total si l'une au moins des relations `a`ℛ`b`
+    et `b`ℛ`a` est vraie pour tout couple d'éléments `a` et `b`. L'ordre usuel des
+    nombres réels est un ordre total car `a` ≤ `b` ou `b` ≤ `a`.
+  - Une relation d'ordre est un ordre partiel si, pour au moins deux éléments `a`
+    et `b`, ni `a`ℛ`b` ni `b`ℛ`a` n'est vraie. Des exemples sont la relation de divisibilité
+    pour les nombres entiers naturels et l'inclusion pour les sous-ensembles d'un
+    ensemble donné contenant au moins deux éléments.
+  reviewDecisionEvent: published
+  terms:
+  - designation: relation d'ordre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ordre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d6363102-fc70-5d6a-b04a-288305bf30e5
+status: valid

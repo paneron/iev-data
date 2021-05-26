@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: bipôle résistif asymétrique caractérisé par une tension nulle entre
+    les bornes lorsque le sens du courant électrique dans le bipôle est orienté de
+    la borne désignée A vers la borne désignée B et par un courant nul lorsque le
+    potentiel électrique de la borne A est inférieur ou égal à celui de la borne B
+  examples: []
+  id: 131-12-08
+  language_code: fra
+  notes:
+  - 'La relation fonctionnelle entre la tension `u`~AB~ et le courant `i` est :
+
+
+    `u`~AB~ = 0 lorsque `i` ≥ 0
+
+
+    `i` = 0 lorsque `u`~AB~ ≤ 0
+
+
+    où le sens de référence du courant est de A vers B.'
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diode idéale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 9ffd89f1-6a1b-55d8-89fd-f0228272bb85
+status: valid

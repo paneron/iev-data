@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: transformation d'une représentation d'{{informations, IEV:701-01-01}}
+    selon un certain {{code, IEV:101-12-04}} en une autre représentation des mêmes
+    informations selon un autre code
+  examples:
+  - Transformation de {{signaux de caractères, IEV:721-03-10}} ou groupes de tels
+    signaux conformes à un certain {{code télégraphique, IEV:721-09-05}}, en signaux
+    équivalents conformes à un autre code.
+  id: 702-05-16
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: transcodage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conversion de code
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7f7c77d9-2dff-54c3-b7a2-4cd71fbdb78e
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.26
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.26
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: '{{entity, IEV:741-01-18}} that has material existence in the physical
+    world'
+  examples: []
+  id: 741-01-26
+  language_code: eng
+  notes:
+  - In the {{Internet of Things, IEV:741-02-01}} {{reference architecture, IEV:741-01-27}},
+    the {{physical entity, IEV:741-01-26}} is the thing to be sensed and/or actuated
+    by {{IoT devices, IEV:741-02-04}} or {{IoT systems, IEV:741-02-07}}.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: physical entity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: aed3d5a8-d9aa-5590-ba49-8bdf832e8d45
+status: valid

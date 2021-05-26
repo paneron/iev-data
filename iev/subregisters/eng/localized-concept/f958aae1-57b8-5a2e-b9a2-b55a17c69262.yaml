@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: definition 342
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 342, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: growth of a reaction rate with time
+  examples: []
+  id: 395-07-03
+  language_code: eng
+  notes:
+  - This value is important during start-up until the effective multiplication factor
+    increases to 1.
+  - This entry was numbered 393-15-18 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: divergence
+    normative_status: preferred
+    type: expression
+    usage_info: for a nuclear chain reaction
+dateAccepted: 2014-03-01
+id: f958aae1-57b8-5a2e-b9a2-b55a17c69262
+status: valid

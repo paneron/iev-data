@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de l'éclairement énergétique ou de l'éclairement lumineux `E`~2~
+    (ou `E`~1~), en un point d'une surface S~2~ (ou S~1~) dû au flux reçu de la surface
+    S~1~ (ou S~2~) par l'exitance énergétique ou lumineuse, `M`~1~ (ou `M`~2~), de
+    la surface S~1~ (ou S~2~) `c_((21)) = ((E_2))/((M_1))` ou `c_((12)) = ((E_1))/((M_2))`
+  examples: []
+  id: 845-29-093
+  language_code: fra
+  notes:
+  - 'La relation entre le facteur de configuration, `c`, et coefficient d''échange
+    mutuel, `g`, est
+
+
+    `underset((A_2))( int ) c_((21)) d A_2 = ((underset((A_2))( int ) E_2 d A_2))/((M_1))
+    = ((Phi_2))/((M_1)) = g = ((Phi_1))/((M_2)) = ((underset((A_1))( int ) E_1 d A_1))/((M_2))
+    = underset((A_1))( int ) c_((12)) d A_1`
+
+
+    où `Φ`~2~ (or `Φ`~1~) est le flux reçu sur la surface S~2~ (ou S~1~) en provenance
+    de la surface S~1~ (ou S~2~) et `A`~2~ (ou `A`~1~) est l''aire de la surface S~2~
+    (ou S~1~)'
+  - L'unité de facteur de configuration est un.
+  - Cet article était numéroté 845-09-72 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de configuration
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: entre deux surfaces
+dateAccepted: 2018-11-17
+id: d6a9c03f-72d1-50a2-a25f-aeb3b9800442
+status: valid

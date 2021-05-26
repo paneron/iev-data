@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: carré du produit de la largeur à mi-crête du diagramme de rayonnement
+    en champ proche dans la face de sortie d'une fibre optique et du sinus de l'angle
+    de rayonnement dans la région de champ lointain, cet angle étant défini comme
+    celui où la puissance surfacique est la moitié de sa valeur maximale
+  examples: []
+  id: 731-03-96
+  language_code: fra
+  notes:
+  - Cette quantité est proportionnelle à la largeur, exprimée en nombre de modes,
+    de la répartition relative de la puissance rayonnante parmi les modes d'une fibre
+    optique multimodale.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume optique des modes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 52e9acbd-d7db-5af4-b6ff-35ddfa9df5dd
+status: valid

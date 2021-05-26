@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.13'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.13
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2018-12-01
+  definition: ratio of the {{minimum force, IEV:523-03-02}} (or the minimum stress)
+    to the {{maximum force, IEV:523-03-01}} (or the maximum stress)
+  examples: []
+  id: 523-03-08
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: force ratio
+    normative_status: preferred
+    type: expression
+  - designation: stress ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`R`'
+    international: true
+    type: symbol
+dateAccepted: 2018-12-01
+id: efbcadab-de1f-5579-a791-f86cec363821
+status: valid

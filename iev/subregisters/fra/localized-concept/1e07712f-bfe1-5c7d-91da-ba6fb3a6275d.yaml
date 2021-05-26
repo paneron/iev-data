@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: couleur neutre ayant la luminance la plus faible qui peut être produite
+    par un support de formation d'image en utilisation normale, et mesurée par la
+    géométrie de mesure spécifiée
+  examples: []
+  id: 845-32-032
+  language_code: fra
+  notes:
+  - Il est généralement souhaitable de spécifier un point noir de support de chromaticité
+    identique à celle du point blanc de support.
+  reviewDecisionEvent: published
+  terms:
+  - designation: point noir de support
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1e07712f-bfe1-5c7d-91da-ba6fb3a6275d
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: pertaining to a {{computer program, IEV:171-05-05}} or a part of a computer
+    program that can be executed repeatedly, or before previous executions have been
+    completed, with the requirement that neither its external parameters nor any {{instructions,
+    IEV:171-05-08}} are modified during its execution
+  examples: []
+  id: 171-05-61
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reentrant
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: reenterable
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-03-01
+id: 6046b0d9-4a27-5403-b143-95e5b35248f6
+status: valid

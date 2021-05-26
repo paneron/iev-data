@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: courant arrivant à une borne de ligne d'un enroulement quand une tension
+    donnée à la fréquence assignée est appliquée à cet enroulement, l'autre (ou les
+    autres) enroulement(s) étant à circuit ouvert
+  examples: []
+  id: 421-06-02
+  language_code: fra
+  notes:
+  - Normalement, la tension appliquée est la tension assignée et l'enroulement d'excitation,
+    s'il est muni de prises, est connecté sur sa prise principale.
+  - Le courant à vide d'un enroulement est souvent exprimé en pourcentage du courant
+    assigné de cet enroulement.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant à vide
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: 547f5d11-7c08-5f69-a6a5-0b67d8cf3fc0
+status: valid

@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: relation entre le journal des niveaux d'entrée et les niveaux de sortie
+    numérique correspondants pour un système optoélectronique de capture d'images
+    numériques
+  examples: []
+  id: 845-32-059
+  language_code: fra
+  notes:
+  - Si l'espacement des points d'exposition dans le journal des entrées est très précis,
+    et si le bruit de sortie est faible par comparaison avec l'intervalle de quantification,
+    la fonction, de conversion optoélectronique peut être échelonnée. Ce type de comportement
+    est un artéfact du processus de quantification et il convient de le supprimer
+    par l'utilisation d'un algorithme de lissage approprié ou par ajustement d'une
+    courbe lisse aux données.
+  - Le terme abrégé "OECF" est dérivé du terme anglais développé correspondant "opto-electronic
+    conversion function".
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de conversion optoélectronique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: OECF
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 35676c73-d281-53ca-a736-0aa68b5f2bb2
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: at each point of a given space region, scalar `φ` the negative of the
+    gradient of which is the vector *`U`* of a given field *`U`* = −*grad* `φ`
+  examples: []
+  id: 102-05-24
+  language_code: eng
+  notes:
+  - The vector field *`U`* is a {{conservative field, IEV:102-05-34}} and is said
+    to be derived from the scalar field `φ`.
+  - The scalar potential is not unique since any constant scalar can be added to a
+    given scalar potential without changing its gradient.
+  - Examples of potential are the {{electric potential, IEV:121-11-25}} and the potential
+    in mechanics (see {{IEV 113-03-19, IEV:113-03-19}}).
+  - The term "scalar potential" is only used in place of the term "potential" to distinguish
+    it from the term "vector potential".
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: potential
+    normative_status: preferred
+    type: expression
+  - designation: scalar potential
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 0269f9c3-cca2-5b88-8d62-5ceb11225086
+status: valid

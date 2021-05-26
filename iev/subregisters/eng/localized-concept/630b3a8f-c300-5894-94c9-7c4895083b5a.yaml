@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: 13-9.b
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-9.b, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: unit of {{amount of data, IEV:171-02-09}}, corresponding to one {{binary
+    digit, IEV:171-02-10}}
+  examples: []
+  id: 171-02-11
+  language_code: eng
+  notes:
+  - The bit can be combined with SI prefixes, e.g. kilobit (kbit), or with binary
+    prefixes, e.g. kibibit (Kibit). For binary multiples (powers of 2), the use of
+    binary prefixes is recommended to avoid ambiguity.
+  - The unit bit can be combined with other units, e.g. bit per second (bit/s).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bit
+    normative_status: preferred
+    type: expression
+    usage_info: unit
+  - designation: bit
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 630b3a8f-c300-5894-94c9-7c4895083b5a
+status: valid

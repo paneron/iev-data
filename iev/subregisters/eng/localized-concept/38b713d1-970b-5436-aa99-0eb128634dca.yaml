@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.202
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.202
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: train bus for frequently coupled and uncoupled consists
+  examples:
+  - International UIC (International Union of Railways, the international railways
+    operators association) trains.
+  id: 811-37-115
+  language_code: eng
+  notes:
+  - The abbreviation "WTB" is derived from the corresponding English term "wire train
+    bus".
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: wire train bus
+    normative_status: preferred
+    type: expression
+  - designation: WTB
+    type: expression
+dateAccepted: 2017-11-01
+id: 38b713d1-970b-5436-aa99-0eb128634dca
+status: valid

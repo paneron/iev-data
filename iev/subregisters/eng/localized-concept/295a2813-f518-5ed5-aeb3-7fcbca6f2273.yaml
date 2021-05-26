@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 101-14-39
+      original: 101-14-39
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: value of the phase of a sinusoidal quantity when the value of the independent
+    variable is zero
+  examples: []
+  id: 141-01-02
+  language_code: eng
+  notes:
+  - For the quantity `A`~m~ cos (`ωt` + `θ`~0~ )  the initial phase is equal to `θ`~0~.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: initial phase
+    normative_status: preferred
+    type: expression
+  - designation: phase angle
+    type: expression
+  - designation: '`θ`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2004-08-01
+id: 295a2813-f518-5ed5-aeb3-7fcbca6f2273
+status: valid

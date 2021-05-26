@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: caractéristique représentant la relation entre la tension aux bornes
+    et le courant d'excitation d'une machine à vide, pour des conditions spécifiées
+    de vitesse ou de fréquence
+  examples: []
+  id: 411-47-03
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: caractéristique à circuit ouvert
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: caractéristique à vide
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 88ae7492-5357-5780-93be-ca1515cf5c6a
+status: valid

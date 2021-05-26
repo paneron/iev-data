@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{device, IEV:151-11-20}} or assembly of devices used for {{information
+    processing, IEV:171-01-19}}'
+  examples:
+  - '{{Peripheral devices, IEV:171-04-07}}, {{transmission lines, IEV:704-02-02}}.'
+  id: 171-01-20
+  language_code: eng
+  notes:
+  - The devices can use electronic, electric, mechanical or optical phenomena.
+  - Hardware requires {{software, IEV:171-01-21}} to execute computer programs, and
+    to store and transmit data.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hardware
+    normative_status: preferred
+    type: expression
+    usage_info: in information processing
+dateAccepted: 2019-03-01
+id: aa078b66-5067-55cc-869e-9ebaccc6abb8
+status: valid

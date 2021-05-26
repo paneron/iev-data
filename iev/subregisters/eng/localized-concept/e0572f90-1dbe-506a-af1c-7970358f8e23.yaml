@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '5.4'
+      original: ≠ VIM 5.4
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: range defined by two values of the measurand, or quantity to be supplied,
+    within which the limits of uncertainty of the measuring instrument are specified
+  examples: []
+  id: 311-03-12
+  language_code: eng
+  notes:
+  - An instrument can have several measuring ranges.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: measuring range
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: e0572f90-1dbe-506a-af1c-7970358f8e23
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur de la tension de tenue efficace fixée par le constructeur aux
+    matériels ou à une partie d'entre eux, caractérisant la capacité de tenue spécifiée
+    (à long terme) de son isolation
+  examples: []
+  id: 426-04-50
+  language_code: fra
+  notes:
+  - La tension assignée d'isolement n'est pas nécessairement égale à la tension assignée
+    du matériel, laquelle est principalement liée aux performances fonctionnelles.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension assignée d'isolement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b9ab2dba-2cdd-5ac6-a837-8802cfec1371
+status: valid

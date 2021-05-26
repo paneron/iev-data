@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{fuel cell power system, IEV:485-09-01}} that is connected and fixed
+    in place image::/assets/images/parts/485/485-09-24-Fig-en.png usemap="#image-map"[]
+    <map name="image-map"> <area title="fuel cell module" href="http://www.electropedia.org/iev/iev.nsf/display?openform&amp;ievref=485-09-03"
+    shape="rect" coords="272,138,351,212" target="_self" alt="fuel cell module"> </map>
+    *Key* Discharge water – water discharged from the fuel cell power system including
+    waste water and condensate. EMD ({{electromagnetic disturbance, IEV:161-01-05}})
+    – electromagnetic phenomenon that can degrade the performance of a device, equipment
+    or system, or adversely affect living or inert matter. EMI ({{electromagnetic
+    interference, IEV:161-01-06}}) – degradation in the performance of equipment or
+    transmission channel or a system caused by an electromagnetic disturbance. Recovered
+    heat – thermal energy that has been recovered for useful purposes. Waste heat
+    – thermal energy released and not recovered.'
+  examples: []
+  id: 485-09-24
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stationary fuel cell power system
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 92a11a40-f135-59ee-9a84-ad4dc494aa51
+status: valid

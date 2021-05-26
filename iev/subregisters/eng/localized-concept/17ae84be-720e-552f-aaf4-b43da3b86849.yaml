@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: product of the rms voltage `U` between the terminals of a two-terminal
+    element or two-terminal circuit and the rms electric current `I` in the element
+    or circuit `S` = `UI`
+  examples: []
+  id: 131-11-41
+  language_code: eng
+  notes:
+  - Under sinusoidal conditions, the apparent power is the modulus of the complex
+    power `underset(_)(S)`, thus `S = | underset(_)(S) |`.
+  - The coherent SI unit for apparent power is voltampere, VA.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: apparent power
+    normative_status: preferred
+    type: expression
+  - designation: '`S`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 17ae84be-720e-552f-aaf4-b43da3b86849
+status: valid

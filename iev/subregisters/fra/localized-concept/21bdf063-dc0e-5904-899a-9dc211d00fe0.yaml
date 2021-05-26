@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: signal de synchronisation formé dans un noeud de synchronisation à partir
+    de la relation de phase entre la trame temporelle cyclique issue de l'horloge
+    locale et la trame temporelle cyclique d'un signal numérique reçu sur une liaison
+    de synchronisation en provenance d'un noeud de synchronisation éloigné déterminé
+  examples: []
+  id: 704-15-13
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal de synchronisation local
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 21bdf063-dc0e-5904-899a-9dc211d00fe0
+status: valid

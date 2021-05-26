@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 195-02-02
+      original: 195-02-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: earth electrode located at such a distance from other earth electrodes
+    that its electric potential is not significantly affected by electric currents
+    between Earth and other earth electrodes
+  examples: []
+  id: 826-13-07
+  language_code: eng
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: independent earth electrode
+    normative_status: preferred
+    type: expression
+  - designation: independent ground electrode
+    type: expression
+  - designation: remote earth
+    type: expression
+dateAccepted: 2004-08-01
+id: 9ac4b230-d035-5f26-833b-f1e065fc3b22
+status: valid

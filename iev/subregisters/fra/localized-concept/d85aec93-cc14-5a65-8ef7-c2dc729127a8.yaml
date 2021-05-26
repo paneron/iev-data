@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'information de surveillance caractérisant un état indéterminé que peut
+    prendre un organe en cours de changement d''état, état qui peut durer un temps
+    spécifié Exemple: Etat d''un sectionneur à fonctionnement lent durant sa manoeuvre.'
+  examples: []
+  id: 371-02-09
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: information d'état intermédiaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: information de manoeuvre en cours
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: d85aec93-cc14-5a65-8ef7-c2dc729127a8
+status: valid

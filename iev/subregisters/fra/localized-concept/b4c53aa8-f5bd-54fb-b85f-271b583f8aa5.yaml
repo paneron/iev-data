@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: nombre de modes liés qu'une fibre optique est capable de guider
+  examples: []
+  id: 731-03-64
+  language_code: fra
+  notes:
+  - Lorsque la fréquence normée `V` est inférieure à 2,405, une fibre à saut d'indice
+    ne peut guider qu'un seul mode, cas d'une fibre unimodale.
+  - Lorsque la fréquence normée `V` est supérieure à 5, le volume des modes est approximativement
+    égal à `V`^2^/2 pour une fibre à saut d'indice et à (`V` ^2^/2) [g/(g + 2)] pour
+    une fibre à profil d'indice à loi en puissance, où g est le paramètre de profil.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volume des modes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: b4c53aa8-f5bd-54fb-b85f-271b583f8aa5
+status: valid

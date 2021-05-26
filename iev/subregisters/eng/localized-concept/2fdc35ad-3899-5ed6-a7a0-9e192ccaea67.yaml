@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: sequence of actions performed to re-establish an {{adequate state, IEV:692-02-04}}
+  examples: []
+  id: 692-01-15
+  language_code: eng
+  notes:
+  - Typical restoration processes are generation start-up, re-synchronization, transmission
+    line re-energization, load re-supply, and re-synchronization of isolated portions
+    of the {{electric power system, IEV:692-01-02}}.
+  - This entry was numbered 191-22-10 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: restoration process
+    normative_status: preferred
+    type: expression
+    usage_info: in an electric power system
+dateAccepted: 2017-12-01
+id: 2fdc35ad-3899-5ed6-a7a0-9e192ccaea67
+status: valid

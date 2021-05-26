@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: subnetwork that permits access from both untrusted external networks
+    and from internal networks, but does not permit traffic to flow between the two
+  examples: []
+  id: 732-06-03
+  language_code: eng
+  notes:
+  - '– See Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-03en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: screened subnetwork
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 11175b65-9c2b-5f13-a919-2ef8f366548f
+status: valid

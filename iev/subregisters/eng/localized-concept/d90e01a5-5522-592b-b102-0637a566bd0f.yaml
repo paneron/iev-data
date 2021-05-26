@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 6
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 6, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: for a parallel beam of specified radiation in a given substance, the
+    quantity `μ`~abs~ describes the fraction of energy absorbed in passing through
+    a thin layer of thickness Δ`x`
+  examples: []
+  id: 395-01-26
+  language_code: eng
+  notes:
+  - The absorption coefficient is primarily energy dependent.
+  - According to whether the thickness Δ`x` is expressed in terms of length, mass
+    per unit area, moles per unit area or atoms per unit area, it is called the linear,
+    mass, molar or atomic absorption coefficient.
+  - This entry was numbered 393-14-46 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absorption coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`~abs~'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: d90e01a5-5522-592b-b102-0637a566bd0f
+status: valid

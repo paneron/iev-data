@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: Voir {{IEV 113-06-29, IEV:113-06-29}}
+  examples: []
+  id: 881-02-94
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: émission thermoélectronique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: émission thermo-ionique
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: émission thermoïonique
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d6dbfa0e-9822-5fe1-ac51-8d94fee4c304
+status: valid

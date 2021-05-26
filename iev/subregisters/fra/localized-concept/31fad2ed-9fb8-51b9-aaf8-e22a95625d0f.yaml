@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: Voir {{IEV 113-04-65, IEV:113-04-65}}
+  examples: []
+  id: 705-05-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: humidité relative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: degré hygrométrique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: taux d’humidité
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 31fad2ed-9fb8-51b9-aaf8-e22a95625d0f
+status: valid

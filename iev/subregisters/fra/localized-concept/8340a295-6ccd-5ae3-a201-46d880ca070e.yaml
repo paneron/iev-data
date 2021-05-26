@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: réponse temporelle d'un biporte produite par l'application à son entrée
+    d'une impulsion unité, ou distribution de Dirac
+  examples: []
+  id: 702-07-26
+  language_code: fra
+  notes:
+  - L'impulsion unité, ou distribution de Dirac, peut être considérée comme la limite
+    d'une fonction nulle en dehors d'un petit intervalle de temps entourant l'origine,
+    positive dans cet intervalle, et dont l'intégrale reste égale à l'unité lorsque
+    cet intervalle tend vers zéro.
+  - L'impulsion unité peut être considérée comme la dérivée par rapport au temps de
+    l'échelon unité.
+  - La réponse impulsionnelle peut être considérée comme la dérivée par rapport au
+    temps de la réponse à l'échelon unité, ou réponse indicielle, d'un biporte linéaire
+    invariable dans le temps.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse impulsionnelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 8340a295-6ccd-5ae3-a201-46d880ca070e
+status: valid

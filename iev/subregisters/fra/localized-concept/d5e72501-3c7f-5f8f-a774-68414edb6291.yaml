@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: tуре de vérification des caractères reçus pendant un cycle sans impression
+    dans laquelle on s'assure de la présence du signal de répétition et où l'on contrôle
+    le rapport du nombre de moments A au nombre de moments Z de tous les caractères
+    reçus après le signal de répétition jusqu'à la fin du cycle sans impression
+  examples: []
+  id: 721-08-41
+  language_code: fra
+  notes:
+  - Voir recommandation 342 du CCIR.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrôle de RQ
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: d5e72501-3c7f-5f8f-a774-68414edb6291
+status: valid

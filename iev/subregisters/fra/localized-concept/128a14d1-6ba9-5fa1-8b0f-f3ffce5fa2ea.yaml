@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.53
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.53
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: séquence de symboles "0" ou de "1" qui sert à délimiter le début ou
+    la fin d'une trame
+  examples: []
+  id: 811-37-39
+  language_code: fra
+  notes:
+  - Un drapeau qui apparaîtrait dans les données à transmettre peut être modifié par
+    le bourrage de bits, comme défini par exemple dans l'ISO/IEC 13239.
+  reviewDecisionEvent: published
+  terms:
+  - designation: drapeau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 128a14d1-6ba9-5fa1-8b0f-f3ffce5fa2ea
+status: valid

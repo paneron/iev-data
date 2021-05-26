@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: average illuminance on strips, which are adjacent to the edges of both
+    sides of the carriageway, to the average illuminance on the adjacent strips in
+    the carriageway
+  examples: []
+  id: 845-31-144
+  language_code: eng
+  notes:
+  - Specific requirements regarding the width of the strips are defined in CIE 140,
+    _Road Lighting Calculations_.
+  - The surround ratio has unit one.
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: surround ratio
+    normative_status: preferred
+    type: expression
+  - designation: SR
+    type: expression
+    usage_info: in road lighting
+  - designation: '`R`~s~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 87d8cf1b-90fa-5a69-9a88-f7af4274ed12
+status: valid

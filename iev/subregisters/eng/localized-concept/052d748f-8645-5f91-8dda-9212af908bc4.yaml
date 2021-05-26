@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-11-01
+  definition: value of deceleration `γ`~a~ obtained by dividing the reduction in speed
+    by the time taken to effect it `gamma_a = ((V_i - V_t))/(t)` where `V`~i~ is the
+    initial speed measured at the moment of the operation of the control device for
+    the brake; `V`~t~ is the final speed obtained at the end of the braking; `t` is
+    the time between the moment of operation of the control device for the brake and
+    the moment at which the final speed is attained
+  examples: []
+  id: 811-06-41
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean deceleration as a function of time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 052d748f-8645-5f91-8dda-9212af908bc4
+status: valid

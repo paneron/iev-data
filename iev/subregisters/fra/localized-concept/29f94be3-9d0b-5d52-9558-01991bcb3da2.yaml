@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: élément de l'ensemble totalement ordonné unique constitué par les nombres
+    rationnels et toutes les limites de suites infinies de nombres rationnels, avec
+    les mêmes opérations que pour les nombres rationnels
+  examples: []
+  id: 102-02-05
+  language_code: fra
+  notes:
+  - Les nombres rationnels sont aussi des nombres réels. Les nombres irrationnels,
+    c’est à dire les nombres réels autres que les nombres rationnels, sont par exemple
+    `sqrt(2)` = 1,414 2..., π = 3,141 5..., e = 2,718 2... Pour de tels nombres, la
+    suite des chiffres après le signe décimal est infinie sans aucune répétition périodique.
+  - L'ensemble des réels est noté ℝ (R avec la barre verticale gauche et la partie
+    droite doublées) ou *R*, ou parfois R avec la barre verticale gauche doublée.
+    L'ensemble sans zéro est noté en ajoutant un astérisque au symbole, par exemple
+    ℝ*.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre réel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réel
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 29f94be3-9d0b-5d52-9558-01991bcb3da2
+status: valid

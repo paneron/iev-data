@@ -1,0 +1,52 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: facteur par lequel les valeurs lues d'un photomètre physique peuvent
+    être multipliées afin de corriger l'erreur due à la différence entre la sensibilité
+    spectrale relative du photomètre et l'<a href="IEV845-21-035">efficacité lumineuse
+    relative spectrale</a> pour la vision photopique, `V`(`λ`). Ce facteur est destiné
+    à simuler les conditions d'utilisation du photomètre afin de mesurer une source
+    dont la <a href="IEV845-21-030">répartition spectrale relative</a> est différente
+    de celle de la source d'étalonnage du photomètre
+  examples: []
+  id: 845-25-115
+  language_code: fra
+  notes:
+  - 'La plupart des photomètres sont conçus pour simuler l''efficacité lumineuse relative
+    spectrale pour la vision photopique, `V`(`λ`), et sont étalonnés au moyen d''une
+    source correspondant à l''<a href="IEV845-23-021">illuminant CIE normalisé</a>
+    A. Pour ce type de photomètre, le facteur spectral de correction de désadaptation
+    peut être calculé à l''aide de l''équation:
+
+
+    `F^( * ) = ((underset(lambda)( int ) S ( lambda ) V ( lambda ) d lambda))/((underset(lambda)(
+    int ) S ( lambda ) s_((rel)) ( lambda ) d lambda)) ((underset(lambda)( int ) S_A
+    ( lambda ) s_((rel)) ( lambda ) d lambda))/((underset(lambda)( int ) S_A ( lambda
+    ) V ( lambda ) d lambda))`
+
+
+    où `s`~rel~(`λ`) est la sensibilité spectrale relative du photomètre et `S`(`λ`)
+    et `S`~A~(`λ`) sont les répartitions spectrales relatives d''énergie de la source
+    à mesurer et de l''illuminant CIE normalisé A.'
+  - Le terme "facteur de correction des couleurs" n'est plus usité.
+  - Le terme "facteur spectral de correction de désadaptation" peut également être
+    appliqué à d'autres détecteurs dont la réponse est destinée à simuler une fonction
+    d'observation particulière, tels que les radiomètres actiniques.
+  - L'unité de facteur spectral de correction de désadaptation est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur spectral de correction de désadaptation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour un photomètre
+  - designation: facteur de correction des couleurs
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6491456e-1cc8-5571-82d2-2b9d12937d77
+status: valid

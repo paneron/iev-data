@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: highest frequency at which a radio wave undergoes reflection in an ionospheric
+    layer on which it is incident vertically
+  examples: []
+  id: 705-07-73
+  language_code: eng
+  notes:
+  - There is usually one critical frequency for each magneto-ionic component
+  - The critical frequency for the ordinary wave is the plasma frequency corresponding
+    to the maximum electron density of the layer.
+  - 'The critical frequencies for the ordinary wave and the extraordinary wave are
+    respectively represented by the symbols `f`~o~ and `f`~x~, followed by the designation
+    of the layer, for example: `f`~o~F2.'
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical frequency
+    normative_status: preferred
+    type: expression
+    usage_info: in ionospheric propagation
+dateAccepted: 2014-11-01
+id: 3b08642a-8769-560b-a35a-4dbc558de706
+status: valid

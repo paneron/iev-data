@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: curve traced on a sphere that has its centre at the light centre of
+    the light source, joining all the points corresponding to those directions in
+    which the luminous intensity is the same, or a plane projection of that curve
+  examples: []
+  id: 845-29-041
+  language_code: eng
+  notes:
+  - The English terms "isocandela curve" and "isocandela line", and the French term
+    "courbe isocandela" are no longer in use.
+  - This entry was numbered 845-09-28 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: iso-intensity curve
+    normative_status: preferred
+    type: expression
+  - designation: iso-intensity line
+    type: expression
+  - designation: isocandela curve
+    normative_status: deprecated
+    type: expression
+  - designation: isocandela line
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-12-01
+id: 854b6e44-5bdc-5dc0-8044-849a38675254
+status: valid

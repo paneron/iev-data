@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur scalaire égale au quotient de la composante tangentielle d`F`~t~
+    d'une force agissant sur un élément de surface par l'aire d`A` de cet élément,
+    soit `τ` = d`F`~t~ / d`A`
+  examples: []
+  id: 113-03-64
+  language_code: fra
+  notes:
+  - 1 Dans les milieux anisotropes, la contrainte tangentielle dépend de l'orientation
+    de la surface et peut être décrite par un tenseur.
+  - 2 L'unité SI cohérente de contrainte tangentielle est le pascal, Pa.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: contrainte tangentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: ec35aec0-b3d4-5b87-b2eb-bc9362fe5223
+status: valid

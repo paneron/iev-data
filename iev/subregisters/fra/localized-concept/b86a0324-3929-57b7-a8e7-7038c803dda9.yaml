@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'rapport `U`~d~/ `U`~N~ (facteur de prise) ou 100 `U`~d~/ `U`~N~ (facteur
+    de prise exprimé sous la forme d''un pourcentage) où: `U`~N~ est la tension assignée
+    de l''enroulement, `U`~d~ est la tension qui serait développée aux bornes de l''enroulement,
+    connecté sur la prise considérée, en fonctionnement à vide, en appliquant à un
+    enroulement sans prise sa tension assignée'
+  examples: []
+  id: 421-05-03
+  language_code: fra
+  notes:
+  - Le facteur de prise exprime la valeur relative du "nombre effectif de spires"
+    de l'enroulement à prises pour la prise considérée, la base 1 étant le nombre
+    effectif de spires de cet enroulement pour la prise principale.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de prise
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: b86a0324-3929-57b7-a8e7-7038c803dda9
+status: valid

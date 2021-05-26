@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: température spécifiée, appropriée au traitement, à la cuisson d'un matériau
+  examples: []
+  id: 212-13-08
+  language_code: fra
+  notes:
+  - La température de traitement est souvent une température élevée, mais peut également
+    être une température ordinaire.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de traitement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: température de cuisson
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: ae7ffde4-4ff4-5def-88dd-c3c3dad66fcd
+status: valid

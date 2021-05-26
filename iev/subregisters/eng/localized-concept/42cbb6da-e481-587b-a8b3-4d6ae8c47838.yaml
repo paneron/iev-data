@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: time integral of the photon cylindrical irradiance, `E`~p,c~, at a given
+    point for a given direction, over a given duration, Δ`t` `H_((p,c)) = underset((Delta
+    t))( int ) E_(p,c) d t`
+  examples: []
+  id: 845-21-079
+  language_code: eng
+  notes:
+  - The photon cylindrical exposure is expressed in metre to the power minus two (m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photon cylindrical exposure
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~p,c~
+
+      `H`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 42cbb6da-e481-587b-a8b3-4d6ae8c47838
+status: valid

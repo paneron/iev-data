@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: capability of a process computer system to resume tasks after a fault
+    or a breakdown
+  examples: []
+  id: 351-54-08
+  language_code: eng
+  notes:
+  - A requirement for this is that the state of the task is always stored immediately
+    before a fault or a breakdown while the restart can follow on automatically.
+  - This entry was numbered 351-30-09 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: restart capability
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 9f45ec38-431a-578d-a51a-a0f19a8d4e7b
+status: valid

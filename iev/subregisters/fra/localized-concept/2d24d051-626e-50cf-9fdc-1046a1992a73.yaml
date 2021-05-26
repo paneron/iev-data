@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 702-04-02
+      original: 702-04-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: signal tel que la caractéristique qui représente des informations est
+    susceptible à tout instant de prendre une quelconque des valeurs d'un intervalle
+    continu
+  examples: []
+  id: 704-01-03
+  language_code: fra
+  notes:
+  - Par exemple, un signal analogique peut suivre, de façon continue, les valeurs
+    d'une autre grandeur physique représentant des informations.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal analogique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 2d24d051-626e-50cf-9fdc-1046a1992a73
+status: valid

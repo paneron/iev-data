@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 161-07-15
+      original: IEV 161-07-15, modifié
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: point d'un système d'énergie électrique, le plus proche électriquement
+    d'une charge particulière, auquel d'autres charges sont, ou peuvent être, raccordées
+  examples: []
+  id: 614-01-12
+  language_code: fra
+  notes:
+  - Ces charges peuvent être soit des dispositifs, appareils ou systèmes, soit des
+    installations distinctes d’utilisateurs du réseau.
+  reviewDecisionEvent: published
+  terms:
+  - designation: point commun de raccordement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PCC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d9939e3c-668e-5825-bf39-228658652010
+status: valid

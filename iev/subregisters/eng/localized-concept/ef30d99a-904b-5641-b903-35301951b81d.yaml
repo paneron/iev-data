@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: a radiotelegraphy error detecting and feedback system in general a timedivision
+    multiplex assembling two or four channels using the Van Duuren code
+  examples: []
+  id: 721-11-30
+  language_code: eng
+  notes:
+  - The main characteristics of the system are defined in CCIR Recommendation 342,
+    which also defines concepts specific to this procedure.
+  - TOR is for "Teleprinting Over Radiocircuits".
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Van Duuren radiotelegraph system
+    normative_status: preferred
+    type: expression
+  - designation: TOR
+    type: expression
+dateAccepted: 1991-11-01
+id: ef30d99a-904b-5641-b903-35301951b81d
+status: valid

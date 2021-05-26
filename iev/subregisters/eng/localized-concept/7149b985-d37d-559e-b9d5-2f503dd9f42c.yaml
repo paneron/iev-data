@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      original: IEC Guide 117:2010, 3.1
+      ref: IEC Guide 117:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: surface adjacent to a {{hot functional surface, IEV:903-03-01}}
+  examples: []
+  id: 903-03-02
+  language_code: eng
+  notes:
+  - The adjacent surface and the hot functional surface normally consist of the same
+    piece of material, or are in direct thermal contact, and have similar thermal
+    properties. The adjacent surface is not heated intentionally during use of the
+    product. However, as it is adjacent to the hot functional surface and may become
+    hot through conduction, its temperature will be in the range between the hot functional
+    surface and a {{touchable surface, IEV:903-03-04}}.
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adjacent surface
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 7149b985-d37d-559e-b9d5-2f503dd9f42c
+status: valid

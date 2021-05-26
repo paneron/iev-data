@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the <a href="IEV845-21-029">spectral distribution</a>, `Xλ`(`λ`),
+    of a radiant, luminous or photon quantity, `X`(`λ`), and a fixed reference value,
+    `R`, which can be an average value, a maximum value or an arbitrarily chosen value
+    of this distribution `S ( lambda ) = ((X_(lambda) ( lambda )))/(R)`
+  examples: []
+  id: 845-21-030
+  language_code: eng
+  notes:
+  - The relative spectral distribution has unit one.
+  - This entry was numbered 845-01-18 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative spectral distribution
+    normative_status: preferred
+    type: expression
+  - designation: '`S`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: ecba30ca-8565-5035-aac1-b0e39a4978d5
+status: valid

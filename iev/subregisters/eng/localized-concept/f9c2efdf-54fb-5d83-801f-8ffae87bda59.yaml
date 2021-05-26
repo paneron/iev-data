@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: quotient of the increment of radiant energy d`R` divided by the time
+    interval of duration d`t` `overset(˙)(R) = d R // d t`
+  examples: []
+  id: 395-01-18
+  language_code: eng
+  notes:
+  - This quantity is expressed in watts (W).
+  - This entry was numbered 393-14-30 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energy flux
+    normative_status: preferred
+    type: expression
+  - designation: '`overset(˙)(R)`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: f9c2efdf-54fb-5d83-801f-8ffae87bda59
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.15
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.15
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: '{{digital entity, IEV:741-01-14}} that uses an {{IoT system, IEV:741-02-07}}'
+  examples: []
+  id: 741-01-15
+  language_code: eng
+  notes:
+  - Digital user includes automation {{services, IEV:741-01-28}} that act on behalf
+    of {{human users, IEV:741-01-20}}.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digital user
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: 86d398ba-8694-5850-9ff5-46a0ec4641f1
+status: valid

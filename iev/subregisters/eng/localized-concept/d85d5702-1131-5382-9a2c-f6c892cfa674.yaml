@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: fault that causes alterations of the output variables of the control
+    equipment although the program-defined conditions for such alterations are not
+    fulfilled
+  examples: []
+  id: 351-56-22
+  language_code: eng
+  notes:
+  - This entry was numbered 351-32-30 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: active fault in control equipment
+    normative_status: preferred
+    type: expression
+  - designation: active fault
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: d85d5702-1131-5382-9a2c-f6c892cfa674
+status: valid

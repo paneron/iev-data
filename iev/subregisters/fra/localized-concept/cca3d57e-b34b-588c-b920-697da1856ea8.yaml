@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.13
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.13, modifié
+      ref: IEC 62290-1:2014
+      relationship:
+        type: modified
+  definition: capacité des constituants système à être acquis auprès de différents
+    fabricants et remplacés sans changement substantiel de fonctionnalité ou de performance
+  examples: []
+  id: 821-01-60
+  language_code: fra
+  notes:
+  - L'interchangeabilité permet également au système d’être adaptable aux évolutions
+    technologiques sans modification significative de son architecture.
+  reviewDecisionEvent: published
+  terms:
+  - designation: interchangeabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de constituants système
+dateAccepted: 2018-11-17
+id: cca3d57e-b34b-588c-b920-697da1856ea8
+status: valid

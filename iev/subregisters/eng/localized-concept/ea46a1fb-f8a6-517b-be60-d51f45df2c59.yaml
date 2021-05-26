@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: ratio of the r.m.s. value of the total distortion content to the r.m.s.
+    value of the fundamental component or the reference fundamental component of an
+    alternating quantity
+  examples: []
+  id: 551-20-14
+  language_code: eng
+  notes:
+  - The total distortion ratio depends on the choice of the fundamental component.
+    If it is not clear from the context which one is used an indication should be
+    given.
+  - The total distortion ratio may be approximated to a certain harmonic order. This
+    is to be stated.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total distortion ratio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: ea46a1fb-f8a6-517b-be60-d51f45df2c59
+status: valid

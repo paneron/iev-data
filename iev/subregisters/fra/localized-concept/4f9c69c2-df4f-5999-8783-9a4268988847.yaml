@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: à l'entrée du récepteur radioélectrique, rapport entre la puissance
+    d'un signal de nature spécifiée dont la fréquence est l'une des {{fréquences perturbatrices,
+    IEV:713-10-60}}, et la puissance d'un signal de même nature à la fréquence d'accord,
+    les deux signaux produisant la même puissance à la sortie
+  examples: []
+  id: 713-10-61
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement sur fréquence perturbatrice
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport de réjection sur fréquence perturbatrice
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4f9c69c2-df4f-5999-8783-9a4268988847
+status: valid

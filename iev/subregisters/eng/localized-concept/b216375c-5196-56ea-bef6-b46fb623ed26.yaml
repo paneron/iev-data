@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the emitted luminous flux and the power consumed `eta_v
+    = ((Phi_v))/(P)` where `Φ`~v~ is luminous flux and `P` is the power consumed by
+    the light source
+  examples: []
+  id: 845-21-089
+  language_code: eng
+  notes:
+  - It has to be specified whether or not the power dissipated by auxiliary equipment
+    such as ballasts, if any, is included in the power consumed by the light source.
+  - The luminous efficacy of a light source is expressed in lumen per watt (lm·W^−1^).
+  - This entry was numbered 845-01-55 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous efficacy
+    normative_status: preferred
+    type: expression
+    usage_info: of a light source
+  - designation: '`η`~v~
+
+      `η`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: b216375c-5196-56ea-bef6-b46fb623ed26
+status: valid

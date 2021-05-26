@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: ratio of the maximum absolute value of an {{alternating, IEV:103-06-03}}
+    quantity to its {{RMS value, IEV:103-02-03}}
+  examples: []
+  id: 103-06-15
+  language_code: eng
+  notes:
+  - For an alternating quantity `x`, the peak factor is equal to `x_((m a x)) // X_((e
+    f f))`.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: peak factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 96680ba1-6820-5cfe-9160-a366c01d12ba
+status: valid

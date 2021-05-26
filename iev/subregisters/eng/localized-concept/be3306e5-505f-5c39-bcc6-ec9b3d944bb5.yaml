@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 192-02-21
+      link: https://webstore.iec.ch/publication/21886
+      original: IEC 60050-192:2015, 192-02-21, modified – Term "down duration" added
+        as a synonym, the words “duration of the” inserted at the beginning of the
+        definition, the figure has been omitted, and Note 2 to entry added
+      ref: IEC 60050-192:2015
+      relationship:
+        modification: Term "down duration" added as a synonym, the words “duration
+          of the” inserted at the beginning of the definition, the figure has been
+          omitted, and Note 2 to entry added
+        type: modified
+  dateAmended: 2017-12-01
+  definition: duration of the time interval for which the item is in a down state
+  examples: []
+  id: 692-06-04
+  language_code: eng
+  notes:
+  - Down time excludes disabled time due to lack of external resources, but includes
+    maintenance time.
+  - This entry was numbered 603-05-18 in IEC 60050-603:1986.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: down time
+    normative_status: preferred
+    type: expression
+  - designation: down duration
+    type: expression
+dateAccepted: 2017-12-01
+id: be3306e5-505f-5c39-bcc6-ec9b3d944bb5
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 161-08-10
+      original: IEV 161-08-10, modified
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2016-02-01
+  definition: sudden voltage reduction at a point in an electric power system, followed
+    by voltage recovery after a short time interval, from a few periods of the sinusoidal
+    wave of the voltage to a few seconds
+  examples: []
+  id: 614-01-08
+  language_code: eng
+  notes: []
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: voltage dip
+    normative_status: preferred
+    type: expression
+  - designation: voltage sag
+    type: expression
+dateAccepted: 2016-02-01
+id: 0ae13b76-edd8-549d-a443-35ed29992919
+status: valid

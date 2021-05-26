@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 712-02-53
+      original: 712-02-53 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: produit de la puissance fournie par un émetteur radioélectrique à une
+    antenne, par le gain de celle-ci par rapport à une antenne verticale courte dans
+    une direction donnée
+  examples: []
+  id: 713-09-27
+  language_code: fra
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance apparente rayonnée sur une antenne verticale courte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PARV
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 68f92e63-eb27-5c4e-86ce-24b968eafaf0
+status: valid

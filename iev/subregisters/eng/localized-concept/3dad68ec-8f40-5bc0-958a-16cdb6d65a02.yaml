@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.38
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.5.38
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: process for obtaining the desired shape of microscopic {{components,
+    IEV:151-11-21}} after pouring a liquefied material into a mould
+  examples: []
+  id: 523-05-19
+  language_code: eng
+  notes:
+  - Micromoulding is a microforming process that uses such means as compression, transfer,
+    injection, and blowing to form a desired shape in a metallic mould. Microshapes
+    are created by feeding raw materials such as polymers and ceramics into a mould.
+    In the {{LIGA process, IEV:523-05-06}}, plastics are formed in a metallic mould
+    using precision moulding technology. In a typical example, a low-viscosity plastic
+    is degassed and fed into the vacuum mould under high pressure to prevent bubbling
+    and to fill small gaps completely. Heat treatment is performed at high temperature
+    under high pressure to cure the plastics, to release the stress, and to compensate
+    for shrinkage. The plastic structures made with this reaction injection moulding
+    technology can be plated and used themselves as moulds to produce metallic structures.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: micromoulding
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 3dad68ec-8f40-5bc0-958a-16cdb6d65a02
+status: valid

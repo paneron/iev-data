@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1259
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1259, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: quotient of the energy lost d`E` in a given thickness d`l` of a material
+    for particles of a given type `S` = d`E`/d`l`
+  examples: []
+  id: 395-01-27
+  language_code: eng
+  notes:
+  - This quantity is expressed in joules per metre (J m^−1^).
+  - This entry was numbered 393-14-48 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total linear stopping power
+    normative_status: preferred
+    type: expression
+  - designation: '`S`
+
+      `Sl`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: afbc7970-959d-5c59-96bc-71a5006c4294
+status: valid

@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - - clause: 461-06-18
+      original: 461-06-18 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 604-04-03
+      original: 604-04-03 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-04-02
+      original: 826-04-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: partie conductrice pouvant être incorporée dans un milieu conducteur
+    particulier, par exemple béton ou coke, en contact électrique avec la Terre
+  examples: []
+  id: 195-02-01
+  language_code: fra
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: prise de terre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: électrode de terre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 6c0d77c0-7637-56a9-a3a0-1e071f0458c6
+status: valid

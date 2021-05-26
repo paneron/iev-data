@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: measure that expresses the attenuation of the direct illuminance when
+    the Sun's rays cross vertically the pure and dry atmosphere (Rayleigh atmosphere)
+    `a_v = ((0,1))/((1 + 0,004 5 m))` where `m` is the relative optical air mass weighted
+    to take account of the relative spectral transmittance characteristics of the
+    atmosphere
+  examples: []
+  id: 845-21-106
+  language_code: eng
+  notes:
+  - The luminous extinction coefficient has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous extinction coefficient
+    normative_status: preferred
+    type: expression
+    usage_info: of the atmosphere
+  - designation: '`a`~v~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 6acabbe6-6632-50e2-901d-cd87135f6f7d
+status: valid

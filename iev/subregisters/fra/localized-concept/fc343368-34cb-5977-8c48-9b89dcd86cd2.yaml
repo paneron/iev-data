@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1996-12-01
+  definition: ensemble des chiffres et éventuellement d'autres caractères qui, en
+    un point du réseau de télécommunication déterminent l'extrémité demandée ou sont
+    nécessaires pour l'acheminement
+  examples: []
+  id: 715-01-15
+  language_code: fra
+  notes:
+  - Les chiffres constituant l'adresse émise par le demandeur peuvent être modifiés
+    par la traduction ou par l'absorption de chiffres à mesure que la chaîne de connexion
+    est établie progressivement à travers le réseau, mais les chiffres nouveaux ou
+    restants en chaque point constituent l'adresse en ce point.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adresse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: information d'adresse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: fc343368-34cb-5977-8c48-9b89dcd86cd2
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: for a two-terminal element or a two-terminal circuit with terminals
+    A and B, product of the voltage `u_((AB))` between the terminals and the electric
+    current `i` in the element or circuit `p = u_((AB)) * i` where `u_((AB))` is the
+    line integral of the electric field strength from A to B, and where the electric
+    current in the element or circuit is taken positive if its direction is from A
+    to B and negative if its direction is from B to A
+  examples: []
+  id: 131-11-30
+  language_code: eng
+  notes:
+  - The direction of electric current is as defined in {{131-11-29, IEV:131-11-29}}.
+  - In circuit theory the electric field strength is generally irrotational and thus
+    `u_((AB)) = v_A - v_B`, where `v_A` and `v_B` are the electric potentials at terminals
+    A and B, respectively.
+  - The coherent SI unit of instantaneous power is watt, W.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous power
+    normative_status: preferred
+    type: expression
+  - designation: '`p`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 8ca6d89f-907f-5d55-8f5a-c76bd59d613f
+status: valid

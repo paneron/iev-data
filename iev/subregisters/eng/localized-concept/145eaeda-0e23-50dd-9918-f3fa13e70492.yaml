@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: changing of the representation of {{information, IEV:701-01-01}} according
+    to a given {{code, IEV:101-12-04}} into a representation of the same information
+    according to another code
+  examples:
+  - Conversion of {{character signals, IEV:721-03-10}} or groups of character signals
+    in one {{telegraph code, IEV:721-09-05}} into corresponding signals or group of
+    signals in another code.
+  id: 702-05-16
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code conversion
+    normative_status: preferred
+    type: expression
+  - designation: transcoding
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 145eaeda-0e23-50dd-9918-f3fa13e70492
+status: valid

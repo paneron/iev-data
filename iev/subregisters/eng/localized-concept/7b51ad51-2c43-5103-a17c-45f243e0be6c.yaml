@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: complex number obtained from a given complex number by replacing the
+    imaginary part by its negative
+  examples: []
+  id: 102-02-14
+  language_code: eng
+  notes:
+  - The conjugate of the complex number `c = a + j b = | c | e^(j phi)` is `c * =
+    a - j b = | c | e^(- j phi)`. In mathematics, the conjugate of `c` is often denoted
+    by `bar c`.
+  - The concept of conjugate may be applied to complex scalar, vector or tensor quantities
+    or to matrices of complex elements.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conjugate
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 7b51ad51-2c43-5103-a17c-45f243e0be6c
+status: valid

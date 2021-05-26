@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 521-05-30
+      link: https://webstore.iec.ch/publication/216
+      original: IEC 60050-521:2002, 521-05-30, modifié – Terme qualifié de "LED",
+        synonyme "pastille, f" supprimé; expression "(ou tranche entière)" supprimée
+        dans la définition et mots "une ou plusieurs fonctions" remplacés par "comme
+        une LED" dans la définition; Note 1 à l'article ajoutée.
+      ref: IEC 60050-521:2002
+      relationship:
+        modification: Terme qualifié de "LED", synonyme "pastille, f" supprimé; expression
+          "(ou tranche entière)" supprimée dans la définition et mots "une ou plusieurs
+          fonctions" remplacés par "comme une LED" dans la définition; Note 1 à l'article
+          ajoutée.
+        type: modified
+  definition: composant découpé dans une tranche et destiné à fonctionner comme une
+    LED dans un dispositif
+  examples: []
+  id: 845-27-051
+  language_code: fra
+  notes:
+  - Un dispositif peut être un boîtier LED.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puce LED
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6343b655-9aa5-580f-a360-a9002930169c
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur à transmission dont l'épaisseur du volume sensible
+    est très petite comparée au parcours des particules incidentes et où l'épaisseur
+    des couches mortes d'entrée et de sortie est petite comparée à l'épaisseur du
+    volume sensible du détecteur
+  examples: []
+  id: 395-03-43
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-09 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur différentiel d`E`/d`x`
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur différentiel d`E`/d`x`
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b8119f7d-0fe5-5677-9598-d48d7a0f6725
+status: valid

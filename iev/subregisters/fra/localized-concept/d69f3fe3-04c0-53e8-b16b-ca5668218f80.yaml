@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: essai dans lequel la puissance mécanique est déterminée à partir de
+    la mesure du couple sur l'arbre, en même temps que la vitesse de rotation
+  examples: []
+  id: 411-53-14
+  language_code: fra
+  notes:
+  - 1 En cas d'une machine fonctionnant en moteur, au moyen d'un frein, d'un dynamomètre
+    ou autre système adapté pour déterminer la puissance de sortie.
+  - 2 En cas d'une machine fonctionnant en alternateur, au moyen d'un frein, d'un
+    dynamomètre ou autre système adapté pour déterminer la puissance de sortie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: essai au couplemètre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: essai au frein
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d69f3fe3-04c0-53e8-b16b-ca5668218f80
+status: valid

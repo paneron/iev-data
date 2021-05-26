@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: 'a measure of the relative difference in refractive index of the core
+    and the cladding of an optical fibre, given by: `Delta = ((n_1^2 - n_2^2))/((2
+    n_1^2))` where `n`~1~ and `n`~2~ are, respectively, the maximum in the core and
+    the refractive index of the innermost homogeneous cladding'
+  examples: []
+  id: 731-02-20
+  language_code: eng
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: refractive index contrast
+    normative_status: preferred
+    type: expression
+  - designation: Δ
+    international: true
+    type: symbol
+dateAccepted: 1991-10-01
+id: c8884fdb-a73f-5f79-80d4-4cbd04dd8695
+status: valid

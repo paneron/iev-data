@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre d`N` de {{désintégrations nucléaires, IEV:395-02-42}} spontanées
+    ou de {{transitions nucléaires, IEV:395-02-43}} qui se produisent dans une quantité
+    donnée de matière pendant un petit intervalle de temps d`t`, divisé par cet intervalle
+    de temps `A = ((d N))/((d t))`
+  examples: []
+  id: 395-01-05
+  language_code: fra
+  notes:
+  - Cette grandeur s'exprime en becquerels (Bq).
+  - Cet article était numéroté 393-14-12 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: activité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 338995f9-44cb-585e-b859-6518b472f9ed
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.10
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.10
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2019-05-01
+  definition: alternating component of the prospective current, expressed by its RMS
+    value, which the residual current device is designed to make, to carry for its
+    opening time and to break under specified conditions
+  examples: []
+  id: 442-05-48
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: short-circuit making and breaking capacity
+    normative_status: preferred
+    type: expression
+  - designation: short-circuit capacity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: da927b44-1e17-5e1e-959d-0278c85ca980
+status: valid

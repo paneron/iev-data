@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'for a given vector space, set of elements called points, for which
+    an element `U_((AB))` of the vector space is associated to any ordered pair of
+    points A and B with the following properties: * for any two points A and B, `U_((BA))
+    = - U_((AB))`, * for any three points A, B and C, `U_((AB)) + U_((BC)) = U_((AC))`,
+    * for a given point O and a given vector *`r`*, there is a unique point P such
+    that `U_((OP)) = r`'
+  examples: []
+  id: 102-03-02
+  language_code: eng
+  notes:
+  - A point space and the associated vector space have the same dimension. The point
+    space derived from the three-dimensional Euclidean vector space is a model of
+    the usual geometrical three-dimensional space.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: point space
+    normative_status: preferred
+    type: expression
+  - designation: affine space
+    type: expression
+dateAccepted: 2008-08-01
+id: 32a6f207-a634-5e8c-83a9-ca2e0b098544
+status: valid

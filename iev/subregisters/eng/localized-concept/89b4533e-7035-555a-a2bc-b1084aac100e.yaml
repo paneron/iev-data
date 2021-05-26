@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}} with more than one {{input energizing
+    quantity, IEV:447-03-02}}, for example current and voltage, which, by its design,
+    is intended to respond only to power'
+  examples: []
+  id: 447-01-42
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 89b4533e-7035-555a-a2bc-b1084aac100e
+status: valid

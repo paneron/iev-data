@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble des points d'un espace affine ou d'un plan dont le rayon vecteur
+    est une fonction continue `r = f ( u )`, où le paramètre `u` est un nombre réel
+    compris dans un intervalle donné
+  examples: []
+  id: 102-04-15
+  language_code: fra
+  notes:
+  - Une courbe plane peut aussi être définie algébriquement par l'équation `f ( x
+    , y ) = 0`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courbe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 14957e57-3a20-5bcc-a66f-a031ad5eff2a
+status: valid

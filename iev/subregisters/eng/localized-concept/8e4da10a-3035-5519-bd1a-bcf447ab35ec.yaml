@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: voltage between a specified point and reference earth, for a given location
+    of the earth fault and a given value of earth-fault current
+  examples: []
+  id: 195-05-06
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: voltage to earth during an earth fault
+    normative_status: preferred
+    type: expression
+  - designation: voltage to ground during a ground fault
+    type: expression
+dateAccepted: 1998-08-01
+id: 8e4da10a-3035-5519-bd1a-bcf447ab35ec
+status: valid

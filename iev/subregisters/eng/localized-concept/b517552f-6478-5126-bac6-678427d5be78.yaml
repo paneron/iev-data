@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 161-08-01
+      original: IEV 161-08-01, modified
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2016-02-01
+  definition: variation of the rms or peak value of the voltage at a point in the
+    electric power system between two consecutive levels sustained for definite but
+    unspecified durations
+  examples: []
+  id: 614-01-05
+  language_code: eng
+  notes:
+  - Whether the rms or peak value is chosen depends upon the application, and which
+    is used should be specified.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: voltage change
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: b517552f-6478-5126-bac6-678427d5be78
+status: valid

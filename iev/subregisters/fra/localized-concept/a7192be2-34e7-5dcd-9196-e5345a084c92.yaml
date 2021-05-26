@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: représentation d'une {{information, IEV:171-01-01}} sous une forme conventionnelle
+    convenant au traitement par des moyens humains ou automatiques
+  examples: []
+  id: 171-01-02
+  language_code: fra
+  notes:
+  - Le traitement inclut la communication et l’interprétation.
+  - En anglais, le mot "data" est généralement utilisé au pluriel. Pour un usage au
+    singulier, on peut utiliser "data item".
+  reviewDecisionEvent: published
+  terms:
+  - designation: donnée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a7192be2-34e7-5dcd-9196-e5345a084c92
+status: valid

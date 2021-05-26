@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dispositif disposé le long du rail de roulement et placé de telle manière
+    que, si le signal auquel il est associé présente une indication d'arrêt, il déclenche
+    le système de freinage d'un train franchissant ce signal
+  examples: []
+  id: 821-08-10
+  language_code: fra
+  notes:
+  - Le dispositif d'arrêt automatique peut être utilisé indépendamment d’un signal
+    lorsqu’il existe une limitation de vitesse.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif d'arrêt automatique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d5bab426-d16e-5086-801f-e5922ce47e9c
+status: valid

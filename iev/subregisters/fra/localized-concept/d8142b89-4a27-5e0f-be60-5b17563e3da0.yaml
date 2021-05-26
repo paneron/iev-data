@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '2.4'
+      link: https://www.iso.org/standard/52195.html
+      original: ISO TS 80004-4:2011, 2.4
+      ref: ISO/TS 80004-4:2011
+      relationship:
+        type: identical
+  definition: '{{nano-objet, IEV:511-01-07}} ayant les trois dimensions externes à
+    l''{{échelle nanométrique, IEV:511-01-03}}'
+  examples: []
+  id: 511-01-12
+  language_code: fra
+  notes:
+  - Si les longueurs du plus grand et du plus petit axe du nano-objet diffèrent de
+    manière significative (généralement d’un facteur supérieur à trois), les termes
+    {{nanofibre, IEV:511-01-10}} ou {{nanoplaque, IEV:511-01-11}} sont destinés à
+    être utilisés à la place du terme nanoparticule.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanoparticule
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d8142b89-4a27-5e0f-be60-5b17563e3da0
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-33
+      link: https://webstore.iec.ch/publication/224
+      original: IEC 60050-601:1985, 601-01-33
+      ref: IEC 60050-601:1985
+      relationship:
+        type: identical
+  definition: partie d'un {{réseau d'énergie électrique, IEV:692-01-02}} comprenant
+    les moyens de production et de transport de l'énergie électrique
+  examples: []
+  id: 692-01-04
+  language_code: fra
+  notes:
+  - L'étendue du réseau de production-transport est généralement limitée aux moyens
+    de production et de transport d'énergie électrique vers les plus gros consommateurs
+    industriels et les centres de distribution d'électricité.
+  - En anglais, le terme "composite system" est aussi utilisé.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau de production-transport
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: système de production-transport
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ffd0d6be-e14c-519a-909b-808efc3164a1
+status: valid

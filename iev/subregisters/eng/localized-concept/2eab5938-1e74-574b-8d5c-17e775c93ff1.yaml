@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: ratio, expressed in decibels, between two voltages occurring at the
+    output terminals of channels A and B, viz. `U`~A~ due to the wanted signal intended
+    for channel A, and `U'`~A~ due to the unwanted signal produced by channel A in
+    channel B
+  examples: []
+  id: 806-12-18
+  language_code: eng
+  notes: []
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cross-talk
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 2eab5938-1e74-574b-8d5c-17e775c93ff1
+status: valid

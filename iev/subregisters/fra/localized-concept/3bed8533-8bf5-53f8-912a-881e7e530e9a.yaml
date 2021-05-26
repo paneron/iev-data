@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-47
+      original: 702-09-47
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: dispositif destiné à convertir un groupe d'éléments de signal tous présentés
+    simultanément en une suite d'éléments de signal consécutifs qui représente les
+    mêmes informations
+  examples: []
+  id: 704-16-30
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: convertisseur parallèle-série
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: sérialiseur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 3bed8533-8bf5-53f8-912a-881e7e530e9a
+status: valid

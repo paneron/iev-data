@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'in a magnetic material operating in the Rayleigh region, the magnetic
+    loss factor due to hysteresis divided by the peak value of the magnetic flux density:
+    `eta_B = ((tan delta_h))/((mu_r hat B))`'
+  examples: []
+  id: 221-03-33
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hysteresis material constant
+    normative_status: preferred
+    type: expression
+  - designation: '`ηB`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: ddeec39f-d9a2-5d62-a5e5-f640188d431c
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: leakage between the fuel side and the oxidant side of a {{fuel cell,
+    IEV:485-08-01}}, in either direction, generally through the {{electrolyte, IEV:485-03-01}}
+  examples: []
+  id: 485-06-25
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: crossover
+    normative_status: preferred
+    type: expression
+  - designation: cross leakage
+    type: expression
+dateAccepted: 2020-02-01
+id: 9090db54-81f1-57db-b813-1a3210c6064a
+status: valid

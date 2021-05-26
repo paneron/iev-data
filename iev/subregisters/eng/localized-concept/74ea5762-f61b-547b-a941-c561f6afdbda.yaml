@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: temperature below which a superconductor exhibits superconductivity
+    at zero magnetic field strength and zero electric current
+  examples: []
+  id: 815-10-09
+  language_code: eng
+  notes:
+  - Sometimes the term "critical temperature" refers to the temperature below which
+    a material is in the superconducting state for a given magnetic field strength.
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical temperature
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: 74ea5762-f61b-547b-a941-c561f6afdbda
+status: valid

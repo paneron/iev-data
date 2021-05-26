@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: protection expected to have priority in initiating fault clearance or
+    an action to terminate an abnormal condition in a power system
+  examples: []
+  id: 448-11-13
+  language_code: eng
+  notes:
+  - For a given item of plant, two or more main protections may be provided.
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: main protection
+    normative_status: preferred
+    type: expression
+  - designation: primary protection
+    type: expression
+dateAccepted: 1995-12-01
+id: 9536a91a-196a-5742-b78b-0548742287e4
+status: valid

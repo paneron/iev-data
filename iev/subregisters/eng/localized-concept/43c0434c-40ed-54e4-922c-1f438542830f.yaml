@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{to transfer, IEV:171-06-01}} the contents of a {{storage device,
+    IEV:171-04-14}}, or part of it, onto another storage device'
+  examples: []
+  id: 171-05-32
+  language_code: eng
+  notes:
+  - Dumping is usually for the purpose of debugging.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dump
+    normative_status: preferred
+    part_of_speech: verb
+    type: expression
+dateAccepted: 2019-03-01
+id: 43c0434c-40ed-54e4-922c-1f438542830f
+status: valid

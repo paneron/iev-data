@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2018-09-01
+  definition: '{{spectrum, IEV:103-09-03}} having non-zero values only for certain
+    {{discrete values, IEV:101-12-06}} of {{frequency, IEV:103-06-02}} or, by extension,
+    in the vicinity of these values'
+  examples:
+  - The sequence of coefficients of the {{Fourier series, IEV:103-07-18}} representing
+    a {{periodic signal, IEV:101-12-02}} or noise.
+  id: 702-04-46
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: line spectrum
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-09-01
+id: 04704e0d-d1ee-50a2-9fc5-79b598201634
+status: valid

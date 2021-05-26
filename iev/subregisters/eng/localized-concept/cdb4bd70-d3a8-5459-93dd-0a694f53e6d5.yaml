@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: quotient of two numbers or two {{quantities of the same kind, IEV:112-01-04}}
+  examples: []
+  id: 102-01-23
+  language_code: eng
+  notes:
+  - 'The ratio of two quantities of the same kind is a {{quantity of dimension one,
+    IEV:112-01-13}}. Examples: transfer ratio, signal-to-noise ratio, transformation
+    ratio.'
+  - The ratio `a // b` is expressed by the words “ratio of `a` to `b`”.
+  - 'For the ratio of two quantities, the term “index” is sometimes used in place
+    of ratio. Examples: refractive index, loss index.'
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ratio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: cdb4bd70-d3a8-5459-93dd-0a694f53e6d5
+status: valid

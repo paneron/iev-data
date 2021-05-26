@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 131-11-21
+      original: see 131-11-21
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 2002-06-01
+  definition: two-port network where the interchange of the two ports affects the
+    operation of the external circuits
+  examples: []
+  id: 131-12-71
+  language_code: eng
+  notes:
+  - The term "asymmetric" has another meaning when applied to a two-terminal element
+    or circuit.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: asymmetric two-port network
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: a1b3f7e0-52f4-5695-90f7-3baa82fef8e9
+status: valid

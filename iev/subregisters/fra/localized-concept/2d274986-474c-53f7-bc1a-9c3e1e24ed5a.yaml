@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: facteur qui décrit la qualité de protection d'un écran solaire contre
+    le <a href="IEV845-21-008">rayonnement ultraviolet</a> solaire, normalement déterminé
+    par des essais in vivo
+  examples: []
+  id: 845-26-074
+  language_code: fra
+  notes:
+  - 'Le facteur de protection solaire est habituellement déterminé par comparaison
+    de la dose de rayonnement ultraviolet émise par un simulateur solaire (souvent
+    une lampe à xénon) nécessaire pour produire un érythème actinique juste perceptible
+    environ 24 h après exposition de sujets humains volontaires à un rayonnement ultraviolet,
+    avec et sans une quantité normale d''écran solaire présent (`F`~MED,f~ et `F`~MED,i~,
+    respectivement) et est calculé comme suit:
+
+
+    `F`~SP~ = `F`~MED,f~ / `F`~MED,i~.'
+  - Le facteur de protection solaire peut aussi être déterminé par des méthodes in
+    vitro équivalentes.
+  - L'unité de facteur de protection solaire est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de protection solaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: FPS
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2d274986-474c-53f7-bc1a-9c3e1e24ed5a
+status: valid

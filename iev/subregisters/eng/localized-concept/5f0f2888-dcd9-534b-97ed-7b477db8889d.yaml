@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.01
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.01
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  dateAmended: 2019-03-01
+  definition: ordered sequence of {{characters, IEV:702-05-10}} intended to convey
+    {{information, IEV:171-07-03}}
+  examples: []
+  id: 171-07-04
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: message
+    normative_status: preferred
+    type: expression
+    usage_info: in information theory and communication theory
+dateAccepted: 2019-03-01
+id: 5f0f2888-dcd9-534b-97ed-7b477db8889d
+status: valid

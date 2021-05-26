@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: condition prédéfinie à accepter comme preuve péremptoire de défaillance
+  examples:
+  - Un état limite défini d’usure, de propagation de fissures, de dégradation des
+    performances, de fuite, etc. au-delà duquel il est considéré comme dangereux ou
+    non économique de poursuivre l’exploitation.
+  id: 192-03-03
+  language_code: fra
+  notes:
+  - Dans un scénario après défaillance, la preuve péremptoire peut être considérée
+    comme une preuve.
+  reviewDecisionEvent: published
+  terms:
+  - designation: critère de défaillance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b8bae5f8-a84b-54da-af7d-65979dccb033
+status: valid

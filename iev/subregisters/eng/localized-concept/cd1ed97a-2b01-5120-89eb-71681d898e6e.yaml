@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{outage, IEV:692-04-02}} where the power can be restored without corrective
+    maintenance image::/assets/images/parts/692/692-fig4-en.png[Figure 4 - Outage
+    relationships]'
+  examples: []
+  id: 692-04-10
+  language_code: eng
+  notes:
+  - The duration of a temporary outage is normally less than five minutes.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temporary outage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: cd1ed97a-2b01-5120-89eb-71681d898e6e
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système permettant l'évaluation des <a href="IEV845-23-038">composantes
+    trichromatiques</a> d'une répartition spectrale d'énergie quelconque en utilisant
+    l'ensemble des stimuli de couleurs de référence &amp;lsqb;X&amp;rsqb;, &amp;lsqb;Y&amp;rsqb;,
+    &amp;lsqb;Z&amp;rsqb; et les trois fonctions colorimétriques CIE `bar x ( lambda
+    ) , bar y ( lambda ) , bar z ( lambda )` adoptés par la CIE en 1931
+  examples: []
+  id: 845-23-045
+  language_code: fra
+  notes:
+  - '`bar y ( lambda )` est identique à `V`(`λ`) et de fait les composantes trichromatiques
+    `Y` sont proportionnelles aux valeurs de luminance.'
+  - Le système de référence colorimétrique CIE 1931 est applicable aux champs d'observation
+    en vision centrale d'étendue angulaire comprise entre 1° environ et 4° environ
+    (0,017 rad et 0,07 rad).
+  - Le système de référence colorimétrique CIE 1931 peut être déduit du système colorimétrique
+    RVB CIE 1931 par transformation basée sur un ensemble de trois équations linéaires.
+    Le système RVB CIE 1931 est basé sur trois stimuli de référence monochromatiques
+    réels.
+  - Voir aussi CIE 15, `Colorimetry`.
+  - Cet article était numéroté 845-03-28 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de référence colorimétrique CIE 1931
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0fe3b508-8f94-52d4-88dc-4986d0288165
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 161-06-02
+      original: 161-06-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: '138'
+      original: ITU RR 138 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: portion of spectrum of an emission immediately outside the assigned
+    channel, which results from the modulation process, and which cannot be reduced
+    without affecting the corresponding transmission of information
+  examples: []
+  id: 713-09-03
+  language_code: eng
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: out-of-band emission
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 0e513ab1-5381-59c8-afbb-0d6b3099146d
+status: valid

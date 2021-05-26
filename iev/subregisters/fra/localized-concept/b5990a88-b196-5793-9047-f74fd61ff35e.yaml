@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{amplificateur, IEV:151-13-50}} spécialement conçu pour n''ajouter
+    que le bruit interne le plus faible possible pour un {{gain, IEV:702-02-11}} donné
+    et obtenir ainsi le {{rapport signal sur bruit, IEV:702-08-61}} le plus grand
+    possible à la sortie'
+  examples: []
+  id: 702-09-20
+  language_code: fra
+  notes:
+  - L'amplificateur à faible bruit est en général utilisé comme {{préamplificateur,
+    IEV:713-10-45}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplificateur à faible bruit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b5990a88-b196-5793-9047-f74fd61ff35e
+status: valid

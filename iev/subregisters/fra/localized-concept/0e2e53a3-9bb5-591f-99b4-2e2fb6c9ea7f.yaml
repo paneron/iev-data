@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 881-14-14
+      link: https://webstore.iec.ch/publication/272
+      original: CEI 60050-881:1983, 881-14-14, modifiée
+      ref: IEC 60050-881:1983
+      relationship:
+        type: modified
+    - clause: définition 382
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 382, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: somme sur tous les tissus exposés des produits de l'équivalent de dose
+    dans un tissu par le facteur de pondération tissulaire de ce tissu
+  examples: []
+  id: 395-05-42
+  language_code: fra
+  notes:
+  - Cet article était numéroté 393-14-94 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivalent de dose effectif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0e2e53a3-9bb5-591f-99b4-2e2fb6c9ea7f
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a sequence of identical duty cycles, each cycle consisting of a period
+    of starting, a period of operation at constant load, a period of rapid electric
+    braking and a rest and de-energized period
+  examples: []
+  id: 411-51-18
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intermittent periodic duty with electric braking
+    normative_status: preferred
+    type: expression
+  - designation: duty type S5
+    type: expression
+dateAccepted: 2021-01-01
+id: 5162ee48-f3d8-5445-9b5b-363102ba3d8b
+status: valid

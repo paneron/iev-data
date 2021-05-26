@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: <a href="IEV845-27-058">LED module</a> which needs a separate control
+    circuitry or control gear to operate
+  examples: []
+  id: 845-27-061
+  language_code: eng
+  notes:
+  - One or more LED packages on a printed circuit board or substrate in a geometric
+    structure are regarded as an LED array. No further components are included like
+    electrical, optical, mechanical, and thermal components.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-integrated LED module
+    normative_status: preferred
+    type: expression
+  - designation: LEDni module
+    type: expression
+dateAccepted: 2020-12-01
+id: ab93704a-fee3-5169-a0c9-5f914d0d8ff1
+status: valid

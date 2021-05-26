@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: lack of steady-state stability
+  examples: []
+  id: 603-03-22
+  language_code: eng
+  notes:
+  - Steady-state instability usually occurs due to excessive power transfers.
+  - Under this condition, the derivative of the active power with respect to the angle
+    of deviation between at least one generator's e.m.f. and the reference e.m.f.
+    is negative.
+  - A power system is steady-state unstable for a steady-state operating condition
+    if, following any small disturbance, it fails to reach a steady-state operating
+    condition.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: steady-state instability
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 24c1a25a-75f7-5d4a-a6d2-912a75d25331
+status: valid

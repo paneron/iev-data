@@ -1,0 +1,45 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: partie continue du spectre des fréquences radioélectriques destinée
+    à être utilisée pour une émission ou une transmission déterminée
+  examples: []
+  id: 713-06-04
+  language_code: fra
+  notes:
+  - Un canal radioélectrique peut être défini par deux limites spécifiées, ou par
+    sa fréquence centrale et sa largeur de bande, ou par toute indication équivalente.
+    Il est souvent désigné par un numéro d'ordre pour certaines applications.
+  - Un canal radioélectrique peut être partagé dans le temps pour assurer une radiocommunication
+    dans les deux sens par l'exploitation à l'alternat.
+  - Le terme "canal" est parfois employé pour désigner l'ensemble de deux canaux radioélectriques
+    associés utilisés chacun pour un des deux sens de transmission et constituant
+    en fait un circuit de communication. Il convient d'utiliser le terme "canaux jumelés"
+    dans ce sens.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: canal (radioélectrique)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: radiocanal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: canal RF
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 20349e58-4a76-5cf5-87df-cc5c71133cf8
+status: valid

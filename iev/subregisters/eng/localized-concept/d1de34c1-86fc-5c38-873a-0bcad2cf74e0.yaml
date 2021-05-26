@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 604-02-25
+      original: 604-02-25 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1995-12-01
+  definition: an insulation fault which begins as a phase-to-earth (or phase-to-phase)
+    fault and develops into a two-phase or three-phase fault
+  examples: []
+  id: 448-13-12
+  language_code: eng
+  notes: []
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: developing fault
+    normative_status: preferred
+    type: expression
+  - designation: evolving fault
+    type: expression
+dateAccepted: 1995-12-01
+id: d1de34c1-86fc-5c38-873a-0bcad2cf74e0
+status: valid

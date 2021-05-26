@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: distance in the direction of propagation of a periodic wave between
+    two successive positions at which the phase is the same
+  examples: []
+  id: 845-21-025
+  language_code: eng
+  notes:
+  - 'The wavelength in a medium is equal to the wavelength in vacuo divided by the
+    refractive index of the medium. In photometry, unless otherwise stated, values
+    of wavelength are generally those in air. The refractive index of standard air
+    (for spectroscopy: `T` = 15 °C, `p` = 101 325 Pa) lies between 1,000 27 and 1,000 29
+    for <a href="IEV845-21-003">visible radiation</a>.'
+  - In some specific applications, such as fluorescence measurements, the symbol `μ`
+    is used for the wavelengths of excitation radiation.
+  - '`λ` = `v` / `ν`, where `λ` is the wavelength in a medium, `v` is the phase velocity
+    in that medium and `ν` is the {{frequency, IEV:103-06-02}}.'
+  - The wavelength is expressed in metres (m) or decimal submultiples of metre.
+  - In <a href="IEV845-21-002">optical radiation</a>, the units nanometre (nm) and
+    micrometre (μm) are generally used.
+  - This entry was numbered 845-01-14 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: wavelength
+    normative_status: preferred
+    type: expression
+  - designation: '`λ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: e45e6810-b5d1-5839-91bc-7140c3584848
+status: valid

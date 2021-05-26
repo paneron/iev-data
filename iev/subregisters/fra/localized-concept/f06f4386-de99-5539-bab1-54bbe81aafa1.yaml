@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: courant présumé lorsqu'il est établi à un instant tel qu'aucun phénomène
+    transitoire ne suive l'établissement
+  examples: []
+  id: 441-17-03
+  language_code: fra
+  notes:
+  - Pour des circuits polyphasés, la condition de non-apparition de phénomènes transitoires
+    ne peut apparaître que sur un seul pôle à la fois.
+  - Le courant présumé symétrique est exprimé par sa valeur efficace.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant symétrique présumé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: f06f4386-de99-5539-bab1-54bbe81aafa1
+status: valid

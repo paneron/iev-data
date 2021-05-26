@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'grandeur elle-même ou signal représentant les informations correspondant
+    à la grandeur qui, appliquée à un {{relais de mesure, IEV:447-01-02}} ou à un
+    {{équipement de protection, IEV:447-01-49}} dans des conditions spécifiées, lui
+    permet de {{fonctionner, IEV:447-02-04}} Note 1 à l''article: La {{grandeur d''alimentation
+    d''entrée, IEV:447-03-02}} ainsi que la {{grandeur d''alimentation auxiliaire,
+    IEV:447-03-04}} sont des grandeurs d''alimentation.'
+  examples: []
+  id: 447-03-01
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: grandeur d'alimentation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un relais de mesure ou d'un équipement de protection
+dateAccepted: 2018-11-17
+id: c2b6acaa-45cf-5f02-bfd6-58df78d1c048
+status: valid

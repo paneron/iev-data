@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: failure that is a manifestation of a dormant software fault
+  examples: []
+  id: 192-03-22
+  language_code: eng
+  notes:
+  - Such a software failure will recur until the software fault responsible is removed.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: software failure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: ec224669-d63c-5f39-a36a-a66f6c53801f
+status: valid

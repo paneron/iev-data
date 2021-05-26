@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: vecteur vitesse de déplacement, en un point d'un milieu de propagation,
+    d'un signal qui peut être représenté idéalement par la superposition de deux ondes
+    sinusoïdales de même amplitude dont les fréquences tendent vers une limite commune
+  examples: []
+  id: 702-02-22
+  language_code: fra
+  notes:
+  - 'Dans le cas le plus général l''inverse de la norme `| vec v_g |` du vecteur vitesse
+    de groupe est égal à la dérivée de l''inverse de la longueur d''onde `λ` par rapport
+    à la fréquence `f`:
+
+
+    `(1)/((| vec v_g |)) = ((d ( lambda^(- 1) )))/((d f))`'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse de groupe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 8ae55835-48d1-59c7-8bc0-3ee895a3501f
+status: valid

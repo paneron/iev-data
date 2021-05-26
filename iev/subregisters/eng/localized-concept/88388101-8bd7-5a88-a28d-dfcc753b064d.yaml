@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the ratio, generally expressed in decibels, of the apparent power at
+    a point in a transmission channel to the power at the same point after insertion
+    of a given two-port device into the transmission channel immediately ahead of
+    this point
+  examples: []
+  id: 702-07-08
+  language_code: eng
+  notes:
+  - If the ratio defining the insertion loss is less than one, its decibel value is
+    negative, and its converse or opposite decibel value called "insertion gain" may
+    be used.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: insertion loss
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 88388101-8bd7-5a88-a28d-dfcc753b064d
+status: valid

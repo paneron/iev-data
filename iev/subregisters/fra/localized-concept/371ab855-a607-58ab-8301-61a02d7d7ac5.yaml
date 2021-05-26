@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: dispositif destiné à effectuer une opération logique élémentaire et
+    tel qu'une et une seule valeur de sortie corresponde à chaque combinaison possible
+    de valeurs d'entrée simultanées
+  examples: []
+  id: 702-09-48
+  language_code: fra
+  notes:
+  - Chaque porte logique est qualifiée comme l'opération logique qu'elle effectue.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: porte (logique)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: élément logique combinatoire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 371ab855-a607-58ab-8301-61a02d7d7ac5
+status: valid

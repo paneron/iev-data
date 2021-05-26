@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: angle between a defined datum axis related to the luminaire and the
+    horizontal when the luminaire is mounted for photometric measurement
+  examples: []
+  id: 845-25-112
+  language_code: eng
+  notes:
+  - The defined datum axis can be any feature of the luminaire, but it will usually
+    relate to a feature that is nominally aligned with the horizontal such as an axis
+    through the luminous opening or an axis through an array of LEDs or a fixing spigot
+    entry axis.
+  - The tilt during measurement is expressed in radian (rad) or degree (°).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tilt during measurement
+    normative_status: preferred
+    type: expression
+    usage_info: of a luminaire
+  - designation: '`θ`~m~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 554daf3b-b15e-560c-8195-ae564cc1cc18
+status: valid

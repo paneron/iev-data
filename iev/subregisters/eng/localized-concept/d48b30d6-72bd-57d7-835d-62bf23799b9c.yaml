@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: sum of the harmonic components of a periodic quantity
+  examples: []
+  id: 551-20-12
+  language_code: eng
+  notes:
+  - The harmonic content is a time function.
+  - For practical analysis, an approximation of the periodicity may be necessary.
+  - The harmonic content depends on the choice of the fundamental component. If it
+    is not clear from the context which one is used an indication should be given.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: harmonic content
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: d48b30d6-72bd-57d7-835d-62bf23799b9c
+status: valid

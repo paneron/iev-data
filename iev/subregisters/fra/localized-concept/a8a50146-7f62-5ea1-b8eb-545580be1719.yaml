@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction de pondération qui combine les sensibilités spectrales normalisées
+    de l'œil humain et de la peau au <a href="IEV845-21-008">rayonnement ultraviolet</a>
+    à des fins de protection contre les rayonnements
+  examples: []
+  id: 845-26-054
+  language_code: fra
+  notes:
+  - 'La plage de longueurs d''ondes pour la fonction de pondération spectrale du danger
+    lié aux ultraviolets est spécifiée dans les recommandations de l''ICNIRP comme
+    suit: `λ` = 180 nm à `λ` = 400 nm.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de pondération spectrale du danger lié aux ultraviolets
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a8a50146-7f62-5ea1-b8eb-545580be1719
+status: valid

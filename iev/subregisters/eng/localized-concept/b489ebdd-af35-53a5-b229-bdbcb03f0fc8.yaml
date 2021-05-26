@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity of dimension 1 characterizing the relative importance of inertial
+    and gravitational forces in a flow of fluid, defined by `F r = (v)/((sqrt(l g)))`,
+    where `v` is the speed of the flow, `l` is a characterizing length of the phenomenon,
+    and `g` is acceleration of free fall
+  examples: []
+  id: 113-03-41
+  language_code: eng
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Froude number
+    normative_status: preferred
+    type: expression
+  - designation: '`Fr`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: b489ebdd-af35-53a5-b229-bdbcb03f0fc8
+status: valid

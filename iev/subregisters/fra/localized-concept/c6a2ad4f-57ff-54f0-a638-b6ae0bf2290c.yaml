@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^40^ d''une unité de mesure'
+  examples:
+  - Un tébibit = 1 Tibit = (1 024)^4^ bit.
+  id: 171-02-17
+  language_code: fra
+  notes:
+  - Le préfixe tébi a pour origine térabinaire, (2^10^)^4^, dérivé du préfixe SI téra,
+    (10^3^)^4^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tébi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c6a2ad4f-57ff-54f0-a638-b6ae0bf2290c
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la partie transmise par diffusion du flux (total) transmis
+    par le flux incident
+  examples: []
+  id: 845-24-069
+  language_code: fra
+  notes:
+  - 'Le facteur de transmission, `τ`, est la somme du facteur de transmission régulière,
+    `τ`~r~, sur le facteur de transmission diffuse, `τ`~d~: `τ` = `τ`~r~ + `τ`~d~.'
+  - L'unité de facteur de transmission diffuse est un.
+  - Cet article était numéroté 845-04-63 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de transmission diffuse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b1d63108-2366-54f5-a5da-f24bf8fbe41b
+status: valid

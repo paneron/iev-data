@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.15
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.15
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: type of message error in which a message is received at a time later
+    than intended
+  examples: []
+  id: 821-11-15
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: delayed message
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: b223b48d-6322-578a-b977-239f5824d0b8
+status: valid

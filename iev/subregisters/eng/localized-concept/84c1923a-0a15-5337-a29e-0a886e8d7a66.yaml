@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: ratio for a given time interval of the uninterrupted on-load duration
+    to the total time
+  examples: []
+  id: 851-12-03
+  language_code: eng
+  notes:
+  - This duty cycle, lying between 0 and 1, may be expressed as a percentage.
+  - For the purpose of this standard, the time period of one complete cycle is 10
+    min. For example, in the case of a 60 % duty cycle, the load is applied continuously
+    for 6 min followed by a no-load period of 4 min.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: duty cycle
+    normative_status: preferred
+    type: expression
+  - designation: duty factor
+    type: expression
+  - designation: '`X`'
+    international: true
+    type: symbol
+dateAccepted: 2008-06-01
+id: 84c1923a-0a15-5337-a29e-0a886e8d7a66
+status: valid

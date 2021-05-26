@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: the provision of a switching path from outlet to inlet in the same switching
+    stage, in order to access equipment associated with special services such as those
+    provided by operators
+  examples: []
+  id: 714-04-35
+  language_code: eng
+  notes:
+  - Not to be confused with an entraide where the purpose of re-entering the call
+    is to attempt to reduce the probability of switching congestion on a given call
+    by allowing a new possibility of choice of path from the new inlet to a trunk
+    in the desired route.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: re-entrant trunking
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: 26e21150-16ab-53c2-96e4-9c4fee80d0d5
+status: valid

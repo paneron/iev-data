@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 13-10
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-10
+      ref: IEC 80000-13:2008
+      relationship:
+        type: identical
+  dateAmended: 2019-03-01
+  definition: binary logarithm of the number `n` of possible states of a {{storage
+    device, IEV:171-04-14}} `M`~e~ = lb `n`
+  examples: []
+  id: 171-04-17
+  language_code: eng
+  notes:
+  - The minimum storage capacity of a bit-organized storage device that could contain
+    the amount of data in the given storage device is equal to the smallest integer
+    greater than or equal of the equivalent binary storage capacity.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent binary storage capacity
+    normative_status: preferred
+    type: expression
+  - designation: '`M`~e~'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 05828eed-9a43-565a-9721-da431d6688c2
+status: valid

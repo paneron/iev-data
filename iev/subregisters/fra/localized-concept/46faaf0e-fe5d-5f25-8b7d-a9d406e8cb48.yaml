@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: rapport, habituellement exprimé en décibels, de la puissance de sortie
+    mesurée à l'accès adéquat de l'une des lignes de transmission d'un coupleur directif,
+    lorsque l'autre ligne est alimentée dans la direction voulue, et de la puissance
+    de sortie mesurée au même endroit lorsque la même ligne est alimentée avec la
+    même puissance dans la direction opposée, des terminaisons adaptées étant connectées
+    à tous les accès
+  examples: []
+  id: 726-14-03
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de découplage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de directivité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 46faaf0e-fe5d-5f25-8b7d-a9d406e8cb48
+status: valid

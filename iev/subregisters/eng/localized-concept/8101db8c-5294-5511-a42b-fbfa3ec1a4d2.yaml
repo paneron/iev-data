@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the medium in which a variable electric field produces an electric current
+    density vector `vec J` whose magnitude in a given direction is large relative
+    to that of the vector `((del vec D))/((del t))` in a particular frequency band
+  examples: []
+  id: 705-03-09
+  language_code: eng
+  notes:
+  - 'For a sinusoidal wave in an isotropic medium, the medium is conductive if the
+    following relation is satisfied:
+
+
+    `(sigma)/((epsilon_0 omega)) ≫ epsilon_r^( '' )`
+
+
+    where `epsilon_r^( '' )` is the relative real permittivity, `ε`~0~ is the electric
+    constant, `σ` is the conductivity, `ω` is the angular frequency.'
+  - An anisotropic medium may be conducting only in certain directions.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conducting medium
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 8101db8c-5294-5511-a42b-fbfa3ec1a4d2
+status: valid

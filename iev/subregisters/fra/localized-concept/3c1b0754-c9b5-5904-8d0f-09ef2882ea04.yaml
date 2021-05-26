@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 686 MOD
+      ref: ITU-R Recommendation 686
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: échelle de temps établie par le Bureau international des poids et mesures
+    (BIPM) sur la base des indications d'horloges atomiques fonctionnant dans divers
+    établissements conformément à la définition de la seconde, unité de temps du Système
+    international d'unités (SI)
+  examples: []
+  id: 713-05-18
+  language_code: fra
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps atomique international
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TAI
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 3c1b0754-c9b5-5904-8d0f-09ef2882ea04
+status: valid

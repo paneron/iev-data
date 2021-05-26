@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: scalar line integral of the magnetic field strength along a closed path
+  examples: []
+  id: 121-11-60
+  language_code: eng
+  notes:
+  - The magnetomotive force is equal to the total electric current through any surface
+    bounded by that path.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnetomotive force
+    normative_status: preferred
+    type: expression
+  - designation: mmf
+    normative_status: preferred
+    type: expression
+  - designation: '`F`, `F`~m~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 3e55c85a-57a3-544f-befa-667126197d9a
+status: valid

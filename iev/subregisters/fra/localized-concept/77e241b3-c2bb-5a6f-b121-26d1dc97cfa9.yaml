@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: 'temps de propagation d''un {{signal, IEV:101-12-02}} entre deux points
+    d''un {{trajet de transmission, IEV:701-02-11}} défini à partir de la {{vitesse
+    de groupe, IEV:103-10-15}} par l''{{intégrale curviligne, IEV:102-05-03}} prise
+    le long du trajet de propagation: `int (1)/((v_g)) d s` où `v`~g~ est la valeur
+    algébrique de la projection du vecteur vitesse de groupe sur la tangente orientée
+    au trajet, et d`s` est l''{{élément scalaire d''arc, IEV:102-05-01}}'
+  examples: []
+  id: 702-02-20
+  language_code: fra
+  notes:
+  - Dans un milieu de propagation {{homogène, IEV:113-02-01}}, ou sur une {{ligne
+    de transmission uniforme, IEV:131-12-87}}, le temps de propagation de groupe est
+    égal à la dérivée, par rapport à la {{pulsation, IEV:103-07-03}}, de la différence
+    au même instant des {{phases, IEV:103-07-04}}, aux deux points considérés, du
+    signal qui sert à définir la vitesse de groupe.
+  - En pratique, si le milieu est ni trop absorbant, ni trop anisotrope, ni trop dispersif,
+    le temps de propagation de groupe est égal au temps de propagation du signal qui
+    sert à définir la vitesse de groupe.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de propagation de groupe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: retard de groupe
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 77e241b3-c2bb-5a6f-b121-26d1dc97cfa9
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: lésion de la rétine produite par une exposition visible ou aux <a href="IEV845-21-005">IR-A</a>
+    intense
+  examples: []
+  id: 845-26-022
+  language_code: fra
+  notes:
+  - Le terme "brûlure rétinienne" est généralement utilisé pour décrire une lésion
+    rétinienne thermique (voir " <a href="IEV845-26-023">lésion thermique rétinienne</a>");
+    toutefois, ce terme est parfois appliqué à une lésion rétinienne photochimique.
+    Des termes plus spécifiques sont également utilisés pour une "brûlure" photochimique,
+    c'est-à-dire une "<a href="IEV845-26-010">maculopathie photique</a>" ou une "photorétinite
+    par lumière bleue" (à partir de lésions dues à une lumière bleue), ou pour une
+    lésion thermique rétinienne, une "lésion thermique choriorétinienne".
+  reviewDecisionEvent: published
+  terms:
+  - designation: brûlure rétinienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dcc2608c-0de6-50a4-a78d-cf93c9c003f7
+status: valid

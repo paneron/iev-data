@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.33
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.33
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: transformation of bits by using a cryptographic technique within a message,
+    in accordance with an algorithm controlled by keys, to render casual reading of
+    data more difficult
+  examples: []
+  id: 821-11-31
+  language_code: eng
+  notes:
+  - Message enciphering does not provide protection against data corruption.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: message enciphering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 488c6f37-1c65-55c0-81d0-01ae1badb4f8
+status: valid

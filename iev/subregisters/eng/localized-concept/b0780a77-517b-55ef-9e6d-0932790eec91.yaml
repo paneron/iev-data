@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: quotient of the number of {{digits, IEV:702-05-02}} transferred in a
+    {{time interval, IEV:113-01-10}}, by the {{duration, IEV:113-01-13}} of this time
+    interval
+  examples: []
+  id: 702-05-23
+  language_code: eng
+  notes:
+  - 'The term "digit rate" can be qualified, for example: "{{binary digit rate, IEV:704-16-07}}",
+    "{{ternary digit rate, IEV:704-16-08}}", "{{`n`-ary digit rate, IEV:704-16-09}}"
+    when the {{number of significant conditions, IEV:702-05-22}} is respectively two,
+    three, `n`.'
+  - The term "digit rate" should not be used to express the transmission rate of a
+    {{line signal, IEV:704-04-13}}) for which the appropriate term is "{{line digit
+    rate, IEV:704-17-03}}".
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: digit rate
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: b0780a77-517b-55ef-9e6d-0932790eec91
+status: valid

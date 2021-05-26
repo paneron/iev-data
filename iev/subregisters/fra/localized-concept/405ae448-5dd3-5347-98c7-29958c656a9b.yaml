@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: intervalle de temps pendant lequel une entité est dans un état vacant
+  examples: []
+  id: 192-02-15
+  language_code: fra
+  notes:
+  - L’IEC 60050-191:1990 (supprimée; remplacée par l'IEC 60050-192:2015) identifiait
+    le terme «temps libre» comme un synonyme, ce qui n’est pas vrai pour toutes les
+    applications.
+  reviewDecisionEvent: published
+  terms:
+  - designation: période vacante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps mort
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: temps libre
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 405ae448-5dd3-5347-98c7-29958c656a9b
+status: valid

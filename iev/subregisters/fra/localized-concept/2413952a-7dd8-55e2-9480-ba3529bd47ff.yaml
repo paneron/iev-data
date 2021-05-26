@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 131-15-34
+      original: 131-15-34
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2002-06-01
+  definition: logarithme de l'affaiblissement de réflexion
+  examples: []
+  id: 131-15-35
+  language_code: fra
+  notes:
+  - L'affaiblissement de réflexion est généralement exprimé en décibels.
+  - Lorsque l'affaiblissement de réflexion est négatif, on utilise l'opposé, appelé
+    "gain de réflexion".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement de réflexion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: affaiblissement logarithmique de réflexion
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 2413952a-7dd8-55e2-9480-ba3529bd47ff
+status: valid

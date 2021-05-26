@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 702-06-19
+      original: 702-06-19
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: ratio, for amplitude modulation, of half the difference of the maximum
+    and minimum amplitudes to the mean value of the amplitude
+  examples: []
+  id: 314-08-04
+  language_code: eng
+  notes:
+  - This definition does not apply to asymmetrical modulation or over-modulation.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude modulation factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: c43ad775-72a6-5d50-8d49-7dacea1a4c69
+status: valid

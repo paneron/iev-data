@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - original: ICRU Report 51
+      ref: ICRU Report 51
+      relationship:
+        type: identical
+  definition: produit de `D` par `Q` au point intéressé d'un tissu, où `D` est la
+    dose absorbée, `Q` le facteur de qualité `H` `=` `D` `Q`
+  examples: []
+  id: 395-05-41
+  language_code: fra
+  notes:
+  - Cette grandeur s’exprime en J kg^−1^ et le nom de l’unité d’énergie de la dose
+    équivalente est le sievert (Sv).
+  - Les valeurs de `Q` sont spécifiées par la commission Internationale de Protection
+    Radiologique (CIPR). Pour les rayonnements bêta, X et gamma, `Q` est pris égal
+    à 1 pour les rayonnements externes.
+  - Il convient de ne pas confondre l’équivalent de dose avec la dose équivalente
+    à un tissu ou à un organe, qui est une grandeur de protection anti-rayonnement
+    distincte.
+  - Cet article était numéroté 393-14-72 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivalent de dose
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9a785368-ac07-536c-aa09-c1aae080732d
+status: valid

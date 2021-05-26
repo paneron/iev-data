@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 2.4.5
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.4.5, modified – The definition has been rewritten.
+      ref: IEC 62047-1:2016
+      relationship:
+        modification: The definition has been rewritten.
+        type: modified
+  dateAmended: 2018-12-01
+  definition: '{{actuator, IEV:151-13-49}} that uses an alloy that changes shape on
+    heating and returns to its original shape on cooling'
+  examples: []
+  id: 523-04-11
+  language_code: eng
+  notes:
+  - Shape-memory alloy actuators are compact, light, and produce large forces. These
+    actuators can be driven repeatedly in a heat {{cycle, IEV:103-05-08}} or can be
+    controlled arbitrarily by switching the electric current through the actuator
+    itself. Lately, attempts have been made to use the alloys to build a servosystem
+    that has an appropriate feedback mechanism and a cooling system, intended for
+    applications where quick response is not necessary. Application examples under
+    development are {{microgrippers, IEV:523-04-15}} for cell manipulation, {{microvalves,
+    IEV:523-04-17}} for regulating very small amounts of flow and active endoscopes
+    for medical use.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shape-memory alloy actuator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: beb5a880-b0ef-562f-96fc-4866fbf8e27c
+status: valid

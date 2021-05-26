@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: '{{signal, IEV:171-01-03}} qui est à la fois un {{signal discret, IEV:171-01-11}}
+    et un {{signal temporel discret, IEV:171-01-12}}'
+  examples: []
+  id: 171-01-13
+  language_code: fra
+  notes:
+  - La caractéristique support d’informations est généralement codée par des symboles
+    d’un jeu de caractères, qui peuvent être interprétés comme des nombres.
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal numérique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: signal digital
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 258ee94b-5e2d-546c-9242-32579d6cd333
+status: valid

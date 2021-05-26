@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: functional unit that generates its output variable as a function of
+    its input variable according to a defined, time-invariant mathematical function
+    `v ( t ) = f u ( t )` where<table> <tr> <td>`t`</td> <td>is the time;</td> </tr>
+    <tr> <td> `u`(`t`)</td> <td>is the input variable;</td> </tr> <tr> <td>`f`</td>
+    <td>is the function;</td> </tr> <tr> <td> `v`(`t`)</td> <td>is the output variable.</td>
+    </tr> </table>
+  examples: []
+  id: 351-50-35
+  language_code: eng
+  notes:
+  - This entry was numbered 351-32-19 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: function generator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 1878abfe-f115-55c4-b677-56aff98a234e
+status: valid

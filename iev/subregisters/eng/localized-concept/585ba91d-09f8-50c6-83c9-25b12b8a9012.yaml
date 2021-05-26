@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a device for converting a sequence of consecutive signal elements into
+    a corresponding group of signal elements, all presented simultaneously, which
+    represents the same information
+  examples: []
+  id: 702-09-46
+  language_code: eng
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: serial-to-parallel converter
+    normative_status: preferred
+    type: expression
+  - designation: deserializer
+    type: expression
+  - designation: staticizer
+    type: expression
+dateAccepted: 1992-03-01
+id: 585ba91d-09f8-50c6-83c9-25b12b8a9012
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{indisponibilité fortuite, IEV:692-04-04}} prévue qui peut être différée
+    pendant un intervalle de temps limité image::/assets/images/parts/692/692-fig4-fr.png[Figure
+    4 - Relations entre indisponibilités]'
+  examples: []
+  id: 692-04-06
+  language_code: fra
+  notes:
+  - Le report peut être utilisé pour permettre la mise en place de mesures correctives
+    telles que la reconfiguration du réseau, des transferts de charges ou un réaménagement
+    du plan de production.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité différable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8739e96d-9e01-5836-9b7f-bb238e646029
+status: valid

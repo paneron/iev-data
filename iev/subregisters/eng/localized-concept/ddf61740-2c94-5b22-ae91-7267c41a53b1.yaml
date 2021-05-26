@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: 'at a given point on a surface element of quasi-infinitesimal area `A`,
+    scalar quantity equal to the total electric charge `Q` on the surface element
+    divided by the area `A`: `sigma = (Q)/(A)`'
+  examples: []
+  id: 121-11-08
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: areic (electric) charge
+    normative_status: preferred
+    type: expression
+  - designation: surface (electric) charge density
+    normative_status: preferred
+    type: expression
+  - designation: '`σ`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: ddf61740-2c94-5b22-ae91-7267c41a53b1
+status: valid

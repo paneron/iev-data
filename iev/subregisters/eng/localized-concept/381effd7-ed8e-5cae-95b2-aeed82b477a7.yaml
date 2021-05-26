@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{fuel cell, IEV:485-08-01}} that employs a polymer membrane with (proton)
+    ionic exchange capability as the {{electrolyte, IEV:485-03-01}}'
+  examples: []
+  id: 485-08-08
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polymer electrolyte fuel cell
+    normative_status: preferred
+    type: expression
+  - designation: PEFC
+    type: expression
+  - designation: proton exchange membrane fuel cell
+    normative_status: admitted
+    type: expression
+  - designation: PEMFC
+    normative_status: admitted
+    type: expression
+  - designation: solid polymer fuel cell
+    normative_status: admitted
+    type: expression
+  - designation: SPFC
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-02-01
+id: 381effd7-ed8e-5cae-95b2-aeed82b477a7
+status: valid

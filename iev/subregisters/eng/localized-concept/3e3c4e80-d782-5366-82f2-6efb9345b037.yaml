@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      original: IEC Guide 109:2012, 3.1
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: '{{life cycle, IEV:901-07-12}} stage of a product starting when it is
+    finally removed from its {{intended use, IEV:903-01-13}}-phase [IEC 62075:2008,
+    definition 3.4, modified]'
+  examples: []
+  id: 901-07-15
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: end of life
+    normative_status: preferred
+    type: expression
+  - designation: EOL
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 3e3c4e80-d782-5366-82f2-6efb9345b037
+status: valid

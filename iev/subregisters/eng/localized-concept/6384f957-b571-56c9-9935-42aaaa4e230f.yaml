@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'a quantity defined for a mode of propagation at a given frequency in
+    a specific uniform transmission line or uniform waveguide by one of the three
+    following relations: <u>`Z`</u>~1~ = <u>`S`</u>/ |<u>`I`</u>|^2^ <u>`Z`</u>~2~
+    = |<u>`U`</u>|^2^ / <u>`S`</u> <u>`Z`</u>~3~ = <u>`U`</u> / <u>`I`</u> where <u>`Z`</u>
+    is the complex characteristic impedance, <u>`S`</u> the complex power and <u>`U`</u>
+    and <u>`I`</u> are the values, usually complex, respectively of a voltage and
+    a current conventionally defined for each type of mode by analogy with transmission
+    line equations Examples: 1. — For a parallel-wire transmission line, <u>`U`</u>
+    and <u>`I`</u> can be uniquely defined and the three equations are consistent.
+    If the transmission line is lossless, the characteristic impedance is real. 2.
+    — For a waveguide, the conventional definitions for <u>`U`</u> and <u>`I`</u>
+    depend on the type of mode and generally lead to three different values of the
+    characteristic impedance. 3. — For a circular waveguide in the dominant mode `ТЕ`~11~,
+    `U` = r.m.s. voltage along the diameter where the magnitude of the electric field
+    strength vector is a maximum, `I` = the r.m.s. longitudinal current. 4. — For
+    a rectangular waveguide in the dominant mode `TE`~10~, `U` = the r.m.s. voltage
+    between midpoints of the two conductor faces normal to the electric field strength
+    vector, `I` = the r.m.s. longitudinal current following on one surface normal
+    to the electric field strength vector.'
+  examples: []
+  id: 726-07-01
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: characteristic impedance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 6384f957-b571-56c9-9935-42aaaa4e230f
+status: valid

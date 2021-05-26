@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'modification préjudiciable de l''aptitude à satisfaire à des exigences
+    VOIR: état dégradé ({{192-02-25, IEV:192-02-25}}).'
+  examples: []
+  id: 192-01-20
+  language_code: fra
+  notes:
+  - Une dégradation peut se produire lors du stockage ou de l’utilisation, par suite
+    de processus internes ou des effets de l’environnement.
+  - Une dégradation au-delà des limites spécifiées peut constituer un état dégradé
+    ou une défaillance.
+  - Dans le contexte d’un système, une dégradation peut aussi être provoquée par des
+    défaillances à l’intérieur du système.
+  reviewDecisionEvent: published
+  terms:
+  - designation: dégradation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: e3faa3e4-55b9-5133-91cf-7b9663ea56ef
+status: valid

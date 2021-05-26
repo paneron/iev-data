@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: système matériel et logiciel dans lequel un {{logiciel d'application,
+    IEV:192-01-33}} est exécuté
+  examples:
+  - Combinaison d’un système d’exploitation et d’un matériel permettant l’exécution
+    d’un logiciel d'un certain type d’ordinateur(s) ou d'ordinateur(s) d’une certaine
+    architecture.
+  id: 871-05-07
+  language_code: fra
+  notes:
+  - Dans le contexte de l’AAD, une plateforme de technologie de l'information constitue
+    l’interaction entre les composants matériels et logiciels utilisés par une application
+    AAD.
+  reviewDecisionEvent: published
+  terms:
+  - designation: plateforme de technologie de l'information
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4bc61b70-6863-58e5-ab18-8f0ef36ea068
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: densité du flux énergétique incident par rapport à l'aire en un point
+    d'une surface réelle ou fictive `E_e = ((d Phi_e))/((d A))` où `Φ`~e~ est le flux
+    énergétique et `A` est l'aire qui reçoit ce flux
+  examples: []
+  id: 845-21-053
+  language_code: fra
+  notes:
+  - La grandeur photométrique correspondante est l'"éclairement lumineux". La grandeur
+    correspondante pour les photons est l'"éclairement énergétique photonique".
+  - L'éclairement énergétique est exprimé en watt par mètre carré (W·m^−2^).
+  - Cet article était numéroté 845-01-37 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: éclairement énergétique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 46388640-3744-5811-ae6d-d6971db3475f
+status: valid

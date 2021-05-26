@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of blue light hazard weighted radiant flux, `Φ`~B~, and luminous
+    flux, `Φ`~v~ `K_((B ,v)) = ((Phi_B))/((Phi_v)) = ((int Phi_((e , lambda)) ( lambda
+    ) * B ( lambda ) * d lambda))/((K_m * int Phi_((e , lambda)) ( lambda ) * V (
+    lambda ) * d lambda))` where `λ` is wavelength, `Φ`~e,`λ`~(`λ`) is spectral radiant
+    flux, `B`(`λ`) is the blue light hazard spectral weighting function, `V`(`λ`)
+    is the CIE <a href="IEV845-21-035">spectral luminous efficiency</a> function for
+    photopic vision, and `K`~m~ is maximum luminous efficacy (≈ 683 lm·W^−1^)
+  examples: []
+  id: 845-26-061
+  language_code: eng
+  notes:
+  - The term "luminous radiation" refers to <a href="IEV845-21-002">optical radiation</a>
+    weighted with the CIE spectral luminous efficiency function for photopic vision,
+    `V`(`λ`).
+  - The use of this term is only reasonable if parts of the optical radiation are
+    in the visible range and thus `Φ`~v~ ≠ 0.
+  - The blue light hazard efficacy of luminous radiation is expressed in watt per
+    lumen (W·lm^−1^), possibly with a metric prefix.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blue light hazard efficacy of luminous radiation
+    normative_status: preferred
+    type: expression
+    usage_info: of a source
+  - designation: '`K`~B,v~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 5582c1c8-cd47-5ccf-8288-7b5f473395ec
+status: valid

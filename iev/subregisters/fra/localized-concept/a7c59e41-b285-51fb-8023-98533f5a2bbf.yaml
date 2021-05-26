@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.32
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.32, modifié
+      ref: IEC 62280:2014
+      relationship:
+        type: modified
+  classification: Preferred
+  definition: fonction cryptographique de tout le message et d'une clé secrète ou
+    publique
+  examples: []
+  id: 821-11-30
+  language_code: fra
+  notes:
+  - Par "tout le message", on comprend également toute donnée implicite du message
+    qui n’est pas envoyé au système de transmission.
+  reviewDecisionEvent: published
+  terms:
+  - designation: code d’authentification de message
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MAC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a7c59e41-b285-51fb-8023-98533f5a2bbf
+status: valid

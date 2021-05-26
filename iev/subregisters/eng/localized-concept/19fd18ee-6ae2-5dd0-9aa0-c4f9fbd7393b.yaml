@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: 'a unidirectional pulse defined as a function of time `t` by the expressions:
+    `y` = k sin^2^ (`π t`/2`T`) for 0 ≤ `t` ≤ 2`T` `y` = 0 for `t` <0 and `t` > 2`T`
+    where: `y` is the instantaneous value of the characteristic quantity, k is the
+    peak value of the pulse, 2`T` is the duration of the pulse, `T` being the length
+    of time during which the characteristic quantity is greater than k/2'
+  examples: []
+  id: 702-03-13
+  language_code: eng
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sine-squared pulse
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 19fd18ee-6ae2-5dd0-9aa0-c4f9fbd7393b
+status: valid

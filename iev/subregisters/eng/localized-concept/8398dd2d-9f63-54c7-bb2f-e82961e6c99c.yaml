@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: functional unit that provides services to workstations, to personal
+    computers or to other functional units in a computer network
+  examples: []
+  id: 732-01-12
+  language_code: eng
+  notes:
+  - Services may be dedicated services or shared services.
+  - Examples of servers are a file server, a print server, a mail server.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: server
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 8398dd2d-9f63-54c7-bb2f-e82961e6c99c
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur dans lequel on utilise une combinaison de plusieurs
+    jonctions PN
+  examples: []
+  id: 395-03-50
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-17 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur multi-jonction
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur multi-jonction
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7f92177e-faf8-5a38-9a48-b2cff0bdfad1
+status: valid

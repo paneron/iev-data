@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/6357
+      original: IEC 62047-12:2011, 3.1
+      ref: IEC 62047-12:2011
+      relationship:
+        type: identical
+  dateAmended: 2019-10-01
+  definition: one-half the difference between the maximum value and the minimum value
+    in a loading cycle
+  examples: []
+  id: 523-03-11
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude
+    normative_status: preferred
+    type: expression
+    usage_info: MEMS
+dateAccepted: 2019-10-01
+id: 83f6a5ff-e0e6-5ac2-af5b-d5dee12bc35e
+status: valid

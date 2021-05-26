@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: at a stated operating point and frequency, the quotient of (1) the fundamental
+    frequency component of the voltage at the accessible terminal of an electrode
+    by (2) the sinusoidal current applied to that terminal to cause that voltage,
+    all other terminal potentials being maintained constant
+  examples: []
+  id: 531-17-01
+  language_code: eng
+  notes:
+  - For infinitesimal amplitudes, this is the reciprocal of the electrode admittance.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electrode impedance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 325de9b9-6232-558c-8fa1-a487a53b470b
+status: valid

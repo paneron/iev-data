@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: effective irradiance with the spectral irradiance, `Eλ`, spectrally
+    weighted with the blue light hazard spectral weighting function, `B`(`λ`)
+  examples: []
+  id: 845-26-056
+  language_code: eng
+  notes:
+  - Blue light hazard irradiance is typically of interest for small sources subtending
+    less than 0,011 rad.
+  - The wavelength range for the blue light hazard irradiance is specified in ICNIRP-recommendations
+    as `λ` = 300 nm to `λ` = 700 nm.
+  - This definition is based on the assumption that an action spectrum is adopted
+    for the actinic effect considered, and that its maximum value is 1.
+  - It is essential to specify which actinic action spectrum is used, as the unit
+    is the same for any action spectrum.
+  - The blue light hazard irradiance is expressed in watt per square metre (W·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blue light hazard irradiance
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~B~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7e99b228-f3a0-5d71-9c9e-cd69ffb523d1
+status: valid

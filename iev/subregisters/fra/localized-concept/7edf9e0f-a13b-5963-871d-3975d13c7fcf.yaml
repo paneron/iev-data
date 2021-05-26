@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans les moteurs série, rapport des ampère-tours des pôles principaux
+    restant, après l'affaiblissement du champ au nombre maximal d'ampère-tours, pour
+    un même courant dans l'induit
+  examples: []
+  id: 811-13-25
+  language_code: fra
+  notes:
+  - La somme du taux d'affaiblissement de champ et du taux de champ résiduel est égale
+    à l'unité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux de champ résiduel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taux d'excitation
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7edf9e0f-a13b-5963-871d-3975d13c7fcf
+status: valid

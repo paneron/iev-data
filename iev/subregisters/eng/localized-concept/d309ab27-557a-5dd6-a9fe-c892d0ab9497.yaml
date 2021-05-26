@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: limit, if it exists, of the instantaneous availability when the time
+    tends to infinity
+  examples: []
+  id: 192-08-07
+  language_code: eng
+  notes:
+  - Under certain conditions the steady state availability may be expressed as the
+    quotient of the mean up time to the sum of the mean up time, to mean down time.
+    See IEC 61703, _Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms_.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: steady state availability
+    normative_status: preferred
+    type: expression
+  - designation: asymptotic availability
+    type: expression
+  - designation: '`A`'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: d309ab27-557a-5dd6-a9fe-c892d0ab9497
+status: valid

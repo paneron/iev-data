@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: source artificielle spécifiée par la CIE dont le rayonnement est voisin
+    de celui d'un <a href="IEV845-23-021">illuminant CIE normalisé</a>
+  examples: []
+  id: 845-23-022
+  language_code: fra
+  notes:
+  - Les sources artificielles qui représentent des illuminants CIE sont appelées "sources
+    CIE".
+  - Voir aussi "illuminant CIE normalisé"
+  - Voir aussi CIE 15, `Colorimetry`.
+  - 'Voir aussi l''ISO 11664-2/CIE S 014-2, _Colorimétrie – Partie 2: Illuminants
+    CIE normalisés_.'
+  - Cet article était numéroté 845-03-13 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: source CIE normalisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 51e29c0e-925b-5a79-abdf-66fa694200b3
+status: valid

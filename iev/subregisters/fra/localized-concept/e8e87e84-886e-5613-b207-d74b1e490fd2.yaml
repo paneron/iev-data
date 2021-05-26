@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: à un potentiel électrique différent de celui de la terre du lieu de
+    travail et présentant un {{phénomène électrique dangereux, IEV:651-26-05}}
+  examples: []
+  id: 651-21-08
+  language_code: fra
+  notes:
+  - Une partie est sous tension lorsqu'elle est raccordée électriquement à une source
+    d'énergie électrique. Elle peut être aussi sous tension lorsqu'elle est chargée
+    électriquement et/ou sous l'influence d'un champ électrique ou magnétique.
+  - 'Cet article était numéroté 651-01-14 dans la CEI 60050-651:1999. Il a été modifié
+    comme suit: Suppression du mot “significativement” qui n’était pas quantifiable
+    et alignement sur le texte anglais.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous tension
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: e8e87e84-886e-5613-b207-d74b1e490fd2
+status: valid

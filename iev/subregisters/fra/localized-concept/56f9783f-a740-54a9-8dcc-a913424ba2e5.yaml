@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: terme désignant une {{unité de mesure, IEV:112-01-14}}
+  examples: []
+  id: 112-01-15
+  language_code: fra
+  notes:
+  - Les noms des unités dérivées sont spéciaux ou composés. Des règles pour la formation
+    des noms composés sont données dans l'ISO 80000-1 et la CEI 60027-1. Par exemple,
+    l’unité dérivée de résistivité est l’ohm mètre, l’unité dérivée de vitesse est
+    le mètre par seconde.
+  - Des noms d'unités sont donnés dans les différentes parties de l'ISO 80000, de
+    l'IEC 80000 et de l'IEC 60027, ainsi que dans la brochure Le système international
+    d'unités, publiée par le BIPM.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nom d'unité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56f9783f-a740-54a9-8dcc-a913424ba2e5
+status: valid

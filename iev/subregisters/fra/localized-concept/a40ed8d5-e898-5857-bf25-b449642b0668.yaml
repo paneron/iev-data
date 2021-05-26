@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: aptitude d'un système à calculateur de processus à reprendre les tâches
+    après une défaillance ou une panne
+  examples: []
+  id: 351-54-08
+  language_code: fra
+  notes:
+  - L’exigence pour que ceci soit réalisé est que l’état de la tâche doit toujours
+    être stocké juste avant la panne ou le défaut. Le redémarrage peut suivre automatiquement.
+  - Cet article était numéroté 351-30-09 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: aptitude au redémarrage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: a40ed8d5-e898-5857-bf25-b449642b0668
+status: valid

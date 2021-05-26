@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: logarithm of the ratio of a given quantity to a reference quantity of
+    the same kind. The base of the logarithm, the reference quantity, and the kind
+    of level must be indicated
+  examples: []
+  id: 801-22-01
+  language_code: eng
+  notes:
+  - The kind of level is indicated by use of a compound term such as sound power level
+    or sound pressure level.
+  - The value of the reference quantity remains unchanged, whether the chosen quantity
+    is peak, root-mean-square, or otherwise.
+  - The base of the logarithm is indicated by use of a unit of level associated with
+    that base.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: level
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 70121862-0707-5a5b-b584-8b49ba619545
+status: valid

@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - clause: définition 3
+      link: https://www.iso.org/standard/31807.html
+      original: ISO 14001:2004, définition 3.8, modifié – Les termes  "organisme"
+        et "procédés" ont été remplacés par "organisation" et "processus" respectivement  pour
+        compatibilité avec l'IEV.
+      ref: ISO 14001:2004
+      relationship:
+        modification: Les termes  "organisme" et "procédés" ont été remplacés par
+          "organisation" et "processus" respectivement  pour compatibilité avec l'IEV.
+        type: modified
+  classification: Preferred
+  definition: composante du système de management d'une {{organisation, IEV:901-03-02}}
+    utilisée pour développer et mettre en œuvre sa politique environnementale et gérer
+    ses {{aspects environnementaux, IEV:904-01-02}}
+  examples: []
+  id: 904-01-15
+  language_code: fra
+  notes:
+  - Un système de management est un ensemble d'éléments liés entre eux, utilisé pour
+    établir une politique et des objectifs et pour atteindre ces objectifs.
+  - Un système de management comprend la structure organisationnelle, les activités
+    de planification, les responsabilités, les pratiques, les procédures, les {{processus,
+    IEV:904-01-05}} et les ressources.
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de management environnemental
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SME
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 83d39322-1b8b-5dee-a021-92d34e4cf413
+status: valid

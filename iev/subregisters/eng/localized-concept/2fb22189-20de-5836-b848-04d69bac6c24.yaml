@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: distance from a radio station in a given direction beyond which {{radio-frequency
+    interference, IEV:161-01-14}} to, or from, other radio stations sharing the same
+    {{frequency band, IEV:103-09-01}} can be neglected for planning purposes
+  examples: []
+  id: 705-08-39
+  language_code: eng
+  notes:
+  - In practice, a coordination distance can be defined for an {{Earth station, IEV:713-02-05}}
+    or a {{terrestrial station, IEV:713-02-04}}, but not for a {{space station, IEV:713-02-06}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coordination distance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-10-01
+id: 2fb22189-20de-5836-b848-04d69bac6c24
+status: valid

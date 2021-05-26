@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'variable de sortie de l''élément de commande qui est déduite de la
+    variable de différence de régulation et qui est également la variable d''entrée
+    de l''actionneur VOIR: Figure 2.'
+  examples: []
+  id: 351-48-06
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-27-06 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-fr.png[Figure 2 - Schéma fonctionnel
+    montrant les composants types d''un système élémentaire de commande en boucle
+    fermée]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variable de sortie de régulateur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 9a94102c-cc1a-55da-831a-a12b4049d94d
+status: valid

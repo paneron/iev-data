@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: in the local line network, equipment which enables an incoming pair
+    to be connected to any of the outgoing pairs
+  examples: []
+  id: 722-12-18
+  language_code: eng
+  notes:
+  - Cross-connection points are designated as primary or secondary according to their
+    form and importance in the network. They are located between the main distribution
+    frame and a number of distribution points.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cross-connection point
+    normative_status: preferred
+    type: expression
+  - designation: CCP
+    type: expression
+dateAccepted: 1992-11-01
+id: c16a228a-2661-51e1-930d-e2d977543deb
+status: valid

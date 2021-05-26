@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2018-09-01
+  definition: ordered set of three {{binary digits, IEV:702-05-03}}
+  examples: []
+  id: 702-05-08
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: triplet
+    normative_status: preferred
+    type: expression
+  - designation: 3-bit byte
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+  - designation: triplet byte
+    normative_status: admitted
+    type: expression
+  - designation: tribit
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2018-09-01
+id: 2fe7b321-12fc-5ca5-9971-a6a17b941c52
+status: valid

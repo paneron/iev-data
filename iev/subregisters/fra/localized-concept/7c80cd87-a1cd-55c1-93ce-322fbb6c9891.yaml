@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: partie d'un système, qui est elle-même un système
+  examples: []
+  id: 192-01-04
+  language_code: fra
+  notes:
+  - Un sous-système est normalement à un niveau dans l’arborescence plus bas que le
+    système dont il fait partie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous-système
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en sûreté de fonctionnement
+dateAccepted: 2018-11-17
+id: 7c80cd87-a1cd-55c1-93ce-322fbb6c9891
+status: valid

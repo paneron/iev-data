@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: '{{polarisation, IEV:705-01-13}} telle que, pour un observateur regardant
+    dans la {{direction de propagation, IEV:705-02-15}} ou dans une direction de référence
+    spécifiée, le vecteur {{champ électrique, IEV:121-11-18}} ou un vecteur de champ
+    spécifié tourne, en fonction du temps, dans un plan fixe normal à cette direction
+    et dans le sens contraire à celui des aiguilles d''une montre'
+  examples: []
+  id: 705-01-19
+  language_code: fra
+  notes:
+  - Il est nécessaire de spécifier la direction de référence quand la direction de
+    propagation est parallèle au {{plan de polarisation, IEV:705-01-22}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarisation senestrorsum
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: polarisation levogyre
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9b3c769a-7fb1-57ea-92b3-dd7f58630cd0
+status: valid

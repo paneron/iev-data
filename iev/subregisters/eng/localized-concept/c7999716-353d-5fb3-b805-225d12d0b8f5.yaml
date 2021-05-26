@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: frequency at which the resonator exhibits a minimum impedance in the
+    immediate neighbourhood of resonance image::/assets/images/parts/561/561-fig3-en.png[]
+    *Figure 3 – Frequency characteristics of the impedance near resonance*
+  examples: []
+  id: 561-01-30
+  language_code: eng
+  notes:
+  - 'The equivalent circuit of the resonator is shown in Figure 2.
+
+
+    image::/assets/images/parts/561/561-fig2-en.png[]
+
+
+    *Figure 2 – Equivalent circuit of a piezoelectric vibrator (one-port resonator)*'
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency of minimum impedance
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~m~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: c7999716-353d-5fb3-b805-225d12d0b8f5
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'tarif horaire comportant deux prix différents applicables selon les
+    heures de la journée Par exemple: prix `p`~1~ par kWh la nuit, prix `p`~2~ par
+    kWh le jour.'
+  examples: []
+  id: 691-06-02
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif bihoraire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: double tarif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: b369a6c6-9328-58fe-9707-d2b972aaa5df
+status: valid

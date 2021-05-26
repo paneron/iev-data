@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      original: IEC 60664-2-1:2011, 3.5
+      ref: IEC 60664-2-1:2011
+      relationship:
+        type: identical
+  definition: matériau isolant tel que vernis ou film sec posé sur la surface de l'ensemble
+  examples: []
+  id: 212-11-61
+  language_code: fra
+  notes:
+  - Le revêtement et le matériau de base d'une carte imprimée forment un système isolant
+    qui peut avoir des propriétés similaires à l'isolation solide.
+  reviewDecisionEvent: published
+  terms:
+  - designation: revêtement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bd51de15-d391-5606-96ee-21a46455a421
+status: valid

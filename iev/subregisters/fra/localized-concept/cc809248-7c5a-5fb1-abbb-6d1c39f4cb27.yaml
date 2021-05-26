@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonctionnement du matériel conforme électriquement et mécaniquement
+    à la spécification de conception et utilisé dans les limites spécifiées par le
+    constructeur
+  examples: []
+  id: 426-04-10
+  language_code: fra
+  notes:
+  - Les limites spécifiées par le constructeur peuvent inclure des conditions de fonctionnement
+    continu, par exemple le fonctionnement dans un cycle de service.
+  - La variation de la tension d'alimentation dans des limites établies et toute autre
+    tolérance fonctionnelle fait partie des conditions normales de fonctionnement.
+  - 'Pour les machines électriques, le fonctionnement normal est spécifié en fonction
+    du service type (S1…S10 selon l''IEC 60034-1, _Machines électriques tournantes
+    – Partie 1: Caractéristiques assignées et caractéristiques de fonctionnement_).'
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonctionnement normal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: atmospheres explosives
+dateAccepted: 2018-11-17
+id: cc809248-7c5a-5fb1-abbb-6d1c39f4cb27
+status: valid

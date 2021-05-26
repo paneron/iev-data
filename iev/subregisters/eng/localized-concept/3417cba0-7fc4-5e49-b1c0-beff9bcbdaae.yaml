@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-02-01
+  definition: feedback device used in electrophysiology experiments to maintain a
+    constant electric current, usually across a membrane, such that changing impedance
+    results in a corresponding change in voltage
+  examples: []
+  id: 891-02-12
+  language_code: eng
+  notes: []
+  reviewDate: 1998-02-01
+  reviewDecisionDate: 1998-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: current clamp
+    normative_status: preferred
+    type: expression
+  - designation: constant-current generator
+    type: expression
+dateAccepted: 1998-02-01
+id: 3417cba0-7fc4-5e49-b1c0-beff9bcbdaae
+status: valid

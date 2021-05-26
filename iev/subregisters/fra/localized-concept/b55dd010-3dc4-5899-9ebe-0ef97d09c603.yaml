@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: opération destinée à convertir un signal analogique en un signal numérique
+    qui représente essentiellement les mêmes informations
+  examples: []
+  id: 704-22-01
+  language_code: fra
+  notes:
+  - Il y a toujours une certaine perte peu importante d'information dans une conversion
+    analogique-numérique.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conversion analogique-numérique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: conversion A/N
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: b55dd010-3dc4-5899-9ebe-0ef97d09c603
+status: valid

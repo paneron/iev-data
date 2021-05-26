@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '3.6'
+      original: IEC Guide 116:2010, 3.6, modified – The explanation concerning the
+        exposure has been transferred to Note 1 to entry.
+      ref: IEC Guide 116:2010
+      relationship:
+        modification: The explanation concerning the exposure has been transferred
+          to Note 1 to entry.
+        type: modified
+  dateAmended: 2013-06-01
+  definition: circumstance in which persons, property and livestock or the environment
+    are exposed to at least one {{hazard, IEV:903-01-02}}
+  examples: []
+  id: 903-01-05
+  language_code: eng
+  notes:
+  - 'The exposure can immediately or over a period of time result in {{harm, IEV:903-01-01}}.
+
+
+    [ISO/IEC Guide 51:1999, definition 3.6, modified]'
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: hazardous situation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: b45c3ded-28b6-55e1-acaa-b750d9654981
+status: valid

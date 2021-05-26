@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: linear time-invariant transfer element the transfer function of which
+    may be written as a quotient of two polynomials in `s` `G ( s ) = ((V ( s )))/((U
+    ( s ))) = ((b_0 + b_1 * s + ... + b_m * s^m))/((a_0 + a_1 * s + ... + a_n * s^n))`
+    with `aj` and `bj` real, `an` ≠ 0, `bm` ≠ 0 where<table> <tr> <td> `ai`, `bi`
+    </td> <td>are the polynomial coefficients;</td> </tr> <tr> <td>`s`</td> <td>is
+    the complex variable of the Laplace transform;</td> </tr> <tr> <td> `U`(`s`)</td>
+    <td>is the input transform;</td> </tr> <tr> <td> `V`(`s`)</td> <td>is the output
+    transform.</td> </tr> </table>
+  examples: []
+  id: 351-45-51
+  language_code: eng
+  notes:
+  - In real controlled systems, `m` &lt; `n`. With respect to mathematical denomination
+    these elements would have to be called "proper-fractional rational transfer element"
+    which is not usage.
+  - An element with dead time is an example for a non-rational transfer element.
+  - This entry was numbered 351-24-43 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rational transfer element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 1f94eee4-a01a-501b-9887-789d80e28e94
+status: valid

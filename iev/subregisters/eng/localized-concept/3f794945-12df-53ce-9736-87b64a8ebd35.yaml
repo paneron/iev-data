@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: unit time ramp ρ(`t`) multiplied by a suitable ramp slope `K`~ρ~
+  examples: []
+  id: 351-45-25
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ramp function
+    normative_status: preferred
+    type: expression
+  - designation: time ramp
+    normative_status: preferred
+    type: expression
+  - designation: '`K`~ρ~·ρ(`t`)'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 3f794945-12df-53ce-9736-87b64a8ebd35
+status: valid

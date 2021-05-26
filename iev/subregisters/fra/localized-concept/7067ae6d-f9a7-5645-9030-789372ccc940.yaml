@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 3.3, modifiée – Les références aux autres termes
+        dans l'ISO/CEI 17000 ont été remplacées par des hyperliens aux entrées dans
+        la VEI.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: Les références aux autres termes dans l'ISO/CEI 17000 ont été
+          remplacées par des hyperliens aux entrées dans la VEI.
+        type: modified
+  definition: résultat d'un processus [ISO 9000:2000, 3.4.2]
+  examples: []
+  id: 902-02-03
+  language_code: fra
+  notes:
+  - 'Quatre catégories génériques de produits sont définies dans l''ISO 9000:2000,
+    à savoir les services (exemple: le transport), les logiciels (exemple: logiciel,
+    dictionnaire), les matériels (exemple: moteur, pièce mécanique), les produits
+    transformés (exemple: lubrifiant). De nombreux produits sont constitués d''éléments
+    appartenant à différentes catégories génériques de produits. Le produit est appelé
+    service, logiciel, matériel ou produit transformé en fonction de l''élément dominant.'
+  - La déclaration de conformité décrite dans la Note 1 en {{902-04-02, IEV:902-04-02}}
+    peut être considérée comme un produit d'{{attestation, IEV:902-04-02}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7067ae6d-f9a7-5645-9030-789372ccc940
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: the degree of start-stop distortion determined when the assumed unit
+    interval is that appropriate to the actual mean modulation rate
+  examples: []
+  id: 721-07-09
+  language_code: eng
+  notes:
+  - In practice the degree of synchronous start-stop distortion is measured by adjusting
+    the scanning rate of the distortion measuring set.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: degree of synchronous start-stop distortion
+    normative_status: preferred
+    type: expression
+  - designation: degree of start-stop distortion at the actual mean modulation rate
+    type: expression
+dateAccepted: 1991-11-01
+id: 0e54445f-3c65-54e7-85ab-a585c715b0f7
+status: valid

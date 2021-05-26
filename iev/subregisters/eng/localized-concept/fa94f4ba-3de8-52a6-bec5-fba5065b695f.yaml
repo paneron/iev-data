@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-03-01
+  definition: '{{storage device, IEV:171-04-14}} that provides {{direct access, IEV:171-04-24}}
+    to data'
+  examples: []
+  id: 171-04-25
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: direct access storage
+    normative_status: preferred
+    type: expression
+  - designation: random access storage
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2019-03-01
+id: fa94f4ba-3de8-52a6-bec5-fba5065b695f
+status: valid

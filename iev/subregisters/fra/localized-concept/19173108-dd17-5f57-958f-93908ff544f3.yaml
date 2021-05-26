@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: séquence de contenu sonore et/ou visuel spécialement conçue et préparée
+    pour la radiodiffusion ou la télédistribution
+  examples: []
+  id: 723-01-02
+  language_code: fra
+  notes:
+  - "On qualifie un programme:\r\n\r\n* suivant sa nature: programme sonore, de télévision,\
+    \ musical, parlé, etc. \r\n* suivant son objet: programme d'information, éducatif,\
+    \ récréatif, etc. \r\n* suivant son origine: programme de tel émetteur, de tel\
+    \ organisme, programme en direct, en différé, etc."
+  - Le terme "émission" désigne également la production d'ondes et de signaux (voir
+    {{IEV 161-01-09, IEV:161-01-09}}) en radiocommunication, la production de toutes
+    ondes ou particules (voir {{IEV 702-02-03, IEV:702-02-03}}), un processus en radiocommunication
+    (voir {{IEV 702-02-05, IEV:702-02-05}}), les signaux ou ondes radioélectriques
+    produits par un émetteur de radiodiffusion (voir {{IEV 723-01-03, IEV:723-01-03}}),
+    et un rejet dans l'environnement (voir {{IEV 904-01-11, IEV:904-01-11}}).
+  - Le terme français "{{émission, IEV:702-02-04}}" s'applique également au concept
+    représenté par le terme anglais "{{sending, IEV:702-02-04}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: programme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en radiodiffusion ou en télédistribution
+  - designation: émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: programme
+dateAccepted: 2018-11-17
+id: 19173108-dd17-5f57-958f-93908ff544f3
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2000-07-01
+  definition: partie conductrice, susceptible d'être touchée directement, qui n'est
+    pas normalement sous tension mais qui peut le devenir en cas de défaut
+  examples: []
+  id: 441-11-10
+  language_code: fra
+  notes:
+  - Les masses caractéristiques sont les parois des enveloppes, les poignées de commande,
+    etc.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: masse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: partie conductrice accessible
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: aed4ee78-cc32-53df-bae4-c66825fb3e4c
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}}, the {{characteristic quantity,
+    IEV:447-07-01}} of which is voltage Note 1 to entry: The respective operation
+    is defined by one of the four terms {{"over… relay", IEV:447-01-23}}, {{"under…
+    relay", IEV:447-01-24}}, {{"under and over… relay", IEV:447-01-25}}, and {{"rate
+    of change of… relay", IEV:447-01-26}}.'
+  examples: []
+  id: 447-01-28
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: voltage relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 7ef21806-bbfc-59fd-8157-3ef1d77fa690
+status: valid

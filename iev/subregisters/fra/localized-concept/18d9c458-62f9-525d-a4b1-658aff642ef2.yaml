@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonctionnelle linéaire continue qui associe un nombre réel ou complexe
+    à toute fonction de variable réelle ou complexe appartenant à la classe des fonctions
+    indéfiniment dérivables nulles en dehors d'un intervalle ou domaine borné
+  examples: []
+  id: 103-01-03
+  language_code: fra
+  notes:
+  - 'Une fonction `D`(`x`) peut être considérée comme une distribution `D` associant
+    à une fonction `f`(`x`) la valeur
+
+
+    `D ( f ) = int_((- oo))^((+ oo)) D ( x ) f ( x ) d x` si cette intégrale existe.'
+  - '2 La dérivée d''une distribution `D` est une autre distribution `D`′ définie
+    pour toute fonction `f`(`x`) par
+
+
+    `D^( '' ) ( f ) = - D ( d f // d x )`.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: distribution
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fonction généralisée
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 18d9c458-62f9-525d-a4b1-658aff642ef2
+status: valid

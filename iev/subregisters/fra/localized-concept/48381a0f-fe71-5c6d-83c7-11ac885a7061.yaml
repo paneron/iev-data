@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur contenant du ^10^B sous forme d'un dépôt en
+    surface et destiné à détecter les neutrons thermiques
+  examples: []
+  id: 395-03-45
+  language_code: fra
+  notes:
+  - L’ionisation est due aux particules chargées produites par réaction nucléaire
+    des neutrons dans le dépôt.
+  - Cet article était numéroté 394-28-11 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur à dépôt de bore
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur à dépôt de bore
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 48381a0f-fe71-5c6d-83c7-11ac885a7061
+status: valid

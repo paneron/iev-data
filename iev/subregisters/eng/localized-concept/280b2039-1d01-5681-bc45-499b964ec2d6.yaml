@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: chromaticity coordinates representing the lighting in the viewing environment,
+    excluding that from the display, measured in the plane of the display
+  examples: []
+  id: 845-32-034
+  language_code: eng
+  notes:
+  - The ambient light can have a completely different quality than the light from
+    the image but this ambient light will have an effect on the appearance of colour
+    stimuli and so it has to be quantified along with the colour stimulus from the
+    image.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ambient white point
+    normative_status: preferred
+    type: expression
+    usage_info: of a display
+dateAccepted: 2020-12-01
+id: 280b2039-1d01-5681-bc45-499b964ec2d6
+status: valid

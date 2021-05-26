@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: désignation d'un matériau ou système isolant par un nombre qui est égal
+    à la valeur numérique de la température maximale en degrés Celsius pour lequel
+    le matériau ou le système est approprié en utilisation normale
+  examples: []
+  id: 212-12-31
+  language_code: fra
+  notes:
+  - Il peut s’avérer nécessaire d’attribuer différentes classes thermiques au même
+    matériau ou système pour différentes conditions de service.
+  - La description d’un produit électrotechnique comme étant d’une classe thermique
+    particulière ne signifie pas et ne doit pas être considéré comme impliquant que
+    chaque matériau isolant utilisé dans sa construction a la même capacité thermique.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: classe thermique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 847ec98e-adde-535d-99c0-c07bf2f79e26
+status: valid

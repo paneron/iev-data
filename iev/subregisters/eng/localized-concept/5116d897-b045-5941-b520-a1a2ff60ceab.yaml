@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 3
+      link: https://www.iso.org/standard/42180.html
+      original: ISO 9000:2005, definition 3.4.1, modified – "NOTE 3   A process where
+        the conformity of the resulting product cannot be readily or economically
+        verified is frequently referred to as a "special process". deleted.
+      ref: ISO 9000:2005
+      relationship:
+        modification: '"NOTE 3   A process where the conformity of the resulting product
+          cannot be readily or economically verified is frequently referred to as
+          a "special process". deleted.'
+        type: modified
+  dateAmended: 2015-10-01
+  definition: set of interrelated or interacting activities which transforms {{inputs,
+    IEV:901-07-05}} into {{outputs, IEV:901-07-06}}
+  examples: []
+  id: 904-01-05
+  language_code: eng
+  notes:
+  - Inputs to a process are generally outputs of other processes.
+  - Processes in an {{organization, IEV:901-03-02}} are generally planned and carried
+    out under controlled conditions to add value.
+  reviewDate: 2015-10-01
+  reviewDecisionDate: 2015-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: process
+    normative_status: preferred
+    type: expression
+    usage_info: in environmental standardization
+dateAccepted: 2015-10-01
+id: 5116d897-b045-5941-b520-a1a2ff60ceab
+status: valid

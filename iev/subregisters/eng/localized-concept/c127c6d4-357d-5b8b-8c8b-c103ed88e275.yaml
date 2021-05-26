@@ -1,0 +1,48 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: product of <a href="IEV845-21-035">spectral luminous efficiency</a>
+    and maximum luminous efficacy for a specified photometric condition
+  examples: []
+  id: 845-21-091
+  language_code: eng
+  notes:
+  - The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+    If it is not specified, photopic vision is assumed and the symbol `K`(`λ`) is
+    used. For other photometric conditions, the respective symbol for identification
+    shall be used.
+  - 'Spectral luminous efficacy for photopic vision is expressed by
+
+
+    `K`(`λ`) = `K`~m~ `V`(`λ`)
+
+
+    where `K`~m~ is maximum luminous efficacy, `V`(`λ`) is spectral luminous efficiency
+    and `λ` is wavelength.'
+  - The spectral luminous efficacy is expressed in lumen per watt (lm·W^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral luminous efficacy
+    normative_status: preferred
+    type: expression
+    usage_info: for a specified photometric condition
+  - designation: '`K`(`λ`),&lt;for photopic vision&gt; &lt;pour la vision photopique&gt;
+
+      `K`′(`λ`), &lt;for scotopic vision&gt; &lt;pour la vision scotopique&gt;
+
+      `K`~mes;~`m`(`λ`), &lt;for mesopic vision&gt; &lt;pour la vision mésopique&gt;
+
+      `K`~10~(`λ`), &lt;for the CIE 10° photopic photometric observer&gt; &lt;pour
+      l''observateur photométrique photopique 10° CIE&gt;
+
+      `K`~M~(`λ`), &lt;for the CIE 1988 modified 2° spectral luminous efficiency function
+      for photopic vision&gt; &lt;pour la fonction d''efficacité lumineuse relative
+      spectrale de 2° pour vision photopique (CIE 1988 modifiée)&gt;'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: c127c6d4-357d-5b8b-8c8b-c103ed88e275
+status: valid

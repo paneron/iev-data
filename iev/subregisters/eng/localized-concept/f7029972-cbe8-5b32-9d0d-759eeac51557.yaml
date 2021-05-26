@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: '7.5'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 7.5, modified – The note from the title of Clause
+        7 in ISO/IEC 17000:2004 has been added to the entry.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: The note from the title of Clause 7 in ISO/IEC 17000:2004 has
+          been added to the entry.
+        type: modified
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: acknowledgement of the validity of a conformity assessment result provided
+    by another person or body
+  examples: []
+  id: 902-06-05
+  language_code: eng
+  notes:
+  - The general expression “conformity assessment result” is used in {{902-06-04,
+    IEV:902-06-04}} to {{902-06-09, IEV:902-06-09}} to mean the {{product, IEV:902-02-03}}
+    of any conformity assessment activity (e.g. a report or certificate) and may include
+    a finding of nonconformity.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: recognition
+    normative_status: preferred
+    type: expression
+  - designation: recognition of conformity assessment results
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: f7029972-cbe8-5b32-9d0d-759eeac51557
+status: valid

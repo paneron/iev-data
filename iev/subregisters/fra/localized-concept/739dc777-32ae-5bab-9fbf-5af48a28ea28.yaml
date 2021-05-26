@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: inverse de la {{période, IEV:103-06-01}}
+  examples: []
+  id: 103-06-02
+  language_code: fra
+  notes:
+  - Le symbole `f` est utilisé principalement lorsque la période est un temps. Le
+    symbole `ν` (nu) est utilisé principalement en optique.
+  - L’unité SI cohérente de fréquence est le {{hertz, IEV:103-06-18}}, Hz.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 739dc777-32ae-5bab-9fbf-5af48a28ea28
+status: valid

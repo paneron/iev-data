@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: output stage which may be enabled or disabled by the application of
+    an input control signal
+  examples: []
+  id: 561-03-40
+  language_code: eng
+  notes:
+  - In the disabled mode the output impedance of the gate is set to a high level permitting
+    the application of test signals to the following stages.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tri-state output
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 6a1391f4-f0b3-571d-b4d9-2b8be293c460
+status: valid

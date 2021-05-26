@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: signal that enters a {{measuring relay, IEV:447-01-02}} or {{protection
+    equipment, IEV:447-01-49}}
+  examples:
+  - '{{Analogue input signal, IEV:447-03-19}}, {{binary input signal, IEV:447-03-20}},
+    {{digital input signal, IEV:447-03-21}}, {{communication input signal, IEV:447-03-22}}.'
+  id: 447-03-08
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: input signal
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: 61e1ae5a-15dc-51d3-9620-01ec95e88d0d
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: défaillance due à une détérioration cumulative provoquée par les contraintes
+    imposées en cours d'utilisation
+  examples: []
+  id: 192-03-15
+  language_code: fra
+  notes:
+  - En règle générale, la probabilité d’occurrence d’une défaillance par usure augmente
+    avec le temps cumulé de fonctionnement, le nombre de fonctionnements ou les contrainte
+    appliquées.
+  - Dans certains cas, la distinction entre les phénomènes d’usure et de vieillissement
+    peut s’avérer difficile.
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaillance par usure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56fbb30e-9e8e-591a-8263-a683176c9dc3
+status: valid

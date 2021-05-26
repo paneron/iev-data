@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: quotient ramp response Δ`v`~ρ~(`t`) divided by the ramp slope `K`~ρ~
+    of the ramp function, the quotient described by `r ( t ) = (1)/((K_(rho))) * Delta
+    v_(rho) ( t )`
+  examples: []
+  id: 351-45-31
+  language_code: eng
+  notes:
+  - 'The unit-ramp response may be calculated from the unit-step response by
+
+
+    `r ( t ) = int_((- oo))^t h ( tau ) d tau`.'
+  - The unit-ramp response of a system mathematically may be considered to result
+    from application of a unit ramp to an input variable.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit-ramp response
+    normative_status: preferred
+    type: expression
+  - designation: '`r`(`t`)'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 5d792bc9-1e4b-5d75-8d2c-14341815a879
+status: valid

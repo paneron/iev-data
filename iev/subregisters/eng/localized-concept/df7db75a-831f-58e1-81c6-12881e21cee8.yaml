@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: software contained in a read-only memory device
+  examples:
+  - Basic input/output system (BIOS) of a personal computer.
+  id: 192-01-35
+  language_code: eng
+  notes:
+  - Firmware, in normal usage, is not intended for modification, and requires the
+    hardware device containing it to be replaced or re-programmed.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: firmware
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: df7db75a-831f-58e1-81c6-12881e21cee8
+status: valid

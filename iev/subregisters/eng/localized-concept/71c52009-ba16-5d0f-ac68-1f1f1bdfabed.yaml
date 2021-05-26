@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - - clause: '3.34'
+      link: https://webstore.iec.ch/publication/6486
+      original: definition 3.34 of IEC 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: acoustic energy flow rate in the direction of propagation per unit area
+    normal to the direction of propagation
+  examples: []
+  id: 802-01-10
+  language_code: eng
+  notes:
+  - 'Instantaneous intensity is the product of instantaneous acoustic pressure and
+    instantaneous particle velocity. It is difficult to measure intensity in the ultrasound
+    frequency range. For measurement purposes and if it is reasonable to assume that
+    the instantaneous acoustic pressure and instantaneous particle velocity are substantially
+    in phase along the beam(-alignment) axis for a given frequency, than the instantaneous
+    intensity, [`I(t)`], is approximated as
+
+
+    `p(t)`^2^/`ρc`
+
+
+    where
+
+
+    `p(t)` is the instantaneous acoustic pressure;
+
+
+    `ρ` is the density of the medium;
+
+
+    `c` is the velocity of sound in the medium.'
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`I(t)`'
+    international: true
+    type: symbol
+dateAccepted: 2011-01-01
+id: 71c52009-ba16-5d0f-ac68-1f1f1bdfabed
+status: valid

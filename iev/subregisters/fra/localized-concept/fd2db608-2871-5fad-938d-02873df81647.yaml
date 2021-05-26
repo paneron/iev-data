@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.1
+      link: https://webstore.iec.ch/publication/6496
+      original: IEC 62128-1:2013, 3.4.1, modifié
+      ref: IEC 62128-1:2013
+      relationship:
+        type: modified
+  definition: réseau de distribution destiné à l'alimentation électrique du matériel
+    roulant
+  examples: []
+  id: 811-36-21
+  language_code: fra
+  notes:
+  - Le réseau comprend:* des réseaux de lignes de contact;* des circuits de retour
+    des réseaux de traction électrique;* des rails de roulement de réseaux de traction
+    autre qu’électrique, situés à proximité et électriquement reliés aux rails de
+    roulement d’un réseau de traction électrique;* des installations électriques alimentées
+    par les lignes de contact soit directement soit par un transformateur;* des installations
+    électriques dans les postes et les sous-stations utilisées uniquement pour la
+    production et la distribution d’énergie directement à la ligne de contact;* des
+    installations électriques des postes de traction électrique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau de traction électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fd2db608-2871-5fad-938d-02873df81647
+status: valid

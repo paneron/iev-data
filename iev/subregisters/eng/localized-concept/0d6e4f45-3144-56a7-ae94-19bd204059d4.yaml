@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: duration between the instant when the load is removed and the instant
+    when the {{shutdown, IEV:485-19-01}} is completed
+  examples: []
+  id: 485-20-04
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shutdown time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 0d6e4f45-3144-56a7-ae94-19bd204059d4
+status: valid

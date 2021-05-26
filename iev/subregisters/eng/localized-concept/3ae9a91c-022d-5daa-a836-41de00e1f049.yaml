@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: functional unit that mediates all traffic between two networks and protects
+    one of them or some part thereof against unauthorized access
+  examples: []
+  id: 732-06-01
+  language_code: eng
+  notes:
+  - 1 – The protected network is generally a private network, internal to an organization.
+  - 2 – A firewall may permit messages or files to be transferred to a high-security
+    workstation within the internal network, without permitting such transfer in the
+    opposite direction.
+  - 3 – The firewall may have different types of implementation. Examples are dual-homed-host,
+    screened subnet,  screening router, or bastion host.
+  - '4 – See Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-01en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: firewall
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 3ae9a91c-022d-5daa-a836-41de00e1f049
+status: valid

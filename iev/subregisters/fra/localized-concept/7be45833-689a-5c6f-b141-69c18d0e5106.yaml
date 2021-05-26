@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: courant délivré par une {{cellule élémentaire à combustible, IEV:485-08-01}},
+    à une tension donnée, faisant référence à la masse de l'{{électrocatalyseur, IEV:485-01-02}}dans
+    les {{électrodes, IEV:485-02-01}}
+  examples: []
+  id: 485-02-11
+  language_code: fra
+  notes:
+  - L'activité spécifique peut aussi faire référence à la {{surface électrochimique,
+    IEV:485-02-09}} ou au volume de la {{couche catalytique, IEV:485-02-06}}. Ces
+    derniers peuvent faire référence à l'activité spécifique de la surface ou à l'activité
+    spécifique du volume, respectivement.
+  - L'activité spécifique est exprimée généralement en A/g, et peut être exprimée
+    en A/cm^2^ ou A/cm^3^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: activité spécifique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: activité de la masse
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7be45833-689a-5c6f-b141-69c18d0e5106
+status: valid

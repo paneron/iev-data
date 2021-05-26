@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-10
+      original: 702-09-10 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2002-06-01
+  definition: dispositif ou réseau possédant deux accès distincts
+  examples: []
+  id: 131-12-65
+  language_code: fra
+  notes:
+  - Des exemples de biportes sont un tronçon de guide d'ondes, un quadripôle.
+  - Un multiporte peut être considéré comme un biporte lorsque le comportement vu
+    de deux accès est seul pris en compte.
+  - En français, le terme "biporte" peut aussi être employé comme adjectif synonyme
+    de "à deux accès".
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: biporte
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réseau à deux accès
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: fcc1319c-2509-531a-885a-721fe0c5d37c
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: '{{combustible dust, IEV:426-02-18}} or {{combustible flyings, IEV:426-02-25}}'
+  examples: []
+  id: 426-02-17
+  language_code: eng
+  notes:
+  - An {{explosive dust atmosphere, IEV:426-01-08}} can be created when either combustible
+    dust or combustible flyings are present in hazardous quantities.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dust
+    normative_status: preferred
+    type: expression
+    usage_info: explosive atmospheres
+dateAccepted: 2020-03-01
+id: 6215b743-c41b-58ec-9944-5f5f8e4f94b9
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 702-09-43
+      original: 702-09-43 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 723-07-46
+      original: 723-07-46
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1997-03-01
+  definition: a device for coding
+  examples: []
+  id: 723-10-15
+  language_code: eng
+  notes:
+  - The terms coder and encoder have a specific meaning in colour television
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coder
+    normative_status: preferred
+    type: expression
+  - designation: encoder
+    type: expression
+dateAccepted: 1997-03-01
+id: a27632ba-678e-5900-8a21-895f3ea6e27f
+status: valid

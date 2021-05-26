@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: '{{`n`-aire, IEV:171-02-02}} pour `n` = 16'
+  examples:
+  - Système de numérotation hexadécimale.
+  id: 171-02-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: hexadécimal
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: sexadécimal
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: f810e813-61b1-534a-bda8-148d4799e6b4
+status: valid

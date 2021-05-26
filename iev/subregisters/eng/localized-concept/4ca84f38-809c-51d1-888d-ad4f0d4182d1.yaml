@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 151-03-18
+      original: 151-03-18 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 603-06-04
+      original: 603-06-04 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2021-01-01
+  definition: the difference at a given moment in time between the total active input
+    power and the total active output power
+  examples: []
+  id: 411-53-09
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power losses (of a machine)
+    normative_status: preferred
+    type: expression
+  - designation: total loss (of a machine)
+    type: expression
+dateAccepted: 2021-01-01
+id: 4ca84f38-809c-51d1-888d-ad4f0d4182d1
+status: valid

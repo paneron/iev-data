@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: forme de {{télécommunication, IEV:701-01-05}} ayant pour objet la transmission
+    d'informations graphiques au fur et à mesure de leur tracé manuscrit et la reproduction
+    simultanée à distance sur un écran ou un autre support d'un terminal
+  examples: []
+  id: 701-01-10
+  language_code: fra
+  notes:
+  - Le terme "téléautographie" n'est utilisé en français que dans le cas où la reproduction
+    prend la forme d'un document graphique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: téléécriture
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: téléautographie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6d52de18-6677-5f38-9610-0ea094f4b9a4
+status: valid

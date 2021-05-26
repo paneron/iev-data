@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.11
+      original: IEC TS 80004-9:2017, 3.1.11
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2018-04-01
+  definition: series of conductors or conductive materials connected together by {{nanoscale,
+    IEV:511-01-03}} contacts that can pass electric energy
+  examples: []
+  id: 511-01-22
+  language_code: eng
+  notes: []
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanoscale electric interconnect
+    normative_status: preferred
+    type: expression
+  - designation: nanoscale interconnect
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: c8968869-55fb-5f40-a6f9-f63fb7cfd2d6
+status: valid

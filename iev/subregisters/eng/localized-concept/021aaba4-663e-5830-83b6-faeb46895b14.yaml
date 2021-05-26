@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: macroscopic quantum effect, occurring at low temperature in a two-dimensional
+    system of high-mobility electrons or holes, in which an applied magnetic field
+    induces between two points a voltage, the quotient of which by the electric current
+    through a line joining the two points assumes, over certain high-value ranges
+    of the magnetic flux density, quantized plateau values equal to `R`~K~/`n`, where
+    `R`~K~ = `h`/`e`^2^ is the von Klitzing constant and `n` an integer, `h` being
+    the Planck constant and `e` the elementary electric charge
+  examples: []
+  id: 121-12-85
+  language_code: eng
+  notes:
+  - The quotient of the voltage by the electric current is called Hall resistance.
+    The value of the von Klitzing constant is 25 812,807 557(18) Ω (CODATA, 2006).
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: integer quantum Hall effect
+    normative_status: preferred
+    type: expression
+  - designation: quantum Hall effect
+    type: expression
+dateAccepted: 2008-08-01
+id: 021aaba4-663e-5830-83b6-faeb46895b14
+status: valid

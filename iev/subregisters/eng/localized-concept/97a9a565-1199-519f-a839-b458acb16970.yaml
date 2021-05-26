@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: temporary malfunction occurring in a relay
+  examples: []
+  id: 444-07-03
+  language_code: eng
+  notes:
+  - A relay fault persists only a limited time after which the relay recovers the
+    ability to perform a required function without being subject to any corrective
+    maintenance (see the term "intermittent fault" in IEC 60050-191).
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (intermittent) relay fault
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-01-01
+id: 97a9a565-1199-519f-a839-b458acb16970
+status: valid

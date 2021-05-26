@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: nombre d'éléments numériques consécutifs dans le signal de sortie d'un
+    dispositif entre lesquels sont réparties les erreurs numériques quand une seule
+    erreur numérique dans le signal d'entrée correspondant donne lieu à une multiplication
+    d'erreurs
+  examples: []
+  id: 704-18-07
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: étalement d'erreurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: répartition des erreurs
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 21a642dc-b998-5be1-b8cb-184c95d6b4c9
+status: valid

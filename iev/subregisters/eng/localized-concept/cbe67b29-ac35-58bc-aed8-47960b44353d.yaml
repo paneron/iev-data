@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.16
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.16
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: '{{service, IEV:741-01-28}} to find unknown resources, {{entities, IEV:741-01-18}}
+    or services based on a specification of the desired target'
+  examples: []
+  id: 741-01-16
+  language_code: eng
+  notes:
+  - A discovery service can be used by a {{human user, IEV:741-01-20}} or a {{digital
+    user, IEV:741-01-15}}.
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: discovery service
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-04-01
+id: cbe67b29-ac35-58bc-aed8-47960b44353d
+status: valid

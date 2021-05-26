@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: ensemble d'unités fonctionnelles accessibles par l'intermédiaire d'un
+    réseau, appartenant à un même domaine de gestion et considéré comme un tout
+  examples: []
+  id: 732-01-15
+  language_code: fra
+  notes:
+  - Un site de réseau comprend généralement un serveur ou un client avec son environnement,
+    y compris des bases de données ou des assistants de réseau.
+  - Les sites de réseau peuvent être spécialisés pour des services particuliers, par
+    exemple des sites FTP, des sites Web, etc. ou simplement comprendre le client
+    d’un utilisateur.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: site de réseau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: site
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 6b8aa5e8-5973-59b6-a62a-ff1e02f7eac1
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: processus ou dispositif par lequel le {{gain, IEV:702-02-11}} d'un {{amplificateur,
+    IEV:151-13-50}} est asservi au niveau du {{signal, IEV:101-12-02}} {{de sortie,
+    IEV:151-15-14}} de façon à réduire les variations de ce niveau par rapport à celles
+    du signal {{d'entrée, IEV:151-15-13}}
+  examples: []
+  id: 702-04-38
+  language_code: fra
+  notes:
+  - Dans de nombreux cas, la commande automatique de gain est destinée à maintenir
+    sensiblement constant le niveau du signal de sortie.
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande automatique de gain
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: CAG
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: abe11baf-911b-5ea9-93ff-1b3fa254c3e7
+status: valid

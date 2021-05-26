@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: in a circulator having four or more ports, the attenuation between an
+    input port and any other port that is not adjacent to the input port according
+    to the order of sequence
+  examples: []
+  id: 221-05-28
+  language_code: eng
+  notes:
+  - The cross coupling should not be confused with the reverse loss occurring between
+    adjacent ports.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cross coupling
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 2742b008-3410-55c8-bb1e-4b88439947ed
+status: valid

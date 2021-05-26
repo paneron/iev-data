@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un bipôle inductif de bornes A et B, quotient du flux totalisé
+    `Ψ` entre les bornes par le courant électrique `i` dans le bipôle `L = (Psi)/(i)`
+    où le signe du flux totalisé est déterminé en prenant la tension électrique, dans
+    l'intégrale qui le définit, comme la différence des potentiels électriques en
+    A et B et où le courant est pris positif si le sens du courant est de A vers B
+    et négatif si son sens est de B vers A
+  examples: []
+  id: 131-12-19
+  language_code: fra
+  notes:
+  - Une inductance ne peut pas être négative.
+  - En français, le terme «inductance» désigne aussi elliptiquement une bobine d’inductance,
+    en anglais «inductor» ({{151-13-25, IEV:151-13-25}}).
+  - L’unité SI cohérente de l’inductance est le henry, H.
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2f67fb73-7c9a-58c5-ba04-dcfaf2ac4b86
+status: valid

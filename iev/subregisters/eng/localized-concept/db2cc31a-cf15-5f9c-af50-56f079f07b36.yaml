@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.9'
+      original: IEC Guide 109:2012, 3.9
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: compilation and evaluation of the {{input, IEV:901-07-05}}s, {{output,
+    IEV:901-07-06}}s and the potential {{environmental impacts, IEV:901-07-03}} of
+    a product system throughout its {{life cycle, IEV:901-07-12}} [ISO 14040:2006,
+    definition 3.2]
+  examples: []
+  id: 901-07-13
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: life cycle assessment
+    normative_status: preferred
+    type: expression
+  - designation: LCA
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: db2cc31a-cf15-5f9c-af50-56f079f07b36
+status: valid

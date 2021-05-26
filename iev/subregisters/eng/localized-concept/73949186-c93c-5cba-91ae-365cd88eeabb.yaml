@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of transmitted radiant flux, `Φ`~t~, and incident radiant flux,
+    `Φ`~m~ `tau = ((Phi_t))/((Phi_m))`
+  examples: []
+  id: 845-24-065
+  language_code: eng
+  notes:
+  - Transmittance is also defined spectrally in terms of wavelength, in which case
+    "spectral" is added before the quantity name.
+  - Due to energy conservation, `α` + `ρ` + `τ` = 1 except when <a href="IEV845-21-017">polarized
+    radiation</a> is observed, where `α` is absorptance and `ρ` is reflectance.
+  - 'Transmittance, `τ`, is the sum of regular transmittance, `τ`~r~, and diffuse
+    transmittance, `τ`~d~: `τ` = `τ`~r~ + `τ`~d~.'
+  - The transmittance has unit one.
+  - This entry was numbered 845-04-59 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmittance
+    normative_status: preferred
+    type: expression
+  - designation: '`τ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 73949186-c93c-5cba-91ae-365cd88eeabb
+status: valid

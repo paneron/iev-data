@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2015-02-01
+  definition: part of active corrective maintenance time taken to complete fault localization
+    image::/assets/images/parts/192/60050-192-F2en.png[Figure 2 - Maintenance times]
+  examples: []
+  id: 192-07-18
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fault localization time
+    normative_status: preferred
+    type: expression
+  - designation: fault location time
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: af6791b5-a06e-57a5-902e-97172f7d4f31
+status: valid

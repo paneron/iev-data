@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un bipôle, élémentaire ou non, en régime périodique, grandeur égale
+    à la racine carrée de la différence des carrés de la puissance apparente `S` et
+    de la puissance active `P` `Q_( ∼ ) = sqrt(S^2 - P^2)`
+  examples: []
+  id: 131-11-43
+  language_code: fra
+  notes:
+  - En régime sinusoïdal, la puissance non active est la valeur absolue de la puissance
+    réactive `Q` ou de la partie imaginaire de la puissance complexe `underset(_)(S)`,
+    soit `Q_( ∼ ) = | Q | = | Im underset(_)(S) |`.
+  - L’unité SI cohérente de puissance non active est le voltampère, VA. Le nom spécial
+    "var" et son symbole "var" sont aussi utilisés. Voir {{131-11-45, IEV:131-11-45}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance non active
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a186e4e5-8376-5731-bdad-14538b5e7b6e
+status: valid

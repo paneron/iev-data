@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 101-14-39
+      original: 101-14-39
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: valeur de la phase d'une grandeur sinusoïdale pour la valeur zéro de
+    la variable indépendante
+  examples: []
+  id: 141-01-02
+  language_code: fra
+  notes:
+  - Pour la grandeur `A`~m~ cos (`ωt` + `θ`~0~ ) la phase à l'origine est égale à
+    `θ`~0~.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase à l'origine
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: phase origine
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2004-08-01
+id: 1865d036-1682-5fa2-9752-652662f328e1
+status: valid

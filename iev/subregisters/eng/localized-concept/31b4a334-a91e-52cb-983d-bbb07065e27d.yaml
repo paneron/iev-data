@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: linear or non-linear relationship between the value of the output voltage
+    and the value of the output current for a specified load and for a fixed setting
+    of the controls
+  examples: []
+  id: 312-06-04
+  language_code: eng
+  notes:
+  - The load can be complex and/or non-linear.
+  - The load characteristic can also describe the effects of overload.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load characteristic
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 31b4a334-a91e-52cb-983d-bbb07065e27d
+status: valid

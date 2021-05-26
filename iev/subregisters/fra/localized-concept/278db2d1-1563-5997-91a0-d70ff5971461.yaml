@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: phénomène se produisant dans un système, lorsqu'un élément à action
+    par intégration est suivi par un élément non linéaire fonctionnant dans son domaine
+    de saturation; il en résulte un retard de la réponse de la variable de sortie
+    à un changement de signe de la variable d'entrée
+  examples: []
+  id: 351-45-17
+  language_code: fra
+  notes:
+  - Dans une boucle d'asservissement, ce retard dans la réponse de la variable de
+    sortie peut provoquer un dépassement excessif de la variable commandée.
+  - Cet article était numéroté 351-24-16 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: saturation d’intégrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 278db2d1-1563-5997-91a0-d70ff5971461
+status: valid

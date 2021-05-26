@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans un composite supraconducteur, puissance dissipée par suite de l'application
+    d'un champ magnétique ou d'un courant électrique variable avec le temps
+  examples: []
+  id: 815-13-52
+  language_code: fra
+  notes:
+  - Les pertes en courant alternatif incluent les pertes par hystérésis moyennées
+    dans le temps du supraconducteur, les pertes par courants de couplage ainsi que
+    les pertes par courants de Foucault du conducteur et les pertes par courants de
+    Foucault du matériau de structure.
+  - Les pertes en courant alternatif incluent également la puissance dissipée dans
+    un composite supraconducteur en raison de l’application de variations transitoires
+    de champ magnétique ou de courant.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pertes en courant alternatif
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: 0f2a2cf1-7295-5dd5-ad2b-6cd87118f609
+status: valid

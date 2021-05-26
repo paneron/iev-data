@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 191-21-03
+      original: 191-21-03
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2009-03-01
+  definition: ability of an electric power system to operate in such a way that credible
+    events do not give rise to loss of load, stresses of system components beyond
+    their ratings, bus voltages or system frequency outside tolerances, instability,
+    voltage collapse, or cascading
+  examples: []
+  id: 617-01-02
+  language_code: eng
+  notes:
+  - This ability may be measured by one or several appropriate indices.
+  - This concept is normally applied to bulk power systems.
+  - In North America, this concept is usually defined with reference to instability,
+    voltage collapse and cascading only.
+  reviewDate: 2009-03-01
+  reviewDecisionDate: 2009-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: security
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-03-01
+id: 2cda81a7-d6fb-56d0-afc6-412a11d1b42b
+status: valid

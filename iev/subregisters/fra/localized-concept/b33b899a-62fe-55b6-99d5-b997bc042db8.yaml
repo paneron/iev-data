@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.16
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.16
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  definition: durée maximale pendant laquelle on peut appliquer au dispositif de coupure
+    différentiel un courant différentiel supérieure à la valeur du courant différentiel
+    de non-fonctionnement, sans provoquer son fonctionnement effectif
+  examples: []
+  id: 442-05-23
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps limite de non-réponse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b33b899a-62fe-55b6-99d5-b997bc042db8
+status: valid

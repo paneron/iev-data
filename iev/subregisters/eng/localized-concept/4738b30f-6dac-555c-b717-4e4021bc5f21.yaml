@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the emergency luminous flux of the electric lamp supplied
+    by the emergency ballast and the luminous flux of the same electric lamp operated
+    with the appropriate reference ballast at its rated voltage and frequency
+  examples: []
+  id: 845-29-083
+  language_code: eng
+  notes:
+  - The emergency mode ballast lumen factor is the minimum of the values measured
+    from the point of failure of the normal power supply continuously to the end of
+    the rated time duration.
+  - The emergency mode ballast lumen factor has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: emergency mode ballast lumen factor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 4738b30f-6dac-555c-b717-4e4021bc5f21
+status: valid

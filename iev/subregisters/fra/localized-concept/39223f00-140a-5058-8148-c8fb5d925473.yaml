@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.14
+      original: IEC TS 80004-9:2017, 3.1.14
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  definition: '{{transistor, IEV:521-04-46}} dans lequel le courant transmis peut
+    être contrôlé jusqu''à un seul électron'
+  examples: []
+  id: 511-01-25
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: transistor à un électron
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 39223f00-140a-5058-8148-c8fb5d925473
+status: valid

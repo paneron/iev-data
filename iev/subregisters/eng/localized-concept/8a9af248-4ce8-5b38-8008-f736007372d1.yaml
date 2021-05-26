@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: effective irradiance with the spectral irradiance, `Eλ`, spectrally
+    weighted with the ultraviolet hazard spectral weighting function, `S`~UV~(`λ`)
+  examples: []
+  id: 845-26-052
+  language_code: eng
+  notes:
+  - The wavelength range for ultraviolet hazard irradiance is specified in ICNIRP-recommendations
+    as `λ` = 180 nm to `λ` = 400 nm.
+  - The ultraviolet hazard irradiance is expressed in watt per square metre (W·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ultraviolet hazard irradiance
+    normative_status: preferred
+    type: expression
+  - designation: '`ES`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 8a9af248-4ce8-5b38-8008-f736007372d1
+status: valid

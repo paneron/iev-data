@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: average value of the instantaneous failure rate over a given time interval
+    (`t`~1~, `t`~2~) `bar lambda ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2)
+    lambda ( t ) d t`
+  examples: []
+  id: 192-05-07
+  language_code: eng
+  notes: []
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean failure rate
+    normative_status: preferred
+    type: expression
+  - designation: average failure rate
+    normative_status: preferred
+    type: expression
+  - designation: '`bar lambda ( t_1 , t_2 )`'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: 499eda92-5c11-58c8-a0d2-f043ebc13bb5
+status: valid

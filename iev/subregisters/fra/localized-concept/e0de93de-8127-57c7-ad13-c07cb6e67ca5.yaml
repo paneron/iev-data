@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: interface qui relie un {{véhicule à pile à combustible, IEV:485-09-25}}
+    et une station service d'alimentation en combustible
+  examples: []
+  id: 485-09-09
+  language_code: fra
+  notes:
+  - Le connecteur d'approvisionnement peut aussi alimenter en eau de refroidissement
+    et en informations de communication relatives à l'alimentation en combustible.
+    Le connecteur au combustible est composé d'une buse et d'un socle d'approvisionnement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: connecteur d'approvisionnement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e0de93de-8127-57c7-ad13-c07cb6e67ca5
+status: valid

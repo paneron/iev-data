@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-07-01
+  definition: relative change in length due to a change in thermodynamic temperature
+    divided by the change in temperature `alpha = ((l_T – l_((ref))))/((l_((ref))
+    ( T – T_((ref)) )))` where `l`~`T`~ is the length at temperature `T`; `l`~ref~
+    is the length at reference temperature `T`~ref~
+  examples: []
+  id: 561-06-08
+  language_code: eng
+  notes:
+  - The coefficient of linear thermal expansion is generally expressed in megakelvins
+    to the power minus one (1/MK).
+  reviewDate: 2016-07-01
+  reviewDecisionDate: 2016-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient of linear thermal expansion
+    normative_status: preferred
+    type: expression
+  - designation: '`α`'
+    international: true
+    type: symbol
+dateAccepted: 2016-07-01
+id: 365d368e-5c13-5abc-9ffa-2cfbf467f7d4
+status: valid

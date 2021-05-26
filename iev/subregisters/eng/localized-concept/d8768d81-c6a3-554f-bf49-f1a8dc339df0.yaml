@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1983-01-01
+  definition: of a charged particle in a medium; the quotient of d`E` by d`l` where
+    d`l` is the distance traversed by a particle and d`E` is the energy loss due to
+    collisions with energy transfer less than a specified value `Δ` usually expressed
+    in electron volts `L_(Delta) = (( ((d E))/((d l)) ))_(Delta)`
+  examples: []
+  id: 881-12-53
+  language_code: eng
+  notes:
+  - 'Although the definition specifies an energy cutoff and not a range cutoff the
+    energy losses are sometimes called "energy locally imparted".
+
+
+    Examples: `L`~100~ means linear energy transfer for collisions with energy transfers
+    less than 100 eV; `L`~∞~ means linear energy transfer when all possible energy
+    transfers are included.
+
+
+    `L`~∞~ = `S`~col~'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linear energy transfer
+    normative_status: preferred
+    type: expression
+  - designation: restricted linear collision stopping power
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~`Δ`~'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: d8768d81-c6a3-554f-bf49-f1a8dc339df0
+status: valid

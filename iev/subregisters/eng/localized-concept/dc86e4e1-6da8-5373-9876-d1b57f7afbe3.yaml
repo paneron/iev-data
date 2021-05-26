@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.46
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.46
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: sequence which ends a frame before the medium returns to idle
+  examples: []
+  id: 811-37-32
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: end delimiter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: dc86e4e1-6da8-5373-9876-d1b57f7afbe3
+status: valid

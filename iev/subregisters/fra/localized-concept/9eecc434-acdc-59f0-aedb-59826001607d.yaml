@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension caractérisant le transfert thermique par convection
+    libre dans un fluide, définie par `G r = ((l^3 g alpha_V Delta T))/((nu^2))`,
+    où `l` est une longueur spécifiée, `g` est l'accélération due à la pesanteur,
+    `α`~`V`~ est le coefficient de dilatation volumique, Δ`T` est la différence de
+    température thermodynamique et `ν` est la viscosité cinématique
+  examples: []
+  id: 113-04-42
+  language_code: fra
+  notes: []
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de Grashof
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 9eecc434-acdc-59f0-aedb-59826001607d
+status: valid

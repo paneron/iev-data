@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.29
+      link: https://webstore.iec.ch/publication/26973
+      original: IEC 60947-1, definition 2.5.29 MOD
+      ref: IEC 60947-1
+      relationship:
+        type: modified
+  dateAmended: 2010-10-01
+  definition: prospective electric current that a contact circuit, protected by a
+    specified short-circuit protective device, can satisfactorily withstand for the
+    total breaking time of that protective device under specified conditions of use
+    and behaviour
+  examples: []
+  id: 445-04-03
+  language_code: eng
+  notes: []
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conditional short-circuit current of an output circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: f97fdb31-811a-5e5b-8b85-a8db5b491695
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: optional measure of the frequency stability in the frequency domain
+  examples: []
+  id: 561-03-13
+  language_code: eng
+  notes:
+  - Incidental frequency modulation is best described in terms of the spectrum of
+    the resultant base-band signal obtained by applying the oscillator signal to an
+    ideal discriminator circuit of specified characteristics.
+  - If the detection bandwidth is adequately specified, the incidental frequency modulation
+    may be expressed as a fractional proportion of the output frequency (for example
+    2 x 10^–8^ rms in a 10 kHz band).
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: incidental frequency modulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 1a3167de-8b62-5b2b-a1e9-5391fe160f3c
+status: valid

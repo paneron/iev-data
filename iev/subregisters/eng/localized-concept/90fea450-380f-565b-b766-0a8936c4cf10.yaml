@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: duration between consecutive failures
+  examples: []
+  id: 192-05-03
+  language_code: eng
+  notes:
+  - The time between failures includes the up time and the down time.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: time between failures
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: 90fea450-380f-565b-b766-0a8936c4cf10
+status: valid

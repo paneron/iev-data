@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: one of a set of linearly independent vectors, the sum of which is equal
+    to a given vector
+  examples:
+  - '* for a given vector `U = U_1 a_1 + U_2 a_2 + ... + U_n a_n`, where `U_1 , U_2
+    , ... , U_n` are the coordinates of *`U`* and `a_1 , a_2 , ... , a_n` are the
+    base vectors, any of the vectors `U_1 a_1 , U_2 a_2 , ... , U_n a_n`,
+
+
+    * the projections of a vector normal and tangential to a surface (normal component
+    and tangential component).'
+  id: 102-03-10
+  language_code: eng
+  notes:
+  - In English, the term "component vector" may be used if "component" is used in
+    the sense of "coordinate" (see Note 2 to entry in {{IEV 102-03-09, IEV:102-03-09}}).
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: component
+    normative_status: preferred
+    type: expression
+    usage_info: of a vector
+dateAccepted: 2017-07-01
+id: 229da392-638b-522a-811c-da857e0ce195
+status: valid

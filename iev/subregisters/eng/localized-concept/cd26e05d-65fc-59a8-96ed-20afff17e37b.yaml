@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: product of the Planck constant and {{frequency, IEV:103-06-02}} `Q`~p~
+    = `h`·`ν` where `h` is the Planck constant and `ν` is the frequency of the corresponding
+    electromagnetic wave
+  examples: []
+  id: 845-21-042
+  language_code: eng
+  notes:
+  - Photon energy can be emitted, transferred or received.
+  - The energy of <a href="IEV845-21-014">monochromatic radiation</a>, `Q`~PF~, by
+    a photon flux of photons of frequency `ν` is equal to the photon number, `N`~p~,
+    times the photon energy (`Q`~PF~ = `N`~p~·`h`·`ν`).
+  - The corresponding radiometric quantity is "radiant energy". The corresponding
+    photometric quantity is "<a href="IEV845-21-037">luminous energy</a>".
+  - The photon energy is expressed in joule (J = W·s).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photon energy
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`~p~
+
+      `Q`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: cd26e05d-65fc-59a8-96ed-20afff17e37b
+status: valid

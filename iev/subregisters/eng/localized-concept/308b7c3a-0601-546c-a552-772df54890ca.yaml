@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: logarithm of the ratio of a given sound pressure to the reference sound
+    pressure. Sound pressure level in decibels is 20 times the logarithm to the base
+    ten of the ratio
+  examples: []
+  id: 801-22-07
+  language_code: eng
+  notes:
+  - Unless otherwise specified, the reference sound pressure is 20 μPа for airborne
+    sound and 1 μPa for sound in media other than air.
+  - Unless otherwise specified, the sound pressures are understood to be expressed
+    in root-mean-square values.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sound pressure level
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 308b7c3a-0601-546c-a552-772df54890ca
+status: valid

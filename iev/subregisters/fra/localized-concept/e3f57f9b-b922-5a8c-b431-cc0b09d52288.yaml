@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: région centrale de la section droite d'une fibre optique dans laquelle
+    l'indice de réfraction dépasse partout, sauf éventuellement dans un creux central
+    d'indice, celui de la gaine homogène la plus interne augmenté d'une fraction spécifiée
+    de la différence entre l'indice maximal dans le coeur et l'indice de la gaine
+    homogène la plus interne
+  examples: []
+  id: 731-02-22
+  language_code: fra
+  notes:
+  - 'La zone de coeur est la plus petite section droite de la fibre, à l''exclusion
+    d''un éventuel creux central d''indice, comprise à l''intérieur du lieu des points
+    pour lesquels l''indice de réfraction `n`~3~ est donné par la formule:
+
+
+    `n`~3~ = `n`~2~ + `k` (`n`~1~ – `n`~2~)
+
+
+    où:
+
+
+    `n`~1~ est l''indice de réfraction maximal dans le coeur,
+
+
+    `n`~2~ est l''indice de réfraction de la gaine homogène la plus interne,
+
+
+    `k` est une constante, généralement comprise entre 0 et 0,05.'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de coeur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: e3f57f9b-b922-5a8c-b431-cc0b09d52288
+status: valid

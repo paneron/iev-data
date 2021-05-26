@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '4.5'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 4.5
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{organisme, IEV:901-03-01}} qui exerce des prérogatives légales'
+  examples: []
+  id: 901-03-10
+  language_code: fra
+  notes:
+  - Une autorité peut être régionale, nationale ou locale.
+  reviewDecisionEvent: published
+  terms:
+  - designation: autorité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a0d8d942-eca1-58ef-9e79-711fb231ba35
+status: valid

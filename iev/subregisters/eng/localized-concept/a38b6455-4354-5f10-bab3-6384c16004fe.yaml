@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 603-05-08
+      link: https://webstore.iec.ch/publication/227
+      original: IEC 60050-603:1986, 603-05-08, modified – Definition revised to refer
+        to the concept unplanned outage defined in 692-04-04
+      ref: IEC 60050-603:1986
+      relationship:
+        modification: Definition revised to refer to the concept unplanned outage
+          defined in 692-04-04
+        type: modified
+  dateAmended: 2017-12-01
+  definition: '{{unplanned outage, IEV:692-04-04}} that cannot be deferred image::/assets/images/parts/692/692-fig4-en.png[Figure
+    4 - Outage relationships]'
+  examples: []
+  id: 692-04-05
+  language_code: eng
+  notes:
+  - A forced outage can be initiated by automatic or manual means. In the former case,
+    it is referred to as forced automatic and in the latter case as forced manual.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: forced outage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: a38b6455-4354-5f10-bab3-6384c16004fe
+status: valid

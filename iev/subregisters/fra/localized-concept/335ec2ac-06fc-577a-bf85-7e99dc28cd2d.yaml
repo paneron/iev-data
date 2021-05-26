@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: qualifie deux fonctions dont le produit interne, éventuellement pondéré,
+    est nul
+  examples: []
+  id: 103-01-10
+  language_code: fra
+  notes:
+  - L'orthogonalité de deux fonctions est analogue à celle de deux vecteurs (voir
+    IEC 60050-102, {{102-03-26, IEV:102-03-26}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: orthogonal
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 335ec2ac-06fc-577a-bf85-7e99dc28cd2d
+status: valid

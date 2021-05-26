@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: mean of the CIE 1974 special colour rendering indices for a specified
+    set of eight test colour samples
+  examples: []
+  id: 845-22-111
+  language_code: eng
+  notes:
+  - See also CIE 13, _Method of Measuring and Specifying Colour Rendering of Light
+    Sources_.
+  - This entry was numbered 845-02-63 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: CIE 1974 general colour rendering index
+    normative_status: preferred
+    type: expression
+  - designation: '`R`~a~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: eabfc288-643d-5268-8ac9-e98cc0c92496
+status: valid

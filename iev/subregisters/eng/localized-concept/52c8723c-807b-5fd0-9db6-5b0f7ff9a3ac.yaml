@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of photon flux with respect to solid angle in a specified direction
+    `I_p = ((d Phi_p))/((d omega))` where `Φ`~p~ is the photon flux emitted in the
+    given direction, and `Ω` is the solid angle containing that direction
+  examples: []
+  id: 845-21-046
+  language_code: eng
+  notes:
+  - 'The distribution of the photon intensities as a function of the direction of
+    emission, e.g. given by the polar angles (`ϑ`, `φ`), is used to determine the
+    photon flux, `Φ`~p~, within a certain solid angle, `Ω`, of a source:
+
+
+    `Phi_p = underset(omega)( ∬ ) I_p ( vartheta , phi ) sin vartheta \ d phi \ d
+    vartheta`.'
+  - The corresponding radiometric quantity is "radiant intensity". The corresponding
+    photometric quantity is "luminous intensity".
+  - The photon intensity is expressed in second to the power minus one times steradian
+    to the power minus one (s^−1^·sr^−1^).
+  - This entry was numbered 845-01-32 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photon intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~p~
+
+      `I`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 52c8723c-807b-5fd0-9db6-5b0f7ff9a3ac
+status: valid

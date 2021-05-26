@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: modèle mathématique utilisant les informations sur les conditions de
+    vision afin d'estimer l'aspect subjectif d'un motif de couleurs à partir des mesurages
+    colorimétriques de ce motif et de son environnement
+  examples: []
+  id: 845-32-002
+  language_code: fra
+  notes:
+  - Les informations sur les conditions de vision incluent le <a href="IEV845-32-033">point
+    blanc adopté</a>.
+  reviewDecisionEvent: published
+  terms:
+  - designation: modèle d'aspect chromatique à stimulus unique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a281a34f-626d-5e66-93d9-8ef989171b2f
+status: valid

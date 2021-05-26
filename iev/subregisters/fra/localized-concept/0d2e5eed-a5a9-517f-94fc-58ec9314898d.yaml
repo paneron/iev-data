@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intégrale par rapport au temps de la luminance photonique, `L`~p~, pendant
+    une durée donnée, Δ`t` `L_((p , t)) = underset((Delta t))( int ) L_p d t`
+  examples: []
+  id: 845-21-070
+  language_code: fra
+  notes:
+  - La grandeur radiométrique correspondante est la "dose de luminance énergétique".
+    La grandeur photométrique correspondante est la "dose de luminance".
+  - La dose de luminance photonique est exprimée en mètre à la puissance moins deux
+    par stéradian (m^−2^·sr^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: dose de luminance photonique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0d2e5eed-a5a9-517f-94fc-58ec9314898d
+status: valid

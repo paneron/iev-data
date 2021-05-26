@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: criterion (or requirement) applied to a system such that it must be
+    capable of performing its task in the presence of any single failure
+  examples:
+  - ".  Any single detectable failure within the safety systems concurrent with all\
+    \ identifiable, but non detectable failures. \n\n.  All failures caused by the\
+    \ single failure. \n\n.  All failures and spurious system actions that cause,\
+    \ or are caused by, the design basis event requiring the safety function."
+  id: 395-07-90
+  language_code: eng
+  notes:
+  - The single failure could occur prior to, or at any time during, the design basis
+    event for which the safety system is required to function.
+  - This entry was numbered 393-18-27 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: single failure criterion
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 415b33cf-fd91-5866-ae9b-f2813064bd20
+status: valid

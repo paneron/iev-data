@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: relatif à un {{programme d'ordinateur, IEV:171-05-05}} ou une partie
+    de programme d'ordinateur sous forme exécutable que l'on peut exécuter de façon
+    répétée, éventuellement avant l'achèvement d'une exécution antérieure, sans que
+    ni ses {{instructions, IEV:171-05-08}}, ni ses paramètres externes ne soient modifiés
+    pendant son exécution
+  examples: []
+  id: 171-05-61
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: réentrant
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: rentrant
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: f6a142c8-e7c2-595c-a64e-6e86045405b4
+status: valid

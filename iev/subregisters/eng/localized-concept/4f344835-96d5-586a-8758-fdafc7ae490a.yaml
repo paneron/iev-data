@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: for a gamma or X-ray emitting nuclide, the quotient of `l^2 (( ((d X))/((d
+    t)) ))_(delta)` by `A`, where (d`Х`/d`t`)~`δ`~ is the exposure rate due to photons
+    of energy greater than `δ` at a distance `I` from a point source of this nuclide
+    having an activity `A` `Gamma_(delta) = ((l^2))/(A) (( ((d X))/((d t)) ))_(delta)`
+    A special unit of exposure rate constant is Rm^2^h^−1^Ci^−1^.
+  examples: []
+  id: 881-04-54
+  language_code: eng
+  notes:
+  - It is assumed that the attenuation in the source and along `I` is negligible.
+    In the case of radium, the value of `Γ` is determined for a filter thickness of
+    0,5 mm platinum. Moreover, `Γ` is related not to the activity but to the mass
+    of ^226^Ra; a special unit is then Rm^2^h^−1^g^−1^.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposure rate constant
+    normative_status: preferred
+    type: expression
+  - designation: '`Γδ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 4f344835-96d5-586a-8758-fdafc7ae490a
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: definition 416
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 416, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: neutron of kinetic energy greater than the cadmium cut-off energy
+  examples: []
+  id: 395-02-16
+  language_code: eng
+  notes:
+  - The cut-off energy, for a given experimental configuration, is determined by the
+    condition that, if a cadmium cover surrounding a detector were replaced by a fictitious
+    cover opaque to neutrons with energy below this value and transparent to neutrons
+    with energy above this value, the observed detector response would be unchanged.
+  - This entry was numbered 393-12-76 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: epicadmium neutron
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: cd633dde-297a-5bbc-b0ba-aa74b5e352fd
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 212-01-01
+      original: 212-01-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - link: https://webstore.iec.ch/publication/169
+      original: IEC 60050-121
+      ref: IEC 60050-121
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: material used to prevent electric conduction between conductive elements
+  examples: []
+  id: 151-15-35
+  language_code: eng
+  notes:
+  - In the field of electromagnetism the term "insulant" is also used as a synonym
+    for "insulating medium".
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: insulating material
+    normative_status: preferred
+    type: expression
+  - designation: insulant
+    type: expression
+dateAccepted: 2001-07-01
+id: 53b5e050-265f-56b2-b637-6c7643822bd1
+status: valid

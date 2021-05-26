@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: surface d'un seul tenant qui sépare les points de l'espace n'appartenant
+    pas à la surface en une région bornée intérieure et une région non bornée extérieure
+    de façon que le segment de droite joignant un point intérieur et un point extérieur
+    coupe la surface en au moins un point
+  examples: []
+  id: 102-04-32
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface fermée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7165b7f9-3748-56dd-87ed-be75180d89d3
+status: valid

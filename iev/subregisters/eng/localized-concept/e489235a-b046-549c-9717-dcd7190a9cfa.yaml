@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-10-01
+  definition: '{{vector product, IEV:102-03-36}} of the {{electric field strength,
+    IEV:121-11-18}} `*E*` and the {{magnetic field strength, IEV:121-11-56}} `*H*`
+    of the {{electromagnetic field, IEV:121-11-61}} at a given point `*S*` = `*E*`
+    × `*H*`'
+  examples: []
+  id: 121-11-66
+  language_code: eng
+  notes:
+  - The flux of the Poynting vector through a closed surface is equal to the electromagnetic
+    power passing through this surface.
+  - For a periodic electromagnetic field, the time average of the Poynting vector
+    is a vector the direction of which, with certain reservations, can be considered
+    as being the {{direction of propagation, IEV:705-02-15}} of {{electromagnetic
+    energy, IEV:121-11-64}} and the {{magnitude, IEV:102-03-23}} can be considered
+    as being the average {{power flux density, IEV:705-02-03}}.
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Poynting vector
+    normative_status: preferred
+    type: expression
+  - designation: '`*S*`'
+    international: true
+    type: symbol
+dateAccepted: 2019-10-01
+id: e489235a-b046-549c-9717-dcd7190a9cfa
+status: valid

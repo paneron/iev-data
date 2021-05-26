@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: état dans lequel les {{trames, IEV:704-14-01}} produites par un appareil
+    de réception ont une relation de phase constante voulue avec celles du {{signal,
+    IEV:101-12-02}} reçu, de sorte que les différents {{créneaux temporels, IEV:704-13-08}}
+    de chaque trame peuvent être identifiés sans ambiguïté
+  examples: []
+  id: 704-14-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: verrouillage de trame
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 966f5b9b-daec-5712-9503-1d09659efedf
+status: valid

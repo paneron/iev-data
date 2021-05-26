@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: définition 823
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 823, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: réaction nucléaire provoquée par des neutrons, des rayonnements gamma
+    ou des particules chargées dont le résultat est la division du noyau atomique
+    en deux fragments (plus rarement trois) dont la masse est du même ordre de grandeur
+    et qui s'accompagne de l'émission de neutrons, de rayonnements gamma et d'une
+    quantité d'énergie élevée
+  examples: []
+  id: 395-02-67
+  language_code: fra
+  notes:
+  - Pour certains radionucléides la fission nucléaire peut se produire naturellement
+    et elle est appelée fission spontanée.
+  - Cet article était numéroté 393-12-38 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fission nucléaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fission
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3d443a42-eaa2-587b-b7ff-bf12152c7346
+status: valid

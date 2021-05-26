@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: codage en ligne utilisé notamment dans le système à disque compact,
+    remplaçant chaque octet par un bloc de quatorze bits, afin d'optimiser le débit
+    binaire de la voie
+  examples: []
+  id: 807-01-12
+  language_code: fra
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code huit à quatorze
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: EFM
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: d64f7de5-e26b-5f8c-a327-dc810f4a1d0f
+status: valid

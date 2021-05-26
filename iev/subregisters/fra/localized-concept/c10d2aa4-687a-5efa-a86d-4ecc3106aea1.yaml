@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - - clause: 723-02-54
+      original: 723-02-54
+      ref: IEV
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 1994-08-01
+  definition: réception des émissions de radiodiffusion de Terre, de radiodiffusion
+    par satellite au moyen d'installations destinées à un groupe du public en général,
+    soit dans un même lieu, soit en utilisant un réseau de télédistribution desservant
+    une zone limitée
+  examples: []
+  id: 725-12-44
+  language_code: fra
+  notes:
+  - 'La radiodiffusion par satellite avec réception communautaire ne doit pas être
+    confondue avec la distribution directe par satellite.
+
+
+    image::/assets/images/parts/725/725-12fr.gif[]'
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réception communautaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réception collective
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-08-01
+id: c10d2aa4-687a-5efa-a86d-4ecc3106aea1
+status: valid

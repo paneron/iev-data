@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: puissance fournie à la ligne d'alimentation de l'antenne par un émetteur
+    radioélectrique en l'absence de modulation
+  examples: []
+  id: 713-09-20
+  language_code: fra
+  notes:
+  - Pour certains types de signaux modulants ou de modulateurs, la notion de puissance
+    en porteuse n'a pas de sens.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: puissance (en) porteuse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 87bac8e3-4a74-5c86-b47f-4a7dd0ec8e9f
+status: valid

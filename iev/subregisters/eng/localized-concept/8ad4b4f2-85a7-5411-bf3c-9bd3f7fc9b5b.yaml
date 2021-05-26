@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-10-01
+  definition: See {{IEV 161-01-12, IEV:161-01-12}}
+  examples: []
+  id: 713-11-03
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: radio noise
+    normative_status: preferred
+    type: expression
+  - designation: radio-frequency noise
+    normative_status: preferred
+    type: expression
+  - designation: RF noise
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-10-01
+id: 8ad4b4f2-85a7-5411-bf3c-9bd3f7fc9b5b
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: square matrix of order `n` with elements `A`~`ij`~, for which the `n`
+    vectors *`V`*~`i`~ with coordinates being the elements of row `i`, i.e. `A`~`i`1~,
+    `A`~`i`2~, …, `A`~`in`~, are linearly independent
+  examples: []
+  id: 102-06-14
+  language_code: eng
+  notes:
+  - It is equivalent to consider the `n` vectors associated with the columns.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: regular matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: fdfcf69b-17bd-5903-b28c-fe97c59cf95c
+status: valid

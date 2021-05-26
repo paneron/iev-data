@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2020-02-01
+  definition: component located on each of the two ends of the {{fuel cell stack,
+    IEV:485-06-01}}, serving to transmit the required compression to the stacked cells
+  examples: []
+  id: 485-06-06
+  language_code: eng
+  notes:
+  - An end plate can comprise ports, ducts, and {{manifolds, IEV:485-06-15}} for the
+    supply of fluids (reactants, coolant) to the fuel cell stack. The direction of
+    current flow is typically perpendicular to the end plates.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: end plate
+    normative_status: preferred
+    type: expression
+  - designation: stack end frame
+    normative_status: admitted
+    type: expression
+  - designation: compression end plate
+    normative_status: admitted
+    type: expression
+  - designation: clamping plate
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-02-01
+id: 17ad5c8c-4e2c-5e02-b8b8-3ffa030aad71
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: variation of output current with the applied voltage for a given radiation
+    used to determine the saturation current and voltage
+  examples: []
+  id: 395-03-79
+  language_code: eng
+  notes:
+  - This curve is used to determine the operating point of the detector.
+  - This entry was numbered 394-38-32 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: saturation curve
+    normative_status: preferred
+    type: expression
+    usage_info: in a current ionization chamber
+dateAccepted: 2014-03-01
+id: 7e429285-b8fd-5531-881a-4b41ca7da01f
+status: valid

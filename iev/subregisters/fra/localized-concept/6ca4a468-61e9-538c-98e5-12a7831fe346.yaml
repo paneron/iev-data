@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: définition 60
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 60, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: quotient de `E` par `bar N`, où `bar N` est le nombre moyen de paires
+    d'ions formées quand l'énergie cinétique initiale `E` d'une particule chargée
+    est complètement dissipée `W_i = E // bar N`
+  examples: []
+  id: 395-01-31
+  language_code: fra
+  notes:
+  - Cette grandeur s'exprime en joules (J) ou en électronvolts (eV).
+  - Cet article était numéroté 393-14-54 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: perte moyenne d’énergie par paire d’ions formée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans une substance
+dateAccepted: 2018-11-17
+id: 6ca4a468-61e9-538c-98e5-12a7831fe346
+status: valid

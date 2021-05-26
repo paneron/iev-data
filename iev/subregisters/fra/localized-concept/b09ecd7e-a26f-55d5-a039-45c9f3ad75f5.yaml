@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: 'coefficient de proportionnalité `R`~H~ dans la relation quantitative
+    de l''effet Hall : `vec E_H = R_H ( vec J xx vec B )` où `vec E_H` est le champ
+    électrique transversal résultant `vec J` est la densité de courant `vec B` est
+    l''inductance magnétique'
+  examples: []
+  id: 521-09-02
+  language_code: fra
+  notes:
+  - Le type de porteurs majoritaires peut généralement être déduit du signe du coefficient
+    de Hall.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de Hall
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: b09ecd7e-a26f-55d5-a039-45c9f3ad75f5
+status: valid

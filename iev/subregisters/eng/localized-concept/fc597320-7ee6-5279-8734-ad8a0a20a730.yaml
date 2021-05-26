@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.2'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 3.2
+      ref: IEC 62542:2013
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: set of {{components, IEV:151-11-21}}, at least one of which is an {{electronic
+    component, IEV:904-01-09}}, assembled into a single unit
+  examples:
+  - Group of components mounted on a printed circuit board.
+  id: 904-01-08
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electronic assembly
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: fc597320-7ee6-5279-8734-ad8a0a20a730
+status: valid

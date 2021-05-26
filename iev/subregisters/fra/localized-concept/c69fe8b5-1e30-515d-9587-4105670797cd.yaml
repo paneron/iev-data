@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: valeur d'une fonction correspondant à un {{minimum local, IEV:103-05-16}}
+  examples: []
+  id: 103-05-17
+  language_code: fra
+  notes:
+  - Une valeur minimale locale de la fonction `f` est notée `f_((m i n))` ou `overset(⌣)(f)`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur minimale locale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: valeur minimale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c69fe8b5-1e30-515d-9587-4105670797cd
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: relation between the <a href="IEV845-21-080">radiant exitance</a>, `M`~e~,
+    of a Planckian radiator and its temperature, `T`, given by `M`~e~ = `σ` `T`^4^
+    where `σ` is the Stefan-Boltzmann constant and `T` is the thermodynamic temperature
+  examples: []
+  id: 845-24-007
+  language_code: eng
+  notes:
+  - The Stefan-Boltzmann constant can be calculated by `sigma = ((2 pi^5 k^4))/((15
+    h^3 c_0^2))` where `h` is the Planck constant, `c`~0~ is the {{speed of light
+    in vacuum, IEV:113-01-34}}, and `k` is the Boltzmann constant.
+  - For the value of the Stefan-Boltzmann constant, `σ,` see CODATA.
+  - This entry was numbered 845-04-07 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Stefan-Boltzmann's law
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: b05ed4f4-b21e-5419-81e5-cf3e3aa5cdf8
+status: valid

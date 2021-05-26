@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: pente ou arrondi du périmètre d'une plaquette
+  examples: []
+  id: 561-07-03
+  language_code: fra
+  notes:
+  - Le processus de création d’un biseau est appelé «biseautage» ou «arrondi d’arête».
+  - Il convient que le fournisseur précise le biseau et ses tolérances.
+  reviewDecisionEvent: published
+  terms:
+  - designation: biseau
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: profil des bords
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6b1ac2ca-5f40-5c11-ba02-374e7a2cf94c
+status: valid

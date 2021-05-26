@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: concentration of flammable gas or vapour in air, above which an explosive
+    gas atmosphere does not form
+  examples: []
+  id: 426-02-10
+  language_code: eng
+  notes:
+  - For the purposes of {{Ex Equipment, IEV:426-01-14}}, this was previously referred
+    to as the upper explosive limit (UEL).
+  - The concentration can be expressed as either a volume fraction or a mass per unit
+    volume.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: upper flammable limit
+    normative_status: preferred
+    type: expression
+  - designation: UFL
+    type: expression
+dateAccepted: 2020-03-01
+id: 32a2d9ab-6b78-53e8-9325-a52a0ddd324c
+status: valid

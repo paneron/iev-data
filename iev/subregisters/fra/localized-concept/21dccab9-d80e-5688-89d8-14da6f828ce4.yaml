@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: déphasage exprimé en fonction de la pulsation `ω`
+  examples: []
+  id: 351-45-46
+  language_code: fra
+  notes:
+  - Dans une représentation graphique, la différence de phase est généralement tracée
+    en fonction de la valeur logarithmique de la pulsation `ω` (voir Figure 10).
+  - La réponse en phase est l'argument de la réponse en fréquence.
+  - 'Cet article était numéroté 351-24-38 dans la CEI 60050-351:2006.
+
+
+    <simg>
+
+
+    *Figure 10 – Open-loop frequency response characteristic; Bode diagram; Bode chart*
+
+
+    *Figure 10 – Courbes de réponse en fréquence en boucle ouverte; diagramme de Bode*</simg>'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réponse en phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 21dccab9-d80e-5688-89d8-14da6f828ce4
+status: valid

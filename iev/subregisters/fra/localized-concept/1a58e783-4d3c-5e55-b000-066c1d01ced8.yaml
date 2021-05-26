@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: élément électrochimique destiné à produire de l'énergie électrique
+  examples: []
+  id: 114-03-02
+  language_code: fra
+  notes:
+  - Voir le vocabulaire des piles et accumulateurs dans la CEI 60050-482.
+  - 'Cet article était numéroté 111-15-11 dans la CEI 60050-111:1996. Il a été modifié
+    comme suit: le terme « cellule galvanique » a été ajouté comme synonyme.'
+  - Ce concept est désigné par « élément » dans la CEI 60050-482:2004, 482-01-01.
+  reviewDecisionEvent: published
+  terms:
+  - designation: générateur électrochimique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cellule galvanique
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1a58e783-4d3c-5e55-b000-066c1d01ced8
+status: valid

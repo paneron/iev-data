@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: excitation équivalente au bruit lorsque la grandeur mesurée ou détectée
+    à l'aide du récepteur est un flux énergétique
+  examples: []
+  id: 845-25-070
+  language_code: fra
+  notes:
+  - Le flux énergétique équivalent au bruit est exprimé en watt (W).
+  - Cet article était numéroté 845-05-63 dans l'IEC 60050-845:1987.
+  - Le terme abrégé "NEP" est dérivé du terme anglais développé correspondant "noise
+    equivalent power".
+  reviewDecisionEvent: published
+  terms:
+  - designation: flux énergétique équivalent au bruit
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur
+  - designation: NEP
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d2b4e6b6-c0f4-500d-9a8a-9637f7b45574
+status: valid

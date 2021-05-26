@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: fonction complexe de la fréquence représentant un signal ou un bruit
+    par sa transformée de Fourier, ou par la suite des coefficients complexes de sa
+    série de Fourier
+  examples: []
+  id: 702-04-44
+  language_code: fra
+  notes:
+  - Le module et l'argument du spectre complexe sont respectivement le spectre d'amplitude
+    et le spectre de phase.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectre complexe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: représentation spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 7769b7fa-ac9f-525d-a859-861753f354e0
+status: valid

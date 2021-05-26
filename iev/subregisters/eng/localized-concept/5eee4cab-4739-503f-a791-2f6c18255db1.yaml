@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.4
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.4, modified
+      ref: IEC 62267:2009
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: train operated with operations staff present on board the train but
+    not accelerating or braking and not responsible for observing the guideway in
+    front of the train and stopping the train in case of a hazardous situation
+  examples: []
+  id: 821-09-10
+  language_code: eng
+  notes:
+  - Safe departure of the train from the station, including door closing, is either
+    the responsibility of operations staff or of the technical system.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: driverless train operation
+    normative_status: preferred
+    type: expression
+  - designation: GOA3
+    type: expression
+  - designation: DTO
+    type: expression
+dateAccepted: 2017-11-01
+id: 5eee4cab-4739-503f-a791-2f6c18255db1
+status: valid

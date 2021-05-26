@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure à temps spécifié, IEV:447-01-03}} dont le {{temps
+    de fonctionnement, IEV:447-05-05}} dépend, de façon spécifiée, de la valeur de
+    la {{grandeur caractéristique, IEV:447-07-01}}'
+  examples: []
+  id: 447-01-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: relais de mesure à temps dépendant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: af8d5a78-5604-587f-b6e7-9e9ab7c1a721
+status: valid

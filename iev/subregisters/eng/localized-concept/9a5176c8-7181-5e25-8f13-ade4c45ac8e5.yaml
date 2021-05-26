@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - - clause: 461-06-19
+      original: 461-06-19 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 604-04-06
+      original: 604-04-06 MOD
+      ref: IEV
+      relationship:
+        type: modified
+    - clause: 826-04-07
+      original: 826-04-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: conductor which provides a conductive path, or part of the conductive
+    path, between a given point in a system or in an installation or in equipment
+    and an earth electrode
+  examples: []
+  id: 195-02-03
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earthing conductor
+    normative_status: preferred
+    type: expression
+  - designation: grounding conductor
+    type: expression
+  - designation: earth conductor
+    type: expression
+dateAccepted: 1998-08-01
+id: 9a5176c8-7181-5e25-8f13-ade4c45ac8e5
+status: valid

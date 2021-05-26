@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{modulation, IEV:701-03-08}} où chaque {{état significatif, IEV:702-05-21}}
+    d''un {{signal temporel discret, IEV:704-01-04}} modulant est représenté par une
+    valeur déterminée de l''amplitude d''une {{porteuse, IEV:702-06-03}}'
+  examples: []
+  id: 702-06-18
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation par changement d'amplitude
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: modulation par déplacement d'amplitude
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MDA
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d5469f56-4b83-5d69-ba19-aa6fdab4ed4d
+status: valid

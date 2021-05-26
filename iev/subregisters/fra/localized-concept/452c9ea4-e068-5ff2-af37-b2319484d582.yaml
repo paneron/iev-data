@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: en tout point d'un domaine déterminé de l'espace, vecteur *`U`* dont
+    le rotationnel est le vecteur *`V`* d'un champ solénoïdal donné *`V`* = *rot `U`*
+  examples: []
+  id: 102-05-26
+  language_code: fra
+  notes:
+  - On dit que le champ vectoriel donné dérive du potentiel vecteur.
+  - Le potentiel vecteur n'est pas unique puisqu'un champ irrotationnel quelconque
+    peut être ajouté à un potentiel vecteur donné sans changer son rotationnel. Le
+    potentiel vecteur est souvent choisi de telle sorte que sa divergence soit nulle.
+  - Le potentiel vecteur est utilisé, par exemple, pour représenter le potentiel vecteur
+    magnétique (*`A`*), dont le rotationnel est l'induction magnétique (*`B`*).
+  reviewDecisionEvent: published
+  terms:
+  - designation: potentiel vecteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 452c9ea4-e068-5ff2-af37-b2319484d582
+status: valid

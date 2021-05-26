@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: under sinusoidal conditions in a medium where the phasors <u>`D`</u>,
+    <u>`E`</u> and <u>`J`</u> representing respectively the electric flux density,
+    the electric field strength and the electric current density are linearly related,
+    complex quantity `ε`~re~ defined by the relation `epsilon_0 underset(_)(epsilon)_((re))
+    underset(_)(E) = underset(_)(D) + ((underset(_)(J)))/((j omega)) = underset(_)(D)
+    - j ((gamma underset(_)(E)))/(omega)` where `γ` is the conductivity of the medium,
+    `ω` the angular frequency and `ε`~0~ the electric constant
+  examples: []
+  id: 121-12-18
+  language_code: eng
+  notes:
+  - The effective complex relative permittivity is generally frequency dependent.
+    For an isotropic medium the effective complex relative permittivity is a scalar;
+    for an anisotropic medium it is a tensor.
+  - 'The effective complex relative permittivity and the complex relative permittivity
+    `ε`~r~ are linked by the relation
+
+
+    `underset(_)(epsilon)_((re)) = underset(_)(epsilon)_r - ((j gamma ))/((epsilon_0
+    omega))`
+
+
+    In a conductive medium, including good conductors and imperfect dielectrics, the
+    useful and measurable quantity is the effective complex relative permittivity.'
+  - The negative of the imaginary part of the effective complex relative permittivity
+    represents both dielectric losses and losses due to the conductivity, the part
+    due to conductivity being represented by `γ`/`ε`~0~`ω`.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effective complex relative permittivity
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`~re~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 9624235a-a6d7-5a55-81d3-61d0e1605862
+status: valid

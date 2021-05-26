@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1999-04-01
+  definition: valeur moyenne d'un ensemble de données mesurées de taille et durée
+    suffisantes pour servir d'estimation à la valeur attendue d'une quantité
+  examples: []
+  id: 415-03-07
+  language_code: fra
+  notes:
+  - L'intervalle de temps de moyennage doit être un nombre d'années entier afin d'éliminer
+    les effets non stationnaires tels que les variations saisonnières.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moyenne annuelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1999-04-01
+id: 0d2ba94b-a03a-5141-969a-3e02fd62dbb4
+status: valid

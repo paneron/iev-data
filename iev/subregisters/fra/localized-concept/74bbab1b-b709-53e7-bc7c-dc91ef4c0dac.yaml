@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.15
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.15
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  definition: type d'erreur de message dans lequel un message est reçu plus tard que
+    prévu
+  examples: []
+  id: 821-11-15
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: retard de message
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 74bbab1b-b709-53e7-bc7c-dc91ef4c0dac
+status: valid

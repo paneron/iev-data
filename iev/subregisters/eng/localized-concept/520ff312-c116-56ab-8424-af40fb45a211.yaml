@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.8
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.8
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: train composed of one or a set of consists, where the composition does
+    not change during normal operation
+  examples:
+  - Metro, sub-urban train, or high speed train-unit.
+  id: 811-37-17
+  language_code: eng
+  notes:
+  - Consists are coupled in a workshop to establish a closed train for operation.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: closed train
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 520ff312-c116-56ab-8424-af40fb45a211
+status: valid

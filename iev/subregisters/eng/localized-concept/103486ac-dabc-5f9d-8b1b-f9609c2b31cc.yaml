@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: '{{telecommunication, IEV:701-01-05}} for the distribution of {{television
+    programmes, IEV:723-01-05}} or {{sound programmes, IEV:723-01-04}} over networks
+    of cables to a number of users'
+  examples: []
+  id: 701-01-36
+  language_code: eng
+  notes:
+  - Some {{cabled distribution systems, IEV:723-09-01}} can transmit other signals,
+    or provide {{backward channels, IEV:721-11-07}}, or both.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cabled distribution
+    normative_status: preferred
+    type: expression
+  - designation: wired broadcasting
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 103486ac-dabc-5f9d-8b1b-f9609c2b31cc
+status: valid

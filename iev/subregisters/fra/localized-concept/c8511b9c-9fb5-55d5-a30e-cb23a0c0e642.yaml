@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2001-07-01
+  definition: circuit de sortie à trois bornes dans lequel les valeurs nominales des
+    impédances entre la borne commune et chacune des deux autres bornes sont égales
+  examples: []
+  id: 312-06-11
+  language_code: fra
+  notes:
+  - La borne commune de l'entrée et celle de la sortie ne sont pas nécessairement
+    toutes deux accessibles, ni toutes deux au même potentiel.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sortie symétrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: sortie équilibrée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: c8511b9c-9fb5-55d5-a30e-cb23a0c0e642
+status: valid

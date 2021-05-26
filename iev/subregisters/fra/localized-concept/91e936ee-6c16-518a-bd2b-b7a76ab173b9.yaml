@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps, le matériel étant dans une atmosphère donnée, entre
+    l'instant auquel le matériel est mis sous tension et l'instant auquel l'indication
+    atteint et se maintient dans les tolérances fixées
+  examples: []
+  id: 426-24-72
+  language_code: fra
+  notes:
+  - Le temps d'échauffement ne s'applique pas aux matériels à lecture intermittente.
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps d'échauffement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: 91e936ee-6c16-518a-bd2b-b7a76ab173b9
+status: valid

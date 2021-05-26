@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      link: https://webstore.iec.ch/publication/6361
+      original: IEC 62047-19:2013, 3.3, modified – Note 1 to entry deleted.
+      ref: IEC 62047-19:2013
+      relationship:
+        modification: Note 1 to entry deleted.
+        type: modified
+  classification: Preferred
+  dateAmended: 2018-12-01
+  definition: compass that calculates and outputs an azimuth using the electric output
+    of {{sensors, IEV:151-13-48}}
+  examples: []
+  id: 523-04-21
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: e-compass
+    normative_status: preferred
+    type: expression
+  - designation: electronic compass
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 14f75684-d3be-54cc-b547-239f8449e3ff
+status: valid

@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matériau conducteur dans une {{cellule élémentaire à combustible, IEV:485-08-01}}
+    qui collecte les électrons du côté {{anode, IEV:485-02-04}} ou conduit les électrons
+    vers le côté {{cathode, IEV:485-02-05}}
+  examples: []
+  id: 485-06-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: collecteur de courant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d10dc15-d6df-5c9d-8c18-10b44976018f
+status: valid

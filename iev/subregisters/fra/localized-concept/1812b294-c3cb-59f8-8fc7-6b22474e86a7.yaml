@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '7.6'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 7.6
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{disposition, IEV:901-05-01}} indiquant un ou plusieurs moyens de
+    se conformer à une {{exigence, IEV:901-05-05}} d''un {{document normatif, IEV:901-02-01}}'
+  examples: []
+  id: 901-05-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: disposition réputée satisfaire à
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1812b294-c3cb-59f8-8fc7-6b22474e86a7
+status: valid

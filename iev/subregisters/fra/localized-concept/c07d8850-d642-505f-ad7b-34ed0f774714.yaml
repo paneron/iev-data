@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonction continue nulle pour toute valeur négative de la variable indépendante
+    et croissant linéairement avec une pente égale à un pour les valeurs positives
+    de la variable indépendante
+  examples: []
+  id: 103-03-03
+  language_code: fra
+  notes:
+  - La rampe unité peut être représentée par `x * epsilon ( x )`, `epsilon ( x )`
+    où est la fonction échelon unité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rampe unité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c07d8850-d642-505f-ad7b-34ed0f774714
+status: valid

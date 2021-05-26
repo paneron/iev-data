@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: non-diagonal term of the inductance matrix
+  examples: []
+  id: 131-12-36
+  language_code: eng
+  notes:
+  - "For windings of `N`~`i`~ and `N`~`j`~ turns following the same paths, the mutual\
+    \ inductance and the mutual permeance are related by the formula:  \r\n`L`~`ij`~\
+    \ = `N`~`i`~`N`~`j`~`Λ`~`ij`~"
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mutual inductance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~`ij`~'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: e0884192-3371-5680-a003-084cb657e5bc
+status: valid

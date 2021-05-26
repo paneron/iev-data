@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: command which is issued when the associated step is activated and the
+    necessary condition is fulfilled
+  examples: []
+  id: 351-51-06
+  language_code: eng
+  notes:
+  - The conditional command is identified in IEC 60848, _GRAFCET specification language
+    for sequential function charts_, by the conventional letter “C”.
+  - This entry was numbered 351-29-33 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conditional command
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: fdec8fcb-0741-5506-910a-9cf8dfb039ae
+status: valid

@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: quotient de la somme des durées de toutes les interruptions de fourniture
+    d'énergie électrique à des clients individuels desservis pendant un intervalle
+    de temps, par le produit de la durée de cet intervalle de temps et du nombre total
+    de clients desservis
+  examples: []
+  id: 692-08-03
+  language_code: fra
+  notes:
+  - 'Si `t`~`ij`~ est la durée de la `i`ème interruption subie par le client `j` sur
+    la durée `T`, et `N`~S~ le nombre total de clients desservis, alors l’indisponibilité
+    par client desservi est donnée par
+
+
+    `U_((CS)) = ((sum_i sum_j t_((i j))))/((N_S T))`'
+  - Seules les {{interruptions longues, IEV:692-07-02}} sont prises en compte.
+  - Si la durée de l'intervalle de temps est exprimée en années, la grandeur est appelée
+    "indisponibilité annuelle moyenne par client desservi".
+  - Le terme "client" désigne l’utilisateur final et non un réseau ou une compagnie
+    de distribution intermédiaire.
+  - L’indisponibilité par client desservi peut être utilisée pour décrire des performances
+    réalisées, ou pour estimer les performances futures attendues.
+  - Cet article portait le numéro 191-27-03 dans l’IEC 60050-191:1990.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité par client desservi
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: indice moyen d'interruption par client desservi
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: indice moyen de coupure par client desservi
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: db7c2967-8917-5eb3-b12c-c86e4b75ead1
+status: valid

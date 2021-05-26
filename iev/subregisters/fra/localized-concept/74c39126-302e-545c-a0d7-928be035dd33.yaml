@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'quotient de la variation relative de l''inductance due à une variation
+    de température par cette variation de température: `alpha_L = ((L_(theta) - L_((ref))))/((L_((ref))
+    ( theta - theta_((ref)) )))` où `Lθ` et `L`~ref~ sont respectivement les inductances
+    aux températures `θ` et `θ`~ref~'
+  examples: []
+  id: 221-02-52
+  language_code: fra
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de température de l'inductance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-10-01
+id: 74c39126-302e-545c-a0d7-928be035dd33
+status: valid

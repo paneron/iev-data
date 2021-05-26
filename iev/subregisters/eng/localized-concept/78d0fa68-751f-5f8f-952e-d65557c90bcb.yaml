@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: 'maximum value of the effective input current, calculated from the rated
+    supply current (`I`~1~), the corresponding duty cycle (X) and the supply current
+    at no-load (`I`~0~) by the formula: `I_((1 e f f)) = sqrt(I_1^2 xx X + I_0^2 xx
+    ( 1 - X ))`'
+  examples: []
+  id: 851-12-39
+  language_code: eng
+  notes: []
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum effective supply current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~1eff~'
+    international: true
+    type: symbol
+dateAccepted: 2008-06-01
+id: 78d0fa68-751f-5f8f-952e-d65557c90bcb
+status: valid

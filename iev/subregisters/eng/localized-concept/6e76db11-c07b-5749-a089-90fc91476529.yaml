@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: linear time-invariant transfer element the output variable of which
+    reproduces the input variable shifted by an interval equal to the dead time
+  examples: []
+  id: 351-50-31
+  language_code: eng
+  notes:
+  - "The transfer function of a dead-time element is given by\n\n`((V ( s )))/((U\
+    \ ( s ))) = e^(- s * T_t)`\n\nwhere<table>\r\n<tr>\n<td>\n`T`~t~\n</td>\n<td>is\
+    \ the dead time;</td>\n</tr>\r\n<tr>\n<td>`s`</td>\n<td>is the complex variable\
+    \ of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\n`U`(`s`)</td>\n<td>is the\
+    \ input transform;</td>\n</tr>\r\n<tr>\n<td>\n`V`(`s`)</td>\n<td>is the output\
+    \ transform.</td>\n</tr>\r\n</table>"
+  - Transportation lags of mass, energy or information are described by dead-time
+    elements.
+  - This entry was numbered 351-28-42 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dead-time element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 6e76db11-c07b-5749-a089-90fc91476529
+status: valid

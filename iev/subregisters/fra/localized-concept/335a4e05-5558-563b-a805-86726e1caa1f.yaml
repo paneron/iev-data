@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: pour une particule chargée dans un milieu, quotient de d`E` par d`l`,
+    d`l` étant la distance parcourue par la particule et d`E` la perte d'énergie due
+    à des collisions correspondant à un transfert d'énergie inférieur à une valeur
+    spécifiée `Δ`, généralement exprimée en électron-volts `L_(Delta) = (( ((d E))/((d
+    l)) ))_(Delta)`
+  examples: []
+  id: 881-12-53
+  language_code: fra
+  notes:
+  - 'Bien que la définition se rapporte à un seuil d''énergie et non à un parcours
+    limité, les pertes d''énergie sont parfois appelées "énergie localement communiquée".
+
+
+    Exemples: `L`~100~ signifie un transfert linéique d''énergie pour des collisions
+    correspondant à un transfert d''énergie inférieur à 100 eV; `L`~∞~ signifie un
+    transfert linéique d''énergie comprenant tous les transferts d''énergie possibles.
+
+
+    `L`~∞~ = `S`~col~'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transfert linéique d'énergie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 335a4e05-5558-563b-a805-86726e1caa1f
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: valeur efficace de la tension en circuit ouvert à l'accès d'un monoporte
+    due à ses seules sources de bruit
+  examples: []
+  id: 702-08-51
+  language_code: fra
+  notes:
+  - Une antenne de réception vue de son accès de sortie peut être assimilée à un monoporte.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: force électromotrice de bruit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tension équivalente au bruit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 59e20da0-815a-58b0-ad1e-3f3c98d5efc0
+status: valid

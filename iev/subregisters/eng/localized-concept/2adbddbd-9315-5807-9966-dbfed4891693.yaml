@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: signal that leaves the {{output circuit, IEV:447-04-01}}
+  examples:
+  - Analogue signal, binary signal (opening or closing of contact, effectively conducting
+    or non-conducting of electronic circuit), digital signal, bitstream on communication
+    port.
+  id: 447-04-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: output signal
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: 2adbddbd-9315-5807-9966-dbfed4891693
+status: valid

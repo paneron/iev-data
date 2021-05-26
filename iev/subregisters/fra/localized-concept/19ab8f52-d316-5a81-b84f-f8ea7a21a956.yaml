@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: Voir {{IEV 121-12-13, IEV:121-12-13}}
+  examples: []
+  id: 561-06-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: permittivité relative
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de permittivité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante diélectrique relative
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: constante diélectrique, f
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+  - designation: 'DÉCONSEILLÉ: permittivité'
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 19ab8f52-d316-5a81-b84f-f8ea7a21a956
+status: valid

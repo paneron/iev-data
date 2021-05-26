@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.15
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.15, modified
+      ref: IEC 62290-1:2014
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: ability of a transport network to operate trains and infrastructures
+    to provide, accept and use services exchanged in such as way that there is no
+    substantial change in functionality or performance
+  examples: []
+  id: 821-01-61
+  language_code: eng
+  notes:
+  - This ability depends on all the regulatory, technical and operational conditions
+    which must be met in order to satisfy all the defined requirements applicable
+    to the given grade of automation, irrespective of which supplier provides which
+    components or systems.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interoperability of a transport network
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 61e63fad-fa8c-5a6b-862e-dd53684cf588
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{processing unit, IEV:171-04-04}} that controls the performance of
+    a computer'
+  examples: []
+  id: 171-04-05
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: central processing unit
+    normative_status: preferred
+    type: expression
+  - designation: CPU
+    normative_status: preferred
+    type: expression
+  - designation: main unit
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: ca8c3155-f3f8-53d6-8cde-5b1a01150b75
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: irradiation or measurement of reflecting materials at 8° to the normal,
+    at one azimuth angle
+  examples: []
+  id: 845-25-095
+  language_code: eng
+  notes:
+  - Eight-degree geometry is used to substitute the 0° directional geometry in many
+    practical applications of reflection measurements, as it permits differentiation
+    between specular-component-included and specular-component-excluded measurements.
+  - This geometry is restricted to measurements using an integrating sphere as described
+    in CIE 15, `Colorimetry`.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: eight-degree geometry
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: fd49d8c8-80bb-5e2b-81fa-e190dbba760c
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.8
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.8
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  definition: train composé d'une rame ou d'un ensemble de rames, dont la composition
+    n'est pas modifiée en exploitation normale
+  examples:
+  - Métro, train suburbain ou rame à grande vitesse.
+  id: 811-37-17
+  language_code: fra
+  notes:
+  - Les rames sont accouplées en atelier afin de constituer une rame non modifiable
+    pour exploitation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: rame non modifiable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 335f98d3-46ed-59d1-a999-96cc27d5fc29
+status: valid

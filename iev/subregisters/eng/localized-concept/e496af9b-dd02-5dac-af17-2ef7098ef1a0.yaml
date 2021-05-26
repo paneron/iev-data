@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 10.2.1
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 10.2.1, modified – The note from the title of
+        Clause 10 in ISO/IEC Guide 2:2004 has been added to the entry.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: The note from the title of Clause 10 in ISO/IEC Guide 2:2004
+          has been added to the entry.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: application of an {{international standard, IEV:901-02-03}} irrespective
+    of the {{taking over, IEV:901-06-10}} of that international standard in any other
+    {{normative document, IEV:901-02-01}}
+  examples: []
+  id: 901-06-12
+  language_code: eng
+  notes:
+  - A normative document can be said to be “implemented” in two different ways. It
+    may be applied in production, trade, etc., and it may be taken over, wholly or
+    in part, in another normative document. Through the medium of this second document,
+    it may then be applied, or it may again be taken over in yet another normative
+    document.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: direct application of an international standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: e496af9b-dd02-5dac-af17-2ef7098ef1a0
+status: valid

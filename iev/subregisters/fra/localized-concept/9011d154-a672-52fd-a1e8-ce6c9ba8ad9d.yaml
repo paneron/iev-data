@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: 'pour un bipôle capacitif de bornes A et B, dérivée de la charge électrique
+    `q` en A par rapport à la tension électrique `u`~AB~ ({{131-11-56, IEV:131-11-56}})
+    entre les bornes: `C_d = ((d q))/((d u_((A B))))` où le signe de la charge électrique
+    est déterminé en prenant positif le courant électrique qui la définit si le sens
+    du courant est de A vers B et négatif dans le cas contraire'
+  examples: []
+  id: 131-12-14
+  language_code: fra
+  notes:
+  - Pour une capacité idéale, la capacité différentielle `C`~d~ est égale à sa capacité
+    `C`.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité différentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: 9011d154-a672-52fd-a1e8-ce6c9ba8ad9d
+status: valid

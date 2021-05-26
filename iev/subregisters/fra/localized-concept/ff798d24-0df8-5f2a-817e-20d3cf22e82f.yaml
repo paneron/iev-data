@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intégrale, par rapport au temps, de l'éclairement cylindrique énergétique
+    photonique, `E`~p,c,~ en un point donné pour une direction donnée, pendant une
+    durée donnée, Δ`t` `H_((p,c)) = underset((Delta t))( int ) E_(p,c) d t`
+  examples: []
+  id: 845-21-079
+  language_code: fra
+  notes:
+  - L'exposition cylindrique photonique est exprimée en mètre à la puissance moins
+    deux (m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposition cylindrique photonique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ff798d24-0df8-5f2a-817e-20d3cf22e82f
+status: valid

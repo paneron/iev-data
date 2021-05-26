@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: durée de l'intervalle de temps compris entre l'envoi par le poste demandeur
+    d'un signal d'appel et la réception du signal de connexion
+  examples: []
+  id: 721-17-70
+  language_code: fra
+  notes:
+  - C'est la somme du temps de présélection, du temps de numérotation et du temps
+    de sélection.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps d'établissement d'une communication
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: dc1154f6-4b8a-586f-be22-ba8077044fb8
+status: valid

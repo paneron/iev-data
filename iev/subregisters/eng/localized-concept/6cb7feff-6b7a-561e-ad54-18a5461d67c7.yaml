@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the time required, following a sudden change in operating conditions,
+    for the slowly changing component of direct-axis short-circuit armature current
+    to decrease to 1/e, that is 0,368 of its initial value, the machine running at
+    rated speed
+  examples: []
+  id: 411-48-28
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: direct-axis transient short-circuit time constant
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 6cb7feff-6b7a-561e-ad54-18a5461d67c7
+status: valid

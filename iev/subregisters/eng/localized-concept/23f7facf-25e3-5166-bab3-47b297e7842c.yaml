@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 441-11-13
+      link: https://webstore.iec.ch/publication/206
+      original: IEC 60050-441:1984, 441-11-13, modified – "switching device or fuse"
+        replaced by "motor or apparatus" and note 1 to entry replaced.
+      ref: IEC 60050-441:1984
+      relationship:
+        modification: '"switching device or fuse" replaced by "motor or apparatus"
+          and note 1 to entry replaced.'
+        type: modified
+  dateAmended: 2017-11-01
+  definition: temperature, determined under prescribed conditions, of the air surrounding
+    the complete motor or apparatus
+  examples: []
+  id: 811-13-32
+  language_code: eng
+  notes:
+  - For example, for a totally enclosed motor, it is the temperature of the air outside
+    the motor.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ambient air temperature
+    normative_status: preferred
+    type: expression
+    usage_info: for an electric traction motor
+dateAccepted: 2017-11-01
+id: 23f7facf-25e3-5166-bab3-47b297e7842c
+status: valid

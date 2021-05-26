@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: probabilité pour qu'une opération donnée de maintenance, réalisée dans
+    des conditions définies et à l'aide de procédures et ressources spécifiées, puisse
+    être effectuée dans un intervalle de temps (`t`~1~, `t`~2~) donné lorsque l'opération
+    a démarré à `t` = 0
+  examples: []
+  id: 192-07-01
+  language_code: fra
+  notes:
+  - Si `t`~1~= 0 et `t`~2~ = `t`, alors `M`(0, `t`) est indiqué simplement sous la
+    forme `M`(`t`) et appelé fonction de maintenabilité.
+  - Voir aussi maintenabilité &lt;d’une entité&gt; ({{192-01-27, IEV:192-01-27}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintenabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: mesure
+dateAccepted: 2018-11-17
+id: 3d25e31c-8fe1-5842-a7db-5cbd89a2096e
+status: valid

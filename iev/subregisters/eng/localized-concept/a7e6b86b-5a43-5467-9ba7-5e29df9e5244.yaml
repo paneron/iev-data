@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '3.14'
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.14
+      ref: IEC 60664-1:2007
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: electric field which has an essentially constant voltage gradient between
+    electrodes, such as that between two spheres where the radius of each sphere is
+    greater than the distance between them
+  examples: []
+  id: 442-09-02
+  language_code: eng
+  notes:
+  - The homogeneous field condition is referred to as case B in IEC 60664-1.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: homogeneous electric field
+    normative_status: preferred
+    type: expression
+  - designation: uniform electric field
+    normative_status: preferred
+    type: expression
+  - designation: homogeneous electric field distribution
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: a7e6b86b-5a43-5467-9ba7-5e29df9e5244
+status: valid

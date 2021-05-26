@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: rapport du nombre d'erreurs numériques dans le signal de sortie d'un
+    dispositif au nombre d'erreurs numériques dans le signal d'entrée correspondant
+  examples: []
+  id: 704-18-06
+  language_code: fra
+  notes:
+  - Le facteur de multiplication d'erreurs peut être exprimé en valeur moyenne dans
+    des conditions d'exploitation spécifiées, ou en valeur maximale possible pour
+    une erreur numérique unique dans le signal d'entrée.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de multiplication d'erreurs
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: f00bcd54-2c03-5f9e-8b23-4e785516070b
+status: valid

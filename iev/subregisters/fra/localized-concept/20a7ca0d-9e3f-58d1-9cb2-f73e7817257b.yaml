@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: absence de {{risque, IEV:351-57-03}} inacceptable encouru par un système
+    de {{traitement de l'information, IEV:171-01-19}}
+  examples: []
+  id: 171-08-01
+  language_code: fra
+  notes:
+  - La source du {{dommage, IEV:351-57-02}} peut être malveillante ou accidentelle.
+  - La sécurité informatique concerne principalement la {{disponibilité, IEV:192-01-23}},
+    l’{{intégrité, IEV:171-08-05}} et la {{confidentialité, IEV:171-08-06}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sécurité informatique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: sécurité des systèmes d’information
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SSI
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 20a7ca0d-9e3f-58d1-9cb2-f73e7817257b
+status: valid

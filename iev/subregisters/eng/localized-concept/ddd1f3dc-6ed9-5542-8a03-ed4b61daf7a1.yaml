@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: '{{frequency band, IEV:103-09-01}} occupied by one {{signal, IEV:701-01-02}}
+    or by a number of multiplexed signals at specified input and output points of
+    a {{transmission system, IEV:704-04-19}}'
+  examples: []
+  id: 702-01-06
+  language_code: eng
+  notes:
+  - In radiocommunication, the baseband is that frequency band occupied by the signal
+    modulating the {{radio transmitter, IEV:713-08-01}}.
+  - When the transmission involves {{multiple modulation, IEV:702-06-07}}, it is generally
+    considered that the baseband is that frequency band occupied by the signal which
+    is applied to the first modulation stage, and not the frequency band occupied
+    by an intermediate modulated signal.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: baseband
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: ddd1f3dc-6ed9-5542-8a03-ed4b61daf7a1
+status: valid

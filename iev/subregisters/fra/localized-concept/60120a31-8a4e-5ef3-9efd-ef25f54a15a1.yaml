@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: définition 3
+      link: https://www.iso.org/standard/37456.html
+      original: ISO 14040:2006, définition 3.2, modifié – Les termes "intrants" et
+        "sortants" ont été remplacés par "éléments entrants" et "éléments sortants"
+        respectivement  pour compatibilité avec l'IEV.
+      ref: ISO 14040:2006
+      relationship:
+        modification: Les termes "intrants" et "sortants" ont été remplacés par "éléments
+          entrants" et "éléments sortants" respectivement  pour compatibilité avec
+          l'IEV.
+        type: modified
+  classification: Preferred
+  definition: compilation et évaluation des {{éléments entrants, IEV:901-07-05}},
+    des {{éléments sortants, IEV:901-07-06}} et des {{impacts environnementaux, IEV:904-01-03}}
+    potentiels d'un système de produits au cours de son cycle de vie
+  examples: []
+  id: 904-01-18
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: analyse du cycle de vie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ACV
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 60120a31-8a4e-5ef3-9efd-ef25f54a15a1
+status: valid

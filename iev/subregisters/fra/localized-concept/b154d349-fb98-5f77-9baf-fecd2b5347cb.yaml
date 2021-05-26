@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: durée au bout de laquelle, dans une population décroissante de particules
+    de même espèce, le nombre des particules atteint 1/e fois sa valeur initiale,
+    où e est la base des logarithmes népériens
+  examples: []
+  id: 113-05-29
+  language_code: fra
+  notes:
+  - 1 La vie moyenne est la constante de temps pour la décroissance des particules.
+  - 2 On ne connaît que des décroissances exponentielles. Cependant pour une combinaison
+    de différentes espèces de particules ayant des vies moyennes différentes, la décroissance
+    n'est pas exponentielle et la vie moyenne résultante varie dans le temps.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vie moyenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: b154d349-fb98-5f77-9baf-fecd2b5347cb
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1990-10-01
+  definition: 'the tensor permeability of a material saturated by a static magnetic
+    field that is collinear with the time-varying field, with the direction of the
+    static field defining the z-axis: `( [[ underset(_)(mu)_((()_r)),- j (underset(_)(kappa))_r,0],[(underset(_)(underset(_)(mu)))_p
+    = j underset(_)(kappa)_r,(underset(_)(mu))_((()_r)),0],[ 0,0,1]] )` where `μ`~r~
+    and `κ`~r~ are complex permeabilities'
+  examples: []
+  id: 221-03-03
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Polder's tensor permeability
+    normative_status: preferred
+    type: expression
+  - designation: tensor permeability for a magnetostatically saturated medium
+    normative_status: preferred
+    type: expression
+  - designation: '`underset(_)(underset(_)(mu))_p`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 1fb35f80-b73b-5c1d-9170-c4f61ba525a6
+status: valid

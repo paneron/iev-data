@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: grandeur vectorielle *`v`* = d*`r`*/d`t`, où *`r`* est le rayon vecteur
+    et `t` est le temps
+  examples: []
+  id: 113-01-32
+  language_code: fra
+  notes:
+  - 1 La vitesse est liée à un point décrit par son rayon vecteur. Le point peut localiser
+    une particule ou être attaché à tout autre objet tel qu’un corps ou une onde.
+  - '2 La vitesse dépend du choix du référentiel. Une transformation appropriée entre
+    référentiels doit être utilisée: galiléenne pour une description non relativiste,
+    lorentzienne pour une description relativiste.'
+  - 3 L’unité SI cohérente de vitesse est le mètre par seconde, m/s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vitesse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: vecteur vitesse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 09f5f05a-95db-5e86-abbb-3628f7800336
+status: valid

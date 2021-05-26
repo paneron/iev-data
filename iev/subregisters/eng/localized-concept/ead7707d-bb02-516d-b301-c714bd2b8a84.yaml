@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: property of a quantity, `X`, pertaining to electromagnetic radiation
+    that indicates that `X` is a function of the <a href="IEV845-21-025">wavelength</a>,
+    `λ`
+  examples: []
+  id: 845-21-027
+  language_code: eng
+  notes:
+  - The quantity `X` can also be expressed as a function of {{frequency, IEV:103-06-02}},
+    `ν`, <a href="IEV845-21-026">wavenumber</a>, `σ`, etc.; the corresponding symbols
+    are `X`(`ν`), `X`(`σ`), etc. and `Xν`, `Xσ`, etc. See also "<a href="IEV845-21-029">spectral
+    distribution</a>".
+  - This entry was numbered 845-01-16 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+    usage_info: of a quantity
+dateAccepted: 2020-12-01
+id: ead7707d-bb02-516d-b301-c714bd2b8a84
+status: valid

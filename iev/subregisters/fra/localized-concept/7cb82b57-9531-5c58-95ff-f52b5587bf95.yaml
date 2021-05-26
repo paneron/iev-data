@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1996-12-01
+  definition: trafic dans lequel les tentatives de prise arrivent dans le temps suivant
+    un processus de Poisson
+  examples: []
+  id: 715-05-19
+  language_code: fra
+  notes:
+  - Le trafic poissonien est caractérisé par un facteur d'irrégularité égal à un.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: trafic poissonien
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: trafic de Poisson
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 7cb82b57-9531-5c58-95ff-f52b5587bf95
+status: valid

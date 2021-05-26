@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'a criterion which characterizes the degree of roughness of a surface,
+    for a given grazing angle of an electromagnetic wave according to the value of
+    the quantity: `((h sin theta))/(lambda)` where `h` is the average height of the
+    surface irregularities, `θ` is the grazing angle relative to the average surface,
+    `λ` is the wavelength'
+  examples: []
+  id: 705-04-15
+  language_code: eng
+  notes:
+  - 'In practice, roughness is negligible and the surface is considered specular if:
+
+
+    `((h sin theta))/(lambda) (1)/((1 0 0))`'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Rayleigh criterion
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: ea8b3fc3-37e9-5890-94fa-0b7c1cffca08
+status: valid

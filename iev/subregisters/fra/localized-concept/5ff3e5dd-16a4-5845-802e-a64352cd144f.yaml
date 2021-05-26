@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: message individuel transféré en utilisant le service courriel
+  examples: []
+  id: 732-08-08
+  language_code: fra
+  notes:
+  - Un courriel peut avoir une ou plusieurs pièces jointes en forme de fichiers de
+    texte, d'images, etc.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courriel (2), m
+    normative_status: preferred
+    type: expression
+  - designation: courrier électronique (2)
+    gender: m
+    plurality: singular
+    type: expression
+  - designation: message électronique
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 5ff3e5dd-16a4-5845-802e-a64352cd144f
+status: valid

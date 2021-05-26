@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: system in which at least one neutral point is earthed through a device
+    having an inductance designed to compensate approximately for the line-to-earth
+    capacitances in case of a single-line-to-earth fault
+  examples: []
+  id: 195-04-09
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: resonant earthed neutral system
+    normative_status: preferred
+    type: expression
+  - designation: arc-suppression-coil-earthed neutral system
+    type: expression
+  - designation: resonant grounded neutral system
+    type: expression
+  - designation: arc-suppression-coil-grounded neutral system
+    type: expression
+dateAccepted: 1998-08-01
+id: dba73095-6e94-5979-a4bc-62085881e328
+status: valid

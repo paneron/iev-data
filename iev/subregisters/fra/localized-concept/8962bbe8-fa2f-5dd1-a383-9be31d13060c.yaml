@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.11'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.11
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  definition: valeur moyenne du {{déplacement maximal, IEV:523-03-04}} et du {{déplacement
+    minimal, IEV:523-03-05}} en charge d'{{amplitude, IEV:523-03-11}} constante, ou
+    des {{cycles, IEV:103-05-08}} individuels
+  examples: []
+  id: 523-03-06
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: déplacement moyen
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8962bbe8-fa2f-5dd1-a383-9be31d13060c
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: '{{modulation, IEV:701-03-08}} in which the amplitude of a periodic
+    {{carrier, IEV:702-06-03}} is a given function, generally linear, of the {{instantaneous
+    values, IEV:103-05-12}} of the {{modulating signal, IEV:702-06-04}}'
+  examples: []
+  id: 702-06-17
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude modulation
+    normative_status: preferred
+    type: expression
+  - designation: AM
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: bcdba237-5786-5bd1-aec9-08774c4e3a14
+status: valid

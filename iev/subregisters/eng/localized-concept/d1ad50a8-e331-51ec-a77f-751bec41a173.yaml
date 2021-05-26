@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 13-24
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-24, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: quantitative measure of {{information, IEV:171-07-03}} about the occurrence
+    of an event `x` of definite probability `p`(`x`), equal to the logarithm of the
+    reciprocal of this probability `I ( x ) = log (1)/((p ( x ))) = - log p ( x )`
+  examples:
+  - 'Let `{ a , b , c }` be a set of three events and let `p ( a ) = 0,5`, `p ( b
+    ) = 0,25` and `p ( c ) = 0,25` be the probabilities of their occurrences. The
+    information contents of these events are: `I ( a ) = lb (1)/((0,50)) Sh = 1 Sh`,
+    `I ( b ) = lb (1)/((0,25)) Sh = 2 Sh`, `I ( c ) = lb (1)/((0,25)) Sh = 2 Sh`.'
+  id: 171-07-14
+  language_code: eng
+  notes:
+  - For a set of equiprobable events, the information content of each event is equal
+    to the {{decision content, IEV:171-07-10}} of the set.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: information content
+    normative_status: preferred
+    type: expression
+  - designation: '`I`(`x`)'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: d1ad50a8-e331-51ec-a77f-751bec41a173
+status: valid

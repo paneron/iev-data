@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: quotient de la somme des forces d'ancrage individuelles dans un supraconducteur
+    par le volume du supraconducteur
+  examples: []
+  id: 815-12-25
+  language_code: fra
+  notes:
+  - La densité de force d’ancrage est donnée par *`F`*~p~ = −*`J`*~c~ × *`B`*, où
+    *`J`*~c~ est la densité de courant critique et *`B`* l’induction magnétique.
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité de force d'ancrage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité de force de piégeage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c7c07988-3b31-51c2-8984-90b01f0e0130
+status: valid

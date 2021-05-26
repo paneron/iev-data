@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - - clause: '2.2'
+      original: Brochure sur le SI, 9<sup>e</sup> édition, 2019, 2.2, modifié – La
+        définition de la Brochure sur le SI a été révisée à des fins de mise en conformité
+        avec les règles de l’IEV.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: La définition de la Brochure sur le SI a été révisée à des fins
+          de mise en conformité avec les règles de l’IEV.
+        type: modified
+  classification: Deprecated
+  definition: constante physique conventionnelle qui relie la {{quantité de matière,
+    IEV:113-02-07}} au nombre d'entités élémentaires dans un échantillon donné, dont
+    la valeur est fixée à exactement 6,022 140 76 × 10^23^ {{mol, IEV:112-02-09}}^−1^
+  examples: []
+  id: 113-02-08
+  language_code: fra
+  notes:
+  - La définition de la constante d’Avogadro en IEV 113-02-08:2014-05 était "constante
+    physique fondamentale égale au quotient du nombre `N` d'entités élémentaires dans
+    un échantillon donné de matière par la quantité de matière `n` de cet échantillon,
+    `N`~A~=`N`/`n`", décrivant incorrectement la constante d’Avogadro comme "constante
+    physique fondamentale".
+  - La constante d’Avogadro est employée dans le {{SI, IEV:112-02-02}} pour définir
+    la {{mole, IEV:112-02-09}}.
+  - Le terme "nombre d’Avogadro" est déconseillé car un nombre est une grandeur d’unité
+    un, et il est utilisé pour un concept différent (voir {{IEV 113-02-18, IEV:113-02-18}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante d’Avogadro
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: nombre d’Avogadro
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 623a99f2-6d30-515a-8bc3-6fed0f2df8d6
+status: valid

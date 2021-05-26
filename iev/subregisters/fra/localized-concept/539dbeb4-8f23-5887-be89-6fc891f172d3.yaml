@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 448-13-14
+      original: IEV 448-13-14
+      ref: IEV
+      relationship:
+        type: identical
+  definition: intervalle de temps entre le début du défaut et la fin de la durée de
+    coupure du disjoncteur
+  examples: []
+  id: 614-02-25
+  language_code: fra
+  notes:
+  - La durée avant interruption d’un courant de défaut est constituée de la durée
+    de fonctionnement de la protection et de la durée de coupure du disjoncteur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée avant interruption d’un courant de défaut
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 539dbeb4-8f23-5887-be89-6fc891f172d3
+status: valid

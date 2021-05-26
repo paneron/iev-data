@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: the location of a point associated with an antenna, if it exists, such
+    that, when it is taken as the centre of a sphere or a circle, the phase of a given
+    field component in the far-field region remains essentially constant at least
+    over that portion of the surface of the sphere or over an arc of the circle where
+    the radiation is significant
+  examples: []
+  id: 712-02-20
+  language_code: eng
+  notes:
+  - Some antennas have different phase centres dependent on the plane containing the
+    circle being considered.
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase centre
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: 42b283fc-eb6d-54aa-a7b3-b3109f884171
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: for a resistive two-terminal element or two-terminal circuit with terminals
+    A and B, quotient of the voltage ({{131-11-56, IEV:131-11-56}}) `u`~AB~ between
+    the terminals by the electric current `i` in the element or circuit `R = ((u_((AB))))/(i)`
+    where the electric current is taken positive if its direction is from A to B and
+    negative if its direction is from B to A
+  examples: []
+  id: 131-12-04
+  language_code: eng
+  notes:
+  - A resistance cannot be negative.
+  - The term "resistance" is also a short term for “resistance to alternating current”
+    ({{131-12-45, IEV:131-12-45}}).
+  - In French, the term "résistance" also denotes a device, in English "resistor"
+    (see {{151-13-19, IEV:151-13-19}}).
+  - The coherent SI unit of resistance is ohm, Ω.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: resistance
+    normative_status: preferred
+    type: expression
+  - designation: '`R`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: 8b71e165-bcad-539a-bf64-4a44c3c1c92d
+status: valid

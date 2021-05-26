@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: fault that has not become apparent
+  examples: []
+  id: 192-04-08
+  language_code: eng
+  notes:
+  - A latent fault may eventually be revealed by preventive maintenance or by a system
+    failure.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: latent fault
+    normative_status: preferred
+    type: expression
+    usage_info: of an item
+  - designation: undetected fault
+    type: expression
+    usage_info: of an item
+dateAccepted: 2015-02-01
+id: b1efa3ad-975b-59ae-b2f9-e8dd077f9295
+status: valid

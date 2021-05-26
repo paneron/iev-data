@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: actual quality factor for an entire circuit, including all energy losses
+    both in the resonator and in the external circuit
+  examples: []
+  id: 561-01-46
+  language_code: eng
+  notes:
+  - This entry was numbered 561-07-26 in IEC 60050-561:1991, Amendment 2:1997.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loaded quality factor
+    normative_status: preferred
+    type: expression
+  - designation: '`Q`~L~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: c1de568e-2f24-5111-ac81-22ab7d597d5e
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.12'
+      link: https://webstore.iec.ch/publication/6370
+      original: IEC 62047-6:2009, 3.12
+      ref: IEC 62047-6:2009
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: difference between the {{maximum displacement, IEV:523-03-04}} and the
+    {{minimum displacement, IEV:523-03-05}} in constant {{amplitude, IEV:523-03-11}}
+    loading
+  examples: []
+  id: 523-03-07
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: displacement range
+    normative_status: preferred
+    type: expression
+  - designation: Δ`δ`
+    international: true
+    type: symbol
+dateAccepted: 2018-12-01
+id: 7163fd3c-8adc-5126-a68e-3131f163e425
+status: valid

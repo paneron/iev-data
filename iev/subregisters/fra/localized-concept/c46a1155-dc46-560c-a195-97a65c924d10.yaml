@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '3.6'
+      original: Guide CEI 109:2012, 3.6, modifiée – Le terme «réglementation» a été
+        remplacé par le terme «règlement» en conformité avec IEV 901-02-10.
+      ref: IEC Guide 109:2012
+      relationship:
+        modification: Le terme «réglementation» a été remplacé par le terme «règlement»
+          en conformité avec IEV 901-02-10.
+        type: modified
+  definition: substance potentiellement susceptible, selon des critères de classification
+    définis, d'avoir des effets négatifs sur la santé des personnes et/ou sur l'{{environnement,
+    IEV:901-07-01}}
+  examples: []
+  id: 901-07-04
+  language_code: fra
+  notes:
+  - Les critères permettant de déterminer si une substance est classée comme dangereuse
+    sont définis par une loi ou un {{règlement, IEV:901-02-10}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: substance dangereuse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c46a1155-dc46-560c-a195-97a65c924d10
+status: valid

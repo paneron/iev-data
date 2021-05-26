@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: beam of optical radiation whose electric field amplitude distribution
+    is Gaussian when measured across a cross-section
+  examples: []
+  id: 731-01-34
+  language_code: eng
+  notes:
+  - 'When such a beam is circular in cross-section, the amplitude is:
+
+
+    `Е(r)` = `E` (0) exp [– (`r` / `w`)^2^]
+
+
+    where `r` is the distance from beam centre and `w` is the radius at which the
+    amplitude is 1/e of its value on the axis.'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gaussian beam
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 23d21057-5d42-58ac-bcca-0b5023a330ee
+status: valid

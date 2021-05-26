@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: line integral along a closed curve, the differential element of which
+    is the scalar product of a vector and the vector line element
+  examples: []
+  id: 102-05-05
+  language_code: eng
+  notes:
+  - The circulation along the oriented closed curve Γ of the vector *`V`* is denoted
+    by `underset(Gamma)( oint ) V * d r`.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 185b686d-d57b-55bc-b9ea-1b39afb31f15
+status: valid

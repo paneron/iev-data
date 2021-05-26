@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      original: IEC Guide 116:2010, 3.5
+      ref: IEC Guide 116:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: évènement qui peut causer un {{dommage, IEV:903-01-01}}
+  examples: []
+  id: 903-01-04
+  language_code: fra
+  notes:
+  - Un évènement dangereux peut être de courte durée ou de longue durée.
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: évènement dangereux
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-06-01
+id: ebac727e-c59b-570c-8e7e-ccdcefda9ef9
+status: valid

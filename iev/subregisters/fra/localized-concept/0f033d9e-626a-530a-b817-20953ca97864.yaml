@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - - clause: '1.12'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC GUIDE 99:2007 1.12
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        type: identical
+  dateAmended: 2010-01-01
+  definition: unité dérivée qui, pour un système de grandeurs donné et pour un ensemble
+    choisi d'unités de base, est un produit de puissances des unités de base sans
+    autre facteur de proportionnalité que le nombre un
+  examples: []
+  id: 112-01-20
+  language_code: fra
+  notes:
+  - Une puissance d'une unité de base est l'unité munie d'un exposant.
+  - La cohérence ne peut être déterminée que par rapport à un système de grandeurs
+    particulier et un ensemble donné d'unités de base. Si par exemple le mètre, la
+    seconde et la mole sont des unités de base, le mètre par seconde est l'unité dérivée
+    cohérente de vitesse lorsque la vitesse est définie par l'équation aux grandeurs
+    `ν` = d`r` /d`t`, et la mole par mètre cube est l'unité dérivée cohérente de concentration
+    en quantité de matière lorsque la concentration en quantité de matière est définie
+    par l'équation aux grandeurs `c = n/V`. Le kilomètre par heure et le nœud ne sont
+    pas des unités dérivées cohérentes dans un tel système.
+  - Une unité dérivée peut être cohérente par rapport à un système de grandeurs, mais
+    non par rapport à un autre. Par exemple, le centimètre par seconde est l'unité
+    cohérente de vitesse dans les systèmes CGS mais n'est pas une unité cohérente
+    de vitesse dans le SI.
+  - Dans tout système de grandeurs, l'unité dérivée cohérente des grandeurs sans dimension
+    est le nombre un, de symbole 1. Aussi bien le nom que le symbole de l'unité sont
+    généralement omis, sauf s'il existe un nom spécial pour l'unité un.
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unité dérivée cohérente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-01-01
+id: 0f033d9e-626a-530a-b817-20953ca97864
+status: valid

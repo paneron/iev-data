@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: result of an exponentiation
+  examples: []
+  id: 102-02-08
+  language_code: eng
+  notes:
+  - The term "power" is also used for an expression representing an exponentiation.
+  - In the power `a`^`b`^, `a` is the base and `b` is the exponent. The power is expressed
+    by the words "`a` to the power `b`" or simply "`a` to `b`".
+  - The power with exponent 2 is the square, `a^2 = a * a`, the power with exponent
+    3 is the cube, `a^3 = a * a * a`, the power with exponent −1 is the inverse, `a^(-
+    1) = 1 // a`, the power with exponent 1/2 is the square root, `a^(1 // 2) = sqrt(a)`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: fc9e28a0-99e6-571e-bd8b-7e68bab60500
+status: valid

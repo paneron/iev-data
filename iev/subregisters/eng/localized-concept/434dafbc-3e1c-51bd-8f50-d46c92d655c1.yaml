@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: unit of quantum information in a quantum computing system consisting
+    of superconducting circuits including Josephson junctions
+  examples: []
+  id: 815-16-56
+  language_code: eng
+  notes:
+  - Superconducting qubits are classified into three different types depending on
+    which quantum degrees of freedom they utilize. The first one uses states determined
+    by the number of Cooper pairs (charge qubit), the second one uses direction of
+    a persistent circulating current in a superconducting loop (flux qubit), and the
+    third one uses states determined by quantum oscillation of the phase difference
+    between electrodes of a Josephson junction (phase qubit).
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: superconducting qubit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 434dafbc-3e1c-51bd-8f50-d46c92d655c1
+status: valid

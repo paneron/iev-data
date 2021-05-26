@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: produit de l'<a href="IEV845-21-035">efficacité lumineuse relative spectrale</a>
+    et de l'efficacité lumineuse maximale pour une condition photométrique spécifiée
+  examples: []
+  id: 845-21-091
+  language_code: fra
+  notes:
+  - Il convient de spécifier la condition photométrique (par exemple, photopique,
+    scotopique, mésopique). En l'absence de spécification, la vision photopique est
+    par hypothèse utilisée, de même que le symbole `K`(`λ`)`.` Pour les autres conditions
+    photométriques, le symbole respectif pour l'identification doit être utilisé.
+  - 'L''efficacité lumineuse relative spectrale pour la vision photopique est exprimée
+    par
+
+
+    `K`(`λ`) = `K`~m~ `V`(`λ`)
+
+
+    où `K`~m~ est l''efficacité lumineuse maximale, `V`(`λ`) est l''efficacité lumineuse
+    relative spectrale et `λ` est la longueur d''onde.'
+  - L'efficacité lumineuse relative spectrale est exprimée en lumen par watt (lm·W^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: efficacité lumineuse relative spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour une condition photométrique spécifiée
+dateAccepted: 2018-11-17
+id: fd3c166d-265d-544a-8e68-2adf55b86bf0
+status: valid

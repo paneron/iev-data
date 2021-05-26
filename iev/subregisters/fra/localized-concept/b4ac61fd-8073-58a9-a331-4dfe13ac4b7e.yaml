@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{instruction, IEV:171-05-08}} écrite dans un {{langage source, IEV:171-05-18}}
+    et destinée à être remplacée par une suite déterminée d''instructions dans le
+    même langage source'
+  examples: []
+  id: 171-05-49
+  language_code: fra
+  notes:
+  - Une macro-instruction peut également spécifier les valeurs qui doivent être attribuées
+    à certains paramètres dans les instructions qui la remplaceront.
+  - Tous les langages sources ne permettent pas d’utiliser des macro-instructions.
+  reviewDecisionEvent: published
+  terms:
+  - designation: macro-instruction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: macro
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b4ac61fd-8073-58a9-a331-4dfe13ac4b7e
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: frequency at which the modulus of the common-emitter small-signal short-circuit
+    forward current transfer ratio |`h`~21`e`~| has decreased to unity
+  examples: []
+  id: 521-07-22
+  language_code: eng
+  notes: []
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: frequency of unity current transfer ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~l~'
+    international: true
+    type: symbol
+dateAccepted: 2002-05-01
+id: 8b17e9f6-8dad-5851-b764-bc185e904cd9
+status: valid

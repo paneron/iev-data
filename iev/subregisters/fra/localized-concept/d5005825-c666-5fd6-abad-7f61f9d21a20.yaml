@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: amélioration du rapport signal sur bruit à la sortie d'un démodulateur
+    apportée par un type de modulation par rapport à une modulation de référence
+  examples: []
+  id: 713-10-43
+  language_code: fra
+  notes:
+  - Le gain de modulation est exprimé par le quotient du rapport signal sur bruit
+    à la sortie du démodulateur par le rapport porteuse sur bruit à l'entrée.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gain de modulation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: d5005825-c666-5fd6-abad-7f61f9d21a20
+status: valid

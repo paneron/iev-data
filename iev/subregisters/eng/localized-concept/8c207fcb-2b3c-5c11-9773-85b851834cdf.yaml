@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.38
+      link: https://webstore.iec.ch/publication/22781
+      original: IEC 62279:2015, 3.1.38
+      ref: IEC 62279:2015
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: classification number which determines the techniques and measures that
+    have to be applied to software
+  examples: []
+  id: 821-12-64
+  language_code: eng
+  notes:
+  - Safety-related software have been classified into five software safety integrity
+    levels, where 0 is the lowest and 4 the highest.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: software safety integrity level
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 8c207fcb-2b3c-5c11-9773-85b851834cdf
+status: valid

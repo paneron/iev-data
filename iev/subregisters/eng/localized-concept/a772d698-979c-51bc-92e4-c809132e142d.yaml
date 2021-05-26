@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 421-03-06
+      link: https://webstore.iec.ch/publication/201
+      original: IEC 60050-421:1990, 421-03-06, modified
+      ref: IEC 60050-421:1990
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: winding which, in service, receives active power from the supply network
+  examples: []
+  id: 811-26-09
+  language_code: eng
+  notes:
+  - In electric traction, when this power is supplied from the contact line the primary
+    winding can be referred to as "high-voltage winding".
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: primary winding
+    normative_status: preferred
+    type: expression
+    usage_info: in electric traction
+dateAccepted: 2017-11-01
+id: a772d698-979c-51bc-92e4-c809132e142d
+status: valid

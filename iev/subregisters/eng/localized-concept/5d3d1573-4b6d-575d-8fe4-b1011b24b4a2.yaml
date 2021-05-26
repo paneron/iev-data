@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: complex quantity representing a real quantity which varies sinusoidally
+    with time (such as sound pressure, vibration velocity, voltage), or the quotient
+    of two such complex quantities of the same frequency, which can be expressed in
+    the form (`a`+`jb`) with real part `a` and imaginary part `b`, or as a phasor
+    Ae ^`j`θ^ with modulus `A` and argument θ
+  examples: []
+  id: 801-25-03
+  language_code: eng
+  notes:
+  - Throughout this section, all parameters (mechanical, acoustic, or electric) are
+    considered to be complex, unless specified otherwise.
+  - The convention of +`j` is observed here, whereby a positive-going sine wave is
+    represented by `Re`(`e` ^`j`(ω`t`-`kx`)^) a mass reactance by +`j`ω`M`, and a
+    stiffness reactance by -`jS`/ω. Wave number `k` = ω/`c` is the quotient of angular
+    frequency ω by speed of sound `c`; mass `M`; stiffness `S`.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex parameter
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 5d3d1573-4b6d-575d-8fe4-b1011b24b4a2
+status: valid

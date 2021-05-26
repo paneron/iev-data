@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: time interval, in the life of a non-repairable item, during which its
+    failure rate is considered to be constant
+  examples: []
+  id: 192-02-30
+  language_code: eng
+  notes:
+  - See constant failure intensity period ({{192-02-29, IEV:192-02-29}}) for repairable
+    items.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constant failure rate period
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-02-01
+id: ce1e210f-8497-518f-a3a0-1c8f823ec7b3
+status: valid

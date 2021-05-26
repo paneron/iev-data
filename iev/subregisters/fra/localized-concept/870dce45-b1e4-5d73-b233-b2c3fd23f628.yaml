@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du niveau de luminance maximal qui apparait non limité par
+    le niveau de luminance minimal qui peut être reproduit avec un signal incrémental
+    selon un rapport de bruit temporel d'au moins 1
+  examples: []
+  id: 845-32-055
+  language_code: fra
+  notes:
+  - Tel que déterminé conformément à l'ISO 15739, _Photography – Electronic still-picture
+    imaging – Noise measurements_ (disponible en anglais seulement).
+  - L'unité de plage dynamique d'un appareil photographique numérique ISO est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: plage dynamique d'un appareil photographique numérique ISO
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 870dce45-b1e4-5d73-b233-b2c3fd23f628
+status: valid

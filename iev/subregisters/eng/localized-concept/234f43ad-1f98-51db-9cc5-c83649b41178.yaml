@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: potential for a photochemically induced retinal injury (photic maculopathy)
+    resulting from <a href="IEV845-21-002">optical radiation</a> exposure at wavelengths
+    primarily between 400 nm and 500 nm
+  examples: []
+  id: 845-26-055
+  language_code: eng
+  notes:
+  - This damage mechanism dominates over the thermal damage mechanism for exposure
+    durations exceeding 10 s.
+  - The action spectrum extends into the <a href="IEV845-21-009">UV-A</a> for persons
+    without a normal UV-A absorbing lens.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blue light hazard
+    normative_status: preferred
+    type: expression
+  - designation: BLH
+    type: expression
+dateAccepted: 2020-12-01
+id: 234f43ad-1f98-51db-9cc5-c83649b41178
+status: valid

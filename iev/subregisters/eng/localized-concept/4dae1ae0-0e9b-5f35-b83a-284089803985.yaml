@@ -1,0 +1,50 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: the complex ratio of a sinusoidal field quantity, such as a reflected
+    current or reflected wave component, to the corresponding field quantity of the
+    incident current or incident wave at a point near the surface separating two propagation
+    media, near a port of an electrical network or near a discontinuity in a transmission
+    line
+  examples: []
+  id: 702-07-24
+  language_code: eng
+  notes:
+  - 1 – When the field quantity is a component of a plane electromagnetic wave, the
+    sign of the reflection factor is different for an electric field component and
+    the corresponding magnetic field component.
+  - 2 – When the field quantity refers to a port of an electrical network, or to a
+    discontinuity in a transmission line, a voltage reflection factor can be defined
+    with a sign opposite to that of the current reflection factor.
+  - '3 – When impedances can be defined, the complex current reflection factor `r`
+    equals:
+
+
+    `underset(_)(r) = ((underset(_)(Z) - underset(_)(Z)^( '' )))/((underset(_)(Z)
+    + underset(_)(Z)^( '' )))`
+
+
+    where `Z` is the characteristic impedance of the transmission line ahead of the
+    discontinuity or the impedance of the source and `Z`′ is the impedance after the
+    discontinuity or the load impedance seen from the junction between the source
+    and the load.'
+  - 4 – The reflection factor depends in the case of waveguides on the electromagnetic
+    mode considered.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex reflection factor
+    normative_status: preferred
+    type: expression
+  - designation: complex reflection coefficient
+    normative_status: preferred
+    type: expression
+  - designation: <u>`r`</u>
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: 4dae1ae0-0e9b-5f35-b83a-284089803985
+status: valid

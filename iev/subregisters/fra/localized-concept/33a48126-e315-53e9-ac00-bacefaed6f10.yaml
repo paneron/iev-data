@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-04-01
+  definition: 'quotient de la variation relative de la perméabilité effective due
+    à une variation de température par cette variation de température: `alpha_((mu
+    e)) = (((( mu_e ))_(theta) - (( mu_e ))_((ref))))/(((( mu_e ))_((ref)) ( theta
+    - theta_((ref)) )))` où (`µ`~e~)`θ` et (`µ`~e~)~ref~ sont respectivement les perméabilités
+    effectives aux températures `θ` et `θ`~ref~'
+  examples: []
+  id: 221-02-51
+  language_code: fra
+  notes: []
+  reviewDate: 2007-04-01
+  reviewDecisionDate: 2007-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de température de la perméabilité effective
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2007-04-01
+id: 33a48126-e315-53e9-ac00-bacefaed6f10
+status: valid

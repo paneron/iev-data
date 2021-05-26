@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{polarisation, IEV:705-01-13}} d''un vecteur de champ spécifié pour
+    un mode donné faisant partie d''une suite de {{modes dégénérés, IEV:726-03-17}}
+    dans un {{guide d''ondes, IEV:151-12-34}}'
+  examples: []
+  id: 726-04-02
+  language_code: fra
+  notes:
+  - La notion de "polarisation d'un mode dégénéré" s'applique principalement aux guides
+    d'ondes de section droite, carrée ou circulaire où existent deux modes de propagation
+    indépendants. Dans ce cas, on peut prendre comme polarisation du mode dégénéré
+    celle du vecteur {{champ électrique, IEV:121-11-18}} dans un axe de symétrie du
+    guide.
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarisation d'un mode dégénéré
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a1bf696-f3ee-5ed5-a650-5425442e2fcd
+status: valid

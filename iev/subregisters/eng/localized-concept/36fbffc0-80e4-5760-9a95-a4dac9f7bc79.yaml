@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: force *`F`* exerted on a particle having electric charge `Q` and velocity
+    *`v`* , given by the relation *`F`* = `Q`(*`E`* + *`v`* x *`B`*) where *`E`* is
+    the electric field strength and *`B`* the magnetic flux density
+  examples: []
+  id: 121-11-20
+  language_code: eng
+  notes:
+  - The component vector `Q` *`E`*  is the Coulomb force.
+  - The component vector `Q` *`v`* × *`B`*  is the Lorentz force.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Coulomb-Lorentz force
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: 36fbffc0-80e4-5760-9a95-a4dac9f7bc79
+status: valid

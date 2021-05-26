@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2018-09-01
+  definition: See {{IEV 702-04-13, IEV:702-04-13}}
+  examples: []
+  id: 704-13-12
+  language_code: eng
+  notes: []
+  reviewDate: 2018-09-01
+  reviewDecisionDate: 2018-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: isochronous
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: synchronous
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-09-01
+id: a5a6593c-b9c3-5e14-9726-9830a43a852b
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: imaginary part of the propagation coefficient `beta = Im underset(_)(gamma)`
+  examples: []
+  id: 103-10-20
+  language_code: eng
+  notes:
+  - For a transmission line the phase coefficient is the limit of the quotient of
+    the phase change of a field quantity between two points on the axis by the distance
+    between the points, when this distance tends to zero.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase coefficient
+    normative_status: preferred
+    type: expression
+  - designation: phase-change coefficient
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 69fd48c3-15d5-509c-b407-215b4e73b9b3
+status: valid

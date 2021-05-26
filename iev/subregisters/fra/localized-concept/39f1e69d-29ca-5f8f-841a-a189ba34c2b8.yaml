@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'vecteur complexe `vec underset(_)(K) = vec K^( '' ) + j vec K^( ″ )`
+    caractérisant une onde électromagnétique sinusoïdale en un point lorsque chacun
+    des vecteurs du champ électromagnétique peut être représenté, dans un domaine
+    au voisinage de ce point, par une expression de la forme: `vec (underset(_)(V))_i
+    = vec underset(_)(V)_((oi)) e^(j ( omega t - vec underset(_)(K) * vec r ))` dans
+    laquelle: - les vecteurs `vec underset(_)(V)_((oi))`, généralement complexes,
+    sont indépendants du temps et pratiquement constants dans le domaine considéré,
+    - le vecteur `vec underset(_)(K)` est pratiquement constant dans le domaine considéré,
+    - `ω` est la pulsation, - `t` est le temps, - `vec r` est le vecteur joignant
+    l''origine des coordonnées au point considéré du domaine'
+  examples: []
+  id: 705-01-28
+  language_code: fra
+  notes:
+  - Si l'onde peut être caractérisée en chaque point d'un domaine par un vecteur d'onde,
+    il existe une surface d'onde passant par ce point et normale à la partie réelle
+    `vec K^( ' )` du vecteur d'onde. La norme de `vec underset(_)(K)` est le quotient
+    de 2π par la longueur d'onde
+  - L'onde est à polarisation elliptique si la partie imaginaire de chaque vecteur
+    `vec underset(_)(V)_((oi))` n'est ni nulle ni colinéaire à sa partie réelle, elle
+    est à polarisation rectiligne dans les autres cas.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vecteur d'onde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 39f1e69d-29ca-5f8f-841a-a189ba34c2b8
+status: valid

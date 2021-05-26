@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-01-01
+  definition: valeur la plus élevée du courant électrique qu'un circuit de sortie
+    est capable d'établir et d'interrompre successivement dans des conditions spécifiées
+    telles que tension de contact, nombre de manœuvres, facteur de puissance, constante
+    de temps
+  examples: []
+  id: 444-04-32
+  language_code: fra
+  notes:
+  - En courant alternatif la valeur efficace est spécifiée.
+  reviewDate: 2002-01-01
+  reviewDecisionDate: 2002-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pouvoir limite de manœuvre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 071e1344-ff41-5498-8d0a-625414e6b67d
+status: valid

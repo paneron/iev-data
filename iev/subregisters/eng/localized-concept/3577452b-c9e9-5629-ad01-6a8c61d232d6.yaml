@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: local acceleration equal to the vector sum of the acceleration due to
+    gravity and the centrifugal acceleration in the reference frame fixed to rotating
+    Earth
+  examples: []
+  id: 113-01-39
+  language_code: eng
+  notes:
+  - 1 The concept of acceleration of free fall may be used for any other astronomical
+    object.
+  - 2 The fall of a body in the atmosphere is also influenced by other effects such
+    as Coriolis force and buoyancy. These additional effects are not taken into account
+    in the definition of free fall acceleration.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: acceleration of free fall
+    normative_status: preferred
+    type: expression
+  - designation: acceleration due to gravity
+    type: expression
+  - designation: '`g`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 3577452b-c9e9-5629-ad01-6a8c61d232d6
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: distance à partir d'une station radioélectrique, dans une direction
+    donnée, au-delà de laquelle le {{brouillage radioélectrique, IEV:161-01-14}} causé
+    ou subi par toute autre station radioélectrique partageant la même {{bande de
+    fréquences, IEV:103-09-01}} est considéré comme négligeable pour les besoins de
+    la planification
+  examples: []
+  id: 705-08-39
+  language_code: fra
+  notes:
+  - En pratique, une distance de coordination se définit pour une {{station terrienne,
+    IEV:713-02-05}} ou une {{station de Terre, IEV:713-02-04}}, mais non pour une
+    {{station spatiale, IEV:713-02-06}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: distance de coordination
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1eab8080-1f60-5226-bd3c-912716748dfd
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 604-03-06
+      original: 604-03-06 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: en un emplacement donné d'un réseau triphasé, et pour un schéma d'exploitation
+    donné de ce réseau, rapport entre d'une part la tension efficace la plus élevée,
+    à la fréquence du réseau, entre un conducteur de ligne saine et la terre pendant
+    un défaut à la terre affectant un ou plusieurs conducteurs de ligne en un point
+    quelconque du réseau, et d'autre part la valeur efficace de la tension phase-terre
+    à la fréquence du réseau qui serait obtenue à l'emplacement considéré en l'absence
+    d'un tel défaut à la terre
+  examples: []
+  id: 195-05-14
+  language_code: fra
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de court-circuit à la terre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: bb3307a0-aff8-5227-b137-1b211c3ac1d4
+status: valid

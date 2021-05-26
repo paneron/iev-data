@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the ratio, generally expressed in decibels, of the power of the wanted
+    signal to that of the coexistent noise at a specified point in a transmission
+    channel under specified conditions
+  examples: []
+  id: 702-08-61
+  language_code: eng
+  notes:
+  - The signal cannot generally be separated from noise, and in practice the ratio
+    (signal + noise) to noise is measured.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal-to-noise ratio
+    normative_status: preferred
+    type: expression
+  - designation: signal/noise ratio
+    type: expression
+  - designation: 'symb.: `S/N`'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: 2d01a7f8-4ba8-53b3-a1dd-445073b17d7e
+status: valid

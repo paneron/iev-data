@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: nombre d'échantillons d'un signal pris par unité de temps
+  examples: []
+  id: 704-23-03
+  language_code: fra
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fréquence d'échantillonnage
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: taux d'échantillonnage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 3bf080c9-fc6e-5743-978e-242a3eb82611
+status: valid

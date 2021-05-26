@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: plage finie de valeurs de la variable d'entrée à l'intérieur de laquelle
+    une variation de la variable d'entrée n'entraîne pas de variation mesurable de
+    la variable de sortie
+  examples: []
+  id: 351-45-15
+  language_code: fra
+  notes:
+  - Lorsqu’une caractéristique de ce genre a été introduite intentionnellement, on
+    l’appelle parfois zone neutre.
+  - Cet article était numéroté 351-24-14 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone d'insensibilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: zone morte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: e81ba569-3b0a-5ab0-91c6-4fb46290cd47
+status: valid

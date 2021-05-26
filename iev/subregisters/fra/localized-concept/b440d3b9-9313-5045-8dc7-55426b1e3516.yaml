@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: module de l'inverse du facteur de réflexion complexe, généralement exprimé
+    en décibels
+  examples: []
+  id: 702-07-25
+  language_code: fra
+  notes:
+  - 'Si on peut définir des impédances, le facteur d''adaptation est donné par la
+    formule:
+
+
+    `- 20 lg | r | = 20 lg | ((underset(_)(Z) - underset(_)(Z)^( '' )))/((underset(_)(Z)
+    + underset(_)(Z)^( '' ))) |`
+
+
+    où `Z` est l''impédance caractéristique d''une ligne de transmission avant une
+    discontinuité ou l''impédance d''une source, et `Z`′ est l''impédance après la
+    discontinuité ou l''impédance de la charge vue de l''accès commun à la source
+    et à la charge.'
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur d'adaptation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: affaiblissement d'adaptation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: b440d3b9-9313-5045-8dc7-55426b1e3516
+status: valid

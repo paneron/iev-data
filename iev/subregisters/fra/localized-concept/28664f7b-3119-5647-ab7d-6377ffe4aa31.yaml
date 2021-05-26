@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 10.2.2
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 10.2.2, modifiée – La note du titre de l'Article
+        10 du Guide ISO/CEI 2:2004 a été rajouté à l'entrée.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: La note du titre de l'Article 10 du Guide ISO/CEI 2:2004 a été
+          rajouté à l'entrée.
+        type: modified
+  definition: application d'une {{norme internationale, IEV:901-02-03}} par le biais
+    d'un autre {{document normatif, IEV:901-02-01}} dans lequel elle a été {{reprise,
+    IEV:901-06-10}}
+  examples: []
+  id: 901-06-13
+  language_code: fra
+  notes:
+  - 'Un document normatif peut être mis en œuvre de deux façons: soit par mise en
+    application dans la production, le commerce, etc., soit par reprise, totale ou
+    partielle, dans un autre document normatif. Il peut être alors mis en application
+    par le biais de ce second document ou repris de nouveau dans un autre document
+    normatif.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: application indirecte d'une norme internationale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 28664f7b-3119-5647-ab7d-6377ffe4aa31
+status: valid

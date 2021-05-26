@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{survenance d''indisponibilités multiples corrélées, IEV:692-05-04}}
+    résultant d''un événement initiateur externe unique, où les indisponibilités induites
+    ne sont pas conséquentes les unes des autres image::/assets/images/parts/692/692-fig5-fr.png[Figure
+    5 - Relations entre survenances d''indisponibilité]'
+  examples: []
+  id: 692-05-05
+  language_code: fra
+  notes:
+  - Une survenance d'indisponibilités multiples par cause commune peut être un coup
+    de foudre et l'amorçage en retour affectant les deux circuits d'une ligne double,
+    conduisant à l’indisponibilité des deux circuits.
+  reviewDecisionEvent: published
+  terms:
+  - designation: survenance d’indisponibilités multiples par cause commune
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6fdd885d-cd4d-5d1a-98c4-2adc1f7e72b9
+status: valid

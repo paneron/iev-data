@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1234
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1234, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2014-03-01
+  definition: radiation detector made of crystalline material that, by thermal stimulation,
+    emits luminous radiation whose magnitude is proportional to the energy stored
+    in the detector during its exposure to ionizing radiation
+  examples: []
+  id: 395-03-04
+  language_code: eng
+  notes:
+  - This entry was numbered 394-27-04 in IEC 60050-394:2007.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermoluminescent detector
+    normative_status: preferred
+    type: expression
+  - designation: TLD
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 20f55751-2b05-584f-9e58-719bc5176f67
+status: valid

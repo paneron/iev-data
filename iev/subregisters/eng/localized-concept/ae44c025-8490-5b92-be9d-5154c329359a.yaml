@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: function expressing the probability `P`(`E`), for a particle obeying
+    Fermi statistics, that it will occupy a permitted energy level `E` `P ( E ) =
+    (1)/((1 + exp ( ((E - E_F))/((k T)) )))` where `k` is the Boltzmann constant `T`
+    is the thermodynamic temperature `E`~F~ is the Fermi-level and where this level
+    is quantized and may contain 0, 1 or 2 electrons.
+  examples: []
+  id: 521-01-16
+  language_code: eng
+  notes: []
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Fermi-Dirac function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-05-01
+id: ae44c025-8490-5b92-be9d-5154c329359a
+status: valid

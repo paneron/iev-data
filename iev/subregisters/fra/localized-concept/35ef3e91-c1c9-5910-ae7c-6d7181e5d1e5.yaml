@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: dispositif semiconducteur utilisant la production et le déplacement
+    des paires électrons-trous dans la zone de déplétion de porteurs de charge du
+    semiconducteur pour la mesure et la détection du rayonnement ionisant
+  examples: []
+  id: 395-03-35
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-01 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 35ef3e91-c1c9-5910-ae7c-6d7181e5d1e5
+status: valid

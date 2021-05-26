@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: highest value of the {{energizing quantity, IEV:447-03-01}} (RMS value
+    if AC) that a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    can carry continuously under specified conditions, while satisfying specified
+    temperature rise requirements
+  examples: []
+  id: 447-03-13
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: continuous thermal withstand value
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 6d6cf023-5a7a-57e3-9529-34f27fd84c7f
+status: valid

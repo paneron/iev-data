@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: suite d'{{instructions, IEV:171-05-08}} qui peuvent être exécutées de
+    façon {{concurrente, IEV:171-05-64}} avec d'autres suites d'instructions ou être
+    imbriquées avec elles
+  examples: []
+  id: 171-05-68
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: tâche
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en programmation
+dateAccepted: 2018-11-17
+id: 64bbd020-7af8-5a21-8968-536f878d430e
+status: valid

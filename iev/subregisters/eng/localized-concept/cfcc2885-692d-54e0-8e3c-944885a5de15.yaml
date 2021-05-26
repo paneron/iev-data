@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the critical value of a given system state variable which cannot be
+    exceeded without endangering power system stability
+  examples: []
+  id: 603-03-10
+  language_code: eng
+  notes:
+  - For a power system without a fault this concept is related to the steady-state
+    stability of the system.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stability limit of a system state variable
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: cfcc2885-692d-54e0-8e3c-944885a5de15
+status: valid

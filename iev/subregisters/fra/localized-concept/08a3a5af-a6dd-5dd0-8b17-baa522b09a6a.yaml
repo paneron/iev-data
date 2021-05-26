@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: ordre qui est émis dès que l'étape correspondante est activée et qui
+    cesse lorsqu'il est explicitement désactivé par une étape subséquente
+  examples: []
+  id: 351-51-05
+  language_code: fra
+  notes:
+  - L'ordre mémorisé est identifié dans la CEI 60848, _Langage de spécification GRAFCET
+    pour diagrammes fonctionnels en séquence_, par la lettre conventionnelle "S".
+  - Cet article était numéroté 351-29-32 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ordre mémorisé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 08a3a5af-a6dd-5dd0-8b17-baa522b09a6a
+status: valid

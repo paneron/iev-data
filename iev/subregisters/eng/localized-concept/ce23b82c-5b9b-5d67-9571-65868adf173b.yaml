@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: of a material for indirectly ionizing particles, the quotient d`N`/`N`
+    by `ρ` d`l`,where d`N`/`N` is the fraction of particles that experience interactions
+    in traversing a distance d`l` in a medium of density `ρ` `(mu)/(rho) = (1)/((rho
+    N)) ((d N))/((d l))`
+  examples: []
+  id: 881-04-27
+  language_code: eng
+  notes:
+  - The mass attenuation coefficient `(mu)/(rho)` for X-radiation and gamma-radiation
+    may be expressed as the sum of several parts, each attributed to a particular
+    phenomenon; `(tau)/(rho)` for the photoelectric effect; `((sigma_c))/(rho)` for
+    the Compton effect; `((sigma_((coh))))/(rho)` for coherent scattering; and `(kappa)/(rho)`
+    for pair production.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mass attenuation coefficient
+    normative_status: preferred
+    type: expression
+  - designation: '`(mu)/(rho)`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: ce23b82c-5b9b-5d67-9571-65868adf173b
+status: valid

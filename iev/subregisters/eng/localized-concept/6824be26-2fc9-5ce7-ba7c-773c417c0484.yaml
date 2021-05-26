@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: See {{IEV 702-08-63, IEV:702-08-63}}
+  examples: []
+  id: 713-11-10
+  language_code: eng
+  notes: []
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal-to-interference ratio
+    normative_status: preferred
+    type: expression
+  - designation: signal/interference ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`S`/`I`'
+    international: true
+    type: symbol
+dateAccepted: 2017-07-01
+id: 6824be26-2fc9-5ce7-ba7c-773c417c0484
+status: valid

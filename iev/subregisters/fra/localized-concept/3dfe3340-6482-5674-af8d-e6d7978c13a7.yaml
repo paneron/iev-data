@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: équivalent de dose à un organe ou tissu qui sera intégré pendant 50
+    ans à partir de l'incorporation du matériau radioactif dans l'organisme `H_((50))
+    = int_(t_0)^(t_0 + 50 ans) overset(˙)(H) ( t ) d t` où `overset(˙)(H) ( t )` est
+    le débit équivalent de dose au temps `t` et `t`~0~ le temps de l'incorporation
+  examples: []
+  id: 881-14-20
+  language_code: fra
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: équivalent de dose engagée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 3dfe3340-6482-5674-af8d-e6d7978c13a7
+status: valid

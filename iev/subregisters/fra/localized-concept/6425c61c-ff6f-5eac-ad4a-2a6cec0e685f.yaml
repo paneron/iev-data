@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: démodulateur permettant de réduire la valeur du seuil par rapport à
+    un démodulateur classique conçu pour le même type de modulation
+  examples: []
+  id: 713-10-44
+  language_code: fra
+  notes:
+  - En démodulation de fréquence, un démodulateur à abaissement de seuil agit par
+    filtrage au voisinage de la fréquence instantanée dans une bande plus étroite
+    que la bande totale occupée.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: démodulateur à abaissement de seuil
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: démodulateur à seuil amélioré
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 6425c61c-ff6f-5eac-ad4a-2a6cec0e685f
+status: valid

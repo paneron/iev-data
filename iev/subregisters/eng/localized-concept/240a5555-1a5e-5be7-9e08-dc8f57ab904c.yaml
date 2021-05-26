@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: 'algebraic equation giving the number d`N` of particles of a quantized
+    system in equilibrium, the velocity components of which are included in the intervals
+    (`u`, `u` + d`u`), (`v`, `v` + d`v`), (`w`, `w` + d`w`) : respectively: `d N =
+    2 N * ((m^3))/((h^3)) * ((d u * d v * d w))/((1 + exp ( ((E - E_M))/((k T)) )))`
+    where `N` is the total number of particles `m` is the mass of the particle `T`
+    is the thermodynamic temperature `k` is the Boltzmann constant `h` is the Planck
+    constant `E` is the kinetic energy of a particle, `E = (m)/(2) ( u^2 + v^2 + w^2
+    )` `E`~M~ is the inner work function d`N`/`N` represents the probability that
+    a particle has its components within the intervals considered.'
+  examples: []
+  id: 521-01-19
+  language_code: eng
+  notes: []
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Fermi-Dirac-Sommerfeld velocity distribution law
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-05-01
+id: 240a5555-1a5e-5be7-9e08-dc8f57ab904c
+status: valid

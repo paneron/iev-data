@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'time response of a linear time-invariant system, which initially is
+    in steady state `U`~0~, `V`~0~, produced by application of a step function Δ`u`~ε~(`t`)
+    = `K`~ε~·ε(`t`) to one of the input variables, where Δ`v`~ε~(`t`) = `v`(`t`) –
+    `V`~0~ and Δ`u`~ε~(`t`) = `u`(`t`) – `U`~0~ SEE: Figure 5.'
+  examples: []
+  id: 351-45-27
+  language_code: eng
+  notes:
+  - The step response of a linear time-invariant system is proportional to the time
+    integral of its impulse response.
+  - This entry was numbered 351-24-20 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: step response
+    normative_status: preferred
+    type: expression
+  - designation: Δ`v`~ε~(`t`)
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: e5f0bf52-504d-5c59-909d-6d68dfb47f0e
+status: valid

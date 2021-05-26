@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: rapport du phaseur représentant la tension réfléchie au phaseur représentant
+    la tension incidente à un accès d'un réseau électrique ou en un point proche d'une
+    discontinuité d'une ligne de transmission
+  examples: []
+  id: 131-15-33
+  language_code: fra
+  notes:
+  - À un accès d'un réseau électrique, le facteur de réflexion complexe en tension
+    est par convention l'opposé du facteur de réflexion complexe du courant.
+  - 'Si on peut définir des impédances, le facteur de réflexion complexe en tension
+    est égal à
+
+
+    `underset(_)(r) = ((underset(_)(Z) '' - underset(_)(Z)))/((underset(_)(Z) '' +
+    underset(_)(Z)))`
+
+
+    où <u>`Z`</u> est l''impédance caractéristique de la ligne avant la discontinuité
+    ou l''impédance de la source, et <u>`Z`</u>′ est l''impédance après la discontinuité
+    ou l''impédance de la charge vue de l''accès commun à la source et à la charge.'
+  - Dans un contexte approprié, on peut abréger le terme "facteur de réflexion complexe
+    en tension" par omission de "complexe", de "en tension", ou des deux.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de réflexion complexe en tension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient de réflexion complexe en tension
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: fe745164-82ca-5dca-b7b1-51f06c43d7ac
+status: valid

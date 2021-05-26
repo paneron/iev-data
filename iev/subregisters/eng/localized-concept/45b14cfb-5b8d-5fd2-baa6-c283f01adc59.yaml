@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 13-27
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-27, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: ratio of the {{entropy, IEV:171-07-15}} `H` to the {{decision content,
+    IEV:171-07-10}} `H`~0~ `H`~r~ = `H`/`H`~0~
+  examples:
+  - 'Let `{ a , b , c }` be a set of three events and let `p ( a ) = 0,5`, `p ( b
+    ) = 0,25` and `p ( c ) = 0,25` be the probabilities of their occurrences. The
+    relative entropy of this set is: `H_r = 1,5 Sh // 1,585 Sh tildetilde 0,95`.'
+  id: 171-07-17
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative entropy
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 45b14cfb-5b8d-5fd2-baa6-c283f01adc59
+status: valid

@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for any vector *`U`*, non-negative scalar, usually denoted by `| U |`,
+    equal to the non-negative square root of the scalar product or, in the case of
+    a complex vector, of the Hermitian product of the vector by itself
+  examples: []
+  id: 102-03-23
+  language_code: eng
+  notes:
+  - "The magnitude of a vector *`U`* has the following properties:\n\n\n\n* `U = 0`\
+    \ if and only if `| U | = 0`,\n\n* `| alpha U | = | alpha | * | U |` where `α`\
+    \ is a scalar, \n\n* `| U + V | &lt;= | U | + | V |` where *`V`* is any other\
+    \ vector."
+  - For a vector *`U`* in the three-dimensional Euclidean or Hermitian space with
+    orthonormal base, the magnitude is given by `| U | = sqrt(| U_1 |^2 + | U_2 |^2
+    + | U_3 |^2)`.
+  - The terms "Euclidean norm" and "Hermitian norm" may be used for the real or the
+    complex case, respectively.
+  - The magnitude of a vector *`U`* is represented by `| U |` or by `U`; `‖ U ‖` is
+    also used.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: magnitude
+    normative_status: preferred
+    type: expression
+    usage_info: of a vector
+  - designation: norm
+    type: expression
+    usage_info: of a vector
+dateAccepted: 2008-08-01
+id: ef90d5cd-933c-5baf-8d92-0cbe6b3d66d1
+status: valid

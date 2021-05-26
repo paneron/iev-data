@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 702-01-02
+      original: 702-01-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1993-08-01
+  definition: ensemble continu des fréquences comprises entre deux fréquences limites
+    spécifiées
+  examples: []
+  id: 704-09-02
+  language_code: fra
+  notes:
+  - Une bande de fréquences est caractérisée par deux valeurs qui déterminent sa position
+    dans le spectre des fréquences, par exemple les fréquences limites inférieure
+    et supérieure.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bande de fréquences
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 55b6abec-a918-5edc-af5f-562520923afe
+status: valid

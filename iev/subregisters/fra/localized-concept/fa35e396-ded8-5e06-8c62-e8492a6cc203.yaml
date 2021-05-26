@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un point donné d'une courbe orientée munie d'un point origine,
+    nombre réel dont la valeur absolue est la longueur de la courbe entre l'origine
+    et le point donné et dont le signe est positif ou négatif selon que le parcours
+    de l'origine au point donné est compatible ou non avec l'orientation de la courbe
+  examples: []
+  id: 102-04-22
+  language_code: fra
+  notes:
+  - Pour une courbe définie par le rayon vecteur `r = f ( u )` en fonction du paramètre
+    `u` et munie d'une origine O correspondant à `u = 0` , l'abscisse du point M correspondant
+    à `u` = `u`~M~ est l'intégrale curviligne `int_O^M | d r | = int_0^((u_M)) | ((d
+    f))/((d u)) | d u`.
+  - Dans l'espace géométrique usuel, l'abscisse le long d'une courbe est une grandeur
+    ayant la dimension d'une longueur.
+  reviewDecisionEvent: published
+  terms:
+  - designation: abscisse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: le long d'une courbe
+dateAccepted: 2018-11-17
+id: fa35e396-ded8-5e06-8c62-e8492a6cc203
+status: valid

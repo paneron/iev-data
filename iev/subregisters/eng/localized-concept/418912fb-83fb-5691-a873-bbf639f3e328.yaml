@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: the distortion caused by sampling a signal at an inappropriate rate
+    and which results in the overlapping of the sidebands around the harmonics of
+    the sampling frequency in the spectrum of the sample signal
+  examples: []
+  id: 704-23-04
+  language_code: eng
+  notes: []
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: aliasing
+    normative_status: preferred
+    type: expression
+  - designation: foldover distortion
+    type: expression
+dateAccepted: 1993-08-01
+id: 418912fb-83fb-5691-a873-bbf639f3e328
+status: valid

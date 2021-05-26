@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of reflected radiant flux, `Φ`~r~, and incident radiant flux,
+    `Φ`~m~ `rho = ((Phi_r))/((Phi_m))`
+  examples: []
+  id: 845-24-064
+  language_code: eng
+  notes:
+  - Reflectance is also defined spectrally in terms of wavelength, in which case,
+    "spectral" is added before the quantity name.
+  - Due to energy conservation, `α` + `ρ` + `τ` = 1 except when <a href="IEV845-21-017">polarized
+    radiation</a> is observed, where `α` is absorptance and `τ` is transmittance.
+  - 'Reflectance, `ρ`, is the sum of regular reflectance, `ρ`~r~, and diffuse reflectance,
+    `ρ`~d~: `ρ` = `ρ`~r~ + `ρ`~d~.'
+  - The reflectance has unit one.
+  - This entry was numbered 845-04-58 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reflectance
+    normative_status: preferred
+    type: expression
+  - designation: '`ρ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 16bb7043-aefe-540e-ad6f-f24c30d7e9e5
+status: valid

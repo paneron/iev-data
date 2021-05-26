@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity equal to dynamic viscosity `η` divided by mass density `ρ`,
+    thus `v` = `η` / `ρ`
+  examples: []
+  id: 113-03-35
+  language_code: eng
+  notes:
+  - The coherent SI unit of kinematic viscosity is metre squared per second, m^2^/s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: kinematic viscosity
+    normative_status: preferred
+    type: expression
+  - designation: '`ν`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 522c59a2-1ca3-5f0c-9951-e75e413d4301
+status: valid

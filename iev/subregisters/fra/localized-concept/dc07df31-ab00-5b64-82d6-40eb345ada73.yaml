@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{modulation angulaire, IEV:702-06-30}} où chaque {{état significatif,
+    IEV:702-05-21}} d''un {{signal temporel discret, IEV:702-04-04}} modulant est
+    représenté par un changement déterminé de la phase du {{modulat, IEV:702-06-05}},
+    par rapport à sa phase durant l''{{élément de signal, IEV:702-05-01}} précédent'
+  examples: []
+  id: 702-06-41
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation par déplacement de phase différentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MDPD
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dc07df31-ab00-5b64-82d6-40eb345ada73
+status: valid

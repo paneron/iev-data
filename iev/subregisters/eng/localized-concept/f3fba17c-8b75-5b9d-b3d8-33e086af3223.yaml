@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-02-01
+  definition: voltage pulse of a specified shape applied during dielectric tests with
+    a virtual front duration of the order of 1 μs and a time to half value of the
+    order of 50 μs
+  examples: []
+  id: 614-03-28
+  language_code: eng
+  notes:
+  - The lightning impulse is defined by the two figures giving these durations in
+    microseconds; in particular the standard lightning impulse is 1,2/50 μs.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: lightning impulse
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: f3fba17c-8b75-5b9d-b3d8-33e086af3223
+status: valid

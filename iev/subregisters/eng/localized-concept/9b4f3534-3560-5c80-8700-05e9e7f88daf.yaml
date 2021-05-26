@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: thermodynamic temperature difference divided by heat flow rate
+  examples: []
+  id: 113-04-45
+  language_code: eng
+  notes:
+  - 1 The name “thermal resistance” and the symbol `R` are used in building technology
+    to designate thermal insulance ({{113-04-41, IEV:113-04-41}}).
+  - 2 The coherent SI unit of thermal resistance is kelvin per watt, K/W.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermal resistance
+    normative_status: preferred
+    type: expression
+  - designation: '`R`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 9b4f3534-3560-5c80-8700-05e9e7f88daf
+status: valid

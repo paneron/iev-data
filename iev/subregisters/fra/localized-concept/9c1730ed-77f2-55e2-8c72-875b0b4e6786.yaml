@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.187
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.187
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: bus connectant les rames d'un train, en particulier le bus de train
+    filaire, et qui est conforme aux protocoles TCN
+  examples: []
+  id: 811-37-107
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: réseau central de train
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bus de train
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9c1730ed-77f2-55e2-8c72-875b0b4e6786
+status: valid

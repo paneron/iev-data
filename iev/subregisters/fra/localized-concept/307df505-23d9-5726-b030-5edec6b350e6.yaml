@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matrice carrée régulière *`A`* à éléments complexes dont l'inverse *`A`*^−1^
+    est égale à l'adjointe *`A`*^H^
+  examples: []
+  id: 102-06-28
+  language_code: fra
+  notes:
+  - 'Pour une matrice unitaire d''éléments `Aij`:
+
+
+    `underset(i)( sum ) A_((i j)) A_(i k)^( * ) = delta_((j k))` et `underset(k)(
+    sum ) A_((i k)) A_(j k)^( * ) = delta_((i j))`
+
+
+    où `delta_((j k))` et `delta_((i j))` sont des symboles de Kronecker.'
+  - Toute matrice orthogonale à éléments réels est une matrice unitaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice unitaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 307df505-23d9-5726-b030-5edec6b350e6
+status: valid

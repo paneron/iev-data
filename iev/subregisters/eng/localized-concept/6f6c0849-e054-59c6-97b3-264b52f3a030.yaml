@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a circuit-breaker in which none of the moving contacts can make current
+    if the closing command is initiated while the conditions which should cause the
+    opening operation remain established
+  examples: []
+  id: 441-14-23
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: circuit-breaker with lock-out preventing closing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 6f6c0849-e054-59c6-97b3-264b52f3a030
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: pour un contour fermé, grandeur scalaire égale au courant électrique
+    traversant toute surface s'appuyant sur ce contour
+  examples: []
+  id: 121-11-46
+  language_code: fra
+  notes:
+  - Si le courant totalisé résulte de `N`  courants électriques égaux `I` , il est
+    égal au produit `NI` .
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: courant totalisé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: solénation
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 4e9913b0-19f9-5d18-8fa0-b56e891edb24
+status: valid

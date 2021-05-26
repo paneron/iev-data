@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: expectation of the duration of the operating time between failures
+  examples: []
+  id: 192-05-13
+  language_code: eng
+  notes:
+  - Mean operating time between failures should only be applied to repairable items.
+    For non-repairable items, see mean operating time to failure ({{192-05-11, IEV:192-05-11}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean operating time between failures
+    normative_status: preferred
+    type: expression
+  - designation: MTBF
+    type: expression
+  - designation: MOTBF
+    type: expression
+dateAccepted: 2015-02-01
+id: 1e4009bd-ae2c-561a-9934-1aa183c717cb
+status: valid

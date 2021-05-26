@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: logarithme décimal de l'inverse du facteur de transmission interne spectral,
+    `τ`~i~(`λ`) `A`~i~(`λ`) = −log~10~ `τ`~i~(`λ`)
+  examples: []
+  id: 845-24-090
+  language_code: fra
+  notes:
+  - L'unité d'absorbance spectrale est un.
+  - Cet article était numéroté 845-04-83 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: absorbance spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une couche homogène non diffusante
+  - designation: densité optique interne spectrale par transmission
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ab351019-6bcb-53b2-867c-9703cfd127bf
+status: valid

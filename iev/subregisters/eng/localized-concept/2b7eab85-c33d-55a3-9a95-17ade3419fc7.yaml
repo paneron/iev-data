@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the responsivity, `s`(`Z`), when the detector is irradiated
+    with radiation, `Z`, and the responsivity, `s`(`N`), when it is irradiated with
+    a reference radiation, `N` `s_r = ((s ( Z )))/((s ( N )))`
+  examples: []
+  id: 845-25-062
+  language_code: eng
+  notes:
+  - The relative responsivity has unit one.
+  - This entry was numbered 845-05-55 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative responsivity
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: '`s`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 2b7eab85-c33d-55a3-9a95-17ade3419fc7
+status: valid

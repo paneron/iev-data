@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '2.9'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 2.9
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: opportunity for an applicant to obtain {{conformity assessment, IEV:902-01-01}}
+    under the rules of the system or scheme
+  examples: []
+  id: 902-01-09
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: access
+    normative_status: preferred
+    type: expression
+  - designation: access to a system or scheme
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: dc6d677d-827d-55f9-9cc0-6955f750842f
+status: valid

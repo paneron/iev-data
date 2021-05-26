@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: definition 1111
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 1111, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: quantity related to the minimum energy required to separate a given
+    amount of material with a given isotopic composition in two parts of different
+    isotopic composition
+  examples: []
+  id: 395-08-11
+  language_code: eng
+  notes:
+  - The first one is greater than the initial composition, the second is lower.
+  - This quantity is expressed in Separative Work Units (SWU) which has a mass dimension
+    (kg).
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: separative work
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 366ee82f-1b13-5c53-9041-43acd777b014
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur de l'acuité de la résonance, représentant usuellement le mérite
+    du résonateur, définie par `Q_S = ((omega_r L_1))/((R_1))` où `omega_r = 2 pi
+    f_r` est la fréquence de résonance angulaire; `f`~r~ est la fréquence de résonance;
+    `L`~1~ est l'inductance dynamique; `R`~1~ est la résistance dynamique
+  examples: []
+  id: 561-01-74
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de qualité d’un circuit de résonance en série
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un résonateur
+dateAccepted: 2018-11-17
+id: e3983523-bd59-5dd4-8504-093ca006c792
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: representation of a real or complex function `f`(`t`) of the real variable
+    `t` by the integral transformation `f ( t ) = (1)/((2 pi j)) int_( sigma - j oo)^(
+    sigma + j oo) F ( s ) e^(s t) d s` where `F ( s )` is the Laplace transform of
+    the function `f`(`t`), `σ` is greater or equal to the abscissa of convergence
+    of `F ( s )` and j is the imaginary unit
+  examples: []
+  id: 103-04-07
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inverse Laplace transform
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 97525864-7aad-513b-94c1-0e0d166c4657
+status: valid

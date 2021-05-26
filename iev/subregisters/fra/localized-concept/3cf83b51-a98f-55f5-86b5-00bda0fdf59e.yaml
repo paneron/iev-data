@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: espérance mathématique de la {{quantité d'information conjointe, IEV:171-07-20}}
+    des événements d'un ensemble exhaustif d'événements s'excluant mutuellement `H
+    ( X , Y ) = sum_((i = 1))^n sum_((j = 1))^m p ( x_i , y_j ) * I ( x_i , y_j )`
+    où `X = { x_1 , ... , x_n }` est l'ensemble d'événements `x_i ( i = 1, ... , n
+    )`, `Y = { y_1 , ... , y_m }` est l'ensemble d'événements `y_j ( j = 1, ... ,
+    m )`, `I ( x_i , y_j )` est la quantité d'information conjointe de `x_i` et `y_j`,
+    and `p ( x_i , y_j )` est la probabilité de réalisation simultanée des deux événements
+  examples: []
+  id: 171-07-22
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: entropie conjointe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3cf83b51-a98f-55f5-86b5-00bda0fdf59e
+status: valid

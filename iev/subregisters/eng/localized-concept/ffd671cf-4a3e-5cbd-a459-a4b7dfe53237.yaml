@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: in a set where an addition is defined, unique element `n`, if it exists,
+    such that `a` + `n` = `a` for any element `a`
+  examples: []
+  id: 102-01-12
+  language_code: eng
+  notes:
+  - For numbers, the neutral element for addition is the number zero, denoted by 0.
+    For vectors, the neutral element is the zero vector, denoted by *0* or `vec 0`.
+    For matrices, the neutral element is the {{zero matrix, IEV:102-06-07}}. For scalar
+    quantities of a given kind, the neutral element is a quantity of the same kind,
+    whose numerical value is zero.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: neutral element
+    normative_status: preferred
+    type: expression
+    usage_info: for addition
+dateAccepted: 2008-08-01
+id: ffd671cf-4a3e-5cbd-a459-a4b7dfe53237
+status: valid

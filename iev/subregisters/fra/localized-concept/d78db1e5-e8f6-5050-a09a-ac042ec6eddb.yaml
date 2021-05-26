@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: largeur de la {{bande de fréquences, IEV:103-09-01}} à l'intérieur de
+    laquelle une caractéristique donnée de la {{voie de transmission, IEV:701-02-01}}
+    ne s'écarte pas d'une {{valeur de référence, IEV:311-07-01}} de plus d'une quantité
+    spécifiée en valeur absolue ou relative
+  examples: []
+  id: 161-06-09
+  language_code: fra
+  notes:
+  - La caractéristique peut être, par exemple, la {{caractéristique amplitude-fréquence,
+    IEV:702-07-35}}, la {{caractéristique phase-fréquence, IEV:702-07-36}}, ou la
+    {{caractéristique temps de propagation-fréquence, IEV:702-07-37}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: largeur de bande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une voie de transmission
+dateAccepted: 2018-11-17
+id: d78db1e5-e8f6-5050-a09a-ac042ec6eddb
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre réel `ϑ` tel que 0 ≤ `ϑ` ≤ π, dont le cosinus est le rapport
+    du produit scalaire de deux vecteurs réels *`U`* et *`V`* donnés au produit de
+    leurs normes `vartheta = arccos ((U * V))/((| U | * | V |))`
+  examples: []
+  id: 102-03-29
+  language_code: fra
+  notes:
+  - L'angle de deux vecteurs est toujours défini puisque le produit scalaire vérifie
+    l'inégalité `| U * V | &lt;= | U | * | V |`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de deux vecteurs
+dateAccepted: 2018-11-17
+id: ba2c75d1-25e2-51d2-885d-b3c7e1fe61a1
+status: valid

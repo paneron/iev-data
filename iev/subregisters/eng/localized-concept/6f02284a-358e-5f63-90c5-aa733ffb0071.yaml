@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '4.6'
+      original: VIM 4.6
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: measuring instrument which displays an indication
+  examples: []
+  id: 311-03-02
+  language_code: eng
+  notes:
+  - The display can be analogue (continuous or discontinuous), digital or coded.
+  - Values of more than one quantity can be displayed simultaneously.
+  - A displaying measuring instrument can also provide a record.
+  - The display can consist of an output signal not directly readable by a human observer,
+    but able to be interpreted by suitable devices.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indicating (measuring) instrument
+    normative_status: preferred
+    type: expression
+  - designation: displaying (measuring) instrument
+    type: expression
+dateAccepted: 2001-07-01
+id: 6f02284a-358e-5f63-90c5-aa733ffb0071
+status: valid

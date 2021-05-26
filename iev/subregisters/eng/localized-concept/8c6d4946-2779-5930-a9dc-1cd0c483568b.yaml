@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a form of carrier transmission on a common path provided for several
+    independent signals by a combination of single or double sideband transmission
+    and frequency division multiplexing
+  examples: []
+  id: 704-08-11
+  language_code: eng
+  notes:
+  - The carriers may be transmitted or suppressed.
+  - CCITT normally uses the term "analogue carrier transmission".
+  - A transmission system using multichannel carrier transmission is known as a "multichannel
+    carrier system", or a "multichannel FDM system", or an "analogue carrier system".
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multichannel carrier transmission
+    normative_status: preferred
+    type: expression
+  - designation: multichannel FDM transmission
+    type: expression
+  - designation: analogue carrier transmission
+    type: expression
+dateAccepted: 1993-08-01
+id: 8c6d4946-2779-5930-a9dc-1cd0c483568b
+status: valid

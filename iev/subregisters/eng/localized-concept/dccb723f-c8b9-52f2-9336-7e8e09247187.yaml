@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '3.12'
+      link: https://webstore.iec.ch/publication/7077
+      original: IEC 62474:2012, definition 3.12
+      ref: IEC 62474:2012
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: concentration limit at or above which the presence of a {{substance,
+    IEV:904-02-01}} in a material or product is declared if declaration of the substance
+    is mandatory according to the IEC 62474 database, or if it is agreed on to be
+    declared
+  examples: []
+  id: 904-02-08
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reporting threshold level
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: dccb723f-c8b9-52f2-9336-7e8e09247187
+status: valid

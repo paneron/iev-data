@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: signal dont la variation en fonction du temps a la forme donnée par
+    une fonction de Gauss
+  examples: []
+  id: 731-01-56
+  language_code: fra
+  notes:
+  - 'Une impulsion gaussienne est représentée en fonction du temps par la formule
+    :
+
+
+    `f(t)` = `A` ехр [– (`t` / `a`)^2^]
+
+
+    où `A` est l''amplitude de crête et où `a` est la moitié de la durée entre les
+    instants où la valeur instantanée devient égale à la fraction 1/e de l''amplitude.'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impulsion gaussienne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 1e77ad9c-d3b3-5bec-9ecc-9883e5ef2ad4
+status: valid

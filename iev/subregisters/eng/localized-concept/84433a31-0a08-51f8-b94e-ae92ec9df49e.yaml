@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: angle that the viewing direction makes with the normal of the surface
+    being viewed
+  examples: []
+  id: 845-25-079
+  language_code: eng
+  notes:
+  - The angle of observation is expressed in radian (rad) or degree (°).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle of observation
+    normative_status: preferred
+    type: expression
+  - designation: angle of view
+    type: expression
+  - designation: '`α`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 84433a31-0a08-51f8-b94e-ae92ec9df49e
+status: valid

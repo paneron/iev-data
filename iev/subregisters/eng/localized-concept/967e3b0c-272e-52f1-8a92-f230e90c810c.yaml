@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: an element of a scattering matrix
+  examples: []
+  id: 726-07-13
+  language_code: eng
+  notes:
+  - – The subscripts j and i of a typical scattering parameter S~ij~ refer to the
+    input and output ports respectively.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scattering parameter
+    normative_status: preferred
+    type: expression
+  - designation: scattering coefficient
+    normative_status: preferred
+    type: expression
+  - designation: S~ij~
+    international: true
+    type: symbol
+dateAccepted: 2021-01-01
+id: 967e3b0c-272e-52f1-8a92-f230e90c810c
+status: valid

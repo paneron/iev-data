@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble ordonné de `n` vecteurs linéairement indépendants `a_1 , a_2
+    , ... , a_n` dans un {{espace vectoriel, IEV:102-03-01}} à `n` dimensions, choisi
+    pour exprimer tout vecteur *`U`* comme combinaison linéaire unique de ces `n`
+    vecteurs `U = U_1 a_1 + U_2 a_2 + ... + U_n a_n` où `U_1 , U_2 , ... , U_n` sont
+    des scalaires
+  examples: []
+  id: 102-03-08
+  language_code: fra
+  notes:
+  - Dans un espace euclidien ou hermitien, on choisit généralement une base orthonormée.
+    Dans l'espace vectoriel formé par l'ensemble des mots de `n` bits (voir la Note
+    1 à l’article dans {{IEV 102-03-01, IEV:102-03-01}}, espace vectoriel), une base
+    est constituée par l'ensemble des mots n'ayant qu'un seul bit non nul.
+  - Tout vecteur d'une base est appelé «vecteur de base».
+  reviewDecisionEvent: published
+  terms:
+  - designation: base
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en algèbre linéaire
+dateAccepted: 2018-11-17
+id: 2230a08e-bfca-5109-8e3e-8d48506130af
+status: valid

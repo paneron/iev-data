@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{multiple-outage occurrence, IEV:692-05-03}} where the component outages
+    are dependent on each other'
+  examples: []
+  id: 692-05-04
+  language_code: eng
+  notes: []
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: related multiple-outage occurrence
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: 175f82ee-35b8-55aa-97c6-6edaa7dd02f6
+status: valid

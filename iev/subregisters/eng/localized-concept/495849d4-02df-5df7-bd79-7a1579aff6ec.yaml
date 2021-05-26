@@ -1,0 +1,39 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the inductance of a coil of specified geometry, placed on a given core
+    in a specified position, divided by the square of the number of turns `AL` = `L`/`N`^2^
+    where `L` is the inductance of the coil when placed on the core and `N` is the
+    number of turns on the coil
+  examples: []
+  id: 221-03-20
+  language_code: eng
+  notes:
+  - 1 – The inductance factor is closely related to permeance `Λ`; the latter refers
+    to the reluctance of a core while inductance factor refers to the core with a
+    winding.
+  - 2 – In principle inductance factor can correspond to the several forms of permeability
+    defined in the IEV, for example amplitude permeability, but unless otherwise specified
+    it should be assumed that it corresponds to the effective permeability at vanishingly
+    small field strengths.
+  - '3 – The concept "turns factor" (`α`) has been used in the past. It was defined
+    as : the number of turns that a coil of specified geometry, placed on a given
+    core in a specified position, should have to obtain unit inductance (normally
+    the millihenry):
+
+
+    `α` = `N`/`√L`'
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductance factor
+    normative_status: preferred
+    type: expression
+  - designation: '`AL`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 495849d4-02df-5df7-bd79-7a1579aff6ec
+status: valid

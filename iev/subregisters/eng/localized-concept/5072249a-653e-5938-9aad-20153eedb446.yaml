@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-03-01
+  definition: range of gas or vapour mixtures with air, with concentrations between
+    the lower and upper flammable (explosive) limits
+  examples: []
+  id: 426-24-17
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: flammable range
+    normative_status: preferred
+    type: expression
+  - designation: explosive range
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2020-03-01
+id: 5072249a-653e-5938-9aad-20153eedb446
+status: valid

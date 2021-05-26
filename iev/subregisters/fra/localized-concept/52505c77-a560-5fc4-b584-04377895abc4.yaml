@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1993-08-01
+  definition: ensemble d'un codeur MIC et d'un décodeur MIC fonctionnant dans des
+    sens de transmission opposés et réunis dans un même appareil
+  examples: []
+  id: 704-25-09
+  language_code: fra
+  notes:
+  - Le sens du terme "codec" est souvent étendu de façon à désigner un ensemble de
+    dispositifs destinés à quantifier des échantillons de signal, à coder les valeurs
+    quantifiées par des mots de code formant un signal numérique, et à effectuer les
+    opérations inverses dans le sens de transmission opposé.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: codec MIC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: codeur-décodeur MIC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 52505c77-a560-5fc4-b584-04377895abc4
+status: valid

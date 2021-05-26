@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the angular difference between the phasors representing the voltages
+    between the neutral point (real or imaginary) and the corresponding terminals
+    of two windings, a positive-sequence voltage system being applied to the high-voltage
+    terminals, following each other in alphabetical sequence if they are lettered,
+    or in numerical sequence if they are numbered. The phasors are assumed to rotate
+    in a counter-clockwise sense
+  examples: []
+  id: 421-10-08
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase displacement
+    normative_status: preferred
+    type: expression
+  - designation: phase difference
+    type: expression
+dateAccepted: 1990-10-01
+id: c96ea262-5ef6-51b1-86e2-cf981cf7be15
+status: valid

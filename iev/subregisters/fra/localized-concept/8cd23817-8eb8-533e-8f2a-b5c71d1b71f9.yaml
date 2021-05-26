@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - - clause: 13-32
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-32, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  classification: Deprecated
+  definition: espérance mathématique de la {{quantité d'information conditionnelle,
+    IEV:171-07-21}} des événements d'un ensemble exhaustif d'événements s'excluant
+    mutuellement, lorsque se sont réalisés les événements d'un autre ensemble exhaustif
+    d'événements s'excluant mutuellement `H ( X | Y ) = sum_((i = 1))^n sum_((j =
+    1))^m p ( x_i , y_j ) * I ( x_i | y_j )` où `X = { x_1 , ... , x_n }` est l'ensemble
+    d'événements `x_i ( i = 1, ... , n )`, `Y = { y_1 , ... , y_m }` est l'ensemble
+    d'événements `y_j ( j = 1, ... , m )`, `I ( x_i | y_j )` est la quantité d'information
+    conditionnelle de `x_i` lorsque `y_j` s'est réalisé, `p ( x_i , y_j )` est la
+    probabilité de réalisation simultanée des deux événements
+  examples: []
+  id: 171-07-23
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: entropie conditionnelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: néguentropie conditionnelle
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8cd23817-8eb8-533e-8f2a-b5c71d1b71f9
+status: valid

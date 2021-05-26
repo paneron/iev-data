@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '3.1'
+      link: https://webstore.iec.ch/publication/7005
+      original: IEC 62430:2009, definition 3.1
+      ref: IEC 62430:2009
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: activities that take an idea or {{requirement, IEV:901-05-05}} and transform
+    these into a product
+  examples: []
+  id: 904-01-12
+  language_code: eng
+  notes:
+  - The {{process, IEV:904-01-05}} of design and development usually follows a series
+    of defined steps starting with an initial idea, transforming that into a formal
+    specification, and resulting in the creation of a working prototype and whatever
+    documentation is required to support production of the goods or provision of the
+    service.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: design and development
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 2dd980da-6163-5e45-8331-5d0058ee4e85
+status: valid

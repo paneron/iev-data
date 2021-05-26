@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: maximum distance between a point on the wafer surface (within the fixed
+    quality area) and the focal plane
+  examples: []
+  id: 561-07-12
+  language_code: eng
+  notes:
+  - If that point is above the reference, the focal plane deviation is positive. If
+    that point is below the reference plane, the focal plane deviation is negative
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: FPD
+    normative_status: preferred
+    type: expression
+  - designation: focal plane deviation
+    type: expression
+dateAccepted: 2014-11-01
+id: a49e2673-131a-5940-93c9-eab82fc6cc5b
+status: valid

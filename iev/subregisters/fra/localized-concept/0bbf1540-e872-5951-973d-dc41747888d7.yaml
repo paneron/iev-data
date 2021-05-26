@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: oscillateur piloté par résonateur à quartz, sans moyen de commande ou
+    de compensation de la température, présentant une caractéristique fréquence-température
+    déterminée essentiellement par le résonateur à quartz utilisé
+  examples: []
+  id: 561-03-30
+  language_code: fra
+  notes:
+  - L’abréviation «SPXO» est dérivée du terme anglais développé correspondant «simple
+    packaged crystal oscillator».
+  - Cet article était numéroté 561-04-01 dans l'IEC 60050-561:1991.
+  reviewDecisionEvent: published
+  terms:
+  - designation: oscillateur à quartz simple en boîtier
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SPXO
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0bbf1540-e872-5951-973d-dc41747888d7
+status: valid

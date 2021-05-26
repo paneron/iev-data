@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the relative permeability corresponding to the slope at a given point
+    on a magnetization curve of magnetic flux density: `mu_((dif)) = (1)/((mu_0))
+    ((d B))/((d H))`'
+  examples: []
+  id: 221-03-15
+  language_code: eng
+  notes: []
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: differential permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`µ`~dif~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: cae318db-9faf-5dde-9213-6f9a3a71e618
+status: valid

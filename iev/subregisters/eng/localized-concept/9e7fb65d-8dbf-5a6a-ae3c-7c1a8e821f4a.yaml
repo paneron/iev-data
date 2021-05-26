@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2002-06-01
+  definition: two-terminal-pair network consisting of two branches having a common
+    node, with one end node connected to two equipotential terminals, which form the
+    input terminal pair with the common node and the output terminal pair with the
+    other end node
+  examples: []
+  id: 131-13-23
+  language_code: eng
+  notes:
+  - The terms "L-network" and "Г-network" are used according to the aspect of the
+    usual graphical representation.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: L-network
+    normative_status: preferred
+    type: expression
+  - designation: Γ-network
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 9e7fb65d-8dbf-5a6a-ae3c-7c1a8e821f4a
+status: valid

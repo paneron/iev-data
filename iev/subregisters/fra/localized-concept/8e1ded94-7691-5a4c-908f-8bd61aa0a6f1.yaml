@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2008-08-01
+  definition: température au-dessous de laquelle une substance magnétique est ferromagnétique
+    ou ferrimagnétique et au-dessus de laquelle elle est paramagnétique
+  examples: []
+  id: 121-12-51
+  language_code: fra
+  notes:
+  - Le terme «température de Curie» est aussi employé pour caractériser un changement
+    de phase dans des matériaux non magnétiques, par exemple dans les cristaux piézoélectriques
+    et les piézocéramiques. Ces matériaux perdent leurs propriétés piézoélectriques
+    au-dessus de la température de Curie et le processus n’est réversible que dans
+    des conditions particulières.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: température de Curie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: point de Curie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-08-01
+id: 8e1ded94-7691-5a4c-908f-8bd61aa0a6f1
+status: valid

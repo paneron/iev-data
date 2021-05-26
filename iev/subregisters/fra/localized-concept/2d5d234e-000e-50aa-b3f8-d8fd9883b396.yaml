@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.04
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.04
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  definition: partie d'un système de communication qui relie la {{source de messages,
+    IEV:171-07-05}} au {{collecteur de messages, IEV:171-07-06}}
+  examples: []
+  id: 171-07-07
+  language_code: fra
+  notes:
+  - Un codeur peut être situé entre la source de messages et l'entrée du canal, et
+    un décodeur peut être situé entre la sortie du canal et le collecteur de messages.
+    Ces deux organes ne sont en général pas considérés comme faisant partie du canal.
+    Cependant, dans certains cas, ils peuvent être considérés comme faisant partie
+    respectivement de la source et du collecteur.
+  - En théorie de l'information selon Shannon, le canal peut être caractérisée par
+    l'ensemble des probabilités conditionnelles d'apparition de tous les messages
+    reçus au collecteur de messages lorsqu'un message déterminé est émis par la source.
+  reviewDecisionEvent: published
+  terms:
+  - designation: canal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en théorie des communications
+  - designation: voie
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: en théorie des communications
+dateAccepted: 2018-11-17
+id: 2d5d234e-000e-50aa-b3f8-d8fd9883b396
+status: valid

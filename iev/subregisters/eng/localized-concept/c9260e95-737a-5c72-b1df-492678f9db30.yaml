@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: ratio of the pass bandwidth to the mid-band frequency in the case of
+    a band-pass filter, and of the stop bandwidth to the mid-band frequency in the
+    case of a band-stop filter
+  examples: []
+  id: 561-02-13
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fractional bandwidth
+    normative_status: preferred
+    type: expression
+  - designation: relative bandwidth
+    type: expression
+dateAccepted: 2014-11-01
+id: c9260e95-737a-5c72-b1df-492678f9db30
+status: valid

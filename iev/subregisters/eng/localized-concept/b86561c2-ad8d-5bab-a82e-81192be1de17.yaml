@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 702-07-26
+      original: MOD 702-07-26
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1991-10-01
+  definition: the time response of a device produced by the application of a Dirac
+    delta-function to the input of the device
+  examples: []
+  id: 731-01-55
+  language_code: eng
+  notes:
+  - The impulse response is the inverse Laplace or Fourier transform of the transfer
+    function. Its convolution with the input function gives the output function.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impulse response
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: b86561c2-ad8d-5bab-a82e-81192be1de17
+status: valid

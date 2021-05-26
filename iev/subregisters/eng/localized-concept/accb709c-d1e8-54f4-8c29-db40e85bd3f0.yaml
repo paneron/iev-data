@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: a reactor where the packets of laminations forming the core and yokes
+    surround the windings and enclose generally the major part of them
+  examples: []
+  id: 421-01-10
+  language_code: eng
+  notes:
+  - Since there are types of reactor which do not come clearly within the categories
+    of "core-type" and "shell-type", the use of these terms is deprecated. Generally
+    they can be avoided by indicating whether or not the magnetic circuit has unwound
+    magnetic return paths.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: shell-type reactor
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: accb709c-d1e8-54f4-8c29-db40e85bd3f0
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'for a step response of a transfer element the maximum transient deviation
+    from the final steady-state value of the output variable, usually expressed in
+    percent of the difference between the final and the initial steady-state values
+    and for reference-variable step response or disturbance-variable step response
+    of a control system the maximum transient deviation from the desired value SEE:
+    Figure 5 and Figure 11.'
+  examples: []
+  id: 351-45-38
+  language_code: eng
+  notes:
+  - This entry was numbered 351-24-30 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overshoot
+    normative_status: preferred
+    type: expression
+  - designation: '`x`~m~'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 84eed47e-9eb3-54ac-8a2b-c48e6b30e144
+status: valid

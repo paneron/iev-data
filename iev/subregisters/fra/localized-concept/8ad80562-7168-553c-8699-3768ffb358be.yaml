@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: en régime sinusoïdal, dans un milieu tel qu'une relation linéaire existe
+    en chaque point entre les phaseurs <u>`D`</u>, <u>`E`</u> et <u>`J`</u> représentant
+    respectivement l'induction électrique, le champ électrique et la densité de courant
+    électrique, grandeur complexe `ε`~re~ définie par la relation `epsilon_0 underset(_)(epsilon)_((re))
+    underset(_)(E) = underset(_)(D) + ((underset(_)(J)))/((j omega)) = underset(_)(D)
+    - j ((gamma underset(_)(E)))/(omega)` où `γ` est la conductivité du milieu, `ω`
+    la pulsation et `ε`~0~ la constante électrique
+  examples: []
+  id: 121-12-18
+  language_code: fra
+  notes:
+  - La permittivité relative complexe équivalente, généralement fonction de la fréquence,
+    est une grandeur scalaire dans un milieu isotrope, une grandeur tensorielle dans
+    un milieu anisotrope.
+  - 'La permittivité relative complexe équivalente et la permittivité relative complexe
+    `ε`~r~ sont reliées par la relation
+
+
+    `underset(_)(epsilon)_((re)) = underset(_)(epsilon)_r - ((j gamma ))/((epsilon_0
+    omega))`
+
+
+    Dans les milieux conducteurs, tels que les bons conducteurs et les diélectriques
+    imparfaits, la grandeur utile et mesurable est la permittivité relative complexe
+    équivalente.'
+  - L'opposé de la partie imaginaire de la permittivité relative complexe équivalente
+    caractérise l'ensemble des pertes diélectriques et des pertes dues à la conductivité,
+    la contribution de ces dernières étant représentée par `γ`/`ε`~0~`ω`.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: permittivité relative complexe équivalente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 8ad80562-7168-553c-8699-3768ffb358be
+status: valid

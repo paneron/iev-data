@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: opération consistant à convertir des signaux à multiplexage en fréquence,
+    tels que ceux d'un groupe primaire ou d'un groupe secondaire, en signaux à multiplexage
+    temporel ayant la même structure de trame que ceux qui seraient formés par un
+    équipement de multiplexage MIC, et à effectuer la transformation inverse dans
+    le sens de transmission opposé
+  examples: []
+  id: 704-26-05
+  language_code: fra
+  notes:
+  - Le dispositif correspondant est appelé "transmultiplexeur".
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmultiplexage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 2f8ba7ac-9a8d-50b8-b58d-c73674e043ec
+status: valid

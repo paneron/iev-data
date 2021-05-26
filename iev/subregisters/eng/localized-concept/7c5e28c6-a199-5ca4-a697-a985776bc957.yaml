@@ -1,0 +1,47 @@
+data:
+  authoritativeSource:
+  - - clause: '1.2'
+      link: https://www.iso.org/standard/45324.html
+      original: ISO/IEC Guide 99:2007, 1.2, modified – Note 3 has been modified.
+      ref: ISO/IEC Guide 99:2007
+      relationship:
+        modification: Note 3 has been modified.
+        type: modified
+  classification: Preferred
+  dateAmended: 2019-01-01
+  definition: aspect common to mutually comparable {{quantities, IEV:112-01-01}}
+  examples: []
+  id: 112-01-04
+  language_code: eng
+  notes:
+  - "The division of the concept of quantity into several kinds of quantity is to\
+    \ some extent arbitrary.\r\nExamples:\n\n• The quantities diameter, circumference,\
+    \ and wavelength, are generally considered to be quantities of the same kind,\
+    \ namely of the kind of quantity called length.\n\n• The quantities heat, kinetic\
+    \ energy, and potential energy, are generally considered to be quantities of the\
+    \ same kind, namely of the kind of quantity called energy."
+  - 'Quantities of the same kind within a given system of quantities have the same
+    {{dimension of a quantity, IEV:112-01-11}}. However, quantities of the same dimension
+    are not necessarily of the same kind.
+
+
+    Examples: The quantities moment of force and energy are not of the same kind,
+    although they have the same dimension. Similarly for heat capacity and entropy,
+    as well as for relative permeability and mass fraction.'
+  - The term "kind" is mainly used in expressions such as "quantities of the same
+    kind." Two quantities of the same kind are mutually comparable, so that they can
+    be placed in order of magnitude. Length and mass are quantities of different kinds
+    because they are not mutually comparable.
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: kind of quantity
+    normative_status: preferred
+    type: expression
+  - designation: kind
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-01-01
+id: 7c5e28c6-a199-5ca4-a697-a985776bc957
+status: valid

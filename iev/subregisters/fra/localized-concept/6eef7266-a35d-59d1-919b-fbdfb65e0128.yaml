@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: luminaire qui répartit la lumière selon un angle solide comparativement
+    grand
+  examples: []
+  id: 845-30-005
+  language_code: fra
+  notes:
+  - Contrairement aux luminaires extensifs, le terme "luminaire intensif" n'est pas
+    défini étant donné que ce type de luminaire s'identifie pratiquement à un <a href="IEV845-30-030">projecteur</a>.
+  - Cet article était numéroté 845-10-04 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminaire extensif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: luminaire à répartition extensive
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6eef7266-a35d-59d1-919b-fbdfb65e0128
+status: valid

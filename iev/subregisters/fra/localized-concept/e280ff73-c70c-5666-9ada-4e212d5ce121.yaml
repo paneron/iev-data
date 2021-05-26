@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: pour un quadripôle linéaire ou un réseau linéaire à `n` paires de bornes,
+    quotient du phaseur représentant la tension à un accès de sortie par le phaseur
+    représentant le courant à un accès d'entrée, lorsque tous les autres accès sont
+    reliés à des immittances de fermeture spécifiées
+  examples: []
+  id: 131-14-13
+  language_code: fra
+  notes:
+  - La sortie est généralement en circuit ouvert.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impédance de transfert direct
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: impédance de transfert
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: e280ff73-c70c-5666-9ada-4e212d5ce121
+status: valid

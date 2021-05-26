@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{stable state, IEV:692-02-02}} in which all loads are supplied, system
+    components are not stressed beyond their ratings, and voltages and frequency remain
+    within tolerances image::/assets/images/parts/692/692-fig2-en.png[Figure 2 - Electric
+    power system states] <simg></simg>'
+  examples: []
+  id: 692-02-04
+  language_code: eng
+  notes:
+  - 'The arrows indicate the most important state transitions caused by credible events.
+    Recovery transitions, in opposite directions, are effected by operator intervention.
+
+
+    *Figure 3 – Examples of transitions within electric power system states*
+
+
+    image::/assets/images/parts/692/692-fig6-en.png[Figure 6 - Examples of electric
+    power system states and corresponding system operation status]'
+  - This entry was numbered 191-22-03 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adequate state
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: 3d0a026a-b3b6-5968-9bea-461038abf2da
+status: valid

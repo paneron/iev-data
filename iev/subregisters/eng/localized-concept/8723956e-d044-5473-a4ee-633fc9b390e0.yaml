@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: process in which the continuous range of values that a {{quantity, IEV:112-01-01}}
+    can assume is divided into a number of predetermined adjacent {{intervals, IEV:103-01-12}}
+    and in which any value within one of these intervals is represented by a single
+    predetermined value within the interval
+  examples: []
+  id: 702-04-07
+  language_code: eng
+  notes: []
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantization
+    normative_status: preferred
+    type: expression
+  - designation: quantizing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 8723956e-d044-5473-a4ee-633fc9b390e0
+status: valid

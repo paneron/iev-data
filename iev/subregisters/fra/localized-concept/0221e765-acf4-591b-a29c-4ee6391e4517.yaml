@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'matrice qui, pour un système linéaire, décrit comment les dérivées
+    dans le temps des variables d''état du système dépendent des variables d''état
+    VOIR: {{351-41-08, IEV:351-41-08}} et la Figure 3.'
+  examples: []
+  id: 351-42-06
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-21-17 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig3.png[Figure 3 - Linear transfer system
+    with state variables; Système de transfert linéaire avec variables d''état]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice du système
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 0221e765-acf4-591b-a29c-4ee6391e4517
+status: valid

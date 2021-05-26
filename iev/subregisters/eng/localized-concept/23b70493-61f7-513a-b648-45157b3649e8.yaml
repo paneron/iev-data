@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: device that provides a {{cyclic timing signal, IEV:702-04-10}}
+  examples: []
+  id: 702-09-30
+  language_code: eng
+  notes:
+  - Where replicated sources are used for {{reliability, IEV:192-01-24}} reasons,
+    the assembly of these is regarded as a single clock
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: clock
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 23b70493-61f7-513a-b648-45157b3649e8
+status: valid

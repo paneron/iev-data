@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: espérance mathématique du temps de bon fonctionnement
+  examples: []
+  id: 192-05-13
+  language_code: fra
+  notes:
+  - Il convient de n’appliquer la moyenne des temps de bon fonctionnement qu’aux entités
+    réparables. Pour les entités non réparables, voir durée moyenne de fonctionnement
+    avant défaillance ({{192-05-11, IEV:192-05-11}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: moyenne des temps de bon fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MTBF
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8c27375f-13bc-5f80-9629-a5f180c0cce0
+status: valid

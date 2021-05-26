@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.8
+      original: IEC TS 80004-9:2017, 3.1.8
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2018-04-01
+  definition: electric contact connecting two or more objects with an interface having
+    one or two dimensions in the {{nanoscale, IEV:511-01-03}}
+  examples: []
+  id: 511-01-19
+  language_code: eng
+  notes: []
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanoscale electric contact
+    normative_status: preferred
+    type: expression
+  - designation: nanoscale contact
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 69874afe-0a06-54a8-87d2-676ba1dba112
+status: valid

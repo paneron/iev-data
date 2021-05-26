@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.5
+      original: IEC TS 80004-9:2017, 3.2.5
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2018-04-01
+  definition: light emitting diode in which light is emitted from organic materials
+  examples: []
+  id: 511-02-05
+  language_code: eng
+  notes:
+  - An organic light emitting diode is a special type of {{nano-enabled, IEV:511-01-15}}
+    light emitting diode based on small organic molecules or polymers.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: organic light emitting diode
+    normative_status: preferred
+    type: expression
+  - designation: OLED
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 3c8f5f48-2197-5d3f-98cc-d3bc293af21e
+status: valid

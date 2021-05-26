@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: sous-espace de dimension 1 d'un espace affine
+  examples: []
+  id: 102-04-02
+  language_code: fra
+  notes:
+  - Une droite passant par un point O est l'ensemble des points P de rayons vecteurs
+    `r_P = alpha V`, où `α` est un scalaire et *`V`* un vecteur non nul de l'espace
+    vectoriel associé à l'espace affine.
+  reviewDecisionEvent: published
+  terms:
+  - designation: droite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 58c5aa6c-dfb3-5ba3-9b8b-2a80049419d9
+status: valid

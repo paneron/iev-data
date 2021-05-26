@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur de la {{grandeur caractéristique, IEV:447-07-01}} à laquelle
+    un {{relais de mesure, IEV:447-01-02}} ou un {{équipement de protection, IEV:447-01-49}}
+    ne {{fonctionne, IEV:447-02-04}} pas
+  examples: []
+  id: 447-02-11
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de non-fonctionnement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b92d88da-358a-5c6e-846d-44c8e81824f2
+status: valid

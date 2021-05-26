@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: nombre de protons contenus dans un noyau atomique
+  examples: []
+  id: 113-05-33
+  language_code: fra
+  notes:
+  - 1 Le nombre de protons est `Z` = `A` − `N` où `A` est le nombre de nucléons et
+    `N` le nombre de neutrons.
+  - 2 Le nombre de protons donne la charge électrique du noyau atomique en nombre
+    de charges électriques élémentaires.
+  - 3 Le numéro atomique est le numéro d’ordre de l’atome dans la classification périodique
+    des éléments chimiques est en rapport avec le comportement chimique de l’atome,
+    par exemple son aptitude à former des combinaisons avec d’autres atomes. Un élément
+    chimique est constitué d’atomes ayant le même numéro atomique.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de protons
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: numéro atomique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 9e63785d-3653-518b-8fc2-b485981cabd4
+status: valid

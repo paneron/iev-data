@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '3.2'
+      link: https://webstore.iec.ch/publication/17120
+      original: IEC 60664-5:2007, 3.2
+      ref: IEC 60664-5:2007
+      relationship:
+        type: identical
+  dateAmended: 2014-11-01
+  definition: value of the relative humidity when the impulse withstand voltage of
+    a creepage distance has dropped to 95 % of the value that was measured at 70 %
+    {{relative humidity, IEV:113-04-65}}
+  examples: []
+  id: 442-09-09
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: critical relative humidity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: d2cb5a9a-5d50-57cd-9a74-01ff57377e0a
+status: valid

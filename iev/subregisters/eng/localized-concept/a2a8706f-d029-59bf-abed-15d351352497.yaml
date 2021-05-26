@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 195-05-08
+      original: 195-05-08
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: voltage between a specified point on the Earth's surface and reference
+    earth
+  examples: []
+  id: 826-11-09
+  language_code: eng
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earth-surface voltage (to earth)
+    normative_status: preferred
+    type: expression
+  - designation: ground-surface voltage (to ground)
+    type: expression
+dateAccepted: 2004-08-01
+id: a2a8706f-d029-59bf-abed-15d351352497
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: the relative permeability obtained from the peak-to-valley value of
+    the magnetic flux density and the peak-to-valley value of the applied magnetic
+    field strength, at a stated amplitude of either, when the field strength is varying
+    periodically with time about a specified static value
+  examples: []
+  id: 221-03-13
+  language_code: eng
+  notes:
+  - The notes following the definition of amplitude permeability apply to this definition
+    also.
+  - The incremental permeability depends on the way in which the magnetic material
+    was brought to its static value of field strength. The definition implies that
+    the alternating and static field are collinear ; if they are not, the permeability
+    becomes a tensor quantity.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: incremental permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`µ`~Δ~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 954c95f8-c08a-5aaa-934e-469478cdfc75
+status: valid

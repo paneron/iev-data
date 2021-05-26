@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quotient de la vitesse volumique de recombinaison par le produit des
+    nombres volumiques `n`^+^ et `n`^−^ des porteurs de charge qui se recombinent,
+    soit `- ((d n^( + )))/((d t)) = - ((d n^( - )))/((d t)) = alpha n^( + ) n^( -
+    )`
+  examples: []
+  id: 113-06-47
+  language_code: fra
+  notes:
+  - L’unité SI cohérente de coefficient de recombinaison est le mètre cube par seconde,
+    m^3^ / s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de recombinaison
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 7504cc5b-580b-5e49-9613-b5dee0012254
+status: valid

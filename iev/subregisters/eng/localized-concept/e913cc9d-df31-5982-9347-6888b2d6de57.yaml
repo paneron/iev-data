@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '4.18'
+      original: ≈ VIM 4.18
+      ref: JCGM VIM
+      relationship:
+        type: similar
+  dateAmended: 2001-07-01
+  definition: length of the line (curved or straight) which passes through the centres
+    of all the shortest scale marks, contained between the first and last scale marks
+  examples: []
+  id: 314-01-07
+  language_code: eng
+  notes:
+  - Scale length is expressed in units of length, regardless of the units of the measurand,
+    or the units marked on the scale.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scale length
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: e913cc9d-df31-5982-9347-6888b2d6de57
+status: valid

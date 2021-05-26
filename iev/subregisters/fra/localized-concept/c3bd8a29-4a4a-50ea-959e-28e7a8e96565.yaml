@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 415-03-15
+      original: voir 415-03-15
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 1999-04-01
+  definition: loi de probabilité souvent utilisée pour la vitesse du vent, loi dont
+    la fonction de répartition dépend d'un paramètre ajustable – le paramètre d'échelle,
+    qui détermine la vitesse moyenne du vent de la distribution
+  examples: []
+  id: 415-03-14
+  language_code: fra
+  notes:
+  - La loi de Rayleigh est identique à une loi de Weibull avec un paramètre de forme
+    égal à 2.
+  reviewDate: 1999-04-01
+  reviewDecisionDate: 1999-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loi de Rayleigh
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1999-04-01
+id: c3bd8a29-4a4a-50ea-959e-28e7a8e96565
+status: valid

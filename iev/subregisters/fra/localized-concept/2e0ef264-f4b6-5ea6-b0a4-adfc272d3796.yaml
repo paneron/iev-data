@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur maximale de l'<a href="IEV845-21-091">efficacité lumineuse relative
+    spectrale</a> pour une condition photométrique spécifiée
+  examples: []
+  id: 845-21-092
+  language_code: fra
+  notes:
+  - Il convient de spécifier la condition photométrique (par exemple, photopique,
+    scotopique, mésopique). En l'absence de spécification, la vision photopique est
+    par hypothèse utilisée, de même que le symbole `K`~m~`.` Pour les autres conditions
+    photométriques, le symbole respectif pour l'identification doit être utilisé.
+  - 'La valeur de l''efficacité lumineuse maximale pour la vision photopique est calculée
+    par
+
+
+    `K_m = ((683))/((V ( lambda_((cd)) ))) cd * sr * W^(- 1) tildetilde 683 \ lm *
+    W^(- 1)`
+
+
+    où `V`(`λ`) est l''<a href="IEV845-21-035">efficacité lumineuse relative spectrale</a>
+    pour la vision photopique et `λ`~cd~ est la longueur d''onde dans l''air correspondant
+    à la {{fréquence, IEV:103-06-02}} 540 × 10^12^ Hz spécifiée dans la définition
+    de l''unité SI (candela).'
+  - L'efficacité lumineuse maximale est exprimée en lumen par watt (lm·W^−1^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: efficacité lumineuse maximale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour une condition photométrique spécifiée
+dateAccepted: 2018-11-17
+id: 2e0ef264-f4b6-5ea6-b0a4-adfc272d3796
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 192-02-13
+      link: https://webstore.iec.ch/publication/21886
+      original: IEC 60050-192:2015, 192-02-13, modified – Term "standby duration"
+        added as a synonym, and the words “duration of the” inserted at the beginning
+        of the definition, and Note 1 to entry added
+      ref: IEC 60050-192:2015
+      relationship:
+        modification: Term "standby duration" added as a synonym, and the words “duration
+          of the” inserted at the beginning of the definition, and Note 1 to entry
+          added
+        type: modified
+  dateAmended: 2017-12-01
+  definition: duration of the time interval for which the item is in a standby state
+  examples: []
+  id: 692-06-01
+  language_code: eng
+  notes:
+  - This entry was numbered 603-05-16 in IEC 60050-603:1986.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: standby time
+    normative_status: preferred
+    type: expression
+  - designation: standby duration
+    type: expression
+dateAccepted: 2017-12-01
+id: f279ffef-c87e-5198-91bd-fed5b3d790fa
+status: valid

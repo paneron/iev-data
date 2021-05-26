@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-12-01
+  definition: '{{unidirectional, IEV:701-03-18}} {{telecommunication, IEV:701-01-05}}
+    intended for a large number of users having appropriate receiving facilities,
+    and carried out by means of radio or by cable networks'
+  examples:
+  - 'Sound broadcasting, television broadcasting, {{broadcast videography, IEV:701-01-18}},
+    distribution of time signals and navigational warnings, distribution of news from
+    press agencies.
+
+
+    Note 1  to entry: Broadcasting is a {{point-to-area communication, IEV:713-02-16}}.'
+  id: 701-01-32
+  language_code: eng
+  notes:
+  - In English, it should be assumed that “broadcasting by radio waves” is intended
+    where the word “broadcasting” is used without qualification, unless the context
+    indicates otherwise.
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: broadcasting
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: fdbafce1-2f98-56bf-b564-3df044abeba7
+status: valid

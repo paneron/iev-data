@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension caractérisant l'écoulement d'un fluide dans
+    une configuration donnée caractérisée par une longueur spécifiée `l`, définie
+    par `R ​ e = ((rho v l))/(eta) = ((v l))/(nu)`, où le fluide est décrit par sa
+    masse volumique `ρ`, sa vitesse `v`, sa viscosité dynamique `η` et sa viscosité
+    cinématique `ν`
+  examples: []
+  id: 113-03-36
+  language_code: fra
+  notes:
+  - 1 Le nombre de Reynolds caractérise l’importance relative de l’inertie et de la
+    viscosité dans un écoulement fluide.
+  - 2 Lorsque le nombre de Reynolds est inférieur à une valeur critique `Re`~crit~,
+    un flot laminaire est stable. Pour des valeurs supérieures de `Re`, le flot laminaire
+    devient instable. La valeur critique dépend de la configuration.
+  - 3 Dans le cas d’un fluide s’écoulant dans un tube circulaire de diamètre `d`,
+    la longueur spécifiée est `l` = `d` et la valeur critique du nombre de Reynolds
+    est `Re`~crit~ ≈ 2 300.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre de Reynolds
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 38255938-88df-5208-b381-53e930af2842
+status: valid

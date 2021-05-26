@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: design of a physical unit or a device so that the output variable does
+    not change its value if the output is burdened with the inputs of other physical
+    units or devices
+  examples:
+  - 1 outputs for phantom circuits
+  - 2 outputs with tristate characteristic
+  - 3 diode-decoupled outputs.
+  id: 351-56-20
+  language_code: eng
+  notes:
+  - This entry was numbered 351-32-28 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: decoupled output
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 22537c2b-64e0-5b81-bd29-786a45ee14e1
+status: valid

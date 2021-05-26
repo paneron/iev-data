@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-02-01
+  definition: for a non-ideal differential amplifier, ratio of the gain with respect
+    to a difference signal at the inputs to the gain with respect to a common-mode
+    signal
+  examples: []
+  id: 891-04-07
+  language_code: eng
+  notes:
+  - A large common-mode rejection ratio is generally sought after for instrumentation
+    in electrobiology, where unwanted common-mode signals are often present.
+  reviewDate: 1998-02-01
+  reviewDecisionDate: 1998-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: common-mode rejection ratio
+    normative_status: preferred
+    type: expression
+  - designation: CMRR
+    type: expression
+dateAccepted: 1998-02-01
+id: 24836949-f1ea-5216-8c7c-f321ee7c2d1b
+status: valid

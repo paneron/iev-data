@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: vector *grad* `f` associated at each point of a given space region with
+    a scalar `f`, having a direction normal to the surface on which the scalar field
+    has a constant value, in the sense of increasing value of `f`, and a magnitude
+    equal to the absolute value of the derivative of `f` with respect to distance
+    in this normal direction
+  examples: []
+  id: 102-05-19
+  language_code: eng
+  notes:
+  - The gradient expresses the variation of the scalar field quantity from the given
+    point to a point at an infinitesimal distance `d s` in the direction of a given
+    unit vector *`e`* by the scalar product d`f` = *grad* `f` ⋅ *`e`* d`s`.
+  - 'In orthonormal Cartesian coordinates, the three coordinates of the gradient are:
+
+
+    `((del f))/((del x)) , ((del f))/((del y)) , ((del f))/((del z))`.'
+  - The gradient of the scalar field `f` is denoted *grad* `f` or `grad f`.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: gradient
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: b87bbe89-a06a-5094-bfd7-3a4cfc312f23
+status: valid

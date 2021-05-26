@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '5.3'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 5.3
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: '{{standard, IEV:901-02-02}} that is concerned with test methods, sometimes
+    supplemented with other {{provision, IEV:901-05-01}}s related to {{testing, IEV:902-03-02}},
+    such as sampling, use of statistical methods, sequence of tests'
+  examples: []
+  id: 901-02-16
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: testing standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 7a584db5-9919-57d1-8852-f911be88e64a
+status: valid

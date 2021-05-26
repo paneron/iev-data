@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2016-02-01
+  definition: voltage value assigned by a manufacturer or other entity for a specified
+    operating condition of a component, device or equipment
+  examples: []
+  id: 614-03-09
+  language_code: eng
+  notes:
+  - The value for the rated voltage of high voltage equipment is generally assigned
+    from the list of highest voltages for equipment in Tables 3, 4 and 5 of IEC 60038:2009.
+  - The value for the rated voltage of low voltage equipment is generally assigned
+    from the list of nominal voltages in Tables 1 and 6 of IEC 60038:2009.
+  - Equipment may have more than one rated voltage value or may have a rated voltage
+    range.
+  reviewDate: 2016-02-01
+  reviewDecisionDate: 2016-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated voltage
+    normative_status: preferred
+    type: expression
+    usage_info: of equipment
+dateAccepted: 2016-02-01
+id: 0c7c6745-f7fe-5e4b-be41-1eef5110b037
+status: valid

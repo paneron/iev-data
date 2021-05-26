@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: niveau de coloration d'une surface, évalué relativement à la luminosité
+    d'une surface éclairée dans les mêmes conditions et qui paraît grise, blanche
+    ou possède un facteur de transmission élevé
+  examples: []
+  id: 845-22-074
+  language_code: fra
+  notes:
+  - Pour un ensemble donné de conditions d'observation et pour des niveaux de luminance
+    dans les limites du domaine de la vision photopique, un stimulus de couleur perçu
+    comme une couleur non isolée, d'une chromaticité donnée et provenant d'une surface
+    d'un facteur de luminance donné, présente un chroma approximativement constant
+    pour tous les niveaux d'éclairement sauf lorsque la luminosité est très élevée.
+    Dans le cas des couleurs isolées et pour un niveau d'éclairement donné, l'augmentation
+    du facteur de luminance entraîne habituellement l'augmentation du chroma.
+  - Cet article était numéroté 845-02-42 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: chroma
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4fecc37b-4bcf-54c8-8341-867dbcacc80d
+status: valid

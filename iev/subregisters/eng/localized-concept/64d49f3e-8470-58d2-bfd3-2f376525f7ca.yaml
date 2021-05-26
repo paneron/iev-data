@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '141'
+      original: ITU RR 141 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: radio-frequency channel or radio-frequency band within which the emission
+    of a given station is authorized
+  examples: []
+  id: 713-06-09
+  language_code: eng
+  notes:
+  - The width of the assigned channel equals the necessary bandwidth plus twice the
+    absolute value of the frequency tolerance.
+  - Where space stations are concerned, the assigned frequency band includes twice
+    the maximum Doppler shift that may occur in relation to any point of the Earth's
+    surface.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: assigned channel
+    normative_status: preferred
+    type: expression
+  - designation: assigned band
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 64d49f3e-8470-58d2-bfd3-2f376525f7ca
+status: valid

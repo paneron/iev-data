@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: différence entre l'énergie cinétique `T ( q_i , overset(˙)(q)_i )` et
+    l'énergie potentielle `V`(`q`~`i`~), où `qi` est une coordonnée généralisée et
+    `overset(˙)(q)_i` est une vitesse généralisée, soit `L ( q_i , overset(˙)(q)_i
+    ) = T ( q_i , overset(˙)(q)_i ) - V ( q_i )`
+  examples: []
+  id: 113-03-76
+  language_code: fra
+  notes:
+  - 1 L’énergie potentielle `V`(`q`~`i`~) peut être généralisée au potentiel dynamique
+    `V ( q_i , overset(˙)(q)_i )`.
+  - 2 L’unité SI cohérente de fonction de Lagrange est le joule, J.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de Lagrange
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 1d2d44b1-ae4a-5060-9432-d7115dc7186f
+status: valid

@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: manque de stabilité statique
+  examples: []
+  id: 603-03-22
+  language_code: fra
+  notes:
+  - L'instabilité statique survient généralement suite à des transits de puissance
+    excessifs.
+  - Dans ces conditions, pour au moins un générateur, la dérivée de la puissance active
+    par rapport à l'écart angulaire entre sa f.e.m. et la f.e.m. de référence est
+    négative.
+  - Un réseau d'énergie électrique est statiquement instable pour un point de fonctionnement
+    donné si, à la suite d'une petite perturbation quelconque, il n'atteint pas un
+    régime de fonctionnement permanent.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instabilité statique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: instabilité en petits mouvements
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 06a8e012-873b-55e4-b85d-dedeecddc9e5
+status: valid

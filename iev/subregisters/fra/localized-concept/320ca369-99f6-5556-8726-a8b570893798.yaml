@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{opération logique, IEV:171-03-02}} dont les {{variables, IEV:103-01-05}}
+    d''entrée et de sortie sont binaires'
+  examples: []
+  id: 171-03-05
+  language_code: fra
+  notes:
+  - Les deux valeurs des variables sont les variables booléennes, généralement notée
+    0 et 1.
+  - Une définition équivalente est donnée en {{IEV 351-53-07, IEV:351-53-07}} pour
+    la technologie de commande et de régulation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: opération booléenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: fonction booléenne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 320ca369-99f6-5556-8726-a8b570893798
+status: valid

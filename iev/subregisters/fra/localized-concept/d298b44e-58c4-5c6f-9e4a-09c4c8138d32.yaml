@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.41
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.41
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  definition: dispositif placé sur le réseau central de train, pouvant servir de passerelle
+    entre le réseau central de train et le réseau de rame
+  examples: []
+  id: 811-37-74
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: nœud
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans un réseau embarqué de train
+dateAccepted: 2018-11-17
+id: d298b44e-58c4-5c6f-9e4a-09c4c8138d32
+status: valid

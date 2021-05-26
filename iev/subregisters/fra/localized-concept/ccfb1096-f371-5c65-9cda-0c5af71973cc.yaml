@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: largeur de la bande de fréquences telle que, au-delà de ses limites
+    inférieure et supérieure, toute raie spectrale ou toute densité spectrale de puissance
+    du spectre d'un signal est inférieure d'au moins `x` dB à un niveau de référence
+    spécifié pour le type de signal considéré
+  examples: []
+  id: 702-01-05
+  language_code: fra
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: largeur de bande "à `x` dB"
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: ccfb1096-f371-5c65-9cda-0c5af71973cc
+status: valid

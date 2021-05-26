@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.80
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.80
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  definition: couche du modèle OSI ({{IEV 716-01-20, IEV:716-01-20}}) permettant d'assurer
+    des transferts de données en mode point à point ou en mode diffusion, entre différents
+    équipements situés sur le même bus
+  examples: []
+  id: 811-37-56
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: couche de liaison
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: db56cd7c-0dc5-5156-aed2-35892809da98
+status: valid

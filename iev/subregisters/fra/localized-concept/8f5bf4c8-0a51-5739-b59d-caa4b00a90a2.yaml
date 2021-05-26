@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur qui caractérise la variation de la distance `l` entre deux
+    points d'un corps en fonction de la température thermodynamique `T`, dans des
+    conditions données, soit `alpha_l = (1)/(l) ((d l))/((d T))`
+  examples: []
+  id: 113-04-27
+  language_code: fra
+  notes:
+  - 1 La condition est en général l'absence de forces extérieures.
+  - 2 L'unité SI cohérente de coefficient de dilatation linéique est le kelvin à la
+    puissance moins un, K^−1^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient de dilatation linéique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 8f5bf4c8-0a51-5739-b59d-caa4b00a90a2
+status: valid

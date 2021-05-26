@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: 'one-dimensionally distributed two-terminal-pair circuit element characterized
+    by lineic inductance `l`, lineic capacitance `c`, lineic resistance `r` and lineic
+    conductance `g` which may all be functions of the same space coordinate `x`, where
+    the voltage `u`(`x, t`) and the electric current `i`(`x, t`), where `t` is the
+    time, are related by the partial differential equations: `- ((del u ( x , t )))/((del
+    x)) = r i + l ((del i ( x , t )))/((del t))` `- ((del i ( x , t )))/((del x))
+    = g u + c ((del u ( x , t )))/((del t))`'
+  examples: []
+  id: 131-12-86
+  language_code: eng
+  notes:
+  - For the qualifier "lineic", see IEC 60050-111.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transmission line
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: f4459bf5-f53f-5ec1-9271-4764f2bbcf4e
+status: valid

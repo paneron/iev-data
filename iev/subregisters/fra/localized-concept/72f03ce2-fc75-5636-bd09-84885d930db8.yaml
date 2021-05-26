@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: type de commande en boucle ouverte à actions de commande étape par étape,
+    dans lequel la transition d'une étape à la suivante est déterminée par un programme
+    en accord avec des conditions de transition spécifiées
+  examples: []
+  id: 351-47-59
+  language_code: fra
+  notes:
+  - Les étapes de la commande séquentielle correspondent aux conditions de fonctionnement
+    discrètes consécutives du processus technique, par exemple plusieurs variables
+    commandées finales ou plusieurs variables de référence.
+  - Cet article était numéroté 351-26-53 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande séquentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 72f03ce2-fc75-5636-bd09-84885d930db8
+status: valid

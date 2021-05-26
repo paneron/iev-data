@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: 'pour un bipôle résistif, élémentaire ou non, de bornes A et B, dérivée
+    de la tension électrique `u`~AB~ [{{131-11-56, IEV:131-11-56}}] entre les bornes
+    par rapport au courant électrique `i` dans le bipôle: `R_d = ((d u_((AB))))/((d
+    i))` où le courant est positif si le sens du courant est de A vers B et négatif
+    dans le cas contraire'
+  examples: []
+  id: 131-12-05
+  language_code: fra
+  notes:
+  - Pour une résistance idéale, la résistance différentielle `R`~d~ est égale à sa
+    résistance `R`.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: résistance différentielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-09-01
+id: a29246cb-bf35-5268-87ed-9694d80e6784
+status: valid

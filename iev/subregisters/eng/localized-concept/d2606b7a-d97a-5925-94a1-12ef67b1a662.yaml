@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2020-12-01
+  definition: '{{ratio, IEV:102-01-23}} of the mass of water vapour to the mass of
+    dry air in a given volume of air'
+  examples: []
+  id: 113-04-62
+  language_code: eng
+  notes:
+  - The mixing ratio at saturation is denoted `x`~sat~.
+  - The mixing ratio of water vapour is generally expressed in grams per kilogram.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mixing ratio
+    normative_status: preferred
+    type: expression
+    usage_info: of water vapour
+  - designation: mass ratio of water vapour to dry gas
+    normative_status: deprecated
+    type: expression
+  - designation: '`x`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: d2606b7a-d97a-5925-94a1-12ef67b1a662
+status: valid

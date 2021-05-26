@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: measurement point at the boundary of a {{fuel cell power system, IEV:485-09-01}}
+    at which material or energy, or both, either enters or leaves
+  examples: []
+  id: 485-09-12
+  language_code: eng
+  notes:
+  - This boundary is intentionally selected to accurately measure the performance
+    of the system, including all normal operation, both {{steady state, IEV:485-21-05}}
+    and transient. If necessary, the boundary or the interface points of the fuel
+    cell power system to be assessed should be determined by agreement between the
+    parties.
+  - Typical conditions to be standardized refer to fuel and oxidant parameters, like
+    compositions, flow rates, temperature, pressure and humidity, as well as to the
+    {{fuel cell, IEV:485-08-01}} parameters, like temperature.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interface point
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 01813b12-976d-5bfd-bb07-a0f6c9edb10b
+status: valid

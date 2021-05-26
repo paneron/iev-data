@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: for a body and a specified axis, scalar quantity equal to the integral
+    `J` = ∫~D~ `R`^2^ d`m` = ∫~D~ `R`^2^ `ρ` d`V`, where `ρ` is mass density in a
+    domain D with quasi-infinitesimal mass d`m` and volume d`V`, and `R` is the distance
+    between the domain and the axis
+  examples: []
+  id: 113-03-21
+  language_code: eng
+  notes:
+  - 1 For a material point, the moment of inertia is equal to the product of its mass
+    `m` and the square of its distance `R` to the axis, thus `J` = `mR`^2^. For a
+    system of particles, it is equal to the sum of their moments of inertia.
+  - 2 In non-relativistic physics, moment of inertia is an additive quantity.
+  - 3 More generally, moment of inertia can be defined for a rigid body as a tensor
+    quantity `vec vec J`, where `J`~`xx`~ = −∫(`y`^2^ + `z`^2^) d`m`, cycl., cycl.,
+    and `J`~`yz`~ = −∫ `yz` d`m`, cycl. cycl.
+  - 4 The moment of inertia is not to be confused with the second axial moment of
+    area and the second polar moment of area.
+  - 5 The coherent SI unit of moment of inertia is kilogram metre squared, kg·m^2^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moment of inertia
+    normative_status: preferred
+    type: expression
+  - designation: mass moment of inertia
+    normative_status: preferred
+    type: expression
+  - designation: '`J`
+
+      `I`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: b716da6a-f55a-51ac-aa1b-918f2e313900
+status: valid

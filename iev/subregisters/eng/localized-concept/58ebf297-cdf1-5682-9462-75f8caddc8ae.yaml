@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: LED light source having either at least one PCB cap or no cap, and incorporating
+    at least one LED package
+  examples: []
+  id: 845-27-058
+  language_code: eng
+  notes:
+  - An LED module can be an <a href="IEV845-27-059">integrated LED module</a> (LEDi
+    module), a <a href="IEV845-27-060">semi-integrated LED module</a> (LEDsi module)
+    (IEV) or a <a href="IEV845-27-061">non-integrated LED module</a> (LEDni module).
+  - An LED module is usually designed to be part of an LED lamp or an LED luminaire.
+  - 'An LED module can include one or more of the following: electric, optical, mechanical,
+    and thermal components, interfaces and control gear.'
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: LED module
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 58ebf297-cdf1-5682-9462-75f8caddc8ae
+status: valid

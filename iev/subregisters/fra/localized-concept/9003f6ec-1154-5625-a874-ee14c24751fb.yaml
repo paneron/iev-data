@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'grandeur scalaire égale à la circulation du champ électrique `*E*`
+    le long d''un chemin donné reliant deux points a et b: `U_((ab)) = int_((r_a))^((r_b))
+    E * d r` où `*r*`~a~ et `*r*`~b~ sont les rayons vecteurs de a et b respectivement,
+    et d`*r*` est l''élément vectoriel d''arc'
+  examples: []
+  id: 121-11-27
+  language_code: fra
+  notes:
+  - 'Dans le cas d''un champ électrique irrotationnel la tension électrique est indépendante
+    du chemin et égale à l''opposé de la différence de potentiel électrique entre
+    les deux points:
+
+
+    `U_((ab)) = - ( V_b - V_a )`'
+  - Le nom "voltage", couramment utilisé en langue anglaise, constitue une exception
+    au principe selon lequel le nom d'une grandeur ne devrait pas faire référence
+    à un nom d'unité.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension (électrique)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 9003f6ec-1154-5625-a874-ee14c24751fb
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour une fonction réelle ou complexe `f`(`t`) de la variable réelle
+    `t`, fonction complexe `F ( omega )` de la variable réelle `ω`, donnée par la
+    transformation intégrale `F ( omega ) = int_( - oo)^( + oo) f ( t ) e^(- j omega
+    t) d t` où j est l'unité imaginaire
+  examples: []
+  id: 103-04-01
+  language_code: fra
+  notes:
+  - Si `t` est le temps, la variable `ω` représente la pulsation.
+  - La transformée de Fourier de la fonction `f` est notée aussi F`f` ou ℱ`f`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: transformée de Fourier
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 07df369b-c228-5631-81fe-d5204f4c1d20
+status: valid

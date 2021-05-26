@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-19
+      original: MOD 702-02-19
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1995-09-01
+  definition: at a given point in a medium and in a given direction, the velocity
+    of electromagnetic waves in vacuum divided by the magnitude of the phase velocity
+    vector of a sinusoidal plane wave in the given direction
+  examples: []
+  id: 705-03-21
+  language_code: eng
+  notes:
+  - The refractive index is the real part of the complex refractive index.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: refractive index
+    normative_status: preferred
+    type: expression
+  - designation: 'symbole: `n`'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 8661ba38-075b-5ae5-9fe6-ec71416ca747
+status: valid

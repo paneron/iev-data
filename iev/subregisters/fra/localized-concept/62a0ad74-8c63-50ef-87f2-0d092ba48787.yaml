@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur admise maximale donnée par le système d'estimation d'éblouissement
+    CIE
+  examples: []
+  id: 845-22-106
+  language_code: fra
+  notes:
+  - Voir aussi CIE 112-1994, _Glare Evaluation System for Use within Outdoor Sports-
+    and Area Lighting_.
+  - L'unité de limite d'estimation d'éblouissement est un.
+  - Le terme abrégé "GRL" est dérivé du terme anglais développé correspondant "glare
+    rating limit".
+  reviewDecisionEvent: published
+  terms:
+  - designation: limite d'estimation d'éblouissement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: GR~L~
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 62a0ad74-8c63-50ef-87f2-0d092ba48787
+status: valid

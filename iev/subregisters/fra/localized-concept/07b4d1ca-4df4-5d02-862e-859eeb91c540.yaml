@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - - clause: 13-23
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-23, modifié – Les notes à l'article ont été
+        ajoutées
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Les notes à l'article ont été ajoutées
+        type: modified
+  definition: logarithme du nombre d'événements dans un ensemble fini de `n` événements
+    s'excluant mutuellement `H`~0~=log `n`
+  examples:
+  - 'La quantité de décision d’un jeu de trois événements est:
+
+
+    `[[H_0,=,( lb 3 ),Sh,tildetilde,1,,585, ,Sh],[, , ,=,( ln 3 ),nat,tildetilde,1,,099,
+    ,nat],[, , ,=,( lg 3 ),Hart,tildetilde,0,,477, ,Hart]]`'
+  id: 171-07-10
+  language_code: fra
+  notes:
+  - 'La base du logarithme détermine l''unité employée. Les unités habituellement
+    utilisées sont les suivantes: shannon (symbole Sh) pour les logarithmes de base
+    deux, unité naturelle (symbole nat) pour les logarithmes de base e, hartley (symbole
+    Hart) pour les logarithmes de base 10.
+
+
+    Table de conversion:
+
+
+    `[[1 Sh,tildetilde,0,693 nat,tildetilde,0,301 Hart],[1 nat,tildetilde,1,433 Sh,tildetilde,0,434
+    Hart],[1 Hart,tildetilde,3,322 Sh,tildetilde,2,303 nat]]`'
+  - La quantité de décision est indépendante des probabilités de réalisation des événements.
+  - Le nombre de décisions élémentaires distinctes qui doivent être prises pour choisir
+    un des événements dans un ensemble d'événements s'excluant mutuellement est le
+    plus petit entier supérieur ou égal à la quantité de décision, la base du logarithme
+    étant le nombre de choix possibles à chaque décision.
+  - Lorsqu’on emploie la même base entière pour le même nombre d’événements, la quantité
+    de décision est égale à l’{{entropie maximale, IEV:171-07-16}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantité de décision
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 07b4d1ca-4df4-5d02-862e-859eeb91c540
+status: valid

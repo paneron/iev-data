@@ -1,0 +1,55 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique ou lumineux `Φ`~2~ (ou `Φ`~1~) que la surface
+    S~1~ (ou S~2~) envoie sur la surface S~2~ (ou S~1~) par l'<a href="IEV845-21-080">exitance
+    énergétique</a> ou l'<a href="IEV845-21-081">exitance lumineuse</a> `M`~1~ (ou
+    `M`~2~) `g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))`
+  examples: []
+  id: 845-29-092
+  language_code: fra
+  notes:
+  - 'Puisque `M` = π`L`, et dans le cas particulier où tous les points de S~1~ sont
+    vus de tous les points de S~2~
+
+
+    `g = (1)/(pi) underset((A_2))( int ) underset((A_1))( int ) ((cos theta_1 cos
+    theta_2))/((l^2)) d A_1 d A_2 = (1)/(pi) G`
+
+
+    où `l` est la distance entre les aires élémentaires d`A`~1~ et d`A`~2~ prises
+    sur les surfaces S~1~ et S~2~, `G` est l''étendue géométrique du faisceau délimité
+    par les contours de S~1~ et S~2~, et `θ`~1~ et `θ`~2~ sont les angles entre les
+    perpendiculaires de surface des deux aires élémentaires d`A`~1~ et d`A`~2~ respectivement
+    et la droite reliant ces deux aires.'
+  - 'Pour deux aires élémentaires d`A`~1~ et d`A`~2~
+
+
+    `d g = (1)/(pi) d A_1 d omega_1 cos theta_1 = (1)/(pi) d A_2 d omega_2 cos theta_2`
+
+
+    où d`Ω`~1~ (or d`Ω`~2~) est l''angle solide sous lequel l''aire d`A`~2~ (ou d`A`~1~)
+    est vue du centre de d`A`~1~ (ou d`A`~2~).'
+  - 'La luminance énergétique ou lumineuse `L` du faisceau délimité par les contours
+    de d`A`~1~ et d`A`~2~ est
+
+
+    `L = (1)/(pi) ((d Phi))/((d g))`.'
+  - Le coefficient d'échange mutuel est exprimé en mètre carré (m^2^).
+  - Cet article était numéroté 845-09-71 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'échange mutuel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de la luminance énergétique ou lumineuse entre des surfaces
+  - designation: coefficient d'échange
+    gender: m
+    plurality: singular
+    type: expression
+    usage_info: de la luminance énergétique ou lumineuse entre des surfaces
+dateAccepted: 2018-11-17
+id: 27131f1e-632b-50e1-8020-8aea3c760c35
+status: valid

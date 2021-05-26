@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-01-01
+  definition: qualifies the name of a quantity to indicate the quotient of that quantity
+    by the length
+  examples: []
+  id: 112-03-14
+  language_code: eng
+  notes:
+  - 'Examples: linear mass density, linear mass, or lineic mass; linear electric current
+    density or linear electric current.'
+  - 'The qualifier “linear” is also added to the name of a quantity solely to distinguish
+    between similar quantities (examples: linear strain, linear expansion coefficient).
+    The qualifier “linear” has a different meaning in mathematics (see IEC 60050-102).'
+  reviewDate: 2010-01-01
+  reviewDecisionDate: 2010-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: linear … density
+    normative_status: preferred
+    type: expression
+  - designation: linear
+    part_of_speech: adj
+    type: expression
+  - designation: lineic
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2010-01-01
+id: c65764ca-4868-5204-911a-78c1c3cb7f2a
+status: valid

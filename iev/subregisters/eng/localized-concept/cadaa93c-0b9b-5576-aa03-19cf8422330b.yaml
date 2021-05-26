@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{electrochemical surface area, IEV:485-02-09}} per unit mass (or volume)
+    of the {{catalyst, IEV:485-01-01}}'
+  examples: []
+  id: 485-02-10
+  language_code: eng
+  notes:
+  - The specific surface area corresponds to the area of an {{electrocatalyst, IEV:485-01-02}}
+    accessible to reactants owing to its open porous structure, per unit mass (or
+    volume) of the catalyst.
+  - The specific surface area is expressed in m^2^/g or m^2^/m^3^.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: specific surface area
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: cadaa93c-0b9b-5576-aa03-19cf8422330b
+status: valid

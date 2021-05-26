@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dispositif électronique, faisant partie de l'appareillage de commande,
+    conçu pour contrôler l'énergie électrique à la source de lumière LED
+  examples: []
+  id: 845-28-057
+  language_code: fra
+  notes:
+  - L'objectif du contrôle de l'énergie électrique peut être le mélange de couleurs,
+    la réponse à la diminution du flux lumineux et d'autres fonctions.
+  - Dans le cas des modules LEDsi, l'unité de commande de l'appareillage de commande
+    fait partie du module LED et est séparée de l'alimentation de l'appareillage.
+  reviewDecisionEvent: published
+  terms:
+  - designation: unité de commande de l'appareillage de commande
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: pour une source de lumière LED
+dateAccepted: 2018-11-17
+id: fc371190-afce-589e-81ab-f599beac4414
+status: valid

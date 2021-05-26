@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: 'quantity defined by `Phi = K_m int_0^(oo) V ( lambda ) P ( lambda )
+    d lambda` where: `P`(`λ`) is the power spectral density radiated by the source
+    at wavelength `λ`; `V`(`λ`) is the spectral luminous efficiency for photopic vision;
+    `K`~m~ is a constant'
+  examples: []
+  id: 723-08-27
+  language_code: eng
+  notes:
+  - In the SI system of units, where `P`(`λ`) is expressed in watts per metre, the
+    luminous flux `Ф` is expressed in lumens, and `K`~m~ = 683 lm/W.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous flux
+    normative_status: preferred
+    type: expression
+  - designation: '`Ф`'
+    international: true
+    type: symbol
+dateAccepted: 1997-03-01
+id: feec3afe-103a-54f0-8979-03a0d8251f35
+status: valid

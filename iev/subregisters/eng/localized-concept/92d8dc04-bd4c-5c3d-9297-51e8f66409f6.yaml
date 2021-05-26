@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: the imaginary part of the propagation coefficient
+  examples: []
+  id: 705-02-26
+  language_code: eng
+  notes:
+  - The phase change coefficient, as defined above, is expressed in radians per unit
+    length.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase change coefficient
+    normative_status: preferred
+    type: expression
+  - designation: phase constant
+    type: expression
+  - designation: 'symbole: β'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 92d8dc04-bd4c-5c3d-9297-51e8f66409f6
+status: valid

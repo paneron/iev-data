@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '6.5'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 6.5
+      ref: IEC 62542:2013
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: conversion to monomer or production of new materials by changing the
+    chemical structure of waste polymers through cracking, gasification or depolymerisation,
+    excluding {{energy recovery, IEV:904-04-03}} and incineration
+  examples: []
+  id: 904-04-07
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: feedstock recycling
+    normative_status: preferred
+    type: expression
+  - designation: chemical recycling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: d790b7f9-0db4-5d2f-9ec9-a81d1416df2d
+status: valid

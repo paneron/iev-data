@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: illuminant dont la <a href="IEV845-21-030">répartition spectrale relative</a>
+    du flux énergétique est la même ou presque la même que celle d'une certaine phase
+    de la lumière du jour
+  examples: []
+  id: 845-23-020
+  language_code: fra
+  notes:
+  - Cet article était numéroté 845-03-11 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: illuminant lumière du jour
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: illuminant D
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9cf5a09f-8344-5c83-829b-10d4a3f6d509
+status: valid

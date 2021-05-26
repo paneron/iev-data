@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aptitude à être maintenue dans un état où la disponibilité requise est
+    obtenue avec un profil opérationnel défini et des ressources logistiques et de
+    maintenance données
+  examples: []
+  id: 192-01-31
+  language_code: fra
+  notes:
+  - La supportabilité d’une entité dépend de sa maintenabilité ({{192-01-27, IEV:192-01-27}})
+    intrinsèque, combinée à des facteurs externes qui influencent la facilité relative
+    à disposer des ressources logistiques et de maintenance requises.
+  reviewDecisionEvent: published
+  terms:
+  - designation: supportabilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: edb2c69f-31a7-5bfc-9688-4ec8e8a79b71
+status: valid

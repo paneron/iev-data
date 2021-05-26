@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: inaptitude à répondre à la demande d'énergie, en raison d'une insuffisance
+    de capacité de production ou pour d'autres raisons
+  examples: []
+  id: 692-01-16
+  language_code: fra
+  notes:
+  - L’insuffisance de capacité de production peut provenir de l’{{indisponibilité
+    non différable, IEV:692-04-05}} d’un groupe de production ou d’une demande supérieure
+    à la capacité de conception.
+  - La définition {{IEV 603-04-43, IEV:603-04-43}} "réduction soudaine de la puissance
+    appelée" est incompatible avec ce terme et les termes connexes, par exemple, probabilité
+    de perte de charge.
+  reviewDecisionEvent: published
+  terms:
+  - designation: perte de charge
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans un réseau d’énergie électrique
+dateAccepted: 2018-11-17
+id: 4784de70-21bc-5ce3-90f1-5da51b0c5b3d
+status: valid

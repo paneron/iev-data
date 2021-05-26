@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: relation linéaire ou non linéaire entre la valeur de la tension de sortie
+    et la valeur du courant de sortie pour une charge spécifiée et pour une position
+    fixe des réglages
+  examples: []
+  id: 312-06-04
+  language_code: fra
+  notes:
+  - La charge peut être complexe et/ou non linéaire.
+  - La caractéristique de charge peut aussi décrire les effets d’une surcharge.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: caractéristique de charge
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 091e9e31-c3f2-5653-9a14-cfd6fc6f11a3
+status: valid

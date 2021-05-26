@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: faisceau électromagnétique dans lequel la valeur efficace de la norme
+    du champ électrique le long d'un diamètre d'une section droite est répartie suivant
+    une fonction gaussienne
+  examples: []
+  id: 731-01-34
+  language_code: fra
+  notes:
+  - 'Dans un faisceau gaussien de section droite circulaire, la valeur efficace de
+    la norme du champ électrique est donnée par la formule :
+
+
+    `Е(r)` = `E` (0) exp [– (`r` / `w`)^2^]
+
+
+    où `r` est la distance à l''axe et `w` la distance à laquelle le champ est égale
+    à 1/e fois sa valeur sur l''axe.'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: faisceau gaussien
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: dea8bf9b-652b-5b64-81e3-f7408f137dfb
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1994-07-01
+  definition: quotient de la pression acoustique par la composante en phase du flux
+    d'accélération qui en résulte, dans un mouvement sinusoïdal et aux fréquences
+    pour lesquelles l'inertie est prépondérante
+  examples: []
+  id: 801-25-43
+  language_code: fra
+  notes:
+  - La masse acoustique a comme dimension la masse divisée par le сarré de l'aire.
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: masse acoustique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: inertance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: 7ccc5408-3ae8-5a5b-9b90-b216deaac806
+status: valid

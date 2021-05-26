@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 702-02-10
+      original: MOD 702-02-10
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1991-10-01
+  definition: 1 – a decrease of electromagnetic power between two points 2 – the quantitative
+    expression of power decrease which may be expressed by the ratio of the values
+    at two points of a quantity related to power in a well defined manner.
+  examples: []
+  id: 731-01-48
+  language_code: eng
+  notes:
+  - Attenuation is generally expressed in logarithmic units, such as decibel (dB).
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: attenuation
+    normative_status: preferred
+    type: expression
+  - designation: loss
+    type: expression
+dateAccepted: 1991-10-01
+id: ec18a8fe-ee4a-5336-ab03-123cae7cbe9f
+status: valid

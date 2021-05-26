@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'input variable to a comparing element in a controlling system, which
+    sets the desired value of the controlled variable and is deducted from the command
+    variable SEE: Figure 2.'
+  examples: []
+  id: 351-48-02
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-27-02 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference variable
+    normative_status: preferred
+    type: expression
+  - designation: '`w`'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: d3381475-fa5c-509d-97bb-ddf4e5ffdd52
+status: valid

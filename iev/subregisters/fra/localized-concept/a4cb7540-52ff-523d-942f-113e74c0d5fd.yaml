@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: définition 1101
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 1101, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: détecteur de neutrons ou de gamma, sans source d'énergie externe, qui
+    produit un signal faible dû à l'activation par les neutrons et les rayons gamma
+  examples: []
+  id: 395-03-111
+  language_code: fra
+  notes:
+  - Le signal résulte de l'émission d'électrons à partir de la capture neutronique
+    et de l'absorption des rayons gamma.
+  - Dans un réacteur nucléaire, un ensemble de collectrons convenablement disposés
+    dans le cœur, permet de mesurer le flux neutronique et de déterminer ainsi la
+    distribution (axiale et radiale) de puissance et d’en suivre l’évolution au cours
+    du temps.
+  - Cet article était numéroté 394-24-04 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: collectron
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a4cb7540-52ff-523d-942f-113e74c0d5fd
+status: valid

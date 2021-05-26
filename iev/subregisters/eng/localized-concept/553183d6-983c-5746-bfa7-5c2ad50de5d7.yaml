@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 3.4.14
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.4.14
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2019-05-01
+  definition: device, specified by the residual current device manufacturer, which
+    has to be installed in the circuit in series with the residual current device
+    in order to protect it against short-circuits only
+  examples: []
+  id: 442-05-12
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: short-circuit protective device
+    normative_status: preferred
+    type: expression
+    usage_info: for a residual current device
+  - designation: SCPD
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: 553183d6-983c-5746-bfa7-5c2ad50de5d7
+status: valid

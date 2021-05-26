@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: temperature of the air or other media, in the immediate vicinity of
+    the equipment or component
+  examples: []
+  id: 426-04-09
+  language_code: eng
+  notes:
+  - This does not refer to the temperature of any process media, unless the equipment
+    or component is totally immersed in the process media.
+  - If {{Ex Equipment, IEV:426-01-14}} or an {{Ex Component, IEV:426-01-13}} is located
+    inside or adjacent to another piece of equipment, the "ambient temperature" is
+    the temperature of the air or other media surrounding the Ex Equipment or Ex Component
+    and can be higher than the ambient air surrounding the complete equipment due
+    to the additional heat dissipated within the complete equipment.
+  - The ambient temperature referred to in the IEC 60079 series is only related to
+    the explosion safety and not the performance of the Ex Equipment or Ex Component.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ambient temperature
+    normative_status: preferred
+    type: expression
+    usage_info: explosive atmospheres
+dateAccepted: 2020-03-01
+id: a40fe2bd-60c8-5c2e-895e-c0d251a06229
+status: valid

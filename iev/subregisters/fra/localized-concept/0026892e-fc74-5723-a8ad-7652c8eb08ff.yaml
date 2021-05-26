@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: terme diagonal de la matrice des inductances
+  examples: []
+  id: 131-12-35
+  language_code: fra
+  notes:
+  - 'Pour un enroulement de `N`~`i`~  tours suivant le même contour, l''inductance
+    propre et la perméance propre sont reliées par la formule : `L`~`ii`~ = `N`~`i`~^2^`Λ`~`ii`~'
+  - Pour une inductance idéale, l'inductance propre est égale à l'inductance définie
+    en 131-12-19.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inductance propre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 0026892e-fc74-5723-a8ad-7652c8eb08ff
+status: valid

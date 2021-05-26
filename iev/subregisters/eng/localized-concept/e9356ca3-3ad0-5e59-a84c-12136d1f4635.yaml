@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-01-01
+  definition: '{{factor, IEV:112-03-04}} usually expressed as a percentage or any
+    decimal fraction such as thousandth or millionth'
+  examples: []
+  id: 112-03-19
+  language_code: eng
+  notes:
+  - 'The use of "rate" with this meaning is often deprecated in favour of "ratio".
+    For example, it is recommended to use “error ratio” and not "error rate" (see
+    {{IEV 702-07-39, IEV:702-07-39}}). In other examples, "factor" is used in English
+    for "taux" in French: {{total harmonic factor, IEV:103-07-32}}, {{modulation factor,
+    IEV:702-06-19}}.'
+  reviewDate: 2019-01-01
+  reviewDecisionDate: 2019-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rate
+    normative_status: preferred
+    type: expression
+    usage_info: factor
+dateAccepted: 2019-01-01
+id: e9356ca3-3ad0-5e59-a84c-12136d1f4635
+status: valid

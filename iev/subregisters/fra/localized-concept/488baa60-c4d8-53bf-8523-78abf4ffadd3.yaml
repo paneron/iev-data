@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{cellule élémentaire à combustible, IEV:485-08-01}} dont l''{{électrolyte,
+    IEV:485-03-01}} est de type membrane en polymère capable d''échanges ioniques
+    (protons)'
+  examples: []
+  id: 485-08-08
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: pile à combustible à électrolyte polymère
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PEFC
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: pile à combustible à membrane échangeuse de protons
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: PEMFC
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: br
+dateAccepted: 2018-11-17
+id: 488baa60-c4d8-53bf-8523-78abf4ffadd3
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-04-01
+  definition: the ratio, generally expressed in decibels, of the power of the carrier
+    of a wanted signal to the power of the radio-frequency noise, evaluated in specified
+    conditions, at the input of the receiver
+  examples: []
+  id: 713-11-21
+  language_code: eng
+  notes:
+  - 'The specified conditions comprise among others:
+
+
+    – the nature and characteristics of radio-frequency noise,
+
+
+    – the bandwidth in which the noise is evaluated.'
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: carrier-to-noise ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`C`/`N`'
+    international: true
+    type: symbol
+dateAccepted: 1998-04-01
+id: f90a6c7d-bf9c-54a0-aefc-e9009c28c59d
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a two-terminal-pair network or an `n`-terminal-pair network, matrix
+    expressing the electric dependence of the port voltages on the port currents
+  examples: []
+  id: 131-14-24
+  language_code: eng
+  notes:
+  - Names and symbols for the elements of the impedance matrix are given in IEC 60027-2.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impedance matrix
+    normative_status: preferred
+    type: expression
+  - designation: '*`Z`*'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 1be923e7-365b-59c1-9559-bfe315017403
+status: valid

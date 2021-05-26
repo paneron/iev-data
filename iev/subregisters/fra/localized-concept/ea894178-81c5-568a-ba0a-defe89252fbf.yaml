@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: méthode de transmission pouvant être appliquée lorsque le débit de la
+    voie de transmission est supérieur au débit d'entrée, et selon laquelle les éléments
+    binaires à transférer sont transmis au débit de la voie, le transfert étant interrompu
+    régulièrement de manière à obtenir le débit moyen requis; les interruptions ont
+    toujours une durée multiple de celle des éléments numériques
+  examples: []
+  id: 721-11-24
+  language_code: fra
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: isochronisme par paquets
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: isochronisme interrompu
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: ea894178-81c5-568a-ba0a-defe89252fbf
+status: valid

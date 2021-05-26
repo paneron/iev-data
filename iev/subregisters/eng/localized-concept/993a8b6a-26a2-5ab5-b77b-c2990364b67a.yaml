@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2020-12-01
+  definition: colour space used to connect the source and destination profiles in
+    a colour management architecture
+  examples: []
+  id: 845-32-047
+  language_code: eng
+  notes:
+  - See also "<a href="IEV845-21-029">ICC profile connection space</a>".
+  - This note applies to the French language only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: profile connection space
+    normative_status: preferred
+    type: expression
+  - designation: PCS
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-12-01
+id: 993a8b6a-26a2-5ab5-b77b-c2990364b67a
+status: valid

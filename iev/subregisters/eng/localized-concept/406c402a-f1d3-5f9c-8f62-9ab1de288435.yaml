@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: for a uniformly magnetized body, the ratio of the self-demagnetizing
+    field strength to the magnetization
+  examples: []
+  id: 221-04-04
+  language_code: eng
+  notes:
+  - If the magnetization is not uniform, an average value may be assigned to the demagnetization
+    factor provided the conditions are stated.
+  - In permanent magnet technology, a demagnetization factor is sometimes used to
+    represent the slope of the load line.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: demagnetization factor
+    normative_status: preferred
+    type: expression
+  - designation: '`N`'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: 406c402a-f1d3-5f9c-8f62-9ab1de288435
+status: valid

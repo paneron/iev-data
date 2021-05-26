@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - original: ITU-R Rec. 686 MOD
+      ref: ITU-R Recommendation 686
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: timescale which forms the basis of a coordinated radio dissemination
+    of standard frequencies and time signals. It corresponds exactly in rate with
+    international atomic time, but differs from it by an integral number of seconds
+  examples: []
+  id: 713-05-20
+  language_code: eng
+  notes:
+  - Coordinated universal time is established by the International Bureau of Weights
+    and Measures (BIPM) and the International Earth Rotation Service (IERS).
+  - The UTC scale is adjusted by the insertion or deletion of seconds, so called positive
+    or negative leap seconds, to ensure approximate agreement with UT1.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coordinated universal time
+    normative_status: preferred
+    type: expression
+  - designation: UTC
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: c61feb0c-8c76-5c6a-a760-e983cac64d2f
+status: valid

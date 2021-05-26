@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: panne qui ne provoque une erreur que dans des conditions particulières
+  examples: []
+  id: 192-04-07
+  language_code: fra
+  notes:
+  - Une panne dormante est latente jusqu’à sa première manifestation.
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne dormante
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 89ba0918-b3eb-56a1-b884-9d30d1fdeed5
+status: valid

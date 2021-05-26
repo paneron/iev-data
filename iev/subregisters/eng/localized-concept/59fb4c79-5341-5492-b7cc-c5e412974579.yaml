@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: introduction of small levels of air (around 5 %) into the fuel stream,
+    upstream of the fuel inlet, to the {{fuel cell, IEV:485-08-01}} or within the
+    {{anode, IEV:485-02-04}} compartment
+  examples: []
+  id: 485-09-07
+  language_code: eng
+  notes:
+  - The purpose of air bleed is to mitigate {{catalyst poisoning, IEV:485-01-04}}
+    by species such as carbon monoxide by catalytic oxidation of the poison within
+    the anode compartment of the fuel cell.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: air bleed
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 59fb4c79-5341-5492-b7cc-c5e412974579
+status: valid

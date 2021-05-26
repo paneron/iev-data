@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: for a real or complex function `f`(`t`) of the real variable `t`, complex
+    function `F ( omega )` of the real variable `ω`, given by the integral transformation
+    `F ( omega ) = int_( - oo)^( + oo) f ( t ) e^(- j omega t) d t` where j is the
+    imaginary unit
+  examples: []
+  id: 103-04-01
+  language_code: eng
+  notes:
+  - If `t` is time, the variable `ω` represents angular frequency.
+  - The Fourier transform of the function `f` is also denoted F`f` or ℱ`f`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Fourier transform
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 30958231-5afc-589f-b9cf-59d9b9963e00
+status: valid

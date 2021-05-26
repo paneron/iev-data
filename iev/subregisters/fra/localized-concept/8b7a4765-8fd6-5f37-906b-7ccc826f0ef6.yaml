@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: dans l'espace géométrique usuel, ensemble des points d'un plan dont
+    la distance euclidienne à un point donné est inférieure ou égale à une longueur
+    donnée
+  examples: []
+  id: 102-04-29
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: disque
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: cercle
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8b7a4765-8fd6-5f37-906b-7ccc826f0ef6
+status: valid

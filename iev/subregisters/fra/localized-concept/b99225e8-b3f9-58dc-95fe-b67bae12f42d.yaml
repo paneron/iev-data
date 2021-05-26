@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient du flux énergétique ou lumineux surfacique moyen `Φ`~2~/`A`~2~
+    (ou `Φ`~1~/`A`~1~), reçu par la surface S~2~ (ou S~1~) en provenance de la surface
+    S~1~ (ou S~2~) par l'exitance énergétique ou lumineuse, `M`~1~ (ou `M`~2~), de
+    la surface S~1~ (ou S~2~) `f_((21)) = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))` ou
+    `f_((12)) = ((Phi_1))/((A_1 M_2)) = (g)/((A_1))` avec `A_2 f_((21)) = g = A_1
+    f_((12))` où `Φ`~2~ (ou `Φ`~1~) est le flux énergétique ou lumineux reçu par la
+    surface S~2~ (ou S~1~) en provenance de la surface S~1~ (ou S~2~), `A`~2~ (ou
+    `A`~1~) est l'aire de la surface S~2~ (ou S~1~) et `g` est le coefficient d'échange
+    mutuel
+  examples: []
+  id: 845-29-094
+  language_code: fra
+  notes:
+  - L'unité de facteur de forme est un.
+  - Cet article était numéroté 845-09-73 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de forme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: entre deux surfaces
+dateAccepted: 2018-11-17
+id: b99225e8-b3f9-58dc-95fe-b67bae12f42d
+status: valid

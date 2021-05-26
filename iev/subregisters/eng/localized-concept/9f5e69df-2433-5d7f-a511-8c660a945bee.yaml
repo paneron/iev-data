@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: quantity equal to the mass d`m` of substance crossing a given surface
+    during a time interval with infinitesimal duration d`t`, divided by this duration,
+    thus `q`~`m`~ = d`m` / d`t`
+  examples: []
+  id: 113-03-71
+  language_code: eng
+  notes:
+  - 1 `q`~`m`~ = `ρq`~`v`~ where `ρ` is mass density and `q`~`v`~ is volume flow rate
+    ({{113-03-72, IEV:113-03-72}}).
+  - 2 The coherent SI unit of mass flow rate is kilogram per second, kg/s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mass flow rate
+    normative_status: preferred
+    type: expression
+  - designation: '`q`~`m`~
+
+      `Q`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 9f5e69df-2433-5d7f-a511-8c660a945bee
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: one of the two frequencies of a piezoelectric resonator in association
+    with a series or parallel load capacitance, under specified conditions, at which
+    the electrical impedance of the combination is resistive
+  examples: []
+  id: 561-01-44
+  language_code: eng
+  notes:
+  - The load resonance frequency is the lower of the two frequencies when the load
+    capacitance is in series and the higher when it is in parallel.
+  - This entry was numbered 561-02-12 in IEC 60050-561:1991.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: load resonance frequency
+    normative_status: preferred
+    type: expression
+  - designation: '`f`~L~'
+    international: true
+    type: symbol
+dateAccepted: 2014-11-01
+id: 89649ecf-6736-50d9-80de-541f19a90a41
+status: valid

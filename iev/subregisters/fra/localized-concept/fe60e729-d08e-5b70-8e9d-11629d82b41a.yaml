@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'tarif comportant trois éléments intervenant dans la composition du
+    prix de la fourniture Par exemple: un élément correspondant au paiement d''une
+    redevance fixe (prix `p`~1~ par mois), un élément relatif à la puissance (prix
+    `p`~2~ par kW et par mois), un élément relatif à l''énergie (prix `p`~3~ par kWh).'
+  examples: []
+  id: 691-05-07
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif trinôme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: fe60e729-d08e-5b70-8e9d-11629d82b41a
+status: valid

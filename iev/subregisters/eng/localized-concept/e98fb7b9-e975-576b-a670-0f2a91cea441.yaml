@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.21
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.21
+      ref: IEC 62290-1:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: centre from which operation of the line or the network is supervised
+    and managed
+  examples: []
+  id: 821-01-64
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: operations control centre
+    normative_status: preferred
+    type: expression
+  - designation: OCC
+    type: expression
+dateAccepted: 2017-11-01
+id: e98fb7b9-e975-576b-a670-0f2a91cea441
+status: valid

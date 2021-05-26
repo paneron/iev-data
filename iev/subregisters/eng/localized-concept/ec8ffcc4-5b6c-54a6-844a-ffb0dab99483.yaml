@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-08-01
+  definition: integral of the instantaneous power `p` over a time interval [`t`~1~,
+    `t`~2~] `W = int_(t_1)^(t_2) p d t`
+  examples: []
+  id: 131-11-57
+  language_code: eng
+  notes:
+  - The coherent SI unit of active energy is joule, J. Another unit is watt hour ({{131-11-58,
+    IEV:131-11-58}}). Its multiple kilowatt hour, kWh, is commonly used for billing
+    consumers of electric energy and is therefore indicated on electric energy meters.
+  reviewDate: 2013-08-01
+  reviewDecisionDate: 2013-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: active energy
+    normative_status: preferred
+    type: expression
+  - designation: '`W`'
+    international: true
+    type: symbol
+dateAccepted: 2013-08-01
+id: ec8ffcc4-5b6c-54a6-844a-ffb0dab99483
+status: valid

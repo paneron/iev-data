@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: scalar quantity equal to the scalar line integral of a force *`F`* acting
+    on a particle along a given path C, thus `W` = ∫~C~ *`F`* ⋅ d*`r`*, where d*`r`*
+    is vector line element
+  examples: []
+  id: 113-03-44
+  language_code: eng
+  notes:
+  - 1 Work is energy transferred in a special manner and thus is a process quantity
+    ({{113-04-10, IEV:113-04-10}}). Work `W` changes the internal energy `E` ({{113-04-20,
+    IEV:113-04-20}}) of a body for Δ`E` = `W`, where `E` is a state quantity ({{113-04-09,
+    IEV:113-04-09}}).
+  - '2 In applications, work is often calculated as the time integral of power `P`:
+    `W = int_(t_1)^(t_2) P d t`.'
+  - 3 The coherent SI unit of work is joule, J.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: work
+    normative_status: preferred
+    type: expression
+  - designation: '`W`
+
+      `A`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 13118404-a6fb-53a5-8bdf-f245c85e1096
+status: valid

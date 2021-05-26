@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: duration between the instant when the {{characteristic quantity, IEV:447-07-01}}
+    of a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    in {{operate condition, IEV:447-02-01}} is changed beyond its {{disengage value,
+    IEV:447-02-18}}, under specified conditions, and the instant when a specified
+    {{output make circuit, IEV:447-04-08}} first opens
+  examples: []
+  id: 447-05-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: opening time of an output make circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 53d65b03-8251-5fa1-8d6f-ad3546a2af43
+status: valid

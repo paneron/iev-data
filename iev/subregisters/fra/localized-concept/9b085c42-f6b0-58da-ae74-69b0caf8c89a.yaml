@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: mesure de l'éblouissement perturbateur exprimée en augmentation de pourcentage
+    du seuil de contraste de luminance exigée entre un objet et son fond pour que
+    cet objet soit correctement perçu de manière égale en présence d'une source d'éblouissement
+  examples: []
+  id: 845-31-145
+  language_code: fra
+  notes:
+  - Des valeurs plus grandes de l'incrément de seuil correspondent à un éblouissement
+    perturbateur accru.
+  - L'unité d'incrément de seuil est un.
+  reviewDecisionEvent: published
+  terms:
+  - designation: incrément de seuil
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: évaluation de l'éblouissement
+dateAccepted: 2018-11-17
+id: 9b085c42-f6b0-58da-ae74-69b0caf8c89a
+status: valid

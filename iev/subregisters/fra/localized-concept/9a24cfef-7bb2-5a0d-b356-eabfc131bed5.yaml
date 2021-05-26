@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: type de limitation dans laquelle les valeurs instantanées d'un signal
+    qui sont en dehors de l'intervalle compris entre deux seuils fixés sont réduites
+    à des valeurs proches du seuil le plus voisin, les valeurs instantanées du signal
+    comprises entre les deux seuils étant conservées
+  examples: []
+  id: 702-04-34
+  language_code: fra
+  notes: []
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: éminçage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: double écrêtage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 9a24cfef-7bb2-5a0d-b356-eabfc131bed5
+status: valid

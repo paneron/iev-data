@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre de particules d'une espèce donnée qui participent à une réaction
+    chimique de la manière représentée par une équation chimique
+  examples: []
+  id: 114-01-22
+  language_code: fra
+  notes:
+  - 'Les nombres stœchiométriques des réactifs sont les opposés des nombres qui figurent
+    dans l’équation ; les nombres stœchiométriques des produits sont positifs. Dans
+    l’équation
+
+
+    CH~4~ + 2 O~2~ → CO~2~ + 2 H~2~O, les nombres stœchiométriques de CH~4~ et de
+    O~2~ sont respectivement −1 et −2, ceux de CO~2~ et de H~2~O sont respectivement
+    1 et 2.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: nombre stœchiométrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: coefficient stœchiométrique
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1517695b-7992-56e6-8869-4b5415660a52
+status: valid

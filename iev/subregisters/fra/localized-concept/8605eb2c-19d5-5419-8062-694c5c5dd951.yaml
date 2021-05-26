@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tension la plus basse qu'un {{module à pile à combustible, IEV:485-09-03}}
+    est capable de supporter sans interruption soit à sa {{puissance assignée, IEV:485-14-04}},
+    soit dans des conditions de surcharge maximales admissibles, selon la plus basse
+    des deux
+  examples: []
+  id: 485-13-01
+  language_code: fra
+  notes:
+  - La tension minimale est exprimée en V.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension minimale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: piles à combustible
+dateAccepted: 2018-11-17
+id: 8605eb2c-19d5-5419-8062-694c5c5dd951
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '4.4'
+      original: VIM 4.4
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: suite d'éléments d'un appareil de mesure ou d'un système de mesure qui
+    constitue le chemin du signal de mesure depuis l'entrée jusqu'à la sortie
+  examples: []
+  id: 311-03-07
+  language_code: fra
+  notes:
+  - 'Exemple: ensemble de transducteurs et d''organes de liaison entre un ou plusieurs
+    appareils de mesure placés entre le capteur, premier élément de la chaîne, et
+    le dernier élément: par exemple le dispositif indicateur, enregistreur ou de mémorisation.'
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: chaîne de mesure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: da5ca3ab-38a1-5b32-99a3-808922bbc60a
+status: valid

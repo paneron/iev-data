@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: protocole de transmission en mode sans connexion, correspondant à peu
+    près à un protocole dans la couche réseau du modèle de référence OSI
+  examples: []
+  id: 732-07-04
+  language_code: fra
+  notes:
+  - 1 – Le protocole IP est défini dans le RFC 791.
+  - 2 – IP est un sigle anglais pour "Internet Protocol".
+  - '3 – Voir Figure 6.
+
+
+    image::/assets/images/parts/732/732-07-04fr.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: protocole IP
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: c4e51f4b-297a-5cdf-9979-d4e2d691dc14
+status: valid

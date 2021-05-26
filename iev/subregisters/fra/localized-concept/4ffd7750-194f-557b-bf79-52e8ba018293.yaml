@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: récepteur de <a href="IEV845-21-002">rayonnement optique</a> dont le
+    rendement quantique est indépendant de la longueur d'onde dans le domaine spectral
+    pris en considération
+  examples: []
+  id: 845-25-047
+  language_code: fra
+  notes:
+  - Le rendement quantique peut faire référence au <a href="IEV845-25-074">rendement
+    quantique externe</a> ou le <a href="IEV845-25-076">rendement quantique interne</a>.
+    En l'absence d'indication explicite, le rendement quantique externe est défini
+    par hypothèse.
+  - Voir aussi "<a href="IEV845-25-109">compteur quantique</a>".
+  - Cet article était numéroté 845-05-42 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: récepteur quantique non sélectif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: récepteur quantique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4ffd7750-194f-557b-bf79-52e8ba018293
+status: valid

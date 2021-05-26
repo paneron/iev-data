@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'of electrical steel, the ratio of the difference between the magnetic
+    losses `Pα`, measured at an angle `α` to the direction of rolling, and the magnetic
+    losses, `P`~0~, measured along the direction of rolling, to `P`~0~, the ratio
+    being expressed as a percentage: `T_L = ((P_(alpha) - P_0))/((P_0)) xx 100 %`'
+  examples: []
+  id: 221-03-39
+  language_code: eng
+  notes:
+  - The measurements of `Pα` and `P`~0~ are to be made under the same conditions.
+  - The loss anisotropy factor at a given angle differs both conceptually and numerically
+    from the loss anisotropy factor `T` ({{IEV 221-03-38, IEV:221-03-38}}).
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: loss anisotropy factor
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~L~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: c64efcfc-e587-5e41-b089-8448de94a554
+status: valid

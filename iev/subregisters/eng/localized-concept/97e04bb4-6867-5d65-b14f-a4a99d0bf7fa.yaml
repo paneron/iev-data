@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: the dose equivalent to an organ or tissue that will be accumulated over
+    50 years following the intake of radioactive material into the body `H_((50))
+    = int_(t_0)^(t_0 + 50 years) overset(˙)(H) ( t ) d t` where `overset(˙)(H) ( t
+    )` is the dose equivalent rate at time `t` and `t`~0~ is the time of intake
+  examples: []
+  id: 881-14-20
+  language_code: eng
+  notes: []
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: committed dose equivalent
+    normative_status: preferred
+    type: expression
+  - designation: '`H`~50~'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 97e04bb4-6867-5d65-b14f-a4a99d0bf7fa
+status: valid

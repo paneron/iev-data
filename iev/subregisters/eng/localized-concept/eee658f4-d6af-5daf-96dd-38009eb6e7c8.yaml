@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '6.11'
+      original: ≠ VIM 6.11
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: set of operations which establishes, by reference to standards, the
+    relationship which exists, under specified conditions, between an indication and
+    a result of a measurement
+  examples: []
+  id: 311-01-09
+  language_code: eng
+  notes:
+  - This term is based on the "uncertainty" approach.
+  - The relationship between the indications and the results of measurement can be
+    expressed, in principle, by a calibration diagram.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: calibration
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: eee658f4-d6af-5daf-96dd-38009eb6e7c8
+status: valid

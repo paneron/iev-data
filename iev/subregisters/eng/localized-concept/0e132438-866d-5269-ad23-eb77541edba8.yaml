@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: supporting and auxiliary components based on the power source or site-specific
+    requirements and integrated into a comprehensive {{fuel cell power system, IEV:485-09-01}}
+  examples: []
+  id: 485-09-04
+  language_code: eng
+  notes:
+  - In general, all components apart from the {{fuel cell stack, IEV:485-06-01}} or
+    {{fuel cell module, IEV:485-09-03}} and the fuel processing system are included
+    in the balance of plant components.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: balance of plant
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 0e132438-866d-5269-ad23-eb77541edba8
+status: valid

@@ -1,0 +1,55 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: 'temperature of the Planckian radiator whose <a href="IEV845-21-030">relative
+    spectral distribution</a>, `S`(`λ`) is the same or nearly the same as that of
+    the radiation considered in the spectral range of interest for which the following
+    integral is minimized by adjustment of `a` and `T`: `int_((lambda_1))^((lambda_2))
+    1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda` where `λ` is the wavelength,
+    `S`~t~(`λ`) is the <a href="IEV845-21-030">relative spectral distribution</a>
+    of the radiation being considered, `S`~b~(`λ`, `T`) is the relative spectral distribution
+    of the Planckian radiator at temperature `T`, and `a` is a scaling factor'
+  examples: []
+  id: 845-24-017
+  language_code: eng
+  notes:
+  - 'The scaling factor `a` is chosen to make the quotient `((S_t ( lambda )))/((S_b
+    ( lambda , T )))` equal to unity at a convenient wavelength which, in photometry
+    and colorimetry is typically 560 nm.
+
+
+    `S_b ( lambda , T ) = ((P ( lambda , T )))/((P ( 560 nm , T )))`
+
+
+    with `P ( lambda , T ) = lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)`,
+    where `c`~2~ is the second radiation constant.'
+  - Distribution temperature is a meaningful characteristic for radiators having a
+    <a href="IEV845-21-030">relative spectral distribution</a> similar to that of
+    a Planckian radiator, but only if calculated for an expanded wavelength range
+    and for radiation whose <a href="IEV845-21-029">spectral distribution</a> of radiant
+    flux is a continuous function of wavelength in that range.
+  - In photometry and colorimetry the wavelength range set by `λ`~1~ and `λ`~2~ is
+    the visible spectral range, and in these cases the range from at least `λ`~1~
+    = 400 nm to `λ`~2~ = 750 nm is recommended.
+  - In practice, the integral is replaced by a summation. For <a href="IEV845-27-011">incandescent
+    lamps</a>, equally spaced wavelength intervals of 10 nm will usually suffice.
+    All values in the summation are treated with equal weight.
+  - The distribution temperature is expressed in kelvin (K).
+  - For further information, see CIE 114-1994, _CIE Collection in Photometry and Radiometry
+    – 114/4 Distribution Temperature and Ratio Temperature_.
+  - This entry was numbered 845-04-14 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: distribution temperature
+    normative_status: preferred
+    type: expression
+    usage_info: of a source in a given wavelength range, <i
+  - designation: '`T`~D~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: da6f1e2b-4ec9-569d-a428-8b41585fa7bb
+status: valid

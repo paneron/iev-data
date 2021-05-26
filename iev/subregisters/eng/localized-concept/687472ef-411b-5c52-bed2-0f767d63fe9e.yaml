@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: electric current in a phase element
+  examples: []
+  id: 141-02-13
+  language_code: eng
+  notes:
+  - For star connection of a phase element which is connected to line conductors,
+    the phase currents are equal to the line currents.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: phase-element current
+    normative_status: preferred
+    type: expression
+  - designation: phase current
+    type: expression
+dateAccepted: 2004-08-01
+id: 687472ef-411b-5c52-bed2-0f767d63fe9e
+status: valid

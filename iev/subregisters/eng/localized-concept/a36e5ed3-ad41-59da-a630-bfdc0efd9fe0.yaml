@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.43
+      link: https://webstore.iec.ch/publication/5398
+      original: IEC 61375-2-1:2012, 3.1.43
+      ref: IEC 61375-2-1:2012
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: device within a bus
+  examples: []
+  id: 811-37-31
+  language_code: eng
+  notes:
+  - On the wire train bus, the device address has 8 bits, the least significant 6
+    bits being the node address.
+  - A device connected to several busses can have a different device address for each
+    bus.
+  - Special devices such as repeaters only participate at the physical layer and have
+    no device address.
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: device address
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: a36e5ed3-ad41-59da-a630-bfdc0efd9fe0
+status: valid

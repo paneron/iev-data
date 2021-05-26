@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: logarithme décimal de l'inverse du facteur de transmission, `τ` `Dτ`
+    = −log~10~`τ`
+  examples: []
+  id: 845-24-072
+  language_code: fra
+  notes:
+  - L'unité de densité optique par transmission est un.
+  - Cet article était numéroté 845-04-66 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: densité optique par transmission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité optique
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: densité optique par transmission
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+  - designation: facteur d'absorption décadique
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 909a6817-2a3a-5275-bbcf-58e1a60dd832
+status: valid

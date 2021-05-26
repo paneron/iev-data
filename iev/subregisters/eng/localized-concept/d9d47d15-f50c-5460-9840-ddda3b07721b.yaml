@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: computer program in an {{object language, IEV:171-05-20}} that has been
+    {{translated, IEV:171-05-24}} from a {{source language, IEV:171-05-18}}
+  examples: []
+  id: 171-05-21
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: object program
+    normative_status: preferred
+    type: expression
+  - designation: target program
+    normative_status: preferred
+    type: expression
+  - designation: object programme
+    normative_status: admitted
+    type: expression
+  - designation: target programme
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: d9d47d15-f50c-5460-9840-ddda3b07721b
+status: valid

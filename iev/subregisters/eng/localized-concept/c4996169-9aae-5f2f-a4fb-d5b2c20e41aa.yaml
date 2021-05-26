@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      link: https://webstore.iec.ch/publication/7248
+      original: IEC 62606:2013, 3.4
+      ref: IEC 62606:2013
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: part of the arc fault detection device ensuring the function of detection
+    and discrimination of dangerous earth, parallel and series arc faults and initiating
+    the operation of the device to cause interruption of the current
+  examples: []
+  id: 442-05-68
+  language_code: eng
+  notes:
+  - The interruption of the current can be provided by one of the following:- an opening
+    means;- a protective device integrating an arc fault detection unit;- a protective
+    device assembled with an arc fault detection unit.
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: arc fault detection unit
+    normative_status: preferred
+    type: expression
+  - designation: AFD unit
+    type: expression
+dateAccepted: 2019-05-01
+id: c4996169-9aae-5f2f-a4fb-d5b2c20e41aa
+status: valid

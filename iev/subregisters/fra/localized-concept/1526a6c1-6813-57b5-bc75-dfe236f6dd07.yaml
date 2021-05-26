@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur sans dimension égale à `- (V)/(p) (( ((del p))/((del V)) ))_S`,
+    où `V` est le volume, `p` la pression et `S` l'entropie, qui reste constante
+  examples: []
+  id: 113-04-52
+  language_code: fra
+  notes:
+  - Pour un gaz idéal, l’exposant isentropique est égal au rapport des capacités thermiques
+    massiques.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposant isentropique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 1526a6c1-6813-57b5-bc75-dfe236f6dd07
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: admittance entre un noeud de phase déterminé et la borne de référence
+    dans le biporte équivalent d'un élément d'un réseau déterminé
+  examples: []
+  id: 603-02-21
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: admittance en dérivation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: admittance transversale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 1f9192bb-0ce5-5240-ba0f-4ff742e27c22
+status: valid

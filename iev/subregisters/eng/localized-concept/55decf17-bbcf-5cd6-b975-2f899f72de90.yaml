@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - - clause: 705-01-07
+      original: from 705-01-07
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1998-08-01
+  definition: field, determined by a set of four interrelated vector quantities, that
+    characterizes, together with the electric current density and the volumic electric
+    charge, the electric and magnetic conditions of a material medium or of vacuum
+  examples: []
+  id: 121-11-61
+  language_code: eng
+  notes:
+  - 'The four interrelated vector quantities, which obey Maxwell equations, are by
+    convention:
+
+
+    – the electric field strength `*E*` ,
+
+
+    – the electric flux density `*D*` ,
+
+
+    – the magnetic field strength `*H*` ,
+
+
+    – the magnetic flux density `*B*` .'
+  - This definition of electromagnetic field is valid in so far as certain quantum
+    aspects of electromagnetic phenomena can be neglected.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electromagnetic field
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: 55decf17-bbcf-5cd6-b975-2f899f72de90
+status: valid

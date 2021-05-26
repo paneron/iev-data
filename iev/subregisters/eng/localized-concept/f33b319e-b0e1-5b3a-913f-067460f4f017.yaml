@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: '{{outage occurrence, IEV:692-05-01}} that results in the concurrent
+    outages of two or more system components image::/assets/images/parts/692/692-fig5-en.png[Figure
+    5 - Outage occurrence relationships]'
+  examples: []
+  id: 692-05-03
+  language_code: eng
+  notes: []
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiple-outage occurrence
+    normative_status: preferred
+    type: expression
+  - designation: multiple contingency
+    type: expression
+dateAccepted: 2017-12-01
+id: f33b319e-b0e1-5b3a-913f-067460f4f017
+status: valid

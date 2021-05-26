@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 3.7.3
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.7.3, modifié – “défaut” a été remplacé par "l'apparition
+        d'un court-circuit" pour compatibilité avec le VEI.
+      ref: IEC 60664-1:2007
+      relationship:
+        modification: “défaut” a été remplacé par "l'apparition d'un court-circuit"
+          pour compatibilité avec le VEI.
+        type: modified
+  classification: Preferred
+  definition: surtension transitoire apparaissant en un point d'un réseau et engendrée
+    par une manœuvre ou l'apparition d'un {{court-circuit, IEV:195-04-11}}
+  examples: []
+  id: 442-09-13
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: surtension de manœuvre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: surtension de type manœuvre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 68820584-7b9d-598a-bba0-3013bfe66c1f
+status: valid

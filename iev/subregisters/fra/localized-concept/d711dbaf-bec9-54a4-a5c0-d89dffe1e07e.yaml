@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 551-19-08
+      original: 551-19-08
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: comportement d'une alimentation qui convertit automatiquement le régime
+    de stabilisation en tension en régime de stabilisation en courant lorsque le courant
+    de sortie atteint une valeur préréglée et vice versa
+  examples: []
+  id: 314-05-09
+  language_code: fra
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transition tension constante à courant constant
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: d711dbaf-bec9-54a4-a5c0-d89dffe1e07e
+status: valid

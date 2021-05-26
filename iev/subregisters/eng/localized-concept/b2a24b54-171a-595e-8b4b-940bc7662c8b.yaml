@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: ratio of the RMS value of the alternating component of a {{pulsating,
+    IEV:103-06-07}} quantity to the RMS value of the quantity itself
+  examples: []
+  id: 103-06-11
+  language_code: eng
+  notes:
+  - For a pulsating quantity `x` with RMS value `X_((e f f))` and alternating component
+    `x_( ∼ )`, the pulsating factor is `s = X_( ∼ ) ()_((eff)) // X_((eff))`.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulsating factor
+    normative_status: preferred
+    type: expression
+  - designation: '`s`'
+    international: true
+    type: symbol
+dateAccepted: 2017-07-01
+id: b2a24b54-171a-595e-8b4b-940bc7662c8b
+status: valid

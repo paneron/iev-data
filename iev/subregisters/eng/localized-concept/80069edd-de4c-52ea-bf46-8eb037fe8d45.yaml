@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 13-29
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-29, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  dateAmended: 2019-03-01
+  definition: ratio of the {{redundancy, IEV:171-07-18}} `R` to the {{decision content,
+    IEV:171-07-10}} `H`~0~ `r` = `R`/`H`~0~
+  examples: []
+  id: 171-07-19
+  language_code: eng
+  notes:
+  - 'The relative redundancy is also equal to the complement to one of the {{relative
+    entropy, IEV:171-07-17}}: `r` &amp;equals; 1 −  `H`~r~.'
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative redundancy
+    normative_status: preferred
+    type: expression
+  - designation: '`r`'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: 80069edd-de4c-52ea-bf46-8eb037fe8d45
+status: valid

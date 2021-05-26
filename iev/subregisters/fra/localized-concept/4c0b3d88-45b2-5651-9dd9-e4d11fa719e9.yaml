@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'équation vectorielle dont les composants sont les dérivées premières
+    par rapport au temps des variables d''état en fonction des mêmes variables d''état,
+    des variables d''entrée, des paramètres du système et du temps VOIR: {{351-41-08,
+    IEV:351-41-08}} et la Figure 3.'
+  examples: []
+  id: 351-42-01
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-21-13 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig3.png[Figure 3 - Linear transfer system
+    with state variables; Système de transfert linéaire avec variables d''état]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: équation d'état
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 4c0b3d88-45b2-5651-9dd9-e4d11fa719e9
+status: valid

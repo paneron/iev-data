@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: largest peak-to-peak time interval error (TIE) in any observation time
+    interval `τ` (in seconds)
+  examples: []
+  id: 561-03-17
+  language_code: eng
+  notes:
+  - This note applies to the French language only.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum time interval error
+    normative_status: preferred
+    type: expression
+  - designation: MTIE
+    type: expression
+dateAccepted: 2014-11-01
+id: 2dce4c2f-0e82-5c37-932d-4fcade3cbad5
+status: valid

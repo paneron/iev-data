@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - - clause: definition 24
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 24, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: activity per unit volume of the sample
+  examples: []
+  id: 395-01-09
+  language_code: eng
+  notes:
+  - This quantity is expressed in becquerels per cubic metre (Bq/m^3^).
+  - For a gas it is necessary to indicate the temperature and pressure conditions
+    for which the volumetric activity expressed in becquerels per cubic metre is measured.
+    For example, under standard temperature and pressure (STP).
+  - This entry was numbered 393-14-16 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: volumetric activity
+    normative_status: preferred
+    type: expression
+  - designation: concentration
+    type: expression
+  - designation: activity concentration
+    type: expression
+  - designation: '`cA`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 7e7a4b74-13f6-57bd-9f09-ee73d7a1e6c5
+status: valid

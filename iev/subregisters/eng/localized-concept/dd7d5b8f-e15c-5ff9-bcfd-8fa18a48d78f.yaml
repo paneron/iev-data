@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-10-01
+  definition: real part of the {{complex relative permittivity, IEV:121-12-14}}
+  examples: []
+  id: 121-12-15
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: real relative permittivity
+    normative_status: preferred
+    type: expression
+  - designation: relative dielectric constant
+    normative_status: deprecated
+    type: expression
+  - designation: '`ε''`~r~'
+    international: true
+    type: symbol
+dateAccepted: 2019-10-01
+id: dd7d5b8f-e15c-5ff9-bcfd-8fa18a48d78f
+status: valid

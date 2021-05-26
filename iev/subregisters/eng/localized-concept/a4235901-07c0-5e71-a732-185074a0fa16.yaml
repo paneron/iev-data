@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: '{{group delay, IEV:702-02-20}} of the significant {{spectral components,
+    IEV:702-04-41}} of a {{signal, IEV:101-12-02}} assuming that this delay is substantially
+    the same for all these significant components'
+  examples: []
+  id: 702-02-21
+  language_code: eng
+  notes:
+  - The concept of envelope delay is meaningful only if the {{amplitude, IEV:702-04-54}}
+    of the signal is relatively undistorted by the transmission medium.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: envelope delay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: a4235901-07c0-5e71-a732-185074a0fa16
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: the time distortion of a received signal at the output of a transmission
+    channel when the signal at the input is a perfect discrete signal
+  examples: []
+  id: 721-07-11
+  language_code: eng
+  notes:
+  - The inherent distortion includes all the distortions produced in the channel such
+    as bias distortion, characteristic distortion and fortuitous distortion.
+  - The concept of inherent distortion can be extended to the constituents such as
+    a telegraph relay, telegraph repeater or exchange.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inherent distortion
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: f53b0a60-514e-50ee-9234-05bf61e03a5c
+status: valid

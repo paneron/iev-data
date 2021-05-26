@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: processus par lequel un {{émetteur radioélectrique, IEV:713-08-01}}
+    produit de l'{{énergie, IEV:113-03-45}} radioélectrique pour assurer une {{radiocommunication,
+    IEV:701-01-31}}
+  examples: []
+  id: 702-02-05
+  language_code: fra
+  notes:
+  - En radiocommunication, il convient de ne pas employer le terme "émission" dans
+    le sens plus général d"'{{émission, IEV:702-02-03}} radioélectrique". Par exemple,
+    la partie de l'{{énergie électromagnétique, IEV:121-11-64}} produite par un {{oscillateur
+    local, IEV:713-10-06}} qui est transférée vers l'espace extérieur ne constitue
+    pas une émission mais un {{rayonnement, IEV:702-02-06}}.
+  - Le terme "émission" désigne également la production d'ondes et de signaux (voir
+    {{IEV 161-01-09, IEV:161-01-09}}) en radiocommunication, les signaux ou ondes
+    radioélectriques produits par un émetteur de radiodiffusion (voir {{IEV 723-01-03,
+    IEV:723-01-03}}), un rejet dans l'environnement (voir {{IEV 904-01-11, IEV:904-01-11}}),
+    et est employé en tant que synonyme du terme "{{programme, IEV:723-01-02}}" en
+    radiodiffusion et en télédistribution.
+  - Le terme français "{{émission, IEV:702-02-04}}" s'applique également au concept
+    représenté par le terme anglais "{{sending, IEV:702-02-04}}".
+  reviewDecisionEvent: published
+  terms:
+  - designation: émission
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: processus en radiocommunication
+dateAccepted: 2018-11-17
+id: 97191043-4b68-53e2-8622-110ecab916e7
+status: valid

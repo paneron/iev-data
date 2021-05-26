@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2016-07-01
+  definition: strength of coupling between coupled resonators which is defined as
+    the ratio of coupled energy to stored energy and can be obtained from two split
+    resonance frequencies by `k` = (`f`~h~^2^ – `f`~l~^2^) / (`f`~h~^2^ + `f`~l~^2^)
+    where `f`~h~ is the higher resonance frequency and `f`~l~ is the lower resonance
+    frequency
+  examples: []
+  id: 561-02-06
+  language_code: eng
+  notes:
+  - The coupling is mainly made either magnetically or electrically which is called
+    magnetic or electric coupling, respectively.
+  reviewDate: 2016-07-01
+  reviewDecisionDate: 2016-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coupling factor for dielectric filters
+    normative_status: preferred
+    type: expression
+  - designation: coupling coefficient for dielectric filters
+    normative_status: deprecated
+    type: expression
+  - designation: '`k`'
+    international: true
+    type: symbol
+dateAccepted: 2016-07-01
+id: d3ce5cf2-78d6-5cd1-8c8e-ab74285ccf97
+status: valid

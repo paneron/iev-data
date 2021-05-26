@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{polarisation, IEV:705-01-13}} d''une onde {{polarisée rectilignement,
+    IEV:726-04-08}} dont le vecteur champ électrique en un point fixe de l''espace
+    est orthogonal au même vecteur d''une onde polarisée rectilignement de référence
+    ayant la même direction ou une {{direction de propagation, IEV:103-10-05}} différente'
+  examples: []
+  id: 726-04-15
+  language_code: fra
+  notes:
+  - En anglais, le terme "cross polarization" a un autre sens (voir {{IEV 705-08-52,
+    IEV:705-08-52}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarisation orthogonale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une onde polarisée rectilignement
+  - designation: polarisation croisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une onde polarisée rectilignement
+dateAccepted: 2018-11-17
+id: b2d9451b-20f0-5e49-9439-9fd8d254f181
+status: valid

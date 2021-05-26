@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-11-01
+  definition: strain in percent arising from pure bending defined as `ε`~b~ = 100`r`/`R`,
+    where `r` is a half of the specimen thickness and `R` is the bending radius
+  examples: []
+  id: 815-17-03
+  language_code: eng
+  notes: []
+  reviewDate: 2015-11-01
+  reviewDecisionDate: 2015-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bending strain
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`~b~'
+    international: true
+    type: symbol
+dateAccepted: 2015-11-01
+id: b5f2ac8f-39ea-5bec-b04f-e5fc55c2ddb5
+status: valid

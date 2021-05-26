@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: 'the relative permeability obtained from the total change in magnetic
+    flux density and the corresponding change in the magnetic field strength when
+    either quantity is alternating with an arbitrary waveform between stated limits:
+    `mu_p = (1)/((mu_0)) ((Delta B))/((Delta H))`'
+  examples: []
+  id: 221-03-11
+  language_code: eng
+  notes:
+  - The value of the pulse permeability depends strongly on the limits of the flux
+    density or field strength excursions; these limits need not be symmetrical with
+    respect to zero.
+  - Often pulse permeability refers to the special case of rectangular voltage pulses
+    being applied to an exciting winding, the flux density waveform is then approximately
+    triangular provided saturation is not approached.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`~p~'
+    international: true
+    type: symbol
+dateAccepted: 1990-10-01
+id: d3ac9dca-8735-5137-823a-fbe1b308cd6f
+status: valid

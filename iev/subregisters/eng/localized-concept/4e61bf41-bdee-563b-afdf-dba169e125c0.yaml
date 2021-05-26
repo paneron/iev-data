@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 195-02-29
+      original: 195-02-29
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2004-08-01
+  definition: conductor usually laid along the cable route to provide a low impedance
+    connection between the earthing arrangements at the ends of the cable route
+  examples: []
+  id: 826-13-13
+  language_code: eng
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallel-earthing-conductor
+    normative_status: preferred
+    type: expression
+  - designation: parallel-grounding-conductor
+    type: expression
+  - designation: parallel earth continuity conductor
+    type: expression
+dateAccepted: 2004-08-01
+id: 4e61bf41-bdee-563b-afdf-dba169e125c0
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: a unit used to express the ratio of two field quantities by the natural
+    logarithm of this ratio
+  examples: []
+  id: 702-07-03
+  language_code: eng
+  notes:
+  - The value of a power ratio in nepers is one half the natural logarithm of this
+    power ratio. The values in nepers of the ratio of two field quantities and of
+    the two corresponding powers are equal only if the impedances are equal.
+  - Sub-multiples such as the decineper are also used with the symbol dNp.
+  - One neper equals 8.686 dB.
+  - In some disciplines the neper may be used to express the logarithm of a power
+    ratio without the factor 1/2. An example is attenuation also called optical depth
+    in radiometry. Such usage is deprecated in telecommunications, in order to avoid
+    ambiguity;   in this case one neper would be equal to 4.343 dB.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: neper
+    normative_status: preferred
+    type: expression
+  - designation: 'symb.: Np'
+    international: true
+    type: symbol
+dateAccepted: 1992-03-01
+id: 3c3df474-c2d1-5170-a6c6-fd618e2acec0
+status: valid

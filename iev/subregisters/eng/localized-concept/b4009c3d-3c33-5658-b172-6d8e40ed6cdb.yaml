@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '4.1'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 4.1, modified – The domain <responsible for
+        standards and regulations> has been replaced by <entity> and has been transferred
+        to the term attribute "specific use". The examples have been transferred to
+        an Example.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: The domain <responsible for standards and regulations> has been
+          replaced by <entity> and has been transferred to the term attribute "specific
+          use". The examples have been transferred to an Example.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: legal or administrative entity that has specific tasks and composition
+  examples:
+  - Examples of bodies are {{organizations, IEV:901-03-02}}, {{authorities, IEV:901-03-10}},
+    companies and foundations.
+  id: 901-03-01
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: body
+    normative_status: preferred
+    type: expression
+    usage_info: entity
+dateAccepted: 2013-11-01
+id: b4009c3d-3c33-5658-b172-6d8e40ed6cdb
+status: valid

@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble de fonctions dont chacune est orthogonale à toute autre
+  examples: []
+  id: 103-01-11
+  language_code: fra
+  notes:
+  - 'Exemples:
+
+
+
+
+    * Les polynômes de Legendre P constituent un système de fonctions orthogonales
+    sur l''intervalle `- 1 , + 1` parce que `int_( - 1)^( + 1) P_k ( x ) P_l ( x )
+    d x = 0` pour tous entiers `k != l`.
+
+
+    * Les polynômes de Laguerre L constituent un système de fonctions orthogonales
+    sur l''intervalle `0 , + oo` avec le poids `e x p ( - x )` parce que `int_( 0)^(
+    + oo) L_k ( x ) L_l ( x ) exp ( - x ) d x = 0` pour tous entiers `k != l`.
+
+
+    * Les fonctions trigonométriques sinus et cosinus constituent un système de fonctions
+    orthogonales sur l''intervalle `0 , 2 pi` parce que `int_( 0)^( 2 pi) sin ( k
+    x ) sin ( l x ) d x = 0` et `int_( 0)^( 2 pi) cos ( k x ) cos ( l x ) d x = 0`
+    pour tous entiers `k != l`, et `int_( 0)^( 2 pi) sin ( k x ) cos ( l x ) d x =
+    0` pour tous entiers `k` et `l`.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: système de fonctions orthogonales
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 95013de1-b87b-5d1d-9e9c-84cb9bce063d
+status: valid

@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: set of real numbers such that, for any pair (`x`, `y`) of elements of
+    the set, any real number `z` between `x` and `y` belongs to the set
+  examples: []
+  id: 103-01-12
+  language_code: eng
+  notes:
+  - 'There are several kinds of intervals:
+
+
+
+
+    * closed interval from `a` to `b`: `a , b = { x in R | a &lt;= x &lt;= b }`
+
+
+    * open interval from `a` to `b`: `a , b = { x in R | a x b }`
+
+
+    * half-open intervals: `a , b = { x in R | a x &lt;= b }` and `a , b = { x in
+    R | a &lt;= x b }`
+
+
+    * closed unbounded interval up to `b` or onward from `a`: `- oo , b = { x in R
+    | x &lt;= b }` and `a , + oo = { x in R | a &lt;= x }`
+
+
+    * open unbounded interval up to `b` or onward from `a`: `- oo , b = { x in R |
+    x b }` and `a , + oo = { x in R | a x }`'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: interval
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 508151b2-cfa9-5611-9150-c2dbe9f9a229
+status: valid

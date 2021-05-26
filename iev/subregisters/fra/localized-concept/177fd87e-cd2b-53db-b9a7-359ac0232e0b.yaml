@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'matrice hermitienne *`A`* telle que, pour toute matrice-colonne non
+    nulle *`U`* à éléments complexes, la matrice *`U`*^H^*`AU`* de format 1 × 1 a
+    un unique élément qui est réel et positif: (*`U`*^H^*`AU`*)~11~ > 0'
+  examples: []
+  id: 102-06-29
+  language_code: fra
+  notes:
+  - Une matrice symétrique à éléments réels *`A`* est une matrice définie positive
+    si *`U`*^T^*`AU`* &gt; 0 pour toute matrice colonne non nulle *`U`* à éléments
+    réels.
+  - Les valeurs propres d'une matrice définie positive sont toutes positives.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice définie positive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 177fd87e-cd2b-53db-b9a7-359ac0232e0b
+status: valid

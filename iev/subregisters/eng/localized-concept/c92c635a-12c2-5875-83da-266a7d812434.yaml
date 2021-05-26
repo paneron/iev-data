@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: connection of cells in a {{cathode, IEV:485-02-05}} to an {{anode, IEV:485-02-04}}
+    pattern such that individual cell voltages are additive
+  examples: []
+  id: 485-06-09
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: series connection
+    normative_status: preferred
+    type: expression
+    usage_info: in stacks
+dateAccepted: 2020-02-01
+id: c92c635a-12c2-5875-83da-266a7d812434
+status: valid

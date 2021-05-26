@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: valeur la plus élevée de la {{grandeur d'alimentation, IEV:447-03-01}}
+    (valeur efficace en courant alternatif) qu'un {{relais de mesure, IEV:447-01-02}}
+    ou un {{équipement de protection, IEV:447-01-49}} peut supporter pendant une durée
+    courte dans des conditions spécifiées, sans que ses caractéristiques spécifiées
+    ne soient dégradées de façon permanente en raison d'un échauffement excessif
+  examples: []
+  id: 447-03-14
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur de tenue thermique de courte durée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b4a2320-16bf-5b35-b500-87d3444f1a41
+status: valid

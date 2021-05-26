@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: square matrix *`A`* for which the inverse *`A`*^−1^ is equal to the
+    transpose matrix *`A`*^T^
+  examples: []
+  id: 102-06-26
+  language_code: eng
+  notes:
+  - 'For an orthogonal matrix with elements `Aij`:
+
+
+    `underset(i)( sum ) A_((i j)) A_((i k)) = delta_((j k))` and `underset(k)( sum
+    ) A_((i k)) A_((j k)) = delta_((i j))`
+
+
+    where δ~`jk`~ and δ~`ij`~ are Kronecker deltas.'
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: orthogonal matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: cd29bb18-c55f-56f3-80af-e382bbe6a2f6
+status: valid

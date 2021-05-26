@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.20
+      link: https://webstore.iec.ch/publication/6681
+      original: IEC 62267:2009, 3.1.20, modified
+      ref: IEC 62267:2009
+      relationship:
+        type: modified
+  dateAmended: 2017-11-01
+  definition: train operated without any operations staff on board (all functions
+    are the responsibility of the technical system)
+  examples: []
+  id: 821-09-14
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unattended train operation
+    normative_status: preferred
+    type: expression
+  - designation: GOA4
+    type: expression
+  - designation: UTO
+    type: expression
+dateAccepted: 2017-11-01
+id: 08f1ca70-f8bb-50a6-ab33-913eea3200ed
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{functional unit, IEV:171-01-22}} that interprets and executes {{instructions,
+    IEV:171-05-08}}'
+  examples: []
+  id: 171-04-01
+  language_code: eng
+  notes:
+  - A computer contains at least one processor. A processor consists of at least an
+    {{instruction control unit, IEV:171-04-02}} and an {{arithmetic and logic unit,
+    IEV:171-04-03}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: processor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: fd9bfd5d-0bd3-5b53-8462-270b7972f038
+status: valid

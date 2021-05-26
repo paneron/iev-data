@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: definition 60
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 60, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: quotient of `E` by `bar N`, where `bar N` is the mean number of ion
+    pairs formed when the initial kinetic energy `E` of a charged particle is completely
+    dissipated `W_i = E // bar N`
+  examples: []
+  id: 395-01-31
+  language_code: eng
+  notes:
+  - This quantity is expressed in joules (J) or electronvolts (eV).
+  - This entry was numbered 393-14-54 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean energy expended per ion pair formed
+    normative_status: preferred
+    type: expression
+  - designation: '`W`~i~'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: b70197bb-9772-55d8-a107-71c6d92f7b3a
+status: valid

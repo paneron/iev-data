@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: élément binaire ajouté à un ensemble d'éléments binaires pour que la
+    somme modulo 2 de tous les éléments soit toujours égale soit à zéro, soit à un
+  examples: []
+  id: 723-10-99
+  language_code: fra
+  notes:
+  - Le bit de parité sert généralement à la détection d'erreurs.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bit de parité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: f2aae1f0-e335-57f2-a82e-1ac3d2ee37d3
+status: valid

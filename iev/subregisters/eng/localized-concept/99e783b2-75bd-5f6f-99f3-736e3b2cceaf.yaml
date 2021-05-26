@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: '{{quantity, IEV:112-01-01}} represented by a single {{scalar, IEV:102-02-18}}
+    which depends on the choice of a unit of measurement or on a reference to a measurement
+    procedure'
+  examples: []
+  id: 102-02-19
+  language_code: eng
+  notes:
+  - 'In the usual three-dimensional space, a scalar quantity is independent of {{direction,
+    IEV:102-03-12}} and of the choice of the coordinate frame. Examples are: mass,
+    electric charge, thermodynamic temperature, Rockwell C hardness, Engler viscosity
+    for transformer oil.'
+  - The concept of absolute value applies to real scalar quantities, the concepts
+    of real part, imaginary part, modulus and argument apply to complex scalar quantities,
+    and the concept of square root applies to both.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: scalar quantity
+    normative_status: preferred
+    type: expression
+  - designation: scalar
+    normative_status: preferred
+    type: expression
+    usage_info: quantity
+dateAccepted: 2017-07-01
+id: 99e783b2-75bd-5f6f-99f3-736e3b2cceaf
+status: valid

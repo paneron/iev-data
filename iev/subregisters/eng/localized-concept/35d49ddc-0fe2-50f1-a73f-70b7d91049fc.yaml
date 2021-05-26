@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.1
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.2.1
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  dateAmended: 2020-04-01
+  definition: infrastructure of interconnected {{entities, IEV:741-01-18}}, people,
+    {{systems, IEV:151-11-27}} and information resources together with {{services,
+    IEV:741-01-28}} which processes and reacts to <a href="IEV741-01-500">information</a>
+    from the physical world and virtual world
+  examples: []
+  id: 741-02-01
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Internet of Things
+    normative_status: preferred
+    type: expression
+  - designation: IoT
+    type: expression
+dateAccepted: 2020-04-01
+id: 35d49ddc-0fe2-50f1-a73f-70b7d91049fc
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{direct fuel cell, IEV:485-08-04}} in which the fuel is methanol (CH~3~OH),
+    in gaseous or liquid form'
+  examples: []
+  id: 485-08-05
+  language_code: eng
+  notes:
+  - The methanol is oxidized directly at the {{anode, IEV:485-02-04}} with no reformation
+    to hydrogen. The {{electrolyte, IEV:485-03-01}} is typically a proton exchange
+    membrane.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: direct methanol fuel cell
+    normative_status: preferred
+    type: expression
+  - designation: DMFC
+    type: expression
+dateAccepted: 2020-02-01
+id: 2c056317-4821-58c6-985a-8c410c11d9cc
+status: valid

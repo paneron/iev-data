@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: the ratio, generally expressed in decibels, of the active power delivered
+    to a specified load after insertion of a given two-port device between the source
+    and the load, to the available power of the source
+  examples: []
+  id: 702-07-17
+  language_code: eng
+  notes:
+  - If the ratio defining the transducer gain is less than one, its decibel value
+    is negative, and its converse or its opposite value in decibels called transducer
+    loss can be used.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: transducer gain
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: ec7cb843-b32c-5a3d-8c26-308972a2e98a
+status: valid

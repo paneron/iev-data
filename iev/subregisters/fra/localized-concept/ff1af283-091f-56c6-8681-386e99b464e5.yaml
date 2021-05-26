@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{liste, IEV:171-02-32}} construite et gérée de telle façon que le
+    prochain élément à extraire soit celui qui a été inséré en premier'
+  examples: []
+  id: 171-02-33
+  language_code: fra
+  notes:
+  - Cette organisation est caractérisée par la formule "premier entré, premier sorti"
+    (FIFO).
+  reviewDecisionEvent: published
+  terms:
+  - designation: file d'attente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ff1af283-091f-56c6-8681-386e99b464e5
+status: valid

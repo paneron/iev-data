@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: '4.2'
+      original: VIM 4.2
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: device intended to reproduce or supply, in a permanent manner during
+    its use, one or more known values of a given quantity
+  examples: []
+  id: 311-03-03
+  language_code: eng
+  notes:
+  - 'Example: standard electric resistor.'
+  - The quantity concerned may be called the supplied quantity.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: material measure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 20cc6ba6-5a7d-5d75-b2e1-54248813f1fb
+status: valid

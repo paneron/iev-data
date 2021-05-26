@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: a form of entropy coding in which short code words are assigned to signal
+    values with a high probability of occurrence and long code words are assigned
+    to signal values with a low probability of occurrence
+  examples: []
+  id: 723-10-58
+  language_code: eng
+  notes: []
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: variable-length coding
+    normative_status: preferred
+    type: expression
+  - designation: VLC
+    type: expression
+dateAccepted: 1997-03-01
+id: 4f13a0ee-b10f-5aef-a2b3-bef4b702c7e5
+status: valid

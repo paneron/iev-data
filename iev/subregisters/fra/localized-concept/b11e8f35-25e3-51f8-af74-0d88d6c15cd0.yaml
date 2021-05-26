@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: qualifie une immittance d'entrée, de sortie ou de transfert lorsque
+    les autres accès ont des admittances de fermeture nulles, ou un rapport de transfert
+    direct ou inverse lorsque l'accès correspondant au numérateur a une admittance
+    de fermeture nulle
+  examples: []
+  id: 131-14-23
+  language_code: fra
+  notes:
+  - Des exemples dans la CEI 60027-2 sont l’impédance de sortie en circuit ouvert,
+    l’admittance de sortie en circuit ouvert et le rapport de transfert inverse de
+    la tension en circuit ouvert.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: en circuit ouvert
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: b11e8f35-25e3-51f8-af74-0d88d6c15cd0
+status: valid

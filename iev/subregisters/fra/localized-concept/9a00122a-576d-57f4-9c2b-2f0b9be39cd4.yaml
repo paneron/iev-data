@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: photodiode fonctionnant avec une tension de polarisation, de telle sorte
+    que le courant photoélectrique primaire subit une amplification par formation
+    cumulative de porteurs de charge
+  examples: []
+  id: 731-06-30
+  language_code: fra
+  notes:
+  - Lorsque la tension de polarisation inverse est voisine de la tension de claquage,
+    les paires électrons-trous créées par les photons absorbés acquièrent une énergie
+    suffisante pour en créer d'autres par collision avec des ions.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: photodiode à avalanche
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: PDA
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 9a00122a-576d-57f4-9c2b-2f0b9be39cd4
+status: valid

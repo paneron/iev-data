@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: théorème de théorie des circuits en régime sinusoïdal, exprimant que
+    la tension aux bornes d'un bipôle passif linéaire connecté à deux bornes quelconques
+    d'un réseau linéaire est égale au quotient du courant de court-circuit avant la
+    connexion par la somme de l'admittance du bipôle et de l'admittance du réseau
+    vue des deux bornes avant la connexion
+  examples: []
+  id: 131-15-14
+  language_code: fra
+  notes:
+  - On peut étendre le théorème de Norton à un régime non sinusoïdal.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: théorème de Norton
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 48058d09-7b34-5400-9afd-a7a8dfd44e5a
+status: valid

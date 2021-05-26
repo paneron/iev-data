@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the highest value of the hourly [half-hourly] [quarter-hourly] [`n`-minute]
+    demand, recorded within a year [quarter] [month] [week] [day]
+  examples: []
+  id: 691-02-11
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: annual [quarterly] [monthly] [weekly] [daily] maximum demand
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: fcffa4a1-65a9-506d-ad13-d66d80a2a253
+status: valid

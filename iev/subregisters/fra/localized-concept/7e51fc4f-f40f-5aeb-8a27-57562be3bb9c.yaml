@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'valeur moyenne du nombre relatif international de taches solaires pour
+    le mois de rang n, obtenue par la formule suivante: `R_((12)) = (1)/((12)) [ ((R_((n
+    - 6)) + R_((n + 6))))/(2) + underset(k)( sum ) R_k ]` pour `k` = `n` − 5, `n`
+    − 4, ..., `n`, ..., `n` + 5 où `R`~`k`~ est le nombre relatif international de
+    taches solaires moyen pour le mois de rang `k`'
+  examples: []
+  id: 705-07-87
+  language_code: fra
+  notes: []
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: moyenne glissante sur douze mois du nombre de taches solaires
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 7e51fc4f-f40f-5aeb-8a27-57562be3bb9c
+status: valid

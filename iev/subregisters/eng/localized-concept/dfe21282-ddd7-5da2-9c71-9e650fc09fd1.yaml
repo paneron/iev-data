@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: duration between the instant when the measurand (or quantity supplied)
+    is subjected to a specified abrupt change and the instant when the indication
+    (or quantity supplied) reaches, and remains within specified limits of, its final
+    steady-state value
+  examples: []
+  id: 311-06-04
+  language_code: eng
+  notes:
+  - This definition is the one conventionally used for measuring instruments. Other
+    definitions exist.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: step response time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: dfe21282-ddd7-5da2-9c71-9e650fc09fd1
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2019-10-01
+  definition: See <a href="IEV701-03-171">IEV 701-03-171</a> for the adjective and
+    <a href="IEV701-03-172">IEV 701-03-172</a> for the noun
+  examples: []
+  id: 721-04-16
+  language_code: eng
+  notes: []
+  reviewDate: 2019-10-01
+  reviewDecisionDate: 2019-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: duplex
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: full duplex
+    normative_status: deprecated
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2019-10-01
+id: 8c633344-9708-5163-92b5-fd3dd22c0d9c
+status: valid

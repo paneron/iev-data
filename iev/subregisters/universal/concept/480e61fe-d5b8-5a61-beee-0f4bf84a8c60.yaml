@@ -1,0 +1,25 @@
+data:
+  identifier: 112-01-01
+  localizedConcepts:
+    ara: 9f763dc4-2d20-552a-951f-171291f765ca
+    deu: 719a66ab-0c4a-5913-a54b-ca4c98a2608e
+    eng: f41d4e5a-351c-5765-8446-17325c670469
+    fra: 3cff839c-d734-5ad9-a0d0-899b3ebfba1a
+    ita: 0fd90b43-84fd-5214-90f2-6713efe09a0c
+    jpn: d29531c1-af23-5b86-8356-7ae19fc32479
+    kor: 9128c8b6-3286-5515-a041-bfb9027b1547
+    pol: af39a102-9f56-5f80-88e6-ac029d20b3f8
+    por: 80c64126-31c5-5950-865b-4e75677b2952
+    spa: bfc02b3a-759e-5e92-a0a2-0f13f27de2d9
+    srp: 8203ce36-27f2-550b-ae06-a3b8fb576339
+    swe: 51d8fa2d-6244-5a7d-bfd6-e70191c79eb4
+    zho: ed36a7ec-1ad0-57a6-87a2-9f975320c995
+dateAccepted: 2018-11-17
+id: 480e61fe-d5b8-5a61-beee-0f4bf84a8c60
+related:
+- ref:
+    id: 112-01-01
+    source: IEV
+    version: 2010-01
+  type: supersedes
+status: valid

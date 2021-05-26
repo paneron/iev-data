@@ -1,0 +1,50 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-01
+      original: 705-03-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: constante scalaire `ε`~0~ reliant les grandeurs électriques et les grandeurs
+    mécaniques, obtenue d'après la relation `F = (1)/((4 pi epsilon_0)) * ((| Q_1
+    Q_2 |))/((r^2))` fondée sur la loi de Coulomb dans le vide, où `F` est la norme
+    de la force s'exerçant entre deux particules de charges électriques `Q`~1~ et
+    `Q`~2~ respectivement, placées à une distance `r` l'une de l'autre
+  examples: []
+  id: 121-11-03
+  language_code: fra
+  notes:
+  - 'Dans le vide, le produit de la constante électrique par le champ électrique *`E`*  est
+    égal à l''induction électrique *`D`*:
+
+
+    *`D`* = `ε`~0~*`E`*'
+  - 'La constante électrique est liée à la constante magnétique `μ`~0~  et à la vitesse
+    de la lumière dans le vide `c`~0~  par la relation
+
+
+    `ε`~0~`μ`~0~`c`~0~^2^ = 1'
+  - 'La valeur de la constante électrique est exactement égale à
+
+
+    `((10^7))/((4 pi xx 299 792 458^2)) m^(- 3) kg^(- 1) s^4 A^2 = 8 , 854 187 817
+    ... pF // m`'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante électrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: permittivité du vide
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: f09c1993-f4f1-563b-a962-f09fa2349ff1
+status: valid

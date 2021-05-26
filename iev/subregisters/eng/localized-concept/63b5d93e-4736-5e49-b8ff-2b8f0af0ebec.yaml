@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: dynamic braking for induction machines in which a separate DC supply
+    provides magnetizing current thereby enabling the machine to act as a generator
+    when disconnected from the system
+  examples: []
+  id: 411-52-49
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: DC injection braking
+    normative_status: preferred
+    type: expression
+  - designation: DC braking
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 63b5d93e-4736-5e49-b8ff-2b8f0af0ebec
+status: valid

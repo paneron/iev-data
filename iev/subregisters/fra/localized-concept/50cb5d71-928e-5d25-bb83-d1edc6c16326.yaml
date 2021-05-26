@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.42
+      link: https://webstore.iec.ch/publication/6777
+      original: IEC 62290-1:2014, 3.1.42
+      ref: IEC 62290-1:2014
+      relationship:
+        type: identical
+  definition: zone dans laquelle aucun train n'est autorisé à circuler en réponse
+    à différents incidents excepté les situations dangereuses identifiées pour lesquelles
+    les trains peuvent quitter la zone
+  examples: []
+  id: 821-01-79
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: zone de protection
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 50cb5d71-928e-5d25-bb83-d1edc6c16326
+status: valid

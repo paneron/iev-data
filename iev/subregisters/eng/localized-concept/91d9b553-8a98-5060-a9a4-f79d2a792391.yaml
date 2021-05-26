@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: product of the damping coefficient `δ` of a damped oscillation `A_0
+    e^(- delta t) f ( t )` and the period `T` of the function `f ( t )`, thus `Lambda
+    = delta T`
+  examples: []
+  id: 103-05-25
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: logarithmic decrement
+    normative_status: preferred
+    type: expression
+  - designation: '`Λ`'
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: 91d9b553-8a98-5060-a9a4-f79d2a792391
+status: valid

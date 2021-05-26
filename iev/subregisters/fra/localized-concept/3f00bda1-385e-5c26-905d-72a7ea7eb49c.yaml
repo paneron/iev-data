@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: qualifie un {{nom de grandeur, IEV:112-01-02}} pour désigner le quotient
+    de la grandeur par une masse
+  examples: []
+  id: 112-03-10
+  language_code: fra
+  notes:
+  - 'Le symbole de la grandeur massique associée à une grandeur donnée est souvent
+    la lettre minuscule correspondant au symbole de la grandeur donnée. Exemples:
+    volume `V`, volume massique `v`; capacité thermique `C`, capacité thermique massique
+    `c`; activité `A`, activité massique `a`.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: massique
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: 3f00bda1-385e-5c26-905d-72a7ea7eb49c
+status: valid

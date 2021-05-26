@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a command in which the output signal to operational equipment is maintained
+    until the change of state is executed or until the end of a predetermined delay
+    longer than the response of the slowest operational equipment; the duration of
+    the output signal is independent of the duration of the initiating signal
+  examples: []
+  id: 371-03-05
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maintained command
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 54b6b6dc-d0ed-57a7-a27c-3848b6e42e8f
+status: valid

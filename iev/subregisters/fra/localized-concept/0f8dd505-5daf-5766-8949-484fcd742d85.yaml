@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: axe vertical du centre photométrique d'un luminaire en position d'inclinaison
+    lors d'un mesurage
+  examples: []
+  id: 845-25-098
+  language_code: fra
+  notes:
+  - Les pôles du système de coordonnées (C, γ) se situent sur cet axe.
+  - Le premier axe est incliné en cas de modification de la position du luminaire
+    par rapport à sa position lors d'un mesurage.
+  - Voir CIE 121, _The Photometry and Goniophotometry of Luminaires_ pour de plus
+    amples informations concernant le premier axe d'un luminaire.
+  reviewDecisionEvent: published
+  terms:
+  - designation: premier axe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un luminaire avec mesurage dans le système de coordonnées (C, γ)
+dateAccepted: 2018-11-17
+id: 0f8dd505-5daf-5766-8949-484fcd742d85
+status: valid

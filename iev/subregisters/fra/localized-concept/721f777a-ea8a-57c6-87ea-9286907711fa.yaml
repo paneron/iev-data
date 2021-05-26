@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: cessation de l'aptitude d'une entité à accomplir une fonction exigée
+  examples: []
+  id: 845-27-105
+  language_code: fra
+  notes:
+  - Après une défaillance, l'entité est en état de panne.
+  - Une défaillance est un passage d'un état à un autre, par opposition à une panne,
+    qui est un état.
+  - Ce concept tel qu'il est défini, ne s'applique pas à des entités constituées seulement
+    de logiciels.
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 721f777a-ea8a-57c6-87ea-9286907711fa
+status: valid

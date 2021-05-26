@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: ensemble de branches constituant une boucle et ne contenant qu'un seul
+    maillon d'un co-arbre donné
+  examples: []
+  id: 131-13-16
+  language_code: fra
+  notes:
+  - "Pour le réseau de la figure 131-13-13, les mailles sont respectivement :\r\n\
+    A et C : 12651, 23762, 34873\r\nB : 26512, 3765123, 487651234\r\nD : 12651, 3487623,\
+    \ 37623"
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maille
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: ee165a88-8211-5acc-ac90-5e38462203c7
+status: valid

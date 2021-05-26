@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur compensé dans lequel la région compensée est
+    obtenu en provoquant, par l'application d'un champ électrique à haute température,
+    la migration d'ions lithium (type N) dans un cristal de type P de façon à équilibrer
+    (compenser) les impuretés liées au cristal
+  examples: []
+  id: 395-03-40
+  language_code: fra
+  notes:
+  - Ce type de détecteur doit être gardé à des températures basses pour maintenir
+    la concentration de lithium dans la région indemnisée. Ces détecteurs étaient
+    généralement remplacés par des détecteurs à haut niveau de pureté qui n'exigent
+    pas de dopant pour créer la région compensée.
+  - Cet article était numéroté 394-28-06 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur semiconducteur compensé au lithium
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur compensé au lithium
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: aa7ea54a-062e-570b-9132-3a83e6369d66
+status: valid

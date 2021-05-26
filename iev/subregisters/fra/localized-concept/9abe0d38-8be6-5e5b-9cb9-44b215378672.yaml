@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 151-15-60
+      original: 151-15-60
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 2008-09-01
+  definition: qualifie une partie conductrice destinée à être sous tension en fonctionnement
+    normal
+  examples: []
+  id: 581-21-22
+  language_code: fra
+  notes:
+  - Une partie active peut être temporairement hors tension lorsqu’elle n’est pas
+    sous tension. Un conducteur neutre est considéré comme actif mais non les conducteurs
+    de terre.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: actif
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2008-09-01
+id: 9abe0d38-8be6-5e5b-9cb9-44b215378672
+status: valid

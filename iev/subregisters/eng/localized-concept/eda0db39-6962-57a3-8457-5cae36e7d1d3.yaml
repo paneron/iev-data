@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: lighting device carried on a vehicle to illuminate the number plate,
+    or registration plate, or licence plate, at the rear of the vehicle
+  examples: []
+  id: 845-31-078
+  language_code: eng
+  notes:
+  - This entry was numbered 845-11-81 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: number-plate light
+    normative_status: preferred
+    type: expression
+  - designation: rear registration-plate light
+    type: expression
+  - designation: licence-plate light
+    normative_status: admitted
+    type: expression
+  - designation: license-plate light
+    geographical_area: US
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-12-01
+id: eda0db39-6962-57a3-8457-5cae36e7d1d3
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: suite déterminée de mots de code qui, lorsqu'elle est appliquée à un
+    décodeur MIC idéal, produit un signal sinusoïdal de référence dont la fréquence
+    et le niveau sont spécifiés
+  examples: []
+  id: 704-25-12
+  language_code: fra
+  notes:
+  - Par exemple, le niveau peut être zéro dBm 0 et la fréquence 1 020 Hz.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: suite numérique MIC de référence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 6cc118c7-e1fa-567a-a800-3f404f9b9500
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: impedance of the output circuit measured between the output terminals
+    under operating conditions
+  examples: []
+  id: 312-06-19
+  language_code: eng
+  notes:
+  - The impedance can be expressed in terms of admittance.
+  - In certain instances, for example, sampling devices or self-balancing potentiometers,
+    the impedance can be different according to the instant when it is determined,
+    before, during or after the instant of measurement.
+  - When the output circuit is such that the instantaneous value of the current flowing
+    into the output terminals is a non-linear function of the instantaneous value
+    of the output voltage under specified conditions of frequency and voltage, the
+    combination of resistance and reactance which would absorb the same active power
+    and in which would flow a reactive current equal to the fundamental component
+    that is flowing in the actual output circuit, is sometimes called the "equivalent
+    output impedance".
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: output impedance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: a2524239-ecd5-5790-a1bb-fdca145549e6
+status: valid

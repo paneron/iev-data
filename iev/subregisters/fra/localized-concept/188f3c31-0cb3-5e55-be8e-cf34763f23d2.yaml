@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.02
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.02
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  definition: partie d'un système de communication d'où l'on considère que sont issus
+    les {{messages, IEV:171-07-04}}
+  examples: []
+  id: 171-07-05
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: source de messages
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: source d'informations
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 188f3c31-0cb3-5e55-be8e-cf34763f23d2
+status: valid

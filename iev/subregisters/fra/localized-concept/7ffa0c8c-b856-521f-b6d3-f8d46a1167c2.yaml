@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: limite du quotient du logarithme népérien du rapport des valeurs à une
+    fréquence donnée d'une composante spécifiée du champ électromagnétique en deux
+    points alignés dans la direction de propagation d'une onde guidée, d'une onde
+    plane, ou d'une onde pratiquement plane au moins dans un domaine limité de l'espace,
+    par la distance des deux points, lorsque cette distance tend vers zéro
+  examples: []
+  id: 702-02-13
+  language_code: fra
+  notes:
+  - L'exposant linéique de propagation est une grandeur complexe, généralement fonction
+    de la fréquence, et a la dimension de l'inverse d'une longueur. La partie réelle,
+    l'affaiblissement linéique, est normalement exprimée en Np/m, et la partie imaginaire,
+    le déphasage linéique, est exprimée en rad/m.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposant linéique de propagation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante de propagation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 7ffa0c8c-b856-521f-b6d3-f8d46a1167c2
+status: valid

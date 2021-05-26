@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{modulation par déplacement de phase, IEV:702-06-40}} à deux états
+    dans laquelle le {{déplacement de phase, IEV:702-06-39}} prend deux valeurs qui
+    diffèrent de `π` radians'
+  examples: []
+  id: 702-06-44
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulation par inversion de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: modulation par opposition de phase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b6253232-6561-5059-8d9c-dd2c183f65bb
+status: valid

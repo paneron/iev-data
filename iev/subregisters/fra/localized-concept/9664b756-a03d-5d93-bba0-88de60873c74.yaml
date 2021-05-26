@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: opération définie sur l'ensemble des matrices carrées d'un ordre donné,
+    qui associe à tout couple ordonné (*`A`*, *`B`*) de matrices leur produit *`AB`*
+  examples: []
+  id: 102-06-11
+  language_code: fra
+  notes:
+  - La multiplication des matrices carrées est associative, (*`AB`*)*`C`* = *`A`*(*`BC`*),
+    mais non commutative, en général *`AB`* ≠ *`BA`*.
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplication
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: des matrices carrées
+dateAccepted: 2018-11-17
+id: 9664b756-a03d-5d93-bba0-88de60873c74
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-11-01
+  definition: relationship between oscillator frequency and time
+  examples: []
+  id: 561-03-16
+  language_code: eng
+  notes:
+  - This long-term frequency drift is caused by the secular changes in the crystal
+    unit and/or elements of the oscillator circuit, and should be expressed as a fractional
+    change in mean frequency per specified time interval.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: long-term frequency stability
+    normative_status: preferred
+    type: expression
+  - designation: frequency ageing
+    type: expression
+dateAccepted: 2014-11-01
+id: fae2ac13-26fe-55b2-936f-6f764cb14e05
+status: valid

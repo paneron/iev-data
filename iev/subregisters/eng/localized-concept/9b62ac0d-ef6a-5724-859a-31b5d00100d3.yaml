@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: definition 121
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 121, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  dateAmended: 2014-03-01
+  definition: nuclear reactor which produces more fissile material than it consumes
+  examples: []
+  id: 395-07-140
+  language_code: eng
+  notes:
+  - A breeder reactor has a conversion ratio greater than unity.
+  - Only a fast reactor can be breeder.
+  - This entry was numbered 393-16-13 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: breeder reactor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-03-01
+id: 9b62ac0d-ef6a-5724-859a-31b5d00100d3
+status: valid

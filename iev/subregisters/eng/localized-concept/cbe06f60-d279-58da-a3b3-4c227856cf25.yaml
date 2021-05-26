@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a set of digits representing a quantized value in basic pulse code modulation
+    or differential pulse code modulation
+  examples: []
+  id: 704-25-05
+  language_code: eng
+  notes:
+  - A set of signal elements representing a code word is sometimes called a "character
+    signal" by analogy with telegraphy and data communication. This usage is deprecated.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code word
+    normative_status: preferred
+    type: expression
+  - designation: PCM word
+    type: expression
+dateAccepted: 1993-08-01
+id: cbe06f60-d279-58da-a3b3-4c227856cf25
+status: valid

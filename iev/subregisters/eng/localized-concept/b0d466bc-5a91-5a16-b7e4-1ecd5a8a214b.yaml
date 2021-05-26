@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: detectivity, `D`, normalized to take into account two important parameters
+    of the detection system, the sensitive area, `A`, of the detector and the measurement
+    bandwidth, Δ`f` `D * = D ( A Delta f )^(1 // 2) = Phi_m^(- 1) ( A Delta f )^(1
+    // 2)` where `Φ`~m~ is noise equivalent power
+  examples: []
+  id: 845-25-073
+  language_code: eng
+  notes:
+  - The concept "normalized detectivity" is realistic only if the responsivity and
+    noise output of the detector are {{frequency, IEV:103-06-02}} independent throughout
+    the frequency range under consideration and if the noise equivalent input varies
+    as the square root of the detector area; this is not always the case.
+  - The normalized detectivity is expressed in metre hertz to the power one half per
+    watt (m·Hz^1/2^·W^−1^).
+  - This entry was numbered 845-05-66 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: normalized detectivity
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+  - designation: '`D`^*^'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: b0d466bc-5a91-5a16-b7e4-1ecd5a8a214b
+status: valid

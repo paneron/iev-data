@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '2.5'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/IEC 17000:2004, 2.5, modified – The references to other terms
+        within ISO/IEC 17000 have been replaced by hyperlinks to entries in the IEV.
+      ref: ISO/IEC 17000:2004
+      relationship:
+        modification: The references to other terms within ISO/IEC 17000 have been
+          replaced by hyperlinks to entries in the IEV.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: body that performs conformity assessment services
+  examples: []
+  id: 902-01-05
+  language_code: eng
+  notes:
+  - An {{accreditation body, IEV:902-01-06}} is not a conformity assessment body.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conformity assessment body
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 75bf6bfc-b91a-547b-910b-296d0174e12c
+status: valid

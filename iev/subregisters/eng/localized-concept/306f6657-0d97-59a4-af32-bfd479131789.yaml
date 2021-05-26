@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a two-terminal-pair network inserted between a given sinusoidal
+    voltage or current source and a given load, ratio of the phasor representing the
+    voltage or electric current at the load when connected directly to the source,
+    to the phasor representing the voltage or current at the load when connected to
+    the source through the network
+  examples: []
+  id: 131-15-29
+  language_code: eng
+  notes:
+  - It must be specified whether a voltage or current source has been chosen and whether
+    a voltage or current has been chosen at the load.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: insertion transfer function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 306f6657-0d97-59a4-af32-bfd479131789
+status: valid

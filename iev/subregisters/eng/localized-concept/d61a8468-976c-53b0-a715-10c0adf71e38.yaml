@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: . for a discrete random variable `X` taking the values `x_i` with the
+    probabilities `p_i`, the sum `E ( X ) = sum_i p_i x_i` extended for all values
+    `x_i` which can be taken by `X` . for a continuous random variable `X` having
+    the probability density function `f ( x )`, the value of the integral `E ( X )
+    = int x f ( x ) d x` extended for all values of the interval of variation of `X`
+  examples: []
+  id: 103-08-10
+  language_code: eng
+  notes: []
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: expectation
+    normative_status: preferred
+    type: expression
+    usage_info: of a random variable
+  - designation: mean
+    normative_status: preferred
+    type: expression
+    usage_info: of a random variable
+dateAccepted: 2009-12-01
+id: d61a8468-976c-53b0-a715-10c0adf71e38
+status: valid

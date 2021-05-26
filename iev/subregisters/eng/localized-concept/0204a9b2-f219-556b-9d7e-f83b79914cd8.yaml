@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: solar irradiance incident on the outer limit of the Earth's atmosphere
+    considering the whole solar spectrum
+  examples: []
+  id: 845-29-135
+  language_code: eng
+  notes:
+  - The extraterrestrial solar irradiance is expressed in watt per square metre (W·m^−2^).
+  - This entry was numbered 845-09-77 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: extraterrestrial solar irradiance
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~e~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 0204a9b2-f219-556b-9d7e-f83b79914cd8
+status: valid

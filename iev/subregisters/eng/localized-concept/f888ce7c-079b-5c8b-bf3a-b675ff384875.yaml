@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-05-01
+  definition: quantum number which can have all whole values from zero to `n`–1, `n`
+    designating the main quantum number
+  examples: []
+  id: 521-01-09
+  language_code: eng
+  notes:
+  - According to the Bohr atom model, the orbital quantum number may be considered
+    as characterizing the angular momentum of the electron in its orbital motion round
+    the nucleus.
+  reviewDate: 2002-05-01
+  reviewDecisionDate: 2002-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: orbital quantum number
+    normative_status: preferred
+    type: expression
+  - designation: second quantum number
+    type: expression
+  - designation: '`l`'
+    international: true
+    type: symbol
+dateAccepted: 2002-05-01
+id: f888ce7c-079b-5c8b-bf3a-b675ff384875
+status: valid

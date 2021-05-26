@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: for a given chemical reaction `α`A + `β`B + … ↔ `σ`S + `τ`T + …, quantity
+    given by `r = (1)/(alpha) ((d c ( A )))/((d t)) = (1)/(beta) ((d c ( B )))/((d
+    t)) = (1)/(sigma) ((d c ( S )))/((d t)) = (1)/(tau) ((d c ( T )))/((d t))` where
+    A, B, ... denote reactants, S, T, ... denote products, −`α`, −`β`, …, `σ`, `τ`,
+    … are the corresponding stoichiometric numbers, and `c`(A), `c`(B), …, `c`(S),
+    `c`(T), … are the amount-of-substance concentrations of A, B, ... S, T, ..., respectively
+  examples: []
+  id: 114-02-02
+  language_code: eng
+  notes:
+  - The coherent SI unit of reaction rate is mole per cubic metre second, mol m^−3^
+    s^−1^.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reaction rate
+    normative_status: preferred
+    type: expression
+  - designation: '`r`
+
+      `K`
+
+      `v`'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: cffc6809-195d-5803-9df0-9b73de30411e
+status: valid

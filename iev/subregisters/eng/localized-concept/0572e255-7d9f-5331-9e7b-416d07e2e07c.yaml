@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: density of irradiance, `E`~e~(`λ`), with respect to wavelength, `λ`
+    `E_((e , lambda)) = ((d E_e ( lambda )))/((d lambda))`
+  examples: []
+  id: 845-21-056
+  language_code: eng
+  notes:
+  - The spectral irradiance is expressed in watt per square metre per nanometre (W·m^−2^·nm^−1^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectral irradiance
+    normative_status: preferred
+    type: expression
+  - designation: '`E`~e,`λ`~
+
+      `Eλ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 0572e255-7d9f-5331-9e7b-416d07e2e07c
+status: valid

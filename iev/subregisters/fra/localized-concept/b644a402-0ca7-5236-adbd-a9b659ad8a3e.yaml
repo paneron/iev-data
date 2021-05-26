@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.9.3
+      link: https://webstore.iec.ch/publication/2796
+      original: IEC 60664-1:2007, 3.9.3, modifié – "valeur" a été remplacé par "valeur
+        assignée" dans la définition.
+      ref: IEC 60664-1:2007
+      relationship:
+        modification: '"valeur" a été remplacé par "valeur assignée" dans la définition.'
+        type: modified
+  definition: '{{valeur assignée, IEV:151-16-08}} de la tension de tenue aux crêtes
+    répétitives fixée par le fabricant aux matériels ou à une partie d''entre eux,
+    caractérisant la capacité de tenue spécifiée de son isolation contre les tensions
+    de crêtes répétitives'
+  examples: []
+  id: 442-09-16
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension assignée de tenue aux crêtes répétitives
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b644a402-0ca7-5236-adbd-a9b659ad8a3e
+status: valid

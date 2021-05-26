@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: addition d'un nombre constant d'éléments de signal à intervalles réguliers
+    dans un signal numérique pour porter le débit numérique de sa valeur originale
+    à une valeur supérieure spécifiée
+  examples: []
+  id: 704-16-23
+  language_code: fra
+  notes:
+  - Les éléments de signal ajoutés ne servent pas normalement à transmettre des informations.
+  - Le rapport du débit numérique supérieur au débit numérique inférieur n'est pas
+    nécessairement entier, mais doit être rationnel, par exemple 64/62.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: remplissage (numérique)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: d8e928ec-d72f-5fcb-9731-4030e082b219
+status: valid

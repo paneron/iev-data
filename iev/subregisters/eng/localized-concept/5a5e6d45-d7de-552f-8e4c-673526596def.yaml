@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: time relay in which the output switches to the operate condition when
+    applying the power supply and the control signal and after the setting time has
+    elapsed; the output switches to the release condition when the control signal
+    is removed and after the setting time has elapsed (see Figure 4) image::/assets/images/parts/445/445-01-05en.gif[]
+  examples: []
+  id: 445-01-05
+  language_code: eng
+  notes:
+  - – Effects of subsequent operating or retriggering of the control signal should
+    be declared by the manufacturer.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: on- and off-delay relay with control signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: 5a5e6d45-d7de-552f-8e4c-673526596def
+status: valid

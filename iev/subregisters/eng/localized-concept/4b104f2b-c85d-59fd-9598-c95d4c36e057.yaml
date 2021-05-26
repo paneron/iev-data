@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'for a step response the duration of the time interval between the instant
+    of the step change of an input variable and the intersection point of the tangent
+    of the step response at the inflection point with the horizontal axis corresponding
+    to the initial value SEE: Figure 6.'
+  examples: []
+  id: 351-45-34
+  language_code: eng
+  notes:
+  - This definition applies only to systems without overshoot of the step response.
+  - This entry was numbered 351-24-26 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent dead time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 4b104f2b-c85d-59fd-9598-c95d4c36e057
+status: valid

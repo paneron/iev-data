@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: représentation d'une fonction réelle ou complexe `f`(`t`) de la variable
+    réelle `t` par la transformation intégrale `f ( t ) = (1)/((2 pi j)) int_( sigma
+    - j oo)^( sigma + j oo) F ( s ) e^(s t) d s` où `F ( s )` est la transformée de
+    Laplace de la fonction `f`(`t`), `σ` est supérieur ou égal à l'abscisse de convergence
+    de `F ( s )` et j est l'unité imaginaire
+  examples: []
+  id: 103-04-07
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: transformée inverse de Laplace
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1f8b551d-9892-582d-a36a-9a9be6e73f92
+status: valid

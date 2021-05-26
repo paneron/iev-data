@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{energizing quantity, IEV:447-03-01}} other than the {{input energizing
+    quantity, IEV:447-03-02}}'
+  examples:
+  - '* Voltage, for line differential relay;* {{auxiliary power supply quantity, IEV:447-03-05}}.'
+  id: 447-03-04
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: auxiliary energizing quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: 89ea500f-c50c-529f-b463-3322eda046b9
+status: valid

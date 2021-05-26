@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2013-11-01
+  definition: élément de transfert pour lequel la variation de la variable de sortie
+    est proportionnelle à la variation correspondante de la variable d'entrée
+  examples: []
+  id: 351-50-05
+  language_code: fra
+  notes:
+  - "La fonction de transfert d'un élément P est donnée par\n\n`((V ( s )))/((U (\
+    \ s ))) = K_Ρ`\n\noù<table>\r\n<tr>\n<td>\n`K`~P~\n</td>\n<td>est le coefficient\
+    \ d’action proportionnelle;</td>\n</tr>\r\n<tr>\n<td>`s`</td>\n<td>est la variable\
+    \ complexe de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n<td>\n`U`(`s`)</td>\n\
+    <td>est la transformée de la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\n`V`(`s`)</td>\n\
+    <td>est la transformée de la variable de sortie.</td>\n</tr>\r\n</table>"
+  - Cet article était numéroté 351-28-16 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément à action proportionnelle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: élément P
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: ecd7868d-5032-51a6-b528-6f6544070622
+status: valid

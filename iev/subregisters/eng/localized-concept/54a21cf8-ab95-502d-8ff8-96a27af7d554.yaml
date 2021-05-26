@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: implementation of redundant functions by different designs or resources,
+    to reduce the likelihood of common cause failures
+  examples: []
+  id: 192-10-13
+  language_code: eng
+  notes:
+  - See also `N`-version programming ({{192-10-20, IEV:192-10-20}}) and common cause
+    failures ({{192-03-18, IEV:192-03-18}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diverse redundancy
+    normative_status: preferred
+    type: expression
+  - designation: diversity
+    type: expression
+dateAccepted: 2015-02-01
+id: 54a21cf8-ab95-502d-8ff8-96a27af7d554
+status: valid

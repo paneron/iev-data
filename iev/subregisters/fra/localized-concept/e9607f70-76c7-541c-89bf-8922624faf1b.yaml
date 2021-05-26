@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: 'différence entre deux stimuli de couleur, définie par la distance euclidienne
+    entre leurs points représentatifs dans l''<a href="/iev/iev.nsf/IEVref_xref/en:845-23-076">espace
+    chromatique L*a*b* CIE 1976</a> et calculée par l''équation: <ul style="list-style-type:none;">*
+    `Delta E_(ab)^* = ( Delta L_()^* )^2 + ( Delta a_()^* )^2 + ( Delta b_()^* )^2^(1
+    // 2)`'
+  examples: []
+  id: 845-23-077
+  language_code: fra
+  notes:
+  - Voir aussi CIE 15, `Colorimetry`.
+  - 'Voir aussi ISO/CIE 11664-4, _Colorimetry – Part 4: CIE 1976 L*a*b* Colour Space_.'
+  - Cet article était numéroté 845-03-57 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: différence de couleur L*a*b* CIE 1976
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: différence de couleur CIELAB
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e9607f70-76c7-541c-89bf-8922624faf1b
+status: valid

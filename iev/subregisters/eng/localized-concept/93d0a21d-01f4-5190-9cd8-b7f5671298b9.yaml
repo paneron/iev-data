@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: function assigning to any positive real number `a` and any real number
+    `b` the positive real number denoted by `a^b` such that `a^0 = 1`, `a^1 = a` and
+    `a^(b + c) = a^b * a^c` for any real numbers `b` and `c`
+  examples: []
+  id: 102-02-07
+  language_code: eng
+  notes:
+  - The function which assigns to any real number `x` the number `a`^`x`^ is the exponential
+    function to the base `a`. The function which assigns to any positive real number
+    `x` the number `x`^`b`^ is a power function.
+  - The exponentiation can be extended to negative real number `a` and integer `b`,
+    and to other mathematical entities, for example, complex numbers, matrices and
+    scalar quantities.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exponentiation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 93d0a21d-01f4-5190-9cd8-b7f5671298b9
+status: valid

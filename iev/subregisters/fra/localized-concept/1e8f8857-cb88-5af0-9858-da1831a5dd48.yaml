@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: modulomètre dont la constante de temps à l'établissement et à la décroissance
+    du signal est sensiblement la même, de l'ordre de 300 millisecondes
+  examples: []
+  id: 723-03-16
+  language_code: fra
+  notes:
+  - Les indications fournies par cet appareil sont exprimées en unités logarithmiques
+    appelées VU; zéro VU correspond à un certain niveau d'un signal sinusoïdal à 1
+    kHz, qui peut êtrе réglé par l'opérateur.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vumètre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 1e8f8857-cb88-5af0-9858-da1831a5dd48
+status: valid

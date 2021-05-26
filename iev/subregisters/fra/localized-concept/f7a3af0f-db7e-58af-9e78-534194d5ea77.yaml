@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-07-01
+  definition: niveau de la pression acoustique produite dans une bande de fréquence
+    spécifiée
+  examples: []
+  id: 801-22-12
+  language_code: fra
+  notes:
+  - 'La bande peut être spécifiée par les fréquences de coupure inférieure ou supérieure,
+    ou par la valeur de la fréquence moyenne géométrique (médiane) et la largeur de
+    la bande. La largeur de la bande peut être décrite par des expressions telles
+    que: niveau de pression acoustique par bande d''octave, de demi-octave ou de tiers
+    d''octave.'
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: niveau de pression acoustique par bande
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: f7a3af0f-db7e-58af-9e78-534194d5ea77
+status: valid

@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: '{{distribution, IEV:103-01-03}} assigning to any function `f`(`x`),
+    continuous for `x = 0`, the value `f`(0)'
+  examples: []
+  id: 103-03-05
+  language_code: eng
+  notes:
+  - The Dirac function can be considered as the limit of a function, equal to zero
+    outside a small interval containing the origin, and the integral of which remains
+    equal to unity when this interval tends to zero. See Figure 2, where instead of
+    a triangle any other shape with area 1 is possible, too.
+  - The Dirac function is the derivative of the unit step function considered as a
+    distribution.
+  - 'The Dirac function can be defined for any value `x`~0~ of the variable `x`. The
+    usual notation is:
+
+
+    `f ( x_0 ) = int_( - oo)^( + oo) delta ( x - x_0 ) f ( x ) d x`
+
+
+    image::/assets/images/parts/103/103-03-053.png[Figure 1 - Distribution de Dirac;
+    Dirac function]'
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Dirac function
+    normative_status: preferred
+    type: expression
+  - designation: Dirac delta function
+    normative_status: preferred
+    type: expression
+  - designation: unit pulse
+    normative_status: preferred
+    type: expression
+  - designation: unit impulse
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+  - designation: δ
+    international: true
+    type: symbol
+dateAccepted: 2009-12-01
+id: e9d89163-5443-5995-a510-c5f5a3723192
+status: valid

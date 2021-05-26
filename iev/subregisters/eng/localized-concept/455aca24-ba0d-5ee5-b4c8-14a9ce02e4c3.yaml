@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: partial derivative of Lagrange function `L` with respect of generalized
+    velocity `overset(˙)(q)_i`, thus `p_i = ((del L))/((del overset(˙)(q)_i))`
+  examples: []
+  id: 113-03-77
+  language_code: eng
+  notes:
+  - The unit depends on the type of representation of the system.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: generalized momentum
+    normative_status: preferred
+    type: expression
+  - designation: '`p`~`i`~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 455aca24-ba0d-5ee5-b4c8-14a9ce02e4c3
+status: valid

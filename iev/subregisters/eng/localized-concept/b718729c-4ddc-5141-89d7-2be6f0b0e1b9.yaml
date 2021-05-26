@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.49
+      link: https://webstore.iec.ch/publication/6749
+      original: IEC 62280:2014, 3.1.49
+      ref: IEC 62280:2014
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: redundant data included in a safety-related message to permit data corruptions
+    to be detected by the safety-related transmission function
+  examples: []
+  id: 821-11-45
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: safety code
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: b718729c-4ddc-5141-89d7-2be6f0b0e1b9
+status: valid

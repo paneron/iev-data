@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: '{{character, IEV:702-05-10}} or group of characters that identifies
+    a data source or destination'
+  examples: []
+  id: 171-05-35
+  language_code: eng
+  notes:
+  - An address can identify, for example, a register, a particular part of a storage
+    device, another device, a network location.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: address
+    normative_status: preferred
+    type: expression
+    usage_info: in software
+dateAccepted: 2019-03-01
+id: e9c2b663-6e6a-5d5b-bfdc-7092fd81dbef
+status: valid

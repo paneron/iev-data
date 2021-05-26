@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-10-01
+  definition: angle d'incidence maximal pour lequel la réfraction est possible lorsqu'une
+    onde se propageant dans un milieu homogène rencontre une surface de séparation
+    avec un autre milieu homogène d'indice de réfraction plus faible
+  examples: []
+  id: 731-03-23
+  language_code: fra
+  notes:
+  - 'L''angle limite est égal a:
+
+
+    arcsin (`n`~1~/ `n`~2~)
+
+
+    où `n`~1~ est l''indice de réfraction le plus faible et `n`~2~ l''indice le plus
+    élevé.'
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle limite
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 5cd247de-999d-5728-9acb-37796adfa805
+status: valid

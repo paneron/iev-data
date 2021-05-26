@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.26
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.26
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{entité, IEV:741-01-18}} qui a une existence matérielle dans le monde
+    physique'
+  examples: []
+  id: 741-01-26
+  language_code: fra
+  notes:
+  - Dans l'{{architecture de référence, IEV:741-01-27}} de l'{{Internet des Objets,
+    IEV:741-02-01}}, l'{{entité physique, IEV:741-01-26}} est l'objet qui doit être
+    détecté et/ou actionné par les {{dispositifs IdO, IEV:741-02-04}} ou les {{systèmes
+    IdO, IEV:741-02-07}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: entité physique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6faa89df-f808-532e-b5a1-9d26d72189cc
+status: valid

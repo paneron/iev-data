@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: panne qui disparaît sans intervention
+  examples: []
+  id: 192-04-05
+  language_code: fra
+  notes:
+  - La disparition peut être le résultat d’un rétablissement automatique.
+  - Dans l’IEC 60050-191:1990 (supprimée; remplacée par l'IEC 60050-192:2015), ce
+    concept était désigné comme «panne intermittente», avec «panne temporaire» comme
+    synonyme, mais toutes les pannes temporaires ne sont pas des pannes intermittentes
+    ({{192-04-06, IEV:192-04-06}}).
+  - Cette note ne s’applique qu’à la langue anglaise.
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne temporaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 28155d3e-9b31-52d7-9460-0c0bad9634a4
+status: valid

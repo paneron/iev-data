@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: 444-06-02
+      link: https://webstore.iec.ch/publication/208
+      original: IEC 60050-444:2002, 444-06-02, modified – "relay" has been replaced
+        by "measuring relay or protection equipment".
+      ref: IEC 60050-444:2002
+      relationship:
+        modification: '"relay" has been replaced by "measuring relay or protection
+          equipment".'
+        type: modified
+  dateAmended: 2020-05-01
+  definition: specified value of an {{influence quantity, IEV:447-06-01}} to which
+    the characteristics of a {{measuring relay, IEV:447-01-02}} or {{protection equipment,
+    IEV:447-01-49}} are referred
+  examples: []
+  id: 447-06-02
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference value
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: c35c5e6d-8003-5a40-a702-a28bfc23fa8d
+status: valid

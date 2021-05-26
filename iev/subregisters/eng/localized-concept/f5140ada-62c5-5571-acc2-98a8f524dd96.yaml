@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: average luminance of a specified surface when the lighting installation
+    is new
+  examples: []
+  id: 845-29-152
+  language_code: eng
+  notes:
+  - The initial average luminance is expressed in candela per square metre (cd·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: initial average luminance
+    normative_status: preferred
+    type: expression
+  - designation: "`L_((v ,av ,i))`\n`bar L_((v ,i))` \n`L_((av ,i))`\n`bar L_((i))`"
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: f5140ada-62c5-5571-acc2-98a8f524dd96
+status: valid

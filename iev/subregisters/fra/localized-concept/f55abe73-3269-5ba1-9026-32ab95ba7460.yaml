@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: grandeur radiométrique ou photométrique à laquelle répond un récepteur
+    de <a href="IEV845-21-002">rayonnement optique</a>
+  examples: []
+  id: 845-25-057
+  language_code: fra
+  notes:
+  - Cet article était numéroté 845-05-50 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: excitation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur de rayonnement optique
+  - designation: grandeur d'entrée
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: d'un récepteur de rayonnement optique
+dateAccepted: 2018-11-17
+id: f55abe73-3269-5ba1-9026-32ab95ba7460
+status: valid

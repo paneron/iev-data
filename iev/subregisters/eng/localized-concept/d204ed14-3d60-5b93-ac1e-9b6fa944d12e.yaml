@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'functional unit forming part of the controlled system and arranged
+    at its input, driven by the manipulated variable and manipulating the mass flow
+    or energy flow SEE: Figures 1 and 2.'
+  examples: []
+  id: 351-49-08
+  language_code: eng
+  notes:
+  - If the final controlling element is mechanically actuated, an additional actuator
+    (positioner) is used in some cases.
+  - The output variable of the final controlling equipment is usually not free from
+    feedback. The interface between the actuator and the final controlling element
+    should therefore be selected in such a way that the manipulated variable is not
+    affected by feedback from the final controlling element.
+  - 'This entry was numbered 351-28-08 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: final controlling element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: d204ed14-3d60-5b93-ac1e-9b6fa944d12e
+status: valid

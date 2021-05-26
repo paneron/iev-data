@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 01.04.02
+      link: https://www.iso.org/standard/7229.html
+      original: ISO/IEC 2382-1:1993, 01.04.02, modifié
+      ref: ISO/IEC 2382-1:1993
+      relationship:
+        type: modified
+  definition: logiciel indépendant de toute application et qui soutient l'exécution
+    des logiciels d'application
+  examples:
+  - Le système d’exploitation d’un ordinateur.
+  id: 192-01-32
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: logiciel d’exploitation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 374acdc9-65f2-588f-9705-a530303b1c54
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: temps séparant l'instant où l'organe de commande du frein est actionné
+    de l'instant où l'effort de freinage atteint effectivement sa valeur spécifiée
+    à la vitesse considérée
+  examples: []
+  id: 811-06-44
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps d'établissement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: du freinage
+dateAccepted: 2018-11-17
+id: ca2eb00e-eba3-5955-8a24-516d7f63d00b
+status: valid

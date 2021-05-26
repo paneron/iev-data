@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: bande de fréquences telle que les puissances moyennes émises, au-dessous
+    de sa fréquence limite inférieure et au-dessus de sa fréquence limite supérieure,
+    soient égales chacune à un pourcentage donné `β`/2 de la puissance moyenne totale
+    d'une émission
+  examples: []
+  id: 713-06-18
+  language_code: fra
+  notes:
+  - En l'absence de spécifications pour la classe d'émission considérée, la valeur
+    `β`/2 est prise égale à 0,5%.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bande occupée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 18b61510-8884-5c11-b534-13a04cc6b352
+status: valid

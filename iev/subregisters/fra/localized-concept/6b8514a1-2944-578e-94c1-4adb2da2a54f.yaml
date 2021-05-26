@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-12-01
+  definition: fonctionnement incorrect d'une protection dû à une erreur d'organisation,
+    de conception, de réglage ou d'application de la protection
+  examples: []
+  id: 448-12-10
+  language_code: fra
+  notes:
+  - Ce type de défaillance ne peut en général pas être décelé par des essais de maintenance.
+  - 'Une défaillance attribuable au logiciel dans un relais numérique est une défaillance
+    de principe.
+
+
+    Voir figure 448-2.
+
+
+    image::/assets/images/parts/448/448-fig2-fr.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: défaillance de principe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 6b8514a1-2944-578e-94c1-4adb2da2a54f
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2019-03-01
+  definition: ordered set of any fixed number of {{binary digits, IEV:171-02-10}},
+    treated as a whole
+  examples: []
+  id: 171-02-22
+  language_code: eng
+  notes:
+  - The term "`n`-bit byte" and the French term "`n`-uplet" are also used for exactly
+    `n` elements (see {{IEV 171-02-23, IEV:171-02-23}}). An extension of the concept
+    to signal elements is given in {{IEV 704-16-20, IEV:704-16-20}}.
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`n`-bit byte'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-03-01
+id: 48c1d1f5-1abb-5b5a-91eb-acba7c34483b
+status: valid

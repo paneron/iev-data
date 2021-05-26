@@ -1,0 +1,45 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1994-07-01
+  definition: level of the limit, as the width of the band approaches zero, of the
+    ratio of a specified quantity distributed within a frequency band to the width
+    of the band
+  examples: []
+  id: 801-22-13
+  language_code: eng
+  notes:
+  - The kind of quantity must be specified, such as by (squared) sound pressure spectrum
+    level.
+  - 'In view of the fact that filters have finite bandwidths, practically the sound
+    pressure spectrum level `L`~ps~ is obtained for the centre frequency of the band
+    by the formula:
+
+
+    `L_((ps)) = 10 (log)_((10)) ((( p^2 // B )))/((( p_0^2 // B_0 ))) dB`
+
+
+    where `p` and `p`~0~ are respectively the given field quantity and the reference
+    quantity; `B` et `B`~0~ are respectively the effective bandwidth of the filter
+    and the reference bandwidth of 1 Hz.
+
+
+    When `L`~p~ is the band pressure level observed through the filter, the above
+    relation reduces to
+
+
+    `L_((ps)) = L_p - (log)_((10)) ( B // B_0 ) dB`'
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: spectrum density level
+    normative_status: preferred
+    type: expression
+  - designation: spectrum level
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: a0fadc8c-4a23-5a91-8ce7-a0be919071dd
+status: valid

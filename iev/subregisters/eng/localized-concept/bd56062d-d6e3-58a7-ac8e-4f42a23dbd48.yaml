@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 604-01-15
+      original: see 604-01-15
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 2021-01-01
+  definition: inability of a power system to maintain power system stability
+  examples: []
+  id: 603-03-21
+  language_code: eng
+  notes:
+  - This concept does not apply to the interaction between AC systems interconnected
+    only by DC links.
+  - This definition does not cover voltage instability.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power system instability
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: bd56062d-d6e3-58a7-ac8e-4f42a23dbd48
+status: valid

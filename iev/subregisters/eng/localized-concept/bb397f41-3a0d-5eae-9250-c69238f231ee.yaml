@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: method used to reduce the incidence of {{errors, IEV:192-03-02}} in
+    the recording, processing or transfer of {{information, IEV:701-01-01}}
+  examples: []
+  id: 702-07-40
+  language_code: eng
+  notes:
+  - Error control can use {{error detection, IEV:702-07-41}}, {{error correction,
+    IEV:702-07-42}} and {{error concealment, IEV:723-10-97}}, either separately or
+    in combination.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error control
+    normative_status: preferred
+    type: expression
+  - designation: error protection
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: bb397f41-3a0d-5eae-9250-c69238f231ee
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: error correction using an error detecting code in which every mutilation
+    discovered at the receiving end causes the sending to the transmitting end over
+    the return channel of a function signal which orders the repetition of a fixed
+    sequence of the last signals sent
+  examples: []
+  id: 721-08-21
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error detecting and feedback system
+    normative_status: preferred
+    type: expression
+  - designation: ARQ
+    type: expression
+dateAccepted: 1991-11-01
+id: e2c99dc5-d17f-5b91-bacb-7efdb03b0159
+status: valid

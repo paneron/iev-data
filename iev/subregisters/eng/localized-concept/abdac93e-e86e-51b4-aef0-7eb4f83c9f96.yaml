@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'element of a vector *`x`*(`t`) in a system with the differential equations
+    <table> <tr> <td>`overset(˙)(x) ( t ) = f x ( t ) , u ( t )`</td> <td>state equation</td>
+    </tr> <tr> <td>`v ( t ) = g x ( t ) , u ( t )`</td> <td>output equation,</td>
+    </tr> </table> and for linear systems <table> <tr> <td>`overset(˙)(x) ( t ) =
+    A * x ( t ) + B * u ( t )`</td> <td>state equation</td> </tr> <tr> <td>`v ( t
+    ) = C * x ( t ) + D * u ( t )`</td> <td>output equation,</td> </tr> </table> from
+    which for known initial values of the vector elements at any given instant `t`~0~
+    (often with `t`~0~ = 0) and known course of the elements of the input vector *`u`*(`t`)
+    the course of the elements of the output vector *`v`*(`t`) may be calculated starting
+    at `t`~0~ SEE: Figure 3.'
+  examples: []
+  id: 351-41-08
+  language_code: eng
+  notes:
+  - "In case of discrete-time variables the describing equations are\n\n<table>\r\n\
+    <tr>\n<td>*`x`*~`i`+1~ = *`f`* (*`x`*~`i`~, *`u`*~`i`~)</td>\n<td>state equation</td>\n\
+    </tr>\r\n<tr>\n<td>*`v`*~`i`~ = *`g`* (*`x`*~`i`~, *`u`*~`i`~)</td>\n<td>output\
+    \ equation,</td>\n</tr>\r\n</table>\n\nand for linear systems\n\n<table>\r\n<tr>\n\
+    <td>*`x`*~`i`+1~ = *`Φ`*·*`x`*~`i`~ + *`H`*·*`u`*~`i`~</td>\n<td>state equation</td>\n\
+    </tr>\r\n<tr>\n<td>*`v`*~`i`~ = *`C`*·*`x`*~`i`~ + *`D`*·*`u`*~`i`~</td>\n<td>output\
+    \ equation.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-21-08 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: state variable
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: abdac93e-e86e-51b4-aef0-7eb4f83c9f96
+status: valid

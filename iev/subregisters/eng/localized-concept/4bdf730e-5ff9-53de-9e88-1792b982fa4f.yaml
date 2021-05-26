@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2014-03-01
+  definition: quotient of d`N` by d`a` and by d`t`, where d`N` is the increment of
+    the number of particles incident on a cross-sectional area d`a` in the time interval
+    d`t` `N`^0^ = d^2^`N`/d`a` d`t`
+  examples: []
+  id: 395-01-16
+  language_code: eng
+  notes:
+  - Generally the term neutron (or other particle) flux is used.
+  - This quantity is expressed in reciprocal seconds per unit area (m^−2^ s^−1^ or
+    cm^−2^ s^−1^).
+  - This entry was numbered 393-14-27 in IEC 60050-393:2003.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: particle flux
+    normative_status: preferred
+    type: expression
+  - designation: fluence rate
+    type: expression
+  - designation: '`N`^0^'
+    international: true
+    type: symbol
+dateAccepted: 2014-03-01
+id: 4bdf730e-5ff9-53de-9e88-1792b982fa4f
+status: valid

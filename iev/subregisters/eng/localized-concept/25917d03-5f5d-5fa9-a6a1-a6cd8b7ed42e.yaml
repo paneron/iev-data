@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2015-02-01
+  definition: expectation of the time to restoration
+  examples: []
+  id: 192-07-23
+  language_code: eng
+  notes:
+  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) defined the
+    term ”mean time to recovery” as a synonym, but restoration and recovery are not
+    synonyms.
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean time to restoration
+    normative_status: preferred
+    type: expression
+  - designation: MTTR
+    normative_status: preferred
+    type: expression
+  - designation: mean time to repair
+    normative_status: deprecated
+    type: expression
+  - designation: mean time to recovery
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2015-02-01
+id: 25917d03-5f5d-5fa9-a6a1-a6cd8b7ed42e
+status: valid

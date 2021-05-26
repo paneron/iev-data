@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: real number `ϑ` such that 0 ≤ `ϑ` ≤ π, the cosine of which is the ratio
+    of the scalar product of two given real vectors *`U`* and *`V`* to the product
+    of their magnitudes `vartheta = arccos ((U * V))/((| U | * | V |))`
+  examples: []
+  id: 102-03-29
+  language_code: eng
+  notes:
+  - The angle of two vectors is always defined because the inequality `| U * V | &lt;=
+    | U | * | V |` is valid for the scalar product.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle
+    normative_status: preferred
+    type: expression
+    usage_info: between two vectors
+dateAccepted: 2008-08-01
+id: 08a7565e-9f75-5c9b-b654-8f19cfe38035
+status: valid

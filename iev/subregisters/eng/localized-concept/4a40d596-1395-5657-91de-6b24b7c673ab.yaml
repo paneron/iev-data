@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{Boolean operation, IEV:171-03-05}} whose result has the Boolean value
+    1 if and only if each {{operand, IEV:171-03-04}} has the Boolean value 1'
+  examples: []
+  id: 171-03-17
+  language_code: eng
+  notes:
+  - The conjunction of variables `a` and `b` is noted `a ^^ b` (U+2227) (`a` and `b`).
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conjunction
+    normative_status: preferred
+    type: expression
+  - designation: AND operation
+    normative_status: preferred
+    type: expression
+  - designation: intersection
+    normative_status: admitted
+    type: expression
+dateAccepted: 2019-03-01
+id: 4a40d596-1395-5657-91de-6b24b7c673ab
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - - clause: '5.4'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 5.4
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  definition: '{{attestation, IEV:902-04-02}} réalisée par une première partie'
+  examples: []
+  id: 902-04-04
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: déclaration
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3d98dc84-3667-57bc-9cf5-e0d24ac42505
+status: valid

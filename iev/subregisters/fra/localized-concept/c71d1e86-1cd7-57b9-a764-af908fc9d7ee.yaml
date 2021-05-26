@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: courbe donnant le taux de comptage en fonction de la tension de discrimination
+  examples: []
+  id: 395-03-91
+  language_code: fra
+  notes:
+  - Cette courbe permet de déterminer le seuil de discrimination et la tension de
+    fonctionnement.
+  - Cet article était numéroté 394-38-53 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courbe de discrimination
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c71d1e86-1cd7-57b9-a764-af908fc9d7ee
+status: valid

@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: durée de l'intervalle de temps entre les instants auxquels la valeur
+    instantanée d'une impulsion atteint pour la première fois une valeur inférieure
+    donnée puis une valeur supérieure donnée
+  examples: []
+  id: 702-03-05
+  language_code: fra
+  notes:
+  - Sauf spécification contraire, les valeurs inférieure et supérieure sont fixées
+    à 10 % et 90 % de la hauteur de l'impulsion.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de montée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée d'établissement
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: 660cbd44-96e3-550c-b746-3adbd6f9f21e
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: rapport, exprimé en valeur numérique ou en %, de la puissance maximale
+    appelée par une installation ou un ensemble d'installations, au cours d'une période
+    déterminée, à la puissance installée de cette installation ou de ces installations
+  examples: []
+  id: 691-10-05
+  language_code: fra
+  notes:
+  - Il convient d'utiliser ce terme en précisant à quel niveau du réseau il se rapporte.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de demande
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de charge
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: bb6f1f01-113c-5faf-a843-94dd9c764db7
+status: valid

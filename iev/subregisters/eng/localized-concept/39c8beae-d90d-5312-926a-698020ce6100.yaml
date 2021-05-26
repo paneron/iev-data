@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2020-04-01
+  definition: radiant power passing through an element of surface normal to the {{direction
+    of propagation, IEV:103-10-05}} of energy of an {{electromagnetic wave, IEV:121-11-63}}
+    divided by the area of the element
+  examples: []
+  id: 705-02-03
+  language_code: eng
+  notes: []
+  reviewDate: 2020-04-01
+  reviewDecisionDate: 2020-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: power flux density
+    normative_status: preferred
+    type: expression
+  - designation: radiant flux density
+    normative_status: preferred
+    type: expression
+  - designation: '`S`'
+    international: true
+    type: symbol
+dateAccepted: 2020-04-01
+id: 39c8beae-d90d-5312-926a-698020ce6100
+status: valid

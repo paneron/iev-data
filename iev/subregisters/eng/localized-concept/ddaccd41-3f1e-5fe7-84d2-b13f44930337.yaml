@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a bandpass filter for the interconnection of two FDM links providing
+    transmission for signals occupying the same frequency band
+  examples: []
+  id: 704-11-07
+  language_code: eng
+  notes:
+  - A direct through-connection filter may be used to interconnect two FDM links inside
+    the same group section, the same supergroup section, etc.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: direct through-connection filter
+    normative_status: preferred
+    type: expression
+  - designation: direct line filter
+    type: expression
+  - designation: direct transfer filter
+    type: expression
+dateAccepted: 1993-08-01
+id: ddaccd41-3f1e-5fe7-84d2-b13f44930337
+status: valid

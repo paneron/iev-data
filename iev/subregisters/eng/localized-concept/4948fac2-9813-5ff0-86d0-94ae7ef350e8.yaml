@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'the mean value of the international relative sunspot number for the
+    month n obtained by the following equation: `R_((12)) = (1)/((12)) [ ((R_((n -
+    6)) + R_((n + 6))))/(2) + underset(k)( sum ) R_k ]` for `k` = `n` − 5, `n` − 4,
+    ..., `n`, ..., `n` + 5 where `R`~`k`~ is the mean international relative sunspot
+    number for the `k`th month'
+  examples: []
+  id: 705-07-87
+  language_code: eng
+  notes: []
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: twelve-month running-mean sunspot number
+    normative_status: preferred
+    type: expression
+  - designation: '`R`~12~'
+    international: true
+    type: symbol
+dateAccepted: 1995-09-01
+id: 4948fac2-9813-5ff0-86d0-94ae7ef350e8
+status: valid

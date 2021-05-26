@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: réacteur qui convertit, par une réaction de gaz à eau, le monoxyde de
+    carbone produit par le {{reformage du flux, IEV:485-07-10}} en dioxyde de carbone
+    et en hydrogène
+  examples: []
+  id: 485-07-11
+  language_code: fra
+  notes:
+  - La réaction se produit en aval du {{reformeur, IEV:485-07-03}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: convertisseur de réaction
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: convertisseur de la réaction de gaz à l'eau
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 926b11f8-a2a0-53c2-a9b5-0298c53724d6
+status: valid

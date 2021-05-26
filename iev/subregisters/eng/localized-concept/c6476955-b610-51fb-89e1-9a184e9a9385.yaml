@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the amount of different information in a telecontrol system that may
+    be handled at the control centre or master station and at the outstations
+  examples: []
+  id: 371-08-13
+  language_code: eng
+  notes:
+  - The information capacity is often expressed by the number of commands and by the
+    amount of monitored information which can be handled.
+  - The information capacity of telecontrol equipment at the control centre or master
+    station may be shared between several outstations.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: information capacity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: c6476955-b610-51fb-89e1-9a184e9a9385
+status: valid

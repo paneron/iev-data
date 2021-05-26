@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dans l'espace euclidien à trois dimensions, ensemble ordonné de trois
+    vecteurs linéairement indépendants *`U`*, *`V`* et *`W`*, tel que, pour un observateur
+    regardant dans la direction de *`W`*, la rotation d'angle minimal qui amène *`U`*
+    sur *`V`* se fait dans le sens inverse des aiguilles d'une montre
+  examples: []
+  id: 102-03-31
+  language_code: fra
+  notes:
+  - Les vecteurs d'un trièdre rétrograde ont des directions qui correspondent respectivement
+    à celles du pouce (*`U`*), de l'index (*`V`*) et du majeur (*`W`*) de la main
+    gauche, lorsque l'index est en extension et le majeur pointe à angle droit des
+    autres doigts.
+  reviewDecisionEvent: published
+  terms:
+  - designation: trièdre rétrograde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: trièdre inverse
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b21f73d1-a3dd-5f72-b6bc-e2ac0987c888
+status: valid

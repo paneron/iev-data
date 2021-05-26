@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: the average video signal level during a picture period, excluding blanking
+    intervals
+  examples: []
+  id: 723-05-75
+  language_code: eng
+  notes:
+  - The average video signal level is usually expressed with respect to blanking level
+    as a percentage of the difference between blanking and white levels.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: average picture-signal level
+    normative_status: preferred
+    type: expression
+  - designation: APL
+    type: expression
+dateAccepted: 1997-03-01
+id: 1418a692-9e39-5f94-b555-b6ae7e7d1658
+status: valid

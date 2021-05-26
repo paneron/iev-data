@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: différence de densité d'énergie libre entre l'état normal et l'état
+    supraconducteur
+  examples: []
+  id: 815-10-20
+  language_code: fra
+  notes:
+  - Pour un champ magnétique nul et un courant continu nul, l'énergie de condensation
+    supraconductrice est donnée par `( 1 // 2 ) mu_0 H_c^2`, où `mu_0` est la constante
+    magnétique et `H_c` le champ magnétique critique ({{815-10-21, IEV:815-10-21}}).
+  reviewDecisionEvent: published
+  terms:
+  - designation: énergie de condensation supraconductrice
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ddda4b76-bcc2-527d-ad1f-dc75b39f46db
+status: valid

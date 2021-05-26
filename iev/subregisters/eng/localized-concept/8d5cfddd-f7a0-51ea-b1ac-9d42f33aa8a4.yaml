@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: wave which can be represented by a sinusoidal field quantity with phase
+    `omega t - k * r + vartheta_0` where *`k`* is a vector characteristic of the wave,
+    *`r`* is position vector, `ω` is angular frequency, `t` is time, and `vartheta_0`
+    is initial phase
+  examples: []
+  id: 103-10-03
+  language_code: eng
+  notes:
+  - Vector *`k`* is called “{{wave vector, IEV:103-10-09}}”.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: sinusoidal wave
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 8d5cfddd-f7a0-51ea-b1ac-9d42f33aa8a4
+status: valid

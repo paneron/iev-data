@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: diagram showing gain and phase angle contours of the closed-loop frequency
+    response `((G_0))/((1 + G_0))` plotted in the rectangular coordinates of logarithmic
+    gain and phase difference of the open-loop frequency response `G`~0~
+  examples: []
+  id: 351-46-09
+  language_code: eng
+  notes:
+  - '`((G_0))/((1 + G_0))` is the closed-loop frequency response for changes of the
+    reference variable in the case that the controlled variable `x` is used as the
+    feedback variable `r` directly. The transfer function of the measuring element
+    is assumed unity.'
+  - This entry was numbered 351-25-09 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Nichols plot
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 5065ff3a-0aa1-5b0d-9a2f-803b05dbf823
+status: valid

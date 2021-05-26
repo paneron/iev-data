@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: toute baisse par rapport à la quantité initiale d'{{électrolyte, IEV:485-03-01}}
+    d'une {{cellule élémentaire à combustible, IEV:485-08-01}}
+  examples: []
+  id: 485-03-04
+  language_code: fra
+  notes:
+  - Les pertes d'électrolyte peuvent provenir de différents procédés tels que l'évaporation,
+    les fuites, la migration et la consommation lors de la corrosion des composants
+    métalliques.
+  reviewDecisionEvent: published
+  terms:
+  - designation: perte d'électrolyte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 44af9307-0e11-5e0e-bd5b-e257b21e345d
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.2
+      link: https://webstore.iec.ch/publication/6365
+      original: IEC 62047-22:2014, 3.1.2
+      ref: IEC 62047-22:2014
+      relationship:
+        type: identical
+  definition: valeur de déformation d'ingénierie à laquelle la {{résistance, IEV:131-12-04}}
+    électrique commence à dépasser une valeur prédéfinie
+  examples: []
+  id: 523-03-20
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: allongement en défaillance électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a71ca0e1-9575-5949-b249-639b5ffedd08
+status: valid

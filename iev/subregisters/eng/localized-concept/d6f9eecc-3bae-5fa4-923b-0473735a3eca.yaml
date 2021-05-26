@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: 'the energy imparted by ionizing radiation to the matter in a volume
+    `epsilon = sum epsilon_((in)) - sum epsilon_((ex)) + sum Q` where Σ`ε`~in~ is
+    the sum of the energies (excluding rest energies) of all directly and indirectly
+    ionizing particles incident on the volume, Σ`ε`~ex~ is the sum of the energies
+    (excluding rest energies) of all directly and indirectly ionizing particles emerging
+    from the volume, and Σ`Q` is the sum of all changes (decreases: positive sign;
+    increases: negative sign) of rest energy of nuclei and elementary particles in
+    any transformations which occur in the volume'
+  examples: []
+  id: 881-12-43
+  language_code: eng
+  notes:
+  - '`ε` is a stochastic quantity.'
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: energy imparted
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: d6f9eecc-3bae-5fa4-923b-0473735a3eca
+status: valid

@@ -1,0 +1,59 @@
+data:
+  authoritativeSource:
+  - - clause: '2.2'
+      original: SI Brochure, 9th edition, 2019, 2.2, modified – The information provided
+        in the SI Brochure has been drafted as a definition to comply with the IEV
+        rules.
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      relationship:
+        modification: The information provided in the SI Brochure has been drafted
+          as a definition to comply with the IEV rules.
+        type: modified
+  classification: Admitted
+  dateAmended: 2020-12-01
+  definition: '{{fundamental physical constant, IEV:112-03-09}} determining the general
+    properties of {{space-time, IEV:113-01-01}} and affecting all particles and fields,
+    whose value is set to 299 792 458 {{m, IEV:112-02-05}}/{{s, IEV:112-02-04}}'
+  examples: []
+  id: 113-01-34
+  language_code: eng
+  notes:
+  - Any electromagnetic wave or gravitational wave propagates in vacuum with the speed
+    of light in vacuum. The speed of light in vacuum is also the upper limit of speed
+    for any transfer of matter, energy, or information.
+  - The speed of light in vacuum is used in the {{SI, IEV:112-02-02}} to define the
+    {{metre, IEV:112-02-05}}.
+  - 'The term “luminal speed" is used in relativity theory. Related concepts are "{{subluminal
+    speed, IEV:113-01-37}}" and "{{superluminal speed, IEV:113-01-36}}".
+
+
+    The term "speed of light" shall be used only when the context indicates without
+    ambiguity that the full term “speed of light in vacuum” is meant, because "speed
+    of light" is also observed in matter where its value is always less than that
+    in vacuum.
+
+
+    The term “light speed” is deprecated because it is not a short form of the preferred
+    term.'
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: speed of light in vacuum
+    normative_status: preferred
+    type: expression
+  - designation: luminal speed
+    normative_status: admitted
+    type: expression
+  - designation: speed of light
+    normative_status: admitted
+    type: expression
+  - designation: light speed
+    normative_status: deprecated
+    type: expression
+  - designation: '`c`~0~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: e29518ea-73df-5df6-b2dc-99a25a3c8641
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2016-12-01
+  definition: '{{broadcasting service, IEV:701-01-33}} of visual programmes with associated
+    sounds'
+  examples: []
+  id: 701-01-35
+  language_code: eng
+  notes:
+  - '"{{television, IEV:701-01-15}}" finds major application in television broadcasting
+    and the word “television” is often used without qualification to describe this
+    application but this use is deprecated in English.'
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: television broadcasting
+    normative_status: preferred
+    type: expression
+  - designation: television
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2016-12-01
+id: fd6c1da7-6804-5cb5-99db-a3cedda3aad1
+status: valid

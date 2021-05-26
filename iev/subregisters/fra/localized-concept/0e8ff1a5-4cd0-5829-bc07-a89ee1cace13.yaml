@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: signal numérique produit par l'application d'un code en ligne redondant
+    donné à un signal original donné
+  examples: []
+  id: 704-17-18
+  language_code: fra
+  notes:
+  - Pour un signal numérique `n`-aire redondant, le contenu binaire équivalent moyen
+    par élément de signal, exprimé en bits, est inférieur au logarithme binaire lb
+    `n`.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: signal numérique redondant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 0e8ff1a5-4cd0-5829-bc07-a89ee1cace13
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: property of a system which implies that its initial state may be determined
+    from input and output variables, which are observed within a finite time interval
+  examples: []
+  id: 351-42-23
+  language_code: eng
+  notes:
+  - The observability is a global observability if this calculation is valid whatever
+    this initial state may be.
+  - This entry was numbered 351-21-33 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: observability
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: cde220cd-8f0b-51fa-b47d-118757370fb7
+status: valid

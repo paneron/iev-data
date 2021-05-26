@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2014-03-01
+  definition: cell voltage when the electric current at the electrodes is zero
+  examples: []
+  id: 114-03-11
+  language_code: eng
+  notes:
+  - Zero current may be accomplished by an open circuit.
+  - This entry was numbered 111-15-14 in IEC 60050-111:1996.
+  reviewDate: 2014-03-01
+  reviewDecisionDate: 2014-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cell source voltage
+    normative_status: preferred
+    type: expression
+  - designation: electromotive force
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2014-03-01
+id: 49af706f-aec1-5530-a54c-578073480682
+status: valid

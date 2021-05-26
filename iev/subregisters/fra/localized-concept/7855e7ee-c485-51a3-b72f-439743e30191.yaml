@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: scalaire Δ`f` associé en chaque point d'un domaine déterminé de l'espace
+    à un scalaire `f`, défini par la divergence du gradient du champ scalaire Δ`f`
+    = div *grad* `f`
+  examples: []
+  id: 102-05-28
+  language_code: fra
+  notes:
+  - 'En coordonnées cartésiennes orthonormées, le laplacien scalaire est:
+
+
+    `Delta f = ((del^2 f))/((del x^2)) + ((del^2 f))/((del y^2)) + ((del^2 f))/((del
+    z^2))`.'
+  - Le laplacien scalaire du champ scalaire `f` est noté Δ`f` ou ∇^2^`f`, où Δ est
+    l'opérateur laplacien.
+  reviewDecisionEvent: published
+  terms:
+  - designation: laplacien scalaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7855e7ee-c485-51a3-b72f-439743e30191
+status: valid

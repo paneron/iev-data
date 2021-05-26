@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{chaîne de connexion, IEV:701-03-01}} qui relie des terminaux d''usagers'
+  examples: []
+  id: 701-03-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: chaîne de connexion complète
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: chemin de communication
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: communication
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+    usage_info: chaîne de connexion
+dateAccepted: 2018-11-17
+id: ee5a21d8-70eb-556d-88f7-fe0b670b447e
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: amplitude relative de la fluctuation périodique du flux lumineux calculée
+    par le rapport de la différence entre le flux lumineux instantané maximal et minimal,
+    `Φ`~max~ et `Φ`~min~ respectivement, à la somme de ces deux valeurs `((Phi_((max))
+    - Phi_((min))))/((Phi_((max)) + Phi_((min))))`
+  examples: []
+  id: 845-27-115
+  language_code: fra
+  notes:
+  - L'amplitude de fluctuation peut être appliquée également pour la "luminance" et
+    l'"éclairement". D'autres grandeurs photométriques peuvent être utilisées.
+  - L'unité d'amplitude de fluctuation du flux lumineux exprimée habituellement en
+    pour cent (%) est un.
+  - Cet article était numéroté 845-07-66 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: amplitude de fluctuation du flux lumineux
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ae51679e-0a66-5f3a-936a-d408756beb6f
+status: valid

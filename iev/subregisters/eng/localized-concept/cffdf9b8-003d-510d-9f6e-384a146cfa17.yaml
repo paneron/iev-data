@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: '{{measuring relay, IEV:447-01-02}}, the change of condition of which
+    depends upon the AC polarity of its {{energizing quantity, IEV:447-03-01}}'
+  examples:
+  - Directional overcurrent relays, {{mho relays, IEV:447-01-33}}.
+  id: 447-01-13
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polarized AC relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-05-01
+id: cffdf9b8-003d-510d-9f6e-384a146cfa17
+status: valid

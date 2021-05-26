@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{mémoire, IEV:171-04-14}} dans laquelle, dans des conditions normales
+    de fonctionnement, les données peuvent être lues et modifiées'
+  examples: []
+  id: 171-04-27
+  language_code: fra
+  notes:
+  - Le terme "mémoire vive" n'est normalement employé que pour une mémoire à circuits
+    intégrés. Voir aussi "{{mémoire effaçable, IEV:171-04-29}}".
+  - En anglais, RAM est le terme abrégé de "random-access memory", et son emploi est
+    déconseillé dans le sens du terme {{"mémoire à accès direct", IEV:171-04-25}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: mémoire vive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 937f065e-f181-5566-bcee-60acef05bed4
+status: valid

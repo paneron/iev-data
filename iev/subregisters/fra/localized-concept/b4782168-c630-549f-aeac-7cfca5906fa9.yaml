@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient `γ`~a~ de la réduction de vitesse résultant du freinage par
+    le temps nécessaire pour l'obtenir `gamma_a = ((V_i - V_t))/(t)` où `V`~i~ est
+    la vitesse initiale mesurée à l'instant où l'organe de commande de freinage a
+    été actionné; `V`~t~ est la vitesse finale atteinte à l'issue du freinage; `t`
+    est la durée comprise entre l'instant où l'organe de commande de freinage a été
+    actionné et l'instant où la vitesse finale a été atteinte
+  examples: []
+  id: 811-06-41
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: décélération moyenne en fonction du temps
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b4782168-c630-549f-aeac-7cfca5906fa9
+status: valid

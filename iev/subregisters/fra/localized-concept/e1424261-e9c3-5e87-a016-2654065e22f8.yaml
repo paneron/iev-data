@@ -1,0 +1,60 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: mode d'une fibre optique tel que l'amplitude de chaque composante des
+    vecteurs du champ électromagnétique décroît de façon monotone en dehors du coeur
+    en fonction de la distance à l'axe et qui ne perd pas d'énergie par rayonnement
+  examples: []
+  id: 731-03-53
+  language_code: fra
+  notes:
+  - 'Dans une fibre optique dont l’indice de réfraction `n` décroît radialement dans
+    le coeur, sauf éventuellement dans un creux central, un mode lié est caractérisé
+    par un déphasage  linéique longitudinal `β` tel que :
+
+
+    `n`(`a`)`k` ≤ `β` ≤ `n`(0)`k`
+
+
+    où :
+
+
+    `β` est la partie imaginaire (coefficient de phase) du coefficient de propagation
+    axiale,
+
+
+    `n`(`a`) est le rayon du coeur,
+
+
+    `n`(0) est l''indice sur l''axe,
+
+
+    `k` est le nombre d''onde angulaire dans le vide, égale au quotient de 2π par
+    la longueur d''onde `λ` dans le vide.'
+  - Les modes liés correspondent aux rayons guidés de l'optique géométrique.
+  - Dans une fibre optique multimodale, l'énergie des modes liés se propage principalement
+    dans le coeur.
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mode lié
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mode de propagation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mode guidé
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: e1424261-e9c3-5e87-a016-2654065e22f8
+status: valid

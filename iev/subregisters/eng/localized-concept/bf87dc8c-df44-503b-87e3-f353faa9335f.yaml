@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: '{{polarization, IEV:485-15-01}} caused by the resistance to the flow
+    of ions in the {{electrolyte, IEV:485-03-01}} and of electrons in the {{electrodes,
+    IEV:485-02-01}}, {{bipolar plates, IEV:485-06-04}}, and {{current collectors,
+    IEV:485-06-07}}'
+  examples: []
+  id: 485-15-03
+  language_code: eng
+  notes:
+  - The term "ohmic" refers to the fact that the voltage drop follows {{Ohm's law,
+    IEV:131-15-08}} proportional to the current with an ohmic resistance (called "{{internal
+    resistance, IEV:485-15-04}}" of the cell) as the proportionality constant.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ohmic polarization
+    normative_status: preferred
+    type: expression
+    usage_info: in fuel cells
+  - designation: IR loss
+    type: expression
+dateAccepted: 2020-02-01
+id: bf87dc8c-df44-503b-87e3-f353faa9335f
+status: valid

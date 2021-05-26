@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: rapport de la concentration en masse de vapeur d'eau `v` à la concentration
+    en masse de vapeur d'eau à saturation `v`~sat~, à la même température, soit `ψ`
+    = `v`/`v`~sat~
+  examples: []
+  id: 113-04-66
+  language_code: fra
+  notes:
+  - Dans les cas usuels, l’humidité relative peut être considérée comme égale à la
+    concentration relative en masse de vapeur d’eau.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: concentration relative en masse de vapeur d’eau
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: f8c7f195-06ee-5d96-83e8-b009acc96657
+status: valid

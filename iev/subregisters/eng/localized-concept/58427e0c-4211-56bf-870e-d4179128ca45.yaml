@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: termination of the ability of an item to perform a required function
+  examples: []
+  id: 845-27-105
+  language_code: eng
+  notes:
+  - After the failure the item is in fault condition.
+  - A failure is an event, as distinguished from a fault, which is a state.
+  - This concept as defined does not apply to items consisting of software only.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: failure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 58427e0c-4211-56bf-870e-d4179128ca45
+status: valid

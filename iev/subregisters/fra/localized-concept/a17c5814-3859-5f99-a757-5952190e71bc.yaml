@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - original: UIT-R Rec. 573 MOD
+      ref: ITU-R Recommendation 573
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: dans un ensemble de canaux radioélectriques ordonnés suivant leurs fréquences
+    centrales croissantes, qualifie une disposition des canaux dans laquelle les émissions
+    dans deux canaux adjacents ont des polarisations orthogonales
+  examples: []
+  id: 713-06-29
+  language_code: fra
+  notes:
+  - Deux canaux adjacents à polarisation alternée sont appelés parfois canaux alternés.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: à polarisation alternée
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+  - designation: alterné
+    part_of_speech: adj
+    type: expression
+dateAccepted: 1998-04-01
+id: a17c5814-3859-5f99-a757-5952190e71bc
+status: valid

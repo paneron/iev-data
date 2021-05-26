@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 702-08-02
+      original: 702-08-02
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1990-08-01
+  definition: a signal that may impair the reception of a wanted signal
+  examples: []
+  id: 161-01-03
+  language_code: eng
+  notes: []
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unwanted signal
+    normative_status: preferred
+    type: expression
+  - designation: undesired signal
+    type: expression
+dateAccepted: 1990-08-01
+id: 993bdbed-e57a-59a8-b13e-0152e9c503de
+status: valid

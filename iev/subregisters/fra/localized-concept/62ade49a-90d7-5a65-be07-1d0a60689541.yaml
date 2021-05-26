@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: rapport de modification généré dans le matériel par une concentration
+    connue de gaz ou de vapeur
+  examples: []
+  id: 426-24-57
+  language_code: fra
+  notes:
+  - Selon le contexte, ce terme peut faire référence à la variation minimale de la
+    concentration de gaz ou de vapeur que le matériel détecte.
+  - Une sensibilité élevée implique que les concentrations basses peuvent être mesurées.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sensibilité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détecteurs de gaz
+dateAccepted: 2018-11-17
+id: 62ade49a-90d7-5a65-be07-1d0a60689541
+status: valid

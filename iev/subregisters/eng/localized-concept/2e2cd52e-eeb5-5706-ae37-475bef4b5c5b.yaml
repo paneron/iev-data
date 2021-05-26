@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'element of a set containing the real numbers and other elements, which
+    may be represented by an ordered pair of real numbers (`a`, `b`), with following
+    properties: * the pair (`a`, 0) represents the real number `a`, * an addition
+    is defined by `( a_1 , b_1 ) + ( a_2 , b_2 ) = ( a_1 + a_2 , b_1 + b_2 )`, * a
+    multiplication is defined by `( a_1 , b_1 ) xx ( a_2 , b_2 ) = ( a_1 a_2 - b_1
+    b_2 , a_1 b_2 + a_2 b_1 )`'
+  examples: []
+  id: 102-02-09
+  language_code: eng
+  notes:
+  - All properties of real numbers (operations and limits) are extended to complex
+    numbers except the order relation.
+  - The complex number defined by the pair (`a`, `b`) is denoted by `c = a + j b`
+    where j is the imaginary unit ({{IEV 102-02-10, IEV:102-02-10}}) represented by
+    the pair (0, 1), `a` is the real part and `b` the imaginary part. A complex number
+    may also be expressed as `c = | c | ( cos phi + j sin phi ) = | c | e^(j phi)`
+    where `| c |` is a non-negative real number called modulus and `φ` a real number
+    called argument.
+  - In electrotechnology, a complex number is usually denoted by an underlined letter
+    symbol, for example `underset(_)(c)`.
+  - The set of complex numbers is denoted by ℂ (C with a vertical bar in the left
+    arc) or *C*. This set without zero is denoted by an asterisk to the symbol, for
+    example ℂ*.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: complex number
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 2e2cd52e-eeb5-5706-ae37-475bef4b5c5b
+status: valid

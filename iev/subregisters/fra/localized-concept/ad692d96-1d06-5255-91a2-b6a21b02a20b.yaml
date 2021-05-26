@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: nombre des {{états significatifs, IEV:702-05-21}} différents que peut
+    prendre un {{élément de signal, IEV:702-05-01}} en application d'un {{code, IEV:101-12-04}}
+  examples: []
+  id: 702-05-22
+  language_code: fra
+  notes:
+  - Des adjectifs tels que bivalent ou trivalent sont utilisés selon le nombre d’états
+    significatifs.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un élément de signal
+dateAccepted: 2018-11-17
+id: ad692d96-1d06-5255-91a2-b6a21b02a20b
+status: valid

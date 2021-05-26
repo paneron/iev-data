@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: transfert de {{charges électriques, IEV:113-02-10}} entre des corps
+    ayant des {{potentiels électriques, IEV:121-11-25}} différents lorsqu'ils sont
+    proches ou mis en contact direct
+  examples: []
+  id: 161-01-22
+  language_code: fra
+  notes:
+  - La littérature et l'enseignement font généralement référence à des transferts
+    de charges, bien qu'à proprement parler, des porteurs de charge ({{113-06-25,
+    IEV:113-06-25}}) sont transférés.
+  reviewDecisionEvent: published
+  terms:
+  - designation: décharge électrostatique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: DES
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bdb20d9d-0681-50f3-ab2f-4fee965e6587
+status: valid

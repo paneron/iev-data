@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: réseau de courbes isointensité
+  examples: []
+  id: 845-29-042
+  language_code: fra
+  notes:
+  - Le terme anglais "isocandela diagram" et le terme français "diagramme isocandela"
+    ne sont plus usités.
+  - Voir aussi "<a href="IEV845-25-091">courbe de répartition</a>".
+  - Cet article était numéroté 845-09-29 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: diagramme isointensité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: diagramme isocandela
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e601d534-a2a9-56ac-b7ca-d922f93f2852
+status: valid

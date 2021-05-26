@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: the theoretical Poisson traffic intensity that, when offered to a theoretical
+    circuit group, produces an overflow traffic intensity distribution with a mean
+    and variance equal to that of a given offered traffic
+  examples: []
+  id: 715-05-20
+  language_code: eng
+  notes:
+  - The concept of equivalent random traffic intensity makes it possible to take into
+    account traffic variance in an indirect way; the theoretical circuit group is
+    called "equivalent random circuit group".
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: equivalent random traffic intensity
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 717f1b1c-6da6-503f-9261-d1849b25b746
+status: valid

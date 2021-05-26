@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'ciel sans nuage dont la distribution relative de luminance est donnée
+    par la fonction de gradation de luminance `φ`(`Z`), qui associe la luminance d''un
+    élément de ciel à son angle zénithal, `Z`: `phi ( Z ) = 1 - e^(((- 0,32))/((cos
+    Z)))` si `0 <= Z (pi)/(2)`, et `phi ( Z ) = 1` si `Z = (pi)/(2)` (au niveau de
+    l''horizon)'
+  examples: []
+  id: 845-29-112
+  language_code: fra
+  notes:
+  - Pour des informations complémentaires, voir l'ISO 15469/CIE S 011, _Répartition
+    spatiale de la lumière du jour – Ciel général normalisé CIE._
+  - Cet article était numéroté 845-09-91 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: ciel serein normalisé CIE
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9c509d6f-4b6f-58ab-9984-79cddb02f615
+status: valid

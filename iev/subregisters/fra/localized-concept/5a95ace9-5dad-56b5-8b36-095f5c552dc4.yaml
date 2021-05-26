@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: panne due à une spécification inadéquate
+  examples: []
+  id: 192-04-10
+  language_code: fra
+  notes:
+  - Les pannes dues à la spécification proviennent d’erreurs lors de l’analyse et
+    de la définition des exigences, aboutissant à des documents de spécification qui
+    n’expriment pas les exigences ou les besoins implicites de l’utilisateur.
+  - Une panne due à la spécification peut être latente.
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne due à la spécification
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 5a95ace9-5dad-56b5-8b36-095f5c552dc4
+status: valid

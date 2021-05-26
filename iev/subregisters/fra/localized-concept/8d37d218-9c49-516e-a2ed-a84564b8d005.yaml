@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: déformation d'une plaquette non serrée, définie comme la différence
+    maximale entre un point de la surface avant et un plan de référence image::/assets/images/parts/561/561-fig27-fr.png[]
+    *Figure 27 – Diagramme schématique du gauchissement*
+  examples: []
+  id: 561-07-38
+  language_code: fra
+  notes:
+  - Le plan de référence est défini par trois points, comme indiqué en {{561-07-27,
+    IEV:561-07-27}}, Note 1 à l’article, énumération 2. Le gauchissement est une propriété
+    générale d’une plaquette et non pas de la surface exposée seule.
+  reviewDecisionEvent: published
+  terms:
+  - designation: gauchissement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8d37d218-9c49-516e-a2ed-a84564b8d005
+status: valid

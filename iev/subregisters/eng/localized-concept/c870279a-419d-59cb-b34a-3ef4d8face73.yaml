@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: overcurrent release which operates after a time-delay inversely dependent
+    upon the value of the overcurrent
+  examples: []
+  id: 441-16-35
+  language_code: eng
+  notes:
+  - Such a release may be designed so that the time-delay approaches a definite minimum
+    value for high values of overcurrent.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: inverse time-delay overcurrent release
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: c870279a-419d-59cb-b34a-3ef4d8face73
+status: valid

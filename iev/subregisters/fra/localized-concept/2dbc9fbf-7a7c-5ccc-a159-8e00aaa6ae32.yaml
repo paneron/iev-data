@@ -1,0 +1,44 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: relation `f` telle que, pour toute entité `a`, il y a exactement une
+    entité `b` à laquelle `a` est reliée par `f`
+  examples: []
+  id: 102-01-10
+  language_code: fra
+  notes:
+  - "Si `a` est reliée à `b` par la fonction `f`:\n\n\n\n* on dit que `f` est définie\
+    \ pour `a`,\n\n* `a` est un argument de la fonction `f`, \n\n* `b` est une valeur\
+    \ de la fonction `f`, généralement notée `f`(`a`).\n\nL’argument peut être une\
+    \ entité élémentaire, telle qu’un nombre, ou un ensemble ordonné d’entités élémentaires,\
+    \ et de même pour la valeur."
+  - 'Si `A` est l''ensemble de tous les arguments de la fonction `f` et `B` est un
+    ensemble contenant toutes les valeurs:  * on dit que `f` est une application de
+    `A` dans `B`, * `A` est le domaine de définition ou domaine de la fonction,  *
+    `B` est le domaine but ou codomaine de la fonction.'
+  - Le terme «fonction» peut être qualifié selon la nature de la valeur, par exemple
+    fonction réelle, fonction complexe, fonction vectorielle, ou selon la nature de
+    la relation, par exemple, fonction algébrique, fonction trigonométrique, fonction
+    hyperbolique.
+  - Le terme «opération» est employé dans le langage courant pour des fonctions élémentaires
+    telles que addition, soustraction, multiplication, division, ainsi que pour des
+    fonctions logiques.
+  - Le terme «opération» a d’autres sens en {{IEV 151-11-28, IEV:151-11-28}} et {{IEV
+    151-11-30, IEV:151-11-30}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: opération
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: mathématiques
+dateAccepted: 2018-11-17
+id: 2dbc9fbf-7a7c-5ccc-a159-8e00aaa6ae32
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: clamping in which the blanking level is maintained at a specified value
+  examples: []
+  id: 723-05-80
+  language_code: eng
+  notes:
+  - Where the line synchronizing signal is a pulse, black-level clamping takes place
+    in the back porch.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: black-level clamping
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: dfe960db-97ee-5a39-a1f2-3fcc76e4e967
+status: valid

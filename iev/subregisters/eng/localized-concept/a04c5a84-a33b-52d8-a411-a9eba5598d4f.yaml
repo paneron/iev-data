@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: assignment of item dependability requirements amongst constituent sub
+    items
+  examples: []
+  id: 192-11-04
+  language_code: eng
+  notes:
+  - Allocation (referred to as “apportionment and allocation” in some applications)
+    is a quantitative method applied to measures of characteristics, such as reliability,
+    maintainability and availability.
+  - Allocation is normally conducted with the aid of a model.
+  - See also reliability model ({{192-11-02, IEV:192-11-02}}) and reliability block
+    diagram ({{192-11-03, IEV:192-11-03}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: allocation
+    normative_status: preferred
+    type: expression
+    usage_info: of dependability requirements
+dateAccepted: 2015-02-01
+id: a04c5a84-a33b-52d8-a411-a9eba5598d4f
+status: valid

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quantité de {{catalyseur, IEV:485-01-01}} incorporée dans la {{cellule
+    élémentaire à combustible, IEV:485-08-01}} par unité de {{surface active, IEV:485-02-08}},
+    spécifiée soit séparément par {{anode, IEV:485-02-04}} ou {{cathode, IEV:485-02-05}},
+    soit par la charge combinée à l'anode et à la cathode
+  examples: []
+  id: 485-01-03
+  language_code: fra
+  notes:
+  - La charge en catalyseur est exprimée en g/m^2^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: charge en catalyseur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ec1939c-090c-564f-9950-faf08fb8ffcb
+status: valid

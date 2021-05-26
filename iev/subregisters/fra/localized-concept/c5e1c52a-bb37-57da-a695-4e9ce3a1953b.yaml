@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{oscillation, IEV:103-05-04}} non désirée produite dans l''équipement
+    sur une {{fréquence, IEV:103-06-02}} indépendante des fréquences de travail ou
+    des fréquences liées à la production des oscillations voulues'
+  examples: []
+  id: 161-06-08
+  language_code: fra
+  notes:
+  - Une oscillation parasite d'un {{émetteur radioélectrique, IEV:713-08-01}} peut
+    donner lieu à un {{rayonnement non essentiel, IEV:713-09-05}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: oscillation parasite
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c5e1c52a-bb37-57da-a695-4e9ce3a1953b
+status: valid

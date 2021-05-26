@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.40
+      link: https://webstore.iec.ch/publication/22781
+      original: IEC 62279:2015, 3.1.40
+      ref: IEC 62279:2015
+      relationship:
+        type: identical
+  dateAmended: 2017-11-01
+  definition: classification number which indicates the required degree of confidence
+    that an integrated system comprising hardware and software will meet its specified
+    safety requirements
+  examples: []
+  id: 821-12-67
+  language_code: eng
+  notes: []
+  reviewDate: 2017-11-01
+  reviewDecisionDate: 2017-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: system safety integrity level
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 7119a975-ac95-5165-9131-ff698d39b8a8
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: procédure analytique utilisée pour déterminer la présence ou l'absence
+    de {{substance, IEV:904-02-01}}s dans la partie ou section représentative d'un
+    produit, eu égard à la (aux) valeur(s) choisie(s) comme critère pour déterminer
+    la présence, l'absence de la substance ou la poursuite des essais
+  examples: []
+  id: 904-02-07
+  language_code: fra
+  notes:
+  - Si les valeurs obtenues par la méthode de détection ne sont pas concluantes, une
+    analyse supplémentaire ou d'autres mesures de suivi peuvent être nécessaires pour
+    la décision finale quant à la présence/absence de substances.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détection
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 733fdb51-d5b6-5f9f-85b3-afcf34b03c0b
+status: valid

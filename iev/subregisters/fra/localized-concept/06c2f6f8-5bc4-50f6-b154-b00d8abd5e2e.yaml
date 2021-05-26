@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: sortie qui peut être activée ou désactivée par l'application d'un signal
+    de commande d'entrée
+  examples: []
+  id: 561-03-40
+  language_code: fra
+  notes:
+  - En mode désactivé, l’impédance de sortie de la porte est définie sur un niveau
+    élevé permettant d’appliquer les signaux d’essai aux étapes suivantes.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sortie avec trois états
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 06c2f6f8-5bc4-50f6-b154-b00d8abd5e2e
+status: valid

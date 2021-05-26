@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: tension aux bornes d'une source idéale de tension
+  examples: []
+  id: 131-12-22
+  language_code: fra
+  notes:
+  - Pour une source de tension réelle, la tension de source est la tension électrique
+    entre les deux bornes en l’absence de courant électrique à travers la source.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension de source
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: force électromotrice
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 72c24fdd-a402-5225-aa19-1b0b9fcdd69a
+status: valid

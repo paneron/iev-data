@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: '2.4'
+      link: https://www.iso.org/standard/52195.html
+      original: ISO TS 80004-4:2011, 2.4, modified – In Note 1 to entry "are intended
+        to" has been replaced by "should".
+      ref: ISO/TS 80004-4:2011
+      relationship:
+        modification: In Note 1 to entry "are intended to" has been replaced by "should".
+        type: modified
+  dateAmended: 2018-04-01
+  definition: '{{nano-object, IEV:511-01-07}} with all three external dimensions in
+    the {{nanoscale, IEV:511-01-03}}'
+  examples: []
+  id: 511-01-12
+  language_code: eng
+  notes:
+  - If the lengths of the longest to the shortest axes of the nano-object differ significantly
+    (typically by more than three times), the terms {{nanofibre, IEV:511-01-10}} or
+    {{nanoplate, IEV:511-01-11}} should be used instead of the term nanoparticle.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nanoparticle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 3e151dd9-81bd-59e3-a4e6-b98b0b83e1b6
+status: valid

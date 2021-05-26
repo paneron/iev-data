@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: name identifying a host within the Internet
+  examples: []
+  id: 732-07-10
+  language_code: eng
+  notes:
+  - Historically, host names identified specific machines; today host names may identify
+    functions.
+  - In general a host name is a fully qualified domain name, for example, "www. iec.ch
+    " identifies a host in the domain " iec.ch ". If a host is addressed in the same
+    local domain, the name of this domain may be omitted.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: host name
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 259f6211-4e32-5798-844a-c6d773b6a679
+status: valid

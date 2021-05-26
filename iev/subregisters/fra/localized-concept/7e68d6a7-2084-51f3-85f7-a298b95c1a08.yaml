@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: liaison d'interdépendance entre les leviers de commande, ou les circuits
+    électriques de commande de différents appareils tels que aiguillages et signaux,
+    rendant impossible de les placer dans des positions n'assurant pas la sécurité
+  examples: []
+  id: 821-05-02
+  language_code: fra
+  notes:
+  - En anglais, le terme "interlocking" désigne également le lieu où sont réalisés
+    les enclenchements.
+  - En français, le terme "enclenchement" désigne également le blocage individuel
+    d’un appareil tel qu’un aiguillage.
+  reviewDecisionEvent: published
+  terms:
+  - designation: enclenchement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: en signalisation ferroviaire
+dateAccepted: 2018-11-17
+id: 7e68d6a7-2084-51f3-85f7-a298b95c1a08
+status: valid

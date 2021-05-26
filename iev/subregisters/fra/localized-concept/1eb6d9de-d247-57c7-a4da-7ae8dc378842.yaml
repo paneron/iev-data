@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: grandeur `alpha = (lambda)/((rho c_p))`, où `λ` est la conductivité
+    thermique, `ρ` est la masse volumique et `c`~`p`~ est la capacité thermique massique
+    à pression constante
+  examples: []
+  id: 113-04-53
+  language_code: fra
+  notes:
+  - L'unité SI cohérente de diffusivité thermique est le mètre carré par seconde,
+    m^2^/s.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: diffusivité thermique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 1eb6d9de-d247-57c7-a4da-7ae8dc378842
+status: valid

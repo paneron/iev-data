@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: quotient de la fonction représentée par la courbe spectrale d'un stimulus
+    de couleur, `φλ`(`λ`), par une valeur de référence fixe, `R` `phi ( lambda ) =
+    ((phi_(lambda) ( lambda )))/(R)`
+  examples: []
+  id: 845-23-004
+  language_code: fra
+  notes:
+  - La valeur de référence fixe, `R`, est habituellement la valeur maximale de la
+    courbe spectrale d'un stimulus de couleur.
+  - Cet article était numéroté 845-03-04 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: courbe spectrale relative d'un stimulus de couleur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: da7b58a0-1b6a-5778-8ddf-aad31ac7d4fe
+status: valid

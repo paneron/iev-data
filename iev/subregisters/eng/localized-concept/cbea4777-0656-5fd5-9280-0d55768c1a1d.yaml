@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.11
+      link: https://webstore.iec.ch/publication/6834
+      original: IEC 62321:2008, definition 3.1.11
+      ref: IEC 62321:2008
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: set of {{process, IEV:904-01-05}}es wherein the data needs, mandates
+    or limitations of a programme or project are specified, serving as criteria for
+    selecting appropriate methods to meet those needs in a cost-effective manner
+  examples: []
+  id: 904-02-09
+  language_code: eng
+  notes:
+  - The criteria may be published in {{regulations, IEV:901-02-10}}, technical guidance
+    documents, permits, work plans or enforcement orders.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: performance-based measurement system
+    normative_status: preferred
+    type: expression
+  - designation: PBMS
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: cbea4777-0656-5fd5-9280-0d55768c1a1d
+status: valid

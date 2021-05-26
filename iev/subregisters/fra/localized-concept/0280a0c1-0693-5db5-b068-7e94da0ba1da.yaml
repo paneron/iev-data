@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: affaiblissement de transmission habituellement exprimé en décibels qui
+    serait obtenu si les antennes étaient remplacées par des antennes isotropes placées
+    dans un milieu diélectrique parfait, homogène, isotrope et illimité, la distance
+    entre les antennes étant conservée
+  examples: []
+  id: 705-08-05
+  language_code: fra
+  notes:
+  - 'Si la distance d entre les antennes est beaucoup plus grande que la longueur
+    d''onde `λ`, l''affaiblissement d''espace libre est égal, en décibels, à:
+
+
+    `A_0 = 20 log ( ((4 pi d))/(lambda) )`'
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement d'espace libre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 0280a0c1-0693-5db5-b068-7e94da0ba1da
+status: valid

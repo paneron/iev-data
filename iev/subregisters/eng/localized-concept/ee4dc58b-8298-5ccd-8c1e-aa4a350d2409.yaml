@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: value of the detector input that produces an output equal to the root
+    mean square (RMS) noise output, for a stated {{frequency, IEV:103-06-02}} and
+    bandwidth of the measuring instrument
+  examples: []
+  id: 845-25-069
+  language_code: eng
+  notes:
+  - It is usual to consider a 1 Hz bandwidth, and this value is implied unless stated
+    otherwise.
+  - This entry was numbered 845-05-62 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: noise-equivalent input
+    normative_status: preferred
+    type: expression
+    usage_info: of a detector
+dateAccepted: 2020-12-01
+id: ee4dc58b-8298-5ccd-8c1e-aa4a350d2409
+status: valid

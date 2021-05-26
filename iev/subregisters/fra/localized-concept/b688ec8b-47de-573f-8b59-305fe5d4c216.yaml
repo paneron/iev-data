@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tenseur du deuxième ordre défini par une forme bilinéaire symétrique
+    `f ( U , V ) = f ( V , U )`
+  examples: []
+  id: 102-03-42
+  language_code: fra
+  notes:
+  - Les coordonnées d'un tenseur symétrique sont telles que `T_((i j)) = T_((j i))`.
+    Un exemple est le produit tensoriel d'un vecteur par lui-même.
+  reviewDecisionEvent: published
+  terms:
+  - designation: tenseur symétrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b688ec8b-47de-573f-8b59-305fe5d4c216
+status: valid

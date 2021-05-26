@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a network containing `n` nodes and in which a reference direction
+    is chosen for each branch, square matrix of order `n` where the element `a`~`ij`~
+    denotes the number of branches directed from node `i` to node `j`
+  examples: []
+  id: 131-13-20
+  language_code: eng
+  notes:
+  - The figure below gives a network and the corresponding adjacency matrix.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: adjacency matrix
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 6b7a8703-f635-5830-ac61-c2bea0532713
+status: valid

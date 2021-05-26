@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: function that attributes a scalar, a vector or a tensor, or an interrelated
+    set of such elements, to each point in a given region of the three-dimensional
+    Euclidean space
+  examples: []
+  id: 102-05-12
+  language_code: eng
+  notes:
+  - A field may represent a physical phenomenon such as an acoustic pressure field,
+    a gravity field, the Earth's magnetic field, an electromagnetic field.
+  - A field can be time-dependent.
+  - In English, the term "field" has also another meaning in mathematics (in French
+    "corps"), see {{IEV 102-02-18, IEV:102-02-18}}, Note 2.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: field
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 346f48a7-5841-5ec6-be22-4a1bf1702813
+status: valid

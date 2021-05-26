@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: time response of a linear time-invariant system, which initially is
+    in steady state `U`~0~, `V`~0~, produced by application of an impulse function
+    Δ`u`~δ~(`t`) = `K`~δ~·δ(`t`) to one of the input variables, where Δ`v`~δ~(`t`)
+    = `v`(`t`) – `V`~0~ and Δ`u`~δ~(`t`) = `u`(`t`) – `U`~0~
+  examples: []
+  id: 351-45-26
+  language_code: eng
+  notes: []
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: impulse response
+    normative_status: preferred
+    type: expression
+  - designation: Δ`v`~δ~(`t`)
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 29a6d651-e3e9-5c1b-afa8-4912c557ef1c
+status: valid

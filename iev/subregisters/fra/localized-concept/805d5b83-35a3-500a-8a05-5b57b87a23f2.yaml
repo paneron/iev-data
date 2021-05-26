@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: sous-ensemble d'un espace vectoriel ou d'un espace affine qui est un
+    espace vectoriel ou un espace affine, respectivement, pour le même ensemble de
+    scalaires
+  examples: []
+  id: 102-03-03
+  language_code: fra
+  notes:
+  - Les sous-espaces stricts d'un espace vectoriel ou affine à `n` dimensions ont
+    des dimensions strictement inférieures à `n`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: sous-espace
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 805d5b83-35a3-500a-8a05-5b57b87a23f2
+status: valid

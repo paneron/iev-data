@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: appareillage de commande qui fait fonctionner la lampe électrique uniquement
+    en mode de fonctionnement de secours ou en mode essai et qui ne prend en charge
+    ni les commandes d'exécution du flux lumineux ni les commandes de configuration
+    correspondantes
+  examples: []
+  id: 845-28-050
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: appareillage de commande non permanent
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2607cac7-46b1-5a05-9ab9-8b66634fa9d9
+status: valid

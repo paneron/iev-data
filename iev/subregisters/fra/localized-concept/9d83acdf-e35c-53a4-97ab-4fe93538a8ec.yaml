@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: '4'
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 4, modifié – Ajout d’informations utiles pour le
+        contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: '{{préfixe binaire, IEV:112-01-27}} utilisé pour former le multiple
+    2^70^ d''une unité de mesure'
+  examples:
+  - Un zébibit = 1 Zibit = (1 024)^7^ bit.
+  id: 171-02-20
+  language_code: fra
+  notes:
+  - Le préfixe zébi a pour origine zettabinaire, (2^10^)^7^, dérivé du préfixe SI
+    zetta, (10^3^)^7^.
+  reviewDecisionEvent: published
+  terms:
+  - designation: zébi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9d83acdf-e35c-53a4-97ab-4fe93538a8ec
+status: valid

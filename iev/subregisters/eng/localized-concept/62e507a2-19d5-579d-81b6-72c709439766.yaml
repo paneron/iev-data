@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: colour space defined by three colorimetric coordinates
+  examples: []
+  id: 845-23-042
+  language_code: eng
+  notes:
+  - CIE `XYZ` <a href="IEV845-23-038">tristimulus values</a> are colorimetric coordinates,
+    as are `RGB` values that have an exact and invertible mathematical relationship
+    to CIE `XYZ` tristimulus values.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: colorimetric colour space
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 62e507a2-19d5-579d-81b6-72c709439766
+status: valid

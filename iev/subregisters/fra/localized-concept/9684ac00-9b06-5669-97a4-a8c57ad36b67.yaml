@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.28
+      link: https://webstore.iec.ch/publication/5397
+      original: IEC 61375-1:2012, 3.1.28
+      ref: IEC 61375-1:2012
+      relationship:
+        type: identical
+  definition: topologie de liaison en série des nœuds selon laquelle deux nœuds sont
+    reliés chacun à un seul autre nœud, les nœuds restants étant tous reliés à deux
+    autres nœuds (c'est-à-dire reliés sous la forme d'une ligne)
+  examples: []
+  id: 811-37-51
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: topologie linéaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9684ac00-9b06-5669-97a4-a8c57ad36b67
+status: valid

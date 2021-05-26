@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{télécommunication, IEV:701-01-05}} {{unilatérale, IEV:701-03-18}}
+    à l''intention d''un grand nombre de destinataires qui disposent des installations
+    de réception appropriées, effectuée par des moyens radioélectriques ou par des
+    réseaux de câbles'
+  examples:
+  - Radiodiffusion sonore, radiodiffusion visuelle, {{vidéographie diffusée, IEV:701-01-18}},
+    diffusion de signaux horaires ou d'avis aux navigateurs, diffusion des actualités
+    par les agences de presse.
+  id: 701-01-32
+  language_code: fra
+  notes:
+  - La télédiffusion est une {{communication point à zone, IEV:713-02-16}}.
+  - Lorsque le mot "broadcasting" est employé en anglais sans qualificatif, il convient
+    de considérer, sauf indication contraire du contexte, que sa signification est
+    celle de "télédiffusion par ondes radioélectriques".
+  reviewDecisionEvent: published
+  terms:
+  - designation: télédiffusion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c5a3e918-86bc-543c-96ed-9882e203acf0
+status: valid

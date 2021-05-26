@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'durée de l''intervalle de temps compris entre l''instant où une variation
+    en échelon est appliquée à l''une des variables d''entrée, et l''instant où la
+    variable de sortie atteint pour la première fois un pourcentage spécifié de la
+    différence entre ses valeurs de régime établi final et initial VOIR: Figure 5.'
+  examples: []
+  id: 351-45-36
+  language_code: fra
+  notes:
+  - 'Cet article était numéroté 351-24-28 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig5.png[Figure 5 - Typical step responses
+    of a system; Réponses à un échelon typiques d''un système]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de réponse à un échelon
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: a2bc8482-e78a-55ed-8e16-55e2ee2433b4
+status: valid

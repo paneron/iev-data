@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: pour un mode et une fréquence donnés dans une ligne de transmission,
+    quotient du logarithme népérien du rapport d'une composante spécifiée d'un vecteur
+    de champ dans une section droite à la valeur correspondante dans une autre section
+    droite, par la distance entre ces deux sections dans la direction de propagation,
+    lorsque la ligne est infinie ou terminée sur son impédanсe caractéristique
+  examples: []
+  id: 726-05-09
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposant (linéique) de propagation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: constante de propagation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: d3287dc6-2666-5b7a-b232-9a693133566e
+status: valid

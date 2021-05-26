@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: 'effet quantique macroscopique selon lequel, lorsqu''une tension électrique
+    `U` est appliquée à une jonction Josephson, un courant alternatif de paires de
+    Cooper circule par effet tunnel à travers la jonction, induisant l''émission d''un
+    rayonnement électromagnétique dont la fréquence `f` est proportionnelle à la tension
+    appliquée: `f` = `K`~j~`U` où `K`~j~ = 2`e`/`h` est la constante de Josephson,
+    `e` étant la charge électrique élémentaire et `h` la constante de Planck'
+  examples: []
+  id: 121-13-26
+  language_code: fra
+  notes:
+  - L’effet Josephson alternatif est un phénomène réversible. Lorsqu’une jonction
+    Josephson est irradiée par un rayonnement électromagnétique de fréquence `f`,
+    la tension à ses bornes peut prendre des valeurs quantifiées égales à `nf`/`K`~j~,
+    où `n` est un entier positif.
+  - La valeur de la constante de Josephson est 483 597,891(12) × 10^9^ Hz V^-1^ (CODATA,
+    2006).
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: effet Josephson alternatif
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-08-01
+id: a8d3ecf1-b7ca-5a31-89a0-87e64d0616a5
+status: valid

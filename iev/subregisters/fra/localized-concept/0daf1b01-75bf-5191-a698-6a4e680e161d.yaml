@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: '3.9'
+      original: Guide CEI 109:2012, 3.9
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: compilation et évaluation des {{éléments entrants, IEV:901-07-05}},
+    des {{éléments sortants, IEV:901-07-06}} et des {{impacts environnementaux, IEV:901-07-03}}
+    potentiels d'un système de produits au cours de son {{cycle de vie, IEV:901-07-12}}
+    [ISO 14040:2006, définition 3.2]
+  examples: []
+  id: 901-07-13
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: analyse du cycle de vie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ACV
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0daf1b01-75bf-5191-a698-6a4e680e161d
+status: valid

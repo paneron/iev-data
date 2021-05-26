@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - link: https://webstore.iec.ch/publication/172
+      original: voir la CEI 60050-131
+      ref: IEC 60050-131
+      relationship:
+        type: related
+  dateAmended: 2001-07-01
+  definition: dispositif à deux bornes, ou à plus de deux bornes lorsque le comportement,
+    vu de deux bornes formant une paire, est seul pris en considération
+  examples: []
+  id: 151-12-13
+  language_code: fra
+  notes:
+  - En français, le terme "bipôle" est aussi employé pour un élément de circuit ou
+    un réseau à deux bornes en théorie des circuits.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: bipôle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: dipôle
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 0fdafac7-5689-5e3c-b983-67ac0d6f7b8a
+status: valid

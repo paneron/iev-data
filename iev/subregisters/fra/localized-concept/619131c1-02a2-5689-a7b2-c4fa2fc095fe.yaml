@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: paramètre d'un signal qui représente des informations selon une règle
+  examples: []
+  id: 351-41-18
+  language_code: fra
+  notes:
+  - Dans le cas de nombreux signaux, la valeur d’une grandeur physique donnée est
+    identique au paramètre informationnel. Il est donc courant, dans un but de simplicité,
+    de parler de la “valeur d’un signal”.
+  - Pour un signal à courant alternatif modulé en amplitude, le paramètre informationnel
+    du signal est la relation entre l’amplitude réelle par rapport à l’amplitude qu’aurait
+    la tension sans modulation de l’amplitude. Pour un signal impulsionnel modulé
+    en durée ou en position, la durée ou le déplacement de chaque impulsion pendant
+    la période d’impulsion constitue le paramètre informationnel du signal.
+  - Cet article était numéroté 351-21-52 dans la CEI 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: paramètre informationnel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 619131c1-02a2-5689-a7b2-c4fa2fc095fe
+status: valid

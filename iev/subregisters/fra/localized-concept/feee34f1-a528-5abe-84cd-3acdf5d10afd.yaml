@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: situation qui peut se produire pendant l'exécution d'un {{programme
+    d'ordinateur, IEV:171-05-05}}, qui peut provoquer un écart par rapport à la séquence
+    d'exécution normale, et pour laquelle il existe des moyens permettant de la traiter
+  examples: []
+  id: 171-05-70
+  language_code: fra
+  notes:
+  - Une exception peut provenir d’une erreur telle que la division par zéro ou une
+    adresse manquante.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exception
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: feee34f1-a528-5abe-84cd-3acdf5d10afd
+status: valid

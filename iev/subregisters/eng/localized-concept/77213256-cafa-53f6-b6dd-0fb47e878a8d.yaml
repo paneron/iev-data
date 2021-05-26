@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: host computer that connects two separate computer networks having different
+    address spaces
+  examples: []
+  id: 732-06-02
+  language_code: eng
+  notes:
+  - 1 – A dual-homed host can provide security functions as a firewall.
+  - '2 – See Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-02en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dual-homed host
+    normative_status: preferred
+    type: expression
+  - designation: dual-homed gateway
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 77213256-cafa-53f6-b6dd-0fb47e878a8d
+status: valid

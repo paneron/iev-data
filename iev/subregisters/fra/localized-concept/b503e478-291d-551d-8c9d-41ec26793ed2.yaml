@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: récepteur photoélectrique qui utilise la variation de conductivité électrique
+    produite par l'absorption d'un <a href="IEV845-21-002">rayonnement optique</a>
+  examples: []
+  id: 845-25-042
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: cellule photoconductrice
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: photorésistance
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b503e478-291d-551d-8c9d-41ec26793ed2
+status: valid

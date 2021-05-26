@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the {{speed of light in vacuum, IEV:113-01-34}} and the
+    speed of light in a medium
+  examples: []
+  id: 845-24-109
+  language_code: eng
+  notes:
+  - The value of the refractive index can depend on the {{frequency, IEV:103-06-02}},
+    polarization, and direction.
+  - The refractive index is expressed by `n` = `c`~0~/`c,` where `c`~0~ is the speed
+    of light in vacuum and `c` is the speed of light in the medium.
+  - See also "<a href="IEV845-24-111">complex refractive index</a>.
+  - The refractivity is expressed by `n` − 1, where `n` is refractive index.
+  - The refractive index has unit one.
+  - This entry was numbered 845-04-101 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: refractive index
+    normative_status: preferred
+    type: expression
+  - designation: '`n`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 3d556b60-1bc1-5370-8d41-1c808d92752f
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1996-12-01
+  definition: rapport, exprimé en décibels, du niveau de référence de sortie au niveau
+    de sortie pondéré dû au bruit après effacement et application de la polarisation
+    de référence
+  examples: []
+  id: 806-15-74
+  language_code: fra
+  notes:
+  - La pondération fréquentielle utilisée devrait toujours être précisée; dans le
+    cas contraire, la pondération fréquentielle "A" sera sous-entendue.
+  reviewDate: 1996-12-01
+  reviewDecisionDate: 1996-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport signal sur bruit de polarisation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 0de02b7f-7294-59ff-bb86-ffc4448f9ffc
+status: valid

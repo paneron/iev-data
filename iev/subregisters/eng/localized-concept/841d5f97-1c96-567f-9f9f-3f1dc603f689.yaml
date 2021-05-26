@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: event in which a dormant fault gives rise to an error
+  examples: []
+  id: 192-03-21
+  language_code: eng
+  notes:
+  - A dormant fault becomes active in response to a specific trigger ({{192-03-23,
+    IEV:192-03-23}}), and may revert to being dormant once the trigger is removed.
+  - The error so caused may propagate and lead to a failure observed at the system
+    boundary, unless this is prevented by error recovery ({{192-10-16, IEV:192-10-16}}).
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: activation
+    normative_status: preferred
+    type: expression
+    usage_info: of a dormant fault
+dateAccepted: 2015-02-01
+id: 841d5f97-1c96-567f-9f9f-3f1dc603f689
+status: valid

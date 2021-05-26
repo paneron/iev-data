@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température la plus élevée qui en service et dans les conditions les
+    plus sévères (mais dans les tolérances spécifiées), peut être atteinte par toute
+    partie ou surface d'un {{Matériel Ex, IEV:426-01-14}}
+  examples: []
+  id: 426-01-04
+  language_code: fra
+  notes:
+  - Pour les Matériels Ex situés dans une atmosphère explosive gazeuse, cette température
+    peut survenir sur un composant interne ou sur la surface externe de l'enveloppe,
+    en fonction du Mode de Protection employé.
+  - Pour les Matériels Ex situés dans une atmosphère explosive de poussière, cette
+    température peut survenir sur la surface externe de l'enveloppe et peut comprendre
+    une couche définie de poussière.
+  reviewDecisionEvent: published
+  terms:
+  - designation: température maximale de surface
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bb1f6aa1-56a7-5b20-9188-ffefb0583733
+status: valid

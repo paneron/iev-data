@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'opération effectuée sur un ensemble, attribuant un élément unique de
+    l''ensemble à tout couple ordonné d''éléments `a` et `b` de l''ensemble, avec
+    les propriétés suivantes: * associativité: `a * ( b * c ) = ( a * b ) * c`, où
+    `c` est aussi un élément de l''ensemble, * si une addition est effectuée sur l''ensemble,
+    distributivité: `a * ( b + c ) = a * b + a * c` et `( a + b ) * c = a * c + b
+    * c`'
+  examples: []
+  id: 102-01-18
+  language_code: fra
+  notes:
+  - Une multiplication est définie pour les nombres entiers naturels et étendue à
+    d'autres classes de nombres et à des entités mathématiques telles que polynômes
+    et matrices. La multiplication est aussi définie pour les grandeurs et les unités,
+    même si elles ne sont pas de même nature de sorte que l'addition ne peut pas être
+    définie.
+  - Une multiplication n'est pas nécessairement commutative, par exemple dans le cas
+    des matrices.
+  - Chaque élément dans une multiplication de deux éléments ou plus est appelé un
+    facteur. Le terme «facteur» est aussi employé pour le quotient de deux grandeurs
+    de même nature (voir {{IEV 112-01-04, IEV:112-01-04}}). Dans la multiplication
+    de deux éléments, le premier est appelé «multiplicande» et le deuxième «multiplicateur».
+  - La multiplication des entités `a` et `b` est exprimée par les mots «`a` multiplié
+    par `b`» ou «`a` fois `b`» et est notée `a` ⋅ `b`, `a` × `b`, ou `ab`. Le symbole
+    ∏ est utilisé pour noter des multiplications successives, par exemple, `a`~2~
+    ⋅ `a`~3~ ⋅ `a`~4~ ⋅ `a`~5~ ⋅ `a`~6~ ⋅ `a`~7~ est noté `prod_((i = 2))^7 a_i`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: multiplication
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 274150ab-a3ad-5ee4-831d-f590d9004dec
+status: valid

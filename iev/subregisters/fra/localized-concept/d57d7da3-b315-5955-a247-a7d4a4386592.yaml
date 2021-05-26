@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2007-04-01
+  definition: quotient du coefficient de température de la perméabilité par la perméabilité
+    à la température `Θ` `alpha_F = ((alpha_(mu)))/((mu_(Theta))) = ((mu_(Theta) -
+    mu_((ref))))/((mu_(Theta) mu_((ref)) ( Theta - Theta_((ref)) )))` ou `alpha_F
+    = ((alpha_(mu)))/((mu_(ref))) = ((mu_(Theta) - mu_((ref))))/((mu_(ref)^2 ( Theta
+    - Theta_((ref)) )))` si `µ`~`Θ`~ et `µ`~ref~ diffèrent de manière insignifiante
+  examples: []
+  id: 221-02-49
+  language_code: fra
+  notes:
+  - 'Le facteur de température de la perméabilité est une propriété du matériau qui
+    permet de calculer le coefficient de température de la perméabilité effective
+    `α`~`µ`e~ en multipliant `α`~F~ par `µ`~e~:
+
+
+    `alpha_((mu e)) = alpha_F * mu_((e^( * )))`'
+  reviewDate: 2007-04-01
+  reviewDecisionDate: 2007-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de température de la perméabilité
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2007-04-01
+id: d57d7da3-b315-5955-a247-a7d4a4386592
+status: valid

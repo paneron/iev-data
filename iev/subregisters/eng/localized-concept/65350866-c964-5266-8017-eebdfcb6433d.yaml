@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-04-01
+  definition: for any point along a given direction in the far-field region of a transmitting
+    antenna, the product of the distance from the antenna and the electric field vector
+    produced by the antenna at that point
+  examples: []
+  id: 712-02-10
+  language_code: eng
+  notes:
+  - The field strength-distance product depends on the direction but not on the distance.
+    Its magnitude expressed in volts is numerically equal to the magnitude of the
+    field strength at a distance of 1 km expressed in millivolts per meter.
+  - The field strength-distance product depends on the electrical characteristics
+    of the antenna and the power fed to it.
+  - The term "cymomotive force" is used in the International Radio Consultative Committee
+    (CCIR).
+  reviewDate: 1992-04-01
+  reviewDecisionDate: 1992-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: field strength-distance product
+    normative_status: preferred
+    type: expression
+  - designation: cymomotive force
+    type: expression
+  - designation: c.m.f.
+    type: expression
+dateAccepted: 1992-04-01
+id: 65350866-c964-5266-8017-eebdfcb6433d
+status: valid

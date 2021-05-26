@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-12-01
+  definition: dispositif automatique destiné à commander le réenclenchement d'un ou
+    de plusieurs disjoncteurs, après fonctionnement de la protection du circuit correspondant
+  examples: []
+  id: 448-16-02
+  language_code: fra
+  notes:
+  - 'Si la durée d''ouverture avant réenclenchement a de l''importance, il convient
+    de la mentionner après le terme. Le terme peut aussi être précisé comme rapide,
+    lent, différé, selon l''application.
+
+
+    Exemple: Dispositif automatique de réenclenchement avec une durée d''ouverture
+    avant réenclenchement de 0,5 s.
+
+
+    Voir figure 448-11.
+
+
+    image::/assets/images/parts/448/448-fig11-fr.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: dispositif automatique de réenclenchement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réenclencheur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 03a64191-593d-5f53-8a43-936834679d1f
+status: valid

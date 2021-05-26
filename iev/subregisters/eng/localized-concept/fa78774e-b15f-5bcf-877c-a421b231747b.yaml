@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'a tariff in which the kilowatthour rate applicable to all the kilowatthours
+    consumed varies according to the level of consumption during the period specified
+    in the tariff Example: all the kilowatthours at a kWh rate `p`~1~ if the monthly
+    consumption does not exceed 100 kWh, all the kilowatthours at a kWh rate `p`~2~
+    if the monthly consumption is between 101 and 200 kWh, all the kilowatthours at
+    a kWh rate `p`~3~ if the monthly consumption exceeds 200 kWh.'
+  examples: []
+  id: 691-05-12
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: step tariff
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: fa78774e-b15f-5bcf-877c-a421b231747b
+status: valid

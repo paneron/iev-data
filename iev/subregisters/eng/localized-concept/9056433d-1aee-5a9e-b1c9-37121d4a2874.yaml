@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: under sinusoidal conditions, circuit-theory theorem stating that the
+    voltage across a passive linear two-terminal network connected to any two terminals
+    of a linear network is equal to the short-circuit current between the two terminals
+    before the connection divided by the sum of the admittance of the two-terminal
+    network and the admittance of the network seen from the two terminals before the
+    connection
+  examples: []
+  id: 131-15-14
+  language_code: eng
+  notes:
+  - The Norton theorem can be generalized to non-sinusoidal conditions.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Norton theorem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 9056433d-1aee-5a9e-b1c9-37121d4a2874
+status: valid

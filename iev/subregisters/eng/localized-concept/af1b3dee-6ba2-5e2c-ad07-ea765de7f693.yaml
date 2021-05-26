@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: regularly transmitting device used to modify the absolute flux level
+    (radiant or luminous) or <a href="IEV845-21-030">relative spectral distribution</a>,
+    or both, of the radiation passing through it
+  examples: []
+  id: 845-24-113
+  language_code: eng
+  notes:
+  - A distinction is made between selective filters and non-selective filters or neutral
+    filters according to whether they do or do not alter the relative spectral distribution,
+    of the radiation. A selective filter that makes a significant change in the chromaticity
+    of the radiation is called a colour filter; one that alters the <a href="IEV845-21-029">spectral
+    distribution</a> but, because of metamerism, transmits radiation of nearly the
+    same chromaticity as that of the incident radiation, can be called a grey filter.
+  - This entry was numbered 845-04-105 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: filter
+    normative_status: preferred
+    type: expression
+  - designation: optical filter
+    type: expression
+dateAccepted: 2020-12-01
+id: af1b3dee-6ba2-5e2c-ad07-ea765de7f693
+status: valid

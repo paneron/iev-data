@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: fonctions `bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )` dans
+    le système de référence colorimétrique CIE 1931 ou `bar x_((10)) ( lambda ) ,
+    bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )` dans le système de référence
+    colorimétrique CIE 1964
+  examples: []
+  id: 845-23-047
+  language_code: fra
+  notes:
+  - Voir aussi "<a href="IEV845-23-048">observateur de référence colorimétrique CIE</a>",
+    "<a href="IEV845-23-049">observateur de référence colorimétrique CIE 1931</a>"
+    et "<a href="IEV845-23-050">observateur de référence colorimétrique CIE 1964</a>".
+  - Voir aussi CIE 15, `Colorimetry`.
+  - 'Voir aussi ISO/CIE 11664-1, _Colorimétrie – Partie 1: Observateurs CIE de référence
+    pour la colorimétrie_.'
+  - Cet article était numéroté 845-03-30 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonctions colorimétriques CIE
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: adde0d6c-4963-54a1-9b51-8a5981cf138a
+status: valid

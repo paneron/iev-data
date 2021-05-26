@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: for a two-terminal-pair network, matrix expressing the dependence of
+    the input voltage and output current on the input current and output voltage
+  examples: []
+  id: 131-14-29
+  language_code: eng
+  notes:
+  - Names and symbols for the elements of the `H`-matrix are given in IEC 60027-2.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: '`H`-matrix'
+    normative_status: preferred
+    type: expression
+  - designation: '*`H`*'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 3e5b5117-96da-56d2-b918-ef24165b948b
+status: valid

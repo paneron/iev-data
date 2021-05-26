@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: style de mise en correspondance de valeurs chromatiques d'une description
+    d'image à une autre
+  examples: []
+  id: 845-32-063
+  language_code: fra
+  notes:
+  - Dans un profil ICC, le but de rendu identifie le sous-ensemble du profil à utiliser
+    pour la mise en correspondance des valeurs chromatiques dans un cas particulier.
+  - Voir aussi "<a href="IEV845-32-048">format de fichier ICC</a>".
+  reviewDecisionEvent: published
+  terms:
+  - designation: visée du rendu
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 36768aa5-4466-5be0-a1c1-933d2ef0f3fd
+status: valid

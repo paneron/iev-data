@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: état d'une entité logicielle qui l'empêche de fonctionner tel que requis
+  examples: []
+  id: 192-04-02
+  language_code: fra
+  notes:
+  - Les pannes logicielles sont des pannes dues à la spécification, à la conception,
+    à la programmation, à la compilation, ou des pannes introduites lors de la maintenance
+    logicielle.
+  - Une panne logicielle peut être dormante tant qu’elle n’a pas été activée par un
+    déclencheur ({{192-03-23, IEV:192-03-23}}) particulier.
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne logicielle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bogue
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ea7d7287-83a6-57b9-b655-dcc9ae95f73e
+status: valid

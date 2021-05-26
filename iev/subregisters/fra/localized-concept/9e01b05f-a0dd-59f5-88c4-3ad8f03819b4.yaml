@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: pour un champ vectoriel *`U`* qui est donné en tout point d'une surface
+    S délimitée par une courbe fermée orientée C, théorème énonçant que l'intégrale
+    de surface étendue à S du rotationnel du champ *`U`* est égal à l'intégrale curviligne
+    de ce champ le long de la courbe C `underset(S)( ∬ ) rot U * e_n d A = underset(C)(
+    oint ) U * d r` où *`e`*~n~d`A` est l'élément vectoriel de surface et d*`r`* est
+    l'élément vectoriel d'arc
+  examples: []
+  id: 102-05-31
+  language_code: fra
+  notes:
+  - L'orientation de la surface S par rapport à la courbe C est choisie de façon que,
+    en tout point de la courbe, l'élément vectoriel d'arc, le vecteur unité normal
+    à la surface qui détermine son orientation, et le vecteur unité normal à ces deux
+    vecteurs et orienté vers l'extérieur de la courbe, forment un trièdre direct ou
+    rétrograde selon l'orientation de l'espace.
+  - Le théorème de Stokes peut être généralisé à l'espace euclidien à `n` dimensions.
+  - En magnétostatique, le théorème de Stokes est appliqué pour exprimer que le flux
+    magnétique à travers la surface S est égal à l'intégrale curviligne du potentiel
+    vecteur magnétique le long de la courbe C. Cette intégrale curviligne définit
+    le flux totalisé. Voir {{IEV 121-11-24, IEV:121-11-24}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: théorème de Stokes
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: théorème d'Ampère-Stokes
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e01b05f-a0dd-59f5-88c4-3ad8f03819b4
+status: valid

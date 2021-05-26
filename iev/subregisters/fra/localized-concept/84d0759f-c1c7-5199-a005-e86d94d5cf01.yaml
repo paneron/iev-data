@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température la plus basse du liquide à laquelle, dans des conditions
+    d'essai spécifiées, un liquide produit des vapeurs en quantité telle qu'elles
+    sont en mesure de former un mélange vapeur/air inflammable
+  examples: []
+  id: 426-02-14
+  language_code: fra
+  notes:
+  - Le terme abrégé "FP" est dérivé du terme anglais développé correspondant "flash
+    point".
+  reviewDecisionEvent: published
+  terms:
+  - designation: point d'éclair
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: atmosphères explosives
+  - designation: FP
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 84d0759f-c1c7-5199-a005-e86d94d5cf01
+status: valid

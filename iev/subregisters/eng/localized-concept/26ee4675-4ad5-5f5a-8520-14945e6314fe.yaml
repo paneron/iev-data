@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: 'a time-of-day tariff comprising two different kilowatthour rates applicable
+    according to the hours of the day Example: rate `p`~1~ per kWh during the night,
+    rate `p`~2~ per kWh during the day.'
+  examples: []
+  id: 691-06-02
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: two-rate time-of-day tariff
+    normative_status: preferred
+    type: expression
+  - designation: day/night tariff
+    type: expression
+dateAccepted: 2021-01-01
+id: 26ee4675-4ad5-5f5a-8520-14945e6314fe
+status: valid

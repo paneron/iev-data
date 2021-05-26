@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.4'
+      original: Guide IEC 109:2012, 3.4
+      ref: IEC Guide 109:2012
+      relationship:
+        type: identical
+  definition: élément des activités ou des produits d'une {{organisation, IEV:901-03-02}}
+    susceptibles d'interagir avec l'{{environnement, IEV:904-01-01}}
+  examples: []
+  id: 904-01-02
+  language_code: fra
+  notes:
+  - Un aspect environnemental significatif a, ou peut avoir, un {{impact environnemental,
+    IEV:904-01-03}} significatif.
+  reviewDecisionEvent: published
+  terms:
+  - designation: aspect environnemental
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 51ebca58-ce94-5a20-afae-edcdbe09e6ea
+status: valid

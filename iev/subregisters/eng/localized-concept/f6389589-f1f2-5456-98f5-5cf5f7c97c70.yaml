@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: non-negative real number `| c |`, the square of which is equal to the
+    product of a complex number `c = a + j b` and its conjugate `| c | = sqrt(c *
+    c *) = sqrt(a^2 + b^2)`
+  examples: []
+  id: 102-02-16
+  language_code: eng
+  notes:
+  - The concept of modulus may be applied to complex scalar quantities.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: modulus
+    normative_status: preferred
+    type: expression
+    usage_info: of a complex number
+dateAccepted: 2008-08-01
+id: f6389589-f1f2-5456-98f5-5cf5f7c97c70
+status: valid

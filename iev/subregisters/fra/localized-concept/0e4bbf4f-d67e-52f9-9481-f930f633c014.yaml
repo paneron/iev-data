@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{processeur, IEV:171-04-01}} capable d''exécuter des instructions
+    dont les {{opérandes, IEV:171-03-04}} sont des tableaux de données et non seulement
+    des éléments de données isolés'
+  examples: []
+  id: 171-04-13
+  language_code: fra
+  notes:
+  - Dans le cas particulier où un processeur vectoriel opère sur des éléments isolés,
+    ceux-ci sont désignés sous le nom de "scalaires".
+  reviewDecisionEvent: published
+  terms:
+  - designation: processeur vectoriel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0e4bbf4f-d67e-52f9-9481-f930f633c014
+status: valid

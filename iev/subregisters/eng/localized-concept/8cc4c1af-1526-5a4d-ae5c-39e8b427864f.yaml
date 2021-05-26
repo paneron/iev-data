@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: duration (over which the threshold power is averaged) during which energy
+    deposited by the spark accumulates in a small volume of gas around it without
+    significant thermal dissipation
+  examples: []
+  id: 426-04-62
+  language_code: eng
+  notes:
+  - For times shorter than the thermal initiation time the total energy deposited
+    by the spark will determine whether or not ignition occurs. For increasingly longer
+    times, the power or rate at which energy is deposited becomes the determining
+    factor for ignition.
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: thermal initiation time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: 8cc4c1af-1526-5a4d-ae5c-39e8b427864f
+status: valid

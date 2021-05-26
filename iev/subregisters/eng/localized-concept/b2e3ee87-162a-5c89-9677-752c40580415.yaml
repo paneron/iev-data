@@ -1,0 +1,41 @@
+data:
+  authoritativeSource:
+  - - clause: 13-34
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-34, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Addition of information useful for the context of the IEV, and
+          adaptation to the IEV rules
+        type: modified
+  classification: Preferred
+  dateAmended: 2019-03-01
+  definition: '{{conditional entropy, IEV:171-07-23}} of a specific set of messages
+    `Y` at a message sink given a specific set of messages `X` at a message source
+    connected to the message sink by a specific channel'
+  examples: []
+  id: 171-07-25
+  language_code: eng
+  notes:
+  - '`H_( - ) ( Y | X ) = H_( + ) ( X | Y ) + H ( Y ) - H ( X )` where `H_( + ) (
+    X | Y )` is {{equivocation, IEV:171-07-24}} and `H` is {{entropy, IEV:171-07-15}}.'
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: irrelevance
+    normative_status: preferred
+    type: expression
+  - designation: prevarication
+    normative_status: preferred
+    type: expression
+  - designation: spread
+    normative_status: admitted
+    type: expression
+  - designation: '`H_( - ) ( Y | X )`'
+    international: true
+    type: symbol
+dateAccepted: 2019-03-01
+id: b2e3ee87-162a-5c89-9677-752c40580415
+status: valid

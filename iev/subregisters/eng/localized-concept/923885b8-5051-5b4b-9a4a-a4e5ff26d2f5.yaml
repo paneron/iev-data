@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: for a system of elementary entities distributed in space, qualifies
+    the length, the area, or the volume of an element of space, all the geometrical
+    dimensions of which are small compared with those of the system under consideration
+    but sufficiently large for the element of space to contain a large number of elementary
+    entities; qualifies also an extensive quantity when summed for all elementary
+    entities within such an element of space
+  examples: []
+  id: 121-11-06
+  language_code: eng
+  notes:
+  - The elementary entities can be, for example, elementary particles, molecules,
+    ions, charge carriers, or macroscopic entities such as solid particles or droplets.
+  - An extensive quantity (IEV 112-01-06), such as mass, electric charge, or resistance,
+    is additive for disjointed parts of a system. An intensive quantity (IEV 112-01-05),
+    such as mass density, electric charge density, or resistivity, is determinable
+    at any point of a system.
+  - The concept can be used to define intensive quantities by the quotient of two
+    quasi-infinitesimal quantities related to the same element of space. Examples
+    are volumic electric charge (IEV 121-11-07) and electric current density (IEV
+    121-11-11).
+  - The term "quasi-infinitesimal" is used to distinguish this concept from that of
+    infinitesimal in the mathematical sense.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quasi-infinitesimal
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2008-08-01
+id: 923885b8-5051-5b4b-9a4a-a4e5ff26d2f5
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: numerical value of the Celsius temperature expressed in degrees Celsius
+    at which the estimated time to endpoint of an insulating material is the same
+    as the estimated time to endpoint of a control material at a temperature equal
+    to its assessed thermal endurance
+  examples: []
+  id: 212-12-14
+  language_code: eng
+  notes:
+  - The numerical value of the assessed thermal endurance temperature is equal to
+    the assessed thermal endurance index (ATE).
+  - Control material is a material with known thermal endurance, preferably derived
+    from service experience, used as a reference for comparative tests with a candidate
+    material.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative thermal endurance index
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 64680bbe-6aa9-59f9-b36b-4a538bdc6ff5
+status: valid

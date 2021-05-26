@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the maximum instantaneous value of current attained during the breaking
+    operation of a switching device or a fuse
+  examples: []
+  id: 441-17-12
+  language_code: eng
+  notes:
+  - This concept of particular importance when the switching device or the fuse operates
+    in such a manner that the prospective peak current of the circuit is not reached.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cut-off current
+    normative_status: preferred
+    type: expression
+  - designation: let-through current
+    type: expression
+dateAccepted: 2021-01-01
+id: 2405f701-a655-55ee-ace9-a660a599a0d3
+status: valid

@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1994-07-01
+  definition: point, ligne ou surface où, dans un système d'ondes stationnaires, une
+    grandeur caractéristique spécifiée a une amplitude essentiellement nulle
+  examples: []
+  id: 801-23-16
+  language_code: fra
+  notes:
+  - Dans la pratique, cette amplitude n'est généralement pas nulle, mais seulement
+    minimale. Le noeud est alors dit imparfait.
+  - 'Le mot "noeud" doit être accompagné du nom de la grandeur considérée: noeud de
+    déplacement, de vitesse d''une particule, de pression acoustique.'
+  reviewDate: 1994-07-01
+  reviewDecisionDate: 1994-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: noeud
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ligne nodale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: surface nodale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: bd81aa4d-4a00-5ade-9ae1-579110bf6a24
+status: valid

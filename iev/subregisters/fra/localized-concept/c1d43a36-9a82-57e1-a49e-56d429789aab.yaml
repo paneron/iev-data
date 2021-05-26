@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-08-01
+  definition: commande synchrone par trains d'alternances dans laquelle l'instant
+    de début de chaque intervalle de conduction coïncide avec un passage par zéro
+    de la tension et le courant circule pendant un nombre entier de demi-périodes
+  examples: []
+  id: 161-07-07
+  language_code: fra
+  notes:
+  - Cette commande est employée avec des charges résistives.
+  reviewDate: 1990-08-01
+  reviewDecisionDate: 1990-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commande par déclenchement d'une salve
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-08-01
+id: c1d43a36-9a82-57e1-a49e-56d429789aab
+status: valid

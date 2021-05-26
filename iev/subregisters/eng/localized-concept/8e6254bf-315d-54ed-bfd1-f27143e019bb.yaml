@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: under sinusoidal conditions, phase difference between the voltage applied
+    to a linear two-terminal element or two-terminal circuit and the electric current
+    in the element or circuit
+  examples: []
+  id: 131-11-48
+  language_code: eng
+  notes:
+  - The cosine of the displacement angle is the active factor.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: displacement angle
+    normative_status: preferred
+    type: expression
+  - designation: phase difference angle
+    type: expression
+  - designation: '`φ`'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: 8e6254bf-315d-54ed-bfd1-f27143e019bb
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: rapport de la tension de mode série, provoquant un changement spécifié
+    d'information de sortie, à la tension résultant du mesurande qui produirait le
+    même changement
+  examples: []
+  id: 312-06-22
+  language_code: fra
+  notes:
+  - Le facteur de réjection de mode série est généralement exprimé en décibels et
+    peut dépendre de la fréquence, de la forme d’onde et de la méthode de mesure.
+  - Le rapport de réjection de mode commun peut aussi s'appliquer à des grandeurs
+    autres que les tensions.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport de réjection de mode série
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: b6d79f43-c5f5-5cb0-97c7-ed750f1eebfa
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: voltage at a given point of a polyphase line and appearing between two
+    polyphase-line conductors belonging to two different phase elements of that polyphase
+    line
+  examples: []
+  id: 141-03-06
+  language_code: eng
+  notes:
+  - Another definition is given in IEC 60050-195.
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: polyphase line-to-line voltage
+    normative_status: preferred
+    type: expression
+  - designation: line-to-line voltage
+    type: expression
+dateAccepted: 2004-08-01
+id: 8ed12015-2021-55c5-aa6a-4ae1cbeafb23
+status: valid

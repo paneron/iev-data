@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: panne qui n'est pas devenue apparente
+  examples: []
+  id: 192-04-08
+  language_code: fra
+  notes:
+  - Une panne latente peut finalement être révélée par une maintenance préventive
+    ou par une défaillance du système.
+  reviewDecisionEvent: published
+  terms:
+  - designation: panne latente
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+  - designation: panne non détectée
+    gender: f
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: a9ce0433-036a-54fa-b4dc-5cf258ebad02
+status: valid

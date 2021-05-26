@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: 'qualifie dans un espace affine: * une droite par rapport à une droite
+    coplanaire lorsqu''elles n''ont aucun point commun ou qu''elles sont confondues;
+    * une droite par rapport à un plan lorsque le plan contient une droite parallèle
+    à la droite donnée; * un plan par rapport à un autre plan lorsque toute droite
+    d''un des plans a une droite parallèle dans l''autre plan'
+  examples: []
+  id: 102-04-08
+  language_code: fra
+  notes:
+  - Le parallélisme est une relation d'équivalence pour deux droites ou pour deux
+    plans.
+  - Des expressions usuelles pour des droites sont «une droite A est parallèle à une
+    droite B», «les droites A et B sont parallèles», ou «A et B sont des droites parallèles».
+    Des expressions analogues sont employées dans les autres cas.
+  reviewDecisionEvent: published
+  terms:
+  - designation: parallèle
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2018-11-17
+id: ab259e49-d486-5487-a107-8338c00cdf82
+status: valid

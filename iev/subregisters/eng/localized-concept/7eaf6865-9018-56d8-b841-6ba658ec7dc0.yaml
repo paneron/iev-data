@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: average illuminance on a specified surface when the lighting installation
+    is new
+  examples: []
+  id: 845-29-156
+  language_code: eng
+  notes:
+  - The initial average illuminance is expressed in lux (lx &amp;equals; lm·m^−2^).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: initial average illuminance
+    normative_status: preferred
+    type: expression
+  - designation: "`E_((v ,av ,i))`\n`bar E_((v ,i))` \n`E_((av ,i))`\r\n\n`bar E_i`"
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 7eaf6865-9018-56d8-b841-6ba658ec7dc0
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: two-port network for which the modulus of the transfer function is equal
+    to one within one or more frequency bands, and equal to zero at all other frequencies
+  examples: []
+  id: 131-15-38
+  language_code: eng
+  notes:
+  - Frequency band is defined in IEC 60050-101 and IEC 60050-702.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ideal filter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 603cc238-96bc-598d-aa19-961fe3bd1694
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: théorème de théorie des circuits en régime sinusoïdal, exprimant que
+    le courant dans un bipôle passif linéaire connecté à deux bornes quelconques d'un
+    réseau linéaire est égal au quotient de la tension entre ces bornes avant la connexion
+    par la somme de l'impédance du bipôle et de l'impédance du réseau vue des deux
+    bornes avant la connexion
+  examples: []
+  id: 131-15-13
+  language_code: fra
+  notes:
+  - On peut étendre le théorème de Thévenin à un régime non sinusoïdal.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: théorème de Thévenin
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 0f4c6dbb-ab16-5e05-8b5c-7164515477dd
+status: valid

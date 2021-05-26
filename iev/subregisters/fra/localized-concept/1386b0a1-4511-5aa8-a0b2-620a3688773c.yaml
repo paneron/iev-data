@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-08-01
+  definition: nombre `k` dans l'expression `vartheta_0 - 2 pi ((( i - 1 ) k))/(m)`
+    de la phase à l'origine de la grandeur de numéro `i` dans l'ensemble des `m` grandeurs
+    formant un système polyphasé symétrique, où `vartheta_0` est la phase à l'origine
+    d'une des grandeurs choisie arbitrairement dans l'ensemble des `m` grandeurs,
+    `i` étant l'un des entiers 1, 2, ..., `m`, et `k` une caractéristique du système,
+    égale à l'un des entiers 0, 1, 2, ..., `m` − 1
+  examples: []
+  id: 141-01-06
+  language_code: fra
+  notes: []
+  reviewDate: 2004-08-01
+  reviewDecisionDate: 2004-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: ordre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un système polyphasé symétrique
+dateAccepted: 2004-08-01
+id: 1386b0a1-4511-5aa8-a0b2-620a3688773c
+status: valid

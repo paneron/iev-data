@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      link: https://www.iso.org/standard/32893.html
+      original: ISO/IEC Guide 51:1999, 3.5, modified – Use of more appropriate English
+        to provide greater clarity to the definition.
+      ref: ISO/IEC Guide 51:1999
+      relationship:
+        modification: Use of more appropriate English to provide greater clarity to
+          the definition.
+        type: modified
+  dateAmended: 2014-04-01
+  definition: potential source of harm when electric energy is present in an {{electrical
+    installation, IEV:651-26-01}}
+  examples: []
+  id: 651-26-05
+  language_code: eng
+  notes:
+  - The term “harm” in this context relates to damage to either persons and/or electrical
+    installations.
+  - This entry was numbered 651-01-30 in IEC 60050-651:1999. It has been modified
+    to follow the new translation of ISO/IEC Guide 51 and to precise the term “harm”.
+  reviewDate: 2014-04-01
+  reviewDecisionDate: 2014-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: electrical hazard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01
+id: eb47b572-1318-506b-9571-5b66a05fc3d1
+status: valid

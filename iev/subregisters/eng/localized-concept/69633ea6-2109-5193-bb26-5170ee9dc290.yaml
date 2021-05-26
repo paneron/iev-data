@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - - clause: 3.2.6
+      original: IEC TS 80004-9:2017, 3.2.6, modified – In the Note 1 to entry, deletion
+        of "special type of" and of "acting as a donor/acceptor pair", and replacement
+        of "nano-enabled photovoltaic device" by "photovoltaic nano-enabled device".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: In the Note 1 to entry, deletion of "special type of" and of
+          "acting as a donor/acceptor pair", and replacement of "nano-enabled photovoltaic
+          device" by "photovoltaic nano-enabled device".
+        type: modified
+  classification: Preferred
+  dateAmended: 2018-04-01
+  definition: '{{device, IEV:511-01-01}} in which the conversion of light into electric
+    energy is achieved by organic materials'
+  examples: []
+  id: 511-02-06
+  language_code: eng
+  notes:
+  - An organic photovoltaic device is a photovoltaic {{nano-enabled device, IEV:511-01-16}}
+    based on small organic molecules or polymers.
+  reviewDate: 2018-04-01
+  reviewDecisionDate: 2018-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: organic photovoltaic device
+    normative_status: preferred
+    type: expression
+  - designation: OPV
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-04-01
+id: 69633ea6-2109-5193-bb26-5170ee9dc290
+status: valid

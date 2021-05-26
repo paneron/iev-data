@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: '{{opération booléenne dyadique, IEV:171-03-08}} dont le résultat a
+    la valeur booléenne 0 si et seulement si tous les {{opérandes, IEV:171-03-04}}
+    ont la valeur booléenne 1'
+  examples: []
+  id: 171-03-18
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: NON-ET
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: barre de Sheffer
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fa92509f-9d34-5b1e-b4a0-9b0ba235719f
+status: valid

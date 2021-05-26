@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.3.12
+      link: https://webstore.iec.ch/publication/25837
+      original: IEC 62873-2:2016, 3.3.12
+      ref: IEC 62873-2:2016
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: residual current device for which the functions of detection, evaluation
+    and interruption do not depend on the line voltage
+  examples: []
+  id: 442-05-08
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: RCD functionally independent of line voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: 192c2704-bb26-5826-82da-e44f9cea0d0c
+status: valid

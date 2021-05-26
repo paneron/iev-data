@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2009-12-01
+  definition: greatest value of a function in a given interval of values of its argument
+  examples: []
+  id: 103-05-15
+  language_code: eng
+  notes:
+  - For a periodic function, the given interval has a range equal to the period.
+  - The term peak value is mostly used for the global maximum value of a function
+    of time.
+  - A global maximum value of function `f` is denoted by `f_((m m))` or `hat hat f`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: global maximum value
+    normative_status: preferred
+    type: expression
+  - designation: peak value
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 2242d798-0a3c-5e3a-992b-373cadd4c929
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-11-01
+  definition: tension en un point spécifié d'une voie de transmission ou d'un poste
+    téléphonique, égale à la racine carrée de la somme des carrés des tensions efficaces
+    des composantes spectrales d'une perturbation électrique induite dans la voie
+    ou le poste, chaque tension étant affectée d'un certain poids conventionnel dépendant
+    de la fréquence correspondante
+  examples: []
+  id: 722-16-06
+  language_code: fra
+  notes:
+  - Pour la téléphonie, les poids conventionnels sont indiqués dans la Recommandation
+    0.41 du CCITT contenue dans le fascicule IV-4 du Livre Blеu,1989.
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension psophométrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 3df426ef-9c9e-567d-b002-c47998fbfc8d
+status: valid

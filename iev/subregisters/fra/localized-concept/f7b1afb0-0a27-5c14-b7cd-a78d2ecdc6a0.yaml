@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: élément binaire associé à un signal de caractère ou à un signal de bloc
+    en vue de contrôler l'absence d'erreur au sein de ce caractère ou de ce bloc
+  examples: []
+  id: 721-08-46
+  language_code: fra
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: élément de contrôle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bit de contrôle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: f7b1afb0-0a27-5c14-b7cd-a78d2ecdc6a0
+status: valid

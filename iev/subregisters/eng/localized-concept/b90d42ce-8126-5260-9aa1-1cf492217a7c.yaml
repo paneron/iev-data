@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: 'quantity characterizing the relative variation of volume `V` with pressure
+    `p` at constant entropy `S`: `kappa_S = (1)/(V) (( ((del V))/((del p)) ))_S`'
+  examples: []
+  id: 113-04-32
+  language_code: eng
+  notes:
+  - The coherent SI unit of isentropic compressibility is pascal to the power minus
+    one, Pa^−1^.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: isentropic compressibility
+    normative_status: preferred
+    type: expression
+  - designation: '`κ`~`S`~'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: b90d42ce-8126-5260-9aa1-1cf492217a7c
+status: valid

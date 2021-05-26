@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-03-01
+  definition: rapport, généralement exprimé en décibels, de la puissance apparente
+    en un point d'une voie de transmission, à la puissance en ce même point après
+    insertion d'un biporte donné immédiatement en amont de ce point
+  examples: []
+  id: 702-07-08
+  language_code: fra
+  notes:
+  - Si le rapport qui détermine l'affaiblissement d'insertion est inférieur à l'unité,
+    sa valeur en décibels est négative, et on peut utiliser son inverse ou sa valeur
+    en décibels changée de signe, appelée "gain d'insertion".
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: affaiblissement d'insertion
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: perte d'insertion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: eeb102c5-ecb8-5d62-8810-23722af6c7ed
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1990-10-01
+  definition: puissance active absorbée quand une tension donnée à la fréquence assignée
+    est appliquée aux bornes de l'un des enroulements, l'autre (ou les autres) enroulement(s)
+    étant à circuit ouvert
+  examples: []
+  id: 421-06-01
+  language_code: fra
+  notes:
+  - Normalement, la tension appliquée est la tension assignée et l'enroulement d'excitation,
+    s'il est muni de prises, est connecté sur sa prise principale.
+  reviewDate: 1990-10-01
+  reviewDecisionDate: 1990-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pertes à vide
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 1990-10-01
+id: b4f975c9-bff9-5d53-bf2a-b328137e627d
+status: valid

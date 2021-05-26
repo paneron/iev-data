@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '6.2'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 6.2
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  definition: invalidation temporaire de l'affirmation de conformité pour tout ou
+    partie de la {{portée de l'attestation, IEV:902-04-03}} spécifiée
+  examples: []
+  id: 902-05-02
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: suspension
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 338b1b19-3792-5e1d-8984-563139205a1e
+status: valid

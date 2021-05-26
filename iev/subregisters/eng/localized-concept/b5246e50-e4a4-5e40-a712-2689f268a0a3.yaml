@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: 'vector quantity equal to the sum of the electric current density *`J`*
+    and the displacement current density *`J`*~D~ : *`J`*~t~ = *`J`* + *`J`*~D~'
+  examples: []
+  id: 121-11-44
+  language_code: eng
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total current density
+    normative_status: preferred
+    type: expression
+  - designation: '*`J`*~t~, *`J`*~tot~'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: b5246e50-e4a4-5e40-a712-2689f268a0a3
+status: valid

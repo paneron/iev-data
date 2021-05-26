@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  dateAmended: 2017-07-01
+  definition: natural number associated with any pair `i`, `j` of natural numbers,
+    equal to 1 if `i` =`j` and to 0 if `i` ≠ `j`
+  examples: []
+  id: 102-06-12
+  language_code: eng
+  notes: []
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Kronecker delta
+    normative_status: preferred
+    type: expression
+  - designation: Kronecker symbol
+    normative_status: deprecated
+    type: expression
+  - designation: δ`ij`
+    international: true
+    type: symbol
+dateAccepted: 2017-07-01
+id: 29e12c9f-1431-5894-afcd-7b09242fd297
+status: valid

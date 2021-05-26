@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '1.5'
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 1.5
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  dateAmended: 2013-11-01
+  definition: technical {{provision, IEV:901-05-01}} acknowledged by a majority of
+    representative experts as reflecting the {{state of the art, IEV:901-01-04}}
+  examples: []
+  id: 901-01-05
+  language_code: eng
+  notes:
+  - A {{normative document, IEV:901-02-01}} on a technical subject, if prepared with
+    the cooperation of concerned interests by consultation and {{consensus, IEV:901-01-11}}
+    procedures, is presumed to constitute an acknowledged rule of technology at the
+    time of its approval.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: acknowledged rule of technology
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 289e1258-7146-5fd3-a940-044eed8aa431
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: protocol for connectionless transmission that corresponds approximately
+    to a protocol within the network layer of the OSI reference model
+  examples: []
+  id: 732-07-04
+  language_code: eng
+  notes:
+  - 1 – The Internet Protocol is defined in RFC 791.
+  - '2 – See Figure 6.
+
+
+    image::/assets/images/parts/732/732-07-04en.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Internet Protocol
+    normative_status: preferred
+    type: expression
+  - designation: IP
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 65ac5fef-25e4-5f08-88ce-a521c564c4e0
+status: valid

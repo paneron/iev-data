@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1992-03-01
+  definition: random noise caused by the surface irregularity or granular nature of
+    a medium through which an electric current flows
+  examples: []
+  id: 702-08-47
+  language_code: eng
+  notes:
+  - 'Examples of irregular or granular media are: a junction between semiconductors,
+    an oxide coated cathode and a granular resistor.'
+  - Flicker noise has a continuous spectrum and its power spectral density is important
+    only at very low frequencies where it approximates to 1/`f` noise.
+  reviewDate: 1992-03-01
+  reviewDecisionDate: 1992-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: flicker noise
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-03-01
+id: 9ec7de04-b019-5c4c-9d12-4fe6fbd68b1c
+status: valid

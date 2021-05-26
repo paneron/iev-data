@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-10-01
+  definition: 'grandeur souvent utilisée pour caractériser les photodétecteurs, définie
+    par la formule: `D^( ** ) = D sqrt(A * Delta f)` où `D` est la détectivité, `A`
+    l''aire sensible du photodétecteur et Δ`f` la largeur de bande équivalente de
+    bruit'
+  examples: []
+  id: 731-06-42
+  language_code: fra
+  notes: []
+  reviewDate: 1991-10-01
+  reviewDecisionDate: 1991-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: détectivité spécifique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: détectivité normée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-10-01
+id: 3991c8a0-33a1-5398-8441-cf05dea9da05
+status: valid

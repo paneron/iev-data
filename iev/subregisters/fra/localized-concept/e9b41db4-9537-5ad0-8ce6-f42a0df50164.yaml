@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 726-07-07
+      original: 726-07-07 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2002-06-01
+  definition: pour un biporte ou un multiporte, rapport d'une variable de répartition
+    sortante en un accès, à la variable de répartition incidente en un autre accès,
+    lorsque les ondes incidentes sont nulles à tous les autres accès
+  examples: []
+  id: 131-14-37
+  language_code: fra
+  notes: []
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: facteur de transfert d'onde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: facteur de transmission complexe
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: e9b41db4-9537-5ad0-8ce6-f42a0df50164
+status: valid

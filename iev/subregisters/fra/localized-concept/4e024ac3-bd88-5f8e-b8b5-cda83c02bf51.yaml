@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  definition: format et codage de fichier utilisé pour l'archivage de transformées
+    qui associent un codage de couleur à un autre, sous une forme définie par le International
+    Color Consortium (ICC) (Comité International de la Couleur)
+  examples: []
+  id: 845-32-048
+  language_code: fra
+  notes:
+  - Par exemple, le format de fichier ICC peut être utilisé pour l'archivage des transformées
+    qui permettent de convertir les données d'images couleurs de dispositifs en données
+    d'images couleurs colorimétriquement équivalentes, codées dans l'un des espaces
+    colorimétriques de référence ICC, comme partie d'un système de gestion de la couleur.
+    Le format de fichier ICC spécifie un nombre de transformées à intégrer dans chaque
+    fichier de profil ICC.
+  reviewDecisionEvent: published
+  terms:
+  - designation: format de fichier ICC
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: format de profil ICC
+    gender: m
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4e024ac3-bd88-5f8e-b8b5-cda83c02bf51
+status: valid

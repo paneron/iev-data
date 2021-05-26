@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-02-01
+  definition: rate at which a cell's performance deteriorates over time
+  examples: []
+  id: 485-16-03
+  language_code: eng
+  notes:
+  - The degradation rate can be used to measure both recoverable and permanent losses
+    in cell performance.
+  - The typical unit of measure is volts (DC) per unit time or percentage of initial
+    value (volt DC) per a fixed time, at rated current.
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: degradation rate
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-02-01
+id: 28fede3d-11f7-5e8f-a609-e62563d84397
+status: valid

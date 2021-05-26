@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: définition 416
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 416, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: neutron d'énergie cinétique supérieure à l'énergie du seuil cadmium
+    effectif
+  examples: []
+  id: 395-02-16
+  language_code: fra
+  notes:
+  - L'énergie du seuil, pour une configuration donnée, est déterminée par la condition
+    que, si une couche de cadmium entourant un détecteur était remplacée par une couche
+    fictive opaque aux neutrons, dont l’énergie est inférieure à cette valeur et transparente
+    aux neutrons dont l’énergie est supérieure à cette valeur, la réponse fournie
+    par ce détecteur ne changerait pas.
+  - Cet article était numéroté 393-12-76 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: neutron épicadmique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f6874443-cb46-52f9-a4aa-29cad038d853
+status: valid

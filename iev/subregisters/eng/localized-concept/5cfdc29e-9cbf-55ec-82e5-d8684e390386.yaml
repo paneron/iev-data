@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.7'
+      original: IEC Guide 117:2010, 3.7
+      ref: IEC Guide 117:2010
+      relationship:
+        type: identical
+  dateAmended: 2013-06-01
+  definition: temperature of a surface, measured in degrees Celsius, at an ambient
+    temperature of `25_(+ 0)^(- 5) °C`
+  examples: []
+  id: 903-03-07
+  language_code: eng
+  notes: []
+  reviewDate: 2013-06-01
+  reviewDecisionDate: 2013-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: surface temperature
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-06-01
+id: 5cfdc29e-9cbf-55ec-82e5-d8684e390386
+status: valid

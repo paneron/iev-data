@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: poussière combustible dont la résistivité électrique est inférieure
+    ou égale à 10^3^ Ω·m
+  examples: []
+  id: 426-02-19
+  language_code: fra
+  notes:
+  - 'L''ISO/IEC 80079-20-2, _Explosive atmospheres – Part 20-2: Material characteristics
+    – Combustible dusts test methods_, contient la méthode d''essai pour déterminer
+    la résistivité électrique des poussières.'
+  - Les poussières métalliques sont considérées comme des poussières conductrices,
+    car par hypothèse l'oxydation de surface ne peut pas être fiable pour garantir
+    une résistivité électrique toujours supérieure à 1 × 10^3^ Ω·m.
+  reviewDecisionEvent: published
+  terms:
+  - designation: poussière conductrice
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2386eaf7-104e-533e-aed0-ecd614b8b3a1
+status: valid

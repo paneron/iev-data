@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the vertical optical thickness of a real turbid atmosphere
+    and the vertical optical thickness of the pure and dry atmosphere (Rayleigh atmosphere),
+    related to the visible part of the solar spectrum
+  examples: []
+  id: 845-29-108
+  language_code: eng
+  notes:
+  - 'The luminous turbidity factor can be expressed by
+
+
+    `T_v = ((- ln ( E_((vs)) // E_v )))/((a_v m))`
+
+
+    where `E`~vs~ is the direct-beam illuminance on a horizontal surface (at the ground),
+    `E`~v~ is the extraterrestrial horizontal illuminance, `a`~v~ is the luminous
+    extinction coefficient, and `m` is the relative optical air mass.'
+  - The luminous turbidity factor has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous turbidity factor
+    normative_status: preferred
+    type: expression
+  - designation: '`T`~v~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 1eafb7c6-d377-5ecd-a57c-2a112fbedff1
+status: valid

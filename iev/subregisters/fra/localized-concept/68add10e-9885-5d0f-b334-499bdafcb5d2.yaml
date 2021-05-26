@@ -1,0 +1,42 @@
+data:
+  authoritativeSource:
+  - - clause: '3.65'
+      link: https://webstore.iec.ch/publication/6486
+      original: définition 3.65 de la CEI 62127-1 MOD
+      ref: IEC 62127-1
+      relationship:
+        type: modified
+  dateAmended: 2011-01-01
+  definition: moyenne temporelle de l'intensité instantanée en un point particulier
+    dans un champ acoustique
+  examples: []
+  id: 802-01-14
+  language_code: fra
+  notes:
+  - En principe, la moyenne temporelle est prise en fonction d’un nombre entier de
+    périodes acoustiques de répétition. Dans le cas contraire, il convient de préciser
+    la période d’intégration.
+  - Dans une onde acoustique plane en un milieu fluide non absorbant, l'intensité
+    acoustique est la même en tous les points de l'onde, lorsqu'elle est moyennée
+    sur un cycle complet.
+  - Dans une onde stationnaire parfaite, l'intensité dérivée de la moyenne temporelle
+    est égale à zéro.
+  - (relative aux systèmes de diagnostic médical à ultrasons) En principe, l’intensité
+    moyenne temporelle est une moyenne sur un intervalle de temps relativement long.
+    Pour les systèmes d’exploration non automatiques, l’intensité instantanée peut
+    être moyennée sur une ou plusieurs périodes de répétition d’impulsions. Pour les
+    systèmes d’exploration automatique, l’intensité instantanée peut être moyennée
+    sur une ou plusieurs périodes de répétition d’exploration pour un mode de fonctionnement
+    spécifié.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: intensité dérivée de la moyenne temporelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-01-01
+id: 68add10e-9885-5d0f-b334-499bdafcb5d2
+status: valid

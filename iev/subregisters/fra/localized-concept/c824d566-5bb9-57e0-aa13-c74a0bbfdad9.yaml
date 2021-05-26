@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: densité d'<a href="IEV845-21-037">énergie lumineuse</a> incidente par
+    rapport à une aire en un point d'une surface réelle ou fictive `H_v = ((d Q_v))/((d
+    A))` où `Q`~v~ est l'énergie lumineuse et `A` est l'aire qui reçoit cette énergie
+  examples: []
+  id: 845-21-072
+  language_code: fra
+  notes:
+  - Le terme "exposition lumineuse" n'est plus usité.
+  - 'L''exposition lumineuse peut être dérivée de la répartition spectrale de l''exposition
+    énergétique par
+
+
+    `H_v \ = \ K_m int_0^(oo) H_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    où `K`~m~ est l''efficacité lumineuse maximale, `H`~e,~`λ`(`λ`) est l''exposition
+    spectrale énergétique à la longueur d''onde `λ` et `V`(`λ`) est l''<a href="IEV845-21-035">efficacité
+    lumineuse relative spectrale</a>. Les limites d''intégrale peuvent être confinées
+    selon la <a href="IEV845-25-061">sensibilité</a> spectrale des récepteurs utilisés
+    comme capteur.'
+  - La grandeur radiométrique correspondante est l'"exposition énergétique". La grandeur
+    correspondante pour les photons est l'"exposition photonique".
+  - L'exposition lumineuse est exprimée en lux seconde (lx·s = lm·s·m^−2^).
+  - Cet article était numéroté 845-01-43 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposition lumineuse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: lumination
+    gender: f
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c824d566-5bb9-57e0-aa13-c74a0bbfdad9
+status: valid

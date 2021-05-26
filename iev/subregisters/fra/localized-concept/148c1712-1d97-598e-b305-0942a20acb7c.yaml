@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1995-09-01
+  definition: 'grandeur scalaire complexe `n`, sans dimension, caractérisant un milieu
+    en un point et dans une direction donnée, lorsque peut y exister une onde électromagnétique
+    sinusoïdale dont le vecteur d''onde `vec underset(_)(K)` a ses parties réelle
+    `vec K^( '' )` et imaginaire `vec K^( ″ )` colinéaires dans la direction donnée;
+    cette grandeur est définie par la relation: `vec underset(_)(K) = vec K^( '' )
+    + j vec K^( ″ ) = underset(_)(n) (omega)/((c_0)) vec u` où `ω` est la pulsation,
+    `c`~0~ la vitesse de propagation des ondes électromagnétiques dans le vide et
+    `vec u` le vecteur unitaire de la direction donnée'
+  examples: []
+  id: 705-03-20
+  language_code: fra
+  notes:
+  - Dans un milieu isotrope, l'indice de réfraction complexe est la racine carrée
+    du produit de la permittivité relative complexe par la perméabilité relative complexe.
+  - Dans un milieu anisotrope, il y a en général, pour chaque direction, deux vecteurs
+    d'onde distincts et deux valeurs de l'indice de réfraction complexe.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indice de réfraction complexe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: 148c1712-1d97-598e-b305-0942a20acb7c
+status: valid

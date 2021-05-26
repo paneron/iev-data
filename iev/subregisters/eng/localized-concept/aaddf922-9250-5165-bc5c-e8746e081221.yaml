@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 713-07-23
+      original: 713-07-23
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 702-09-36
+      original: 702-09-36 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 2001-07-01
+  definition: non-linear device for producing oscillations or signals the frequencies
+    of which are specified linear combinations of integral multiples of the frequencies
+    of the spectral components of two input oscillations or signals
+  examples: []
+  id: 151-13-69
+  language_code: eng
+  notes:
+  - Usually, the output frequencies are the sum or difference of input frequencies.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (frequency) mixer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: aaddf922-9250-5165-bc5c-e8746e081221
+status: valid

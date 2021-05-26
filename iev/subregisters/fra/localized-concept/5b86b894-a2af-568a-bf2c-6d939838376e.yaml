@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: mode d' acheminement de messages dans un réseau de télécommunication,
+    où les messages sont préalablement découpés en paquets munis d'une adresse; dans
+    les noeuds du réseau, ces paquets sont reçus, mis en mémoire et retransmis sur
+    la ou les voies de transmission appropriées; à l'arrivée, le message est reconstitué
+    à partir des paquets reçus
+  examples: []
+  id: 721-17-16
+  language_code: fra
+  notes:
+  - Un paquet n'occupe une voie que pendant sa durée de transmission, la voie étant
+    ensuite disponible pour la transmission d'autres paquets appartenant soit au même
+    message, soit à d'autres messages.
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commutation de paquets
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: 5b86b894-a2af-568a-bf2c-6d939838376e
+status: valid

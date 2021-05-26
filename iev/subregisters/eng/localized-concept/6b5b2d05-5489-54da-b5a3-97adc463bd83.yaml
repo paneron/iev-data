@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: smallest perceptible difference in luminance of two adjacent fields
+  examples: []
+  id: 845-22-088
+  language_code: eng
+  notes:
+  - A field superimposed on a second larger field (background) can also be taken as
+    two adjacent fields.
+  - The value of the luminance difference threshold depends on the methodology, luminance,
+    and on the viewing conditions, including the state of adaptation.
+  - The luminance difference threshold is expressed in candela per square metre (cd·m^−2^ =
+    lm·m^−2^·sr^−1^).
+  - This entry was numbered 845-02-46 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminance difference threshold
+    normative_status: preferred
+    type: expression
+  - designation: Δ`L`~th~
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 6b5b2d05-5489-54da-b5a3-97adc463bd83
+status: valid

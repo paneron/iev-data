@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 191-12-01
+      original: 191-12-01 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1995-12-01
+  definition: probabilité pour qu'une protection puisse accomplir une fonction requise,
+    dans des conditions données, pendant un intervalle de temps donné
+  examples: []
+  id: 448-12-05
+  language_code: fra
+  notes:
+  - 'La fonction requise pour une protection est de fonctionner lorsqu''elle doit
+    le faire et de ne pas fonctionner lorsqu''elle ne doit pas le faire.
+
+
+    Voir figure 448-1.
+
+
+    image::/assets/images/parts/448/448-fig1-fr.gif[]'
+  reviewDate: 1995-12-01
+  reviewDecisionDate: 1995-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: fiabilité d'une protection
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: 0ec1323c-4902-5365-8147-0680df2a71ef
+status: valid

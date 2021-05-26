@@ -1,0 +1,36 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: part of the luminous flux of a light source that contributes predominantly
+    to the lighting task
+  examples: []
+  id: 845-21-111
+  language_code: eng
+  notes:
+  - For non-directional light sources, the useful luminous flux is the total luminous
+    flux of the light source.
+  - For directional light sources the useful luminous flux is the partial luminous
+    flux in a defined cone angle, the axis of the cone being the optical beam axis
+    of the light source.
+  - The cone angle, `α`, which can be expressed either in degree (°) or radian (rad),
+    is given by the full conic angle and has to be specified, e.g. `Φ`~u,90°~ or `Φ`~u,π/2~.
+  - The optical beam axis of a light source is the axis about which the luminous intensity
+    is substantially symmetrical.
+  - The useful luminous flux is expressed in lumen (lm).
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: useful luminous flux
+    normative_status: preferred
+    type: expression
+    usage_info: of a directional light source
+  - designation: '`Φ`~v,u,~`α`~
+
+      ~`Φ`~u,~`α`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 8a898005-0001-5b8c-8029-c430da06dec4
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: matériel qui, en service normal, constitue une source d'inflammation
+    pour une atmosphère explosive spécifiée
+  examples: []
+  id: 426-09-12
+  language_code: fra
+  notes:
+  - Le terme abrégé "ICE" est dérivé du terme anglais développé correspondant "ignition-capable
+    equipment".
+  reviewDecisionEvent: published
+  terms:
+  - designation: matériel susceptible de provoquer une inflammation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ICE
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3be46ffc-e27d-542e-85cc-ec2bbcec4bad
+status: valid

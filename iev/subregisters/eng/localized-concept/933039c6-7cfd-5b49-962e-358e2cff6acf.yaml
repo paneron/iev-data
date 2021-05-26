@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: a digital signal having a digit rate standardized by CCITT, primarily
+    for use in the standardized digital multiplex hierarchy
+  examples: []
+  id: 704-20-12
+  language_code: eng
+  notes:
+  - A standardized digital signal may or may not be a multiplexed assembly of standardized
+    digital signals from a lower hierarchical level.
+  - Examples of such signals are "standardized 2 048 kbit/s digital signal" and "standardized
+    44 736 kbit/s digital signal", which may be abbreviated to "2 048 kbit/s digital
+    signal" and "44 736 kbit/s digital signal" or, by convention, to "2 Mbit/s signal"
+    and "45 Mbit/s signal".
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: standardized digital signal
+    normative_status: preferred
+    type: expression
+dateAccepted: 1993-08-01
+id: 933039c6-7cfd-5b49-962e-358e2cff6acf
+status: valid

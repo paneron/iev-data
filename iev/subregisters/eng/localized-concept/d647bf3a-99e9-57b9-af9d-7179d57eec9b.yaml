@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: change in <a href="IEV845-21-037">luminous energy</a> with time `Phi_v
+    = ((d Q_v))/((d t))` where `Q`~v~ is the luminous energy emitted, transferred
+    or received, and `t` is time
+  examples: []
+  id: 845-21-039
+  language_code: eng
+  notes:
+  - 'Luminous flux is a quantity derived from the radiant flux, `Φ`~e~, by evaluating
+    the radiation according to its action upon the <a href="IEV845-21-036">CIE standard
+    photometric observer</a>. Luminous flux can be derived from the spectral radiant
+    flux distribution by
+
+
+    `Phi_v = K_m int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda`
+
+
+    where `K`~m~ is maximum luminous efficacy, `Φ`~e,`λ`~(`λ`) is spectral radiant
+    flux, `V`(`λ`) is <a href="IEV845-21-035">spectral luminous efficiency</a> and
+    `λ` is wavelength.'
+  - 'The distribution of the luminous intensities as a function of the direction of
+    emission, e.g. given by the polar angles (`ϑ`, `φ`), is used to determine the
+    luminous flux, `Φ`~v~, within a certain solid angle, `Ω`, of a source:
+
+
+    `Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d
+    vartheta`.'
+  - The corresponding radiometric quantity is "radiant flux". The corresponding quantity
+    for photons is "photon flux".
+  - The luminous flux is expressed in lumen (lm).
+  - This entry was numbered 845-01-25 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminous flux
+    normative_status: preferred
+    type: expression
+  - designation: '`Φ`~v~
+
+      `Φ`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: d647bf3a-99e9-57b9-af9d-7179d57eec9b
+status: valid

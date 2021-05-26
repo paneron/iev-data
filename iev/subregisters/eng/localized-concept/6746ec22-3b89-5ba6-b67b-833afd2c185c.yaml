@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2009-12-01
+  definition: function for which the argument is a function and the value a number
+  examples: []
+  id: 103-01-02
+  language_code: eng
+  notes:
+  - An example of a functional of the function `f`(`t`) is `int_(t_2)^(t_1) f ( t
+    ) d t`.
+  reviewDate: 2009-12-01
+  reviewDecisionDate: 2009-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: functional
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 6746ec22-3b89-5ba6-b67b-833afd2c185c
+status: valid

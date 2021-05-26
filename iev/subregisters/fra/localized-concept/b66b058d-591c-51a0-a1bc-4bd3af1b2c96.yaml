@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: composant isolant de la cellule, étanche au gaz et ayant une structure
+    à pore ajustée correctement qui retient l'{{électrolyte, IEV:485-03-01}} liquide
+  examples: []
+  id: 485-03-05
+  language_code: fra
+  notes:
+  - Il faut que la structure à pore soit ajustée conformément à celles des {{électrodes,
+    IEV:485-02-01}} adjacentes pour assurer le remplissage complet.
+  reviewDecisionEvent: published
+  terms:
+  - designation: matrice d'électrolyte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b66b058d-591c-51a0-a1bc-4bd3af1b2c96
+status: valid

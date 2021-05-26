@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: 881-03-30
+      original: 881-03-30
+      ref: IEV
+      relationship:
+        type: identical
+    - clause: 881-03-29
+      original: 881-03-29
+      ref: IEV
+      relationship:
+        type: identical
+  dateAmended: 1983-01-01
+  definition: épaisseur d'une substance spécifiéе qui réduit l'exposition à 10%
+  examples: []
+  id: 881-04-35
+  language_code: fra
+  notes:
+  - Les mesures de CAD dépendent de la forme du faisceau, large ou étroit.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: couche d'atténuation au dixième
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 4e050f68-c01e-5461-b428-0a5064418d61
+status: valid

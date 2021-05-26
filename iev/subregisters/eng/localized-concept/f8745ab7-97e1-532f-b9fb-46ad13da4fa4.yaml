@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the time duration by which information is delayed after the actual event
+    in the sending station and until presentation at the receiving station
+  examples: []
+  id: 371-08-15
+  language_code: eng
+  notes:
+  - The overall transfer time includes the delays due to the input peripheral device
+    in the sending station and the corresponding peripheral output device at the receiving
+    station.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: overall transfer time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: f8745ab7-97e1-532f-b9fb-46ad13da4fa4
+status: valid

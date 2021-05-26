@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: tenseur du troisième ordre défini par la forme trilinéaire égale au
+    produit de la forme bilinéaire qui définit un tenseur du deuxième ordre sur un
+    espace euclidien donné et de la forme linéaire identifiée à un vecteur du même
+    espace
+  examples: []
+  id: 102-03-46
+  language_code: fra
+  notes:
+  - 'Les coordonnées du produit tensoriel d''un tenseur `T` et d''un vecteur *`U`*
+    sont: `(( T ox U ))_((i j k)) = T_((i j)) U_k`.'
+  - Le produit tensoriel d'un tenseur et d'un vecteur est noté `T ox U`.
+  reviewDecisionEvent: published
+  terms:
+  - designation: produit tensoriel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'un tenseur et d'un vecteur
+dateAccepted: 2018-11-17
+id: 12e94c58-8ddb-538d-97f9-4abfc3dec285
+status: valid

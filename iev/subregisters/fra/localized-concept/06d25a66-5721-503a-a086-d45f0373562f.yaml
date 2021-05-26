@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: élément d'un {{espace vectoriel, IEV:102-03-01}}
+  examples: []
+  id: 102-03-04
+  language_code: fra
+  notes:
+  - 'Un vecteur à `n` dimensions est représenté par un ensemble ordonné de `n` scalaires,
+    généralement des nombres réels ou complexes, qui dépendent du choix de la base.
+    En notation matricielle, ces scalaires sont généralement représentés par une matrice-colonne:
+
+
+    `U = ( [[U_1],[U_2],[vdots],[U_n]] )`'
+  - Un vecteur dans un espace euclidien est caractérisé par sa {{norme, IEV:102-03-23}}
+    et, s'il n'est pas nul, par sa {{direction, IEV:102-03-12}}.
+  - 'Un vecteur complexe *`U`* est défini par une partie réelle et une partie imaginaire:
+    `U = A + j B` où *`A`* et *`B`* sont des vecteurs réels.'
+  - 'Un vecteur est représenté par un symbole littéral en gras et en italique ou par
+    un symbole en maigre et en italique surmonté d''une flèche: *`U`* ou `vec U`.
+    Le vecteur *`U`* de coordonnées `U_i` peut être représenté par `( U_i )`.'
+  - Le terme «vecteur» est aussi employé pour une {{grandeur vectorielle, IEV:102-03-21}}.
+  - En géométrie, le terme «vecteur» est souvent employé pour désigner un segment
+    de droite orienté dans un {{espace affine, IEV:102-03-02}}.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vecteur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: mathématiques
+dateAccepted: 2018-11-17
+id: 06d25a66-5721-503a-a086-d45f0373562f
+status: valid

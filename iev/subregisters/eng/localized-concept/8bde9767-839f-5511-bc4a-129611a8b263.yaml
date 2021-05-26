@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: quantity `Q` which can be represented by a tensor of the second order
+    `T` multiplied by a scalar quantity `q` `Q = q T`
+  examples: []
+  id: 102-03-40
+  language_code: eng
+  notes:
+  - 'A tensor quantity often describes a linear transformation of a vector quantity
+    *`U`* into a vector quantity *`V`*:
+
+
+    `V_i = underset(j)( sum ) Q_((i j)) U_j`'
+  - The expression of a tensor quantity in terms of its components is similar to the
+    expression of vector quantities (see Note 1 to entry in {{IEV 102-03-22, IEV:102-03-22}}).
+    Examples of tensor quantities are the permittivity and the permeability in anisotropic
+    media, see IEC 60050-121.
+  - Operations defined for tensors apply to tensor quantities.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tensor quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 8bde9767-839f-5511-bc4a-129611a8b263
+status: valid

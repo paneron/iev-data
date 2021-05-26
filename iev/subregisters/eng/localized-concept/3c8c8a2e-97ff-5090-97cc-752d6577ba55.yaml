@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - - clause: '48'
+      original: ITU RR 48 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  dateAmended: 1998-04-01
+  definition: 'space radiocommunication service in which: – information relating to
+    the characteristics of the Earth and its natural phenomena is obtained from active
+    or passive sensors on Earth satellites; – similar information is collected by
+    an Earth satellite from airborne or Earth-based platforms which transmit automatically
+    or by interrogation; – such information may be distributed to Earth stations'
+  examples: []
+  id: 713-05-07
+  language_code: eng
+  notes:
+  - – This radiocommunication service may also include feeder links necessary for
+    its operation and intersatellite links.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Earth exploration-satellite service
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 3c8c8a2e-97ff-5090-97cc-752d6577ba55
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: quotient of the rms value of the voltage between the terminals of a
+    two-terminal element or a two-terminal circuit by the rms value of the electric
+    current in the element or circuit
+  examples: []
+  id: 131-12-44
+  language_code: eng
+  notes:
+  - Under sinusoidal conditions, the apparent impedance is the modulus of the impedance.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: apparent impedance
+    normative_status: preferred
+    type: expression
+  - designation: '`Z`'
+    international: true
+    type: symbol
+dateAccepted: 2002-06-01
+id: d2ec3d6e-009f-58d8-8963-e8a9d0f9863e
+status: valid

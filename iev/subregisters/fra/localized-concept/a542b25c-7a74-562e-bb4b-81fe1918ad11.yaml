@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: définition 932
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 932, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  classification: Deprecated
+  definition: neutron accompagnant la fission nucléaire sans retard mesurable
+  examples: []
+  id: 395-02-10
+  language_code: fra
+  notes:
+  - Cet article était numéroté 393-12-70 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: neutron instantané
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: neutron prompt
+    normative_status: deprecated
+    type: expression
+dateAccepted: 2018-11-17
+id: a542b25c-7a74-562e-bb4b-81fe1918ad11
+status: valid

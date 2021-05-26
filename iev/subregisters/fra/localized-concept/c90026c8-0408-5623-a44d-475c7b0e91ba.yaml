@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{cellule élémentaire à combustible, IEV:485-08-01}} dont l''{{électrolyte,
+    IEV:485-03-01}} est un oxyde conducteur ionique'
+  examples: []
+  id: 485-08-10
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: pile à combustible à oxyde solide
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SOFC
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c90026c8-0408-5623-a44d-475c7b0e91ba
+status: valid

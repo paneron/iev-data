@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2010-06-01
+  definition: ordinateur capable de contrôler le trafic d'un réseau selon les données
+    transférées
+  examples: []
+  id: 732-06-04
+  language_code: fra
+  notes:
+  - 1 – Un routeur de filtrage rejette les données qui violent des règles spécifiées.
+  - 2 – Dans l’Internet, le contrôle est basé sur le type de protocole et sur la valeur
+    du champ de protocole dans chaque paquet.
+  - '3 – Voir Figure 3.
+
+
+    image::/assets/images/parts/732/732-06-04fr.gif[]'
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: routeur de filtrage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: routeur filtrant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 761385e9-ef50-5d00-b110-aa774454e405
+status: valid

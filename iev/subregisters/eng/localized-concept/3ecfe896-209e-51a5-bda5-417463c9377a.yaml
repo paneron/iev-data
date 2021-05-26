@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: definition 3
+      link: https://www.iso.org/standard/31807.html
+      original: ISO 14001:2004, definition 3.8
+      ref: ISO 14001:2004
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: part of an {{organization, IEV:901-03-02}}'s management system used
+    to develop and implement its environmental policy and manage its {{environmental
+    aspect, IEV:904-01-02}}s
+  examples: []
+  id: 904-01-15
+  language_code: eng
+  notes:
+  - A management system is a set of interrelated elements used to establish policy
+    and objectives and to achieve those objectives.
+  - A management system includes organizational structure, planning activities, responsibilities,
+    practices, procedures, {{processes, IEV:904-01-05}} and resources.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: environmental management system
+    normative_status: preferred
+    type: expression
+  - designation: EMS
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 3ecfe896-209e-51a5-bda5-417463c9377a
+status: valid

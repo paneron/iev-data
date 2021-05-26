@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 603-05-21
+      link: https://webstore.iec.ch/publication/227
+      original: IEC 60050-603:1986, 603-05-21, modified – Punctuation of the term
+        altered, and in the definition "time" corrected to "duration" and "was incapable
+        of performing its function because of a fault" replaced by “is incapable of
+        performing as required because of an unplanned outage that is not possible
+        to defer”
+      ref: IEC 60050-603:1986
+      relationship:
+        modification: Punctuation of the term altered, and in the definition "time"
+          corrected to "duration" and "was incapable of performing its function because
+          of a fault" replaced by “is incapable of performing as required because
+          of an unplanned outage that is not possible to defer”
+        type: modified
+  dateAmended: 2017-12-01
+  definition: within a specified period of time, the duration during which an item
+    is incapable of performing as required because of an {{unplanned outage, IEV:692-04-04}}
+    that is not possible to defer
+  examples: []
+  id: 692-06-07
+  language_code: eng
+  notes: []
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: forced outage duration
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-12-01
+id: e132d12d-db8e-598a-b554-445edc1b3749
+status: valid

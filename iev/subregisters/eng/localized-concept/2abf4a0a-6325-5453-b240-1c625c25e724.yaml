@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a device comprising one or more Т-B cells or T-R cells for automatically
+    connecting a common antenna to the transmitter during the transmitting period
+    and to the receiver during the receiving period no matter what the transmitter
+    impedance may be, the receiver also being protected from the high power of the
+    transmitter
+  examples: []
+  id: 726-15-16
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: T-R switch
+    normative_status: preferred
+    type: expression
+  - designation: transmit-receive switch
+    type: expression
+  - designation: radar duplexer
+    type: expression
+dateAccepted: 2021-01-01
+id: 2abf4a0a-6325-5453-b240-1c625c25e724
+status: valid

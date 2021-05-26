@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: . fonction `f ( t )` mesurant la similitude de deux fonctions déterministes
+    `f_1 ( t )` et `f_2 ( t )`, définie par `f ( t ) = int_( - oo)^( + oo) f_1 ( tau
+    ) f_2 ( t + tau ) d tau` . fonction `f ( t )` mesurant la similitude de deux fonctions
+    aléatoires stationnaires `f_1 ( t )` et `f_2 ( t )`, définie par `f ( t ) = underset((T
+    -> oo))((lim)) (1)/((2 T)) int_( - T)^( + T) f_1 ( tau ) f_2 ( t + tau ) d tau`
+  examples: []
+  id: 103-09-06
+  language_code: fra
+  notes:
+  - 'La transformée de Fourier de `f ( t )` est égale au produit de la conjuguée de
+    la transformée de Fourier de `f_1 ( t )` par la transformée de Fourier de `f_2
+    ( t )`:
+
+
+    `F ( omega ) = F_1^( ** ) ( omega ) F_2 ( omega )`'
+  reviewDecisionEvent: published
+  terms:
+  - designation: fonction de corrélation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9995445c-b9a5-566e-a7a4-d37dfd3fca9a
+status: valid

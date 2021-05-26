@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: nom identifiant un hôte dans l'Internet
+  examples: []
+  id: 732-07-10
+  language_code: fra
+  notes:
+  - Historiquement, les noms d'hôte identifiaient des machines particulières. Aujourd’hui,
+    ils peuvent identifier des fonctions.
+  - Un nom d'hôte est généralement un nom de domaine complet, par exemple, « www.
+    iec.ch » identifie un hôte dans le domaine « iec.ch ». Si l'on veut désigner un
+    hôte situé dans le même domaine local, on peut omettre le nom de domaine.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: nom d’hôte
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 93e81ecf-9dcb-5419-96c2-9b9d257494cf
+status: valid

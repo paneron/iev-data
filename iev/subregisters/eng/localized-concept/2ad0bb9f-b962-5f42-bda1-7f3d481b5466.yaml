@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: definition 3
+      link: https://www.iso.org/standard/37456.html
+      original: ISO 14040:2006, definition 3.2
+      ref: ISO 14040:2006
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: compilation and evaluation of the {{inputs, IEV:901-07-05}}, {{outputs,
+    IEV:901-07-06}} and the potential {{environmental impact, IEV:904-01-03}}s of
+    a product system throughout its life cycle
+  examples: []
+  id: 904-01-18
+  language_code: eng
+  notes: []
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: life cycle assessment
+    normative_status: preferred
+    type: expression
+  - designation: LCA
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: 2ad0bb9f-b962-5f42-bda1-7f3d481b5466
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: définition 437
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 437, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: quotient de d`X` par d`t`, où d`X` est l'accroissement de l'exposition
+    `X` pendant un intervalle de temps de durée d`t` `overset(˙)(X) = d X // d t`
+  examples: []
+  id: 395-01-42
+  language_code: fra
+  notes:
+  - Cet article était numéroté 393-14-99 dans la CEI 60050-393:2003.
+  reviewDecisionEvent: published
+  terms:
+  - designation: débit d'exposition
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d28e154f-131e-54f7-9361-d7a0a6438f5a
+status: valid

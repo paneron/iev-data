@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: unité de base d'une transmission multiplex à courants porteurs, comprenant
+    l'ensemble des moyens destinés à transmettre, par l'intermédiaire d'un milieu
+    de transmission donné, des signaux occupant une bande de fréquences définie, cet
+    ensemble étant compris entre deux points de séparation consécutifs définis pour
+    la bande de fréquences considérée
+  examples: []
+  id: 704-11-04
+  language_code: fra
+  notes:
+  - Sauf spécification contraire, une liaison en ligne assure une transmission dans
+    les deux sens.
+  - Une liaison en ligne ne comprend jamais un filtre de transfert direct.
+  - Les appareils terminaux nécessaires, par exemple pour une transmission par fibre
+    optique ou par faisceau hertzien, sont compris dans la liaison en ligne.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: liaison en ligne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: 73b433dd-84a1-5e53-9380-855173f1224b
+status: valid

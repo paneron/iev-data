@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 601-01-30
+      original: 601-01-30 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: tension entre un conducteur de ligne et le conducteur de neutre en un
+    point donné d'un circuit à courant alternatif
+  examples: []
+  id: 195-05-02
+  language_code: fra
+  notes: []
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tension phase-neutre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tension simple
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 830cd1a8-cb29-57a8-bccf-0670008c850e
+status: valid

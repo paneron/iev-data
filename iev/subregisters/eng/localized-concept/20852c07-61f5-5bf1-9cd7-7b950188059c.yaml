@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the current between the heater and the cathode, when these have a potential
+    difference. The term includes leakage current and any current caused by electron
+    emission from the heater and the cathode
+  examples: []
+  id: 531-16-14
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: heater-cathode insulation current
+    normative_status: preferred
+    type: expression
+  - designation: heater-cathode current
+    type: expression
+dateAccepted: 2021-01-01
+id: 20852c07-61f5-5bf1-9cd7-7b950188059c
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: réception radioélectrique dans laquelle une oscillation locale est synchronisée
+    sur la porteuse du signal radiofréquence incident
+  examples: []
+  id: 713-10-10
+  language_code: fra
+  notes:
+  - La notion de démodulation cohérente ou démodulation synchrone est définie dans
+    la CEI 60050-702.
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: réception (à démodulation) synchrone
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: réception homodyne
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 6a040456-1d22-5be9-9380-19ad242f8120
+status: valid

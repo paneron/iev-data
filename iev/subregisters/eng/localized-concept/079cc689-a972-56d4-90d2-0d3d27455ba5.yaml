@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: '3.2'
+      original: IEC/TS 63053:2017, 3.2
+      ref: IEC/TS 63053:2017
+      relationship:
+        type: identical
+  dateAmended: 2019-05-01
+  definition: value of residual direct current at and below which the DC residual
+    current device does not operate under specified conditions
+  examples: []
+  id: 442-05-73
+  language_code: eng
+  notes: []
+  reviewDate: 2019-05-01
+  reviewDecisionDate: 2019-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: residual non-operating direct current
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-05-01
+id: 079cc689-a972-56d4-90d2-0d3d27455ba5
+status: valid

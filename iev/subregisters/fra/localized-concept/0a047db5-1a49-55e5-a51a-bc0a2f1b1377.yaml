@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 161-06-05
+      original: 161-06-05 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 1998-04-01
+  definition: valeur minimale du rapport signal sur brouillage nécessaire pour obtenir
+    en un point d'une voie de transmission, généralement à la sortie d'un récepteur
+    radioélectrique, un signal de qualité spécifiée
+  examples: []
+  id: 713-11-11
+  language_code: fra
+  notes: []
+  reviewDate: 1998-04-01
+  reviewDecisionDate: 1998-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport de protection
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: rapport de protection nécessaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-04-01
+id: 0a047db5-1a49-55e5-a51a-bc0a2f1b1377
+status: valid

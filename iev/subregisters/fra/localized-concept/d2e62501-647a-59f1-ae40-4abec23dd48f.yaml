@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1991-11-01
+  definition: détermination du fait qu'un signal reçu ne se présente pas sous une
+    forme acceptable, sur la base de critères tels que l'amplitude du signal, le rapport
+    signal/bruit ou la distorsion temporelle, sans vérification du poids ni de la
+    valeur du signal numérique restitué
+  examples: []
+  id: 721-08-55
+  language_code: fra
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: détection de qualité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: détection d'erreurs analogique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1991-11-01
+id: d2e62501-647a-59f1-ae40-4abec23dd48f
+status: valid

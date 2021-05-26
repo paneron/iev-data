@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1993-08-01
+  definition: taux de justification qui serait obtenu si le signal numérique original
+    et la suite des créneaux temporels élémentaires destinée à sa transmission avaient
+    leurs débits numériques respectivement à la limite inférieure et à la limite supérieure
+    des plages de tolérance
+  examples: []
+  id: 704-21-14
+  language_code: fra
+  notes:
+  - Le taux maximal de justification limite supérieurement les valeurs du taux de
+    justification qui peuvent être obtenues en pratique.
+  reviewDate: 1993-08-01
+  reviewDecisionDate: 1993-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: taux maximal de justification
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1993-08-01
+id: d34cf94d-5cdc-5787-a51a-3e21492e9829
+status: valid

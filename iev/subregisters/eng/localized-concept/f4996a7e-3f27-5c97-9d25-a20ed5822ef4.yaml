@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: '3.19'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 3.19, modified – "interested party" has been specified
+        as a synonym and the respective note to entry deleted.
+      ref: IEC 62542:2013
+      relationship:
+        modification: '"interested party" has been specified as a synonym and the
+          respective note to entry deleted.'
+        type: modified
+  classification: Preferred
+  dateAmended: 2014-11-01
+  definition: individual, group or {{organization, IEV:901-03-02}} that has an interest
+    in an organization or activity
+  examples: []
+  id: 904-01-10
+  language_code: eng
+  notes:
+  - Usually a stakeholder can affect or is affected by the organization or the activity.
+  reviewDate: 2014-11-01
+  reviewDecisionDate: 2014-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stakeholder
+    normative_status: preferred
+    type: expression
+  - designation: interested party
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: f4996a7e-3f27-5c97-9d25-a20ed5822ef4
+status: valid

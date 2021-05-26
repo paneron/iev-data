@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-04-01
+  definition: dérivée partielle de la fonction de Lagrange `L` par rapport à la vitesse
+    généralisée `overset(˙)(q)_i`, soit `p_i = ((del L))/((del overset(˙)(q)_i))`
+  examples: []
+  id: 113-03-77
+  language_code: fra
+  notes:
+  - L’unité dépend du type de représentation du système.
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: quantité de mouvement généralisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: dbbafeb8-0360-5556-9c09-e9841b527d4c
+status: valid

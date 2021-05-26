@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2016-12-01
+  definition: device for changing the representation of {{information, IEV:701-01-01}}
+    according to a given {{code, IEV:101-12-04}} into the representation of the same
+    information according to another code
+  examples: []
+  id: 314-02-12
+  language_code: eng
+  notes: []
+  reviewDate: 2016-12-01
+  reviewDecisionDate: 2016-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: code converter
+    normative_status: preferred
+    type: expression
+  - designation: transcoder
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 9c209ebc-5b6d-5a86-bb9d-20efee0671b4
+status: valid

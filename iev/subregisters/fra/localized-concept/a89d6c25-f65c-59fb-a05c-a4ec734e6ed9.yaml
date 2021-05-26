@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - - clause: 2.6.5
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.6.5
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: procédé de {{collage, IEV:523-06-01}} direct de deux {{substrats, IEV:521-05-28}}
+    en augmentant l'énergie de surface de chaque substrat, en utilisant un faisceau
+    ionique ou un rayonnement plasma
+  examples: []
+  id: 523-06-04
+  language_code: fra
+  notes:
+  - Le collage avec activation de surface est efficace pour réduire les contraintes
+    thermiques, car la température du procédé de collage est relativement faible.  Le
+    collage avec activation de surface est susceptible d'être appliqué aux  {{dispositifs,
+    IEV:151-11-20}} à MEMS, pour le collage hermétique du substrat.
+  - Le terme abrégé "SAB" est dérivé du terme anglais développé correspondant "surface-activated
+    bonding".
+  reviewDecisionEvent: published
+  terms:
+  - designation: collage avec activation de surface
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: SAB
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a89d6c25-f65c-59fb-a05c-a4ec734e6ed9
+status: valid

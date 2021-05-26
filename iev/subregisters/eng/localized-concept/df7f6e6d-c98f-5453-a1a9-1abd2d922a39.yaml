@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: behaviour of a digital television system providing a non-abrupt image
+    quality degradation from an unimpaired picture to an unusable picture with decreasing
+    signal-to-noise ratio
+  examples: []
+  id: 723-10-63
+  language_code: eng
+  notes:
+  - Graceful degradation can be achieved by using special forms of digital coding
+    and/or modulation providing data streams with different grades of robustness against
+    transmission errors.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: graceful degradation
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: df7f6e6d-c98f-5453-a1a9-1abd2d922a39
+status: valid

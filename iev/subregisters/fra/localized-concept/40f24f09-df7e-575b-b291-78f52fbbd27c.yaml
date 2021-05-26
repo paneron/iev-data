@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2002-06-01
+  definition: réseau réactif en L obtenu à partir d'une demi-cellule en L à `K` constant
+    de sorte que les bandes affaiblies et passantes soient les mêmes et qu'une, et
+    une seule, des impédances images reste la même et orientée de la même manière
+  examples: []
+  id: 131-15-40
+  language_code: fra
+  notes:
+  - Soit l'impédance de la branche longitudinale est multipliée par `m`, soit l'impédance
+    de la branche transversale est divisée par `m`.
+  reviewDate: 2002-06-01
+  reviewDecisionDate: 2002-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: demi-cellule en L dérivée en `m`
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 40f24f09-df7e-575b-b291-78f52fbbd27c
+status: valid

@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: limite, si elle existe, de l'indisponibilité instantanée lorsque le
+    temps tend vers l'infini
+  examples: []
+  id: 192-08-08
+  language_code: fra
+  notes:
+  - Dans certaines conditions, l’indisponibilité en régime établi peut être exprimée
+    comme le quotient du temps moyen d’indisponibilité par la somme des temps moyens
+    de disponibilité et d’indisponibilité. Voir l'IEC 61703, _Expressions mathématiques
+    pour les termes de fiabilité, de disponibilité, de maintenabilité et de logistique
+    de maintenance_.
+  reviewDecisionEvent: published
+  terms:
+  - designation: indisponibilité en régime établi
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: indisponibilité asymptotique
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4811aa20-b38b-5a89-b6d0-feaf4d8fa96c
+status: valid

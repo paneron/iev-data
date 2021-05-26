@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2017-07-01
+  definition: relation `f` such that for any entity `a` there is exactly one entity
+    `b` to which `a` is related by `f`
+  examples: []
+  id: 102-01-10
+  language_code: eng
+  notes:
+  - "If `a` is related to `b` by the function `f`, then:\n\n\n\n* `f` is said to be\
+    \ defined for `a`, \n\n* `a` is an argument of the function `f`, \n\n* `b` is\
+    \ a value of the function `f` and is usually denoted by `f`(`a`). \n\nThe argument\
+    \ may be an elementary entity, such as a number, or an ordered set of elementary\
+    \ entities, and the same for the value."
+  - 'If `A` is the set of all arguments of the function `f` and `B` is a set containing
+    all the values, then:  * `f` is said to be a mapping of `A` into `B`, * `A` is
+    the domain of the function, * `B` is the range or codomain of the function.'
+  - The term "function" may be qualified according to the nature of the value, e.g.
+    real function, complex function, vector function, or to the character of the relation,
+    e.g. algebraic function, trigonometric function, hyperbolic function.
+  - The term "operation" is used for elementary arithmetic functions such as addition,
+    subtraction, multiplication, division, and also for logical functions.
+  - The term "operation" has other meanings in {{IEV 151-11-28, IEV:151-11-28}} and
+    {{IEV 151-11-30, IEV:151-11-30}}.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: function
+    normative_status: preferred
+    type: expression
+  - designation: operation
+    normative_status: preferred
+    type: expression
+    usage_info: mathematics
+dateAccepted: 2017-07-01
+id: 67d32c6a-3d9c-5766-be6a-14b6b6400884
+status: valid

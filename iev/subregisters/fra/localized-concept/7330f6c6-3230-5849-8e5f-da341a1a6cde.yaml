@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2004-04-01
+  definition: courant électrique auquel on charge un accumulateur ou une batterie
+    d'accumulateurs
+  examples: []
+  id: 482-05-45
+  language_code: fra
+  notes:
+  - Le régime de charge est le courant de référence `I`~t~ = `C`~r~/`n` où `C`~r~
+    la capacité assignée déclarée par le fabricant et `n` est le temps de base en
+    heures pour lequel la capacité assignée est déclarée.
+  reviewDate: 2004-04-01
+  reviewDecisionDate: 2004-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: régime de charge
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-04-01
+id: 7330f6c6-3230-5849-8e5f-da341a1a6cde
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-07-01
+  definition: '{{error control, IEV:702-07-40}} with a view to determining the presence
+    of erroneous elements in a message'
+  examples: []
+  id: 702-07-41
+  language_code: eng
+  notes:
+  - Error detection generally uses an appropriate {{error detecting code, IEV:702-05-19}}.
+  reviewDate: 2017-07-01
+  reviewDecisionDate: 2017-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: error detection
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-07-01
+id: 732866bd-fea0-57cc-b83f-955786da4928
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Admitted
+  dateAmended: 2020-02-01
+  definition: output terminal at which electric power is supplied from the {{fuel
+    cell stack, IEV:485-06-01}}
+  examples: []
+  id: 485-06-08
+  language_code: eng
+  notes: []
+  reviewDate: 2020-02-01
+  reviewDecisionDate: 2020-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stack terminal
+    normative_status: preferred
+    type: expression
+  - designation: bus bar
+    normative_status: admitted
+    type: expression
+dateAccepted: 2020-02-01
+id: 10a737c6-30ce-5d08-8bcc-b8a32a89ce88
+status: valid

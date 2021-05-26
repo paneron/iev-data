@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: action ou fonction d'un système AAD qui génère une valeur ajoutée pour
+    les clients
+  examples:
+  - Un service AAD peut comporter, par exemple* la configuration et la maintenance
+    des systèmes AAD,* des systèmes d’aide destinés à soutenir l’environnement domestique.
+  id: 871-01-04
+  language_code: fra
+  notes:
+  - Un service AAD peut comprendre plusieurs services individuels.
+  reviewDecisionEvent: published
+  terms:
+  - designation: service AAD
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: service d’assistance à l’autonomie à domicile
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c0f3c92a-324e-509a-aa73-c3a2c82e4a5b
+status: valid

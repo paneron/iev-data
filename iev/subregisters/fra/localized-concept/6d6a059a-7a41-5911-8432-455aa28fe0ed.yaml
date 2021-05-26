@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '`p_c = ((L_d))/((L_n + L_d))` où `L`~d~ et `L`~n~ sont respectivement
+    les luminances du stimulus monochromatique et du stimulus achromatique spécifié
+    qui égalisent le stimulus de couleur pris en considération par leur mélange additif'
+  examples: []
+  id: 845-23-065
+  language_code: fra
+  notes:
+  - Dans le cas de stimuli pourpres, le stimulus monochromatique est remplacé par
+    un stimulus dont la chromaticité est représentée par un point sur la limite des
+    pourpres.
+  - Dans le système de référence colorimétrique CIE 1931, la pureté colorimétrique,
+    `p`~c~, est liée à la pureté d'excitation, `p`~e~, par la relation `p`~c~ = `p`~e~`y`~d~/`y`
+    où `y`~d~ et `y` sont respectivement les coordonnées trichromatiques sur l'axe
+    du stimulus monochromatique et du stimulus de couleur pris en considération.
+  - Dans le système de référence colorimétrique CIE 1964, `p`~c,10~, est définie par
+    la relation donnée à la Note 2 à l'article, tout en utilisant `p`~e,10~, `y`~d,10~
+    et `y`~10~ au lieu de `p`~e~, `y`~d~, et `y` respectivement.
+  - Cet article était numéroté 845-03-47 dans l'IEC 60050-845:1987.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pureté colorimétrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6d6a059a-7a41-5911-8432-455aa28fe0ed
+status: valid

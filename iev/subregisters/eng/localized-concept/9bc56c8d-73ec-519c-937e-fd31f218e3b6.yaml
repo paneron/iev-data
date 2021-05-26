@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-09-01
+  definition: contacts which provide different contact levels and sequencing
+  examples: []
+  id: 581-27-37
+  language_code: eng
+  notes:
+  - During connector module engaging (insertion), at least one contact of the higher
+    level shall connect before any contact of a lower contact level; whilst during
+    connector module disengaging (withdrawal), at least one contact of the higher
+    level will not disconnect before any contact of a lower contact level.
+  reviewDate: 2008-09-01
+  reviewDecisionDate: 2008-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: first make/last break contacts
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-09-01
+id: 9bc56c8d-73ec-519c-937e-fd31f218e3b6
+status: valid

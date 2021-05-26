@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dérive temporelle crête à crête la plus importante (TIE) dans un intervalle
+    de durée d'observation `τ` (en secondes)
+  examples: []
+  id: 561-03-17
+  language_code: fra
+  notes:
+  - L’abréviation «MTIE» est dérivée du terme anglais développé correspondant «maximum
+    time interval error».
+  reviewDecisionEvent: published
+  terms:
+  - designation: dérive temporelle maximale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MTIE
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b0513fb6-02a2-52d2-a509-73484b1fe988
+status: valid

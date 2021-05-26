@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: input circuit in which one input terminal is directly earthed; this
+    terminal is often the common point
+  examples: []
+  id: 312-06-13
+  language_code: eng
+  notes: []
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: earthed input circuit
+    normative_status: preferred
+    type: expression
+  - designation: grounded input
+    type: expression
+  - designation: single-ended input
+    type: expression
+dateAccepted: 2001-07-01
+id: b474b872-113f-57b4-ad7e-33d8daa62519
+status: valid

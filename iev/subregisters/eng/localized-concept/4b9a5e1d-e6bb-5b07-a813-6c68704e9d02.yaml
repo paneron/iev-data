@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 16.02.06
+      link: https://www.iso.org/standard/7259.html
+      original: ISO/IEC 2382-16:1996, 16.02.06
+      ref: ISO/IEC 2382-16:1996
+      relationship:
+        type: identical
+  dateAmended: 2019-03-01
+  definition: '{{message source, IEV:171-07-05}} from which each message has a probability
+    of occurrence independent of the time of its occurrence'
+  examples: []
+  id: 171-07-09
+  language_code: eng
+  notes: []
+  reviewDate: 2019-03-01
+  reviewDecisionDate: 2019-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: stationary message source
+    normative_status: preferred
+    type: expression
+  - designation: stationary information source
+    type: expression
+dateAccepted: 2019-03-01
+id: 4b9a5e1d-e6bb-5b07-a813-6c68704e9d02
+status: valid

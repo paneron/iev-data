@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - - clause: 13-41
+      link: https://webstore.iec.ch/publication/7479
+      original: IEC 80000-13:2008, 13-41, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+      ref: IEC 80000-13:2008
+      relationship:
+        modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+          aux règles de l’IEV
+        type: modified
+  definition: valeur maximale de la {{transinformation moyenne par caractère, IEV:171-07-30}},
+    qui peut être atteinte avec une {{probabilité d'erreur, IEV:171-06-08}} arbitrairement
+    faible grâce à l'emploi d'un {{code, IEV:171-01-15}} approprié
+  examples: []
+  id: 171-07-32
+  language_code: fra
+  notes:
+  - La transinformation moyenne par caractère est un moyen d’exprimer quantitativement
+    l'aptitude d'un canal soumis à des contraintes spécifiées à transmettre les messages
+    d'une source de messages donnée.
+  - La transinformation moyenne par caractère peut être exprimée à l'aide d'une unité
+    telle que le shannon par caractère.
+  reviewDecisionEvent: published
+  terms:
+  - designation: capacité de canal par caractère
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 835cd559-ec68-5abc-9047-fa73e521cdd5
+status: valid

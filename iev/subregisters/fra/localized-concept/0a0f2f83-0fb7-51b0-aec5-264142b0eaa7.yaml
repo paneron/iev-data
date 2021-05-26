@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intervalle de temps depuis la première utilisation jusqu'à ce que les
+    besoins de l'utilisateur ne soient plus satisfaits à cause des coûts de fonctionnement
+    et de maintenance ou pour obsolescence
+  examples: []
+  id: 192-02-27
+  language_code: fra
+  notes:
+  - La première utilisation exclut, dans ce contexte, les essais préalables à la livraison
+    de l’entité à l’utilisateur final.
+  reviewDecisionEvent: published
+  terms:
+  - designation: vie utile
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’une entité
+dateAccepted: 2018-11-17
+id: 0a0f2f83-0fb7-51b0-aec5-264142b0eaa7
+status: valid

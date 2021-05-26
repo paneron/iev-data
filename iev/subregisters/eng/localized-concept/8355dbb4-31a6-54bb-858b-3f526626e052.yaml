@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: quotient step response Δ`v`~ε~(`t`) divided by the step height `K`~ε~
+    of the step function, the quotient described by `h ( t ) = (1)/((K_(epsilon)))
+    . Delta v_(epsilon) ( t )`
+  examples: []
+  id: 351-45-30
+  language_code: eng
+  notes:
+  - 'The unit-step response may be calculated from the unit-impulse response by
+
+
+    `h ( t ) = int_((- oo))^t g ( tau ) d tau`.'
+  - The unit-step response of a system mathematically may be considered to result
+    from application of a unit step to an input variable.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: unit-step response
+    normative_status: preferred
+    type: expression
+  - designation: '`h`(`t`)'
+    international: true
+    type: symbol
+dateAccepted: 2013-11-01
+id: 8355dbb4-31a6-54bb-858b-3f526626e052
+status: valid

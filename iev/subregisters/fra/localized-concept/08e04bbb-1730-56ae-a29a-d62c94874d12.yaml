@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: intervalle de temps entre l'instant spécifié de début de la manoeuvre
+    d'ouverture et l'instant de la séparation des contacts d'arc sur tous les pôles
+  examples: []
+  id: 441-17-36
+  language_code: fra
+  notes:
+  - L'instant de début de la manoeuvre d'ouverture, c'est-à-dire l'émission de l'ordre
+    d'ouverture (par exemple l'alimentation d'un déclencheur, etc.) est donné dans
+    les spécifications particulières.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée d'ouverture
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 08e04bbb-1730-56ae-a29a-d62c94874d12
+status: valid

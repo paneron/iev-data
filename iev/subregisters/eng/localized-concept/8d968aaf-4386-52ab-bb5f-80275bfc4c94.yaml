@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2011-04-01
+  definition: for a point rotating around a fixed axis, quotient of the length travelled
+    by the point and the distance from the point to the axis, taken positive or negative
+    according to whether the rotation is observed to be in the counterclockwise sense
+    or the clockwise sense, respectively, for an observer looking in the direction
+    opposite to the direction of the axis
+  examples: []
+  id: 113-01-43
+  language_code: eng
+  notes:
+  - 1 Angle of rotation can take any real value, whereas the angle or plane angle
+    defined in geometry (see IEC 60050-102:2007, 102-04-14) is non-negative and restricted
+    to the closed interval [0, π].
+  - '2  The coherent SI unit of angle is radian (symbol rad). Other units accepted
+    for use with the SI are degree (symbol °), minute (symbol ′) and second (symbol
+    ″): 1° = (π/180) rad, 1′ = (1/60)°, 1″ = (1/60)′. A non-SI unit is revolution
+    (symbol r).'
+  reviewDate: 2011-04-01
+  reviewDecisionDate: 2011-04-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: angle of rotation
+    normative_status: preferred
+    type: expression
+  - designation: oriented angle
+    normative_status: preferred
+    type: expression
+  - designation: ''
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 8d968aaf-4386-52ab-bb5f-80275bfc4c94
+status: valid

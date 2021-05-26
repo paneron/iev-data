@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1994-08-01
+  definition: in TDMA, the initial portion of a burst, during which signals are transmitted
+    to enable receiving equipment to acquire, for example, carrier frequency and carrier
+    phase lock, bit and burst synchronisation, the identity of the transmitting earth
+    station and the purpose of the burst
+  examples: []
+  id: 725-14-24
+  language_code: eng
+  notes: []
+  reviewDate: 1994-08-01
+  reviewDecisionDate: 1994-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: preamble
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-08-01
+id: 44b9cbc0-5742-57e5-9dcf-6563de05ad13
+status: valid

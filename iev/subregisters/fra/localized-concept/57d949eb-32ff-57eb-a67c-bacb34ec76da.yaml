@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.6
+      original: IEC TS 80004-9:2017, 3.1.6, modifié – Dans la définition, "mélange"
+        a été remplacé par "substance".
+      ref: IEC/TS 80004-9:2017
+      relationship:
+        modification: Dans la définition, "mélange" a été remplacé par "substance".
+        type: modified
+  definition: substance contenant des {{nanomatériaux, IEV:511-01-04}} destiné à être
+    utilisé en imprimerie
+  examples: []
+  id: 511-01-17
+  language_code: fra
+  notes:
+  - Les applications d'une nano-encre englobent les polymères organiques semiconducteurs
+    ou le papier ou le plastique pour créer un {{dispositif, IEV:511-01-01}} électroniquement
+    fonctionnel.
+  reviewDecisionEvent: published
+  terms:
+  - designation: nano-encre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 57d949eb-32ff-57eb-a67c-bacb34ec76da
+status: valid

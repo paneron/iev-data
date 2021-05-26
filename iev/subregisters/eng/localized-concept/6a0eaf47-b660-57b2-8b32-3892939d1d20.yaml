@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2001-07-01
+  definition: ratio of the r.m.s. value of the harmonic content to the r.m.s. value
+    of the fundamental component or the reference fundamental component of an alternating
+    quantity
+  examples: []
+  id: 551-20-13
+  language_code: eng
+  notes:
+  - The total harmonic ratio depends on the choice of the fundamental component. If
+    it is not clear from the context which one is used an indication should be given.
+  - The total harmonic ratio may be restricted to a certain harmonic order. This is
+    to be stated.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: total harmonic ratio
+    normative_status: preferred
+    type: expression
+  - designation: total harmonic distortion
+    type: expression
+  - designation: THD
+    type: expression
+dateAccepted: 2001-07-01
+id: 6a0eaf47-b660-57b2-8b32-3892939d1d20
+status: valid

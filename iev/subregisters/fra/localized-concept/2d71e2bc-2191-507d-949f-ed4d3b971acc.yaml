@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{équipement, IEV:651-21-16}} de mise à la terre ou de mise à la terre
+    et en court-circuit utilisant une ou plusieurs lances comme {{dispositif de mise
+    à la terre et en court-circuit, IEV:651-25-02}}'
+  examples: []
+  id: 651-25-07
+  language_code: fra
+  notes:
+  - La canne de mise à la terre est constituée d'une partie conductrice (canne), d'une
+    poignée isolante et de sa garde et/ou d'une {{perche de mise à la terre, IEV:651-25-05}}
+    ou d'un {{dispositif, IEV:651-21-15}} d'accouplement en cas d'élément isolant
+    additionnel.
+  - La canne est poussée longitudinalement au moyen de guide dans les contacts de
+    canne.
+  - 'Cet article était numéroté 651-14-13 dans la CEI 60050-651:1999. Il a été modifié
+    comme suit: Harmonisation avec le texte anglais et clarification de la définition.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: canne de mise à la terre
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2d71e2bc-2191-507d-949f-ed4d3b971acc
+status: valid

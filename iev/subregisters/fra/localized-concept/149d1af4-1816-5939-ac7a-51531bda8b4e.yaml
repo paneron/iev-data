@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1983-01-01
+  definition: produit du coefficient de transfert d'énergie `( ((mu_((tr))))/(rho)
+    )` d'une substance par (1– `g`), `g` étant la fraction de l'énergie des particules
+    chargées secondaires perdue par rayonnement de freinage dans la substance
+  examples: []
+  id: 881-04-33
+  language_code: fra
+  notes:
+  - Lorsque cette substance est l'air, `((mu_((en))))/(rho)` est proportionnel au
+    quotient de l'exposition par la fluence énergétique dans le cas habituel où l'énergie
+    moyenne par paire d'ions W est constante.
+  reviewDate: 1983-01-01
+  reviewDecisionDate: 1983-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: coefficient d'absorption d'énergie massique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: 149d1af4-1816-5939-ac7a-51531bda8b4e
+status: valid

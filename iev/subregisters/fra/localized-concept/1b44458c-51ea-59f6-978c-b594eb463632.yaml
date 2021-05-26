@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: 'tarif comportant des prix différents selon les heures de la journée
+    (par exemple: prix de pointe, prix d''heures pleines, prix d''heures creuses)'
+  examples: []
+  id: 691-06-01
+  language_code: fra
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: tarif horaire
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: tarif multiple
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 1b44458c-51ea-59f6-978c-b594eb463632
+status: valid

@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-06-01
+  definition: numerical value of the Celsius temperature expressed in degrees Celsius
+    characterizing the thermal capability of an insulating material or an insulation
+    system
+  examples: []
+  id: 212-12-11
+  language_code: eng
+  notes:
+  - In case of insulating materials, the temperature index is derived from the thermal
+    endurance relationship at a given time, normally 20 000 hours. It may be used
+    as basis for determination of the material’s temperature class.
+  - In case of insulation systems, the temperature index may be derived from known
+    service experience or from a known comparative functional evaluation of an evaluated
+    and established reference insulation system as basis.
+  reviewDate: 2010-06-01
+  reviewDecisionDate: 2010-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: temperature index
+    normative_status: preferred
+    type: expression
+  - designation: TI
+    type: expression
+dateAccepted: 2010-06-01
+id: a0f09dba-77a6-587d-80f5-272913e75e39
+status: valid

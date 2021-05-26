@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: the transmission of the values of measurable quantities which are integrated
+    over a specified parameter, such as time, using telecommunication techniques
+  examples: []
+  id: 371-01-05
+  language_code: eng
+  notes:
+  - The integration may take place before or after transmission. If integration takes
+    place before transmission the expression "transmission of integrated totals" is
+    used.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: telecounting
+    normative_status: preferred
+    type: expression
+  - designation: transmission of integrated totals
+    type: expression
+dateAccepted: 2021-01-01
+id: edbe1a31-1938-5f78-8c84-496fa9ed2cbc
+status: valid

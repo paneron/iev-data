@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: command which is issued after a specified delay time interval, starting
+    when the associated step has been activated, and ending as soon as the associated
+    step is deactivated, and not being issued, if the associated step is activated
+    and deactivated within the specified delay time interval
+  examples: []
+  id: 351-51-07
+  language_code: eng
+  notes:
+  - The delayed command is identified in IEC 60848, _GRAFCET specification language
+    for sequential function charts_, by the conventional letter “D”.
+  - This entry was numbered 351-29-34 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: delayed command
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 0b68d87f-66f5-5355-ae8a-51be76f987e6
+status: valid

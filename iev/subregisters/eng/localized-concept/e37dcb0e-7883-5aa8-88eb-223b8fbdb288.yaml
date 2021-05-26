@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - - clause: 3.10 + NOTE 2
+      original: ≠ VIM 3.10 + NOTE 2
+      ref: JCGM VIM
+      relationship:
+        type: not_equal
+  dateAmended: 2001-07-01
+  definition: algebraic difference between the indicated value and a comparison value
+  examples: []
+  id: 311-01-05
+  language_code: eng
+  notes:
+  - This term is used in the "true value" approach.
+  - The comparison value should be a true value of the quantity but, since a true
+    value cannot be determined, in general, a conventional true value is used.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: absolute error
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: e37dcb0e-7883-5aa8-88eb-223b8fbdb288
+status: valid

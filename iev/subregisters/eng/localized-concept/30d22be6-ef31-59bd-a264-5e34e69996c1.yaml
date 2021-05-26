@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: 891-02-05
+      original: See 891-02-05
+      ref: IEV
+      relationship:
+        type: related
+  dateAmended: 1998-02-01
+  definition: action potential on an axon
+  examples: []
+  id: 891-02-27
+  language_code: eng
+  notes:
+  - The propagated potential is an all or nothing event, whose amplitude is independent
+    of the stimulus strength.
+  reviewDate: 1998-02-01
+  reviewDecisionDate: 1998-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: propagated potential
+    normative_status: preferred
+    type: expression
+  - designation: propagated spike
+    type: expression
+dateAccepted: 1998-02-01
+id: 30d22be6-ef31-59bd-a264-5e34e69996c1
+status: valid

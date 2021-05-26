@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: '3.5'
+      link: https://webstore.iec.ch/publication/6357
+      original: IEC 62047-12:2011, 3.5
+      ref: IEC 62047-12:2011
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: '{{failure strength, IEV:523-03-13}} in a quasi-static test or a resonant
+    vibration test at rapid {{amplitude, IEV:523-03-11}} growth'
+  examples: []
+  id: 523-03-14
+  language_code: eng
+  notes: []
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: instantaneous failure strength
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 0187cf10-7bda-50fc-ba4c-4ffa47f17bc8
+status: valid

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: radiance in a given direction that results from emission at the surface
+    of a photoluminescent medium under specified conditions of irradiation compared
+    to the radiance in the same direction by the perfect reflecting diffuser identically
+    irradiated
+  examples: []
+  id: 845-21-100
+  language_code: eng
+  notes:
+  - The luminescent radiance factor depends upon the spectral power distribution of
+    the irradiation and this quantity is typically specified for a given CIE illuminant
+    condition.
+  - The luminescent radiance factor has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: luminescent radiance factor
+    normative_status: preferred
+    type: expression
+    usage_info: of a photoluminescent material
+  - designation: '`β`~L~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 4b7349c6-dd20-5a2c-a03d-70db2c516964
+status: valid

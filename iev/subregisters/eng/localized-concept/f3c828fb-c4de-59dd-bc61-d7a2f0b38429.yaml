@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2021-01-01
+  definition: a station in a hierarchical telecontrol network at which the monitored
+    information coming from outstations is concentrated for transmission to the master
+    station and at which the command information is distributed to the outstations
+  examples: []
+  id: 371-06-02
+  language_code: eng
+  notes: []
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: submaster station
+    normative_status: preferred
+    type: expression
+  - designation: concentrator station
+    type: expression
+dateAccepted: 2021-01-01
+id: f3c828fb-c4de-59dd-bc61-d7a2f0b38429
+status: valid

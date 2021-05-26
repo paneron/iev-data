@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - - clause: 2.6.6
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.6.6
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  dateAmended: 2018-12-01
+  definition: technique of {{bonding, IEV:523-06-01}} hydrophilized {{substrates,
+    IEV:521-05-28}} made of silicon, oxidized silicon, and so on by primary hydrogen
+    bonds between the surfaces, and then by Si-O-Si bonds after {{annealing, IEV:841-22-23}}
+    at high temperature
+  examples: []
+  id: 523-06-05
+  language_code: eng
+  notes:
+  - Silicon fusion bonding is used to form impurity diffusion layers or insulation
+    layers inside a {{wafer, IEV:521-05-29}} by bonding two silicon wafers, one or
+    both of which may be oxidized. The technology is also used to bond wafers that
+    contain impurities of different species or concentrations, as an alternative process
+    to in-depth impurity diffusion or epitaxial growth where high temperatures and
+    a long process time are required. The main problem with silicon fusion bonding
+    is its high process temperature; all lower-temperature processes should take place
+    after the bonding. Studies are ongoing to lower the process temperature by the
+    application of plasma oxidation treatment before bonding, and to apply the technology
+    to bond non-silicon materials. By bonding oxidized wafers, the {{silicon-on-insulator,
+    IEV:523-04-20}} (SOI) structure can be obtained, in which an insulation layer
+    is sandwiched by two silicon layers. The SOI structure is used to separate integrated
+    element {{components, IEV:151-11-21}} by oxide and other  {{dielectric materials,
+    IEV:561-01-16}} to improve performance; for example, to manufacture {{photodiode,
+    IEV:521-04-32}} arrays and so on. Another application of the technology is bonding
+    wafers that have been bored or cut with grooves, to obtain precise structures
+    made inside a wafer. This technique is used to make pressure  {{sensors, IEV:151-13-48}},
+    and heat exchangers for laser diodes with an internal cooling structure, and so
+    on.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: silicon fusion bonding
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 6cebc4e0-d3c8-51ca-aead-463ecbb0f121
+status: valid

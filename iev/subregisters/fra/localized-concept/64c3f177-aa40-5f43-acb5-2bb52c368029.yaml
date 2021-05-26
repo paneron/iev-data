@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: représentation d'une grandeur intégrale sinusoïdale par une grandeur
+    complexe dont l'argument est égal à la phase à l'origine et le module est égal
+    à la valeur efficace ({{103-02-03, IEV:103-02-03}})
+  examples: []
+  id: 131-11-26
+  language_code: fra
+  notes:
+  - 'Pour une grandeur `a ( t ) = A sqrt(2) cos ( omega t + vartheta_0 )`
+
+
+    le phaseur est `A exp j vartheta_0`. On utilise souvent le phaseur de courant
+    électrique `underset(_)(I)` et le phaseur de tension électrique `underset(_)(U)`.'
+  - La représentation semblable où le module est égal à l'amplitude est parfois aussi
+    appelée «phaseur». Voir {{103-07-14, IEV:103-07-14}}.
+  - Un phaseur peut aussi être représenté graphiquement.
+  reviewDecisionEvent: published
+  terms:
+  - designation: phaseur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 64c3f177-aa40-5f43-acb5-2bb52c368029
+status: valid

@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-08-01
+  definition: in the three-dimensional Euclidean space, vector normal to a given surface
+    at a given point, the magnitude of which is the scalar surface element at the
+    given point
+  examples: []
+  id: 102-05-07
+  language_code: eng
+  notes:
+  - When the space orientation is defined by a right-handed trihedron, the direction
+    of the vector surface element defines the orientation of the surface at that point
+    as being in the anti-clockwise direction for an observer looking in the direction
+    opposite to that of the vector.
+  - 'For a surface defined by *`r`* = *`f`*(`u`, `v`) where `( u , v ) in U sube R^2`,
+    the vector surface element is given by
+
+
+    `((del f))/((del u)) xx ((del f))/((del v)) * d u d v`.'
+  - A vector surface element is preferably designated by `e_n d A` or sometimes by
+    `n d A`, where `e_n = n` is a unit vector normal to the surface and d`A` is a
+    scalar surface element.
+  reviewDate: 2008-08-01
+  reviewDecisionDate: 2008-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: vector surface element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: d84fd6c4-2905-579a-9d8d-ecc607d738f9
+status: valid

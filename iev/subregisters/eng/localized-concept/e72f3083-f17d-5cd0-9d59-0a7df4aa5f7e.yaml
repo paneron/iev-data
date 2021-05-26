@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: 10.2.2
+      link: https://www.iso.org/standard/39976.html
+      original: ISO/IEC Guide 2:2004, 10.2.2, modified – The note from the title of
+        Clause 10 in ISO/IEC Guide 2:2004 has been added to the entry.
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        modification: The note from the title of Clause 10 in ISO/IEC Guide 2:2004
+          has been added to the entry.
+        type: modified
+  dateAmended: 2013-11-01
+  definition: application of an {{international standard, IEV:901-02-03}} through
+    the medium of another {{normative document, IEV:901-02-01}} in which it has been
+    {{taken over, IEV:901-06-10}}
+  examples: []
+  id: 901-06-13
+  language_code: eng
+  notes:
+  - A normative document can be said to be “implemented” in two different ways. It
+    may be applied in production, trade, etc., and it may be taken over, wholly or
+    in part, in another normative document. Through the medium of this second document,
+    it may then be applied, or it may again be taken over in yet another normative
+    document.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: indirect application of an international standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: e72f3083-f17d-5cd0-9d59-0a7df4aa5f7e
+status: valid

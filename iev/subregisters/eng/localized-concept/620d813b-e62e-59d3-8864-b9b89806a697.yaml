@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2011-01-01
+  definition: position determined by the 2D-centroid of a set of pulse-pressure-squared
+    integrals measured over the –6 dB beam-area in a specified plane
+  examples: []
+  id: 802-01-07
+  language_code: eng
+  notes:
+  - Methods for determining 2D-centroids are described in Annexes B and C of IEC 61828.
+  reviewDate: 2011-01-01
+  reviewDecisionDate: 2011-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: beam centrepoint
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-01-01
+id: 620d813b-e62e-59d3-8864-b9b89806a697
+status: valid

@@ -1,0 +1,38 @@
+data:
+  authoritativeSource:
+  - - clause: '3.3'
+      link: https://webstore.iec.ch/publication/7182
+      original: IEC 62542:2013, 3.3
+      ref: IEC 62542:2013
+      relationship:
+        type: identical
+  classification: Preferred
+  definition: dispositif électronique qui ne peut pas être démonté sans le détruire
+    ou nuire à son {{utilisation prévue, IEV:903-01-13}}
+  examples:
+  - '{{Résistances, IEV:151-13-19}}, {{condensateurs, IEV:151-13-28}}, {{diodes, IEV:531-31-01}},
+    {{circuits intégrés, IEV:521-10-03}}, hybrides, {{circuits intégrés spécifiques,
+    IEV:521-11-18}}, composants enroulés et {{relais, IEV:151-13-31}}.'
+  id: 904-01-09
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: composant électronique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: pièce électronique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: pièce élémentaire
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 34eb1f73-2b53-5bd0-b279-ec9dbf193699
+status: valid

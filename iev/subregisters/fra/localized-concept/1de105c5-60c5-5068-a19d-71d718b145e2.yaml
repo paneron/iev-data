@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2000-07-01
+  definition: courbe donnant, pour des conditions déterminées de fonctionnement, le
+    courant coupé limité en fonction du courant présumé
+  examples: []
+  id: 441-17-14
+  language_code: fra
+  notes:
+  - En courant alternatif, les valeurs du courant coupé limité sont les valeurs maximales
+    quel que soit le degré d'asymétrie. En courant continu, ce sont les valeurs du
+    courant coupé limité maximales atteintes compte tenu de la constante de temps
+    spécifiée.
+  reviewDate: 2000-07-01
+  reviewDecisionDate: 2000-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: caractéristique de courant coupé limité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 1de105c5-60c5-5068-a19d-71d718b145e2
+status: valid

@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1997-03-01
+  definition: sampling of a picture where the points on the scanning lines corresponding
+    to the sampling instants are not aligned in the picture perpendicularly to the
+    scanning line direction
+  examples: []
+  id: 723-10-25
+  language_code: eng
+  notes:
+  - In the case of progressive scanning, the points in a scanning line are not aligned
+    with those points in the temporally adjacent lines of the same field; in the case
+    of interlaced scanning, the points in a scanning line are not aligned with those
+    points in the spatially adjacent lines of the preceding field.
+  reviewDate: 1997-03-01
+  reviewDecisionDate: 1997-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: non-orthogonal sampling
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: dacbad80-7190-563a-a9a0-56fe9f38cb8f
+status: valid

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-05-01
+  definition: part of a {{measuring relay, IEV:447-01-02}} or {{protection equipment,
+    IEV:447-01-49}} where a predetermined {{output signal, IEV:447-04-03}} is produced
+  examples:
+  - Analogue circuit, {{contact circuit, IEV:447-04-05}}, effectively conducting/non-conducting
+    electronic circuit, digital circuit, communication port.
+  id: 447-04-01
+  language_code: eng
+  notes: []
+  reviewDate: 2020-05-01
+  reviewDecisionDate: 2020-05-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: output circuit
+    normative_status: preferred
+    type: expression
+    usage_info: of a measuring relay or protection equipment
+dateAccepted: 2020-05-01
+id: 82dd0f64-988f-591f-bb0b-94c09792d6a4
+status: valid

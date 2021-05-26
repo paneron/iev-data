@@ -1,0 +1,43 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1995-09-01
+  definition: fréquence la plus élevée à laquelle une onde radioélectrique peut se
+    propager entre des stations terminales données situées au dessous de l'ionosphère,
+    dans une circonstance spécifiée, par réfraction ionosphérique exclusivement
+  examples: []
+  id: 705-07-21
+  language_code: fra
+  notes:
+  - Lorsque la MUF de référence est limitée à un mode de propagation ionosphérique
+    particulier, ses valeurs peuvent être accompagnées de l'indication de ce mode,
+    par exemple 2F2MUF.
+  - Si l'onde extraordinaire intervient, on doit l'indiquer, par exemple 1F2 MUF(x).
+    L'absence de référence spécifique à la composante magnéto-ionique signifie que
+    la valeur indiquée se rapporte à l'onde ordinaire.
+  - Si on désire indiquer la distance au sol pour laquelle la MUF de référence doit
+    être utilisée, cette indication en kilomètres figure à la suite de l'indication
+    du mode, par exemple 1F2 (4000) MUF.
+  reviewDate: 1995-09-01
+  reviewDecisionDate: 1995-09-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: MUF de référence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MUF classique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: MUF normalisée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: cd25367a-b327-523e-9284-ef4334693c78
+status: valid

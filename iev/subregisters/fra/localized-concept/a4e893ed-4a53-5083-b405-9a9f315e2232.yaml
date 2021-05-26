@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: Niveau de Protection assigné à un matériel, basé sur sa probabilité
+    de devenir une source d'inflammation et distinguant les différences entre les
+    atmosphères explosives gazeuses, les atmosphères explosives de poussière et les
+    atmosphères explosives dans les mines grisouteuses
+  examples: []
+  id: 426-01-15
+  language_code: fra
+  notes:
+  - Le terme abrégé "EPL" est dérivé du terme anglais développé correspondant "equipment
+    protection level".
+  reviewDecisionEvent: published
+  terms:
+  - designation: EPL
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Niveau de Protection du Matériel
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a4e893ed-4a53-5083-b405-9a9f315e2232
+status: valid

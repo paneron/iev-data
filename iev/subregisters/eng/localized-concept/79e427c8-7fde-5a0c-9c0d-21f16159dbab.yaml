@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of the colour stimulus function, `φλ`(`λ`), and a fixed reference
+    value, `R` `phi ( lambda ) = ((phi_(lambda) ( lambda )))/(R)`
+  examples: []
+  id: 845-23-004
+  language_code: eng
+  notes:
+  - The fixed reference value, `R`, is usually the maximum value of the colour stimulus
+    function.
+  - This entry was numbered 845-03-04 in IEC 60050-845:1987.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: relative colour stimulus function
+    normative_status: preferred
+    type: expression
+  - designation: '`φ`(`λ`)'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 79e427c8-7fde-5a0c-9c0d-21f16159dbab
+status: valid

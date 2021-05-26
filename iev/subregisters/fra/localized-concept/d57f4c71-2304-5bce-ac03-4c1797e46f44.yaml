@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: exposition énergétique effective avec pondération spectrale de l'exposition
+    énergétique de même nature, `Hλ`, par la fonction de pondération spectrale du
+    danger lié aux ultraviolets `S`~UV~(`λ`)
+  examples: []
+  id: 845-26-053
+  language_code: fra
+  notes:
+  - 'La plage de longueurs d''onde pour l''exposition énergétique avec danger lié
+    aux ultraviolets est spécifiée dans les recommandations de l''ICNIRP comme suit:
+    `λ`~1~ = 180 nm à `λ`~2~ = 400 nm.'
+  - L'exposition énergétique avec danger lié aux ultraviolets est exprimée en joule
+    par mètre carré (J·m^−2^).
+  reviewDecisionEvent: published
+  terms:
+  - designation: exposition énergétique avec danger lié aux ultraviolets
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d57f4c71-2304-5bce-ac03-4c1797e46f44
+status: valid

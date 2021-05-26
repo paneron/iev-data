@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-02
+      original: 705-03-02 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: 'scalar or tensor quantity the product of which by the electric field
+    strength `*E*` in a medium is equal to the electric flux density `*D*`: `*D*`
+    = `ε *E*`'
+  examples: []
+  id: 121-12-12
+  language_code: eng
+  notes:
+  - For an isotropic medium the permittivity is a scalar quantity; for an anisotropic
+    medium it is a tensor quantity.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (absolute) permittivity
+    normative_status: preferred
+    type: expression
+  - designation: '`ε`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 1d4ebac9-f910-50b2-bff5-55da99a10457
+status: valid

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: espérance mathématique du temps de fonctionnement avant la première
+    défaillance
+  examples: []
+  id: 192-05-12
+  language_code: fra
+  notes:
+  - Voir aussi temps de fonctionnement avant la première défaillance ({{192-05-02,
+    IEV:192-05-02}}).
+  - Pour des entités non réparables, la durée moyenne de fonctionnement avant la première
+    défaillance est égale à la durée moyenne de fonctionnement avant défaillance.
+  reviewDecisionEvent: published
+  terms:
+  - designation: durée moyenne de fonctionnement avant la première défaillance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée moyenne avant la première défaillance
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6fad5cc6-d526-5cf7-8431-3056565fc256
+status: valid

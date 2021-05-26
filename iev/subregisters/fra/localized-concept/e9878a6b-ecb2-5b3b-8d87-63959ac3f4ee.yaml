@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: distorsion non linéaire caractérisée par la génération de composantes
+    spectrales indésirables liées de manière harmonique à la fréquence du signal souhaitée
+  examples: []
+  id: 561-03-12
+  language_code: fra
+  notes:
+  - En règle générale, chaque composante harmonique est exprimée comme une puissance
+    (en décibels) par rapport à la puissance de sortie du signal souhaité.
+  reviewDecisionEvent: published
+  terms:
+  - designation: distorsion harmonique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un oscillateur
+dateAccepted: 2018-11-17
+id: e9878a6b-ecb2-5b3b-8d87-63959ac3f4ee
+status: valid

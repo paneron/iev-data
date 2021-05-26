@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: maximum current (peak AC or DC) for the intrinsically safe connection
+    facilities of the apparatus, that can be taken from external circuits connected
+    to the connection facilities of apparatus without invalidating intrinsic safety
+  examples: []
+  id: 426-11-17
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum input current
+    normative_status: preferred
+    type: expression
+  - designation: '`I`~i~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: de25ddb4-53e7-56ae-80eb-3a7775e89940
+status: valid

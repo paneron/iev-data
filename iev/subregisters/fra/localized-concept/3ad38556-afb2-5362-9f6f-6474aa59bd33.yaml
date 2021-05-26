@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 2021-01-01
+  definition: partie d'un poste comprenant l'ensemble de l'appareillage d'un circuit
+    donné
+  examples: []
+  id: 605-02-09
+  language_code: fra
+  notes:
+  - Selon le type de circuit concerné, un poste peut comprendre des cellules de lignes,
+    des cellules de transformateurs, des cellules de couplage de barres, etc.
+  reviewDate: 2021-01-01
+  reviewDecisionDate: 2021-01-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: cellule (d'un poste)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: travée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: champ
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 3ad38556-afb2-5362-9f6f-6474aa59bd33
+status: valid

@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: caractère ou combinaison de caractères représentant une {{grandeur,
+    IEV:112-01-01}}
+  examples: []
+  id: 112-01-03
+  language_code: fra
+  notes:
+  - Les symboles de grandeur simples sont constitués de préférence par une seule lettre,
+    ou dans certains cas par deux lettres, de l'alphabet latin ou grec, et peuvent
+    comprendre des indices inférieurs ou supérieurs ou d'autres signes modificateurs.
+    Les lettres sont imprimées en caractères italiques (penchés), en utilisant de
+    préférence une police avec empattements. Les indices sont imprimés en caractères
+    romains (droits) ou, s'ils désignent des grandeurs, des variables ou des nombres,
+    en caractères italiques (penchés). Voir l'ISO 80000-1  et l'IEC 60027-1 pour plus
+    de détails et pour la combinaison de symboles.
+  - "Des symboles de grandeur normalisés sont donnés dans les Normes internationales\
+    \ ISO 80000, IEC 80000 et IEC 60027. Exemples\n\n<table style=\"width: 384px;\"\
+    \ cellpadding=\"2\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width:\
+    \ 294px;\">\n\n<strong><span>Nom de grandeur</span></strong>\r\n</td>\r\n<td style=\"\
+    width: 70px;\">\n\n<strong><span>Symbole de grandeur</span></strong>\r\n</td>\r\
+    \n</tr>\r\n<tr>\r\n<td style=\"width: 294px;\">\n\ntemps, durée\r\n</td>\r\n<td\
+    \ style=\"width: 70px;\">\n\n`t`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width:\
+    \ 294px;\">\n\nlongueur d'onde\r\n</td>\r\n<td style=\"width: 70px;\">\n\n`λ`\r\
+    \n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 294px;\">\n\nangle solide\r\n</td>\r\
+    \n<td style=\"width: 70px;\">\n\n`Ω`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"\
+    width: 294px;\">\n\nrésistance électrique\r\n</td>\r\n<td style=\"width: 70px;\"\
+    >\n\n`R`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 294px;\">\n\nfacteur\
+    \ de frottement statique\r\n</td>\r\n<td style=\"width: 70px;\">\n\n`µ`~s~\r\n\
+    </td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 294px;\">\n\ndébit-volume\r\n</td>\r\
+    \n<td style=\"width: 70px;\">\n\n`qV`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"\
+    width: 294px;\">\n\n`k`^ème^ force dans un système de forces\r\n</td>\r\n<td style=\"\
+    width: 70px;\">\n\n`Fk`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 294px;\"\
+    >\n\nchamp électrique\r\n</td>\r\n<td style=\"width: 70px;\">\n\n`E`\r\n</td>\r\
+    \n</tr>\r\n<tr>\r\n<td style=\"width: 294px;\">\n\ncomposante `x` du champ électrique\r\
+    \n</td>\r\n<td style=\"width: 70px;\">\n\n`Ex`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td\
+    \ style=\"width: 294px;\">\n\nnombre de Reynolds\r\n</td>\r\n<td style=\"width:\
+    \ 70px;\">\n\n`Re`\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+  reviewDecisionEvent: published
+  terms:
+  - designation: symbole de grandeur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3adb68af-0f29-5079-908f-232942aa1ea8
+status: valid

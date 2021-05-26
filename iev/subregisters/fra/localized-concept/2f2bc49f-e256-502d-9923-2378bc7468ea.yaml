@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: utilisation d'un {{produit, IEV:902-02-03}}, y compris son transport
+    et son stockage, ou d'un processus, conformément aux informations d'utilisation
+    fournies ou, en leur absence, conformément aux modèles d'utilisation généralement
+    admis
+  examples: []
+  id: 871-04-22
+  language_code: fra
+  notes:
+  - Il convient de ne pas confondre utilisation normale et {{utilisation prévue, IEV:871-04-17}}.
+    Alors que les deux termes intègrent la notion d’utilisation prévue par le fabricant,
+    l’utilisation prévue cible le but, tandis que l’utilisation normale comprend non
+    seulement le but, mais également le transport et le stockage.
+  reviewDecisionEvent: published
+  terms:
+  - designation: utilisation normale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2f2bc49f-e256-502d-9923-2378bc7468ea
+status: valid

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: 'functional unit that generates its output variable from the command
+    variable in open-loop control and from the control difference variable in closed-loop
+    control SEE: Figures 1 and 2.'
+  examples: []
+  id: 351-49-04
+  language_code: eng
+  notes:
+  - 'This entry was numbered 351-28-05 in IEC 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig2-en.png[Figure 2 - Functional diagram
+    indicating typical elements of an elementary closed-loop control system]'
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: controlling element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 760ff525-7df7-5d0a-95ba-ebe03a6b5a52
+status: valid

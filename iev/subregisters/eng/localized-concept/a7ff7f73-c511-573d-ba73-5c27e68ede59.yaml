@@ -1,0 +1,34 @@
+data:
+  authoritativeSource:
+  - - clause: '1.20'
+      original: VIM 1.20
+      ref: JCGM VIM
+      relationship:
+        type: identical
+  dateAmended: 2001-07-01
+  definition: value attributed to a particular quantity and accepted, sometimes by
+    convention, as having an uncertainty appropriate for a given purpose
+  examples: []
+  id: 311-01-06
+  language_code: eng
+  notes:
+  - This term is used in the "uncertainty" approach.
+  - The "conventional true value" is sometimes called "assigned value", "best estimate
+    of the value", "conventional value" or "reference value". The term "reference
+    value", in this sense, should not be confused with "reference value" in the sense
+    used in 311-07-01.
+  - Frequently, a large number of results of measurement of a quantity are used to
+    establish a conventional true value.
+  - Traditional definitions, based on the true value approach, treated the conventional
+    true value as a value approximating to a true value of the quantity such that
+    the difference could be neglected for the purposes for which that value was used.
+  reviewDate: 2001-07-01
+  reviewDecisionDate: 2001-07-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: conventional true value (of a quantity)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: a7ff7f73-c511-573d-ba73-5c27e68ede59
+status: valid

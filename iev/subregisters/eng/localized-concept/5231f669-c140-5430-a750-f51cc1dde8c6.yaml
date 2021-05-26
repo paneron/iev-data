@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - - clause: 705-03-15
+      original: 705-03-15 MOD
+      ref: IEV
+      relationship:
+        type: modified
+  dateAmended: 1998-08-01
+  definition: 'scalar or tensor quantity the product of which by the magnetic field
+    strength `*H*` in a medium is equal to the magnetic flux density `*B*` : `*B*`
+    = `μ` `*H*`'
+  examples: []
+  id: 121-12-28
+  language_code: eng
+  notes:
+  - For an isotropic medium the absolute permeability is a scalar; for an anisotropic
+    medium it is a tensor.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: (absolute) permeability
+    normative_status: preferred
+    type: expression
+  - designation: '`μ`'
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 5231f669-c140-5430-a750-f51cc1dde8c6
+status: valid

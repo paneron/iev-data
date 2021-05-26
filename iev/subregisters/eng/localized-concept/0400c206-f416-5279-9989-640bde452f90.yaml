@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - - clause: 2.5.29
+      link: https://webstore.iec.ch/publication/23992
+      original: IEC 62047-1:2016, 2.5.29
+      ref: IEC 62047-1:2016
+      relationship:
+        type: identical
+  classification: Preferred
+  dateAmended: 2018-12-01
+  definition: variation of reactive ion etching (RIE), which can produce high {{aspect-ratio,
+    IEV:523-07-04}} structures with vertical sidewalls
+  examples: []
+  id: 523-05-13
+  language_code: eng
+  notes:
+  - For example, high aspect-ratio structures can be produced by introducing alternately
+    an etching gas and a protective-film-forming gas in reactive ion etching equipment.
+  - This note applies to the French language only.
+  reviewDate: 2018-12-01
+  reviewDecisionDate: 2018-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: deep reactive ion etching
+    normative_status: preferred
+    type: expression
+  - designation: DRIE
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-12-01
+id: 0400c206-f416-5279-9989-640bde452f90
+status: valid

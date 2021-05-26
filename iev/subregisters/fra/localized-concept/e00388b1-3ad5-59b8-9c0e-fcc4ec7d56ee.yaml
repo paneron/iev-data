@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Deprecated
+  definition: détecteur semiconducteur dans lequel la jonction est réalisée par diffusion
+    d'impuretés de type donneur (N) ou accepteur (P)
+  examples: []
+  id: 395-03-37
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-28-03 dans la CEI 60050-394:2007.
+  reviewDecisionEvent: published
+  terms:
+  - designation: détecteur à jonction diffusée
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: semicteur à jonction diffusée
+    gender: m
+    normative_status: deprecated
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e00388b1-3ad5-59b8-9c0e-fcc4ec7d56ee
+status: valid

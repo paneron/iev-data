@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1991-11-01
+  definition: a service signal which indicates that the called station is busy or
+    not available
+  examples: []
+  id: 721-17-68
+  language_code: eng
+  notes: []
+  reviewDate: 1991-11-01
+  reviewDecisionDate: 1991-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: engaged signal
+    normative_status: preferred
+    type: expression
+  - designation: busy signal
+    type: expression
+dateAccepted: 1991-11-01
+id: 90cd4a6b-abb5-5fde-8c9e-6d9f03c24eb0
+status: valid

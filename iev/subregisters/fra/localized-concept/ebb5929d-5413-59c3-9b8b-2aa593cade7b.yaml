@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: durée entre l'instant où la {{grandeur caractéristique, IEV:447-07-01}}
+    d'un {{relais de mesure, IEV:447-01-02}} ou d'un {{équipement de protection, IEV:447-01-49}}
+    à l'{{état de travail, IEV:447-02-01}} est modifiée au-delà de sa {{valeur de
+    dégagement, IEV:447-02-18}}, dans des conditions spécifiées, et l'instant où un
+    {{circuit de sortie de travail, IEV:447-04-08}} spécifié s'ouvre pour la première
+    fois
+  examples: []
+  id: 447-05-03
+  language_code: fra
+  notes: []
+  reviewDecisionEvent: published
+  terms:
+  - designation: temps de rupture d'un circuit de sortie de travail
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ebb5929d-5413-59c3-9b8b-2aa593cade7b
+status: valid

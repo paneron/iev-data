@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: rapport de la résistance à la température ambiante à la résistance résiduelle
+  examples: []
+  id: 815-13-62
+  language_code: fra
+  notes:
+  - La température ambiante est habituellement choisie égale à 273 K, 293 K, 295 K
+    ou 300 K.
+  - 'La résistance résiduelle d''un fil ou composite supraconducteur: on prend comme
+    résistance résiduelle la résistance juste au-dessus de la température critique.'
+  reviewDecisionEvent: published
+  terms:
+  - designation: rapport de résistance résiduelle
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: RRR
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2360a55a-c6f8-5d4c-8a36-088ee0b46f54
+status: valid

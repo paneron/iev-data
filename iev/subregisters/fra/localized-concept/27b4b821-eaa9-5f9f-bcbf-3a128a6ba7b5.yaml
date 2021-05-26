@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1998-08-01
+  definition: constante scalaire `μ`~0~ reliant les grandeurs électromagnétiques et
+    les grandeurs mécaniques, obtenue d'après la relation `(F)/(l) = ((mu_0))/((2
+    pi)) * ((| I_1 I_2 |))/(d)` où `F/l` est la norme de la force linéique s'exerçant
+    entre deux conducteurs parallèles, rectilignes, de longueur infinie, de section
+    circulaire négligeable, placés à une distance `d` l'un de l'autre dans le vide
+    et parcourus par des courants électriques `I`~1~ et `I`~2~
+  examples: []
+  id: 121-11-14
+  language_code: fra
+  notes:
+  - 'Dans le vide, le produit de la constante magnétique par le champ magnétique `*H*`
+    est égal à l''induction magnétique `*B*`:
+
+
+    `*B*` = `μ`~0~`*H*`'
+  - 'La constante magnétique est liée à la constante électrique `ε`~0~ et à la vitesse
+    de la lumière dans le vide `c`~0~ par la relation
+
+
+    `μ`~0~`ε`~0~`c`~0~^2^ = 1'
+  - 'La valeur de la constante magnétique est égale exactement à
+
+
+    4π × 10^−7^ m kg s^−2^ A^−2^ = 1,256 637 061 4... μH/m'
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: constante magnétique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: perméabilité du vide
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 27b4b821-eaa9-5f9f-bcbf-3a128a6ba7b5
+status: valid

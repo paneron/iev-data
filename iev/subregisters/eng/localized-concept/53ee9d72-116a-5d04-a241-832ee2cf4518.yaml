@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: location (in a designated zone of a certain zone rating) for which the
+    light pollution (the sky glow) is assessed
+  examples: []
+  id: 845-29-183
+  language_code: eng
+  notes:
+  - Environmental zones are indicated by a zone rating (E0 … E4) in accordance with
+    CIE 150:2017, _Guide on the Limitation of the Effects of Obtrusive Light from
+    Outdoor Lighting Installations, 2nd Edition_.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: reference location
+    normative_status: preferred
+    type: expression
+    usage_info: for the assessment of light pollution
+  - designation: reference point
+    type: expression
+    usage_info: for the assessment of light pollution
+dateAccepted: 2020-12-01
+id: 53ee9d72-116a-5d04-a241-832ee2cf4518
+status: valid

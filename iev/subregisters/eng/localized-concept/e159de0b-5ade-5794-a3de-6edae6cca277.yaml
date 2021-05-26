@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-03-01
+  definition: maximum value of the ratio inductance (`L`~c~) to resistance (`R`~c~)
+    of the interconnecting cable that can be connected into an intrinsically safe
+    circuit without invalidating intrinsic safety
+  examples: []
+  id: 426-11-39
+  language_code: eng
+  notes: []
+  reviewDate: 2020-03-01
+  reviewDecisionDate: 2020-03-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: maximum cable inductance to resistance ratio
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~c~ / `R`~c~'
+    international: true
+    type: symbol
+dateAccepted: 2020-03-01
+id: e159de0b-5ade-5794-a3de-6edae6cca277
+status: valid

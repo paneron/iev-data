@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: mesure de la stabilité de fréquence dans le domaine de fréquence
+  examples: []
+  id: 561-03-31
+  language_code: fra
+  notes:
+  - La pureté spectrale est en général représentée par le spectre de puissance du
+    bruit latéral du signal, exprimée en décibels, par rapport à la puissance totale
+    du signal, par largeur de bande hertzienne. Cette pureté spectrale comprend la
+    puissance acoustique non déterministe, les composantes de distorsion harmonique
+    et les interférences de fréquence parasite.
+  reviewDecisionEvent: published
+  terms:
+  - designation: pureté spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 21a9b29d-de45-51a4-b46e-e59440ffaabc
+status: valid

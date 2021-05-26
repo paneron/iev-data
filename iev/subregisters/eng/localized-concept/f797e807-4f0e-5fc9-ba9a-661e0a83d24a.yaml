@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2017-12-01
+  definition: sum of {{equivalent peak interruption durations, IEV:692-11-03}} in
+    a given time interval
+  examples: []
+  id: 692-11-04
+  language_code: eng
+  notes:
+  - If the {{expected energy not supplied, IEV:692-11-01}} is expressed in megawatt-minutes,
+    and the annual peak load in megawatts, this index is often referred to as "aggregate
+    system-minutes".
+  - This entry was numbered 191-30-04 in IEC 60050-191:1990.
+  reviewDate: 2017-12-01
+  reviewDecisionDate: 2017-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: aggregate equivalent peak interruption duration
+    normative_status: preferred
+    type: expression
+    usage_info: of an electric power system
+dateAccepted: 2017-12-01
+id: f797e807-4f0e-5fc9-ba9a-661e0a83d24a
+status: valid

@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2020-12-01
+  definition: quotient of blue light hazard weighted radiant flux and radiant flux
+    `eta_B = ((int Phi_((e , lambda)) ( lambda ) B ( lambda ) d lambda))/((int Phi_((e
+    , lambda)) ( lambda ) d lambda))`
+  examples: []
+  id: 845-26-063
+  language_code: eng
+  notes:
+  - The blue light hazard efficiency of radiation, `η`~B~, is related to the blue
+    light hazard efficacy of luminous radiation, `K`~B,v~, through `η`~B~ = `K·K`~B,v~,
+    where `K` is luminous efficacy of radiation, and to the blue light hazard factor
+    of luminous radiation, `α`~B,v~, through `η`~B~ = `V·α`~B,v~, where `V` is luminous
+    efficiency of radiation.
+  - For some applications it might be necessary to state both blue light hazard efficiency
+    of radiation, `η`~B~, and blue light hazard efficacy of luminous radiation, `K`~B,v~.
+  - The blue light hazard efficiency of radiation has unit one.
+  reviewDate: 2020-12-01
+  reviewDecisionDate: 2020-12-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: blue light hazard efficiency of radiation
+    normative_status: preferred
+    type: expression
+  - designation: '`η`~B~'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: bd6fac7e-fcc7-59b7-869f-ddda957bef3f
+status: valid

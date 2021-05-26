@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2010-10-01
+  definition: time relay in which the time delay starts when applying the power supply;
+    the output momentarily switches for an interval to the operate condition after
+    the time delay has elapsed (see Figure 8) image::/assets/images/parts/445/445-01-11en.gif[]
+  examples: []
+  id: 445-01-11
+  language_code: eng
+  notes:
+  - – Manufacturer should specify if interval is fixed or variable.
+  reviewDate: 2010-10-01
+  reviewDecisionDate: 2010-10-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: pulse delayed relay
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-01
+id: 183e11fa-799c-59f4-9072-af7687ee634e
+status: valid

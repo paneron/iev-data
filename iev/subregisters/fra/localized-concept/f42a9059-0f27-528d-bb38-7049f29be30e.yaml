@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: pour une grandeur sinusoïdale `a ( t ) = hat A cos ( omega t + vartheta_0
+    )`, grandeur complexe `underset(_)(a) ( t ) = hat A cos ( omega t + vartheta_0
+    ) + j s i n ( omega t + vartheta_0 ) = hat A exp j ( omega t + vartheta_0 ) =
+    hat A exp ( j omega t ) exp ( j vartheta_0 )` où j est l'unité imaginaire, `hat
+    A` est l'amplitude complexe, `omega` est la pulsation et `vartheta_0` est la phase
+    à l'origine
+  examples: []
+  id: 103-07-12
+  language_code: fra
+  notes:
+  - La valeur instantanée de la grandeur est la partie réelle de la représentation
+    complexe.
+  reviewDecisionEvent: published
+  terms:
+  - designation: valeur instantanée complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: phaseur tournant
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: représentation complexe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d'une grandeur sinusoïdale
+dateAccepted: 2018-11-17
+id: f42a9059-0f27-528d-bb38-7049f29be30e
+status: valid

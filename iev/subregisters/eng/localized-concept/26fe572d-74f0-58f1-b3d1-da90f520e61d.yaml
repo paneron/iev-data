@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2013-11-01
+  definition: functional unit that generates the value of its output variable by extracting
+    the root of the value of its input variable and multiplying the square root by
+    a constant weighting factor according to the formula `v ( t ) = K * sqrt(u ( t
+    ))` where<table> <tr> <td>`t`</td> <td>is the time;</td> </tr> <tr> <td> `u`(`t`)</td>
+    <td>is the input variable;</td> </tr> <tr> <td>`K`</td> <td>is the weighting factor;</td>
+    </tr> <tr> <td> `v`(`t`)</td> <td>is the output variable.</td> </tr> </table>
+  examples: []
+  id: 351-50-36
+  language_code: eng
+  notes:
+  - This entry was numbered 351-32-20 in IEC 60050-351:2006.
+  reviewDate: 2013-11-01
+  reviewDecisionDate: 2013-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: square-root element
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 26fe572d-74f0-58f1-b3d1-da90f520e61d
+status: valid

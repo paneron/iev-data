@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2015-02-01
+  definition: average value of the instantaneous failure intensity over a given time
+    interval (`t`~1~, `t`~2~)
+  examples: []
+  id: 192-05-09
+  language_code: eng
+  notes:
+  - 'The mean failure intensity is related to instantaneous failure intensity `z`(`t`)
+    as follows:
+
+
+    `bar z ( t_1 , t_2 ) = (1)/((t_2 - t_1)) int_( t_1)^( t_2) z ( t ) d t`'
+  reviewDate: 2015-02-01
+  reviewDecisionDate: 2015-02-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: mean failure intensity
+    normative_status: preferred
+    type: expression
+  - designation: '`bar z ( t_1 , t_2 )`'
+    international: true
+    type: symbol
+dateAccepted: 2015-02-01
+id: c49f743c-d59a-5403-a4ac-3ebd516646c8
+status: valid

@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-11-01
+  definition: phase/neutral or phase/phase voltage value assigned to the connecting
+    device by the manufacturer, this device being intended to be used in installations,
+    the voltage supply of which does not exceed the rated insulation voltage of the
+    connecting device itself
+  examples: []
+  id: 442-06-39
+  language_code: eng
+  notes:
+  - Rated insulation voltage is always understood to be between live parts and not
+    between live parts and earth (ground).
+  reviewDate: 1998-11-01
+  reviewDecisionDate: 1998-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: rated insulation voltage
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-11-01
+id: 5538a19d-8cf1-5565-9ed1-675b7090bcf0
+status: valid

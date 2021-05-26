@@ -1,0 +1,35 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  dateAmended: 1992-11-01
+  definition: ensemble d'organes de commutation et d'organes auxiliaires situé en
+    un noeud d'un réseau téléphonique, grâce auquel des chaînes de connexion peuvent
+    être établies selon les besoins des usagers
+  examples: []
+  id: 722-07-01
+  language_code: fra
+  notes:
+  - Le terme français "commutateur" est, au sens strict, la plus petite entité de
+    commutation pourvue par son réseau de commande d'une autonomie de fonctionnement.
+    En ce sens, un commutateur local est défini par une séquence déterminée de chiffres
+    commune à tous ses numéros d'abonnés. Le terme anglais correspondant est "switching
+    entity". Le terme "central" est parfois ambigu car il correspond tantôt à un "commutateur",
+    tantôt à un "centre de commutation".
+  reviewDate: 1992-11-01
+  reviewDecisionDate: 1992-11-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: commutateur
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: central
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 18ea1452-0360-5aa9-b4d9-925bc0188801
+status: valid

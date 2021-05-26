@@ -1,0 +1,46 @@
+data:
+  authoritativeSource:
+  - - clause: 3.7.16
+      link: https://webstore.iec.ch/publication/5585
+      original: CEI 61558-1:2005, 3.7.16 MOD
+      ref: IEC 61558-1:2005
+      relationship:
+        type: modified
+  classification: Preferred
+  dateAmended: 2008-06-01
+  definition: tension n'excédant pas 50 V en courant alternative ou 120 V en courant
+    continu lissé entre conducteurs ou entre un conducteur quelconque et la terre
+    dans un circuit dont la séparation du réseau d'alimentation est assurée par des
+    moyens tels qu'un transformateur de sécurité
+  examples: []
+  id: 851-15-08
+  language_code: fra
+  notes:
+  - Une tension maximale inférieure à 50 V en courant alternatif ou 120 V en courant
+    continu lissé peut être spécifiée dans des règles particulières, plus spécialement
+    lorsque le contact direct avec des parties actives est possible.
+  - Lorsque la source est un transformateur de sécurité, il convient que la limite
+    de tension ne soit pas dépassée à toute charge comprise entre la pleine charge
+    et à vide.
+  - '"Lissé" se dit par convention d''une tension en courant continu lorsque le rapport
+    de la valeur efficace de l''ondulation à la composante continue ne dépasse pas
+    10 %. La valeur de crête maximale ne dépasse pas 140 V pour un système en courant
+    continu lissé de tension nominale 120 V et 70 V pour un système en courant continu
+    lissé de tension nominale 60 V.'
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Très Basse Tension de Sécurité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: TBTS
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: a987f0e6-e36f-5def-becb-06ddb1c72e8b
+status: valid

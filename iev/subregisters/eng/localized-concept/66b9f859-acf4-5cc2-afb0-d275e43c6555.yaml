@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 1998-08-01
+  definition: law giving the force between two charged particles, expressed by the
+    relation `F_((12)) = k * ((Q_1 Q_2))/((r^2)) * ((r_((21))))/(r) = k * ((Q_1 Q_2))/((r^2))
+    * e_((21))` where `*F*`~12~ is the force exerted on the particle with electric
+    charge `Q`~1~ by the particle with electric charge `Q`~2~ , `k` a positive constant,
+    `*r*`~21~ the vector from the particle with electric charge `Q`~2~ to the particle
+    with electric charge `Q`~1~, `r` = |`*r*`~21~| the distance between particles
+    and `*e*`~21~ the unit vector `*r*`~21~/`r`
+  examples: []
+  id: 121-11-02
+  language_code: eng
+  notes:
+  - In vacuum the constant `k` is equal to 1/4π`ε`~0~ where `ε`~0~ is the electric
+    constant.
+  reviewDate: 1998-08-01
+  reviewDecisionDate: 1998-08-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: Coulomb's law
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-08-01
+id: 66b9f859-acf4-5cc2-afb0-d275e43c6555
+status: valid

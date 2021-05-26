@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  dateAmended: 2008-06-01
+  definition: disturbance which exceeds the limit of continuous disturbance no longer
+    than 200 ms and which is separated from a subsequent disturbance by at least 200
+    ms
+  examples: []
+  id: 851-15-13
+  language_code: eng
+  notes:
+  - Both intervals are related to the level of the limit of continuous disturbance.
+  - A click may contain a number of impulses, in which case the relevant time is that
+    from the beginning of the first to the end of the last impulse.
+  reviewDate: 2008-06-01
+  reviewDecisionDate: 2008-06-01
+  reviewDecisionEvent: published
+  terms:
+  - designation: click
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: a07e7972-1cc3-5d02-9497-75d63c50c081
+status: valid
